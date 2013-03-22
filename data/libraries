@@ -1,1 +1,1191 @@
-/home/ockerblo/ftl/libraries
+# Libraries data file for Forward to Libraries Service
+# Ed. by John Mark Ockerbloom, University of Pennsylvania
+#  (contact details at everybodyslibraries.com)
+# This data file released to the world as CC0
+#   (though appropriate attribution appreciated)
+# See docs file for documentation, cattype file for general catalog data
+# Last updated 2013-03-22
+
+ID OLBP
+NAME The Online Books Page
+COUNTRY 00
+LOCATION Catalog of online books freely readable worldwide
+BASEURL http://onlinebooks.library.upenn.edu/webbin/book
+SOURCE library.upenn.edu/webbin/book|library.upenn.edu/webbin/serial|library.upenn.edu/webbin/work|library.upenn.edu/webbin/nbook
+SUBURL ${BASEURL}/browse?type=lcsubc&key=${ARG:N}
+AUTURL ${BASEURL}/lookupname?key=${ARG:N}
+TITURL ${BASEURL}/search?title=${ARG:N}&tmode=start
+ATIURL ${BASEURL}/search?author=${AUTHOR:SN}&amode=start&title=${TITLE:NA}&tmode=start&c=x
+
+ID OCLC-WCDGL
+NAME Worldcat.org
+COUNTRY 00
+LOCATION Union catalog of more than 10,000 libraries worldwide
+BASEURL http://www.worldcat.org/search
+CATTYPE worldcat
+
+ID WKPD
+NAME Wikipedia
+COUNTRY SUPPRESS
+SOURCE wikipedia.org
+
+ID EUROPEANA
+NAME Europeana Portal
+COUNTRY 00
+LOCATION Millions of free online cultural resources from European institutions
+BASEURL http://www.europeana.eu/portal
+AUTURL ${BASEURL}/search.html?query=who:${ARG:S}
+KEYURL ${BASEURL}/search.html?query=${ARG:NK}
+
+ID AU-VLU
+NAME La Trobe University
+LOCATION Melbourne and other campuses, Victoria
+COUNTRY AU
+CATTYPE summon
+BASEURL http://latrobe.summon.serialssolutions.com
+
+ID AU-NMQU 
+NAME Macquarie University
+LOCATION Sydney, New South Wales
+COUNTRY AU
+CATTYPE primo
+BASEURL http://macquarie-primo.hosted.exlibrisgroup.com/primo_library
+VID MQ
+
+ID AU-QSL
+NAME State Library of Queensland
+LOCATION Brisbane, Queensland
+COUNTRY AU
+CATTYPE primo
+BASEURL http://onesearch.slq.qld.gov.au/primo_library
+VID SLQ
+
+ID AU-WLB
+NAME State Library of Western Australia
+LOCATION Perth, Western Australia
+COUNTRY AU
+BASEURL http://catalogue.slwa.wa.gov.au
+CATTYPE innopac
+
+ID OCLC-NOVAN
+NAME Novanet Consortium
+LOCATION Academic libraries in Nova Scotia
+COUNTRY CA
+CATTYPE aleph1
+BASEURL http://aleph1.novanet.ns.ca
+TINDEX WTI
+
+ID OCLC-CNOPL
+NAME Oshawa Public Libraries
+LOCATION Oshawa, Ontario
+COUNTRY CA
+CATTYPE sirsient
+BASEURL http://cco.ent.sirsidynix.net
+
+ID AU-VBAX
+NAME University of Ballarat
+LOCATION Ballarat, Victoria
+COUNTRY AU
+BASEURL http://innopac.ballarat.edu.au
+CATTYPE innopac
+
+ID OCLC-UAU
+NAME University of Calgary
+LOCATION Calgary, Alberta
+COUNTRY CA
+BASEURL http://webapps2.ucalgary.ca/~lcrtest
+KEYURL ${BASEURL}/search/index.php?q=${ARG}
+
+ID OCLC-8UB
+NAME University of British Columbia Library
+LOCATION Vancouver and Kelowna, British Columbia
+COUNTRY CA
+CATTYPE summon
+BASEURL http://ubc.summon.serialssolutions.com
+
+ID OCLC-VT2
+NAME University of Victoria Libraries
+LOCATION Victoria, British Columbia
+COUNTRY CA
+CATTYPE summon
+BASEURL http://uvic.summon.serialssolutions.com
+
+ID OCLC-UWW
+NAME University of Waterloo
+LOCATION Waterloo, Ontario
+COUNTRY CA
+CATTYPE primo
+BASEURL http://primo.tug-libraries.on.ca/primo_library
+VID WATERLOO
+DEFAULT http://www.lib.uwaterloo.ca/
+
+ID OCLC-CWI
+NAME University of Windsor, Leddy Library
+LOCATION Windsor, Ontario
+COUNTRY CA
+BASEURL http://windsor.concat.ca/eg/opac
+CATTYPE evergreen-dynamic
+
+ID OCLC-VP@
+NAME Vancouver Public Library
+LOCATION Vancouver, British Columbia
+COUNTRY CA
+CATTYPE bibliocommons
+BASEURL http://vpl.bibliocommons.com
+
+ID OCLC-W2U
+NAME Wilfrid Laurier University
+LOCATION Waterloo, Ontario
+COUNTRY CA
+CATTYPE primo
+BASEURL http://primo.tug-libraries.on.ca/primo_library
+VID LAURIER
+DEFAULT http://library.wlu.ca/
+
+ID OCLC-YOU
+NAME York University Libraries
+LOCATION Toronto, Ontario
+COUNTRY CA
+BASEURL https://www.library.yorku.ca/find
+CATTYPE vufind
+
+ID OCLC-CN4WZ
+NAME Yukon College Library
+LOCATION Whitehorse, Yukon
+COUNTRY CA
+CATTYPE tlc
+BASEURL http://yclibw.yukoncollege.yk.ca/
+
+ID OCLC-IEUOL
+NAME University of Limerick
+LOCATION Limerick
+COUNTRY IE
+BASEURL http://ul.summon.serialssolutions.com
+CATTYPE summon
+
+ID OCLC-SINTU
+NAME Nanyang Technological University
+LOCATION Singapore
+COUNTRY SG
+CATTYPE sirsi
+BASEURL http://opac3.ntu.edu.sg/uhtbin/cgisirsi
+
+ID OCLC-7F1
+NAME National Library Board (SearchPlus)
+LOCATION Various public libraries in Singapore
+COUNTRY SG
+CATTYPE primo
+BASEURL http://searchplus.nlb.gov.sg/primo_library
+VID SEARCHPLUS
+
+ID OCLC-SINUS
+NAME National University of Singapore Libraries
+LOCATION Singapore
+COUNTRY SG
+CATTYPE summon
+BASEURL http://nus.summon.serialssolutions.com
+
+ID OCLC-MG-DOLLAR
+NAME Singapore Institute of Management
+LOCATION Singapore
+COUNTRY SG
+CATTYPE spydus
+BASEURL http://aries.sim.edu.sg
+
+ID OCLC-SISMU
+NAME Singapore Management University
+LOCATION Singapore
+COUNTRY SG
+BASEURL http://catalogue.library.smu.edu.sg
+CATTYPE webpacpro
+
+ID OCLC-AU-SHARP
+NAME Anglia Ruskin University
+LOCATION Cambridge, Chelmsford, and Peterborough, England
+COUNTRY UK
+CATTYPE primo
+BASEURL http://primo.anglia.ac.uk/primo_library
+VID ANG_VU1
+DEFAULT http://libweb.anglia.ac.uk/
+
+ID OCLC-RDF
+NAME Cardiff University and NHS Wales Libraries
+LOCATION Cardiff and elsewhere in Wales
+COUNTRY UK
+CATTYPE primo
+BASEURL http://librarysearch.cf.ac.uk/primo_library
+VID CARDIFF_V1
+
+ID OCLC-EQK
+NAME Cranfield University
+LOCATION Bedfordshire, England
+COUNTRY UK
+CATTYPE sirsi
+BASEURL http://unicorn.dmz.cranfield.ac.uk/uhtbin/cgisirsi
+
+ID OCLC-UKMTU
+NAME De Montfort University
+LOCATION Leicester, England
+COUNTRY UK
+CATTYPE prism
+BASEURL http://prism1.library.dmu.ac.uk
+
+ID OCLC-CUD
+NAME Cambridge University Library
+LOCATION Cambridge, England
+COUNTRY UK
+CATTYPE summon
+BASEURL http://cam.summon.serialssolutions.com
+
+ID OCLC-UK4ZN
+NAME Staffordshire University Library
+LOCATION Stoke on Trent and other campuses, England
+COUNTRY UK
+CATTYPE summon
+BASEURL http://staffs.summon.serialssolutions.com
+
+ID OCLC-U8H
+NAME University of Huddersfield
+LOCATION Huddersfield, Barnsley, and Oldham, England
+COUNTRY UK
+CATTYPE summon
+BASEURL http://hud.summon.serialssolutions.com
+
+ID OCLC-UKHLL
+NAME University of Hull
+LOCATION Hull, England
+COUNTRY UK
+BASEURL http://library.hull.ac.uk
+CATTYPE innopac
+
+ID OCLC-UKUAL
+NAME University of the Arts London
+LOCATION London, England
+COUNTRY UK
+CATTYPE summon
+BASEURL http://arts.summon.serialssolutions.com
+
+ID OCLC-UKTBL
+NAME University of Wales Trinity Saint David
+LOCATION Carmarthen, Wales, and other campuses
+COUNTRY UK
+BASEURL http://tsd-c.worldcat.org/search
+CATTYPE worldcat
+
+ID OCLC-U3W
+NAME University of Warwick
+LOCATION Coventry, England
+COUNTRY UK
+CATTYPE encore
+BASEURL http://encore.lib.warwick.ac.uk/iii/encore
+
+ID OCLC-LDP
+NAME University of Westminster
+LOCATION London, England
+COUNTRY UK
+CATTYPE primo
+BASEURL http://library-collections-search.westminster.ac.uk/primo_library
+VID WST_VU1
+
+# Can't fina a WorldCat registry ID for this; use my own
+ID OLB-MONTGOMERY
+NAME Montgomery City-County Public Library
+LOCATION Montgomery
+STATE AL
+BASEURL http://mccp.sirsi.net/uhtbin/cgisirsi
+CATTYPE sirsi
+
+ID OCLC-Q2L
+NAME Juneau Public Libraries
+LOCATION Juneau
+STATE AK
+BASEURL http://www.ccl.lib.ak.us/uhtbin/cgisirsi.exe
+CATTYPE sirsi
+
+ID OCLC-AZH
+NAME Flagstaff City-Coconino County Public Library
+LOCATION Flagstaff
+STATE AZ
+BASEURL http://www.flagstaffpubliclibrary.org/uhtbin/cgisirsi/
+CATTYPE sirsi
+
+ID OCLC-8AK
+NAME Central Arkansas Library System
+LOCATION Little Rock; Pulaski and Perry counties
+STATE AR
+BASEURL http://encore.cals.lib.ar.us/iii/encore
+CATTYPE encore
+
+ID OCLC-JQF
+NAME Berkeley Public Library
+LOCATION Berkeley
+STATE CA
+BASEURL http://encore.berkeley-public.org/iii/encore
+CATTYPE encore
+
+ID OCLC-CPS
+NAME California Polytechnic State University
+LOCATION San Luis Obispo
+STATE CA
+BASEURL http://find.lib.calpoly.edu/articles
+CATTYPE xerxes
+
+ID OCLC-CVL
+NAME Chula Vista Public Library
+LOCATION Chula Vista
+STATE CA
+CATTYPE encorekey
+BASEURL http://encore.chulavista.lib.ca.us/iii/encore
+SKIN def
+
+ID OCLC-1LP
+NAME Los Angeles Public Library
+LOCATION Los Angeles
+STATE CA
+BASEURL http://ls2pac.lapl.org/
+CATTYPE ls2pac
+FILTERS S
+
+ID OCLC-SFR
+NAME San Francisco Public Library
+LOCATION San Francisco
+STATE CA
+BASEURL http://sflib1.sfpl.org
+CATTYPE webpacpro
+
+ID OCLC-JTW
+NAME San Leandro Public Library
+LOCATION San Leandro
+STATE CA
+BASEURL http://www.library.sanleandro.org
+CATTYPE ipac20
+PROFILE m
+AINDEX PAUTHOR
+TINDEX ALLTITL
+
+ID OCLC-STF
+NAME Stanford University Libraries
+LOCATION Stanford
+STATE CA
+BASEURL http://searchworks.stanford.edu
+CATTYPE blacklight
+
+ID OCLC-COD
+NAME University of Colorado at Boulder
+LOCATION Boulder
+STATE CO
+CATTYPE encore
+SKIN cobalt
+BASEURL http://encore.colorado.edu/iii/encore
+
+ID OCLC-CZL
+NAME CONSULS
+LOCATION CT State Library; and Central, Eastern, Southern, and Western CT State Universities
+STATE CT
+CATTYPE webpacpro
+BASEURL http://www.consuls.org/
+
+ID OCLC-HPJ
+NAME Hartford Public Library
+LOCATION Hartford
+STATE CT
+CATTYPE encorehosted
+BASEURL http://hplct.iii.com/
+
+ID OCLC-DWA
+NAME Delaware Library Catalog
+LOCATION Public libraries statewide
+STATE DE
+CATTYPE sirsient
+BASEURL http://dlc.lib.de.us
+
+ID OCLC-NO5
+NAME University of Delaware Library
+LOCATION Newark
+STATE DE
+BASEURL http://udel.worldcat.org/search
+CATTYPE worldcat
+
+ID OCLC-DAW
+NAME District of Columbia Public Library
+LOCATION Washington
+STATE DC
+BASEURL https://catalog.dclibrary.org/vufind
+FILTERS N
+CATTYPE vufind
+
+ID OCLC-1DL
+NAME Library of Congress
+LOCATION Washington
+STATE DC
+BASEURL http://catalog.loc.gov/cgi-bin/Pwebrecon.cgi
+CATTYPE voyager
+
+ID OCLC-TNH
+NAME Hillsborough County Public Library Cooperative
+LOCATION Tampa and vicinity
+STATE FL
+CATTYPE ipac20
+BASEURL http://ipac.hcplc.org
+AINDEX .AW
+TINDEX .TW
+SINDEX .SW
+
+ID OCLC-FN2
+NAME Indian River County Library System
+LOCATION Vero Beach and vicinity
+STATE FL
+BASEURL http://catalog.irclibrary.org/polaris
+CATTYPE polaris
+
+ID OCLC-DZM
+NAME Miami-Dade Public Library System
+LOCATION Miami
+STATE FL
+BASEURL http://catalog.mdpls.org
+CATTYPE polaris
+
+# first search works; second search re-homes to Penn; not what I want
+# ID OCLC-1FH
+# NAME University of South Florida
+# LOCATION Tampa
+# STATE FL
+# BASEURL http://search.ebscohost.com/login.aspx?mode=and&cli0=FT1&amp;clv0=Y&direct=true&scope=site&site=eds-live&profile=eds&authtype=ip,guest&custid=s3654090&groupid=main&cli0=FT1&clv0=Y&cli1=RV&clv1=N&cli2=FC&clv2=N&cli3=FC1&clv3=N&
+# CATTYPE eds
+
+ID OCLC-GRA
+NAME Athens-Clarke County Library
+LOCATION Athens
+STATE GA
+BASEURL http://gapines.org/opac/en-US
+CATTYPE evergreen
+LCODE 7
+
+ID OCLC-HUH
+NAME University of Hawaii at Manoa
+LOCATION Honolulu
+STATE HI
+CATTYPE primo
+BASEURL http://uhawaii-primo.hosted.exlibrisgroup.com/primo_library
+VID OUZ
+DEFAULT http://manoa.hawaii.edu/libraries/
+
+ID OCLC-NTD
+NAME University of Idaho Library
+LOCATION Moscow, and other campuses
+STATE ID
+BASEURL http://uidaho.worldcat.org/search
+CATTYPE worldcat
+
+ID OCLC-ILAPL
+NAME Aurora Public Library
+LOCATION Aurora
+STATE IL
+BASEURL https://catalog.aurorapubliclibrary.org:8443/
+CATTYPE ls2pac-aurora
+
+ID OCLC-IKG
+NAME Champaign Public Library and Urbana Free Library
+LOCATION Champaign-Urbana
+STATE IL
+BASEURL http://cucatalog.org/polaris
+CATTYPE polaris
+
+ID OCLC-CGP
+NAME Chicago Public Library
+LOCATION Chicago
+STATE IL
+BASEURL http://www.chipublib.org
+SUBURL ${BASEURL}/search/results?advancedSearch=submitted&subject=${ARG:N}
+AUTURL ${BASEURL}/search/results?searchType=Author&terms=${ARG:SN}
+TITURL ${BASEURL}/search/results?searchType=Title&terms=${ARG:A}
+# KEYURL ${BASEURL}/search/results?searchType=keyword&terms=${ARG}
+# AUTURL ${BASEURL}/search/results?searchType=Author&terms=${ARG:I}
+
+ID OCLC-CODUP
+NAME College of DuPage
+LOCATION Glen Ellyn
+STATE IL
+BASEURL http://lrc.cod.edu
+CATTYPE innopac
+
+ID OCLC-IHX
+NAME Resource Sharing Alliance (RSA)
+LOCATION Libraries in west central Illinois
+STATE IL
+CATTYPE sirsient
+BASEURL http://alsi.sdp.sirsi.net
+
+ID OCLC-IAY
+NAME University of Illinois-Chicago Library
+LOCATION Chicago
+STATE IL
+BASEURL http://vufind.carli.illinois.edu/vf-uic
+CATTYPE vufindrc1
+
+ID OCLC-UIU
+NAME University of Illinois Urbana-Champaign Library
+LOCATION Urbana-Champaign
+STATE IL
+BASEURL http://search.grainger.uiuc.edu
+AUTURL ${BASEURL}/searchaid2/saresultsug.asp?typeofsearch=author&s2=direct&project=gateway&selection=gen&selection=opac&selection=web&scharg=${ARG:N}&searchbutton=Go
+TITURL ${BASEURL}/searchaid2/saresultsug.asp?typeofsearch=tiwords&s2=direct&project=gateway&selection=gen&selection=opac&selection=web&scharg=${ARG:N}&searchbutton=Go
+KEYURL ${BASEURL}/searchaid2/saresultsug.asp?keyword=${ARG:N}&s2=direct&project=gateway&selection=gen&selection=opac&selection=web&searchbutton=Go
+
+ID OCLC-IAO
+NAME Northeastern Illinois University (NEIU)
+LOCATION Chicago
+STATE IL
+BASEURL http://vufind.carli.illinois.edu/vf-nei
+CATTYPE vufindrc1
+
+ID OCLC-INU
+NAME Northwestern University Libraries
+LOCATION Evanston
+STATE IL
+BASEURL http://search.library.northwestern.edu/primo_library
+CATTYPE primo
+DEFAULT DOMAIN
+
+ID OCLC-B3D
+NAME Bondurant Community Library
+LOCATION Bondurant
+STATE IA
+CATTYPE apollo
+BASEURL http://bondurant.biblionix.com/
+FILTERS S
+
+ID OCLC-IWA
+NAME Iowa State University
+LOCATION Ames
+STATE IA
+CATTYPE primo
+BASEURL http://mars.lib.iastate.edu:1701/primo_library
+VID ISU0
+
+ID OCLC-UK0
+NAME University of Iowa Libraries
+LOCATION Iowa City
+STATE IA
+CATTYPE primo
+BASEURL http://smartsearch.uiowa.edu/primo_library
+VID uiowa
+
+ID OCLC-IOU
+NAME Des Moines Public Library
+LOCATION Des Moines
+STATE IA
+BASEURL http://libhip.desmoineslibrary.com
+CATTYPE ipac20
+PROFILE ce
+AINDEX PZAUTH
+TINDEX PALLTI
+
+ID OCLC-IND
+NAME Hesburgh Libraries, University of Notre Dame
+LOCATION Notre Dame
+STATE IN
+CATTYPE primo
+BASEURL http://onesearch.library.nd.edu/primo_library
+VID OUZ
+
+ID OCLC-1IU
+NAME Indiana University Libraries
+LOCATION Bloomington, and other campuses
+STATE IN
+BASEURL http://www.iucat.iu.edu/uhtbin/cgisirsi
+CATTYPE sirsi
+# this beta doesn't seem to work quite right yet
+# BASEURL http://new.iucat.iu.edu/catalog
+# CATTYPE blacklight
+
+ID OCLC-KCE
+NAME Kenton County Public Library
+LOCATION Kenton County
+STATE KY
+BASEURL http://catalog.kentonlibrary.org/eg/opac
+CATTYPE evergreen-dynamic
+
+ID OCLC-KLP
+NAME Louisville Free Public Library
+LOCATION Louisville
+STATE KY
+BASEURL http://pac.lfpl.org/polaris
+CATTYPE polaris
+
+ID OCLC-KTP
+NAME Topeka and Shawnee County Public Library
+LOCATION Topeka
+STATE KS
+BASEURL http://catalog.tscpl.org/polaris
+CATTYPE polaris
+
+ID OCLC-LNC
+NAME New Orleans Public Library
+LOCATION New Orleans
+STATE LA
+BASEURL http://ipac.neworleanspubliclibrary.org/polaris
+CATTYPE polaris
+
+ID MAINECAT
+NAME MaineCat
+LOCATION Statewide library catalog
+STATE ME
+BASEURL http://mainecat.maine.edu
+CATTYPE webpacpro
+FILTERS N
+
+ID OCLC-PPN
+NAME Portland Public Library
+LOCATION Portland
+STATE ME
+BASEURL http://catalog.portland.lib.me.us
+CATTYPE webpacpro
+FILTERS N
+
+ID OCLC-Y7T
+NAME York County Community College
+LOCATION Wells
+STATE ME
+BASEURL http://minerva.maine.edu/
+CATTYPE iii-consortium-member
+IPRANGE 208.233.33.0/24
+LCODE 43
+
+ID OCLC-MDB
+NAME Enoch Pratt Free Library
+LOCATION Baltimore
+STATE MD
+BASEURL http://pac.epfl.net/uhtbin/cgisirsi
+CATTYPE sirsi
+
+ID OCLC-BRL
+NAME Boston Public Library
+LOCATION Boston
+STATE MA
+CATTYPE bibliocommons
+BASEURL http://bpl.bibliocommons.com
+
+ID OCLC-CWJ
+NAME C/W MARS
+LOCATION Public and small academic libraries in central and western MA
+STATE MA
+BASEURL http://bark.cwmars.org/eg/opac
+CATTYPE evergreen-dynamic
+FILTERS N
+
+ID FIVECOLLEGE
+NAME Five College Libraries
+LOCATION Amherst, Hampshire, Mt. Holyoke, Smith, UMass-Amherst
+STATE MA
+CATTYPE aleph1
+BASEURL http://fcaw.library.umass.edu
+TINDEX WTI
+
+ID OCLC-HLS
+NAME Harvard Library
+LOCATION Cambridge
+STATE MA
+CATTYPE aquabrowser
+BASEURL http://hollis.harvard.edu
+
+ID OCLC-MLN
+NAME Minuteman Library Network
+LOCATION MetroWest-region public and small college libraries
+STATE MA
+BASEURL http://find.minlib.net/iii/encore
+CATTYPE encore
+
+ID OCLC-NKT
+NAME Springfield College
+LOCATION Springfield
+STATE MA
+CATTYPE voyager-vwebv
+BASEURL http://jtbowne.springfieldcollege.edu/vwebv/search
+
+ID OCLC-ELM
+NAME University of Michigan Library
+LOCATION Ann Arbor
+STATE MI
+BASEURL http://mirlyn.lib.umich.edu
+CATTYPE vufindrc1
+
+ID OCLC-HCO
+NAME Hennepin County Library
+LOCATION Minneapolis and vicinity
+STATE MN
+BASEURL https://catalog.hclib.org
+CATTYPE ipac20
+PROFILE elibrary
+AINDEX AL
+TINDEX UTL
+
+ID OCLC-MJP
+NAME Jackson-Hinds Library System
+LOCATION Jackson and Hinds County
+STATE MS
+BASEURL http://75.144.59.10/uhtbin/cgisirsi.exe
+CATTYPE sirsi
+
+ID OCLC-SVP
+NAME St. Louis Public Library
+LOCATION St. Louis
+STATE MO
+BASEURL http://catalog.slpl.org/uhtbin/cgisirsi
+CATTYPE sirsi
+
+ID OCLC-MUU
+NAME University of Missouri Libraries
+LOCATION Columbia
+STATE MO
+CATTYPE summon
+BASEURL http://missouri.summon.serialssolutions.com
+
+ID OLB-MZE
+NAME Butte-Silver Bow Public Library
+LOCATION Butte
+STATE MT
+BASEURL http://catalogue.buttepubliclibrary.info
+CATTYPE koha
+
+ID OCLC-NBO
+NAME Omaha Public Library
+LOCATION Omaha
+STATE NE
+BASEURL http://omaha.bibliocommons.com
+CATTYPE bibliocommons
+
+ID OCLC-NVA
+NAME College of Southern Nevada
+LOCATION Las Vegas and vicinity
+STATE NV
+CATTYPE summon
+BASEURL http://csn.summon.serialssolutions.com
+
+ID OLB-WASHOE
+NAME Washoe County Library System
+LOCATION Reno and vicinity
+STATE NV
+BASEURL http://library.washoecounty.us/
+CATTYPE koha
+
+ID OCLC-QYC
+NAME Manchester City Library
+LOCATION Manchester
+STATE NH
+BASEURL http://findit.gmilcs.org/polaris
+CATTYPE polaris
+
+ID OCLC-BRG
+NAME BCCLS
+LOCATION Bergen, Essex, Hudson, and Passaic County public libraries
+STATE NJ
+BASEURL http://catalog.bccls.org/polaris
+CATTYPE polaris
+
+ID OCLC-QBL
+NAME Middletown Township Public Library
+LOCATION Middletown
+STATE NJ
+BASEURL http://kohaopac.mtpl.org
+CATTYPE koha
+
+ID OCLC-NWM
+NAME Morris Automated Information Network
+LOCATION Morris County public libraries
+STATE NJ
+BASEURL http://catalog.mainlib.org
+CATTYPE polaris
+
+ID OCLC-PPR
+NAME Princeton Public Library
+LOCATION Princeton
+STATE NJ
+BASEURL http://princetonlibrary.bibliocommons.com
+CATTYPE bibliocommons
+
+ID OCLC-QUE
+NAME ABC Library
+LOCATION Albuquerque and Bernalillo County
+STATE NM
+BASEURL http://encore.cabq.gov/iii/encore
+CATTYPE encore
+
+ID OCLC-BKL
+NAME Brooklyn Public Library
+LOCATION Brooklyn
+STATE NY
+CATTYPE bibliocommons
+BASEURL http://brooklyn.bibliocommons.com
+
+ID OCLC-9VX
+NAME Chautauqua-Cattaraugus Library System
+LOCATION Jamestown and vicinity
+STATE NY
+BASEURL http://jpls.sirsi.net/uhtbin/cgisirsi/
+CATTYPE sirsi
+
+ID OCLC-VHB
+NAME Buffalo and Erie County Public Library
+LOCATION Buffalo
+STATE NY
+CATTYPE vufind
+BASEURL http://www.buffalolib.org/vufind
+
+ID OCLC-COO
+NAME Cornell University Library
+LOCATION Ithaca
+STATE NY
+BASEURL http://cornell.worldcat.org/search
+CATTYPE worldcat
+
+ID OCLC-ZCY
+NAME City University of New York (CUNY)
+LOCATION New York
+STATE NY
+CATTYPE alephcuny
+BASEURL http://apps.appl.cuny.edu:83
+LCODE U-CUN01
+
+ID OCLC-ZYU
+NAME New York University Libraries
+LOCATION New York
+STATE NY
+BASEURL http://bobcat.library.nyu.edu/primo_library
+CATTYPE primo
+
+ID OCLC-WDTNY
+NAME New York Public Library
+LOCATION New York
+STATE NY
+CATTYPE bibliocommons
+BASEURL http://nypl.bibliocommons.com
+
+ID OCLC-YSM
+NAME Stony Brook University Libraries
+LOCATION Stony Brook
+STATE NY
+CATTYPE vufind
+BASEURL http://sbufind.library.stonybrook.edu/vufind
+
+ID OCLC-XTC
+NAME Touro College Libraries
+LOCATION New York
+STATE NY
+CATTYPE summon
+BASEURL http://touro.summon.serialssolutions.com
+IPRANGE 24.187.203.218/31|24.187.203.220/31|64.20.191.56/29|75.99.35.169/32|75.99.35.170/31|75.99.35.172/31|98.142.112.0/22|98.142.116.0/23|98.142.118.0/24|98.142.119.0/28|98.142.119.64/26|98.142.119.128/25|98.142.120.0/22|98.142.124.0/23|108.27.40.161/32|108.27.40.162/31|108.27.40.164/30|173.220.9.185/32|173.220.9.186/31|173.220.9.188/31|173.220.14.241/32|173.220.14.242/31|173.220.14.244/31|173.220.29.81/32|173.220.29.82/31|173.220.29.84/31|173.220.29.105/32|173.220.29.106/31|173.220.29.108/31|173.220.29.185/32|173.220.29.186/31|173.220.29.188/31|173.220.29.193/32|173.220.29.194/31|173.220.29.196/31|173.220.45.41/32|173.220.45.42/31|173.220.45.44/31|173.220.62.17/32|173.220.62.18/31|173.220.62.20/31|173.220.88.25/32|173.220.88.26/31|173.220.88.28/31|173.220.89.240/29|173.220.90.248/29|184.74.187.192/29|184.74.199.129/32|184.74.199.130/31|184.74.199.132/30|184.75.22.192/30|184.75.22.196/31|184.75.33.89/32|184.75.33.90/31|184.75.33.92/30|207.127.40.0/24|207.127.41.0/24|207.127.42.0/24|207.127.43.0/24
+
+ID OCLC-8NX
+NAME Wake County Public Libraries
+LOCATION Raleigh
+STATE NC
+CATTYPE vufind
+BASEURL https://catalog.wakegov.com/
+
+ID OCLC-NFG
+NAME Fargo Public Library
+LOCATION Fargo
+STATE ND
+BASEURL http://ufind.odin.nodak.edu/vufind
+CATTYPE vufindrc1
+FILTERS NK
+LCODE NFG
+
+ID OCLC-CLE
+NAME Cleveland Public Library
+LOCATION Cleveland
+STATE OH
+CATTYPE bibliocommons
+BASEURL http://cpl.bibliocommons.com
+
+ID OCLC-OCP
+NAME Public Library of Cincinnati and Hamilton County
+LOCATION Cincinnati and vicinity
+STATE OH
+BASEURL http://catalog.cincinnatilibrary.org/iii/encore
+CATTYPE encore
+
+ID OCLC-TUL
+NAME Tulsa City-County Library
+LOCATION Tulsa
+STATE OK
+CATTYPE bibliocommons
+BASEURL http://tccl.bibliocommons.com
+
+ID OCLC-WEV
+NAME George Fox University
+LOCATION Newberg
+STATE OR
+BASEURL http://catalog.georgefox.edu
+CATTYPE innopac
+
+ID OCLC-ORX
+NAME Multnomah County Library
+LOCATION Portland
+STATE OR
+CATTYPE bibliocommons
+BASEURL http://multcolib.bibliocommons.com
+
+ID OCLC-OBS
+NAME Orbis Cascade Alliance Summit
+LOCATION 35+ academic libraries in Oregon, Washington, and Idaho
+STATE OR
+BASEURL http://summit.worldcat.org/search
+CATTYPE worldcat
+
+ID OCLC-OQX
+NAME Washington County Cooperative Library Services
+LOCATION Washington County
+STATE OR
+BASEURL http://catalog.wccls.org/polaris
+CATTYPE polaris
+
+ID OCLC-DXU
+NAME Drexel University Libraries
+LOCATION Philadelphia
+STATE PA
+CATTYPE summon
+BASEURL http://drexel.summon.serialssolutions.com
+
+ID OCLC-CPL
+NAME eiNetwork
+LOCATION Carnegie Library of Pittsburgh, and Allegheny County libraries
+STATE PA
+BASEURL http://catalog.einetwork.net
+CATTYPE innopac
+
+ID OCLC-HFC
+NAME Holy Family University
+LOCATION Philadelphia, Newtown, and Bensalem
+STATE PA
+BASEURL http://holy.sirsi.net/uhtbin/cgisirsi
+CATTYPE sirsi
+
+ID OCLC-CMZ
+NAME Misericordia University
+LOCATION Dallas
+STATE PA
+BASEURL http://comi.sirsi.net/uhtbin/cgisirsi
+CATTYPE sirsi
+
+ID OCLC-UPM
+NAME Penn State University Libraries
+LOCATION University Park, and other campuses
+STATE PA
+CATTYPE summon
+BASEURL http://psu.summon.serialssolutions.com
+
+ID OCLC-PASGS
+NAME Springside Chestnut Hill Academy Libraries
+LOCATION Philadelphia
+STATE PA
+BASEURL http://schlibraries.goalexandria.com/7057854?site=SPRI
+CATTYPE alexandria
+
+ID OCLC-PAFSS
+NAME Friends Select School Library
+LOCATION Philadelphia
+STATE PA
+BASEURL http://catalog.friends-select.org:2051/
+CATTYPE webpacpro
+DEFAULT http://catalog.friends-select.org:2051/search~S69
+
+ID OCLC-PAU
+NAME University of Pennsylvania Libraries
+LOCATION Philadelphia
+STATE PA
+IPRANGE 128.91.0.0/16|130.91.0.0/16|158.130.0.0/16|165.123.0.0/16
+BASEURL http://dla.library.upenn.edu/dla/franklin
+SUBURL ${BASEURL}/search.html?q=${ARG}&qt=dla-subject
+AUTURL ${BASEURL}/search.html?q=${ARG}&qt=dla-author
+ATIURL ${BASEURL}/search.html?q=author("${AUTHOR}") AND title:("${TITLE:A}")&qt=dla-advanced
+TITURL ${BASEURL}/search.html?q=${ARG}&qt=dla-title
+KEYURL ${BASEURL}/search.html?q=${ARG}&qt=dla-standard
+
+ID OCLC-PLF
+NAME Free Library of Philadelphia
+LOCATION Philadelphia
+STATE PA
+CATTYPE vufind
+BASEURL http://beta.freelibrary.org/vufind
+
+ID OCLC-RBN
+NAME Brown University Library
+LOCATION Providence
+STATE RI
+CATTYPE vufind
+BASEURL http://library.brown.edu/find
+
+ID OCLC-SEA
+NAME Clemson University Libraries
+LOCATION Clemson
+STATE SC
+CATTYPE summon
+BASEURL http://clemson.summon.serialssolutions.com
+
+ID OCLC-ZR8
+NAME Rawlins Municipal Library
+LOCATION Pierre
+STATE SD
+CATTYPE aleph1
+BASEURL http://argos.sdln.net
+LCODE rpl
+
+ID OCLC-TMN
+NAME Memphis Public Library and Information Center
+LOCATION Memphis
+STATE TN
+CATTYPE sirsient
+BASEURL http://mpub.ent.sirsi.net
+
+ID OCLC-TXG
+NAME Austin Public Library
+LOCATION Austin
+STATE TX
+CATTYPE bibliocommons
+BASEURL http://austin.bibliocommons.com
+
+ID OCLC-IGA
+NAME Dallas Public Library
+LOCATION Dallas
+STATE TX
+BASEURL http://catalog.dallaslibrary.org/Polaris
+CATTYPE polaris
+
+ID OCLC-HT-SHARP
+NAME Harris County Public Library
+LOCATION Houston vicinity
+STATE TX
+BASEURL http://catalog.hcpl.net
+CATTYPE ipac20
+AINDEX .AH
+KINDEX .GH
+TINDEX .TH
+PROFILE webcat
+
+ID OCLC-TXN 
+NAME Houston Public Library
+LOCATION Houston
+STATE TX
+BASEURL http://catalog.houstonlibrary.org
+CATTYPE webpacpro
+
+ID OCLC-QS2
+NAME Montgomery County Memorial Library System
+LOCATION Montgomery County
+STATE TX
+BASEURL http://librarycatalog.lonestar.edu.mcplproxy.lonestar.edu
+CATTYPE ipac20
+PROFILE mcml
+AINDEX .AN
+TINDEX ALTITLN
+KINDEX .GN
+
+ID OCLC-QT4
+NAME Round Rock Public Library
+LOCATION Round Rock
+STATE TX
+BASEURL http://cat.round-rock.tx.us:8080
+CATTYPE ipac20
+AINDEX PAUTH
+TINDEX ALLTITL
+
+ID OCLC-UHC
+NAME UHCL Neumann Library
+LOCATION Clear Lake
+STATE TX
+CATTYPE summon
+BASEURL http://uhcl.summon.serialssolutions.com
+
+ID OCLC-TXH
+NAME University of Houston Libraries
+LOCATION Houston, and other campuses
+STATE TX
+CATTYPE summon
+BASEURL http://uh.summon.serialssolutions.com
+
+ID OCLC-UUP
+NAME The City Library
+LOCATION Salt Lake City
+STATE UT
+CATTYPE bibliocommons
+BASEURL http://slcpl.bibliocommons.com
+
+ID OCLC-UTW
+NAME Weber County Library
+LOCATION Ogden and vicinity
+STATE UT
+CATTYPE encore
+BASEURL http://encore.weberpl.lib.ut.us/iii/encore
+
+ID OCLC-VRP
+NAME Richmond Public Library
+LOCATION Richmond
+STATE VA
+BASEURL http://ibistro.ci.richmond.va.us/uhtbin/cgisirsi
+CATTYPE sirsi
+
+ID OCLC-F3L
+NAME Fletcher Free Library
+LOCATION Burlington
+STATE VT
+BASEURL http://flet.sirsi.net/uhtbin/cgisirsi
+CATTYPE sirsi
+
+ID OCLC-HNW
+NAME Hurst Library, Northwest University
+LOCATION Kirkland
+STATE WA
+BASEURL http://nu.worldcat.org/search
+CATTYPE worldcat
+
+ID OCLC-UOK
+NAME Seattle Public Library
+LOCATION Seattle
+STATE WA
+CATTYPE bibliocommons
+BASEURL http://seattle.bibliocommons.com
+
+ID OCLC-WC3
+NAME Whatcom Community College
+LOCATION Bellingham
+STATE WA
+CATTYPE voyager-vwebv
+BASEURL http://whatcom.library.ctc.edu/vwebv/search
+
+ID OCLC-9WV
+NAME Kanawha County Public Library
+LOCATION Charleston and vicinity
+STATE WV
+BASEURL http://kcpl.kanawha.lib.wv.us/uhtbin/cgisirsi
+CATTYPE sirsi
+
+ID OCLC-WVS
+NAME Scarborough Library, Shepherd University
+LOCATION Shepherdstown
+STATE WV
+CATTYPE voyager-vwebv
+BASEURL http://max.shepherd.edu/vwebv/search
+
+ID OCLC-WVQ
+NAME West Virginia Wesleyan College
+LOCATION Buckhannon
+STATE WV
+BASEURL http://aca.iii.com/
+CATTYPE iii-consortium-member
+LCODE 60
+
+ID OCLC-GZM
+NAME University of Wisconsin-Madison Libraries
+LOCATION Madison
+STATE WI
+BASEURL http://search.library.wisc.edu/catalog
+CATTYPE blacklight
+
+ID OCLC-WYL
+NAME Laramie County Library
+LOCATION Cheyenne
+STATE WY
+BASEURL http://wyld.state.wy.us/uhtbin/cgisirsi
+CATTYPE sirsi

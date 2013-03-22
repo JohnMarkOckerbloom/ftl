@@ -1,1 +1,249 @@
-/home/ockerblo/ftl/cattype
+# Cattype data file for Forward to Libraries Service
+# Ed. by John Mark Ockerbloom, University of Pennsylvania 
+#  (contact details at everybodyslibraries.com)
+# This data file released to the world as CC0 
+#   (though appropriate attribution appreciated)
+# See docs file for documentation, libraries file for usage of this catalog data
+# Last updated 2013-03-22
+
+
+CATTYPE aleph1
+TINDEX TTL
+SUBURL ${BASEURL}/F/?func=find-b&find_code=SUB&local_base=${LCODE}&request=${ARG}
+AUTURL ${BASEURL}/F/?func=find-b&find_code=AUT&local_base=${LCODE}&request=${ARG}
+TITURL ${BASEURL}/F/?func=find-b&find_code=${TINDEX}&local_base=${LCODE}&request=${ARG:A}
+KEYURL ${BASEURL}/F/?func=find-b&find_code=WRD&local_base=${LCODE}&request=${ARG}
+
+CATTYPE alephcuny
+SUBURL ${BASEURL}/F/?func=find-e&find_scan_code=SCAN_SUL&local_base=${LCODE}&request=${ARG}
+AUTURL ${BASEURL}/F/?func=find-b&find_code=AUT&local_base=${LCODE}&request=${ARG}
+TITURL ${BASEURL}/F/?func=find-b&find_code=TTL&local_base=${LCODE}&request=${ARG:A}
+KEYURL ${BASEURL}/F/?func=find-b&find_code=WRD&local_base=${LCODE}&request=${ARG}
+
+CATTYPE alexandria
+SUBURL ${BASEURL}&results=SearchType0%3DKeyword%26SearchField0%3DSubjects%3A${ARG:NK}%26Interface%3Dsimple%26localCollection%3D1
+TITURL ${BASEURL}&results=SearchType0%3DKeyword%26SearchField0%3DTitle%3A${ARG}%26Interface%3Dsimple%26localCollection%3D1
+AUTURL ${BASEURL}&results=SearchType0%3DKeyword%26SearchField0%3DAuthor%3A${ARG:NK}%26Interface%3Dsimple%26localCollection%3D1
+ATIURL ${BASEURL}&results=SearchType0%3DKeyword%26SearchField0%3D${AUTHOR:SNK}%20${TITLE:NKA}%26Interface%3Dsimple%26localCollection%3D1
+KEYURL ${BASEURL}&results=SearchType0%3DKeyword%26SearchField0%3D${ARG:NK}%26Interface%3Dsimple%26localCollection%3D1
+
+# Biblionix makes apollo, supports basic OpenSearch (not sure if other options)
+# libraries also may have minimal cataloging
+CATTYPE apollo
+KEYURL ${BASEURL}?search=${ARG:N}
+
+CATTYPE aquabrowser
+SUBURL ${BASEURL}/?q=subjects:"${ARG}"+
+TITURL ${BASEURL}/?q=ex-Everything-1.0:"${ARG}"+
+AUTURL ${BASEURL}/?q=author:"${ARG}"+
+ATIURL ${BASEURL}/?q=ex-Everything-1.0:"${TITLE}"+author:"${AUTHOR}"+
+KEYURL ${BASEURL}/?q=${ARG}+
+
+CATTYPE bibliocommons
+SUBURL ${BASEURL}/search?t=subject&q=${ARG}
+AUTURL ${BASEURL}/search?t=author&q=${ARG}
+TITURL ${BASEURL}/search?t=title&q=${ARG}
+# ATIURL ${BASEURL}/search?custom_query=contributor:(${AUTHOR})+-title:(${TITLE:A})
+KEYURL ${BASEURL}/search?t=smart&search_category=keyword&q=${ARG}
+
+CATTYPE blacklight
+SUBURL ${BASEURL}/?q=${ARG}&search_field=subject_terms
+AUTURL ${BASEURL}/?q=${ARG}&search_field=author
+TITURL ${BASEURL}/?q=${ARG:A}&search_field=title
+KEYURL ${BASEURL}/?q=${ARG}
+
+CATTYPE carlweb
+SUBURL ${BASEURL}/jsp/DoSearch?databaseID=${DBID}&index=SB/&terms=
+AUTURL ${BASEURL}/jsp/DoSearch?databaseID=${DBID}&index=N/&terms=
+
+# this doesn't seem to work on the ILS I tried it on
+CATTYPE dra
+KEYURL ${BASEURL}/tramp2.exe/do_keyword_search/guest&query={${ARG}}
+
+CATTYPE eds
+AUTURL ${BASEURL}&bquery=AU%20${ARG}
+TITURL ${BASEURL}&bquery=TI%20${ARG}
+KEYURL ${BASEURL}&bquery=${ARG}
+
+CATTYPE encore
+SUBURL ${BASEURL}/search/C__Sd%3A%28${ARG}%29__Orightresult__U1?lang=eng&suite=${SKIN}
+AUTURL ${BASEURL}/search/C__Sa%3A%28${ARG}%29__Orightresult__U1?lang=eng&suite=${SKIN}
+KEYURL ${BASEURL}/search/C__S%3A%28${ARG}%29__Orightresult__U1?lang=eng&suite=${SKIN}
+
+CATTYPE encorehosted
+SUBURL ${BASEURL}/search*eng/X?SEARCH=d:(${ARG:N})&SORT=D
+AUTURL ${BASEURL}/search*eng/X?SEARCH=a:(${ARG:N})&SORT=D
+TITURL ${BASEURL}/search*eng/X?SEARCH=t:(${ARG:N})&SORT=D
+ATIURL ${BASEURL}/search*eng/X?SEARCH=t:(${TITLE:N})%20and%20a:(${AUTHOR:N})&SORT=D
+KEYURL ${BASEURL}/search*eng/X?SEARCH=(${ARG:N})&SORT=D
+
+CATTYPE encorekey
+KEYURL ${BASEURL}/search/C|S${ARG}|Orightresult|U1?lang=eng&suite=${SKIN}
+
+CATTYPE evergreen
+SUBURL ${BASEURL}/skin/default/xml/rresult.xml?rt=keyword&l=${LCODE}&tp=keyword&t=%20subject:${ARG}
+AUTURL ${BASEURL}/skin/default/xml/rresult.xml?rt=keyword&l=${LCODE}&tp=keyword&t=%20author:${ARG}
+TITURL ${BASEURL}/skin/default/xml/rresult.xml?rt=keyword&l=${LCODE}&tp=keyword&t=%20title:${ARG}
+KEYURL ${BASEURL}/skin/default/xml/rresult.xml?rt=keyword&l=${LCODE}&tp=keyword&t=${ARG}
+DEFAULT DOMAIN
+
+CATTYPE evergreen-dynamic
+SUBURL ${BASEURL}/results?qtype=subject&query=${ARG}
+AUTURL ${BASEURL}/results?qtype=author&query=${ARG}
+TITURL ${BASEURL}/results?qtype=title&query=${ARG}
+KEYURL ${BASEURL}/results?qtype=keyword&query=${ARG}
+DEFAULT DOMAIN
+
+# this we'll use for members of webpacpro consortia
+CATTYPE iii-consortium-member
+SUBURL ${BASEURL}/search/Y?searchscope=${LCODE}&searchtype=d&searcharg=${ARG:N}
+AUTURL ${BASEURL}/search/Y?searchscope=${LCODE}&searchtype=a&searcharg=${ARG:N}
+TITURL ${BASEURL}/search/Y?searchscope=${LCODE}&searchtype=t&searcharg=${ARG:N}
+KEYURL ${BASEURL}/search/Y?searchscope=${LCODE}&searchtype=X&searcharg=${ARG:N}
+
+# aka Horizon
+CATTYPE ipac20
+KINDEX .GW
+SINDEX PSUBJ
+SUBURL ${BASEURL}/ipac20/ipac.jsp?profile=${PROFILE}&index=${SINDEX}&term=${ARG}
+AUTURL ${BASEURL}/ipac20/ipac.jsp?profile=${PROFILE}&index=${AINDEX}&term=${ARG}
+TITURL ${BASEURL}/ipac20/ipac.jsp?profile=${PROFILE}&index=${TINDEX}&term=${ARG}
+KEYURL ${BASEURL}/ipac20/ipac.jsp?profile=${PROFILE}&index=${KINDEX}&term=${ARG}
+
+CATTYPE innopac
+SUBURL ${BASEURL}/search/?searchtype=d&searcharg=${ARG:N}
+AUTURL ${BASEURL}/search/?searchtype=a&searcharg=${ARG:N}
+TITURL ${BASEURL}/search/?searchtype=t&searcharg=${ARG:N}
+KEYURL ${BASEURL}/search/?searchtype=X&searcharg=${ARG:N}
+
+CATTYPE koha
+SUBURL ${BASEURL}/cgi-bin/koha/opac-search.pl?idx=su&q=${ARG}
+AUTURL ${BASEURL}/cgi-bin/koha/opac-search.pl?idx=au&q=${ARG}
+TITURL ${BASEURL}/cgi-bin/koha/opac-search.pl?idx=ti&q=${ARG}
+KEYURL ${BASEURL}/cgi-bin/koha/opac-search.pl?q=${ARG}
+
+CATTYPE ls2pac
+SUBURL ${BASEURL}?section=search&term=su:${ARG:N}
+AUTURL ${BASEURL}?section=search&term=au:${ARG:N}
+TITURL ${BASEURL}?section=search&term=ti:${ARG:N}
+KEYURL ${BASEURL}?section=search&term=${ARG:N}
+
+CATTYPE ls2pac-aurora
+SUBURL ${BASEURL}?config=pac#section=search&term=subject:${ARG:NK}
+AUTURL ${BASEURL}?config=pac#section=search&term=author:${ARG:SNK}
+TITURL ${BASEURL}?config=pac#section=search&term=title:${ARG:NK}
+KEYURL ${BASEURL}?config=pac#section=search&term=${ARG:NK}
+
+# Polaris seems to get confused if you try a browse after a search,
+# so these are all keyword searches for now
+CATTYPE polaris
+CONTEXT 1.1033.0.0.1
+SUBURL ${BASEURL}/search/searchresults.aspx?type=Keyword&term=${ARG}&by=SU&sort=RELEVANCE
+AUTURL ${BASEURL}/search/searchresults.aspx?type=Keyword&term=${ARG}&by=AU&sort=RELEVANCE
+# TITURL ${BASEURL}/search/browse.aspx?ctx=1.1033.0.0.6&type=Browse&term=${ARG}&by=TI&sort=RELEVANCE
+TITURL ${BASEURL}/search/searchresults.aspx?type=Keyword&term=${ARG}&by=TI&sort=RELEVANCE
+KEYURL ${BASEURL}/search/searchresults.aspx?type=Keyword&term=${ARG}&by=KW&sort=RELEVANCE
+
+# Looks like the Ex Libris Community docs have info on au, ti, su searches
+CATTYPE primo
+# SUBURL ${BASEURL}/libweb/action/search.do?mode=Advanced&dum=true&operation=1&amp;ct=search&indx=1&vl(6025493UI3)=sub&vl%28freeText0%29=${ARG}&fn=search
+KEYURL ${BASEURL}/libweb/action/search.do?mode=Basic&dum=true&operation=1&amp;ct=search&indx=1&vid=${VID}&vl%28freeText0%29=${ARG:NK}&fn=search
+# may need to do library-specific DEFAULTs when hosted or over-generic
+DEFAULT DOMAIN
+
+# talis prism
+CATTYPE prism
+AUTURL ${BASEURL}/TalisPrism/doSearch.do?searchType=advSearch&st1=author&searchLocations=talislms&sv1=${ARG}
+TITURL ${BASEURL}/TalisPrism/doSearch.do?searchType=advSearch&st1=title&searchLocations=talislms&sv1=${ARG}
+KEYURL ${BASEURL}/TalisPrism/doSearch.do?searchType=advSearch&st1=keyword&searchLocations=talislms&sv1=${ARG}
+
+CATTYPE sirsi
+SUBURL ${BASEURL}/x/0/0/5?searchdata1=${ARG:NK}{SU}
+AUTURL ${BASEURL}/x/0/0/5?searchdata1=${ARG:NK}{AU}
+TITURL ${BASEURL}/x/0/0/5?searchdata1=${ARG:NK}{TI}
+KEYURL ${BASEURL}/x/0/0/5?searchdata1=${ARG:NK}
+DEFAULT DOMAIN
+
+CATTYPE sirsient
+SUBURL ${BASEURL}/client/default/search/results?&rt=SUBJECT|||Subject|||false&qu="${ARG}"
+AUTURL ${BASEURL}/client/default/search/results?&rt=AUTHOR|||Author|||false&qu="${ARG}"
+TITURL ${BASEURL}/client/default/search/results?&rt=TITLE|||Title|||false&qu="${ARG}"
+KEYURL ${BASEURL}/client/default/search/results?qu=${ARG}
+
+CATTYPE spydus
+SUBURL ${BASEURL}/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?ENTRY_NAME=SU&&ENTRY=${ARG:N}
+AUTURL ${BASEURL}/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?ENTRY_NAME=AU&&ENTRY=${ARG:N}
+TITURL ${BASEURL}/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?ENTRY_NAME=TI&&ENTRY=${ARG:N}
+KEYURL ${BASEURL}/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?ENTRY_NAME=BS&&ENTRY=${ARG:N}
+
+CATTYPE startpage
+KEYURL ${BASEURL}
+
+CATTYPE summon
+TITURL ${BASEURL}/search?t.TitleCombined=${ARG}
+AUTURL ${BASEURL}/search?t.AuthorCombined=${ARG}
+KEYURL ${BASEURL}/search?spellcheck=true&s.q=${ARG}
+
+CATTYPE tlc
+SUBURL ${BASEURL}TLCScripts/interpac.dll?Search&Config=ysm&FormId=0&Branch=,1,&StartIndex=0&SearchField=4&SearchType=1&SearchData=${ARG:NK}
+AUTURL ${BASEURL}TLCScripts/interpac.dll?Search&Config=ysm&FormId=0&Branch=,1,&StartIndex=0&SearchField=2&SearchType=1&SearchData=${ARG:NK}
+TITURL ${BASEURL}TLCScripts/interpac.dll?Search&Config=ysm&FormId=0&Branch=,1,&StartIndex=0&SearchField=1&SearchType=1&SearchData=${ARG:NK}
+KEYURL ${BASEURL}TLCScripts/interpac.dll?Search&Config=ysm&FormId=0&Branch=,1,&StartIndex=0&SearchField=16777216&SearchType=1&SearchData=${ARG:NK}
+
+CATTYPE voyager
+TITURL ${BASEURL}?Search_Arg=${ARG:A}&SL=None&Search_Code=TALL&CNT=25
+AUTURL ${BASEURL}?Search_Arg=${ARG}&SL=None&Search_Code=NAME&CNT=25
+SUBURL ${BASEURL}?Search_Arg=${ARG}&SL=None&Search_Code=SUBJ&CNT=25
+KEYURL ${BASEURL}?Search_Arg=${ARG}&SL=None&Search_Code=GKEY^*&CNT=25
+# KEYURL ${BASEURL}?DB=local&FLD1=${ARG:N}&CNT=25
+
+CATTYPE voyager-vwebv
+# SUBURL ${BASEURL}?searchArg=${ARG:A}&searchCode=SUBJ&searchType=1&recCount=50
+SUBURL ${BASEURL}?searchArg=${ARG:A}&searchCode=SUBJ&searchType=1
+AUTURL ${BASEURL}?searchArg=${ARG:A}&searchCode=NAME&searchType=1
+TITURL ${BASEURL}?searchArg=${ARG:A}&searchCode=TALL&searchType=1
+KEYURL ${BASEURL}?searchArg=${ARG}&searchCode=GKEY^*&searchType=1
+
+CATTYPE vufind
+SUBURL ${BASEURL}/Search/Results?type=Subject&lookfor=${ARG}
+AUTURL ${BASEURL}/Search/Results?type=Author&lookfor=${ARG}
+TITURL ${BASEURL}/Search/Results?type=Title&lookfor=${ARG}
+KEYURL ${BASEURL}/Search/Results?type=AllFields&lookfor=${ARG}
+DEFAULT DOMAIN
+
+CATTYPE vufindnoaccent
+SUBURL ${BASEURL}/Search/Results?type=Subject&lookfor=${ARG:N}
+AUTURL ${BASEURL}/Search/Results?type=Author&lookfor=${ARG:N}
+TITURL ${BASEURL}/Search/Results?type=Title&lookfor=${ARG:N}
+KEYURL ${BASEURL}/Search/Results?type=AllFields&lookfor=${ARG:N}
+DEFAULT DOMAIN
+
+# the search/home format was used in Vufind RC1 and earlier
+CATTYPE vufindrc1
+SUBURL ${BASEURL}/Search/Home?library=${LCODE}&checkspelling=true&inst=all&lookfor=${ARG}&type=subject&submit=Find&showsearchonly=false&oft=false&use_dismax=1
+AUTURL ${BASEURL}/Search/Home?library=${LCODE}&checkspelling=true&inst=all&lookfor=${ARG}&type=author&submit=Find&showsearchonly=false&oft=false&use_dismax=1
+TITURL ${BASEURL}/Search/Home?library=${LCODE}&checkspelling=true&inst=all&lookfor=${ARG}&type=title&submit=Find&showsearchonly=false&oft=false&use_dismax=1
+KEYURL ${BASEURL}/Search/Home?library=${LCODE}&checkspelling=true&inst=all&lookfor=${ARG}&type=all&submit=Find&showsearchonly=false&oft=false&use_dismax=1
+DEFAULT DOMAIN
+
+# this appears to be used for millennium systems
+CATTYPE webpacpro
+SUBURL ${BASEURL}/search/d?SEARCH=${ARG}
+AUTURL ${BASEURL}/search/a?SEARCH=${ARG}
+TITURL ${BASEURL}/search/t?SEARCH=${ARG}
+ATIURL ${BASEURL}/search/q?author=${AUTHOR}?title=${TITLE}
+KEYURL ${BASEURL}/search/X?SEARCH=${ARG}
+
+CATTYPE worldcat
+SUBURL ${BASEURL}?q=su%3A${ARG:NK}&qt=advanced&dblist=638
+AUTURL ${BASEURL}?q=au%3A${ARG}&qt=advanced&dblist=638
+TITURL ${BASEURL}?q=ti%3A${ARG}&qt=advanced&dblist=638
+ATIURL ${BASEURL}?q=ti%3A${TITLE}+au%3A${AUTHOR}&qt=advanced&dblist=638
+KEYURL ${BASEURL}?q=${ARG:NK}&qt=advanced&dblist=638
+
+CATTYPE xerxes
+SUBURL ${BASEURL}/results?field=subject&query=${ARG:N}
+AUTURL ${BASEURL}/results?field=author&query=${ARG:N}
+TITURL ${BASEURL}/results?field=title&query=${ARG:N}
+KEYURL ${BASEURL}/results?query=${ARG:N}
+
