@@ -1,0 +1,878 @@
+#!/usr/bin/perl
+
+# Main FTL (Forward to Libraries) CGI script
+# By John Mark Ockerbloom, University of Pennsylvania (everybodyslibraries.com)
+# Version as of 22 Mar 2012
+#
+# Main FTL service currently runs at
+#   http://onlinebooks.library.upenn.edu/webbin/ftl
+#
+# This code is made available, "as-is" and unsupported, under the
+# Educational Community License 2.0 (http://opensource.org/licenses/ecl2.php)
+# This code will *not* run out of the box, but depends on certain
+#  other code libraries and data files at Penn.  I may publish
+#  some of these in the future.  For now, this code may be helpful for 
+#  those wishing to implement similar services, or understand
+#  how this service is implemented.
+
+use CGI;
+use NetAddr::IP::Lite;
+
+BEGIN {
+$OLBP::SCRIPTNAME = "ftl";
+}
+
+use lib "/websites/OnlineBooks/nonpublic/lib";
+use lib "/home/ockerblo/booksrc/nlib";
+use OLBP;
+
+my $COOKIEDOMAIN = ".library.upenn.edu";
+my $LIBRARY_COOKIE = 'olbp_ftl';
+
+my $ONLINEBOOKS_URL = "http://onlinebooks.library.upenn.edu/";
+my $ONLINEBOOKS_SOURCE = "OLBP";
+my $WIKIPEDIA_SOURCE   = "WKPD";
+
+my $NO_CRAWLER_LOGGING = 1;
+
+my @SOURCES = ($ONLINEBOOKS_SOURCE, $WIKIPEDIA_SOURCE);
+
+my $idxdir              = "/websites/OnlineBooks/nonpublic/ftl/";
+my $libhashfile         = $idxdir . "libraries.hsh";
+my $liblistfile         = $idxdir . "libraries";
+my $sourcepatternfile   = $idxdir . "sourcepatterns";
+my $iprangefile         = $idxdir . "ipranges";
+
+my $wikidir             = $idxdir . "wiki/";
+
+my $viafhashfile        = $wikidir . "viaftosub.hsh";
+my $lccnhashfile        = $wikidir . "lctosub.hsh";
+my $wphashfile          = $wikidir . "wptosub.hsh";
+
+my $logdir             = $idxdir . "logs/";
+my $applog             = $logdir . "ftl-log";
+
+my $VIAF_TYPE      = "viaf";
+my $LCCN_TYPE      = "lccn";
+my $WIKIPEDIA_TYPE = "wp";
+
+my ($viafhash, $lccnhash, $wphash);
+
+my $countries = {
+  '00' => "Global library services",
+  'AU' => "Australia",
+  'CA' => "Canada",
+  'IE' => "Ireland",
+  'NZ' => "New Zealand",
+  'SG' => "Singapore",
+  'UK' => "United Kingdom",
+  'US' => "United States",
+  'ZA' => "South Africa",
+};
+
+my $states = {
+  'AL' => "Alabama", 'AK' => "Alaska", 'AZ' => "Arizona", 'AR' => "Arkansas",
+  'CA' => "California", 'CO' => "Colorado", 'CT' => "Connecticut",
+  'DE' => "Delaware", 'DC' => "District of Columbia", 'FL' => "Florida",
+  'GA' => "Georgia", 'HI' => "Hawaii",
+  'ID' => "Idaho", 'IL' => "Illinois", 'IN' => "Indiana", 'IA' => "Iowa",
+  'KS' => "Kansas", 'KY' => "Kentucky", 'LA' => "Louisiana",
+  'MD' => "Maryland", 'MA' => "Massachusetts", 'ME' => "Maine",
+  'MI' => "Michigan", 'MS' => "Mississippi", 'MN' => "Minnesota",
+  'MO' => "Missouri", 'MT' => "Montana",
+  'NE' => "Nebraska", 'NV' => "Nevada", 'NH' => "New Hampshire",
+  'NJ' => "New Jersey", 'NM' => "New Mexico",
+  'NY' => "New York",
+  'NC' => "North Carolina", 'ND' => "North Dakota",
+  'OH' => "Ohio", 'OK' => "Oklahoma", 'OR' => "Oregon",
+  'PA' => "Pennsylvania", 'RI' => "Rhode Island",
+  'SC' => "South Carolina", 'SD' => "South Dakota",
+  'TN' => "Tennessee", 'TX' => "Texas", 'UT' => "Utah",
+  'VA' => "Virginia", 'VT' => "Vermont",
+  'WA' => "Washington", "WV" => "West Virginia",
+  "WI" => "Wisconsin", 'WY' => "Wyoming"
+};
+
+
+my $pagestarted = 0;
+my $patternhash = {};
+my $gotpatterns = 0;
+my $rangestotry = [];
+my $gotranges   = 0;
+
+
+sub pageheader {
+  my ($q, $title) = @_;
+  my $str = "<html><head><title>FTL: $title</title>";
+  $str .= "<link rel=\"stylesheet\" " .
+                " type=\"text/css\" href=\"$OLBP::styleurl\">";
+  $str .= "</head>\n";
+  if (source_matches($q, $ONLINEBOOKS_SOURCE)) {
+    $str .= $OLBP::bodystart;
+  } else {
+    $str .= "<body bgcolor=\"#ffffff\" text=\"#000000\"" .
+            " link=\"#00188c\" vlink=\"#661855\" alink=\"#ff0000\">\n" .
+            "<h1 align=center>FTL: Forward to Libraries</h1>\n";
+  }
+  return $str;
+}
+
+sub startpage {
+  my ($q, $title, $cookies) = @_;
+  if ($cookies) {
+    print $q->header(-type=>  'text/html', -cookie=>$cookies);
+  } else {
+    print $q->header(-type=>  'text/html');
+  }
+  print pageheader($q, $title);
+  $pagestarted = 1;
+}
+
+sub endpage {
+  my ($q) = @_;
+  if (source_matches($q, $ONLINEBOOKS_SOURCE)) {
+    print "<hr>" . $OLBP::bodyend;
+  } else {
+    print "<hr><p align=center>FTL service provided by ";
+    print "<a href=\"$ONLINEBOOKS_URL\">";
+    print "The Online Books Page</a>, using data provided by ";
+    print qq!the <a href="http://www.loc.gov/">Library of Congress</a>, !;
+    print qq!<a href="http://www.oclc.org/">OCLC</a>, !;
+    print qq!<a href="http://en.wikipedia.org/">Wikipedia</a>, !;
+    print "and other sources.";
+    print "</p></body></html>\n";
+  }
+}
+
+sub is_crawler {
+  my ($q) = @_;
+  my $agentstr = $q->user_agent();
+  if ($agentstr =~ /Googlebot|msnbot|bingbot/) {
+    return 1;
+  }
+  return 0;
+}
+
+sub log_request {
+  my ($q) = @_;
+  next if ($NO_CRAWLER_LOGGING && is_crawler($q));
+  my $host = $q->remote_host();
+  my $preferredlibrary = $q->cookie($LIBRARY_COOKIE);
+  my $referer = $q->referer();
+  my @ta = localtime(time);
+  my $tstr = sprintf("%d-%02d-%02d %02d:%02d:%02d", 
+    $ta[5]+1900, $ta[4]+1, $ta[3], $ta[2], $ta[1], $ta[0]);
+
+
+  open LOG, ">> $applog" or return undef;
+  binmode LOG, ":utf8";
+  print LOG "$host|$tstr|referer=$referer|cookie=$preferredlibrary";
+  foreach my $attr ('su', 'au', 'ti', 'st', 'at', 'tt', 'from', 'library') {
+    if ($q->param($attr)) {
+      my $str = $q->param($attr);
+      utf8::decode($str);
+      print LOG "|$attr=" . OLBP::url_encode($str);
+    }
+  }
+  # if ($host eq "67.226.66.30") {
+  #   print LOG "|agent=" . $q->user_agent();
+  # }
+  print LOG "\n";
+}
+
+sub close_log {
+  close LOG;
+}
+
+sub finish {
+  close_log();
+  exit 0;
+}
+
+
+sub get_patterns {
+  $gotpatterns = 1;
+  open PATTERNS, "< $sourcepatternfile" or return undef;
+  while (my $line = <PATTERNS>) {
+    if ($line =~ /^(\S+)\s+(.*)/) {
+      $patternhash->{$1} = $2;
+    }
+  }
+  close PATTERNS;
+}
+
+sub get_ranges {
+  $gotranges = 1;
+  open RANGES, "< $iprangefile" or return undef;
+  while (my $line = <RANGES>) {
+    my $rec = {};
+    if ($line =~ /^(\S+)\s+(.*)/) {
+      $rec->{id} = $1;
+      $rec->{range} = $2;
+      push @{$rangestotry}, $rec;
+    }
+  }
+  close RANGES;
+}
+
+# library_with_ip returns the ID of a library whose designated IP range
+# is registered with us; otherwise undef
+
+sub library_with_ip {
+  my ($ipstr) = @_;
+  my $ip;
+  if ($ipstr) {
+    $ip = new NetAddr::IP::Lite($ipstr);
+  }
+  if ($ip) {
+    get_ranges() if (!$gotranges);
+    foreach my $rec (@{$rangestotry}) {
+      if ($rec->{range}) {
+        my $range = new NetAddr::IP::Lite($rec->{range});
+        if ($range && $ip->within($range)) {
+          return $rec->{id};
+        }
+      }
+    }
+  }
+  return undef;
+}
+
+# source_matches tells us if we're coming from the named source given
+
+sub source_matches {
+  my ($q, $id) = @_;
+  my $url = $q->referer();
+  if ($url) {
+    get_patterns() if (!$gotpatterns);
+    if ($patternhash->{$id}) {
+      my @patterns = split /|/, $patternhash->{$id};
+      foreach my $pattern (@patterns) {
+        if (index($url, $pattern) >= 0) {
+          return 1;
+        }
+      }
+    }
+  }
+  return 0;
+}
+
+# find_source figures out where we're coming from if significant
+# it reads from a patterns file and assigns the ID matching that pattern
+
+# we may be able to eliminate this if no one's using it
+
+sub find_source {
+  my ($q) = @_;
+  my $url = $q->referer();
+  if ($url) {
+    get_patterns() if (!$gotpatterns);
+    foreach my $key (keys %{$patternhash}) {
+      my @patterns = split /|/, $patternhash->{$key};
+      foreach my $pattern (@patterns) {
+        if (index($url, $pattern) >= 0) {
+          return $key;
+        }
+      }
+    }
+  }
+  return undef;
+}
+
+# stripspace removes interior newlines, excess spaces, leading and trailing
+
+sub _stripspace {
+  my ($str, $returnspace) = @_;
+  if (!$returnspace) {
+    $str =~ s/[\n\r]//g;
+  }
+  $str =~ s/^\s+//;
+  $str =~ s/\s+$//;
+  $str =~ s/\s+/ /g;
+  return $str;
+}
+
+sub cookiename {
+  my $from = shift;
+  my $cookiename = $LIBRARY_COOKIE;
+  if ($from) { 
+    $cookiename .= "_from_" . $from;
+  }
+  return $cookiename;
+}
+
+sub cookiepopulate {
+  my ($q) = @_;
+  my $library = _stripspace($q->param("library"));
+  my $libcookie = $q->cookie(-domain=>$COOKIEDOMAIN,
+                           -name=>cookiename($q->param("from")),
+                           -value=>$library);
+  return [$libcookie];
+}
+
+sub libparse {
+  my ($str) = @_;
+  my $rec = {};
+  my @lines = split /\n/, $str;
+  foreach my $line (@lines) {
+    if ($line =~ /^(\S+)\s+(.*\S)/) {
+      $rec->{$1} = $2;
+      if ($1 eq "STATE") {
+        $rec->{COUNTRY} = "US";
+      }
+    }
+  }
+  return $rec;
+}
+
+sub findlibrary {
+  my ($libid) = @_;
+  my $rec;
+  return undef if (!$libid);
+  $hash = new OLBP::Hash(name=>"libhash", filename=>$libhashfile, cache=>1);
+  my $str = $hash->get_value(key=>$libid);
+  if ($str) {
+    $rec = libparse($str);
+  }
+  return $rec;
+}
+
+sub getliblist {
+  my @liblist = ();
+  open IN, "< $liblistfile" or return ();
+  my $str = "";
+  while (my $line = <IN>) {
+    if (!($line =~ /\S/)) {
+      if ($str) {
+        my $rec = libparse($str);
+        $str = "";
+        if ($rec) {
+          push @liblist, $rec;
+        }
+       }
+     }  else {
+       $str .= $line;
+     }
+  }
+  close IN;
+  if ($str) {
+    my $rec = libparse($str);
+    if ($rec) {
+      push @liblist, $rec;
+    }
+  }
+  return @liblist;
+}
+
+sub sortbystate {
+  my ($recref) = @_;
+  return  sort {($a->{COUNTRY} cmp $b->{COUNTRY}) ||
+                ($states->{$a->{STATE}} cmp $states->{$b->{STATE}}) ||
+                ($a->{NAME} cmp $b->{NAME}) } @{$recref};
+
+}
+
+sub showlibrarylinks {
+  my ($recref, $q, $sourcetoomit) = @_;
+  return if (!$recref);
+  my $statecode = "";
+  my $ccode = "";
+  my @liblist = sortbystate($recref);
+  foreach my $rec (@liblist) {
+    next if ($rec->{COUNTRY} eq "SUPPRESS");
+    next if ($rec->{ID} eq $sourcetoomit);
+    if ($rec->{COUNTRY} ne $ccode) {
+      if ($ccode) {
+        print "</ul>";
+      }
+      $ccode = $rec->{COUNTRY};
+      print qq!<b>$countries->{$ccode}</b><ul>!;
+    }
+    if ($rec->{STATE} ne $statecode) {
+      if ($statecode) {
+        print "</ul>";
+      }
+      $statecode = $rec->{STATE};
+      print qq!<li> <b>$states->{$statecode}</b><ul>!;
+    }
+    my $url = "?library=" . $rec->{ID};
+    foreach my $attr ('su', 'au', 'ti', 'st', 'at', 'tt', 'from') {
+      if ($q->param($attr)) {
+        my $str = $q->param($attr);
+        utf8::decode($str);
+        $url .= "&$attr=" . OLBP::url_encode($str);
+      }
+    }
+    print qq!<li> <a href="$url">$rec->{NAME}</a> ($rec->{LOCATION})\n!;
+  }
+  print qq!</ul></ul>\n!;
+}
+
+# wheretogoto returns the symbol of library the user should go to
+
+sub wheretogoto {
+  my ($q) = @_;
+  #if there's one specified in URL, use that (even if it's where we came from)
+  if ($q->param("library")) {
+    return $q->param("library");
+  }
+  # if there's a source-specific one matching our source, use that (ditto)
+  my @cookienames = $q->cookie();
+  foreach my $name (@cookienames) {
+    if ($name =~ /^${LIBRARY_COOKIE}_from_(.+)/ &&
+         source_matches($q, $1)) {
+      return $q->cookie($name);
+    }
+  }
+  #  if there's a general one, use that *unless* it's where we came from
+  if ($q->cookie($LIBRARY_COOKIE) &&
+      !source_matches($q, $q->cookie($LIBRARY_COOKIE))) {
+    return $q->cookie($LIBRARY_COOKIE);
+  }
+  # if user is in an IP range with a specific destination library, use it
+  my $iplib = library_with_ip($q->remote_addr());
+  if ($iplib) {
+   return $iplib;
+  }
+  # otherwise, we don't know where the user should go
+  return undef;
+}
+
+sub suggestexits {
+   print "<p>You can try out your selections by going to ";
+   print qq!<a href="$ONLINEBOOKS_URL">The Online Books Page</a>!;
+   # activate when we have links from Wikipedia
+   print qq! or <a href="http://en.wikipedia.org/">Wikipedia</a>!;
+   print ".</p>\n";
+}
+
+# destination_record gets the library record
+# that's the destination of the library with supplied ID 
+# (or the default if no ID supplied)
+
+sub destination_record {
+  my ($q, $fromid) = @_;
+  my $cookiename = cookiename($fromid);
+  my $dest = $q->cookie($cookiename);
+  if ($dest) {
+    return findlibrary($dest);
+  }
+  return undef;
+}
+
+sub show_other_library_choices {
+  my ($q, $fromrec) = @_;
+  print "<p>";
+  if ($fromrec) {
+    my $destrec = destination_record($q);
+    if ($destrec) {
+      print "Your library for other referrals is " . $destrec->{NAME};
+      print qq!. (You can <a href="$OLBP::seealsourl">change this</a>)!;
+    } else {
+      print "You don't have a library set for other referrals";
+      print qq!. (<a href="$OLBP::seealsourl">Choose one</a>)!;
+    }
+  } else {
+    foreach my $alternate ($ONLINEBOOKS_SOURCE, $WIKIPEDIA_SOURCE)  {
+      my $fromrec = findlibrary($alternate);
+      next if (!$fromrec);
+      my $url = $OLBP::seealsourl;
+      $url .= "?from=" . $alternate;
+      my $destrec = destination_record($q, $alternate);
+      if ($destrec) {
+        print "Your library for referrals from " . $fromrec->{NAME};
+        print " is " . $destrec->{NAME};
+        print qq!. (You can <a href="$url">change this</a>.)!;
+      } else {
+        print "If you wish, you can choose a different library for ";
+        print qq!<a href="$url">referrals from ! . $fromrec->{NAME} . "</a>.";
+      }
+      print "<br>";
+    }
+  }
+  print "</p>\n";
+}
+
+sub chooselibraryform {
+  my ($q) = @_;
+  my $fromlibrary = $q->param("from");
+  my $cookies = cookiepopulate($q);
+  my $cookiename = cookiename($q->param("from"));
+  my $libchosen = $q->param("library") || $q->cookie($cookiename);
+
+  my $librec = findlibrary($libchosen);
+  my $fromrec = findlibrary($fromlibrary);
+  &startpage($q, "Review your library choice", $cookies);
+  my $referralnote = "";
+  if ($fromrec) {
+    $referralnote .= " for referrals from " . $fromrec->{NAME};
+  }
+  my $heading = "Choose a library$referralnote";
+  if ($librec) {
+    $heading = "Your library$referralnote is " . $librec->{NAME};
+  }
+  print qq!<h2 align="center">$heading</h2>!;
+  my @librecs = getliblist();
+  if (scalar(@librecs)) {
+     if ($librec) {
+       print "<p>If you would like to switch to a different library, choose";
+     } else {
+       print "<p>We don't yet know which library you prefer ";
+       print "to use$referralnote. Choose";
+     }
+     print " from one below, or ";
+     print qq!<a href="/webbin/olbpcontact?type=library">let us know</a>!;
+     print " about another library you'd like us to include.</p>";
+     if ($librec) {
+       # &show_other_library_choices($q, $fromrec);
+       &suggestexits();
+     }
+     &showlibrarylinks(\@librecs, $q, $fromlibrary);
+  }
+  endpage($q);
+  finish();
+}
+
+sub sorry {
+  my ($q, $msg) = @_;
+  &startpage($q, "Oops!");
+  print qq!<h2 align="center">Well, this is embarrassing...</h2>!;
+  print qq!
+<p>Sorry, $msg.</p><p>
+    If you would like us to fix this, please write to
+    onlinebooks\@pobox.upenn.edu, and explain what happened, 
+    along with which library you were hoping to link to.
+    If you put ERROR in your subject line, we'll try to expedite its handling.
+</p>
+    !;
+  &endpage($q);
+  finish();
+}
+
+# transformations:
+
+# make keywords just throws terms together, removing nonword characters
+
+sub makekeywords {
+  my $kwstr = join ' ', @_;
+  $kwstr =~ s/\W/ /g;
+  $kwstr =~ s/\s+/ /g;
+  $kwstr =~ s/^\s+//;
+  $kwstr =~ s/\s+$//;
+  return $kwstr;
+}
+
+sub transform {
+  my ($value, $transforms) = @_;
+  while ($transforms) {
+    my $transform = "";
+    # Bite off the next uppercase letter, name before semicolon, or whole thing
+    if ($transforms =~ /^([A-Z])(.*)/) {
+      ($transform, $transforms) = ($1, $2);
+    } elsif ($transforms =~ /^([^;]*);(.*)/) {
+      ($transform, $transforms) = ($1, $2);
+    } else {
+      $transform = $transforms;
+      $transforms = "";
+    }
+    if ($transform eq "A" || $transform eq "article") {
+      $value =~ s/^(A |An |The )//i;
+    } elsif ($transform eq "N" || $transform eq "normalize") {
+      $value = OLBP::Entities::normalize_utf8($value);
+    } elsif ($transform eq "K" || $transform eq "keyword") {
+      $value = makekeywords($value);
+    } elsif ($transform eq "S" || $transform eq "simplifyname") {
+      if ($value =~ /^([^,]*,[^,]*),/) {
+        $value = $1;
+      } elsif ($value =~ /^([^,]*,[^,]*)\(/) {
+        $value = $1;
+      }
+    }
+  }
+  return $value;
+}
+
+# cleanarg undoes HTML character entities, removes leading and trailing spaces
+
+sub cleanarg {
+  my $str = shift;
+  return "" if (!$str);
+  $str = OLBP::Entities::utf8ify_entities($str);
+  $str =~ s/^ //;
+  $str =~ s/ $//;
+  return $str;
+}
+
+# add_filters adds any additional filters called for
+#  (since some implementations of the same ILS have problems)
+#  currently we add them on to the end (we may need to adjust if some
+#  require it at the start_
+
+sub add_filters {
+  my ($arg, $filters) = @_;
+  if (!$arg || !$filters) {
+    return $arg;
+  }
+  if ($arg =~ /:/) {
+    if ($arg =~ /[A-Z]$/) {
+      return $arg . $filters;
+    }
+    return $arg . ";$filters";
+  } 
+  return $arg . ":$filters";
+}
+
+sub substitute {
+  my ($expr, $librec, $params) = @_;
+  $expr = add_filters($expr, $librec->{FILTERS});
+  my $arg = $expr;
+  my $transforms = "";
+  if ($expr =~ /(.*):(.*)/) {
+    ($arg, $transforms) = ($1, $2);
+  }
+  if ($params->{$arg}) {
+    my $value = cleanarg($params->{$arg});
+    if ($transforms) {
+      $value = transform($value, $transforms);
+    }
+    return OLBP::url_encode($value);
+  }
+  if ($librec->{$arg}) {
+    return $librec->{$arg};
+  }
+  return "";
+}
+
+sub select_library_for_routing {
+  my ($q) = @_;
+  my @librecs = getliblist();
+  &startpage($q, "Choose a library for this search");
+  print qq!<h2 align="center">Choose a library for this search</h2>!;
+  print "<p>If you don't see your library in the list below, you can ";
+  print qq!<a href="/webbin/olbpcontact?type=library">ask us to add it</a>.</p>!;
+  print qq!<p>You can also <a target="_blank" href="$OLBP::seealsourl">!;
+  print qq!set a preferred library for future searches</a>.</p>!;
+  showlibrarylinks(\@librecs, $q);
+  endpage($q);
+  finish();
+}
+
+sub route_request {
+  my ($librec, %params) = @_;
+  my $urltype = $params{urltype};
+  my $urlpattern = $librec->{$urltype};
+  if (!$urlpattern) {
+    return 0;
+  }
+  my $url = $urlpattern;
+  if ($urltype eq "ATIURL") {
+    $url =~ s/\$\{(AUTHOR[^\}]*)\}/&substitute($1,
+                                     $librec, {AUTHOR=>$params{author}})/ge;
+    $url =~ s/\$\{(TITLE[^\}]*)\}/&substitute($1, $librec,
+                                              {TITLE=>$params{title}})/ge;
+  }
+  $url =~ s/\$\{([^\}]+)\}/&substitute($1, $librec, {ARG=>$params{arg}})/ge;
+  print "Location: $url\n\n";
+  finish();
+}
+
+# if we came from Wikipedia, this will tell us the title of the
+# article we came from
+
+sub wikipedia_referer_title {
+  my ($q) = @_;
+  my $url = $q->referer();
+  if ($url =~ m!wikipedia.org/(.*)!) {
+    my $keystr = $1;
+    $keystr =~ s/#.*//;
+    $keystr =~ s/\s//g;
+    $keystr =~ s/_/ /g;
+    return $keystr;
+  }
+  return undef;
+}
+
+sub dropoff_at_library {
+  my ($q, $librec) = @_;
+  my $url = $librec->{BASEURL};
+  if ($librec->{DEFAULT}) {
+    $url = $librec->{DEFAULT};
+    if ($librec->{DEFAULT} =~ /DOMAIN/) { 
+      $url = $librec->{BASEURL};
+      if ($url =~ m!(^[a-z]*://[^/]*/)!) {
+        $url = $1;
+      }
+    }
+  }
+  if ($url) {
+    print "Location: $url\n\n";
+    finish();
+  }
+  sorry($q, "we don't know how to route this kind of query to your library");
+}
+
+sub url_decode {
+  my $str = shift;
+  return "" if (!$str);
+  $str =~ s/%([0-9A-Fa-f][0-9A-Fa-f])/chr(hex($1))/ge;
+  utf8::decode($str);
+  return $str;
+}
+
+sub lookup_viaf {
+  my $viaf = shift;
+  $viaf =~ s/[^0-9]//g;
+  if (!$viafhash) {
+    $viafhash = new OLBP::Hash(name=>"viaf", filename=>$viafhashfile, cache=>1);
+  }
+  my $str = url_decode($viafhash->get_value(key=>$viaf));
+  # my $str = $viafhash->get_value(key=>$viaf);
+  return $str;
+}
+
+sub lookup_lccn {
+  my $lccn = shift;
+  $lccn =~ s/[^a-z0-9]//g;
+  if (!$lccnhash) {
+    $lccnhash = new OLBP::Hash(name=>"lccn", filename=>$lccnhashfile, cache=>1);
+  }
+  my $str = url_decode($lccnhash->get_value(key=>$lccn));
+  return $str;
+}
+
+sub lookup_wikipedia {
+  my $wpname = shift;
+  $wpname = cleanarg($wpname);
+  $wpname = OLBP::url_encode($wpname);
+  if (!$wphash) {
+    $wphash = new OLBP::Hash(name=>"wiki", filename=>$wphashfile, cache=>1);
+  }
+  my $str = url_decode($wphash->get_value(key=>$wpname));
+  return $str;
+}
+
+# if subdivisions, normalize them to have one space on either side
+# and get rid of extra internal spacing
+
+sub normalize_subdivisions {
+  my $heading = shift;
+  if ($heading =~ /--/) {
+    $heading =~ s/--([^-])/ -- $1/g;
+    $heading =~ s/\s+/ /g;
+  }
+  return $heading;
+}
+
+sub get_lc_term {
+  my ($heading, $type) = @_;
+  if ($type eq $VIAF_TYPE) {
+    return lookup_viaf($heading);
+  }
+  if ($type eq $LCCN_TYPE) {
+    return lookup_lccn($heading);
+  }
+  if ($type eq $WIKIPEDIA_TYPE) {
+    return lookup_wikipedia($heading);
+  }
+  $heading = normalize_subdivisions($heading);
+  return $heading;
+}
+
+sub route_term {
+  my ($q, $librec, $urltype, $term, $termtype) = @_;
+  if ($termtype) {
+    my $realterm = get_lc_term($term, $termtype);
+    if ($realterm) {
+      $term = $realterm;
+    } elsif ($termtype eq $WIKIPEDIA_TYPE) {
+      route_request($librec, urltype=>"KEYURL", arg=>$term);
+    } else {
+      # it's a code, not a keyword;
+      #   see if the referer can tell us what was being sought
+      my $wikititle = wikipedia_referer_title($q);
+      if ($wikititle) {
+        $realterm = get_lc_term($wikititle, $WIKIPEDIA_TYPE);
+        if ($realterm) {
+          route_request($librec, urltype=>$urltype, arg=>$realterm);
+          route_request($librec, urltype=>"KEYURL", arg=>$realterm);
+        }
+        route_request($librec, urltype=>"KEYURL", arg=>$wikititle);
+      }
+      # if not, then just send the user to the library to search on their own
+      dropoff_at_library($q, $librec);
+    }
+  } else {
+    $term = normalize_subdivisions($term);
+  }
+  route_request($librec, urltype=>$urltype, arg=>$term);
+  route_request($librec, urltype=>"KEYURL", arg=>$term);
+}
+
+my $q = new CGI;
+my $cmd = $q->url(-path_info=>1);
+$cmd =~ s/(.*)\///;
+
+log_request($q);
+
+my $subject = $q->param('su');
+utf8::decode($subject);
+my $stype   = $q->param('st');
+my $author  = $q->param('au');
+utf8::decode($author);
+my $atype   = $q->param('at');
+my $title   = $q->param('ti');
+utf8::decode($title);
+
+my $librec;
+
+if ($subject || $author || $title) {
+  my $libchosen = wheretogoto($q);
+  $librec = findlibrary($libchosen);
+  if (!$librec) {
+    select_library_for_routing($q);
+  }
+} elsif (my $wikititle = wikipedia_referer_title($q)) {
+  my $libchosen = wheretogoto($q);
+  $librec = findlibrary($libchosen);
+  if (!$librec) {
+    select_library_for_routing($q);
+  }
+  $subject = $wikititle;
+  $stype = $WIKIPEDIA_TYPE;
+}
+
+if ($subject) {
+  route_term($q, $librec, "SUBURL", $subject, $stype);
+}
+
+if ($author && $title) {
+  # we don't yet do forwarding of titles except from OLBP
+  route_request($librec, urltype=>"ATIURL", author=>$author, title=>$title);
+  # didn't work?  Try doing keyword searches
+  route_request($librec, urltype=>"KEYURL", arg=>makekeywords($author, $title));
+  # title more than one word?  probably the safest to try
+  if ($title =~ /\s/) {
+    route_request($librec, urltype=>"TITURL", arg=>$title);
+  }
+  # still didn't work?  We'll fall through to other cases
+}
+if ($author) {
+  route_term($q, $librec, "AUTURL", $author, $atype);
+}
+if ($title) {
+  # we don't yet do forwarding of titles except from OLBP
+  route_request($librec, urltype=>"TITURL", arg=>$title);
+  route_request($librec, urltype=>"KEYURL", arg=>$title);
+}
+if ($subject || $author || $title) {
+  dropoff_at_library($q, $librec);
+  sorry($q, "we don't know how to route this kind of query to your library");
+}
+
+&chooselibraryform($q);
+
+# shouldn't reach here
+
+
+print "Location: $OLBP::homepage\n\n";
+finish;
