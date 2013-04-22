@@ -2,7 +2,7 @@
 
 # Main FTL (Forward to Libraries) CGI script
 # By John Mark Ockerbloom, University of Pennsylvania (everybodyslibraries.com)
-# Version as of 22 Mar 2012
+# Version as of 11 Apr 2013
 #
 # Main FTL service currently runs at
 #   http://onlinebooks.library.upenn.edu/webbin/ftl
@@ -24,32 +24,32 @@ $OLBP::SCRIPTNAME = "ftl";
 
 use lib "/websites/OnlineBooks/nonpublic/lib";
 use lib "/home/ockerblo/booksrc/nlib";
+use lib "/data/project/ftl/lib";
 use OLBP;
-
-my $COOKIEDOMAIN = ".library.upenn.edu";
-my $LIBRARY_COOKIE = 'olbp_ftl';
+use FTLConfig;
 
 my $ONLINEBOOKS_URL = "http://onlinebooks.library.upenn.edu/";
 my $ONLINEBOOKS_SOURCE = "OLBP";
 my $WIKIPEDIA_SOURCE   = "WKPD";
 
+my $SUGGEST_LIBRARY_URL = $ONLINEBOOKS_URL . "/webbin/olbpcontact?type=library";
+
 my $NO_CRAWLER_LOGGING = 1;
 
 my @SOURCES = ($ONLINEBOOKS_SOURCE, $WIKIPEDIA_SOURCE);
 
-my $idxdir              = "/websites/OnlineBooks/nonpublic/ftl/";
-my $libhashfile         = $idxdir . "libraries.hsh";
-my $liblistfile         = $idxdir . "libraries";
-my $sourcepatternfile   = $idxdir . "sourcepatterns";
-my $iprangefile         = $idxdir . "ipranges";
+my $libhashfile         = $FTL::IDXDIR . "libraries.hsh";
+my $liblistfile         = $FTL::IDXDIR . "libraries";
+my $sourcepatternfile   = $FTL::IDXDIR . "sourcepatterns";
+my $iprangefile         = $FTL::IDXDIR . "ipranges";
 
-my $wikidir             = $idxdir . "wiki/";
+my $wikidir             = $FTL::IDXDIR . "wiki/";
 
 my $viafhashfile        = $wikidir . "viaftosub.hsh";
 my $lccnhashfile        = $wikidir . "lctosub.hsh";
 my $wphashfile          = $wikidir . "wptosub.hsh";
 
-my $logdir             = $idxdir . "logs/";
+my $logdir             = $FTL::IDXDIR . "logs/";
 my $applog             = $logdir . "ftl-log";
 
 my $VIAF_TYPE      = "viaf";
@@ -63,6 +63,7 @@ my $countries = {
   'AU' => "Australia",
   'CA' => "Canada",
   'IE' => "Ireland",
+  'NA' => "Namibia",
   'NZ' => "New Zealand",
   'SG' => "Singapore",
   'UK' => "United Kingdom",
@@ -105,9 +106,9 @@ sub pageheader {
   my ($q, $title) = @_;
   my $str = "<html><head><title>FTL: $title</title>";
   $str .= "<link rel=\"stylesheet\" " .
-                " type=\"text/css\" href=\"$OLBP::styleurl\">";
+                " type=\"text/css\" href=\"$FTL::STYLEURL\">";
   $str .= "</head>\n";
-  if (source_matches($q, $ONLINEBOOKS_SOURCE)) {
+  if ($FTL::OLBPBRANDING && source_matches($q, $ONLINEBOOKS_SOURCE)) {
     $str .= $OLBP::bodystart;
   } else {
     $str .= "<body bgcolor=\"#ffffff\" text=\"#000000\"" .
@@ -130,7 +131,7 @@ sub startpage {
 
 sub endpage {
   my ($q) = @_;
-  if (source_matches($q, $ONLINEBOOKS_SOURCE)) {
+  if ($FTL::OLBPBRANDING && source_matches($q, $ONLINEBOOKS_SOURCE)) {
     print "<hr>" . $OLBP::bodyend;
   } else {
     print "<hr><p align=center>FTL service provided by ";
@@ -157,7 +158,7 @@ sub log_request {
   my ($q) = @_;
   next if ($NO_CRAWLER_LOGGING && is_crawler($q));
   my $host = $q->remote_host();
-  my $preferredlibrary = $q->cookie($LIBRARY_COOKIE);
+  my $preferredlibrary = $q->cookie($FTL::LIBRARY_COOKIE);
   my $referer = $q->referer();
   my @ta = localtime(time);
   my $tstr = sprintf("%d-%02d-%02d %02d:%02d:%02d", 
@@ -166,7 +167,10 @@ sub log_request {
 
   open LOG, ">> $applog" or return undef;
   binmode LOG, ":utf8";
-  print LOG "$host|$tstr|referer=$referer|cookie=$preferredlibrary";
+  if ($FTL::LOG_HOSTS) {
+    print LOG "$host|";
+  }
+  print LOG "$tstr|referer=$referer|cookie=$preferredlibrary";
   foreach my $attr ('su', 'au', 'ti', 'st', 'at', 'tt', 'from', 'library') {
     if ($q->param($attr)) {
       my $str = $q->param($attr);
@@ -294,7 +298,7 @@ sub _stripspace {
 
 sub cookiename {
   my $from = shift;
-  my $cookiename = $LIBRARY_COOKIE;
+  my $cookiename = $FTL::LIBRARY_COOKIE;
   if ($from) { 
     $cookiename .= "_from_" . $from;
   }
@@ -304,7 +308,7 @@ sub cookiename {
 sub cookiepopulate {
   my ($q) = @_;
   my $library = _stripspace($q->param("library"));
-  my $libcookie = $q->cookie(-domain=>$COOKIEDOMAIN,
+  my $libcookie = $q->cookie(-domain=>$FTL::COOKIEDOMAIN,
                            -name=>cookiename($q->param("from")),
                            -value=>$library);
   return [$libcookie];
@@ -419,15 +423,15 @@ sub wheretogoto {
   # if there's a source-specific one matching our source, use that (ditto)
   my @cookienames = $q->cookie();
   foreach my $name (@cookienames) {
-    if ($name =~ /^${LIBRARY_COOKIE}_from_(.+)/ &&
+    if ($name =~ /^${FTL::LIBRARY_COOKIE}_from_(.+)/ &&
          source_matches($q, $1)) {
       return $q->cookie($name);
     }
   }
   #  if there's a general one, use that *unless* it's where we came from
-  if ($q->cookie($LIBRARY_COOKIE) &&
-      !source_matches($q, $q->cookie($LIBRARY_COOKIE))) {
-    return $q->cookie($LIBRARY_COOKIE);
+  if ($q->cookie($FTL::LIBRARY_COOKIE) &&
+      !source_matches($q, $q->cookie($FTL::LIBRARY_COOKIE))) {
+    return $q->cookie($FTL::LIBRARY_COOKIE);
   }
   # if user is in an IP range with a specific destination library, use it
   my $iplib = library_with_ip($q->remote_addr());
@@ -467,16 +471,16 @@ sub show_other_library_choices {
     my $destrec = destination_record($q);
     if ($destrec) {
       print "Your library for other referrals is " . $destrec->{NAME};
-      print qq!. (You can <a href="$OLBP::seealsourl">change this</a>)!;
+      print qq!. (You can <a href="$FTL::MAINURL">change this</a>)!;
     } else {
       print "You don't have a library set for other referrals";
-      print qq!. (<a href="$OLBP::seealsourl">Choose one</a>)!;
+      print qq!. (<a href="$FTL::MAINURL">Choose one</a>)!;
     }
   } else {
     foreach my $alternate ($ONLINEBOOKS_SOURCE, $WIKIPEDIA_SOURCE)  {
       my $fromrec = findlibrary($alternate);
       next if (!$fromrec);
-      my $url = $OLBP::seealsourl;
+      my $url = $FTL::MAINURL;
       $url .= "?from=" . $alternate;
       my $destrec = destination_record($q, $alternate);
       if ($destrec) {
@@ -521,7 +525,7 @@ sub chooselibraryform {
        print "to use$referralnote. Choose";
      }
      print " from one below, or ";
-     print qq!<a href="/webbin/olbpcontact?type=library">let us know</a>!;
+     print qq!<a href="$SUGGEST_LIBRARY_URL">let us know</a>!;
      print " about another library you'd like us to include.</p>";
      if ($librec) {
        # &show_other_library_choices($q, $fromrec);
@@ -649,8 +653,8 @@ sub select_library_for_routing {
   &startpage($q, "Choose a library for this search");
   print qq!<h2 align="center">Choose a library for this search</h2>!;
   print "<p>If you don't see your library in the list below, you can ";
-  print qq!<a href="/webbin/olbpcontact?type=library">ask us to add it</a>.</p>!;
-  print qq!<p>You can also <a target="_blank" href="$OLBP::seealsourl">!;
+  print qq!<a href="$SUGGEST_LIBRARY_URL">ask us to add it</a>.</p>!;
+  print qq!<p>You can also <a target="_blank" href="$FTL::MAINURL">!;
   print qq!set a preferred library for future searches</a>.</p>!;
   showlibrarylinks(\@librecs, $q);
   endpage($q);
@@ -874,5 +878,5 @@ if ($subject || $author || $title) {
 # shouldn't reach here
 
 
-print "Location: $OLBP::homepage\n\n";
+print "Location: $FTL::BAILOUT\n\n";
 finish;

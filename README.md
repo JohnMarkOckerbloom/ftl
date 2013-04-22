@@ -10,5 +10,6 @@ and we hope to add more before long.
 
 Code licensed under Educational Community License, version 2.0
   (http://opensource.org/licenses/ecl2.php)
-Data released under Creative Commons CC0
-  (http://creativecommons.org/publicdomain/zero/1.0/)
+Data released under various open licenses, with
+  "cattype" and "libraries" released under CC0
+    CC0 refers to http://creativecommons.org/publicdomain/zero/1.0/

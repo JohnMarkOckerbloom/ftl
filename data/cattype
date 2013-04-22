@@ -6,6 +6,11 @@
 # See docs file for documentation, libraries file for usage of this catalog data
 # Last updated 2013-03-22
 
+CATTYPE 360search
+SUBURL ${BASEURL}/results?SS_LibHash=${LCODE}&action=start&dbIDList=${DBID}&field=subject&term=${ARG}
+AUTURL ${BASEURL}/results?SS_LibHash=${LCODE}&action=start&dbIDList=${DBID}&field=author&term=${ARG}
+TITURL ${BASEURL}/results?SS_LibHash=${LCODE}&action=start&dbIDList=${DBID}&field=title&term=${ARG}
+KEYURL ${BASEURL}/results?SS_LibHash=${LCODE}&action=start&dbIDList=${DBID}&field=keyword&term=${ARG}
 
 CATTYPE aleph1
 TINDEX TTL
@@ -79,6 +84,12 @@ KEYURL ${BASEURL}/search*eng/X?SEARCH=(${ARG:N})&SORT=D
 
 CATTYPE encorekey
 KEYURL ${BASEURL}/search/C|S${ARG}|Orightresult|U1?lang=eng&suite=${SKIN}
+
+CATTYPE eosweb
+SUBURL ${BASEURL}?IsFirstDisplay=FALSE&GoPressed=TRUE&ShowOptions=FALSE&selectField1=SU&txtSearch1=${ARG}
+TITURL ${BASEURL}?IsFirstDisplay=FALSE&GoPressed=TRUE&ShowOptions=FALSE&selectField1=AU&txtSearch1=${ARG}
+TITURL ${BASEURL}?IsFirstDisplay=FALSE&GoPressed=TRUE&ShowOptions=FALSE&selectField1=TI&txtSearch1=${ARG}
+KEYURL ${BASEURL}?IsFirstDisplay=FALSE&GoPressed=TRUE&ShowOptions=FALSE&selectField1=KW&txtSearch1=${ARG}
 
 CATTYPE evergreen
 SUBURL ${BASEURL}/skin/default/xml/rresult.xml?rt=keyword&l=${LCODE}&tp=keyword&t=%20subject:${ARG}
@@ -157,6 +168,11 @@ AUTURL ${BASEURL}/TalisPrism/doSearch.do?searchType=advSearch&st1=author&searchL
 TITURL ${BASEURL}/TalisPrism/doSearch.do?searchType=advSearch&st1=title&searchLocations=talislms&sv1=${ARG}
 KEYURL ${BASEURL}/TalisPrism/doSearch.do?searchType=advSearch&st1=keyword&searchLocations=talislms&sv1=${ARG}
 
+# another version of talis prism
+CATTYPE prismhosted
+AUTURL ${BASEURL}/items?adv=t&query=author:(${ARG})
+KEYURL ${BASEURL}/items?query=${ARG}
+
 CATTYPE sirsi
 SUBURL ${BASEURL}/x/0/0/5?searchdata1=${ARG:NK}{SU}
 AUTURL ${BASEURL}/x/0/0/5?searchdata1=${ARG:NK}{AU}
@@ -165,10 +181,11 @@ KEYURL ${BASEURL}/x/0/0/5?searchdata1=${ARG:NK}
 DEFAULT DOMAIN
 
 CATTYPE sirsient
-SUBURL ${BASEURL}/client/default/search/results?&rt=SUBJECT|||Subject|||false&qu="${ARG}"
-AUTURL ${BASEURL}/client/default/search/results?&rt=AUTHOR|||Author|||false&qu="${ARG}"
-TITURL ${BASEURL}/client/default/search/results?&rt=TITLE|||Title|||false&qu="${ARG}"
-KEYURL ${BASEURL}/client/default/search/results?qu=${ARG}
+LCODE default
+SUBURL ${BASEURL}/client/${LCODE}/search/results?&rt=SUBJECT|||Subject|||false&qu="${ARG}"
+AUTURL ${BASEURL}/client/${LCODE}/search/results?&rt=AUTHOR|||Author|||false&qu="${ARG}"
+TITURL ${BASEURL}/client/${LCODE}/search/results?&rt=TITLE|||Title|||false&qu="${ARG}"
+KEYURL ${BASEURL}/client/${LCODE}/search/results?qu=${ARG}
 
 CATTYPE spydus
 SUBURL ${BASEURL}/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?ENTRY_NAME=SU&&ENTRY=${ARG:N}

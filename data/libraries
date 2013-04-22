@@ -29,6 +29,12 @@ NAME Wikipedia
 COUNTRY SUPPRESS
 SOURCE wikipedia.org
 
+ID DPLA
+NAME Digital Public Library of America
+LOCATION Millions of free online cultural resources from American institutions
+COUNTRY 00
+KEYURL http://dp.la/search?q=${ARG}
+
 ID EUROPEANA
 NAME Europeana Portal
 COUNTRY 00
@@ -52,6 +58,15 @@ CATTYPE primo
 BASEURL http://macquarie-primo.hosted.exlibrisgroup.com/primo_library
 VID MQ
 
+ID AU-NSL
+NAME State Library of New South Wales
+LOCATION Sydney, New South Wales
+COUNTRY AU
+CATTYPE 360search
+BASEURL http://ch2bx2ke8t.cs.serialssolutions.com
+LCODE CH2BX2KE8T
+DBID F78%2CF79
+
 ID AU-QSL
 NAME State Library of Queensland
 LOCATION Brisbane, Queensland
@@ -67,6 +82,20 @@ COUNTRY AU
 BASEURL http://catalogue.slwa.wa.gov.au
 CATTYPE innopac
 
+ID OCLC-CDN
+NAME Concordia University
+LOCATION Montreal, Quebec
+COUNTRY CA
+BASEURL http://clues.concordia.ca
+CATTYPE innopac
+
+ID OCLC-LGG
+NAME McGill University Library
+LOCATION Montreal, Quebec
+COUNTRY CA
+BASEURL http://mcgill.worldcat.org/search
+CATTYPE worldcat
+
 ID OCLC-NOVAN
 NAME Novanet Consortium
 LOCATION Academic libraries in Nova Scotia
@@ -75,12 +104,29 @@ CATTYPE aleph1
 BASEURL http://aleph1.novanet.ns.ca
 TINDEX WTI
 
+ID OCLC-CNORL
+NAME Okanagan Regional Library
+LOCATION Okanagan Valley and vicinity, British Columbia
+COUNTRY CA
+CATTYPE bibliocommons
+BASEURL http://orl.bibliocommons.com
+
 ID OCLC-CNOPL
 NAME Oshawa Public Libraries
 LOCATION Oshawa, Ontario
 COUNTRY CA
 CATTYPE sirsient
 BASEURL http://cco.ent.sirsidynix.net
+
+ID OCLC-TOH
+NAME Toronto Public Library
+LOCATION Toronto, Ontario
+COUNTRY CA
+BASEURL http://www.torontopubliclibrary.ca/
+SUBURL ${BASEURL}/search.jsp?Ntk=Subject_Search_Interface&N=0&advancedSearch=true&Ntt=${ARG}
+AUTURL ${BASEURL}/search.jsp?Ntk=Author_Search_Interface&N=0&advancedSearch=true&Ntt=${ARG}
+TITURL ${BASEURL}/search.jsp?Ntk=Title_Search_Interface&N=0&advancedSearch=true&Ntt=${ARG}
+KEYURL ${BASEURL}search.jsp?Ntt=${ARG}
 
 ID AU-VBAX
 NAME University of Ballarat
@@ -102,6 +148,24 @@ LOCATION Vancouver and Kelowna, British Columbia
 COUNTRY CA
 CATTYPE summon
 BASEURL http://ubc.summon.serialssolutions.com
+
+ID OCLC-OTZ
+NAME University of Ottawa
+LOCATION Ottawa, Ontario
+COUNTRY CA
+BASEURL http://catalogue.bib.uottawa.ca/html/results.jsp?language=en&loc=0
+SUBURL ${BASEURL}&whr=5&trms=${ARG}
+AUTURL ${BASEURL}&whr=2&trms=${ARG}
+TITURL ${BASEURL}&whr=3&trms=${ARG}
+KEYURL ${BASEURL}&whr=1&trms=${ARG}
+
+ID OCLC-UTM
+NAME University of Toronto
+LOCATION Toronto, Ontario
+COUNTRY CA
+BASEURL http://onesearch.library.utoronto.ca/
+TITURL ${BASEURL}?q=onesearch/search/${ARG:N}&title_only=1
+KEYURL ${BASEURL}?q=onesearch/search/${ARG:N}
 
 ID OCLC-VT2
 NAME University of Victoria Libraries
@@ -133,6 +197,13 @@ COUNTRY CA
 CATTYPE bibliocommons
 BASEURL http://vpl.bibliocommons.com
 
+ID OCLC-CNWLU
+NAME Waterloo Public Library
+LOCATION Waterloo, Ontario
+COUNTRY CA
+CATTYPE encore
+BASEURL http://encore.kpl.org/iii/encore_wpl
+
 ID OCLC-W2U
 NAME Wilfrid Laurier University
 LOCATION Waterloo, Ontario
@@ -156,12 +227,26 @@ COUNTRY CA
 CATTYPE tlc
 BASEURL http://yclibw.yukoncollege.yk.ca/
 
+ID OCLC-T9E
+NAME Institute of Technology Tallaght
+LOCATION Dublin
+COUNTRY IE
+BASEURL http://0-ittdublin.summon.serialssolutions.com.millennium.it-tallaght.ie
+CATTYPE summon
+
 ID OCLC-IEUOL
 NAME University of Limerick
 LOCATION Limerick
 COUNTRY IE
 BASEURL http://ul.summon.serialssolutions.com
 CATTYPE summon
+
+ID OCLC-U5N
+NAME University of Namibia
+LOCATION Windhoek and other campuses
+COUNTRY NA
+BASEURL http://millennium.unam.na
+CATTYPE webpacpro
 
 ID OCLC-SINTU
 NAME Nanyang Technological University
@@ -237,6 +322,15 @@ COUNTRY UK
 CATTYPE summon
 BASEURL http://cam.summon.serialssolutions.com
 
+ID OCLC-UKMAN
+NAME Manchester city libraries
+LOCATION Manchester, England
+COUNTRY UK
+BASEURL https://librarycatalogue.manchester.gov.uk/
+AUTURL ${BASEURL}02_Catalogue/02_003_BrowseResults.aspx?page=1&searchType=0&searchTerm=${ARG:S}
+TITURL ${BASEURL}02_Catalogue/02_003_BrowseResults.aspx?page=1&searchType=1&searchTerm=${ARG}
+KEYURL ${BASEURL}02_Catalogue/02_004_TitleResults.aspx?page=1&searchType=99&searchTerm=${ARG}
+
 ID OCLC-UK4ZN
 NAME Staffordshire University Library
 LOCATION Stoke on Trent and other campuses, England
@@ -257,6 +351,27 @@ LOCATION Hull, England
 COUNTRY UK
 BASEURL http://library.hull.ac.uk
 CATTYPE innopac
+
+ID OCLC-ERL
+NAME University of Leeds
+LOCATION Leeds, England
+COUNTRY UK
+BASEURL http://lib.leeds.ac.uk
+CATTYPE innopac
+
+ID OCLC-LTU
+NAME University of Leicester
+LOCATION Leicester, England
+COUNTRY UK
+CATTYPE summon
+BASEURL http://le.summon.serialssolutions.com
+
+ID OCLC-UKGLA
+NAME University of South Wales
+LOCATION catalogue includes former U-Glamorgan campuses; might not yet include Newport campus
+COUNTRY UK
+CATTYPE prismhosted
+BASEURL http://prism.talis.com/glam-ac
 
 ID OCLC-UKUAL
 NAME University of the Arts London
@@ -346,6 +461,13 @@ BASEURL http://ls2pac.lapl.org/
 CATTYPE ls2pac
 FILTERS S
 
+ID OCLC-9JR
+NAME Oakland Public Library
+LOCATION Oakland
+STATE CA
+BASEURL http://encore.oaklandlibrary.org/iii/encore
+CATTYPE encore
+
 ID OCLC-SFR
 NAME San Francisco Public Library
 LOCATION San Francisco
@@ -369,6 +491,16 @@ LOCATION Stanford
 STATE CA
 BASEURL http://searchworks.stanford.edu
 CATTYPE blacklight
+
+ID OCLC-TCB
+NAME Tulare County Library
+LOCATION Visalia and vicinity
+STATE CA
+BASEURL http://hip1.sjvls.org
+CATTYPE ipac20
+PROFILE thq
+AINDEX .AW
+TINDEX ALLTITL
 
 ID OCLC-COD
 NAME University of Colorado at Boulder
@@ -421,6 +553,13 @@ STATE DC
 BASEURL http://catalog.loc.gov/cgi-bin/Pwebrecon.cgi
 CATTYPE voyager
 
+ID OCLC-GF7
+NAME Flagler County Public Library System
+LOCATION Palm Coast and Bunnell
+STATE FL
+BASEURL http://polaris.flaglercounty.org/polaris
+CATTYPE polaris
+
 ID OCLC-TNH
 NAME Hillsborough County Public Library Cooperative
 LOCATION Tampa and vicinity
@@ -445,13 +584,16 @@ STATE FL
 BASEURL http://catalog.mdpls.org
 CATTYPE polaris
 
-# first search works; second search re-homes to Penn; not what I want
-# ID OCLC-1FH
-# NAME University of South Florida
-# LOCATION Tampa
-# STATE FL
-# BASEURL http://search.ebscohost.com/login.aspx?mode=and&cli0=FT1&amp;clv0=Y&direct=true&scope=site&site=eds-live&profile=eds&authtype=ip,guest&custid=s3654090&groupid=main&cli0=FT1&clv0=Y&cli1=RV&clv1=N&cli2=FC&clv2=N&cli3=FC1&clv3=N&
-# CATTYPE eds
+# customized catalog? (they also have EDS, which I can't get to work)
+ID OCLC-1FH
+NAME University of South Florida
+LOCATION Tampa
+STATE FL
+BASEURL http://usf.catalog.fcla.edu/sf.jsp
+SUBURL ${BASEURL}?ix=su&st=${ARG}
+AUTURL ${BASEURL}?ix=au&st=${ARG}
+TITURL ${BASEURL}?ix=ti&st=${ARG}
+KEYURL ${BASEURL}?ix=kw&st=${ARG}
 
 ID OCLC-GRA
 NAME Athens-Clarke County Library
@@ -460,6 +602,15 @@ STATE GA
 BASEURL http://gapines.org/opac/en-US
 CATTYPE evergreen
 LCODE 7
+
+ID OCLC-EMU
+NAME Emory University Libraries
+LOCATION Atlanta
+STATE GA
+CATTYPE primo
+BASEURL http://discovere.emory.edu/primo_library
+VID discovere
+DEFAULT DOMAIN
 
 ID OCLC-HUH
 NAME University of Hawaii at Manoa
@@ -703,6 +854,13 @@ STATE MA
 CATTYPE voyager-vwebv
 BASEURL http://jtbowne.springfieldcollege.edu/vwebv/search
 
+ID OCLC-WEL
+NAME Wellesley College
+LOCATION Wellesley
+STATE MA
+CATTYPE summon
+BASEURL http://wellesley.summon.serialssolutions.com
+
 ID OCLC-ELM
 NAME University of Michigan Library
 LOCATION Ann Arbor
@@ -892,6 +1050,13 @@ CATTYPE vufindrc1
 FILTERS NK
 LCODE NFG
 
+ID OCLC-APL
+NAME Akron-Summit County Public Library
+LOCATION Akron and vicinity
+STATE OH
+BASEURL http://encore.akronlibrary.org/iii/encore
+CATTYPE encore
+
 ID OCLC-CLE
 NAME Cleveland Public Library
 LOCATION Cleveland
@@ -912,6 +1077,13 @@ LOCATION Tulsa
 STATE OK
 CATTYPE bibliocommons
 BASEURL http://tccl.bibliocommons.com
+
+ID OCLC-OEL
+NAME Eugene Public Library
+LOCATION Eugene
+STATE OR
+BASEURL http://librarycatalog.eugene-or.gov/Polaris
+CATTYPE polaris
 
 ID OCLC-WEV
 NAME George Fox University
@@ -954,6 +1126,13 @@ LOCATION Carnegie Library of Pittsburgh, and Allegheny County libraries
 STATE PA
 BASEURL http://catalog.einetwork.net
 CATTYPE innopac
+
+ID OCLC-PGC
+NAME Geneva College
+LOCATION Beaver Falls
+STATE PA
+BASEURL http://pilot.passhe.edu:8007/cgi-bin/Pwebrecon.cgi
+CATTYPE voyager
 
 ID OCLC-HFC
 NAME Holy Family University
@@ -1003,12 +1182,19 @@ ATIURL ${BASEURL}/search.html?q=author("${AUTHOR}") AND title:("${TITLE:A}")&qt=
 TITURL ${BASEURL}/search.html?q=${ARG}&qt=dla-title
 KEYURL ${BASEURL}/search.html?q=${ARG}&qt=dla-standard
 
+ID OCLC-PIT
+NAME University of Pittsburgh
+LOCATION Pittsburgh and other campuses
+STATE PA
+CATTYPE summon
+BASEURL http://pitt.summon.serialssolutions.com
+
 ID OCLC-PLF
 NAME Free Library of Philadelphia
 LOCATION Philadelphia
 STATE PA
 CATTYPE vufind
-BASEURL http://beta.freelibrary.org/vufind
+BASEURL http://know.freelibrary.org/vufind
 
 ID OCLC-RBN
 NAME Brown University Library
@@ -1071,6 +1257,13 @@ STATE TX
 BASEURL http://catalog.houstonlibrary.org
 CATTYPE webpacpro
 
+ID OCLC-LPZ
+NAME Lunar and Planetary Institute Library
+LOCATION Houston
+STATE TX
+BASEURL http://207.67.203.81/T95009/OPAC/Search/AdvancedSearch.aspx
+CATTYPE eosweb
+
 ID OCLC-QS2
 NAME Montgomery County Memorial Library System
 LOCATION Montgomery County
@@ -1111,6 +1304,14 @@ LOCATION Salt Lake City
 STATE UT
 CATTYPE bibliocommons
 BASEURL http://slcpl.bibliocommons.com
+
+ID OCLC-0UP
+NAME Provo Library
+LOCATION Provo
+STATE UT
+CATTYPE sirsient
+LCODE pl
+BASEURL http://provo.ent.sirsi.net
 
 ID OCLC-UTW
 NAME Weber County Library
