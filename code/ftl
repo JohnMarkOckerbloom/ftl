@@ -2,7 +2,7 @@
 
 # Main FTL (Forward to Libraries) CGI script
 # By John Mark Ockerbloom, University of Pennsylvania (everybodyslibraries.com)
-# Version as of 11 Apr 2013
+# Version as of 1 May 2013
 #
 # Main FTL service currently runs at
 #   http://onlinebooks.library.upenn.edu/webbin/ftl
@@ -59,11 +59,13 @@ my $WIKIPEDIA_TYPE = "wp";
 my ($viafhash, $lccnhash, $wphash);
 
 my $countries = {
-  '00' => "Global library services",
+  '00' => " Global library services",
   'AU' => "Australia",
   'CA' => "Canada",
+  'IN' => "India",
   'IE' => "Ireland",
   'NA' => "Namibia",
+  'NL' => "Netherlands",
   'NZ' => "New Zealand",
   'SG' => "Singapore",
   'UK' => "United Kingdom",
@@ -370,10 +372,35 @@ sub getliblist {
 
 sub sortbystate {
   my ($recref) = @_;
-  return  sort {($a->{COUNTRY} cmp $b->{COUNTRY}) ||
+  return  sort {($countries->{$a->{COUNTRY}} cmp $countries->{$b->{COUNTRY}}) ||
                 ($states->{$a->{STATE}} cmp $states->{$b->{STATE}}) ||
                 ($a->{NAME} cmp $b->{NAME}) } @{$recref};
+}
 
+sub showcountrylinks {
+  my (@liblist) = @_;
+  my $ccode = "";
+  print "<p>Jump to ";
+  foreach my $rec (@liblist) {
+    next if ($rec->{COUNTRY} eq "SUPPRESS" || $rec->{COUNTRY} eq '00');
+    if ($rec->{COUNTRY} ne $ccode) {
+      if ($ccode) {
+        print " - ";
+      }
+      $ccode = $rec->{COUNTRY};
+      my $country = $countries->{$ccode};
+      print "<a href=\"#CC-$ccode\">$country</a>";
+    }
+  } 
+  print "</p>\n";
+}
+
+sub showstatelinks {
+  my $scode = "";
+  my (@statelist) = sort {$states->{$a} cmp $states->{$b}} keys %{$states};
+  print "<p>Jump to ";
+  print join (" - ", map {sprintf("<a href=\"#ST-$_\">$_</a>")} @statelist);
+  print "</p>\n";
 }
 
 sub showlibrarylinks {
@@ -382,6 +409,7 @@ sub showlibrarylinks {
   my $statecode = "";
   my $ccode = "";
   my @liblist = sortbystate($recref);
+  showcountrylinks(@liblist);
   foreach my $rec (@liblist) {
     next if ($rec->{COUNTRY} eq "SUPPRESS");
     next if ($rec->{ID} eq $sourcetoomit);
@@ -390,14 +418,20 @@ sub showlibrarylinks {
         print "</ul>";
       }
       $ccode = $rec->{COUNTRY};
-      print qq!<b>$countries->{$ccode}</b><ul>!;
+      my $country = $countries->{$ccode};
+      $country =~ s/^\s+//;
+      print qq!<b id="CC-$ccode">$country</b>!;
+      if ($ccode eq "US") {
+        showstatelinks();
+      }
+      print qq!<ul>!;
     }
     if ($rec->{STATE} ne $statecode) {
       if ($statecode) {
         print "</ul>";
       }
       $statecode = $rec->{STATE};
-      print qq!<li> <b>$states->{$statecode}</b><ul>!;
+      print qq!<li> <b id="ST-$statecode">$states->{$statecode}</b><ul>!;
     }
     my $url = "?library=" . $rec->{ID};
     foreach my $attr ('su', 'au', 'ti', 'st', 'at', 'tt', 'from') {

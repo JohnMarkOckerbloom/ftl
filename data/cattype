@@ -61,6 +61,10 @@ CATTYPE carlweb
 SUBURL ${BASEURL}/jsp/DoSearch?databaseID=${DBID}&index=SB/&terms=
 AUTURL ${BASEURL}/jsp/DoSearch?databaseID=${DBID}&index=N/&terms=
 
+# A VTLS catalog; keyword search string found via Springshare
+CATTYPE chameleon
+KEYURL ${BASEURL}/cgi-bin/gw/chameleon?function=INITREQ&DEFAULT&search=KEYWORD&u1=1035&t1=${ARG}
+
 # this doesn't seem to work on the ILS I tried it on
 CATTYPE dra
 KEYURL ${BASEURL}/tramp2.exe/do_keyword_search/guest&query={${ARG}}

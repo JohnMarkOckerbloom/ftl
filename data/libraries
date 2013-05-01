@@ -96,6 +96,13 @@ COUNTRY CA
 BASEURL http://mcgill.worldcat.org/search
 CATTYPE worldcat
 
+ID OCLC-CNNEW
+NAME New Brunswick Public Library Service
+LOCATION Public libraries across New Brunswick
+COUNTRY CA
+CATTYPE bibliocommons
+BASEURL http://vision.bibliocommons.com
+
 ID OCLC-NOVAN
 NAME Novanet Consortium
 LOCATION Academic libraries in Nova Scotia
@@ -148,6 +155,13 @@ LOCATION Vancouver and Kelowna, British Columbia
 COUNTRY CA
 CATTYPE summon
 BASEURL http://ubc.summon.serialssolutions.com
+
+ID OCLC-UNBCA
+NAME University of New Brunswick
+LOCATION Fredericton and Saint John, New Brunswick
+COUNTRY CA
+BASEURL http://unb.worldcat.org/search
+CATTYPE worldcat
 
 ID OCLC-OTZ
 NAME University of Ottawa
@@ -241,12 +255,27 @@ COUNTRY IE
 BASEURL http://ul.summon.serialssolutions.com
 CATTYPE summon
 
+ID OCLC-INUOK
+NAME University of Kashmir
+LOCATION Srinigar
+COUNTRY IN
+BASEURL http://203.129.216.173:8000/
+CATTYPE chameleon
+
 ID OCLC-U5N
 NAME University of Namibia
 LOCATION Windhoek and other campuses
 COUNTRY NA
 BASEURL http://millennium.unam.na
 CATTYPE webpacpro
+
+ID NL-L2U
+NAME Leiden University Libraries
+LOCATION Leiden
+COUNTRY NL
+CATTYPE primo
+BASEURL http://catalogue.leidenuniv.nl/primo_library
+VID UBL_V1
 
 ID OCLC-SINTU
 NAME Nanyang Technological University
@@ -283,6 +312,14 @@ LOCATION Singapore
 COUNTRY SG
 BASEURL http://catalogue.library.smu.edu.sg
 CATTYPE webpacpro
+
+ID OCLC-OE-DOLLAR
+NAME University of Limpopo Libraries
+LOCATION Turfloop and Medunsa
+COUNTRY ZA
+CATTYPE webpacpro
+BASEURL http://196.21.109.8:2082/
+FILTERS AN
 
 ID OCLC-AU-SHARP
 NAME Anglia Ruskin University
@@ -423,6 +460,14 @@ LOCATION Flagstaff
 STATE AZ
 BASEURL http://www.flagstaffpubliclibrary.org/uhtbin/cgisirsi/
 CATTYPE sirsi
+
+ID OCLC-AZT
+NAME Pima County Public Library
+LOCATION Tucson and vicinity
+STATE AZ
+BASEURL http://librarycatalog.pima.gov
+CATTYPE webpacpro
+FILTERS N
 
 ID OCLC-8AK
 NAME Central Arkansas Library System
@@ -861,6 +906,13 @@ STATE MA
 CATTYPE summon
 BASEURL http://wellesley.summon.serialssolutions.com
 
+ID OCLC-EYE
+NAME Eastern Michigan University
+LOCATION Ypsilanti
+STATE MI
+CATTYPE summon
+BASEURL http://emich.summon.serialssolutions.com
+
 ID OCLC-ELM
 NAME University of Michigan Library
 LOCATION Ann Arbor
@@ -1238,6 +1290,13 @@ LOCATION Dallas
 STATE TX
 BASEURL http://catalog.dallaslibrary.org/Polaris
 CATTYPE polaris
+
+ID OCLC-QS3
+NAME Denton Public Library
+LOCATION Denton
+STATE TX
+CATTYPE encore
+BASEURL http://encore.cityofdenton.com/iii/encore
 
 ID OCLC-HT-SHARP
 NAME Harris County Public Library
