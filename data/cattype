@@ -63,7 +63,8 @@ AUTURL ${BASEURL}/jsp/DoSearch?databaseID=${DBID}&index=N/&terms=
 
 # A VTLS catalog; keyword search string found via Springshare
 CATTYPE chameleon
-KEYURL ${BASEURL}/cgi-bin/gw/chameleon?function=INITREQ&DEFAULT&search=KEYWORD&u1=1035&t1=${ARG}
+KEYURL ${BASEURL}?function=INITREQ&DEFAULT&search=KEYWORD&u1=1035&t1=${ARG}
+DEFAULT DOMAIN
 
 # this doesn't seem to work on the ILS I tried it on
 CATTYPE dra
@@ -119,6 +120,8 @@ KEYURL ${BASEURL}/search/Y?searchscope=${LCODE}&searchtype=X&searcharg=${ARG:N}
 # aka Horizon
 CATTYPE ipac20
 KINDEX .GW
+TINDEX .TW
+AINDEX .AW
 SINDEX PSUBJ
 SUBURL ${BASEURL}/ipac20/ipac.jsp?profile=${PROFILE}&index=${SINDEX}&term=${ARG}
 AUTURL ${BASEURL}/ipac20/ipac.jsp?profile=${PROFILE}&index=${AINDEX}&term=${ARG}

@@ -82,59 +82,6 @@ COUNTRY AU
 BASEURL http://catalogue.slwa.wa.gov.au
 CATTYPE innopac
 
-ID OCLC-CDN
-NAME Concordia University
-LOCATION Montreal, Quebec
-COUNTRY CA
-BASEURL http://clues.concordia.ca
-CATTYPE innopac
-
-ID OCLC-LGG
-NAME McGill University Library
-LOCATION Montreal, Quebec
-COUNTRY CA
-BASEURL http://mcgill.worldcat.org/search
-CATTYPE worldcat
-
-ID OCLC-CNNEW
-NAME New Brunswick Public Library Service
-LOCATION Public libraries across New Brunswick
-COUNTRY CA
-CATTYPE bibliocommons
-BASEURL http://vision.bibliocommons.com
-
-ID OCLC-NOVAN
-NAME Novanet Consortium
-LOCATION Academic libraries in Nova Scotia
-COUNTRY CA
-CATTYPE aleph1
-BASEURL http://aleph1.novanet.ns.ca
-TINDEX WTI
-
-ID OCLC-CNORL
-NAME Okanagan Regional Library
-LOCATION Okanagan Valley and vicinity, British Columbia
-COUNTRY CA
-CATTYPE bibliocommons
-BASEURL http://orl.bibliocommons.com
-
-ID OCLC-CNOPL
-NAME Oshawa Public Libraries
-LOCATION Oshawa, Ontario
-COUNTRY CA
-CATTYPE sirsient
-BASEURL http://cco.ent.sirsidynix.net
-
-ID OCLC-TOH
-NAME Toronto Public Library
-LOCATION Toronto, Ontario
-COUNTRY CA
-BASEURL http://www.torontopubliclibrary.ca/
-SUBURL ${BASEURL}/search.jsp?Ntk=Subject_Search_Interface&N=0&advancedSearch=true&Ntt=${ARG}
-AUTURL ${BASEURL}/search.jsp?Ntk=Author_Search_Interface&N=0&advancedSearch=true&Ntt=${ARG}
-TITURL ${BASEURL}/search.jsp?Ntk=Title_Search_Interface&N=0&advancedSearch=true&Ntt=${ARG}
-KEYURL ${BASEURL}search.jsp?Ntt=${ARG}
-
 ID AU-VBAX
 NAME University of Ballarat
 LOCATION Ballarat, Victoria
@@ -144,29 +91,114 @@ CATTYPE innopac
 
 ID OCLC-UAU
 NAME University of Calgary
-LOCATION Calgary, Alberta
-COUNTRY CA
+LOCATION Calgary
+PROVINCE AB
 BASEURL http://webapps2.ucalgary.ca/~lcrtest
 KEYURL ${BASEURL}/search/index.php?q=${ARG}
 
+ID OCLC-CNORL
+NAME Okanagan Regional Library
+LOCATION Okanagan Valley and vicinity
+PROVINCE BC
+CATTYPE bibliocommons
+BASEURL http://orl.bibliocommons.com
+
 ID OCLC-8UB
 NAME University of British Columbia Library
-LOCATION Vancouver and Kelowna, British Columbia
-COUNTRY CA
+LOCATION Vancouver and Kelowna
+PROVINCE BC
 CATTYPE summon
 BASEURL http://ubc.summon.serialssolutions.com
 
+ID OCLC-VT2
+NAME University of Victoria Libraries
+LOCATION Victoria
+PROVINCE BC
+CATTYPE summon
+BASEURL http://uvic.summon.serialssolutions.com
+
+ID OCLC-VP@
+NAME Vancouver Public Library
+LOCATION Vancouver
+PROVINCE BC
+CATTYPE bibliocommons
+BASEURL http://vpl.bibliocommons.com
+
+ID OCLC-CNWIN
+NAME Winnipeg Public Library
+LOCATION Winnipeg
+PROVINCE MB
+BASEURL http://wpl-pac.winnipeg.ca
+CATTYPE ipac20
+PROFILE wpl
+SINDEX .SW
+
+ID OCLC-CNNEW
+NAME New Brunswick Public Library Service
+LOCATION Public libraries across New Brunswick
+PROVINCE NB
+CATTYPE bibliocommons
+BASEURL http://vision.bibliocommons.com
+
 ID OCLC-UNBCA
 NAME University of New Brunswick
-LOCATION Fredericton and Saint John, New Brunswick
-COUNTRY CA
+LOCATION Fredericton and Saint John
+PROVINCE NB
 BASEURL http://unb.worldcat.org/search
 CATTYPE worldcat
 
+ID OCLC-CNNLP
+NAME Newfoundland and Labrador Public Libraries
+LOCATION Public libraries across the province
+PROVINCE NL
+BASEURL http://hip.nlpl.ca
+CATTYPE ipac20
+AINDEX PZAUTH
+TINDEX PALLTI
+
+ID OCLC-N@Y
+NAME Northwest Territories Public Library Services
+LOCATION Public libraries across the NWT
+PROVINCE NT
+CATTYPE sirsi
+BASEURL http://nwte.sirsidynix.net/uhtbin/cgisirsi
+
+ID OCLC-NOVAN
+NAME Novanet Consortium
+LOCATION Academic libraries in Nova Scotia
+PROVINCE NS
+CATTYPE aleph1
+BASEURL http://aleph1.novanet.ns.ca
+TINDEX WTI
+
+ID CA-NUINAC
+NAME Nunavut Arctic College
+LOCATION Iqaluit and other campuses
+PROVINCE NU
+BASEURL http://nuvt.vtls.com/cgi-bin/nuvt/chameleon
+CATTYPE chameleon
+
+ID OCLC-CNOPL
+NAME Oshawa Public Libraries
+LOCATION Oshawa
+PROVINCE ON
+CATTYPE sirsient
+BASEURL http://cco.ent.sirsidynix.net
+
+ID OCLC-TOH
+NAME Toronto Public Library
+LOCATION Toronto
+PROVINCE ON
+BASEURL http://www.torontopubliclibrary.ca/
+SUBURL ${BASEURL}/search.jsp?Ntk=Subject_Search_Interface&N=0&advancedSearch=true&Ntt=${ARG}
+AUTURL ${BASEURL}/search.jsp?Ntk=Author_Search_Interface&N=0&advancedSearch=true&Ntt=${ARG}
+TITURL ${BASEURL}/search.jsp?Ntk=Title_Search_Interface&N=0&advancedSearch=true&Ntt=${ARG}
+KEYURL ${BASEURL}search.jsp?Ntt=${ARG}
+
 ID OCLC-OTZ
 NAME University of Ottawa
-LOCATION Ottawa, Ontario
-COUNTRY CA
+LOCATION Ottawa
+PROVINCE ON
 BASEURL http://catalogue.bib.uottawa.ca/html/results.jsp?language=en&loc=0
 SUBURL ${BASEURL}&whr=5&trms=${ARG}
 AUTURL ${BASEURL}&whr=2&trms=${ARG}
@@ -175,53 +207,46 @@ KEYURL ${BASEURL}&whr=1&trms=${ARG}
 
 ID OCLC-UTM
 NAME University of Toronto
-LOCATION Toronto, Ontario
-COUNTRY CA
+LOCATION Toronto
+PROVINCE ON
 BASEURL http://onesearch.library.utoronto.ca/
 TITURL ${BASEURL}?q=onesearch/search/${ARG:N}&title_only=1
 KEYURL ${BASEURL}?q=onesearch/search/${ARG:N}
 
-ID OCLC-VT2
-NAME University of Victoria Libraries
-LOCATION Victoria, British Columbia
-COUNTRY CA
-CATTYPE summon
-BASEURL http://uvic.summon.serialssolutions.com
-
 ID OCLC-UWW
 NAME University of Waterloo
-LOCATION Waterloo, Ontario
-COUNTRY CA
+LOCATION Waterloo
+PROVINCE ON
 CATTYPE primo
 BASEURL http://primo.tug-libraries.on.ca/primo_library
 VID WATERLOO
 DEFAULT http://www.lib.uwaterloo.ca/
 
+ID OCLC-LSG
+NAME University of Western Ontario
+LOCATION London
+PROVINCE ON
+BASEURL http://uwo.summon.serialssolutions.com
+CATTYPE summon
+
 ID OCLC-CWI
 NAME University of Windsor, Leddy Library
-LOCATION Windsor, Ontario
-COUNTRY CA
+LOCATION Windsor
+PROVINCE ON
 BASEURL http://windsor.concat.ca/eg/opac
 CATTYPE evergreen-dynamic
 
-ID OCLC-VP@
-NAME Vancouver Public Library
-LOCATION Vancouver, British Columbia
-COUNTRY CA
-CATTYPE bibliocommons
-BASEURL http://vpl.bibliocommons.com
-
 ID OCLC-CNWLU
 NAME Waterloo Public Library
-LOCATION Waterloo, Ontario
-COUNTRY CA
+LOCATION Waterloo
+PROVINCE ON
 CATTYPE encore
 BASEURL http://encore.kpl.org/iii/encore_wpl
 
 ID OCLC-W2U
 NAME Wilfrid Laurier University
-LOCATION Waterloo, Ontario
-COUNTRY CA
+LOCATION Waterloo
+PROVINCE ON
 CATTYPE primo
 BASEURL http://primo.tug-libraries.on.ca/primo_library
 VID LAURIER
@@ -229,15 +254,43 @@ DEFAULT http://library.wlu.ca/
 
 ID OCLC-YOU
 NAME York University Libraries
-LOCATION Toronto, Ontario
-COUNTRY CA
+LOCATION Toronto
+PROVINCE ON
 BASEURL https://www.library.yorku.ca/find
 CATTYPE vufind
 
+ID CA-PC
+NAME Prince Edward Island Public Library Service
+LOCATION Public libraries across the province
+PROVINCE PE
+CATTYPE sirsi
+BASEURL http://24.224.240.218/uhtbin/cgisirsi.exe
+
+ID OCLC-CDN
+NAME Concordia University
+LOCATION Montreal
+PROVINCE PQ
+BASEURL http://clues.concordia.ca
+CATTYPE innopac
+
+ID OCLC-LGG
+NAME McGill University Library
+LOCATION Montreal
+PROVINCE PQ
+BASEURL http://mcgill.worldcat.org/search
+CATTYPE worldcat
+
+ID OCLC-UOH
+NAME University of Saskatchewan
+LOCATION Saskatoon
+PROVINCE SK
+BASEURL http://sundog.usask.ca
+CATTYPE webpacpro
+
 ID OCLC-CN4WZ
 NAME Yukon College Library
-LOCATION Whitehorse, Yukon
-COUNTRY CA
+LOCATION Whitehorse
+PROVINCE YT
 CATTYPE tlc
 BASEURL http://yclibw.yukoncollege.yk.ca/
 
@@ -259,7 +312,7 @@ ID OCLC-INUOK
 NAME University of Kashmir
 LOCATION Srinigar
 COUNTRY IN
-BASEURL http://203.129.216.173:8000/
+BASEURL http://203.129.216.173:8000/cgi-bin/gw/chameleon
 CATTYPE chameleon
 
 ID OCLC-U5N
