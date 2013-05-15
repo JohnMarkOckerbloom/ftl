@@ -352,6 +352,9 @@ sub findlibrary {
   if ($str) {
     $rec = libparse($str);
   }
+  if (!$rec->{ID}) {
+    $rec->{ID} = $libid;
+  }
   return $rec;
 }
 
@@ -504,41 +507,49 @@ sub wheretogoto {
 }
 
 sub suggestexits {
-   my @links = ();
-   if (scalar(@FTL::CLIENTS)) {
-     foreach my $cname (@FTL::CLIENTS) {
-       my $rec = findlibrary($cname);
-       next if (!$rec);
-       my $url = get_default_url($rec);
-       my $name = $rec->{NAME};
-       if ($url && $name) {
-         push @links, qq!<a href="$url">$name</a>!;
-       }
-     }
-   }
-   if (scalar(@links)) {
-     print "This forwarder is used for links from ";
-     print join ' and ', @links;
-     print ".\n";
-   }
-   @links = ();
-   if (scalar(@FTL::OTHERS)) {
-     foreach my $cname (@FTL::OTHERS) {
-       my $rec = findlibrary($cname);
-       next if (!$rec);
-       my $url = $rec->{FORWARDER};
-       my $name = $rec->{NAME};
-       if ($url && $name) {
-         push @links, qq!<a href="$url">$name</a>!;
-       }
-     }
-   }
-   if (scalar(@links)) {
-     print "You can also set this as the library for links from ";
-     print join ' and ', @links;
-     print ".";
-   }
-   print "</p>\n";
+  my ($chosenrec) = @_;
+  my @links = ();
+  if (scalar(@FTL::CLIENTS)) {
+    foreach my $cname (@FTL::CLIENTS) {
+      my $rec = findlibrary($cname);
+      next if (!$rec);
+      my $url = get_default_url($rec);
+      my $name = $rec->{NAME};
+      if ($url && $name) {
+        push @links, qq!<a href="$url">$name</a>!;
+      }
+    }
+  }
+  if (scalar(@links)) {
+    print "This forwarder is used for links from ";
+    print join ' and ', @links;
+    print ".\n";
+  }
+  @links = ();
+  if (scalar(@FTL::OTHERS)) {
+    my $chosenid = "";
+    if ($chosenrec && $chosenrec->{ID}) {
+      $chosenid = $chosenrec->{ID};
+    }
+    foreach my $cname (@FTL::OTHERS) {
+      my $rec = findlibrary($cname);
+      next if (!$rec);
+      my $name = $rec->{NAME};
+      my $url = $rec->{FORWARDER};
+      if ($url && $name) {
+        if ($chosenid) {
+          $url .= "?library=$chosenid";
+        }
+        push @links, qq!<a href="$url">$name</a>!;
+      }
+    }
+  }
+  if (scalar(@links)) {
+    print "You can also set this as the library for links from ";
+    print join ' and ', @links;
+    print ".";
+  }
+  print "</p>\n";
 }
 
 # destination_record gets the library record
@@ -620,7 +631,7 @@ sub chooselibraryform {
      print " about another library you'd like us to include.</p>";
      if ($librec) {
        # &show_other_library_choices($q, $fromrec);
-       &suggestexits();
+       &suggestexits($librec);
      }
      &showlibrarylinks(\@librecs, $q, $fromlibrary);
   }
