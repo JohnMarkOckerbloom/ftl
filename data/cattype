@@ -169,15 +169,18 @@ KEYURL ${BASEURL}/libweb/action/search.do?mode=Basic&dum=true&operation=1&amp;ct
 # may need to do library-specific DEFAULTs when hosted or over-generic
 DEFAULT DOMAIN
 
-# talis prism
+# Talis Prism 2.1
 CATTYPE prism
 AUTURL ${BASEURL}/TalisPrism/doSearch.do?searchType=advSearch&st1=author&searchLocations=talislms&sv1=${ARG}
 TITURL ${BASEURL}/TalisPrism/doSearch.do?searchType=advSearch&st1=title&searchLocations=talislms&sv1=${ARG}
 KEYURL ${BASEURL}/TalisPrism/doSearch.do?searchType=advSearch&st1=keyword&searchLocations=talislms&sv1=${ARG}
 
-# another version of talis prism
+# Prism 3 (Talis/Capita)
 CATTYPE prismhosted
-AUTURL ${BASEURL}/items?adv=t&query=author:(${ARG})
+AUTURL ${BASEURL}/items?query=author:(${ARG})
+TITURL ${BASEURL}/items?query=title:(${ARG})
+SUBURL ${BASEURL}/items?query=subject:(${ARG})
+ATIURL ${BASEURL}/items?query=author:(${AUTHOR})+title:(${TITLE})
 KEYURL ${BASEURL}/items?query=${ARG}
 
 CATTYPE sirsi

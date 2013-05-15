@@ -504,11 +504,41 @@ sub wheretogoto {
 }
 
 sub suggestexits {
-   print "<p>You can try out your selections by going to ";
-   print qq!<a href="$ONLINEBOOKS_URL">The Online Books Page</a>!;
-   # activate when we have links from Wikipedia
-   print qq! or <a href="http://en.wikipedia.org/">Wikipedia</a>!;
-   print ".</p>\n";
+   my @links = ();
+   if (scalar(@FTL::CLIENTS)) {
+     foreach my $cname (@FTL::CLIENTS) {
+       my $rec = findlibrary($cname);
+       next if (!$rec);
+       my $url = get_default_url($rec);
+       my $name = $rec->{NAME};
+       if ($url && $name) {
+         push @links, qq!<a href="$url">$name</a>!;
+       }
+     }
+   }
+   if (scalar(@links)) {
+     print "This forwarder is used for links from ";
+     print join ' and ', @links;
+     print ".\n";
+   }
+   @links = ();
+   if (scalar(@FTL::OTHERS)) {
+     foreach my $cname (@FTL::OTHERS) {
+       my $rec = findlibrary($cname);
+       next if (!$rec);
+       my $url = $rec->{FORWARDER};
+       my $name = $rec->{NAME};
+       if ($url && $name) {
+         push @links, qq!<a href="$url">$name</a>!;
+       }
+     }
+   }
+   if (scalar(@links)) {
+     print "You can also set this as the library for links from ";
+     print join ' and ', @links;
+     print ".";
+   }
+   print "</p>\n";
 }
 
 # destination_record gets the library record
@@ -757,8 +787,8 @@ sub wikipedia_referer_title {
   return undef;
 }
 
-sub dropoff_at_library {
-  my ($q, $librec) = @_;
+sub get_default_url {
+  my ($librec) = @_;
   my $url = $librec->{BASEURL};
   if ($librec->{DEFAULT}) {
     $url = $librec->{DEFAULT};
@@ -769,6 +799,12 @@ sub dropoff_at_library {
       }
     }
   }
+  return $url;
+}
+
+sub dropoff_at_library {
+  my ($q, $librec) = @_;
+  my $url = get_default_url($librec);
   if ($url) {
     print "Location: $url\n\n";
     finish();

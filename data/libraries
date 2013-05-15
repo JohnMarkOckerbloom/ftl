@@ -16,6 +16,8 @@ SUBURL ${BASEURL}/browse?type=lcsubc&key=${ARG:N}
 AUTURL ${BASEURL}/lookupname?key=${ARG:N}
 TITURL ${BASEURL}/search?title=${ARG:N}&tmode=start
 ATIURL ${BASEURL}/search?author=${AUTHOR:SN}&amode=start&title=${TITLE:NA}&tmode=start&c=x
+FORWARDER http://onlinebooks.library.upenn.edu/webbin/ftl
+DEFAULT http://onlinebooks.library.upenn.edu/
 
 ID OCLC-WCDGL
 NAME Worldcat.org
@@ -28,6 +30,8 @@ ID WKPD
 NAME Wikipedia
 COUNTRY SUPPRESS
 SOURCE wikipedia.org
+DEFAULT http://en.wikipedia.org/
+FORWARDER http://tools.wmflabs.org/ftl/cgi-bin/ftl
 
 ID DPLA
 NAME Digital Public Library of America
@@ -112,6 +116,13 @@ LOCATION Calgary
 PROVINCE AB
 BASEURL http://webapps2.ucalgary.ca/~lcrtest
 KEYURL ${BASEURL}/search/index.php?q=${ARG}
+
+ID OCLC-LANGC
+NAME Langara College Library
+LOCATION Vancouver
+PROVINCE BC
+CATTYPE encore
+BASEURL http://encore.langara.bc.ca/iii/encore
 
 ID OCLC-CNORL
 NAME Okanagan Regional Library

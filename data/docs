@@ -132,6 +132,9 @@ If the value of DEFAULT is DOMAIN, then the default URL will be
 the domain part of the BASEURL attribute value.  If there is no value
 defined for this attribute, the complete value of BASEURL will be used.
 
+The same process is used to determine where a general link to the library
+(without a search) should go.
+
 FILTERS
 
 Indicates additional filters that should be applied to substititions
@@ -143,6 +146,10 @@ This is one or more CIDR declarations (separated by | when more than one) that
 indicate IP ranges used within the current library or institution.
 When defined, FTL will route users within those IP ranges to that
 library unless another preference has been expressed.
+
+FORWARDER
+
+This gives the URL of the forwarding service for this site, if applicable.
 
   ====
 
