@@ -352,7 +352,7 @@ sub findlibrary {
   if ($str) {
     $rec = libparse($str);
   }
-  if (!$rec->{ID}) {
+  if ($rec && !$rec->{ID}) {
     $rec->{ID} = $libid;
   }
   return $rec;
