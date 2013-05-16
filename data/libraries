@@ -602,6 +602,13 @@ STATE CA
 BASEURL http://encore.oaklandlibrary.org/iii/encore
 CATTYPE encore
 
+ID OCLC-GH0
+NAME Saint Mary's College of California
+LOCATION Moraga
+STATE CA
+BASEURL http://albert.stmarys-ca.edu
+CATTYPE webpacpro
+
 ID OCLC-SFR
 NAME San Francisco Public Library
 LOCATION San Francisco
