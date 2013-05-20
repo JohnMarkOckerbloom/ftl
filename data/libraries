@@ -1381,6 +1381,13 @@ STATE TN
 CATTYPE sirsient
 BASEURL http://mpub.ent.sirsi.net
 
+ID OCLC-1AR
+NAME Arlington Public Library
+LOCATION Arlington
+STATE TX
+BASEURL http://polarisweb.arlingtonlibrary.org/Polaris
+CATTYPE polaris
+
 ID OCLC-TXG
 NAME Austin Public Library
 LOCATION Austin
