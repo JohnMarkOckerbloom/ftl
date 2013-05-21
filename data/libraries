@@ -4,7 +4,7 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2013-03-22
+# Last updated 2013-05-21
 
 ID OLBP
 NAME The Online Books Page
@@ -359,6 +359,14 @@ CATTYPE primo
 BASEURL http://catalogue.leidenuniv.nl/primo_library
 VID UBL_V1
 
+# ID a bit arbitrary here (for Infoserve service)
+ID OCLC-NZ@
+NAME New Zealand Libraries' Catalogue
+LOCATION Union catalog of 280 libraries nationwide
+COUNTRY NZ
+CATTYPE voyager-vwebv
+BASEURL http://nzlc.natlib.govt.nz/vwebv/search
+
 ID OCLC-SINTU
 NAME Nanyang Technological University
 LOCATION Singapore
@@ -420,6 +428,17 @@ CATTYPE primo
 BASEURL http://librarysearch.cf.ac.uk/primo_library
 VID CARDIFF_V1
 
+ID OCLC-C62
+NAME COPAC
+COUNTRY UK
+LOCATION 70+ academic, national and specialist libraries in the UK and Ireland
+BASEURL http://copac.ac.uk/search
+SUBURL ${BASEURL}?sub=${ARG}
+AUTURL ${BASEURL}?author=${ARG}
+TITURL ${BASEURL}?title=${ARG}
+ATIURL ${BASEURL}?author=${AUTHOR}&title=${TITLE}
+KEYURL ${BASEURL}?keyword=${ARG}
+
 ID OCLC-EQK
 NAME Cranfield University
 LOCATION Bedfordshire, England
@@ -456,6 +475,14 @@ LOCATION Stoke on Trent and other campuses, England
 COUNTRY UK
 CATTYPE summon
 BASEURL http://staffs.summon.serialssolutions.com
+
+ID OCLC-LUN
+NAME University College London
+LOCATION London, England
+COUNTRY UK
+CATTYPE primo
+BASEURL http://ucl-primo.hosted.exlibrisgroup.com/primo_library
+VID UCL_VU1
 
 ID OCLC-U8H
 NAME University of Huddersfield
@@ -1008,6 +1035,13 @@ LOCATION Ypsilanti
 STATE MI
 CATTYPE summon
 BASEURL http://emich.summon.serialssolutions.com
+
+ID OCLC-EEL
+NAME Lansing Community College
+LOCATION Lansing
+STATE MI
+CATTYPE summon
+BASEURL http://lcc.summon.serialssolutions.com
 
 ID OCLC-ELM
 NAME University of Michigan Library
