@@ -117,6 +117,13 @@ PROVINCE AB
 BASEURL http://webapps2.ucalgary.ca/~lcrtest
 KEYURL ${BASEURL}/search/index.php?q=${ARG}
 
+ID OCLC-4C3
+NAME Greater Victoria Public Library
+LOCATION Victoria and vicinity
+PROVINCE BC
+CATTYPE bibliocommons
+BASEURL http://gvpl.bibliocommons.com
+
 ID OCLC-LANGC
 NAME Langara College Library
 LOCATION Vancouver
@@ -547,6 +554,13 @@ COUNTRY UK
 CATTYPE primo
 BASEURL http://library-collections-search.westminster.ac.uk/primo_library
 VID WST_VU1
+
+ID OCLC-ALJCL
+NAME Jefferson County Library Cooperative
+LOCATION Birmingham and vicinity
+STATE AL
+BASEURL http://encore.bham.lib.al.us/iii/encore
+CATTYPE encore
 
 # Can't fina a WorldCat registry ID for this; use my own
 ID OLB-MONTGOMERY
@@ -1067,6 +1081,13 @@ STATE MS
 BASEURL http://75.144.59.10/uhtbin/cgisirsi.exe
 CATTYPE sirsi
 
+ID OCLC-KCP
+NAME Kansas City Public Library
+LOCATION Kansas City
+STATE MO
+CATTYPE aquabrowser
+BASEURL http://kcaqua.kclibrary.org
+
 ID OCLC-SVP
 NAME St. Louis Public Library
 LOCATION St. Louis
@@ -1487,6 +1508,14 @@ BASEURL http://cat.round-rock.tx.us:8080
 CATTYPE ipac20
 AINDEX PAUTH
 TINDEX ALLTITL
+
+ID OCLC-SAP
+NAME San Antonio Public Library
+LOCATION San Antonio
+STATE TX
+BASEURL http://sapl.sat.lib.tx.us/
+CATTYPE iii-consortium-member
+LCODE 1
 
 ID OCLC-UHC
 NAME UHCL Neumann Library
