@@ -1,11 +1,19 @@
 Description of the data files in this directory
-by John Mark Ockerbloom (last updated 22 Mar 2013)
+by John Mark Ockerbloom (last updated 24 May 2013)
 
 The libraries and cattype files give instructions on how to link
 to searches at various libraries registered in the Forward to Libraries
 service.  
 
-The files are made up of records, one for each library or catalog type,
+The wikimap file gives correspondences between selected Library of
+Congress authorized headings and Wikipedia article titles.
+
+=====
+
+I. LIBRARIES AND CATTYPE FILES
+
+The libraries and cattype files are made up of records,
+one for each library or catalog type,
 separated by blank lines.  Lines beginning with # are comments,
 and ignored.  Each line is in the form
 
@@ -62,7 +70,13 @@ STATE
 This is the two-letter postal code of the state, territory, or district
 in which the library is located.  If set, currently implies that the
 library is in the US.  (But we might use it for Australian states,
-Canadian provinces, or other regions within a country, in the future.)
+or other regions within a country, in the future.)
+
+PROVINCE
+
+This is the two-letter postal code of the province or Canadian territory
+in which the library is located.  If set, currently implies that the
+library is in Canada.
 
 SOURCE
 
@@ -158,3 +172,45 @@ The most common such attribute is BASEURL, but some catalog types also
 use other substitutions for things like location codes, search index
 names, and so on.
 
+
+======================
+
+II. WIKIMAP FILE
+
+The wikimap file is made up of lines, one for each correspondence.
+Lines beginning with # are comments, and ignored.  Each line consists
+of 3 fields, in the form
+
+   LC heading|relation|Wikipedia article title
+
+For largely historic reasons, non-ASCII
+characters are represented as UTF-8 in Wikipedia article title field,
+and as HTML character entities in the LC heading field.
+
+There are four relations defined:
+   -> People exploring the given LC heading can be usefully referred to the
+        given Wikipedia article title.
+   <- People reading the given Wikipedia article can be usefully referred to
+          the given LC heading.
+   <-> People reading either the given Wikipedia article or exploring the
+         given LC heading can be usefully referred to the other.
+   = Same as <->, but also notes that the Wikipedia article and the
+         LC heading describe the same thing.
+
+There should be only one referral specified from any given Wikipedia article
+or LC heading.  (But there can be multiple referrals to either.)  There's
+a script at Penn that checks this on the file, which I may post in the future.
+
+The wikimap file only contains correspondences that need to be assigned
+(or overridden) after automatic corrspondence mappings are done.  Most
+Wikipedia correspondences are in fact automatically assigned, by one
+of these mechanisms:
+
+  * A common VIAF or LCCN identifier (for names)
+  * Exact name match, after normalizing accents, capitalization, and such
+  * Various other lexical matches of headings that exist in either
+    the Library of Congress subjects of The Online Books Page or
+    the titles of Wikipedia articles.  These include (among others):
+     *  <X> -- History = History of [the] <X>
+     *  <X> (<Known Geolocation Abbrev.>) -- <X>, <Known Geolocation>
+     *  <X> in [the] (<Known Geolocation Abbrev.>) -- <X>, <Known Geolocation>
