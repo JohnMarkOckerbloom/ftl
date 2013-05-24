@@ -213,5 +213,5 @@ of these mechanisms:
     the Library of Congress subjects of The Online Books Page or
     the titles of Wikipedia articles.  These include (among others):
      *  <X> -- History = History of [the] <X>
-     *  <X> (<Known Geolocation Abbrev.>) -- <X>, <Known Geolocation>
-     *  <X> in [the] (<Known Geolocation Abbrev.>) -- <X>, <Known Geolocation>
+     *  <X> (<Known Geolocation Abbrev.>) = <X>, <Known Geolocation>
+     *  <X> in [the] <Known Geolocation> = <X> -- <Known Geolocation>
