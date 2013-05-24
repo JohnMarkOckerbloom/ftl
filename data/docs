@@ -198,8 +198,9 @@ There are four relations defined:
          LC heading describe the same thing.
 
 There should be only one referral specified from any given Wikipedia article
-or LC heading.  (But there can be multiple referrals to either.)  There's
-a script at Penn that checks this on the file, which I may post in the future.
+or LC heading.  (But there can be multiple referrals to either.)  The
+"wpmapcheck" script in the code directory checks for this, and a few
+other consistency issues.
 
 The wikimap file only contains correspondences that need to be assigned
 (or overridden) after automatic corrspondence mappings are done.  Most
