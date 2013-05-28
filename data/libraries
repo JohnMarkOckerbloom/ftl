@@ -584,6 +584,19 @@ STATE AZ
 BASEURL http://www.flagstaffpubliclibrary.org/uhtbin/cgisirsi/
 CATTYPE sirsi
 
+# catalog seems to be a one-off?
+ID OCLC-1pn
+NAME Phoenix Public Library
+LOCATION Phoenix
+STATE AZ
+BASEURL http://www.phoenixpubliclibrary.org
+SUBURL ${BASEURL}/controller.jsp?N=0&Ntk=Subject&Ntt=${ARG}&Nty=1&D=${ARG}&Ntx=mode+matchall&Dx=mode+matchall
+TITURL ${BASEURL}/controller.jsp?N=0&Ntk=Title&Ntt=${ARG}&Nty=1&D=${ARG}&Ntx=mode+matchall&Dx=mode+matchall
+AUTURL ${BASEURL}/controller.jsp?N=0&Ntk=Author&Ntt=${ARG}&Nty=1&D=${ARG}&Ntx=mode+matchall&Dx=mode+matchall
+KEYURL ${BASEURL}/controller.jsp?N=0&Ntk=Search+All&Ntt=${ARG}&Nty=1&D=${ARG}&Ntx=mode+matchall&Dx=mode+matchall
+
+
+
 ID OCLC-AZT
 NAME Pima County Public Library
 LOCATION Tucson and vicinity
@@ -683,6 +696,14 @@ CATTYPE ipac20
 PROFILE thq
 AINDEX .AW
 TINDEX ALLTITL
+
+ID OCLC-CO3
+NAME Boulder Public Library
+LOCATION Boulder
+STATE CO
+BASEURL http://nell.boulderlibrary.org/
+CATTYPE iii-consortium-member
+LCODE 7
 
 ID OCLC-COD
 NAME University of Colorado at Boulder
@@ -1435,6 +1456,13 @@ LOCATION Memphis
 STATE TN
 CATTYPE sirsient
 BASEURL http://mpub.ent.sirsi.net
+
+ID OCLC-TNN
+NAME Nashville Public Library
+LOCATION Nashville
+STATE TN
+CATTYPE encore
+BASEURL http://nplencore.library.nashville.org/iii/encore
 
 ID OCLC-1AR
 NAME Arlington Public Library
