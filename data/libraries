@@ -110,12 +110,40 @@ COUNTRY AU
 BASEURL http://innopac.ballarat.edu.au
 CATTYPE innopac
 
+ID OCLC-CN5O6
+NAME Calgary Public Library
+LOCATION Calgary
+PROVINCE AB
+CATTYPE sirsient
+BASEURL http://ent.calgarypubliclibrary.com
+
+ID OCLC-CNEDM
+NAME Edmonton Public Library
+LOCATION Edmonton
+PROVINCE AB
+CATTYPE bibliocommons
+BASEURL http://epl.bibliocommons.com
+
+ID CA-AMP
+NAME Medicine Hat Public Library
+LOCATION Medicine Hat
+PROVINCE AB
+CATTYPE bibliocommons
+BASEURL http://mhpl.bibliocommons.com
+
 ID OCLC-UAU
 NAME University of Calgary
 LOCATION Calgary
 PROVINCE AB
 BASEURL http://webapps2.ucalgary.ca/~lcrtest
 KEYURL ${BASEURL}/search/index.php?q=${ARG}
+
+ID OCLC-BURPL
+NAME Burnaby Public Library
+LOCATION Burnaby
+PROVINCE BC
+CATTYPE bibliocommons
+BASEURL http://burnaby.bibliocommons.com
 
 ID OCLC-4C3
 NAME Greater Victoria Public Library
@@ -198,6 +226,15 @@ PROVINCE NT
 CATTYPE sirsi
 BASEURL http://nwte.sirsidynix.net/uhtbin/cgisirsi
 
+ID CA-NSH
+NAME Halifax Public Libraries
+LOCATION Halifax and vicinity
+PROVINCE NS
+CATTYPE aquabrowser
+BASEURL http://discover.halifaxpubliclibraries.ca
+SINDEX subject
+KINDEX ex-All-0.0
+
 ID OCLC-NOVAN
 NAME Novanet Consortium
 LOCATION Academic libraries in Nova Scotia
@@ -213,12 +250,41 @@ PROVINCE NU
 BASEURL http://nuvt.vtls.com/cgi-bin/nuvt/chameleon
 CATTYPE chameleon
 
+ID OCLC-CNBAR
+NAME Barrie Public Library
+LOCATION Barrie
+PROVINCE ON
+CATTYPE bibliocommons
+BASEURL http://barrie.bibliocommons.com
+
+ID OCLC-CNHML
+NAME Hamilton Public Library
+LOCATION Hamilton
+PROVINCE ON
+CATTYPE bibliocommons
+BASEURL http://hpl.bibliocommons.com
+
+# this doesn't seem to work yet
+#ID OCLC-0WP
+#NAME Kingston Frontenac Public Library
+#LOCATION Kingston
+#PROVINCE ON
+#BASEURL http://www.kfpl.ca/
+#CATTYPE iguana
+
 ID OCLC-CNOPL
 NAME Oshawa Public Libraries
 LOCATION Oshawa
 PROVINCE ON
 CATTYPE sirsient
 BASEURL http://cco.ent.sirsidynix.net
+
+ID OCLC-CNOTT
+NAME Ottawa Public Library
+LOCATION Ottawa
+PROVINCE ON
+CATTYPE bibliocommons
+BASEURL http://ottawa.bibliocommons.com
 
 ID OCLC-TOH
 NAME Toronto Public Library
@@ -314,6 +380,13 @@ LOCATION Montreal
 PROVINCE PQ
 BASEURL http://mcgill.worldcat.org/search
 CATTYPE worldcat
+
+ID OCLC-CNSIL
+NAME Saskatchewan Information and Library Services Consortium
+LOCATION Public libraries across the province
+PROVINCE SK
+CATTYPE encore
+BASEURL http://encore.sasklibraries.ca/iii/encore
 
 ID OCLC-UOH
 NAME University of Saskatchewan
@@ -1108,6 +1181,7 @@ LOCATION Kansas City
 STATE MO
 CATTYPE aquabrowser
 BASEURL http://kcaqua.kclibrary.org
+KINDEX ex-All-1.0
 
 ID OCLC-SVP
 NAME St. Louis Public Library
@@ -1379,6 +1453,14 @@ LOCATION Dallas
 STATE PA
 BASEURL http://comi.sirsi.net/uhtbin/cgisirsi
 CATTYPE sirsi
+
+ID OCLC-C8F
+NAME Othmer Library of Chemical History
+LOCATION Philadelphia
+STATE PA
+BASEURL http://othmerlib.chemheritage.org/
+CATTYPE iii-consortium-member
+LCODE 6
 
 ID OCLC-UPM
 NAME Penn State University Libraries

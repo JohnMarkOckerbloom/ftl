@@ -38,10 +38,12 @@ CATTYPE apollo
 KEYURL ${BASEURL}?search=${ARG:N}
 
 CATTYPE aquabrowser
-SUBURL ${BASEURL}/?q=subjects:"${ARG}"+
-TITURL ${BASEURL}/?q=ex-Everything-1.0:"${ARG}"+
+SINDEX subjects
+KINDEX ex-Everything-1.0
+SUBURL ${BASEURL}/?q=${SINDEX}:"${ARG}"+
+TITURL ${BASEURL}/?q=${KINDEX}:"${ARG}"+
 AUTURL ${BASEURL}/?q=author:"${ARG}"+
-ATIURL ${BASEURL}/?q=ex-Everything-1.0:"${TITLE}"+author:"${AUTHOR}"+
+ATIURL ${BASEURL}/?q=${KINDEX}:"${TITLE}"+author:"${AUTHOR}"+
 KEYURL ${BASEURL}/?q=${ARG}+
 
 CATTYPE bibliocommons
@@ -109,6 +111,10 @@ AUTURL ${BASEURL}/results?qtype=author&query=${ARG}
 TITURL ${BASEURL}/results?qtype=title&query=${ARG}
 KEYURL ${BASEURL}/results?qtype=keyword&query=${ARG}
 DEFAULT DOMAIN
+
+# haven't gotten this to work yet
+# CATTYPE iguana
+# KEYURL ${BASEURL}/iguana/www.main.cls?sUrl=search&#searchTerm=${ARG}
 
 # this we'll use for members of webpacpro consortia
 CATTYPE iii-consortium-member
