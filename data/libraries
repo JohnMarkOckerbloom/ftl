@@ -1684,6 +1684,22 @@ STATE WA
 BASEURL http://nu.worldcat.org/search
 CATTYPE worldcat
 
+# arbitrarily chose ID of Renton (a KCLS library; no overall ID found)
+ID OCLC-Z26
+NAME King County Library System
+LOCATION Libraries near Seattle
+STATE WA
+BASEURL http://catalog.kcls.org/eg/opac
+CATTYPE evergreen-dynamic
+FILTERS N
+
+ID OCLC-Z84
+NAME Olympic College
+LOCATION Bremerton
+STATE WA
+CATTYPE voyager-vwebv
+BASEURL http://olympic.library.ctc.edu/vwebv/search
+
 ID OCLC-UOK
 NAME Seattle Public Library
 LOCATION Seattle
@@ -1691,12 +1707,47 @@ STATE WA
 CATTYPE bibliocommons
 BASEURL http://seattle.bibliocommons.com
 
+ID OCLC-OEM
+NAME Sno-Isle Libraries
+LOCATION Snohomish and Island counties
+STATE WA
+BASEURL http://catalog.sno-isle.org/polaris
+CATTYPE polaris
+
+ID OCLC-UAG
+NAME Spokane Public Library
+LOCATION Spokane
+STATE WA
+BASEURL http://hzportal.spokanelibrary.org
+CATTYPE ipac20
+
+ID OCLC-TAW
+NAME Tacoma Public Library
+LOCATION Tacoma
+STATE WA
+CATTYPE encore
+BASEURL http://encore.tplonline.org/iii/encore
+
+ID OCLC-UOJ
+NAME Timberland Regional Library
+LOCATION Grays Harbor, Lewis, Mason, Pacific, and Thurston counties
+STATE WA
+CATTYPE sirsi
+BASEURL http://cat.trl.org/uhtbin/cgisirsi.exe
+
 ID OCLC-WC3
 NAME Whatcom Community College
 LOCATION Bellingham
 STATE WA
 CATTYPE voyager-vwebv
 BASEURL http://whatcom.library.ctc.edu/vwebv/search
+
+ID OCLC-YVR
+NAME Yakima Valley Libraries
+LOCATION Yakima County
+STATE WA
+BASEURL http://catalog.yvl.org/polaris
+CATTYPE polaris
 
 ID OCLC-9WV
 NAME Kanawha County Public Library
