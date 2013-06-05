@@ -244,6 +244,14 @@ TITURL ${BASEURL}/Search/Results?type=Title&lookfor=${ARG}
 KEYURL ${BASEURL}/Search/Results?type=AllFields&lookfor=${ARG}
 DEFAULT DOMAIN
 
+# same as vufind, but with more control over URL before ?
+CATTYPE vufindgeneral
+SUBURL ${BASEURL}?type=Subject&lookfor=${ARG}
+AUTURL ${BASEURL}?type=Author&lookfor=${ARG}
+TITURL ${BASEURL}?Results?type=Title&lookfor=${ARG}
+KEYURL ${BASEURL}?type=AllFields&lookfor=${ARG}
+DEFAULT DOMAIN
+
 CATTYPE vufindnoaccent
 SUBURL ${BASEURL}/Search/Results?type=Subject&lookfor=${ARG:N}
 AUTURL ${BASEURL}/Search/Results?type=Author&lookfor=${ARG:N}

@@ -1026,6 +1026,13 @@ CATTYPE sirsi
 # BASEURL http://new.iucat.iu.edu/catalog
 # CATTYPE blacklight
 
+ID OCLC-KTP
+NAME Topeka and Shawnee County Public Library
+LOCATION Topeka
+STATE KS
+BASEURL http://catalog.tscpl.org/polaris
+CATTYPE polaris
+
 ID OCLC-KCE
 NAME Kenton County Public Library
 LOCATION Kenton County
@@ -1038,13 +1045,6 @@ NAME Louisville Free Public Library
 LOCATION Louisville
 STATE KY
 BASEURL http://pac.lfpl.org/polaris
-CATTYPE polaris
-
-ID OCLC-KTP
-NAME Topeka and Shawnee County Public Library
-LOCATION Topeka
-STATE KS
-BASEURL http://catalog.tscpl.org/polaris
 CATTYPE polaris
 
 ID OCLC-LNC
@@ -1377,6 +1377,13 @@ STATE OH
 BASEURL http://catalog.cincinnatilibrary.org/iii/encore
 CATTYPE encore
 
+ID OCLC-9TL
+NAME Toledo-Lucas County Public Library
+LOCATION Toledo and vicinity
+STATE OH
+BASEURL http://encore.toledolibrary.org/iii/encore
+CATTYPE encore
+
 ID OCLC-TUL
 NAME Tulsa City-County Library
 LOCATION Tulsa
@@ -1418,6 +1425,14 @@ LOCATION Washington County
 STATE OR
 BASEURL http://catalog.wccls.org/polaris
 CATTYPE polaris
+
+ID OCLC-PGA
+NAME ACCESS Pennsylvania
+LOCATION Libraries across the state
+STATE PA
+BASEURL http://205.247.101.11
+CATTYPE iii-consortium-member
+LCODE NaN
 
 ID OCLC-DXU
 NAME Drexel University Libraries
@@ -1483,6 +1498,14 @@ STATE PA
 BASEURL http://catalog.friends-select.org:2051/
 CATTYPE webpacpro
 DEFAULT http://catalog.friends-select.org:2051/search~S69
+
+ID OCLC-TCCDM
+NAME Tri-College Consortium
+LOCATION Bryn Mawr, Haverford, and Swarthmore colleges
+STATE PA
+CATTYPE vufindgeneral
+BASEURL http://tripod.brynmawr.edu/find/Channels/Results
+FILTERS NK
 
 ID OCLC-PAU
 NAME University of Pennsylvania Libraries
