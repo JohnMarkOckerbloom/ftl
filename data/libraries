@@ -1151,6 +1151,29 @@ STATE MI
 CATTYPE summon
 BASEURL http://lcc.summon.serialssolutions.com
 
+ID OCLC-M7@
+NAME Michigan eLibrary
+LOCATION Order from libraries across the state
+STATE MI
+BASEURL http://elibrary.mel.org
+CATTYPE innopac
+
+ID OCLC-EEM
+NAME Michigan State University Libraries
+LOCATION East Lansing
+STATE MI
+CATTYPE webpacpro
+BASEURL http://magic.lib.msu.edu/
+
+ID OCLC-EIK
+NAME Oakland Community College
+LOCATION various Oakland County campuses
+STATE MI
+BASEURL http://catalog.dalnet.lib.mi.us
+CATTYPE ipac20
+PROFILE occ
+SINDEX .SW
+
 ID OCLC-ELM
 NAME University of Michigan Library
 LOCATION Ann Arbor
