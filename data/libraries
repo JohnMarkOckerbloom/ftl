@@ -264,13 +264,35 @@ PROVINCE ON
 CATTYPE bibliocommons
 BASEURL http://hpl.bibliocommons.com
 
-# this doesn't seem to work yet
-#ID OCLC-0WP
-#NAME Kingston Frontenac Public Library
-#LOCATION Kingston
-#PROVINCE ON
-#BASEURL http://www.kfpl.ca/
-#CATTYPE iguana
+# I haven't gotten their Iguana links to work, but they still have Vubis
+ID OCLC-0WP
+NAME Kingston Frontenac Public Library
+LOCATION Kingston
+PROVINCE ON
+BASEURL http://catalogue.kfpl.ca/kfplvw
+CATTYPE vubis
+
+ID OCLC-KPLCP
+NAME Kitchener Public Library
+LOCATION Kitchener
+PROVINCE ON
+CATTYPE encore
+BASEURL http://encore.kpl.org/iii/encore_kpl
+
+ID OCLC-LONPL
+NAME London Public Library
+LOCATION London
+PROVINCE ON
+CATTYPE encore
+BASEURL http://encore.londonpubliclibrary.ca/iii/encore
+
+ID OCLC-MLSOD
+NAME Mississauga Library System
+LOCATION Mississauga
+PROVINCE ON
+CATTYPE sirsient
+LCODE mlsathome
+BASEURL http://miss.ent.sirsi.net
 
 ID OCLC-CNOPL
 NAME Oshawa Public Libraries
@@ -1136,6 +1158,13 @@ LOCATION Wellesley
 STATE MA
 CATTYPE summon
 BASEURL http://wellesley.summon.serialssolutions.com
+
+ID OCLC-EYP
+NAME Detroit Public Library
+LOCATION Detroit
+STATE MI
+CATTYPE sirsi
+BASEURL http://dplopac.detroitpubliclibrary.org/uhtbin/cgisirsi
 
 ID OCLC-EYE
 NAME Eastern Michigan University

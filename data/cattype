@@ -113,8 +113,8 @@ KEYURL ${BASEURL}/results?qtype=keyword&query=${ARG}
 DEFAULT DOMAIN
 
 # haven't gotten this to work yet
-# CATTYPE iguana
-# KEYURL ${BASEURL}/iguana/www.main.cls?sUrl=search&#searchTerm=${ARG}
+CATTYPE iguana
+KEYURL ${BASEURL}/iguana/www.main.cls?sUrl=search&searchTerm=${ARG}
 
 # this we'll use for members of webpacpro consortia
 CATTYPE iii-consortium-member
@@ -236,6 +236,12 @@ SUBURL ${BASEURL}?searchArg=${ARG:A}&searchCode=SUBJ&searchType=1
 AUTURL ${BASEURL}?searchArg=${ARG:A}&searchCode=NAME&searchType=1
 TITURL ${BASEURL}?searchArg=${ARG:A}&searchCode=TALL&searchType=1
 KEYURL ${BASEURL}?searchArg=${ARG}&searchCode=GKEY^*&searchType=1
+
+CATTYPE vubis
+SUBURL ${BASEURL}/List.csp?Database=1&OpacLanguage=eng&SearchMethod=Find_1&NumberToRetrieve=50&Profile=publicAccess&PreviousList=Start&PageType=Start&WebPageNr=1&WebAction=NewSearch&StartValue=1&RowRepeat=0&Index1=1*Subjectbib$&SearchT1=${ARG}
+AUTURL ${BASEURL}/List.csp?Database=1&OpacLanguage=eng&SearchMethod=Find_1&NumberToRetrieve=50&Profile=publicAccess&PreviousList=Start&PageType=Start&WebPageNr=1&WebAction=NewSearch&StartValue=1&RowRepeat=0&Index1=1*authorbib$&SearchT1=${ARG}
+TITURL ${BASEURL}/List.csp?Database=1&OpacLanguage=eng&SearchMethod=Find_1&NumberToRetrieve=50&Profile=publicAccess&PreviousList=Start&PageType=Start&WebPageNr=1&WebAction=NewSearch&StartValue=1&RowRepeat=0&Index1=1*Titlebib&SearchT1=${ARG}
+KEYURL ${BASEURL}/List.csp?Database=1&OpacLanguage=eng&SearchMethod=Find_1&NumberToRetrieve=50&Profile=publicAccess&PreviousList=Start&PageType=Start&WebPageNr=1&WebAction=NewSearch&StartValue=1&RowRepeat=0&Index1=1*Keywordsbib&SearchT1=${ARG}
 
 CATTYPE vufind
 SUBURL ${BASEURL}/Search/Results?type=Subject&lookfor=${ARG}
