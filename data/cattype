@@ -106,10 +106,10 @@ KEYURL ${BASEURL}/skin/default/xml/rresult.xml?rt=keyword&l=${LCODE}&tp=keyword&
 DEFAULT DOMAIN
 
 CATTYPE evergreen-dynamic
-SUBURL ${BASEURL}/results?qtype=subject&query=${ARG}
-AUTURL ${BASEURL}/results?qtype=author&query=${ARG}
-TITURL ${BASEURL}/results?qtype=title&query=${ARG}
-KEYURL ${BASEURL}/results?qtype=keyword&query=${ARG}
+SUBURL ${BASEURL}/results?locg=${LCODE}&qtype=subject&query=${ARG}
+AUTURL ${BASEURL}/results?locg=${LCODE}&qtype=author&query=${ARG}
+TITURL ${BASEURL}/results?locg=${LCODE}&qtype=title&query=${ARG}
+KEYURL ${BASEURL}/results?locg=${LCODE}&qtype=keyword&query=${ARG}
 DEFAULT DOMAIN
 
 # haven't gotten this to work yet
@@ -218,10 +218,11 @@ AUTURL ${BASEURL}/search?t.AuthorCombined=${ARG}
 KEYURL ${BASEURL}/search?spellcheck=true&s.q=${ARG}
 
 CATTYPE tlc
-SUBURL ${BASEURL}TLCScripts/interpac.dll?Search&Config=${LCODE}&FormId=0&Branch=,1,&StartIndex=0&SearchField=4&SearchType=1&SearchData=${ARG:NK}
-AUTURL ${BASEURL}TLCScripts/interpac.dll?Search&Config=${LCODE}&FormId=0&Branch=,1,&StartIndex=0&SearchField=2&SearchType=1&SearchData=${ARG:NK}
-TITURL ${BASEURL}TLCScripts/interpac.dll?Search&Config=${LCODE}&FormId=0&Branch=,1,&StartIndex=0&SearchField=1&SearchType=1&SearchData=${ARG:NK}
-KEYURL ${BASEURL}TLCScripts/interpac.dll?Search&Config=${LCODE}&FormId=0&Branch=,1,&StartIndex=0&SearchField=16777216&SearchType=1&SearchData=${ARG:NK}
+BRANCH ,1,
+SUBURL ${BASEURL}TLCScripts/interpac.dll?Search&Config=${LCODE}&FormId=0&Branch=${BRANCH}&StartIndex=0&SearchField=4&SearchType=1&SearchData=${ARG:NK}
+AUTURL ${BASEURL}TLCScripts/interpac.dll?Search&Config=${LCODE}&FormId=0&Branch=${BRANCH}&StartIndex=0&SearchField=2&SearchType=1&SearchData=${ARG:NK}
+TITURL ${BASEURL}TLCScripts/interpac.dll?Search&Config=${LCODE}&FormId=0&Branch=${BRANCH}&StartIndex=0&SearchField=1&SearchType=1&SearchData=${ARG:NK}
+KEYURL ${BASEURL}TLCScripts/interpac.dll?Search&Config=${LCODE}&FormId=0&Branch=${BRANCH}&StartIndex=0&SearchField=16777216&SearchType=1&SearchData=${ARG:NK}
 
 CATTYPE voyager
 TITURL ${BASEURL}?Search_Arg=${ARG:A}&SL=None&Search_Code=TALL&CNT=25

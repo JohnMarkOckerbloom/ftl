@@ -1752,6 +1752,14 @@ STATE VT
 BASEURL http://flet.sirsi.net/uhtbin/cgisirsi
 CATTYPE sirsi
 
+ID OCLC-BGTON
+NAME Burlington Public Library
+LOCATION Burlington
+STATE WA
+BASEURL http://burlington.skagitcat.org/eg/opac
+CATTYPE evergreen-dynamic
+LCODE 4
+
 ID OCLC-HNW
 NAME Hurst Library, Northwest University
 LOCATION Kirkland
@@ -1767,6 +1775,23 @@ STATE WA
 BASEURL http://catalog.kcls.org/eg/opac
 CATTYPE evergreen-dynamic
 FILTERS N
+
+ID OCLC-LZS
+NAME Libraries of Stevens County
+LOCATION Stevens County
+STATE WA
+CATTYPE tlc
+LCODE ysm
+BRANCH 0
+BASEURL http://66.96.65.71/
+
+ID OCLC-AA5
+NAME Mount Vernon City Library
+LOCATION Mount Vernon
+STATE WA
+BASEURL http://library.mountvernonwa.org
+CATTYPE ipac20
+PROFILE mv2
 
 ID OCLC-Z84
 NAME Olympic College
