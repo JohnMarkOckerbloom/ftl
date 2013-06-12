@@ -286,6 +286,13 @@ PROVINCE ON
 CATTYPE encore
 BASEURL http://encore.londonpubliclibrary.ca/iii/encore
 
+ID OCLC-MRKPL
+NAME Markham Public Library
+LOCATION Markham
+PROVINCE ON
+CATTYPE bibliocommons
+BASEURL http://markham.bibliocommons.com
+
 ID OCLC-MLSOD
 NAME Mississauga Library System
 LOCATION Mississauga
@@ -388,6 +395,14 @@ LOCATION Public libraries across the province
 PROVINCE PE
 CATTYPE sirsi
 BASEURL http://24.224.240.218/uhtbin/cgisirsi.exe
+
+# no overall ID found; arbitarily picking Outremont branch's code
+ID CA-QMBO
+NAME Biblioth&egrave;ques Montr&eacute;al
+LOCATION Public libraries in Montreal
+PROVINCE PQ
+BASEURL http://nelligan.ville.montreal.qc.ca
+CATTYPE webpacpro
 
 ID OCLC-CDN
 NAME Concordia University
@@ -1513,6 +1528,14 @@ LOCATION Philadelphia, Newtown, and Bensalem
 STATE PA
 BASEURL http://holy.sirsi.net/uhtbin/cgisirsi
 CATTYPE sirsi
+
+ID OCLC-AOX
+NAME Library Company of Philadelphia
+LOCATION Philadelphia
+STATE PA
+CATTYPE aleph1
+BASEURL http://pacscl.exlibrisgroup.com:48992
+TINDEX WTI
 
 ID OCLC-CMZ
 NAME Misericordia University
