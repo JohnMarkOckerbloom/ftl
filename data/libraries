@@ -398,7 +398,7 @@ BASEURL http://24.224.240.218/uhtbin/cgisirsi.exe
 
 # no overall ID found; arbitarily picking Outremont branch's code
 ID CA-QMBO
-NAME Biblioth&egrave;ques Montr&eacute;al
+NAME Bibliotheques Montreal
 LOCATION Public libraries in Montreal
 PROVINCE PQ
 BASEURL http://nelligan.ville.montreal.qc.ca
@@ -1045,6 +1045,14 @@ PROFILE ce
 AINDEX PZAUTH
 TINDEX PALLTI
 
+ID OCLC-IWP
+NAME Sioux City Public Library
+LOCATION Sioux City
+STATE IA
+BASEURL http://ecatalog1.siouxcitylibrary.org
+CATTYPE ipac20
+PROFILE mn
+
 ID OCLC-IND
 NAME Hesburgh Libraries, University of Notre Dame
 LOCATION Notre Dame
@@ -1062,6 +1070,20 @@ CATTYPE sirsi
 # this beta doesn't seem to work quite right yet
 # BASEURL http://new.iucat.iu.edu/catalog
 # CATTYPE blacklight
+
+ID OCLC-KNJ
+NAME Johnson County Library
+LOCATION Overland Park and vicinity
+STATE KS
+CATTYPE bibliocommons
+BASEURL http://jocolibrary.bibliocommons.com
+
+ID OCLC-CD3
+NAME Manhattan Public Library
+LOCATION Manhattan
+STATE KS
+BASEURL http://catalog.manhattan.lib.ks.us/polaris
+CATTYPE polaris
 
 ID OCLC-KTP
 NAME Topeka and Shawnee County Public Library
