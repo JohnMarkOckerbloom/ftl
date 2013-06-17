@@ -166,6 +166,13 @@ PROVINCE BC
 CATTYPE bibliocommons
 BASEURL http://orl.bibliocommons.com
 
+ID CA-BSUR
+NAME Surrey Libraries
+LOCATION Surrey
+PROVINCE BC
+CATTYPE bibliocommons
+BASEURL http://surrey.bibliocommons.com
+
 ID OCLC-8UB
 NAME University of British Columbia Library
 LOCATION Vancouver and Kelowna
@@ -180,12 +187,26 @@ PROVINCE BC
 CATTYPE summon
 BASEURL http://uvic.summon.serialssolutions.com
 
+ID OCLC-CAVAN
+NAME Vancouver Island Regional Library
+LOCATION Various public libraries on Vancouver Island
+PROVINCE BC
+CATTYPE bibliocommons
+BASEURL http://virl.bibliocommons.com
+
 ID OCLC-VP@
 NAME Vancouver Public Library
 LOCATION Vancouver
 PROVINCE BC
 CATTYPE bibliocommons
 BASEURL http://vpl.bibliocommons.com
+
+ID OCLC-WVAML
+NAME West Vancouver Memorial Library
+LOCATION West Vancouver
+PROVINCE BC
+BASEURL http://catalogue.westvanlibrary.ca
+CATTYPE innopac
 
 ID OCLC-CNWIN
 NAME Winnipeg Public Library
@@ -257,6 +278,13 @@ PROVINCE ON
 CATTYPE bibliocommons
 BASEURL http://barrie.bibliocommons.com
 
+ID OCLC-WDTGS
+NAME Greater Sudbury Public Library
+LOCATION Sudbury and vicinity
+PROVINCE ON
+CATTYPE encore
+BASEURL http://encore.sudbury.library.on.ca/iii/encore
+
 ID OCLC-CNHML
 NAME Hamilton Public Library
 LOCATION Hamilton
@@ -314,6 +342,20 @@ LOCATION Ottawa
 PROVINCE ON
 CATTYPE bibliocommons
 BASEURL http://ottawa.bibliocommons.com
+
+ID OCLC-CNSTR
+NAME Stratford Public Library
+LOCATION Stratford
+PROVINCE ON
+CATTYPE bibliocommons
+BASEURL http://spl.bibliocommons.com
+
+ID OCLC-THUND
+NAME Thunder Bay Public Library
+LOCATION Thunder Bay
+PROVINCE ON
+BASEURL http://mycatalogue.tbpl.ca
+CATTYPE webpacpro
 
 ID OCLC-TOH
 NAME Toronto Public Library
@@ -519,6 +561,18 @@ LOCATION Singapore
 COUNTRY SG
 BASEURL http://catalogue.library.smu.edu.sg
 CATTYPE webpacpro
+
+# Don't know the ISIL if any for SWISSBIB
+ID SWISSBIB
+NAME Swissbib
+LOCATION Union catalog of Swiss libraries; English search coverage may vary
+BASEURL http://www.swissbib.ch/TouchPoint/search.do
+SUBURL ${BASEURL}?methodToCall=submitButtonCall&methodToCallParameter=submitSearch&searchCategories[0]=600&searchString[0]=${ARG}&submitButtonCall_submitSearch=Search
+AUTURL ${BASEURL}?methodToCall=submitButtonCall&methodToCallParameter=submitSearch&searchCategories[0]=700&searchString[0]=${ARG}&submitButtonCall_submitSearch=Search
+TITURL ${BASEURL}?methodToCall=submitButtonCall&methodToCallParameter=submitSearch&searchCategories[0]=245&searchString[0]=${ARG}&submitButtonCall_submitSearch=Search
+KEYURL ${BASEURL}?methodToCall=submitButtonCall&methodToCallParameter=submitSearch&searchCategories[0]=-1&searchString[0]=${ARG}&submitButtonCall_submitSearch=Search
+DEFAULT DOMAIN
+COUNTRY CH
 
 ID OCLC-OE-DOLLAR
 NAME University of Limpopo Libraries

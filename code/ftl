@@ -62,6 +62,7 @@ my $countries = {
   '00' => " Global library services",
   'AU' => "Australia",
   'CA' => "Canada",
+  'CH' => "Switzerland",
   'IN' => "India",
   'IE' => "Ireland",
   'NA' => "Namibia",
