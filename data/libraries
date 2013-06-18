@@ -1167,6 +1167,14 @@ STATE LA
 BASEURL http://ipac.neworleanspubliclibrary.org/polaris
 CATTYPE polaris
 
+ID OCLC-9BY
+NAME Bangor Public Library
+LOCATION Bangor
+STATE ME
+BASEURL http://ursus.maine.edu/
+CATTYPE iii-consortium-member
+LCODE 8
+
 ID MAINECAT
 NAME MaineCat
 LOCATION Statewide library catalog
@@ -1213,6 +1221,14 @@ STATE MA
 BASEURL http://bark.cwmars.org/eg/opac
 CATTYPE evergreen-dynamic
 FILTERS N
+
+ID OCLC-CIB
+NAME CLAMS: Cape Libraries Automated Materials Sharing
+LOCATION Public libraries on Cape Cod
+STATE MA
+BASEURL http://library.clamsnet.org/
+CATTYPE iii-consortium-member
+LCODE 1
 
 ID FIVECOLLEGE
 NAME Five College Libraries
@@ -1690,6 +1706,14 @@ LOCATION Providence
 STATE RI
 CATTYPE vufind
 BASEURL http://library.brown.edu/find
+
+ID OCLC-RIOSL
+NAME Ocean State Libraries
+LOCATION Public libraries across the state
+STATE RI
+BASEURL http://catalog.oslri.net/
+CATTYPE iii-consortium-member
+LCODE 1
 
 ID OCLC-SEA
 NAME Clemson University Libraries
