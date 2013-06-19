@@ -776,6 +776,13 @@ STATE AR
 BASEURL http://encore.cals.lib.ar.us/iii/encore
 CATTYPE encore
 
+ID OCLC-1JQ
+NAME Alameda County Library
+LOCATION East Bay communities south of Oakland
+STATE CA
+BASEURL http://encore.aclibrary.org/iii/encore
+CATTYPE encore
+
 ID OCLC-JQF
 NAME Berkeley Public Library
 LOCATION Berkeley
@@ -797,6 +804,20 @@ STATE CA
 CATTYPE encorekey
 BASEURL http://encore.chulavista.lib.ca.us/iii/encore
 SKIN def
+
+ID OCLC-JQ0
+NAME County of Los Angeles Public Library
+LOCATION Los Angeles County outside the city of Los Angeles
+STATE CA
+CATTYPE sirsi
+BASEURL http://catalog.colapl.org/uhtbin/cgisirsi
+
+ID LINKPLUS
+NAME LINK+ Union Catalog
+LOCATION Cooperating libraries in California and Nevada
+STATE CA
+BASEURL http://csul.iii.com
+CATTYPE innopac
 
 ID OCLC-1LP
 NAME Los Angeles Public Library
@@ -826,6 +847,20 @@ LOCATION Moraga
 STATE CA
 BASEURL http://albert.stmarys-ca.edu
 CATTYPE webpacpro
+
+ID OCLC-1JT
+NAME San Diego Public Library
+LOCATION San Diego
+STATE CA
+CATTYPE sirsient
+BASEURL http://sddp.ent.sirsi.net/
+
+ID OCLC-SDG
+NAME San Diego County Library
+LOCATION San Diego County outside the city of San Diego
+STATE CA
+BASEURL http://encore.co.san-diego.ca.us/iii/encore
+CATTYPE encore
 
 ID OCLC-SFR
 NAME San Francisco Public Library
@@ -860,6 +895,13 @@ CATTYPE ipac20
 PROFILE thq
 AINDEX .AW
 TINDEX ALLTITL
+
+ID OCLC-FSHHH
+NAME University of California Libraries
+LOCATION All 10 UC campuses
+STATE CA
+BASEURL http://melvyl.worldcat.org/search
+CATTYPE worldcat
 
 ID OCLC-CO3
 NAME Boulder Public Library
