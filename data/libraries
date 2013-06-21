@@ -827,6 +827,13 @@ BASEURL http://ls2pac.lapl.org/
 CATTYPE ls2pac
 FILTERS S
 
+ID OCLC-MVP
+NAME Mountain View Public Library
+LOCATION Mountain View
+STATE CA
+BASEURL http://encore.mountainview.gov/iii/encore
+CATTYPE encore
+
 ID OCLC-CNB
 NAME Newport Beach Public Library
 LOCATION Newport Beach
@@ -840,6 +847,14 @@ LOCATION Oakland
 STATE CA
 BASEURL http://encore.oaklandlibrary.org/iii/encore
 CATTYPE encore
+
+ID OCLC-PAP
+NAME Palo Alto City Library
+LOCATION Palo Alto
+STATE CA
+BASEURL http://webcat.cityofpaloalto.org
+CATTYPE ipac20
+PROFILE pacl
 
 ID OCLC-GH0
 NAME Saint Mary's College of California
@@ -869,6 +884,13 @@ STATE CA
 BASEURL http://sflib1.sfpl.org
 CATTYPE webpacpro
 
+ID OCLC-SJP
+NAME San Jose Public Library
+LOCATION San Jose
+STATE CA
+BASEURL http://discover.sjlibrary.org/iii/encore_sjpl
+CATTYPE encore
+
 ID OCLC-JTW
 NAME San Leandro Public Library
 LOCATION San Leandro
@@ -879,12 +901,26 @@ PROFILE m
 AINDEX PAUTHOR
 TINDEX ALLTITL
 
+ID OCLC-JRY
+NAME Santa Clara County Library District
+LOCATION Parts of Santa Clara County
+STATE CA
+CATTYPE bibliocommons
+BASEURL http://sccl.bibliocommons.com
+
 ID OCLC-STF
 NAME Stanford University Libraries
 LOCATION Stanford
 STATE CA
 BASEURL http://searchworks.stanford.edu
 CATTYPE blacklight
+
+ID OCLC-SXP
+NAME Sunnyvale Public Library
+LOCATION Sunnyvale
+STATE CA
+BASEURL http://catalog.sunnyvalelibrary.org/iii/encore
+CATTYPE encore
 
 ID OCLC-TCB
 NAME Tulare County Library
@@ -895,6 +931,13 @@ CATTYPE ipac20
 PROFILE thq
 AINDEX .AW
 TINDEX ALLTITL
+
+ID OCLC-CUI
+NAME University of California Irvine
+LOCATION Irvine
+STATE CA
+BASEURL http://antpac.lib.uci.edu
+CATTYPE webpacpro
 
 ID OCLC-FSHHH
 NAME University of California Libraries
