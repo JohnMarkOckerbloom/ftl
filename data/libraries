@@ -1931,6 +1931,22 @@ STATE UT
 CATTYPE bibliocommons
 BASEURL http://slcpl.bibliocommons.com
 
+ID OCLC-UTD
+NAME Davis County Library
+LOCATION Northern suburbs of Salt Lake City
+STATE UT
+CATTYPE sirsi
+BASEURL http://168.180.199.11/uhtbin/cgisirsi.exe
+
+ID OCLC-RB0
+NAME Orem Public Library
+LOCATION Orem
+STATE UT
+BASEURL http://catalog.oremlibrary.org
+CATTYPE ipac20
+PROFILE opl
+FILTERS S
+
 ID OCLC-0UP
 NAME Provo Library
 LOCATION Provo
@@ -1938,6 +1954,15 @@ STATE UT
 CATTYPE sirsient
 LCODE pl
 BASEURL http://provo.ent.sirsi.net
+
+ID OCLC-UUM
+NAME University of Utah
+LOCATION Salt Lake City
+STATE UT
+CATTYPE primo
+BASEURL http://thoth.library.utah.edu:1701/primo_library
+VID UUU
+DEFAULT http://www.lib.utah.edu/
 
 ID OCLC-UTW
 NAME Weber County Library
