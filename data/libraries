@@ -1055,6 +1055,13 @@ BASEURL http://gapines.org/opac/en-US
 CATTYPE evergreen
 LCODE 7
 
+ID OCLC-AFPLS
+NAME Atlanta-Fulton Public Library System
+LOCATION Atlanta and vicinity
+STATE GA
+CATTYPE sirsient
+BASEURL http://afpl.ent.sirsi.net
+
 ID OCLC-EMU
 NAME Emory University Libraries
 LOCATION Atlanta
@@ -1063,6 +1070,20 @@ CATTYPE primo
 BASEURL http://discovere.emory.edu/primo_library
 VID discovere
 DEFAULT DOMAIN
+
+ID OCLC-GSC
+NAME Live Oak Public Libraries
+LOCATION Savannah; Chatham, Effingham and Liberty Counties
+STATE GA
+CATTYPE sirsi
+BASEURL http://webcat.liveoakpl.org/uhtbin/cgisirsi
+
+ID OCLC-GSS
+NAME Savannah State University
+LOCATION Savannah
+STATE GA
+CATTYPE vufind
+BASEURL http://gilfind.savannahstate.edu/vufind
 
 ID OCLC-HUH
 NAME University of Hawaii at Manoa
