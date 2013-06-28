@@ -1433,6 +1433,13 @@ PROFILE elibrary
 AINDEX AL
 TINDEX UTL
 
+ID OCLC-SPP
+NAME Saint Paul Public Library
+LOCATION St. Paul
+STATE MN
+BASEURL http://alpha.sppl.org
+CATTYPE innopac
+
 ID OCLC-MJP
 NAME Jackson-Hinds Library System
 LOCATION Jackson and Hinds County
@@ -1634,6 +1641,13 @@ LOCATION Cleveland
 STATE OH
 CATTYPE bibliocommons
 BASEURL http://cpl.bibliocommons.com
+
+ID OCLC-7DM
+NAME Dayton Metro Library
+LOCATION Dayton and vicinity
+STATE OH
+BASEURL http://pac.daytonmetrolibrary.org/polaris
+CATTYPE polaris
 
 ID OCLC-OCP
 NAME Public Library of Cincinnati and Hamilton County
@@ -2046,6 +2060,14 @@ STATE WA
 BASEURL http://library.mountvernonwa.org
 CATTYPE ipac20
 PROFILE mv2
+
+ID OCLC-NOQ
+NAME North Olympic Library System
+LOCATION Port Angeles, Forks, Sequim, Clallam Bay
+STATE WA
+BASEURL http://pac.nols.org/polaris
+CATTYPE polaris
+FILTERS N
 
 ID OCLC-Z84
 NAME Olympic College
