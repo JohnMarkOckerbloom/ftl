@@ -805,6 +805,14 @@ CATTYPE encorekey
 BASEURL http://encore.chulavista.lib.ca.us/iii/encore
 SKIN def
 
+ID OCLC-JQJ 
+NAME Contra Costa Library
+LOCATION Contra Costa County
+STATE CA
+CATTYPE ls2pac
+BASEURL http://catalog.ccclib.org/
+FILTERS S
+
 ID OCLC-JQ0
 NAME County of Los Angeles Public Library
 LOCATION Los Angeles County outside the city of Los Angeles
@@ -855,6 +863,35 @@ STATE CA
 BASEURL http://webcat.cityofpaloalto.org
 CATTYPE ipac20
 PROFILE pacl
+
+ID OCLC-MPGCA
+NAME PALS Catalog
+LOCATION Monterey and Pacific Grove public and special libraries
+STATE CA
+BASEURL http://montn.ci.monterey.ca.us
+CATTYPE webpacpro
+
+ID OCLC-CZP
+NAME Peninsula Library System
+LOCATION San Mateo County
+STATE CA
+BASEURL http://catalog.plsinfo.org/
+CATTYPE iii-consortium-member
+LCODE 1
+
+ID OCLC-RSV
+NAME Roseville Public Library
+LOCATION Roseville
+STATE CA
+BASEURL https://library.roseville.ca.us
+CATTYPE koha
+
+ID OCLC-JRS
+NAME Sacramento Public Library
+LOCATION Sacramento and vicinity
+STATE CA
+BASEURL http://find.saclibrarycatalog.org/iii/encore
+CATTYPE encore
 
 ID OCLC-GH0
 NAME Saint Mary's College of California
