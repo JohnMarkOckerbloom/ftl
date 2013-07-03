@@ -631,6 +631,20 @@ COUNTRY UK
 CATTYPE summon
 BASEURL http://cam.summon.serialssolutions.com
 
+ID UK-UKB
+NAME Library of Birmingham
+LOCATION Birmingham
+COUNTRY UK
+CATTYPE spydus
+BASEURL http://library-opac.birmingham.gov.uk
+
+ID OCLC-LND
+NAME London Metropolitan University
+LOCATION London, England
+COUNTRY UK
+BASEURL http://catalogue.londonmet.ac.uk
+CATTYPE innopac
+
 ID OCLC-UKMAN
 NAME Manchester city libraries
 LOCATION Manchester, England
@@ -639,6 +653,16 @@ BASEURL https://librarycatalogue.manchester.gov.uk/
 AUTURL ${BASEURL}02_Catalogue/02_003_BrowseResults.aspx?page=1&searchType=0&searchTerm=${ARG:S}
 TITURL ${BASEURL}02_Catalogue/02_003_BrowseResults.aspx?page=1&searchType=1&searchTerm=${ARG}
 KEYURL ${BASEURL}02_Catalogue/02_004_TitleResults.aspx?page=1&searchType=99&searchTerm=${ARG}
+
+ID OCLC-NLW
+NAME National Library of Wales
+LOCATION Aberystwyth, Wales
+COUNTRY UK
+CATTYPE aquabrowser
+BASEURL http://discover.llgc.org.uk
+# can't find a good subject search, so substitute keywords instead
+SINDEX keywords
+FILTERS S
 
 ID OCLC-UK4ZN
 NAME Staffordshire University Library
@@ -1488,9 +1512,9 @@ ID OCLC-KCP
 NAME Kansas City Public Library
 LOCATION Kansas City
 STATE MO
-CATTYPE aquabrowser
-BASEURL http://kcaqua.kclibrary.org
-KINDEX ex-All-1.0
+CATTYPE sirsient
+BASEURL http://catalog.kclibrary.org
+LCODE kclibrary
 
 ID OCLC-SVP
 NAME St. Louis Public Library
@@ -1940,6 +1964,7 @@ KINDEX .GH
 TINDEX .TH
 PROFILE webcat
 
+# CHECK THIS AFTER JULY 11 2013: Their catalog may have changed
 ID OCLC-TXN 
 NAME Houston Public Library
 LOCATION Houston

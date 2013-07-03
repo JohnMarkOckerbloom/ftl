@@ -40,8 +40,9 @@ KEYURL ${BASEURL}?search=${ARG:N}
 CATTYPE aquabrowser
 SINDEX subjects
 KINDEX ex-Everything-1.0
+TINDEX title
 SUBURL ${BASEURL}/?q=${SINDEX}:"${ARG}"+
-TITURL ${BASEURL}/?q=${KINDEX}:"${ARG}"+
+TITURL ${BASEURL}/?q=${TINDEX}:"${ARG}"+
 AUTURL ${BASEURL}/?q=author:"${ARG}"+
 ATIURL ${BASEURL}/?q=${KINDEX}:"${TITLE}"+author:"${AUTHOR}"+
 KEYURL ${BASEURL}/?q=${ARG}+
