@@ -1745,6 +1745,13 @@ STATE OR
 BASEURL http://catalog.georgefox.edu
 CATTYPE innopac
 
+ID OCLC-LIQ
+NAME LINCC: Libraries in Clackamas County
+LOCATION Clackamas County
+STATE OR
+BASEURL http://www.lincc.org/uhtbin/cgisirsi
+CATTYPE sirsi
+
 ID OCLC-ORX
 NAME Multnomah County Library
 LOCATION Portland
@@ -1759,12 +1766,28 @@ STATE OR
 BASEURL http://summit.worldcat.org/search
 CATTYPE worldcat
 
+ID OCLC-ORY
+NAME Oregon State Library
+LOCATION Salem
+STATE OR
+BASEURL http://catalog.willamette.edu
+CATTYPE iii-consortium-member
+LCODE 2
+
 ID OCLC-OQX
 NAME Washington County Cooperative Library Services
 LOCATION Washington County
 STATE OR
 BASEURL http://catalog.wccls.org/polaris
 CATTYPE polaris
+
+ID OCLC-OWT
+NAME Willamette University Libraries
+LOCATION Salem
+STATE OR
+BASEURL http://catalog.willamette.edu
+CATTYPE iii-consortium-member
+LCODE 1
 
 ID OCLC-PGA
 NAME ACCESS Pennsylvania
