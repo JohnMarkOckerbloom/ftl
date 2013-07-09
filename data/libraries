@@ -2091,11 +2091,48 @@ STATE UT
 CATTYPE encore
 BASEURL http://encore.weberpl.lib.ut.us/iii/encore
 
+ID OCLC-VAX
+NAME Alexandria Library
+LOCATION Alexandria
+STATE VA
+CATTYPE sirsient
+BASEURL http://www.alexandria.lib.va.us
+LCODE home
+
+ID OCLC-VIA
+NAME Arlington Public Library
+LOCATION Arlington
+STATE VA
+CATTYPE encore
+BASEURL http://libcat.arlingtonva.us/iii/encore
+
+ID OCLC-PCX
+NAME Chesterfield County Public Library
+LOCATION Chesterfield County
+STATE VA
+CATTYPE encore
+BASEURL http://ccpl-discover.chesterfield.gov/iii/encore
+
+ID OCLC-VGM
+NAME George Mason University
+LOCATION Fairfax and other campuses
+STATE VA
+CATTYPE primo
+BASEURL http://gml-primo.hosted.exlibrisgroup.com/primo_library
+VID GMU
+
 ID OCLC-VRP
 NAME Richmond Public Library
 LOCATION Richmond
 STATE VA
 BASEURL http://ibistro.ci.richmond.va.us/uhtbin/cgisirsi
+CATTYPE sirsi
+
+ID OCLC-VPL
+NAME Virginia Beach Public Library
+LOCATION Virginia Beach
+STATE VA
+BASEURL http://vbplcat.vbgov.com/uhtbin/cgisirsi.exe
 CATTYPE sirsi
 
 ID OCLC-F3L
