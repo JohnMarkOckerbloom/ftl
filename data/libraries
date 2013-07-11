@@ -343,6 +343,13 @@ PROVINCE ON
 CATTYPE bibliocommons
 BASEURL http://ottawa.bibliocommons.com
 
+ID OCLC-CNSCP
+NAME St. Catharines Public Library
+LOCATION St. Catharines
+PROVINCE ON
+BASEURL http://hip.stcatharines.library.on.ca
+CATTYPE ipac20
+
 ID OCLC-CNSTR
 NAME Stratford Public Library
 LOCATION Stratford
@@ -1636,6 +1643,15 @@ CATTYPE alephcuny
 BASEURL http://apps.appl.cuny.edu:83
 LCODE U-CUN01
 
+# using the ID for Rochester PL (since Monroe Cty doesn't seem to have one)
+ID OCLC-YQR
+NAME Monroe County Library System
+LOCATION Rochester and vicinity
+STATE NY
+CATTYPE ls2pac
+BASEURL http://catalogplus.libraryweb.org/
+FILTERS S
+
 ID OCLC-ZYU
 NAME New York University Libraries
 LOCATION New York
@@ -1649,6 +1665,13 @@ LOCATION New York
 STATE NY
 CATTYPE bibliocommons
 BASEURL http://nypl.bibliocommons.com
+
+ID OCLC-RVE
+NAME Rochester Institute of Technology
+LOCATION Rochester
+STATE NY
+CATTYPE summon
+BASEURL http://rit.summon.serialssolutions.com
 
 ID OCLC-YSM
 NAME Stony Brook University Libraries
