@@ -225,6 +225,12 @@ AUTURL ${BASEURL}TLCScripts/interpac.dll?Search&Config=${LCODE}&FormId=0&Branch=
 TITURL ${BASEURL}TLCScripts/interpac.dll?Search&Config=${LCODE}&FormId=0&Branch=${BRANCH}&StartIndex=0&SearchField=1&SearchType=1&SearchData=${ARG:NK}
 KEYURL ${BASEURL}TLCScripts/interpac.dll?Search&Config=${LCODE}&FormId=0&Branch=${BRANCH}&StartIndex=0&SearchField=16777216&SearchType=1&SearchData=${ARG:NK}
 
+# while there is a subject search, most toread catalogs are better keyword-searched
+CATTYPE toread
+AUTURL ${BASEURL}/opac/search;jsessionid=?max=&view=CONTENT&level=all&material_type=all&location=&lang=eng&q=all_authors%3A${ARG}
+TITURL ${BASEURL}/opac/search;jsessionid=?max=&view=CONTENT&level=all&material_type=all&location=&lang=eng&q=all_titles%3A${ARG}
+KEYURL ${BASEURL}/opac/search;jsessionid=?max=&view=CONTENT&level=all&material_type=all&location=&lang=eng&q=${ARG}
+
 CATTYPE voyager
 TITURL ${BASEURL}?Search_Arg=${ARG:A}&SL=None&Search_Code=TALL&CNT=25
 AUTURL ${BASEURL}?Search_Arg=${ARG}&SL=None&Search_Code=NAME&CNT=25

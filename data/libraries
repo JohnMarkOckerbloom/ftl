@@ -589,6 +589,21 @@ CATTYPE webpacpro
 BASEURL http://196.21.109.8:2082/
 FILTERS AN
 
+# using WorldCat code for National Taichung Library for the moment
+ID OCLC-CHNTL
+NAME Central Taiwan Public Library Consortium
+LOCATION Taichung and vicinity
+COUNTRY TW
+CATTYPE toread
+BASEURL http://ipac.ptl.edu.tw/toread
+
+ID OCLC-TAE
+NAME Taipei Public Library
+LOCATION Taipei
+COUNTRY TW
+CATTYPE sirsi
+BASEURL http://webcat.tpml.edu.tw/uhtbin/cgisirsi
+
 ID OCLC-AU-SHARP
 NAME Anglia Ruskin University
 LOCATION Cambridge, Chelmsford, and Peterborough, England
@@ -1998,6 +2013,13 @@ LOCATION Denton
 STATE TX
 CATTYPE encore
 BASEURL http://encore.cityofdenton.com/iii/encore
+
+ID OCLC-FTX
+NAME Fort Bend County Libraries
+LOCATION Richmond and vicinity
+STATE TX
+BASEURL http://catalog.fortbend.lib.tx.us/polaris
+CATTYPE polaris
 
 ID OCLC-HT-SHARP
 NAME Harris County Public Library
