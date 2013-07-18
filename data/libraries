@@ -1216,6 +1216,20 @@ STATE IL
 BASEURL http://lrc.cod.edu
 CATTYPE innopac
 
+ID OCLC-IHE
+NAME Evanston Public Library
+LOCATION Evanston
+STATE IL
+CATTYPE bibliocommons
+BASEURL http://evanston.bibliocommons.com
+
+ID OCLC-LQC
+NAME Illinois Heartland Library System (SHARE)
+LOCATION Libraries in southern Illinois
+STATE IL
+BASEURL http://search.illinoisheartland.org
+CATTYPE polaris
+
 ID OCLC-IHX
 NAME Resource Sharing Alliance (RSA)
 LOCATION Libraries in west central Illinois
@@ -1296,6 +1310,14 @@ BASEURL http://ecatalog1.siouxcitylibrary.org
 CATTYPE ipac20
 PROFILE mn
 
+ID OCLC-IMF
+NAME Allen County Public Library
+LOCATION Fort Wayne and vicinity
+STATE IN
+CATTYPE aquabrowser
+SINDEX subject
+BASEURL http://smartcat.acpl.lib.in.us
+
 ID OCLC-IND
 NAME Hesburgh Libraries, University of Notre Dame
 LOCATION Notre Dame
@@ -1313,6 +1335,21 @@ CATTYPE sirsi
 # this beta doesn't seem to work quite right yet
 # BASEURL http://new.iucat.iu.edu/catalog
 # CATTYPE blacklight
+
+ID OCLC-IMD
+NAME Indianapolis Public Library
+LOCATION Indianapolis
+STATE IN
+CATTYPE aquabrowser
+SINDEX subject
+BASEURL http://sherloc.imcpl.org
+
+ID OCLC-XWE
+NAME Tippecanoe County Public Library
+LOCATION Lafayette and vicinity
+STATE IN
+BASEURL http://sirsi.tcpl.lib.in.us/uhtbin/cgisirsi
+CATTYPE sirsiid
 
 ID OCLC-KNJ
 NAME Johnson County Library
@@ -2032,13 +2069,13 @@ KINDEX .GH
 TINDEX .TH
 PROFILE webcat
 
-# CHECK THIS AFTER JULY 11 2013: Their catalog may have changed
 ID OCLC-TXN 
 NAME Houston Public Library
 LOCATION Houston
 STATE TX
-BASEURL http://catalog.houstonlibrary.org
-CATTYPE webpacpro
+BASEURL http://halan.sdp.sirsi.net
+CATTYPE sirsient
+LCODE hou
 
 ID OCLC-LPZ
 NAME Lunar and Planetary Institute Library

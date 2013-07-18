@@ -44,7 +44,7 @@ TINDEX title
 SUBURL ${BASEURL}/?q=${SINDEX}:"${ARG}"+
 TITURL ${BASEURL}/?q=${TINDEX}:"${ARG}"+
 AUTURL ${BASEURL}/?q=author:"${ARG}"+
-ATIURL ${BASEURL}/?q=${KINDEX}:"${TITLE}"+author:"${AUTHOR}"+
+ATIURL ${BASEURL}/?q=${TINDEX}:"${TITLE}"+author:"${AUTHOR}"+
 KEYURL ${BASEURL}/?q=${ARG}+
 
 CATTYPE bibliocommons
@@ -195,6 +195,15 @@ SUBURL ${BASEURL}/x/0/0/5?searchdata1=${ARG:NK}{SU}
 AUTURL ${BASEURL}/x/0/0/5?searchdata1=${ARG:NK}{AU}
 TITURL ${BASEURL}/x/0/0/5?searchdata1=${ARG:NK}{TI}
 KEYURL ${BASEURL}/x/0/0/5?searchdata1=${ARG:NK}
+DEFAULT DOMAIN
+
+# apparently some sirsi systems need an ID argument
+CATTYPE sirsiid
+USER WEBSERVER
+SUBURL ${BASEURL}/x/0/0/5?user_id=${USER}&searchdata1=${ARG:NK}{SU}
+AUTURL ${BASEURL}/x/0/0/5?user_id=${USER}&searchdata1=${ARG:NK}{AU}
+TITURL ${BASEURL}/x/0/0/5?user_id=${USER}&searchdata1=${ARG:NK}{TI}
+KEYURL ${BASEURL}/x/0/0/5?user_id=${USER}&searchdata1=${ARG:NK}
 DEFAULT DOMAIN
 
 CATTYPE sirsient
