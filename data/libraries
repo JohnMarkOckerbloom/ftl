@@ -861,11 +861,21 @@ FILTERS S
 
 ID OCLC-JQ0
 NAME County of Los Angeles Public Library
-LOCATION Los Angeles County outside the city of Los Angeles
+LOCATION Most of Los Angeles County outside the city of Los Angeles
 STATE CA
 CATTYPE sirsi
 BASEURL http://catalog.colapl.org/uhtbin/cgisirsi
 
+ID OCLC-JQR
+NAME Fresno County Public Library
+LOCATION Fresno and vicinity
+STATE CA
+BASEURL http://hip1.sjvls.org
+CATTYPE ipac20
+PROFILE fhq
+AINDEX .AW
+
+TINDEX ALLTITL
 ID LINKPLUS
 NAME LINK+ Union Catalog
 LOCATION Cooperating libraries in California and Nevada
@@ -880,6 +890,13 @@ STATE CA
 BASEURL http://ls2pac.lapl.org/
 CATTYPE ls2pac
 FILTERS S
+
+ID OCLC-MARIN
+NAME MARINet
+LOCATION Public libraries in Marin County
+STATE CA
+BASEURL http://discovery.marinet.lib.ca.us/iii/encore
+CATTYPE encore
 
 ID OCLC-MVP
 NAME Mountain View Public Library
@@ -917,6 +934,7 @@ STATE CA
 BASEURL http://montn.ci.monterey.ca.us
 CATTYPE webpacpro
 
+# SOON: add Pasadena's new public library catalog (goes live July 25)
 ID OCLC-CZP
 NAME Peninsula Library System
 LOCATION San Mateo County
@@ -984,12 +1002,26 @@ PROFILE m
 AINDEX PAUTHOR
 TINDEX ALLTITL
 
+ID OCLC-JRZ
+NAME Santa Clara City Library
+LOCATION Santa Clara
+STATE CA
+BASEURL http://libsearch.santaclaraca.gov/iii/encore
+CATTYPE encore
+
 ID OCLC-JRY
 NAME Santa Clara County Library District
 LOCATION Parts of Santa Clara County
 STATE CA
 CATTYPE bibliocommons
 BASEURL http://sccl.bibliocommons.com
+
+ID OCLC-SMP
+NAME Santa Monica Public Library
+LOCATION Santa Monica
+STATE CA
+CATTYPE bibliocommons
+BASEURL http://smpl.bibliocommons.com
 
 ID OCLC-STF
 NAME Stanford University Libraries
@@ -1014,6 +1046,13 @@ CATTYPE ipac20
 PROFILE thq
 AINDEX .AW
 TINDEX ALLTITL
+
+ID OCLC-CUV
+NAME University of California Davis
+LOCATION Davis
+STATE CA
+BASEURL http://harvest.lib.ucdavis.edu
+CATTYPE aleph1
 
 ID OCLC-CUI
 NAME University of California Irvine
