@@ -1719,6 +1719,13 @@ STATE NY
 CATTYPE vufind
 BASEURL http://www.buffalolib.org/vufind
 
+ID OCLC-CONNY
+NAME ConnectNY
+LOCATION 18 academic libraries in New York state
+STATE NY
+BASEURL http://encore.connectny.info/iii/encore
+CATTYPE encore
+
 ID OCLC-COO
 NAME Cornell University Library
 LOCATION Ithaca
@@ -1733,6 +1740,20 @@ STATE NY
 CATTYPE alephcuny
 BASEURL http://apps.appl.cuny.edu:83
 LCODE U-CUN01
+
+ID OCLC-VYG
+NAME Finger Lakes Library System
+LOCATION Public libraries in Cayuga, Cortland, Seneca, Tioga, and Tompkins counties
+STATE NY
+BASEURL http://catalog.flls.org/polaris
+CATTYPE polaris
+
+ID OCLC-MZA
+NAME Metropolitan Museum of Art Libraries
+LOCATION New York
+STATE NY
+BASEURL http://library.metmuseum.org
+CATTYPE innopac
 
 # using the ID for Rochester PL (since Monroe Cty doesn't seem to have one)
 ID OCLC-YQR
