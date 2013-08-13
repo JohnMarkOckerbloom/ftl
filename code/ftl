@@ -792,6 +792,9 @@ sub wikipedia_referer_title {
   my $url = $q->referer();
   if ($url =~ m!wikipedia.org/(.*)!) {
     my $keystr = $1;
+    if ($keystr =~ m!.*/(.*)!) {
+      $keystr = $1;
+    }
     $keystr =~ s/#.*//;
     $keystr =~ s/\s//g;
     $keystr =~ s/_/ /g;
