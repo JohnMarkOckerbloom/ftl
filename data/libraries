@@ -621,6 +621,13 @@ CATTYPE primo
 BASEURL http://librarysearch.cf.ac.uk/primo_library
 VID CARDIFF_V1
 
+ID OCLC-UKYRK
+NAME City of York Libraries and Archives
+LOCATION York, England
+COUNTRY UK
+CATTYPE sirsient
+BASEURL http://cyc.sdp.sirsidynix.net.uk/
+
 ID OCLC-C62
 NAME COPAC
 COUNTRY UK
@@ -795,7 +802,7 @@ BASEURL http://www.flagstaffpubliclibrary.org/uhtbin/cgisirsi/
 CATTYPE sirsi
 
 # catalog seems to be a one-off?
-ID OCLC-1pn
+ID OCLC-1PN
 NAME Phoenix Public Library
 LOCATION Phoenix
 STATE AZ
@@ -1151,12 +1158,33 @@ STATE FL
 BASEURL http://catalog.irclibrary.org/polaris
 CATTYPE polaris
 
+ID OCLC-JPL
+NAME Jacksonville Public Library
+LOCATION Jacksonville
+STATE FL
+CATTYPE sirsient
+BASEURL http://jkpl.ent.sirsi.net/
+
 ID OCLC-DZM
 NAME Miami-Dade Public Library System
 LOCATION Miami
 STATE FL
 BASEURL http://catalog.mdpls.org
 CATTYPE polaris
+
+ID OCLC-ORL
+NAME Orange County Library System
+LOCATION Orlando and vicinity
+STATE FL
+BASEURL http://iii.ocls.info
+CATTYPE webpacpro
+
+ID OCLC-FNM
+NAME University of Miami Libraries
+LOCATION Coral Gables
+STATE FL
+CATTYPE summon
+BASEURL http://miami.summon.serialssolutions.com
 
 # customized catalog? (they also have EDS, which I can't get to work)
 ID OCLC-1FH
@@ -2171,6 +2199,15 @@ STATE TX
 BASEURL http://sapl.sat.lib.tx.us/
 CATTYPE iii-consortium-member
 LCODE 1
+
+ID OCLC-IWU
+NAME Texas Woman's University
+LOCATION Denton, Dallas, and Houston campuses
+STATE TX
+CATTYPE primo
+BASEURL http://primotc1.hosted.exlibrisgroup.com/primo_library
+VID TWU-A
+DEFAULT http://www.twu.edu/library/
 
 ID OCLC-UHC
 NAME UHCL Neumann Library
