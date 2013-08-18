@@ -240,6 +240,12 @@ AUTURL ${BASEURL}/opac/search;jsessionid=?max=&view=CONTENT&level=all&material_t
 TITURL ${BASEURL}/opac/search;jsessionid=?max=&view=CONTENT&level=all&material_type=all&location=&lang=eng&q=all_titles%3A${ARG}
 KEYURL ${BASEURL}/opac/search;jsessionid=?max=&view=CONTENT&level=all&material_type=all&location=&lang=eng&q=${ARG}
 
+# viewpoint by Axiell
+CATTYPE viewpoint
+AUTURL ${BASEURL}02_Catalogue/02_003_BrowseResults.aspx?page=1&searchType=0&searchTerm=${ARG:S}
+TITURL ${BASEURL}02_Catalogue/02_003_BrowseResults.aspx?page=1&searchType=1&searchTerm=${ARG}
+KEYURL ${BASEURL}02_Catalogue/02_004_TitleResults.aspx?page=1&searchType=99&searchTerm=${ARG}
+
 CATTYPE voyager
 TITURL ${BASEURL}?Search_Arg=${ARG:A}&SL=None&Search_Code=TALL&CNT=25
 AUTURL ${BASEURL}?Search_Arg=${ARG}&SL=None&Search_Code=NAME&CNT=25

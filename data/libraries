@@ -79,6 +79,20 @@ BASEURL http://catalogue.nla.gov.au
 CATTYPE vufindrc1
 FILTERS NK
 
+ID AU-XNLS
+NAME Northern Territory Library
+LOCATION Darwin, Northern Territory
+COUNTRY AU
+BASEURL http://libraries.nt.gov.au/cgi-bin/chameleon
+CATTYPE chameleon
+
+ID AU-QUT
+NAME Queensland University of Technology
+LOCATION Brisbane and other campuses, Queensland
+COUNTRY AU
+CATTYPE summon
+BASEURL http://qut.summon.serialssolutions.com
+
 ID AU-NSL
 NAME State Library of New South Wales
 LOCATION Sydney, New South Wales
@@ -660,6 +674,27 @@ COUNTRY UK
 CATTYPE summon
 BASEURL http://cam.summon.serialssolutions.com
 
+ID OCLC-EDJ
+NAME Edinburgh City Libraries
+LOCATION Edinburgh, Scotland
+COUNTRY UK
+CATTYPE prismhosted
+BASEURL http://prism.talis.com/edinburgh
+
+ID OCLC-UKFIF
+NAME Fife Library Catalogue
+LOCATION Public libraries in Fife, Scotland
+COUNTRY UK
+CATTYPE prismhosted
+BASEURL http://prism.talis.com/fife
+
+ID OCLC-UKGCL
+NAME Glasgow Libraries
+LOCATION Glasgow, Scotland
+COUNTRY UK
+BASEURL http://libcat.csglasgow.org/
+CATTYPE viewpoint
+
 ID UK-UKB
 NAME Library of Birmingham
 LOCATION Birmingham
@@ -679,9 +714,7 @@ NAME Manchester city libraries
 LOCATION Manchester, England
 COUNTRY UK
 BASEURL https://librarycatalogue.manchester.gov.uk/
-AUTURL ${BASEURL}02_Catalogue/02_003_BrowseResults.aspx?page=1&searchType=0&searchTerm=${ARG:S}
-TITURL ${BASEURL}02_Catalogue/02_003_BrowseResults.aspx?page=1&searchType=1&searchTerm=${ARG}
-KEYURL ${BASEURL}02_Catalogue/02_004_TitleResults.aspx?page=1&searchType=99&searchTerm=${ARG}
+CATTYPE viewpoint
 
 ID OCLC-NLW
 NAME National Library of Wales
