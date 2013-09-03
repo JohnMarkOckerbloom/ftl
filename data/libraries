@@ -627,6 +627,21 @@ BASEURL http://primo.anglia.ac.uk/primo_library
 VID ANG_VU1
 DEFAULT http://libweb.anglia.ac.uk/
 
+# getting "our apologies" messages; overloaded or link problems?
+# ID OCLC-UKBLS
+# NAME Blackburn with Darwen Libraries
+# LOCATION Blackburn, Darwen, and vicinity, England
+# COUNTRY UK
+# BASEURL http://viewpoint.blackburn.gov.uk/
+# CATTYPE viewpoint
+
+ID OCLC-UKBCC
+NAME Buckinghamshire County Libraries
+LOCATION Buckinghamshire, England
+COUNTRY UK
+CATTYPE spydus
+BASEURL http://buckinghamshire.spydus.co.uk
+
 ID OCLC-RDF
 NAME Cardiff University and NHS Wales Libraries
 LOCATION Cardiff and elsewhere in Wales
@@ -652,6 +667,14 @@ AUTURL ${BASEURL}?author=${ARG}
 TITURL ${BASEURL}?title=${ARG}
 ATIURL ${BASEURL}?author=${AUTHOR}&title=${TITLE}
 KEYURL ${BASEURL}?keyword=${ARG}
+
+ID OCLC-UKCOV
+NAME Coventry University
+LOCATION Coventry, England
+COUNTRY UK
+CATTYPE primo
+BASEURL http://locate.coventry.ac.uk/primo_library
+VID COV_V1
 
 ID OCLC-EQK
 NAME Cranfield University
@@ -708,6 +731,13 @@ LOCATION London, England
 COUNTRY UK
 BASEURL http://catalogue.londonmet.ac.uk
 CATTYPE innopac
+
+ID OCLC-UKLTN
+NAME Luton Culture
+LOCATION Bedford Borough, Central Bedfordshire and Luton Libraries, England
+COUNTRY UK
+BASEURL https://vpoint.culturalservices.net/Bedford/
+CATTYPE viewpoint
 
 ID OCLC-UKMAN
 NAME Manchester city libraries
