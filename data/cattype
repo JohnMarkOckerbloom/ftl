@@ -55,8 +55,10 @@ TITURL ${BASEURL}/search?t=title&q=${ARG}
 KEYURL ${BASEURL}/search?t=smart&search_category=keyword&q=${ARG}
 
 CATTYPE blacklight
-SUBURL ${BASEURL}/?q=${ARG}&search_field=subject_terms
-AUTURL ${BASEURL}/?q=${ARG}&search_field=author
+AINDEX author
+SINDEX subject_terms
+SUBURL ${BASEURL}/?q=${ARG}&search_field=${SINDEX}
+AUTURL ${BASEURL}/?q=${ARG}&search_field=${AINDEX}
 TITURL ${BASEURL}/?q=${ARG:A}&search_field=title
 KEYURL ${BASEURL}/?q=${ARG}
 
@@ -112,6 +114,13 @@ AUTURL ${BASEURL}/results?locg=${LCODE}&qtype=author&query=${ARG}
 TITURL ${BASEURL}/results?locg=${LCODE}&qtype=title&query=${ARG}
 KEYURL ${BASEURL}/results?locg=${LCODE}&qtype=keyword&query=${ARG}
 DEFAULT DOMAIN
+
+# Florida Center for Library Automation catalog, used by some Florida libs
+CATTYPE fcla
+SUBURL ${BASEURL}?ix=su&st=${ARG}
+AUTURL ${BASEURL}?ix=au&st=${ARG}
+TITURL ${BASEURL}?ix=ti&st=${ARG}
+KEYURL ${BASEURL}?ix=kw&st=${ARG}
 
 # haven't gotten this to work yet
 CATTYPE iguana

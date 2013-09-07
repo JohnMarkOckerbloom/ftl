@@ -857,6 +857,13 @@ STATE AK
 BASEURL http://www.ccl.lib.ak.us/uhtbin/cgisirsi.exe
 CATTYPE sirsi
 
+ID OCLC-AZS
+NAME Arizona State University Libraries
+LOCATION Tempe and other campuses
+STATE AZ
+CATTYPE summon
+BASEURL http://asu.summon.serialssolutions.com
+
 ID OCLC-AZH
 NAME Flagstaff City-Coconino County Public Library
 LOCATION Flagstaff
@@ -874,8 +881,6 @@ SUBURL ${BASEURL}/controller.jsp?N=0&Ntk=Subject&Ntt=${ARG}&Nty=1&D=${ARG}&Ntx=m
 TITURL ${BASEURL}/controller.jsp?N=0&Ntk=Title&Ntt=${ARG}&Nty=1&D=${ARG}&Ntx=mode+matchall&Dx=mode+matchall
 AUTURL ${BASEURL}/controller.jsp?N=0&Ntk=Author&Ntt=${ARG}&Nty=1&D=${ARG}&Ntx=mode+matchall&Dx=mode+matchall
 KEYURL ${BASEURL}/controller.jsp?N=0&Ntk=Search+All&Ntt=${ARG}&Nty=1&D=${ARG}&Ntx=mode+matchall&Dx=mode+matchall
-
-
 
 ID OCLC-AZT
 NAME Pima County Public Library
@@ -913,6 +918,13 @@ STATE CA
 BASEURL http://find.lib.calpoly.edu/articles
 CATTYPE xerxes
 
+ID OCLC-CIT
+NAME Caltech Library, California Institute of Technology
+LOCATION Pasadena
+STATE CA
+BASEURL http://clas.caltech.edu
+CATTYPE innopac
+
 ID OCLC-CVL
 NAME Chula Vista Public Library
 LOCATION Chula Vista
@@ -944,8 +956,8 @@ BASEURL http://hip1.sjvls.org
 CATTYPE ipac20
 PROFILE fhq
 AINDEX .AW
-
 TINDEX ALLTITL
+
 ID LINKPLUS
 NAME LINK+ Union Catalog
 LOCATION Cooperating libraries in California and Nevada
@@ -1099,6 +1111,7 @@ LOCATION Stanford
 STATE CA
 BASEURL http://searchworks.stanford.edu
 CATTYPE blacklight
+AINDEX search_author
 
 ID OCLC-SXP
 NAME Sunnyvale Public Library
@@ -1190,6 +1203,20 @@ BASEURL https://catalog.dclibrary.org/vufind
 FILTERS N
 CATTYPE vufind
 
+ID OCLC-DGW
+NAME George Washington University
+LOCATION Washington
+STATE DC
+CATTYPE summon
+BASEURL http://gw.summon.serialssolutions.com
+
+ID OCLC-DGU
+NAME Georgetown University
+LOCATION Washington
+STATE DC
+CATTYPE summon
+BASEURL http://gt.summon.serialssolutions.com
+
 ID OCLC-1DL
 NAME Library of Congress
 LOCATION Washington
@@ -1203,6 +1230,13 @@ LOCATION Palm Coast and Bunnell
 STATE FL
 BASEURL http://polaris.flaglercounty.org/polaris
 CATTYPE polaris
+
+ID OCLC-FDA
+NAME Florida State University
+LOCATION Tallahassee and other campuses
+STATE FL
+BASEURL http://fsu.catalog.fcla.edu/fs.jsp
+CATTYPE fcla
 
 ID OCLC-TNH
 NAME Hillsborough County Public Library Cooperative
@@ -1255,10 +1289,7 @@ NAME University of South Florida
 LOCATION Tampa
 STATE FL
 BASEURL http://usf.catalog.fcla.edu/sf.jsp
-SUBURL ${BASEURL}?ix=su&st=${ARG}
-AUTURL ${BASEURL}?ix=au&st=${ARG}
-TITURL ${BASEURL}?ix=ti&st=${ARG}
-KEYURL ${BASEURL}?ix=kw&st=${ARG}
+CATTYPE fcla
 
 ID OCLC-GRA
 NAME Athens-Clarke County Library
@@ -1283,6 +1314,13 @@ CATTYPE primo
 BASEURL http://discovere.emory.edu/primo_library
 VID discovere
 DEFAULT DOMAIN
+
+ID OCLC-GAT
+NAME Georgia Tech Library
+LOCATION Atlanta
+STATE GA
+BASEURL https://portal.library.gatech.edu/vufind
+CATTYPE vufind
 
 ID OCLC-GSC
 NAME Live Oak Public Libraries
@@ -1460,11 +1498,9 @@ ID OCLC-1IU
 NAME Indiana University Libraries
 LOCATION Bloomington, and other campuses
 STATE IN
-BASEURL http://www.iucat.iu.edu/uhtbin/cgisirsi
-CATTYPE sirsi
-# this beta doesn't seem to work quite right yet
-# BASEURL http://new.iucat.iu.edu/catalog
-# CATTYPE blacklight
+BASEURL http://iucat.iu.edu/catalog
+CATTYPE blacklight
+SINDEX subject
 
 ID OCLC-IMD
 NAME Indianapolis Public Library
@@ -1563,6 +1599,14 @@ STATE MD
 BASEURL http://pac.epfl.net/uhtbin/cgisirsi
 CATTYPE sirsi
 
+ID OCLC-JHE
+NAME Johns Hopkins Libraries
+LOCATION Baltimore
+STATE MD
+BASEURL https://catalyst.library.jhu.edu
+CATTYPE blacklight
+SINDEX subject
+
 ID OCLC-BRL
 NAME Boston Public Library
 LOCATION Boston
@@ -1607,6 +1651,28 @@ LOCATION MetroWest-region public and small college libraries
 STATE MA
 BASEURL http://find.minlib.net/iii/encore
 CATTYPE encore
+
+ID OCLC-MYG
+NAME MIT Libraries, Massachusetts Institute of Technology
+LOCATION Cambridge
+STATE MA
+CATTYPE aleph1
+BASEURL http://library.mit.edu
+
+ID OCLC-NOG
+NAME NOBLE: North of Boston Library Exchange
+LOCATION Public and small academic libraries in northeastern MA
+STATE MA
+BASEURL https://evergreen.noblenet.org/eg/opac
+CATTYPE evergreen-dynamic
+LCODE 1
+
+ID OCLC-NED
+NAME Northeastern University
+LOCATION Boston
+STATE MA
+BASEURL http://onesearch.northeastern.edu/primo_library
+CATTYPE primo
 
 ID OCLC-NKT
 NAME Springfield College
@@ -1747,6 +1813,13 @@ STATE NV
 BASEURL http://library.washoecounty.us/
 CATTYPE koha
 
+ID OCLC-DRB
+NAME Dartmouth College
+LOCATION Hanover
+STATE NH
+BASEURL http://library.dartmouth.edu
+KEYURL ${BASEURL}/search/index.php?q=${ARG}
+
 ID OCLC-QYC
 NAME Manchester City Library
 LOCATION Manchester
@@ -1809,6 +1882,14 @@ LOCATION Buffalo
 STATE NY
 CATTYPE vufind
 BASEURL http://www.buffalolib.org/vufind
+
+ID OCLC-ZCU
+NAME Columbia University Libraries
+LOCATION New York
+STATE NY
+BASEURL http://clio.columbia.edu/quicksearch
+CATTYPE blacklight
+AINDEX author_terms
 
 ID OCLC-CONNY
 NAME ConnectNY
@@ -2050,6 +2131,13 @@ LOCATION Philadelphia, Newtown, and Bensalem
 STATE PA
 BASEURL http://holy.sirsi.net/uhtbin/cgisirsi
 CATTYPE sirsi
+
+ID OCLC-LAF
+NAME Lafayette College
+LOCATION Easton
+STATE PA
+BASEURL http://libcat.lafayette.edu
+CATTYPE innopac
 
 ID OCLC-AOX
 NAME Library Company of Philadelphia
