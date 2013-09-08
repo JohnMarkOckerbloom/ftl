@@ -842,7 +842,7 @@ STATE AL
 BASEURL http://encore.bham.lib.al.us/iii/encore
 CATTYPE encore
 
-# Can't fina a WorldCat registry ID for this; use my own
+# Can't find a WorldCat registry ID for this; use my own
 ID OLB-MONTGOMERY
 NAME Montgomery City-County Public Library
 LOCATION Montgomery
@@ -889,6 +889,13 @@ STATE AZ
 BASEURL http://librarycatalog.pima.gov
 CATTYPE webpacpro
 FILTERS N
+
+ID OCLC-AZU
+NAME University of Arizona Libraries
+LOCATION Tucson
+STATE AZ
+BASEURL http://universityofarizona.worldcat.org.ezproxy1.library.arizona.edu/search
+CATTYPE worldcat
 
 ID OCLC-8AK
 NAME Central Arkansas Library System
@@ -1104,6 +1111,15 @@ LOCATION Santa Monica
 STATE CA
 CATTYPE bibliocommons
 BASEURL http://smpl.bibliocommons.com
+
+ID OCLC-JDTBL
+NAME SNAP: Solano, Napa and Partners Library Consortium
+LOCATION Solano and Napa counties
+STATE CA
+CATTYPE carlweb
+BASEURL http://carlweb.snap.lib.ca.us/carlweb
+DBID 240
+FILTERS N
 
 ID OCLC-STF
 NAME Stanford University Libraries
@@ -1510,6 +1526,15 @@ CATTYPE aquabrowser
 SINDEX subject
 BASEURL http://sherloc.imcpl.org
 
+ID OCLC-IPL
+NAME Purdue University Libraries
+LOCATION West Lafayette
+STATE IN
+CATTYPE primo
+BASEURL http://purdue-primo-prod.hosted.exlibrisgroup.com/primo_library
+VID PURDUE
+DEFAULT http://www.lib.purdue.edu/
+
 ID OCLC-XWE
 NAME Tippecanoe County Public Library
 LOCATION Lafayette and vicinity
@@ -1792,6 +1817,13 @@ STATE MT
 BASEURL http://catalogue.buttepubliclibrary.info
 CATTYPE koha
 
+ID OCLC-MZF
+NAME Montana State University Library
+LOCATION Bozeman
+STATE MT
+CATTYPE summon
+BASEURL http://montana.summon.serialssolutions.com
+
 ID OCLC-NBO
 NAME Omaha Public Library
 LOCATION Omaha
@@ -1854,6 +1886,19 @@ LOCATION Princeton
 STATE NJ
 BASEURL http://princetonlibrary.bibliocommons.com
 CATTYPE bibliocommons
+
+ID OCLC-PTS
+NAME Princeton Theological Seminary
+LOCATION Princeton
+STATE NJ
+CATTYPE voyager-vwebv
+BASEURL http://catalog.ptsem.edu:7008/vwebv/search
+
+ID OCLC-PUL
+NAME Princeton University Library
+LOCATION Princeton
+STATE NJ
+KEYURL http://library.princeton.edu/find/all/${ARG}
 
 ID OCLC-QUE
 NAME ABC Library
@@ -1972,6 +2017,12 @@ CATTYPE summon
 BASEURL http://touro.summon.serialssolutions.com
 IPRANGE 24.187.203.218/31|24.187.203.220/31|64.20.191.56/29|75.99.35.169/32|75.99.35.170/31|75.99.35.172/31|98.142.112.0/22|98.142.116.0/23|98.142.118.0/24|98.142.119.0/28|98.142.119.64/26|98.142.119.128/25|98.142.120.0/22|98.142.124.0/23|108.27.40.161/32|108.27.40.162/31|108.27.40.164/30|173.220.9.185/32|173.220.9.186/31|173.220.9.188/31|173.220.14.241/32|173.220.14.242/31|173.220.14.244/31|173.220.29.81/32|173.220.29.82/31|173.220.29.84/31|173.220.29.105/32|173.220.29.106/31|173.220.29.108/31|173.220.29.185/32|173.220.29.186/31|173.220.29.188/31|173.220.29.193/32|173.220.29.194/31|173.220.29.196/31|173.220.45.41/32|173.220.45.42/31|173.220.45.44/31|173.220.62.17/32|173.220.62.18/31|173.220.62.20/31|173.220.88.25/32|173.220.88.26/31|173.220.88.28/31|173.220.89.240/29|173.220.90.248/29|184.74.187.192/29|184.74.199.129/32|184.74.199.130/31|184.74.199.132/30|184.75.22.192/30|184.75.22.196/31|184.75.33.89/32|184.75.33.90/31|184.75.33.92/30|207.127.40.0/24|207.127.41.0/24|207.127.42.0/24|207.127.43.0/24
 
+ID OCLC-NRC
+NAME North Carolina State University (NCSU)
+LOCATION Raleigh
+STATE NC
+KEYURL http://www.lib.ncsu.edu/search?q=${ARG}
+
 ID OCLC-KQA
 NAME Rutherford County Library
 LOCATION Rutherford County
@@ -2016,6 +2067,13 @@ LOCATION Dayton and vicinity
 STATE OH
 BASEURL http://pac.daytonmetrolibrary.org/polaris
 CATTYPE polaris
+
+ID OCLC-OSU
+NAME Ohio State University
+LOCATION Columbus
+STATE OH
+BASEURL http://osu.worldcat.org/search
+CATTYPE worldcat
 
 ID OCLC-OCP
 NAME Public Library of Cincinnati and Hamilton County
@@ -2080,6 +2138,13 @@ STATE OR
 BASEURL http://catalog.willamette.edu
 CATTYPE iii-consortium-member
 LCODE 2
+
+ID OCLC-ORE
+NAME Oregon State University (OSU)
+LOCATION Corvallis and other campuses
+STATE OR
+CATTYPE summon
+BASEURL http://oregonstate.summon.serialssolutions.com
 
 ID OCLC-OQX
 NAME Washington County Cooperative Library Services
@@ -2184,6 +2249,13 @@ BASEURL http://catalog.friends-select.org:2051/
 CATTYPE webpacpro
 DEFAULT http://catalog.friends-select.org:2051/search~S69
 
+ID OCLC-TEU
+NAME Temple University Libraries
+LOCATION Philadelphia
+STATE PA
+CATTYPE summon
+BASEURL http://temple.summon.serialssolutions.com
+
 ID OCLC-TCCDM
 NAME Tri-College Consortium
 LOCATION Bryn Mawr, Haverford, and Swarthmore colleges
@@ -2262,6 +2334,13 @@ STATE TN
 CATTYPE encore
 BASEURL http://nplencore.library.nashville.org/iii/encore
 
+ID OCLC-TWS
+NAME Rhodes College
+LOCATION Memphis
+STATE TN
+CATTYPE sirsi
+BASEURL http://rclm.sirsi.net/uhtbin/cgisirsi
+
 ID OCLC-1AR
 NAME Arlington Public Library
 LOCATION Arlington
@@ -2334,6 +2413,13 @@ AINDEX .AN
 TINDEX ALTITLN
 KINDEX .GN
 
+ID OCLC-RCE
+NAME Rice University
+LOCATION Houston
+STATE TX
+BASEURL http://alexandria.rice.edu/uhtbin/cgisirsi
+CATTYPE sirsi
+
 ID OCLC-QT4
 NAME Round Rock Public Library
 LOCATION Round Rock
@@ -2350,6 +2436,15 @@ STATE TX
 BASEURL http://sapl.sat.lib.tx.us/
 CATTYPE iii-consortium-member
 LCODE 1
+
+ID OCLC-TXA
+NAME Texas A&amp;M University Libraries
+LOCATION College Station
+STATE TX
+CATTYPE primo
+BASEURL http://search.library.tamu.edu:1701/primo_library
+VID tamu
+DEFAULT http://library.tamu.edu/
 
 ID OCLC-IWU
 NAME Texas Woman's University

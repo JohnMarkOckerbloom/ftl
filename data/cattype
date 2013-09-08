@@ -63,8 +63,9 @@ TITURL ${BASEURL}/?q=${ARG:A}&search_field=title
 KEYURL ${BASEURL}/?q=${ARG}
 
 CATTYPE carlweb
-SUBURL ${BASEURL}/jsp/DoSearch?databaseID=${DBID}&index=SB/&terms=
-AUTURL ${BASEURL}/jsp/DoSearch?databaseID=${DBID}&index=N/&terms=
+SUBURL ${BASEURL}/jsp/DoSearch?databaseID=${DBID}&index=sb/&terms=${ARG}
+AUTURL ${BASEURL}/jsp/DoSearch?databaseID=${DBID}&index=n&terms=${ARG}
+KEYURL ${BASEURL}/jsp/DoSearch?databaseID=${DBID}&selection=Search&index=w&terms=${ARG}
 
 # A VTLS catalog; keyword search string found via Springshare
 CATTYPE chameleon
