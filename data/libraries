@@ -335,6 +335,13 @@ PROVINCE ON
 CATTYPE bibliocommons
 BASEURL http://markham.bibliocommons.com
 
+ID OCLC-MUH
+NAME McMaster University
+LOCATION Hamilton
+PROVINCE ON
+BASEURL http://catalogue.mcmaster.ca/catalogue
+CATTYPE vufind
+
 ID OCLC-MLSOD
 NAME Mississauga Library System
 LOCATION Mississauga
@@ -1390,7 +1397,7 @@ BASEURL http://www.chipublib.org
 SUBURL ${BASEURL}/search/results?advancedSearch=submitted&subject=${ARG:N}
 AUTURL ${BASEURL}/search/results?searchType=Author&terms=${ARG:SN}
 TITURL ${BASEURL}/search/results?searchType=Title&terms=${ARG:A}
-# KEYURL ${BASEURL}/search/results?searchType=keyword&terms=${ARG}
+KEYURL ${BASEURL}/search/results?searchType=keyword&terms=${ARG}
 # AUTURL ${BASEURL}/search/results?searchType=Author&terms=${ARG:I}
 
 ID OCLC-CODUP
@@ -1420,6 +1427,13 @@ LOCATION Libraries in west central Illinois
 STATE IL
 CATTYPE sirsient
 BASEURL http://alsi.sdp.sirsi.net
+
+ID OCLC-CGU
+NAME University of Chicago Library
+LOCATION Chicago
+STATE IL
+CATTYPE aquabrowser
+BASEURL http://lens.lib.uchicago.edu
 
 ID OCLC-IAY
 NAME University of Illinois-Chicago Library
@@ -2469,6 +2483,13 @@ STATE TX
 CATTYPE summon
 BASEURL http://uh.summon.serialssolutions.com
 
+ID OCLC-IXA
+NAME University of Texas Libraries
+LOCATION Austin
+STATE TX
+CATTYPE summon
+BASEURL http://utexas.summon.serialssolutions.com
+
 ID OCLC-UUP
 NAME The City Library
 LOCATION Salt Lake City
@@ -2693,6 +2714,14 @@ STATE WV
 BASEURL http://aca.iii.com/
 CATTYPE iii-consortium-member
 LCODE 60
+
+ID OCLC-GZD
+NAME Milwaukee County Federated Library System
+LOCATION Milwaukee and vicinity
+STATE WI
+BASEURL http://countycat.mcfls.org
+CATTYPE iii-consortium-member
+LCODE 1
 
 ID OCLC-GZM
 NAME University of Wisconsin-Madison Libraries
