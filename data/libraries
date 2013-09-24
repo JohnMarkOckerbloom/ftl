@@ -813,6 +813,15 @@ COUNTRY UK
 CATTYPE prismhosted
 BASEURL http://capitadiscovery.co.uk/glam-ac
 
+ID OCLC-U9X
+NAME University of Sussex
+LOCATION Brighton, England
+COUNTRY UK
+CATTYPE primo
+BASEURL http://sus-primo.hosted.exlibrisgroup.com/primo_library
+VID CJKVIEW
+DEFAULT http://www.sussex.ac.uk/library/
+
 ID OCLC-UKUAL
 NAME University of the Arts London
 LOCATION London, England
@@ -1204,6 +1213,13 @@ STATE CT
 CATTYPE encorehosted
 BASEURL http://hplct.iii.com/
 
+ID OCLC-YUS
+NAME Yale University
+LOCATION New Haven
+STATE CT
+CATTYPE voyager-vwebv
+BASEURL http://orbis.library.yale.edu/vwebv/search
+
 ID OCLC-DWA
 NAME Delaware Library Catalog
 LOCATION Public libraries statewide
@@ -1358,6 +1374,13 @@ LOCATION Savannah
 STATE GA
 CATTYPE vufind
 BASEURL http://gilfind.savannahstate.edu/vufind
+
+ID OCLC-GUA
+NAME University of Georgia
+LOCATION Athens
+STATE GA
+BASEURL http://gilfind.uga.edu/vufind
+CATTYPE vufind
 
 ID OCLC-HUH
 NAME University of Hawaii at Manoa
@@ -1577,6 +1600,14 @@ STATE KS
 BASEURL http://catalog.tscpl.org/polaris
 CATTYPE polaris
 
+ID OCLC-KKU
+NAME University of Kansas Libraries
+LOCATION Lawrence
+STATE KS
+BASEURL http://kuprimo.hosted.exlibrisgroup.com/primo_library
+CATTYPE primo
+VID KU
+
 ID OCLC-KCE
 NAME Kenton County Public Library
 LOCATION Kenton County
@@ -1590,6 +1621,13 @@ LOCATION Louisville
 STATE KY
 BASEURL http://pac.lfpl.org/polaris
 CATTYPE polaris
+
+ID OCLC-KUK
+NAME University of Kentucky
+LOCATION Lexington
+STATE KY
+CATTYPE voyager-vwebv
+BASEURL http://infokat.uky.edu/vwebv/search
 
 ID OCLC-LNC
 NAME New Orleans Public Library
@@ -1645,6 +1683,13 @@ STATE MD
 BASEURL https://catalyst.library.jhu.edu
 CATTYPE blacklight
 SINDEX subject
+
+ID OCLC-UMC
+NAME University of Maryland Libraries
+LOCATION College Park
+STATE MD
+BASEURL http://umaryland.worldcat.org/search
+CATTYPE worldcat
 
 ID OCLC-BRL
 NAME Boston Public Library
@@ -1794,6 +1839,15 @@ LOCATION St. Paul
 STATE MN
 BASEURL http://alpha.sppl.org
 CATTYPE innopac
+
+ID OCLC-MNU
+NAME University of Minnesota Libraries
+LOCATION Twin Cities
+STATE MN
+BASEURL http://primo.lib.umn.edu/primo_library
+CATTYPE primo
+VID TWINCITIES
+DEFAULT DOMAIN
 
 ID OCLC-MJP
 NAME Jackson-Hinds Library System
@@ -2580,6 +2634,13 @@ LOCATION Virginia Beach
 STATE VA
 BASEURL http://vbplcat.vbgov.com/uhtbin/cgisirsi.exe
 CATTYPE sirsi
+
+ID OCLC-VPI
+NAME Virginia Tech
+LOCATION Blacksburg
+STATE VA
+CATTYPE summon
+BASEURL http://vt.summon.serialssolutions.com
 
 ID OCLC-F3L
 NAME Fletcher Free Library
