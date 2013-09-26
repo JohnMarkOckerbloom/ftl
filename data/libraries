@@ -4,7 +4,10 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2013-05-21
+# Last updated 2013-09-26
+# TODO: add cattype for UNC Chapel Hill's library catalog, and list it
+#   (similar to that of Phoenix and Toronto public libraries)
+#  Other DLF libraries yet to be added: U-Virginia, U-Washington
 
 ID OLBP
 NAME The Online Books Page
@@ -1039,7 +1042,14 @@ STATE CA
 BASEURL http://montn.ci.monterey.ca.us
 CATTYPE webpacpro
 
-# SOON: add Pasadena's new public library catalog (goes live July 25)
+ID OCLC-CPP
+NAME Pasadena Public Library
+LOCATION Pasadena
+STATE CA
+BASEURL http://catalog.pasadenapubliclibrary.net
+CATTYPE ipac20
+PROFILE pcent
+
 ID OCLC-CZP
 NAME Peninsula Library System
 LOCATION San Mateo County
@@ -1182,6 +1192,13 @@ LOCATION All 10 UC campuses
 STATE CA
 BASEURL http://melvyl.worldcat.org/search
 CATTYPE worldcat
+
+ID OCLC-CSL
+NAME USC: University of Southern California
+LOCATION Los Angeles
+STATE CA
+CATTYPE summon
+BASEURL http://usc.summon.serialssolutions.com
 
 ID OCLC-CO3
 NAME Boulder Public Library
@@ -1899,6 +1916,13 @@ STATE NE
 BASEURL http://omaha.bibliocommons.com
 CATTYPE bibliocommons
 
+ID OCLC-LDL
+NAME University of Nebraska-Lincoln
+LOCATION Lincoln
+STATE NE
+BASEURL http://encore.unl.edu/iii/encore
+CATTYPE encore
+
 ID OCLC-NVA
 NAME College of Southern Nevada
 LOCATION Las Vegas and vicinity
@@ -2084,6 +2108,14 @@ STATE NY
 CATTYPE summon
 BASEURL http://touro.summon.serialssolutions.com
 IPRANGE 24.187.203.218/31|24.187.203.220/31|64.20.191.56/29|75.99.35.169/32|75.99.35.170/31|75.99.35.172/31|98.142.112.0/22|98.142.116.0/23|98.142.118.0/24|98.142.119.0/28|98.142.119.64/26|98.142.119.128/25|98.142.120.0/22|98.142.124.0/23|108.27.40.161/32|108.27.40.162/31|108.27.40.164/30|173.220.9.185/32|173.220.9.186/31|173.220.9.188/31|173.220.14.241/32|173.220.14.242/31|173.220.14.244/31|173.220.29.81/32|173.220.29.82/31|173.220.29.84/31|173.220.29.105/32|173.220.29.106/31|173.220.29.108/31|173.220.29.185/32|173.220.29.186/31|173.220.29.188/31|173.220.29.193/32|173.220.29.194/31|173.220.29.196/31|173.220.45.41/32|173.220.45.42/31|173.220.45.44/31|173.220.62.17/32|173.220.62.18/31|173.220.62.20/31|173.220.88.25/32|173.220.88.26/31|173.220.88.28/31|173.220.89.240/29|173.220.90.248/29|184.74.187.192/29|184.74.199.129/32|184.74.199.130/31|184.74.199.132/30|184.75.22.192/30|184.75.22.196/31|184.75.33.89/32|184.75.33.90/31|184.75.33.92/30|207.127.40.0/24|207.127.41.0/24|207.127.42.0/24|207.127.43.0/24
+
+ID OCLC-NAM
+NAME University at Albany, SUNY
+LOCATION Albany
+STATE NY
+CATTYPE aleph1
+BASEURL http://p8991-libms1.albany.edu.libproxy.albany.edu
+TINDEX WTI
 
 ID OCLC-NRC
 NAME North Carolina State University (NCSU)
@@ -2409,6 +2441,14 @@ STATE TN
 CATTYPE sirsi
 BASEURL http://rclm.sirsi.net/uhtbin/cgisirsi
 
+ID OCLC-TKN
+NAME University of Tennessee
+LOCATION Knoxville
+STATE TN
+CATTYPE primo
+BASEURL http://utk-primo.hosted.exlibrisgroup.com/primo_library
+VID UTK
+
 ID OCLC-1AR
 NAME Arlington Public Library
 LOCATION Arlington
@@ -2536,6 +2576,13 @@ LOCATION Houston, and other campuses
 STATE TX
 CATTYPE summon
 BASEURL http://uh.summon.serialssolutions.com
+
+ID OCLC-INT
+NAME University of North Texas
+LOCATION Denton
+STATE TX
+BASEURL http://iii.library.unt.edu
+CATTYPE innopac
 
 ID OCLC-IXA
 NAME University of Texas Libraries
@@ -2797,3 +2844,10 @@ LOCATION Cheyenne
 STATE WY
 BASEURL http://wyld.state.wy.us/uhtbin/cgisirsi
 CATTYPE sirsi
+
+ID OCLC-4JI
+NAME University of Wyoming
+LOCATION Laramie
+STATE WY
+CATTYPE summon
+BASEURL http://uwyo.summon.serialssolutions.com
