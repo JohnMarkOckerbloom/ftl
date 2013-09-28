@@ -392,11 +392,10 @@ ID OCLC-TOH
 NAME Toronto Public Library
 LOCATION Toronto
 PROVINCE ON
-BASEURL http://www.torontopubliclibrary.ca/
-SUBURL ${BASEURL}/search.jsp?Ntk=Subject_Search_Interface&N=0&advancedSearch=true&Ntt=${ARG}
-AUTURL ${BASEURL}/search.jsp?Ntk=Author_Search_Interface&N=0&advancedSearch=true&Ntt=${ARG}
-TITURL ${BASEURL}/search.jsp?Ntk=Title_Search_Interface&N=0&advancedSearch=true&Ntt=${ARG}
-KEYURL ${BASEURL}search.jsp?Ntt=${ARG}
+BASEURL http://www.torontopubliclibrary.ca/search.jsp
+CATTYPE endeca
+SINDEX Subject_Search_Interface
+TINDEX Title_Search_Interface
 
 ID OCLC-OTZ
 NAME University of Ottawa
@@ -890,16 +889,13 @@ STATE AZ
 BASEURL http://www.flagstaffpubliclibrary.org/uhtbin/cgisirsi/
 CATTYPE sirsi
 
-# catalog seems to be a one-off?
 ID OCLC-1PN
 NAME Phoenix Public Library
 LOCATION Phoenix
 STATE AZ
-BASEURL http://www.phoenixpubliclibrary.org
-SUBURL ${BASEURL}/controller.jsp?N=0&Ntk=Subject&Ntt=${ARG}&Nty=1&D=${ARG}&Ntx=mode+matchall&Dx=mode+matchall
-TITURL ${BASEURL}/controller.jsp?N=0&Ntk=Title&Ntt=${ARG}&Nty=1&D=${ARG}&Ntx=mode+matchall&Dx=mode+matchall
-AUTURL ${BASEURL}/controller.jsp?N=0&Ntk=Author&Ntt=${ARG}&Nty=1&D=${ARG}&Ntx=mode+matchall&Dx=mode+matchall
-KEYURL ${BASEURL}/controller.jsp?N=0&Ntk=Search+All&Ntt=${ARG}&Nty=1&D=${ARG}&Ntx=mode+matchall&Dx=mode+matchall
+BASEURL http://www.phoenixpubliclibrary.org/controller.jsp
+CATTYPE endeca
+KINDEX Search+All
 
 ID OCLC-AZT
 NAME Pima County Public Library
@@ -1775,6 +1771,13 @@ STATE MA
 BASEURL http://onesearch.northeastern.edu/primo_library
 CATTYPE primo
 
+ID OCLC-1SC
+NAME Simmons College
+LOCATION Boston
+STATE MA
+BASEURL http://library.simmons.edu
+CATTYPE innopac
+
 ID OCLC-NKT
 NAME Springfield College
 LOCATION Springfield
@@ -2130,6 +2133,13 @@ STATE NC
 CATTYPE tlc
 LCODE rutherford
 BASEURL http://www.cmclibraries.org/
+
+ID OCLC-NOC
+NAME University of North Carolina (UNC) Chapel Hill
+LOCATION Chapel Hill
+STATE NC
+BASEURL http://library.unc.edu/research/combinedresults/
+CATTYPE endeca
 
 ID OCLC-8NX
 NAME Wake County Public Libraries
@@ -2675,6 +2685,14 @@ STATE VA
 BASEURL http://ibistro.ci.richmond.va.us/uhtbin/cgisirsi
 CATTYPE sirsi
 
+ID OCLC-VA@
+NAME University of Virginia Library
+LOCATION Charlottesville
+STATE VA
+BASEURL http://search.lib.virginia.edu/catalog?portal=all&catalog_select=all&
+CATTYPE blacklight-custom
+FILTERS NK
+
 ID OCLC-VPL
 NAME Virginia Beach Public Library
 LOCATION Virginia Beach
@@ -2786,6 +2804,13 @@ LOCATION Grays Harbor, Lewis, Mason, Pacific, and Thurston counties
 STATE WA
 CATTYPE sirsi
 BASEURL http://cat.trl.org/uhtbin/cgisirsi.exe
+
+ID OCLC-WAU
+NAME University of Washington
+LOCATION Seattle
+STATE WA
+BASEURL http://uwashington.worldcat.org/search
+CATTYPE worldcat
 
 ID OCLC-WC3
 NAME Whatcom Community College
