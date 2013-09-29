@@ -868,12 +868,36 @@ STATE AL
 BASEURL http://mccp.sirsi.net/uhtbin/cgisirsi
 CATTYPE sirsi
 
+ID OCLC-AMLGC
+NAME Anchorage Public Library
+LOCATION Anchorage
+STATE AK
+CATTYPE sirsient
+LCODE apl
+BASEURL http://jlc-web.uaa.alaska.edu
+
+ID OCLC-AKASL
+NAME Alaska State Library Catalog
+LOCATION Various public libraries in southeast and south-central Alaska
+STATE AK
+CATTYPE sirsient
+LCODE asl
+BASEURL http://jlc-web.uaa.alaska.edu
+
+ID OCLC-X-SHARP-4
+NAME Fairbanks North Star Borough Public Libraries
+LOCATION Fairbanks and vicinity
+STATE AK
+BASEURL http://catalog.fnsb.lib.ak.us/uhtbin/cgisirsi
+CATTYPE sirsi
+
 ID OCLC-Q2L
 NAME Juneau Public Libraries
 LOCATION Juneau
 STATE AK
-BASEURL http://www.ccl.lib.ak.us/uhtbin/cgisirsi.exe
-CATTYPE sirsi
+CATTYPE sirsient
+LCODE jpl
+BASEURL http://jlc-web.uaa.alaska.edu
 
 ID OCLC-AZS
 NAME Arizona State University Libraries
@@ -1203,6 +1227,50 @@ STATE CO
 BASEURL http://nell.boulderlibrary.org/
 CATTYPE iii-consortium-member
 LCODE 7
+
+ID PROSPECTOR
+NAME Colorado Alliance of Research Libraries: Prospector
+LOCATION Various libraries in or near Colorado
+STATE CO
+BASEURL http://prospector.coalliance.org
+CATTYPE innopac
+
+ID OCLC-DPL
+NAME Denver Public Library
+LOCATION Denver
+STATE CO
+BASEURL http://catalog.denverlibrary.org
+CATTYPE polaris
+
+ID OCLC-DAD
+NAME Douglas County Libraries
+LOCATION Douglas County
+STATE CO
+BASEURL http://catalog.douglascountylibraries.org/Union
+CATTYPE vufind
+FILTERS N
+
+ID OCLC-QQ3
+NAME Jefferson County Public Library
+LOCATION Jefferson County
+STATE CO
+BASEURL http://encore.jefferson.lib.co.us/iii/encore
+CATTYPE encore
+
+ID OCLC-CQU
+NAME Pikes Peak Library District
+LOCATION Colorado Springs, and El Paso County
+STATE CO
+CATTYPE sirsient
+LCODE PPLD
+BASEURL http://pikp.ent.sirsi.net
+
+ID OCLC-4X-SHARP
+NAME Poudre River Public Library District
+LOCATION Fort Collins
+STATE CO
+BASEURL http://discover.poudrelibraries.org/iii/encore
+CATTYPE encore
 
 ID OCLC-COD
 NAME University of Colorado at Boulder
