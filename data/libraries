@@ -915,6 +915,14 @@ STATE AK
 BASEURL http://catalog.firstcitylibraries.org/uhtbin/cgisirsi.exe
 CATTYPE sirsi
 
+ID OCLC-H8N
+NAME Haines Cooperative Libraries
+LOCATION Haines Borough
+STATE AK
+BASEURL http://haines.evergreencatalog.com/eg/opac
+CATTYPE evergreen-dynamic
+FILTERS N
+
 ID OCLC-Q2L
 NAME Juneau Public Libraries
 LOCATION Juneau
