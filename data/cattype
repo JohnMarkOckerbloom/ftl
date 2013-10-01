@@ -136,6 +136,12 @@ TITURL ${BASEURL}/results?locg=${LCODE}&qtype=title&query=${ARG}
 KEYURL ${BASEURL}/results?locg=${LCODE}&qtype=keyword&query=${ARG}
 DEFAULT DOMAIN
 
+# Explorit often has "powered by Deep Web technologies" note
+CATTYPE explorit
+AUTURL ${BASEURL}/result-list/author:${ARG}/
+TITURL ${BASEURL}/result-list/title:${ARG}/
+KEYURL ${BASEURL}/result-list/fullRecord:${ARG}/
+
 # Florida Center for Library Automation catalog, used by some Florida libs
 CATTYPE fcla
 SUBURL ${BASEURL}?ix=su&st=${ARG}

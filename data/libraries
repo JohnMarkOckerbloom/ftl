@@ -868,6 +868,23 @@ STATE AL
 BASEURL http://mccp.sirsi.net/uhtbin/cgisirsi
 CATTYPE sirsi
 
+ID OCLC-H-DOLLAR-A
+NAME Alaska Medical Library
+LOCATION Anchorage and online member access
+STATE AK
+BASEURL http://amlmultisearch.deepwebaccess.com/amlmultisearch
+CATTYPE explorit
+
+ID OCLC-XYV
+NAME Alaska State Court Law Library
+LOCATION Anchorage and 15 other branches
+STATE AK
+BASEURL http://ascll.ipac.sirsidynix.net
+CATTYPE ipac20
+PROFILE pub
+SINDEX .SW
+FILTERS N
+
 ID OCLC-AMLGC
 NAME Anchorage Public Library
 LOCATION Anchorage
@@ -878,7 +895,7 @@ BASEURL http://jlc-web.uaa.alaska.edu
 
 ID OCLC-AKASL
 NAME Alaska State Library Catalog
-LOCATION Various public libraries in southeast and south-central Alaska
+LOCATION Various libraries in southeast and south-central Alaska
 STATE AK
 CATTYPE sirsient
 LCODE asl
@@ -891,6 +908,13 @@ STATE AK
 BASEURL http://catalog.fnsb.lib.ak.us/uhtbin/cgisirsi
 CATTYPE sirsi
 
+ID OCLC-FCLIB
+NAME First City Libraries
+LOCATION Ketchikan
+STATE AK
+BASEURL http://catalog.firstcitylibraries.org/uhtbin/cgisirsi.exe
+CATTYPE sirsi
+
 ID OCLC-Q2L
 NAME Juneau Public Libraries
 LOCATION Juneau
@@ -898,6 +922,27 @@ STATE AK
 CATTYPE sirsient
 LCODE jpl
 BASEURL http://jlc-web.uaa.alaska.edu
+
+ID OCLC-MSLIB
+NAME Matanuska-Susitna Library Network
+LOCATION Matanuska-Susitna Borough
+STATE AK
+BASEURL http://catalog.matsulibraries.org/uhtbin/cgisirsi.exe
+CATTYPE sirsi
+
+ID OCLC-Q2T
+NAME Petersburg Public Library
+LOCATION Petersburg
+STATE AK
+BASEURL http://66.223.180.26/uhtbin/cgisirsi.exe
+CATTYPE sirsi
+
+ID OCLC-X@8
+NAME Unalaska Public Library
+LOCATION Unalaska
+STATE AK
+BASEURL http://www.akuncl.us/uhtbin/cgisirsi.exe
+CATTYPE sirsi
 
 ID OCLC-AZS
 NAME Arizona State University Libraries
@@ -1396,6 +1441,20 @@ STATE FL
 BASEURL http://iii.ocls.info
 CATTYPE webpacpro
 
+ID OCLC-FLX
+NAME Pinellas Automated Library System
+LOCATION Clearwater, St. Petersburg and Pinellas County
+STATE FL
+BASEURL http://pals.polarislibrary.com/polaris
+CATTYPE polaris
+
+ID OCLC-FSP
+NAME Sarasota Country Libraries
+LOCATION Sarasota and vicinity
+STATE FL
+BASEURL http://suncat.co.sarasota.fl.us
+CATTYPE innopac
+
 ID OCLC-FNM
 NAME University of Miami Libraries
 LOCATION Coral Gables
@@ -1403,7 +1462,6 @@ STATE FL
 CATTYPE summon
 BASEURL http://miami.summon.serialssolutions.com
 
-# customized catalog? (they also have EDS, which I can't get to work)
 ID OCLC-1FH
 NAME University of South Florida
 LOCATION Tampa
@@ -1810,6 +1868,14 @@ STATE MA
 CATTYPE aquabrowser
 BASEURL http://hollis.harvard.edu
 
+ID OCLC-MRQ
+NAME Merrimack Valley Library Consortium
+LOCATION Public libraries in northeastern MA
+STATE MA
+BASEURL https://catalog.mvlc.org/eg/opac
+CATTYPE evergreen-dynamic
+LCODE 1
+
 ID OCLC-MLN
 NAME Minuteman Library Network
 LOCATION MetroWest-region public and small college libraries
@@ -1826,7 +1892,7 @@ BASEURL http://library.mit.edu
 
 ID OCLC-NOG
 NAME NOBLE: North of Boston Library Exchange
-LOCATION Public and small academic libraries in northeastern MA
+LOCATION North Shore public and small academic libraries
 STATE MA
 BASEURL https://evergreen.noblenet.org/eg/opac
 CATTYPE evergreen-dynamic
@@ -1838,6 +1904,13 @@ LOCATION Boston
 STATE MA
 BASEURL http://onesearch.northeastern.edu/primo_library
 CATTYPE primo
+
+ID OCLC-OCD
+NAME Old Colony Library Network
+LOCATION South Shore public libraries
+STATE MA
+BASEURL http://sw3.ocln.org/uhtbin/cgisirsi
+CATTYPE sirsi
 
 ID OCLC-1SC
 NAME Simmons College
