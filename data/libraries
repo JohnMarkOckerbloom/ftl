@@ -2033,6 +2033,13 @@ CATTYPE sirsient
 BASEURL http://catalog.kclibrary.org
 LCODE kclibrary
 
+ID OCLC-ZAE
+NAME St. Louis County Library
+LOCATION St. Louis suburbs
+STATE MO
+BASEURL http://encore.slcl.org/iii/encore
+CATTYPE encore
+
 ID OCLC-SVP
 NAME St. Louis Public Library
 LOCATION St. Louis
@@ -2060,6 +2067,14 @@ LOCATION Bozeman
 STATE MT
 CATTYPE summon
 BASEURL http://montana.summon.serialssolutions.com
+
+ID OCLC-NLN
+NAME Lincoln City Libraries
+LOCATION Lincoln
+STATE NE
+BASEURL http://lincoln.pioneer.kohalibrary.com
+CATTYPE koha-consortium-member
+LCODE LC-LIBS
 
 ID OCLC-NBO
 NAME Omaha Public Library
@@ -2150,6 +2165,14 @@ LOCATION Albuquerque and Bernalillo County
 STATE NM
 BASEURL http://encore.cabq.gov/iii/encore
 CATTYPE encore
+
+ID OCLC-LAN
+NAME Los Alamos County Library System
+LOCATION Los Alamos
+STATE NM
+BASEURL http://library.losalamosnm.us
+CATTYPE ipac20
+AINDEX PZAUTH
 
 ID OCLC-BKL
 NAME Brooklyn Public Library
@@ -2269,6 +2292,13 @@ CATTYPE aleph1
 BASEURL http://p8991-libms1.albany.edu.libproxy.albany.edu
 TINDEX WTI
 
+ID OCLC-UZZ
+NAME Forsyth County Public Library
+LOCATION Winston-Salem and vicinity
+STATE NC
+CATTYPE sirsi
+BASEURL http://vega.co.forsyth.nc.us/uhtbin/cgisirsi.exe
+
 ID OCLC-NRC
 NAME North Carolina State University (NCSU)
 LOCATION Raleigh
@@ -2319,6 +2349,20 @@ LOCATION Cleveland
 STATE OH
 CATTYPE bibliocommons
 BASEURL http://cpl.bibliocommons.com
+
+ID OCLC-CXP
+NAME Cuyahoga County Public Library
+LOCATION Cleveland suburbs
+STATE OH
+BASEURL http://encore.cuyahoga.lib.oh.us/iii/encore
+CATTYPE encore
+
+ID OCLC-OCO
+NAME Columbus Metropolitan Library
+LOCATION Columbus and vicinity
+STATE OH
+BASEURL http://catalog.clcohio.org/polaris
+CATTYPE polaris
 
 ID OCLC-7DM
 NAME Dayton Metro Library

@@ -183,6 +183,12 @@ AUTURL ${BASEURL}/cgi-bin/koha/opac-search.pl?idx=au&q=${ARG}
 TITURL ${BASEURL}/cgi-bin/koha/opac-search.pl?idx=ti&q=${ARG}
 KEYURL ${BASEURL}/cgi-bin/koha/opac-search.pl?q=${ARG}
 
+CATTYPE koha-consortium-member
+SUBURL ${BASEURL}/cgi-bin/koha/opac-search.pl?multibranchlimit=${LCODE}&idx=su&q=${ARG}
+AUTURL ${BASEURL}/cgi-bin/koha/opac-search.pl?multibranchlimit=${LCODE}&idx=au&q=${ARG}
+TITURL ${BASEURL}/cgi-bin/koha/opac-search.pl?multibranchlimit=${LCODE}&idx=ti&q=${ARG}
+KEYURL ${BASEURL}/cgi-bin/koha/opac-search.pl?multibranchlimit=${LCODE}&q=${ARG}
+
 CATTYPE ls2pac
 SUBURL ${BASEURL}?section=search&term=su:${ARG:N}
 AUTURL ${BASEURL}?section=search&term=au:${ARG:N}
