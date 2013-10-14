@@ -727,9 +727,24 @@ COUNTRY UK
 BASEURL http://libcat.csglasgow.org/
 CATTYPE viewpoint
 
+ID OCLC-GSM
+NAME Goldsmiths, University of London
+LOCATION London, England
+COUNTRY UK
+BASEURL http://libra.gold.ac.uk
+CATTYPE aleph1
+TINDEX WTI
+
+ID UK-NIBAL
+NAME Libraries NI
+LOCATION Public libraries in Northern Ireland
+COUNTRY UK
+BASEURL https://opac.librariesni.org.uk/
+CATTYPE viewpoint
+
 ID UK-UKB
 NAME Library of Birmingham
-LOCATION Birmingham
+LOCATION Birmingham, England
 COUNTRY UK
 CATTYPE spydus
 BASEURL http://library-opac.birmingham.gov.uk
@@ -764,6 +779,14 @@ BASEURL http://discover.llgc.org.uk
 # can't find a good subject search, so substitute keywords instead
 SINDEX keywords
 FILTERS S
+
+ID OCLC-FDN
+NAME Senate House Libraries, University of London
+LOCATION London, England
+COUNTRY UK
+CATTYPE iii-consortium-member
+BASEURL http://catalogue.ulrls.lon.ac.uk
+LCODE 24
 
 ID OCLC-UK4ZN
 NAME Staffordshire University Library
