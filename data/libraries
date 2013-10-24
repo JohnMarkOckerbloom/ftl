@@ -50,6 +50,14 @@ BASEURL http://www.europeana.eu/portal
 AUTURL ${BASEURL}/search.html?query=who:${ARG:S}
 KEYURL ${BASEURL}/search.html?query=${ARG:NK}
 
+ID AU-NCSU:A
+NAME Charles Sturt University
+LOCATION Campuses in New South Wales, Victoria, and ACT
+COUNTRY AU
+CATTYPE primo
+BASEURL http://primo.unilinc.edu.au/primo_library
+VID CSU
+
 ID AU-VLU
 NAME La Trobe University
 LOCATION Melbourne and other campuses, Victoria
@@ -1868,6 +1876,14 @@ STATE MA
 CATTYPE bibliocommons
 BASEURL http://bpl.bibliocommons.com
 
+ID OCLC-BOS
+NAME Boston University Libraries
+LOCATION Boston
+STATE MA
+BASEURL http://buprimo.hosted.exlibrisgroup.com/primo_library
+CATTYPE primo
+VID BU
+
 ID OCLC-CWJ
 NAME C/W MARS
 LOCATION Public and small academic libraries in central and western MA
@@ -2197,6 +2213,14 @@ BASEURL http://library.losalamosnm.us
 CATTYPE ipac20
 AINDEX PZAUTH
 
+ID OCLC-BNG
+NAME Binghamton University
+LOCATION Binghamton
+STATE NY
+BASEURL http://bingprimo.hosted.exlibrisgroup.com:1701/primo_library
+CATTYPE primo
+VID BING
+
 ID OCLC-BKL
 NAME Brooklyn Public Library
 LOCATION Brooklyn
@@ -2261,6 +2285,14 @@ LOCATION New York
 STATE NY
 BASEURL http://library.metmuseum.org
 CATTYPE innopac
+
+ID OCLC-VFO
+NAME Mid-Hudson Library System
+LOCATION Columbia, Dutchess, Greene, Putnam and Ulster Counties
+STATE NY
+CATTYPE iii-consortium-member
+BASEURL http://midhudsonlibraries.org
+LCODE 1
 
 # using the ID for Rochester PL (since Monroe Cty doesn't seem to have one)
 ID OCLC-YQR
