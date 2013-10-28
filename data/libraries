@@ -788,6 +788,14 @@ BASEURL http://discover.llgc.org.uk
 SINDEX keywords
 FILTERS S
 
+ID OCLC-EUN
+NAME Newcastle University
+LOCATION Newcastle upon Tyne, England
+COUNTRY UK
+CATTYPE primo
+BASEURL http://libsearch.ncl.ac.uk/primo_library
+DEFAULT http://www.ncl.ac.uk/library/
+
 ID OCLC-FDN
 NAME Senate House Libraries, University of London
 LOCATION London, England
@@ -1628,6 +1636,14 @@ LOCATION Libraries in west central Illinois
 STATE IL
 CATTYPE sirsient
 BASEURL http://alsi.sdp.sirsi.net
+
+ID OCLC-JDP
+NAME SWAN: System Wide Automated Network
+LOCATION Suburban libraries in the Chicago area
+STATE IL
+BASEURL http://swan.mls.lib.il.us
+CATTYPE iii-consortium-member
+LCODE 1
 
 ID OCLC-CGU
 NAME University of Chicago Library
@@ -2569,6 +2585,14 @@ STATE PA
 CATTYPE aleph1
 BASEURL http://pacscl.exlibrisgroup.com:48992
 TINDEX WTI
+
+# ID is for Norristown
+ID OCLC-MNL
+NAME MCLINC
+LOCATION Montgomery County public libraries
+STATE PA
+BASEURL http://spica.mclinc.org/polaris
+CATTYPE polaris
 
 ID OCLC-CMZ
 NAME Misericordia University
