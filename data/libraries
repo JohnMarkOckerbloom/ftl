@@ -2173,11 +2173,33 @@ STATE NH
 BASEURL http://findit.gmilcs.org/polaris
 CATTYPE polaris
 
+ID OCLC-ACP
+NAME Atlantic City Free Public Library
+LOCATION Atlantic City
+STATE NJ
+BASEURL http://encore.acfpl.org/iii/encore
+CATTYPE encorekey
+SKIN pearl
+
 ID OCLC-BRG
 NAME BCCLS
 LOCATION Bergen, Essex, Hudson, and Passaic County public libraries
 STATE NJ
 BASEURL http://catalog.bccls.org/polaris
+CATTYPE polaris
+
+ID OCLC-NCL
+NAME CamCat
+LOCATION Camden County Library System, and Camden County College
+STATE NJ
+BASEURL http://iii.camden.lib.nj.us
+CATTYPE innopac
+
+ID OCLC-HUN
+NAME Hunterdon County Library
+LOCATION Flemington, Clinton, and Lambertville
+STATE NJ
+BASEURL http://ipac.hclibrary.us/polaris
 CATTYPE polaris
 
 ID OCLC-QBL
@@ -2186,6 +2208,13 @@ LOCATION Middletown
 STATE NJ
 BASEURL http://kohaopac.mtpl.org
 CATTYPE koha
+
+ID OCLC-MYL
+NAME Monmouth County Library
+LOCATION Monmouth County
+STATE NJ
+BASEURL http://mcls.sirsi.net/uhtbin/cgisirsi/
+CATTYPE sirsi
 
 ID OCLC-NWM
 NAME Morris Automated Information Network
@@ -2213,6 +2242,14 @@ NAME Princeton University Library
 LOCATION Princeton
 STATE NJ
 KEYURL http://library.princeton.edu/find/all/${ARG}
+
+ID OCLC-SOM
+NAME Somerset County Library System
+LOCATION Somerset County
+STATE NJ
+BASEURL http://catalog.somerset.lib.nj.us
+CATTYPE iii-consortium-member
+LCODE 8
 
 ID OCLC-QUE
 NAME ABC Library
