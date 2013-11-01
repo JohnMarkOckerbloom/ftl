@@ -520,6 +520,13 @@ CATTYPE tlc
 LCODE ysm
 BASEURL http://yclibw.yukoncollege.yk.ca/
 
+ID OCLC-CPV
+NAME City University of Hong Kong
+LOCATION Hong Kong
+COUNTRY HK
+BASEURL http://encore.lib.cityu.edu.hk/iii/encore
+CATTYPE encore
+
 ID OCLC-T9E
 NAME Institute of Technology Tallaght
 LOCATION Dublin

@@ -61,8 +61,13 @@ my ($viafhash, $lccnhash, $wphash);
 my $countries = {
   '00' => " Global library services",
   'AU' => "Australia",
+  'BE' => "Belgium",
   'CA' => "Canada",
   'CH' => "Switzerland",
+  'CN' => "China",
+  'DE' => "Germany",
+  'FR' => "France",
+  'HK' => "Hong Kong",
   'IN' => "India",
   'IE' => "Ireland",
   'NA' => "Namibia",
