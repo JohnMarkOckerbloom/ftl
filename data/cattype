@@ -149,6 +149,14 @@ AUTURL ${BASEURL}?ix=au&st=${ARG}
 TITURL ${BASEURL}?ix=ti&st=${ARG}
 KEYURL ${BASEURL}?ix=kw&st=${ARG}
 
+# IDS project (hosted; seems to be mostly college libraries in NY)
+CATTYPE ids
+BASEURL http://search.idsproject.org/index.php
+SUBURL ${BASEURL}?oclc_symbol=${LCODE}&view=ids&search_scope=my_library&query_index[0]=su&query_value[0]=${ARG}
+AUTURL ${BASEURL}?oclc_symbol=${LCODE}&view=ids&search_scope=my_library&query_index[0]=au&query_value[0]=${ARG}
+TITURL ${BASEURL}?oclc_symbol=${LCODE}&view=ids&search_scope=my_library&query_index[0]=ti&query_value[0]=${ARG}
+KEYURL ${BASEURL}?oclc_symbol=${LCODE}&view=ids&search_scope=my_library&query_index[0]=kw&query_value[0]=${ARG}
+
 # haven't gotten this to work yet
 CATTYPE iguana
 KEYURL ${BASEURL}/iguana/www.main.cls?sUrl=search&searchTerm=${ARG}

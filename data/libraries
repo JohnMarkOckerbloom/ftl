@@ -1198,6 +1198,13 @@ STATE CA
 BASEURL http://albert.stmarys-ca.edu
 CATTYPE webpacpro
 
+ID OCLC-SPU
+NAME Salinas Public Library
+LOCATION Salinas
+STATE CA
+BASEURL http://salinas.kohalibrary.com
+CATTYPE koha
+
 ID OCLC-1JT
 NAME San Diego Public Library
 LOCATION San Diego
@@ -2339,6 +2346,13 @@ STATE NY
 BASEURL http://catalog.flls.org/polaris
 CATTYPE polaris
 
+ID OCLC-VXV
+NAME Hudson Valley Community College
+LOCATION Troy
+STATE NY
+CATTYPE ids
+LCODE VXV
+
 ID OCLC-MZA
 NAME Metropolitan Museum of Art Libraries
 LOCATION New York
@@ -2362,6 +2376,14 @@ STATE NY
 CATTYPE ls2pac
 BASEURL http://catalogplus.libraryweb.org/
 FILTERS S
+
+ID OCLC-NAB
+NAME Nassau Library System
+LOCATION ALISCat: Public libraries in Nassau County, Long Island
+STATE NY
+CATTYPE iii-consortium-member
+BASEURL http://www.alisweb.org
+LCODE 60
 
 ID OCLC-ZYU
 NAME New York University Libraries
@@ -2406,6 +2428,14 @@ STATE NY
 CATTYPE aleph1
 BASEURL http://p8991-libms1.albany.edu.libproxy.albany.edu
 TINDEX WTI
+
+# ID may be for specific dept in U, but we're using it for whole U
+ID OCLC-NJD
+NAME Appalachian State University, Belk Library
+LOCATION Boone
+STATE NC
+BASEURL http://appencore.wncln.org/iii/encore
+CATTYPE encore
 
 ID OCLC-UZZ
 NAME Forsyth County Public Library
