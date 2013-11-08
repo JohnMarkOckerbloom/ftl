@@ -1400,6 +1400,13 @@ STATE CT
 CATTYPE encorehosted
 BASEURL http://hplct.iii.com/
 
+ID OCLC-NHP
+NAME New Haven Free Public Library
+LOCATION New Haven
+STATE CT
+BASEURL http://encore.nhfpl.org/iii/encore
+CATTYPE encore
+
 ID OCLC-YUS
 NAME Yale University
 LOCATION New Haven
@@ -2413,6 +2420,14 @@ STATE NY
 CATTYPE vufind
 BASEURL http://sbufind.library.stonybrook.edu/vufind
 
+# no ID I could find for SC library system as a whole; using Clerks Office ID
+ID OCLC-SUFFO
+NAME Suffolk County Libraries
+LOCATION Public libraries in Suffolk County, Long Island
+STATE NY
+BASEURL http://encore.suffolk.lib.ny.us/iii/encore
+CATTYPE encore
+
 ID OCLC-XTC
 NAME Touro College Libraries
 LOCATION New York
@@ -2436,6 +2451,13 @@ LOCATION Boone
 STATE NC
 BASEURL http://appencore.wncln.org/iii/encore
 CATTYPE encore
+
+ID OCLC-NDD
+NAME Duke University Libraries
+LOCATION Durham
+STATE NC
+CATTYPE summon
+BASEURL http://duke.summon.serialssolutions.com
 
 ID OCLC-UZZ
 NAME Forsyth County Public Library
