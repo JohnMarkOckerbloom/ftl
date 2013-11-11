@@ -1844,12 +1844,42 @@ STATE KY
 CATTYPE voyager-vwebv
 BASEURL http://infokat.uky.edu/vwebv/search
 
+ID OCLC-LAZ	
+NAME LSU Alexandria, Bolton Library
+LOCATION Alexandria
+STATE LA
+BASEURL https://lsua.louislibraries.org:6903/uhtbin/cgisirsi
+CATTYPE sirsi
+
 ID OCLC-LNC
 NAME New Orleans Public Library
 LOCATION New Orleans
 STATE LA
 BASEURL http://ipac.neworleanspubliclibrary.org/polaris
 CATTYPE polaris
+
+ID OCLC-LA8
+NAME Shreve Memorial Library
+LOCATION Shreveport and Caddo Parish
+STATE LA
+BASEURL http://unicorn.shreve-lib.org/uhtbin/cgisirsi
+CATTYPE sirsi
+
+ID OCLC-RQH
+NAME Tulane University
+LOCATION New Orleans
+STATE LA
+BASEURL http://tulprimo.hosted.exlibrisgroup.com:1701/primo_library
+CATTYPE primo
+VID tul3
+
+ID OCLC-WFPLA
+NAME West Feliciana Parish Library
+LOCATION St. Francisville
+STATE LA
+CATTYPE ls2pac
+BASEURL http://catalog.wfplibrary.org:8080/
+FILTERS S
 
 ID OCLC-9BY
 NAME Bangor Public Library
