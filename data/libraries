@@ -1844,6 +1844,21 @@ STATE KY
 CATTYPE voyager-vwebv
 BASEURL http://infokat.uky.edu/vwebv/search
 
+ID OCLC-LMJ
+NAME Jefferson Parish Library
+LOCATION Jefferson Parish
+STATE LA
+CATTYPE sirsient
+BASEURL http://jeffp.ent.sirsi.net
+
+ID OCLC-LR4
+NAME Lafourche Parish Public Library
+LOCATION Lafourche Parish
+STATE LA
+CATTYPE ls2pac
+BASEURL http://ls2.lafourche.org/
+FILTERS S
+
 ID OCLC-LAZ	
 NAME LSU Alexandria, Bolton Library
 LOCATION Alexandria
@@ -3254,12 +3269,28 @@ BASEURL http://countycat.mcfls.org
 CATTYPE iii-consortium-member
 LCODE 1
 
+ID OCLC-0NK
+NAME South Central Library System: LINKcat
+LOCATION Madison and other south-central Wisconsin libraries
+STATE WI
+BASEURL http://www.linkcat.info
+CATTYPE koha
+
 ID OCLC-GZM
 NAME University of Wisconsin-Madison Libraries
 LOCATION Madison
 STATE WI
 BASEURL http://search.library.wisc.edu/catalog
 CATTYPE blacklight
+
+ID OCLC-GZN
+NAME University of Wisconsin-Milwaukee Libraries
+LOCATION Milwaukee
+STATE WI
+CATTYPE primo
+BASEURL http://uw-primo.hosted.exlibrisgroup.com/primo_library
+VID MIL
+DEFAULT http://www4.uwm.edu/libraries/
 
 ID OCLC-WYL
 NAME Laramie County Library

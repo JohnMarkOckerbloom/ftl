@@ -8,7 +8,7 @@
 #   or lexical analysis (such as many geographical locations)
 #   are not included in this file.
 # See docs file for documentation
-# Last updated 2013-06-01
+# Last updated 2013-11-16
 #
 4-H clubs|<->|4-H
 A-10 (Jet attack plane)|=|Fairchild Republic A-10 Thunderbolt II
@@ -16,6 +16,7 @@ Aachen (Germany)|=|Aachen
 Abandoned children|<->|Child abandonment
 Abandoned mines|->|Mining
 Abbaye de la Trappe (Soligny-la-Trappe, France)|=|La Trappe Abbey
+Abbaye Saint-Pierre de Solesmes|=|Solesmes Abbey
 Abbey of Bury St. Edmunds|=|Bury St Edmunds Abbey
 Abbeys|=|Abbey
 Abbots|=|Abbot
@@ -142,12 +143,14 @@ American Camping Association|->|American Camp Association
 American Chestnut Foundation|=|The American Chestnut Foundation
 American drama|->|Theater of the United States
 American Field Service|->|AFS Intercultural Programs
+American Gold Star Mothers, Inc.|=|Gold Star Mothers Club
 American Home Economics Association|->|American Association of Family and Consumer Sciences
 Americanisms|->|American English
 American loyalists|=|Loyalist (American Revolution)
 American National Red Cross|->|American Red Cross
 American newspapers|=|Newspapers in the United States
 American Party|<->|Know Nothing
+American Society for Information Science and Technology|<->|Association for Information Science and Technology
 American Society of Agricultural Engineers|->|American Society of Agricultural and Biological Engineers
 American Sunday School Union|->|American Missionary Fellowship
 Amiga (Computer)|=|Amiga
@@ -478,6 +481,7 @@ Book collectors|->|Book collecting
 Book of Jubilees|=|Jubilees
 Bookplates|=|Bookplate
 Books|=|Book
+Books of hours|=|Book of hours
 Borderlands|=|Borderland
 Border security|=|Border control
 Borgia family|<->|House of Borgia
@@ -575,6 +579,7 @@ Canadian newspapers|<->|List of newspapers in Canada
 Canadian Pacific Railway Company|->|Canadian Pacific Limited
 Canals|=|Canal
 Candles|=|Candle
+Cannabinoids|=|Cannabinoid
 Canned salmon|->|Salmon cannery
 Canon (Literature)|->|Western canon
 Cantonese dialects|=|Yue Chinese
@@ -700,6 +705,7 @@ China--History--Taiping Rebellion, 1850-1864|=|Taiping Rebellion
 China Inland Mission|->|OMF International
 China Sea|<->|China Seas
 Chinese Americans|=|Chinese American
+Chinese fiction|->|Chinese literature
 Chinook language|<->|Lower Chinook
 Chiropractors|->|Chiropractic
 Chlorofluorocarbons|=|Chlorofluorocarbon
@@ -764,6 +770,7 @@ Clocks and watches|<->|Clock
 Clocks and watches|<-|Watch
 Clog dancing|=|Clogging
 Clothing and dress|<->|Clothing
+Clowns|=|Clown
 Coaches (Athletics)|=|Coach (sports)
 Coaching (Athletics)|->|Coach (sports)
 C&oacute;rdoba (Spain)|=|Córdoba, Andalusia
@@ -774,6 +781,7 @@ Coastal ecology|->|Ecology
 Coasts|=|Coast
 Coca-Cola Company|=|The Coca-Cola Company
 Cocaine abuse|<->|Cocaine dependence
+Cockroaches|=|Cockroach
 C&ocirc;te d'Ivoire|=|Ivory Coast
 Coeducation|=|Mixed-sex education
 Coffeehouses|=|Coffeehouse
@@ -857,6 +865,7 @@ Conscientious objection|->|Conscientious objector
 Conscientious objectors|=|Conscientious objector
 Conservationists|<->|Conservationist
 Conservation of natural resources|->|Conservation (ethic)
+Conspiracy theories|=|Conspiracy theory
 Conspiracies|=|Conspiracy
 Constellations|=|Constellation
 Constitutional amendments|=|Constitutional amendment
@@ -917,6 +926,7 @@ Cottages|=|Cottage
 Cotton manufacture|->|Cotton
 Counseling|<->|List of counseling topics
 Counterinsurgency|=|Counter-insurgency
+Country dancing|<->|Country dance
 Country homes|->|English country house
 Country homes -- England|=|English country house
 Coups d'&eacute;tat|=|Coup d'état
@@ -1004,12 +1014,15 @@ Data protection|<-|Information privacy
 Data protection|->|Data security
 Data warehousing|=|Data warehouse
 Daughters|=|Daughter
+Deaconesses|=|Deaconess
 Deacons|=|Deacon
 Dead|->|Death
 Deaf|=|Deaf individual
 Death of God theology|=|God is dead
 Debtor and creditor|<->|Debtor
 Debutantes|=|Debutante
+Deceptive advertising|<->|False advertising
+Decision making|=|Decision-making
 Decomposition (Mathematics)|->|Decomposition (disambiguation)
 Defloration|->|Virginity
 Deglutition|=|Swallowing
@@ -1021,6 +1034,8 @@ Democratic Party (U.S.)|=|Democratic Party (United States)
 Demonomania|->|Demonic possession
 Demonstrations|=|Demonstration (people)
 Demyelination|=|Demyelinating disease
+Dental hygienists|=|Dental hygienist
+Dental technicians|=|Dental technician
 Dentists|=|Dentist
 Denver (Colo.)|=|Denver
 Dependence (Statistics)|->|Correlation and dependence
@@ -1139,6 +1154,7 @@ Earthworks (Archaeology)|=|Earthwork (archaeology)
 Earthworms|=|Earthworm
 East and West|=|East–West dichotomy
 East Indians|=|Indian people
+Eastern churches|<->|Eastern Christianity
 Ecclesiastical law|->|Canon law
 Eclipses|=|Eclipse
 Ecloga|->|Byzantine law
@@ -1175,6 +1191,7 @@ Electrical engineers|->|Electrical engineering
 Electric automobiles|=|Electric car
 Electric batteries|=|Battery (electricity)
 Electric fields|=|Electric field
+Electric generators|=|Electric generator
 Electric lighting|<->|Electric light
 Electric machinery|=|Electric machine
 Electric power production|=|Electricity generation
@@ -1216,6 +1233,7 @@ Endangered plants|->|Endangered species
 Endocrine glands|=|Endocrine gland
 Endowments|<->|Financial endowment
 Endurance (Ship)|=|Endurance (1912 ship)
+Energy conversion|=|Energy transformation
 Engineering design|<->|Engineering design process
 Engineering economy|=|Engineering economics
 Engineers|=|Engineer
@@ -1310,6 +1328,7 @@ Extinction (Biology)|=|Extinction
 Extrajudicial executions|=|Extrajudicial killing
 Extrasolar planets|=|Extrasolar planet
 Extraterrestrial beings|->|Extraterrestrial life
+Extremists|->|Extremism
 Exxon Corporation|->|ExxonMobil
 Exxon Mobil Corporation|=|ExxonMobil
 Eyeglasses|=|Glasses
@@ -1379,6 +1398,7 @@ Film remakes|<->|Remakes
 Finance, Public|=|Public finance
 Financial crises|=|Financial crisis
 Financial institutions|=|Financial institution
+Financial planners|=|Financial planner
 Financial services industry|<->|Financial services
 Financial statements|=|Financial statement
 Finches|=|Finch
@@ -1401,6 +1421,7 @@ Fishers|=|Fisherman
 Fishery management|=|Fisheries management
 Fishes|=|Fish
 Fishing boats|=|Fishing vessel
+Flat panel displays|=|Flat panel display
 Flies|=|Fly
 Flight simulators|=|Flight simulator
 Floods|=|Flood
@@ -1416,6 +1437,7 @@ Folk singers|->|Folk music
 Folk songs|->|Folk music
 Folklorists|<->|Folkloristics
 Food -- Preservation|=|Food preservation
+Food and Agriculture Organization of the United Nations|=|Food and Agriculture Organization
 Food conservation|->|Food preservation
 Food consumption|<->|Eating
 Food contamination|<->|Food contaminant
@@ -1426,6 +1448,7 @@ Food preferences|->|Food choice
 Food stamps|->|Supplemental Nutrition Assistance Program
 Food supply|->|Food security
 Foodborne diseases|=|Foodborne illness
+Football players|=|Football player
 Forced labor|<->|Unfree labour
 Foreign correspondents|->|Correspondent
 Foreign workers|=|Foreign worker
@@ -1443,6 +1466,7 @@ Fossils|=|Fossil
 Foster home care|<->|Foster care
 Foundations|=|Foundation (engineering)
 Founding|<->|Casting (metalworking)
+Foundlings|->|Child abandonment
 Four Corners Region|=|Four Corners
 Fourier transformations|=|Fourier transform
 Fourth of July|=|Independence Day (United States)
@@ -1484,6 +1508,7 @@ Functional programming (Computer science)|=|Functional programming
 Functional programming languages|->|Functional programming
 Functional representation|->|Representation (politics)
 Functions|=|Function
+Functions of several complex variables|<->|Several complex variables
 Fungi|=|Fungus
 Furnaces|=|Furnace
 Fur traders|->|Fur trade
@@ -1496,6 +1521,7 @@ F.W. Woolworth Company|=|F. W. Woolworth Company
 Gabrielino Indians|=|Tongva people
 Gabrielino language|=|Tongva language
 Galicia (Spain : Region)|=|Galicia (Spain)
+Galleria degli Uffizi|=|Uffizi
 Galliard (Dance)|<->|Galliard
 Galliards|->|Galliard
 Gambia|=|The Gambia
@@ -1548,6 +1574,7 @@ Geomagnetism|=|Earth's magnetic field
 George C. Marshall Space Flight Center|=|Marshall Space Flight Center
 Georgia (Republic)|=|Georgia (country)
 German Americans|=|German American
+German Evangelical Synod of North America|->|Evangelical Synod of North America
 German poetry|->|German literature
 Germantown (Philadelphia, Pa.)|=|Germantown, Philadelphia
 Germany -- History -- 1933-1945|=|Nazi Germany
@@ -1612,6 +1639,7 @@ Great Lakes (North America)|=|Great Lakes
 Great Lakes Region (North America)|=|Great Lakes region
 Great powers|=|Great power
 Grebes|=|Grebe
+Greek Americans|=|Greek American
 Greek drama|<->|Theatre of ancient Greece
 Greek poetry|->|Greek literature
 Green cards|<->|Permanent residence (United States)
@@ -1627,6 +1655,7 @@ Growth factors|=|Growth factor
 Guelfs and Ghibellines|=|Guelphs and Ghibellines
 Guerrillas|->|Guerrilla warfare
 Guiana|<->|The Guianas
+Guided missiles|<->|Missile
 Guilds|=|Guild
 Guinea (Coin)|<->|Guinea (British coin)
 Guinea pigs|=|Guinea pig
@@ -1678,6 +1707,7 @@ Helminths|=|Parasitic worm
 Hematopoietic stem cells|=|Hematopoietic stem cell
 Hemorrhagic fever|<->|Viral hemorrhagic fever
 Herbals|=|Herbal
+Herbaria|=|Herbarium
 Herbs|=|Herb
 Hermetism|=|Hermeticism
 Hermits|=|Hermit
@@ -1693,6 +1723,7 @@ Hijacking of aircraft|=|Aircraft hijacking
 Himalaya Mountains|=|Himalayas
 Hindi language|=|Hindi
 Hindu civilization|<->|Vedic period
+Hindu ethics|->|Ethics in religion
 Hindu gods|=|Hindu deities
 Hindus|=|Hindu
 Hip-hop|=|Hip hop
@@ -1720,7 +1751,10 @@ Holy Year|<->|Jubilee (Christianity)
 Homeowners' associations|=|Homeowner association
 Home ownership|<->|Owner-occupier
 Home schooling|=|Homeschooling
+Homeless children|->|Homelessness
+Homeless youth|->|Homelessness
 Homestead law|<->|Homestead principle
+Homology theory|<->|Homology (mathematics)
 Homosexuality in the Bible|<->|The Bible and homosexuality
 Homotopy theory|<->|Homotopy
 Honeybee|=|Honey bee
@@ -1737,6 +1771,7 @@ Horsemanship|=|Equestrianism
 Horses|=|Horse
 Horse stealing|=|Horse theft
 Hospice care|<->|Hospice
+Hospital for Sick Children|=|The Hospital for Sick Children
 Hospitals|=|Hospital
 Hostages|=|Hostage
 Hot air balloons|=|Hot air balloon
@@ -1760,6 +1795,7 @@ Hudson River Valley (N.Y. and N.J.)|=|Hudson Valley
 Huguenots|=|Huguenot
 Human-animal relationships|<->|Anthrozoology
 Human beings|=|Human
+Human biology|->|Human
 Human chromosomes|->|Human genome
 Human engineering|<->|Human factors and ergonomics
 Humane Society of the Commonwealth of Massachusetts|=|Massachusetts Humane Society
@@ -1778,6 +1814,7 @@ Hurricanes|->|Tropical cyclone
 Husband and wife|->|Marriage
 Husbands|=|Husband
 Huts|=|Hut (dwelling)
+Hutterian Brethren|<->|Hutterite
 H.W. Wilson Company|=|H. W. Wilson Company
 Hybridization|=|Hybridisation
 Hydrocarbons|=|Hydrocarbon
@@ -1817,6 +1854,7 @@ Inca art|->|Prehistoric art
 Incas|<->|Inca Empire
 Incunabula|=|Incunable
 Independent contractors|=|Independent contractor
+Independent Feature Project|<->|Independent Filmmaker Project
 Independent insurance agents|<->|Insurance broker
 Independent Labor League of America|<->|Lovestoneites
 Independent Socialist League|->|Workers Party (United States)
@@ -1915,6 +1953,7 @@ Inventories|=|Inventory
 Inventors|->|Invention
 Inverse Galois theory|<->|Inverse Galois problem
 Invertebrates|=|Invertebrate
+Investigative reporting|=|Investigative journalism
 Investment analysis|->|Valuation (finance)
 Investments|<->|Investment
 Ion (Greek mythology)|=|Ion (mythology)
@@ -1967,7 +2006,9 @@ Jewish sailors|->|List of Jews in sports
 Jewish women|->|Women in Judaism
 Jig (Dance)|=|Jig
 Jiu-jitsu|=|Jiu jitsu
+Job stress|=|Occupational stress
 John F. Kennedy Space Center|=|Kennedy Space Center
+Joint Information Systems Committee|=|Jisc
 Joint ventures|=|Joint venture
 Jones family|<->|Jones (surname)
 Journalistic ethics|<->|Journalism ethics and standards
@@ -1981,6 +2022,7 @@ Jugglers|->|Juggling
 Jungian psychology|=|Analytical psychology
 Jungles|=|Jungle
 Jupiter (Planet)|=|Jupiter
+Justification (Law)|=|Justification (jurisprudence)
 Juvenile courts|=|Juvenile court
 Juvenile delinquents|->|Juvenile delinquency
 Juvenile detention|->|Youth detention center
@@ -1998,10 +2040,13 @@ Kent (England)|=|Kent
 Kestrels|=|Kestrel
 Keweenaw Bay Indian Community, Michigan|->|L'Anse Indian Reservation
 Keyboarding|->|Typing
+Kharijites|=|Khawarij
 Kickapoo Indians|=|Kickapoo people
 Kidneys|=|Kidney
 Kievan Rus|=|Kievan Rus'
 Kinetic theory of gases|=|Kinetic theory
+Kinetograph|->|Kinetoscope
+Kinetophone|->|Kinetoscope
 King Philip's War, 1675-1676|=|King Philip's War
 Kingdom of God|->|Kingship and kingdom of God
 Kiowa Indians|=|Kiowa people
@@ -2143,6 +2188,7 @@ Locksmithing|->|Lock (device)
 Locksmiths|->|Lock (device)
 Locomotive engineers|=|Railroad engineer
 Locomotives|=|Locomotive
+Lodgepole pine|<->|Pinus contorta
 Logarithms|=|Logarithm
 Log cabins|=|Log cabin
 Loggers|=|Lumberjack
@@ -2153,6 +2199,7 @@ London (England)|=|London
 Long Island (N.Y.)|=|Long Island
 Looms|=|Loom
 Loons|=|Loon
+Lord's Supper|<->|Eucharist
 Lorraine (France)|=|Lorraine (region)
 Los Angeles (Calif.)|=|Los Angeles
 Lost tribes of Israel|=|Ten Lost Tribes
@@ -2185,7 +2232,8 @@ Magic cubes|=|Magic cube
 Magicians|=|Magician
 Magic squares|=|Magic square
 Magic tricks|=|Magic (illusion)
-Magnetic amplifiers|->|Magnetic amplifier
+Magnetic amplifiers|=|Magnetic amplifier
+Magnetic bearings|=|Magnetic bearing
 Magnetic fields|=|Magnetic field
 Magpies|=|Magpie
 Mahayana Buddhism|=|Mahayana
@@ -2261,6 +2309,7 @@ Maya language|->|Mayan languages
 Mayas|=|Maya peoples
 Mayflower (Ship)|=|Mayflower
 Mayors|=|Mayor
+Mazdakism|->|Mazdak
 Measuring instruments|=|Measuring instrument
 Mechanical drawing|<->|Engineering drawing
 Mechanism (Philosophy)|<->|Mechanical philosophy
@@ -2303,6 +2352,7 @@ Mental discipline|->|Discipline
 Mental healing|->|Energy medicine
 Mental health services|=|Mental health service
 Mental illness|=|Mental disorder
+Mental retardation|<->|Intellectual disability
 Mentally ill|->|Mental disorder
 Menus|=|Menu
 Mercantile system|=|Mercantilism
@@ -2399,6 +2449,7 @@ Mithraism|=|Mithraic mysteries
 Mittens|->|Glove
 Mnemonics|=|Mnemonic
 Mobile robots|=|Mobile robot
+Modeling|<->|Physical model
 Modernist-fundamentalist controversy|=|Fundamentalist–Modernist Controversy
 Modern Language Association of America|=|Modern Language Association
 Modoc Indians|=|Modoc people
@@ -2729,6 +2780,7 @@ Pacific Coast (U.S.)|=|West Coast of the United States
 Pacific salmon|->|Salmon
 Pacifists|->|Pacifism
 Paddle steamers|=|Paddle steamer
+Paganism|<->|Pagan religions
 Painters|->|Painting
 Paiute Indians|=|Paiute people
 Palaces|=|Palace
@@ -2819,6 +2871,7 @@ Persian Gulf States|<->|Arab States of the Persian Gulf
 Persian Gulf syndrome|=|Gulf War syndrome
 Persian poetry|->|Persian literature
 Personal coaching|<->|Coaching
+Personals|=|Personal advertisement
 Personnel management|=|Human resource management
 Persons|=|Person
 Pesticides|=|Pesticide
@@ -2830,6 +2883,7 @@ Pharaohs|=|Pharaoh
 Pharmaceutical chemistry|<->|Medicinal chemistry
 Pharmaceutical technology|<->|Pharmaceutics
 Pharmacists|=|Pharmacist
+Pharmacopoeias|=|Pharmacopoeia
 Pharyngoesophageal sphincter|=|Upper esophageal sphincter
 Philadelphia (Pa.)|=|Philadelphia
 Philanthropists|<->|Philanthropy
@@ -2923,6 +2977,7 @@ Population transfers|=|Population transfer
 Portrait miniatures|=|Portrait miniature
 Portraits|=|Portrait
 Portuguese Americans|=|Portuguese American
+Postage stamps|=|Postage stamp
 Postal service|<->|Mail
 Posters|=|Poster
 Postsecondary education|->|Higher education
@@ -3017,6 +3072,7 @@ Proven&ccedil;al language|->|Occitan language
 Proven&ccedil;al literature|->|Occitan literature
 Proven&ccedil;al poetry|->|Occitan literature
 Provence (France)|=|Provence
+Proverbs|=|Proverb
 Prussia, East (Poland and Russia)|=|East Prussia
 Prussia (Germany)|=|Prussia
 Psalmody|->|Psalms
@@ -3169,6 +3225,7 @@ Research vessels|=|Research vessel
 Reservoirs|=|Reservoir
 Respect|<-|Deference
 Respiratory infections|=|Respiratory tract infection
+Respiratory organs|=|Respiratory system
 Restaurants|=|Restaurant
 Resuscitation|->|Cardiopulmonary resuscitation
 Retail trade|=|Retail
@@ -3213,6 +3270,7 @@ Round dancing|<->|Round dance
 Roundheads|=|Roundhead
 Rowing clubs|=|Rowing club
 Royal Greenwich Observatory|=|Royal Observatory, Greenwich
+Royal houses|=|Royal house
 Royalists|=|Royalist
 Rubber|<->|Natural rubber
 Rubies|=|Ruby
@@ -3365,6 +3423,8 @@ Shetland (Scotland)|=|Shetland
 Sh&imacr;&#x02bb;ah|=|Shia Islam
 Shiites|->|Shia Islam
 Shipbuilding industry|->|Shipbuilding
+Shipment of goods|<->|Freight transport
+Shipping|<->|Ship transport
 Ships|=|Ship
 Shipwrecks|=|Shipwreck
 Shock waves|=|Shock wave
@@ -3563,6 +3623,7 @@ Stockyards|<->|Stockyard
 Stoics|=|Stoicism
 Storage batteries|=|Rechargeable battery
 Storage tanks|=|Storage tank
+Storm sewers|=|Storm drain
 Storms|=|Storm
 Storytellers|=|Storyteller
 Stratford-upon-Avon (England)|=|Stratford-upon-Avon
@@ -3629,6 +3690,7 @@ Sword-dance|=|Sword dance
 Swordplay|<->|Swordsmanship
 Swords|=|Sword
 Swordsmen|->|Swordsmanship
+Sydney (N.S.W.)|=|Sydney
 Symbolism (Art movement)|=|Symbolism (arts)
 Symbolism in art|->|Symbolism (arts)
 Synagogues|=|Synagogue
@@ -3744,6 +3806,7 @@ Trading posts|=|Trading post
 Traditional farming|->|Agriculture
 Tradition (Philosophy)|->|Tradition
 Traffic accidents|=|Traffic collision
+Traffic fatalities|->|Traffic collision
 Traffic safety|=|Road traffic safety
 Trailers|=|Trailer (vehicle)
 Trails|=|Trail
@@ -3794,6 +3857,7 @@ Tuskegee Institute|->|Tuskegee University
 Tuskegee Normal and Industrial Institute|->|Tuskegee University
 Tweed Ring|->|William M. Tweed
 Twelve-step programs|=|Twelve-step program
+Twelve-tone system|<->|Twelve-tone technique
 Twentieth century|=|20th century
 Twenty-first century|=|21st century
 Twenty-second century|=|22nd century
@@ -4049,6 +4113,7 @@ Women -- History|=|Women's history
 Women -- Suffrage|=|Women's suffrage
 Women -- United States -- History|=|History of women in the United States
 Women in the Qur'an|=|Female figures in the Quran
+Women scientists|->|Women in science
 Wood-engraving|=|Wood engraving
 Wood products|->|Wood
 Woody plants|=|Woody plant
