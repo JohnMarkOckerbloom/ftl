@@ -2113,6 +2113,20 @@ STATE MI
 BASEURL http://mirlyn.lib.umich.edu
 CATTYPE vufindrc1
 
+ID OCLC-DUD
+NAME Duluth Public Library
+LOCATION Duluth
+STATE MN
+BASEURL http://catalog.duluth.lib.mn.us/polaris
+CATTYPE polaris
+
+ID OCLC-MHA
+NAME Hamline University
+LOCATION St. Paul
+STATE MN
+BASEURL http://hamline.worldcat.org/search
+CATTYPE worldcat
+
 ID OCLC-HCO
 NAME Hennepin County Library
 LOCATION Minneapolis and vicinity
@@ -2138,6 +2152,13 @@ BASEURL http://primo.lib.umn.edu/primo_library
 CATTYPE primo
 VID TWINCITIES
 DEFAULT DOMAIN
+
+ID OCLC-MNWUL
+NAME Walden University
+LOCATION Minneapolis-based online institution
+STATE MN
+BASEURL http://walden.kohalibrary.com
+CATTYPE koha
 
 ID OCLC-MJP
 NAME Jackson-Hinds Library System
