@@ -659,6 +659,13 @@ DEFAULT http://libweb.anglia.ac.uk/
 # BASEURL http://viewpoint.blackburn.gov.uk/
 # CATTYPE viewpoint
 
+ID OCLC-UKBHC
+NAME Brighton and Hove Libraries
+LOCATION Brighton and Hove, England
+COUNTRY UK
+CATTYPE spydus
+BASEURL http://brighton-hove.spydus.co.uk
+
 ID OCLC-UKBCC
 NAME Buckinghamshire County Libraries
 LOCATION Buckinghamshire, England
@@ -802,6 +809,20 @@ COUNTRY UK
 CATTYPE primo
 BASEURL http://libsearch.ncl.ac.uk/primo_library
 DEFAULT http://www.ncl.ac.uk/library/
+
+ID OCLC-UKNFK
+NAME Norfolk Libraries
+LOCATION Norfolk County, England
+COUNTRY UK
+BASEURL http://norlink.norfolk.gov.uk/
+CATTYPE viewpoint
+
+ID OCLC-UKBRW
+NAME Rochdale Libraries
+LOCATION Rochdale Metropolitan Borough, England
+COUNTRY UK
+CATTYPE spydus
+BASEURL http://rochdale.spydus.co.uk
 
 ID OCLC-FDN
 NAME Senate House Libraries, University of London
@@ -1102,6 +1123,13 @@ CATTYPE ipac20
 PROFILE fhq
 AINDEX .AW
 TINDEX ALLTITL
+
+ID OCLC-HN-SHARP
+NAME Holy Names University
+LOCATION Oakland
+STATE CA
+BASEURL http://hnulibrary.worldcat.org/search
+CATTYPE worldcat
 
 ID LINKPLUS
 NAME LINK+ Union Catalog
