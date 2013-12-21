@@ -21,6 +21,9 @@ while (my $line = <IN>) {
   chop $line;
   if ($line =~ /(.*)\|(.*)\|(.*)/) {
     my ($lc, $sign, $wiki) = ($1, $2, $3);
+    if ($lc =~ /^\s/ || $lc =~ /\s$/ || $wiki =~ /^\s/ || $wiki =~ /\s$/) {
+     print STDERR "Extra spaces: $line\n";
+    }
     if ($sign eq "" || $sign eq "->" || $sign eq '=' || $sign eq "<->") {
       $unassignedcount++ if (!$sign);
       if ($lcwowiki{$lc}) {

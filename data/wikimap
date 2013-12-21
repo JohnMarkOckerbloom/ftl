@@ -8,7 +8,7 @@
 #   or lexical analysis (such as many geographical locations)
 #   are not included in this file.
 # See docs file for documentation
-# Last updated 2013-12-15
+# Last updated 2013-12-21
 #
 4-H clubs|<->|4-H
 A-10 (Jet attack plane)|=|Fairchild Republic A-10 Thunderbolt II
@@ -25,10 +25,6 @@ Abelian categories|=|Abelian category
 Abenaki Indians|=|Abenaki people
 Aberdeen (Scotland)|=|Aberdeen
 Ability grouping in education|->|Tracking (education)
-Antietam Creek (Pa. and Md.)|=|Antietam Creek
-Antigenic determinants|=|Epitope
-Antigone (Greek mythology)|=|Antigone
-Antislavery movements|<->|Abolitionism
 Abolitionists|->|Abolitionism
 Abortifacients|=|Abortifacient
 Abortion counseling|->|Pregnancy options counseling
@@ -66,6 +62,7 @@ Advaita|<->|Advaita Vedanta
 Advance fee fraud|<->|Nigerian scam
 Adventists|<->|Adventism
 Adventure stories|<->|Adventure fiction
+Aeneas (Legendary character)|=|Aeneas
 Aerospace engineers|->|Aerospace engineering
 Afghan War, 2001-|=|War in Afghanistan (2001–present)
 Afghan Wars|=|Anglo-Afghan War
@@ -94,6 +91,7 @@ Agency (Law)|=|Law of agency
 Agent (Philosophy)|<->|Agency (philosophy)
 Aggada|=|Aggadah
 Aggressiveness|=|Aggression
+Agincourt, Battle of, Agincourt, France, 1415|=|Battle of Agincourt
 Aging|=|Ageing
 Agora (Athens, Greece)|<->|Ancient Agora of Athens
 Agricultural biotechnology|<->|Agricultural science
@@ -176,6 +174,7 @@ American loyalists|=|Loyalist (American Revolution)
 American National Red Cross|->|American Red Cross
 American newspapers|=|Newspapers in the United States
 American Party|<->|Know Nothing
+American Revolution Bicentennial, 1976|<->|United States Bicentennial
 American Society for Information Science and Technology|<->|Association for Information Science and Technology
 American Society of Agricultural Engineers|->|American Society of Agricultural and Biological Engineers
 American Sunday School Union|->|American Missionary Fellowship
@@ -190,6 +189,7 @@ Amur River (China and Russia)|=|Amur River
 Amusement parks|=|Amusement park
 Amusements|<->|Entertainment
 Anabaptists|=|Anabaptist
+Anansi (Legendary character)|<->|Anansi
 Anarchists|->|Anarchism
 Anatomy, Comparative|=|Comparative anatomy
 Ancestor worship|<->|Veneration of the dead
@@ -222,15 +222,19 @@ Anthems|=|Anthem
 Anthropologists|->|Anthropology
 Antibactrerial agents|=|Antibacterial
 Antibiotics|->|Antibacterial
+Antietam Creek (Pa. and Md.)|=|Antietam Creek
 Antietam National Battlefield (Md.)|=|Antietam National Battlefield
 Antietam National Cemetery|->|Antietam National Battlefield
+Antigenic determinants|=|Epitope
 Antigens|=|Antigen
+Antigone (Greek mythology)|=|Antigone
 Antiheroes|=|Antihero
 Antilles, Lesser|=|Lesser Antilles
 Anti-Nazi movement|<->|German Resistance to Nazism
 Antinuclear movement|=|Anti-nuclear movement
 Antipsychiatry|=|Anti-psychiatry
 Antiquarians|=|Antiquarian
+Antislavery movements|<->|Abolitionism
 Antitrust law|<->|Competition law
 Antiviral agents|=|Antiviral drug
 Ants|=|Ant
@@ -270,16 +274,31 @@ Archives|=|Archive
 Arctic regions|=|Arctic
 Argonauts (Greek mythology)|=|Argonauts
 Arid regions agriculture|<->|Dryland farming
+Armada, 1588|=|Spanish Armada
 Armenian Church|=|Armenian Apostolic Church
 Armenia (Republic)|=|Armenia
 Armies|=|Army
 Armor|=|Armour
 Aromaticity (Chemistry)|=|Aromaticity
 Aromatic compounds|->|Aromaticity
+Art -- Study and teaching|=|Art education
+Art, Abstract|=|Abstract art
+Art, Aegean|=|Aegean art
+Art, African|<->|African art
 Art, American|<->|Visual art of the United States
+Art, Ancient|=|Ancient art
+Art, Belgian|<->|Art of Belgium
+Art, British|<->|Art of the United Kingdom
+Art, Byzantine|=|Byzantine art
+Art, Canadian|=|Canadian art
 Art dealers|=|Art dealer
 Art historians|->|Art history
+Art, Medieval|=|Medieval art
+Art, Modern|=|Modern art
+Art museums|=|Art museum
+Art objects|=|Work of art
 Art, Prehistoric|=|Prehistoric art
+Art teachers|->|Art education
 Art thefts|=|Art theft
 Art thieves|->|Art theft
 Artemis (Greek deity)|=|Artemis
@@ -290,15 +309,12 @@ Artisans|=|Artisan
 Artists|=|Artist
 Artists' books|=|Artist's book
 Artists' models|=|Model (art)
-Art -- Study and teaching|=|Art education
-Art, Modern|=|Modern art
-Art museums|=|Art museum
-Art objects|=|Work of art
-Art teachers|->|Art education
 Arts, Baroque|=|Baroque
 A. S. Barnes &amp; Co.|->|Alfred Smith Barnes
 Asbestos fibers|->|Asbestos
 Ascension Island (Atlantic Ocean)|=|Ascension Island
+Ashanti (African people)|=|Ashanti people
+Ashanti War, 1900|=|War of the Golden Stool
 Asia, Central|=|Central Asia
 Asian Americans|=|Asian American
 Asiatic Russia|=|North Asia
@@ -337,6 +353,7 @@ Atoms|=|Atom
 ATP-binding cassette transporters|=|ATP-binding cassette transporter
 Atrocities|=|Atrocity
 Attention-deficit hyperactivity disorder|=|Attention deficit hyperactivity disorder
+Attu, Battle of, Alaska, 1943|=|Battle of Attu
 Auctions|=|Auction
 Auditing|=|Audit
 Auditors|->|Audit
@@ -367,12 +384,14 @@ Avarice|=|Greed
 Awards|=|Award
 Axiomatic set theory|->|Set theory
 Azanian People's Organization|=|Azanian People's Organisation
+Aztec Ruins National Monument (N.M.)|=|Aztec Ruins National Monument
 Aztecs|=|Aztec
 B-52 bomber|=|Boeing B-52 Stratofortress
 Baby boom generation|=|Baby boomer
 Baccalaureate addresses|=|Commencement speech
 Bacchantes|=|Maenad
 Bachelors|=|Bachelor
+Bacon's Rebellion, 1676|=|Bacon's Rebellion
 Bacterial diseases|->|Pathogenic bacteria
 Baculoviruses|=|Baculovirus
 Baghdad (Iraq)|=|Baghdad
@@ -382,6 +401,7 @@ Bahamas|=|The Bahamas
 Baja California (Mexico : Peninsula)|=|Baja California peninsula
 Bakhtiari (Iranian people)|=|Bakhtiari
 Balkan Peninsula|=|Balkans
+Ball's Bluff, Battle of, Va., 1861|=|Battle of Ball's Bluff
 Ballads|=|Ballad
 Balloons|=|Balloon
 Ballroom dancing|=|Ballroom dance
@@ -391,6 +411,7 @@ Baltimore (Md.)|=|Baltimore
 Baluchistan|=|Balochistan
 Banach spaces|=|Banach space
 Bananas|=|Banana
+Bandelier National Monument (N.M.)|=|Bandelier National Monument
 Banff National Park (Alta.)|=|Banff National Park
 Bankers|->|Bank
 Bank failures|=|Bank failure
@@ -410,6 +431,7 @@ Basques|=|Basque people
 Bas-relief|->|Relief
 BASIC (Computer program language)|=|Basic
 Bat mitzvah|->|Bar and Bat Mitzvah
+Bataan Death March, Philippines, 1942|=|Bataan Death March
 Bath (England)|=|Bath, Somerset
 Baths|<->|Bathing
 Bats|=|Bat
@@ -417,6 +439,7 @@ Battle cruisers|=|Battlecruiser
 Battles|=|Battle
 Battleships|=|Battleship
 Bavaria (Germany)|=|Bavaria
+Bayesian statistical decision theory|<->|Bayesian statistics
 Bayonets|=|Bayonet
 Bayous|=|Bayou
 Beaches|=|Beach
@@ -425,6 +448,8 @@ Bears|=|Bear
 Beast of the Apocalypse|=|The beast (Revelation)
 Beauty culture|<->|Cosmetology
 Beauty shops|=|Beauty salon
+Beaver Dams, Battle of, Beaver Dams, Ont., 1813|=|Battle of Beaver Dams
+Beaver Island (Mich.)|=|Beaver Island (Lake Michigan)
 Beavers|=|Beaver
 Bedouins|=|Bedouin
 Bee culture|=|Beekeeping
@@ -437,6 +462,8 @@ Behavior therapy|=|Behaviour therapy
 Beijing (China)|=|Beijing
 Beijing (China) -- History -- Siege, 1900|=|Siege of the International Legations
 Bekennende Kirche|=|Confessing Church
+Belfast (Northern Ireland)|=|Belfast
+Belfast (Northern Ireland) -- History|=|History of Belfast
 Bell founding|=|Bellfounding
 Bell Telephone Laboratories|<->|Bell Labs
 Belligerency|<->|Belligerent
@@ -445,6 +472,8 @@ Benedictine nuns|->|Order of Saint Benedict
 Benedictines|=|Order of Saint Benedict
 Benefactors|<->|Benefactor (law)
 Bengal (India)|->|Bengal
+Beothuk Indians|=|Beothuk people
+Beowulf (Legendary character)|=|Beowulf (hero)
 Berbers|=|Berber people
 Bereavement|->|Grief
 Bergen (Norway)|=|Bergen
@@ -466,12 +495,15 @@ Bible -- Prophecies|=|Bible prophecy
 Bible and science|=|Science and the Bible
 Bible. Psalms|=|Psalms
 Bible stories|=|Bible story
+Bibliographical citations|<->|Citation
 Biblioteca apostolica vaticana|=|Vatican Library
 Bicycles|=|Bicycle
 Biddle University|->|Johnson C. Smith University
 Big bang theory|<->|Big Bang
 Big game fishing|=|Big-game fishing
 Big game hunting|=|Big-game hunting
+Big Hole, Battle of the, Mont., 1877|=|Battle of the Big Hole
+Big Hole National Battlefield (Mont.)|=|Big Hole National Battlefield
 Bihar (India)|=|Bihar
 Bilingualism|->|Multilingualism
 Billionaires|=|Billionaire
@@ -520,6 +552,7 @@ Blood group antigens|<->|Human blood group systems
 Blood groups|=|Blood type
 Blood platelets|=|Platelet
 Blood products|=|Blood product
+Bloody Sunday, Derry, Northern Ireland, 1972|=|Bloody Sunday (1972)
 Blues (Music)|=|Blues
 Boardinghouses|=|Boarding house
 Boarding schools|=|Boarding school
@@ -550,20 +583,27 @@ Bosnia and Hercegovina|=|Bosnia and Herzegovina
 Boston (Mass.)|=|Boston
 Boston (Mass.) -- History|=|History of Boston
 Boston Massacre, 1770|=|Boston Massacre
+Boston National Historical Park (Boston, Mass.)|=|Boston National Historical Park
 Boston Tea Party, Boston, Mass., 1773|=|Boston Tea Party
 Botanists|=|List of botanists
 Botany Bay (N.S.W.)|=|Botany Bay
+Bothwell Bridge, Battle of, Scotland, 1679|=|Battle of Bothwell Bridge
 Bottles|=|Bottle
+Bougainville Island (Papua New Guinea)|=|Bougainville Island
 Boundaries|=|Boundary
 Bounty Mutiny, 1789|=|Mutiny on the Bounty
 Bounty (Ship)|=|HMS Bounty
 Boycotts|=|Boycott
 Boyle family|<->|Boyle
 Boys|=|Boy
+BP Deepwater Horizon Explosion and Oil Spill, 2010|<->|Deepwater Horizon explosion
+BP Deepwater Horizon Explosion and Oil Spill, 2010|<-|Deepwater Horizon oil spill
+Braddock's Campaign, 1755|=|Braddock Expedition
 Brahmanism|<->|Historical Vedic religion
 Brainwashing|=|Mind control
 Brewing industry|->|Brewing
 Bridegrooms|=|Groom
+Briseis (Legendary character)|=|Briseis
 Bristol (England)|=|Bristol
 British Americans|=|British American
 British Association for the Advancement of Science|->|British Science Association
@@ -581,6 +621,7 @@ Brothers of the Common Life|=|Brethren of the Common Life
 Brothers|->|Sibling
 Brothers and sisters|=|Sibling
 Brown family|<->|Brown (surname)
+Brown, Father (Fictitious character)|=|Father Brown
 Brown's Park|=|Browns Park
 Brownists|=|Brownist
 Bubbles|=|Bubble
@@ -642,6 +683,7 @@ Callisto (Greek mythology)|=|Callisto (mythology)
 Calypso (Greek mythology)|=|Calypso (mythology)
 Calypso (Music)|=|Calypso music
 Cambridge (England)|=|Cambridge
+Camden, Battle of, Camden, S.C., 1780|=|Battle of Camden
 Camp Fire, inc.|=|Camp Fire
 Camp Fire Girls|->|Camp Fire
 Camp meetings|=|Camp meeting
@@ -719,9 +761,11 @@ Cattle drives|=|Cattle drive
 Caucasus, Northern (Russia)|=|North Caucasus
 Caves|=|Cave
 Cayuga Indians|=|Cayuga people
+Cedar Creek, Battle of, Va., 1864|=|Battle of Cedar Creek
 Celebrities|=|Celebrity
 Celiac disease|=|Coeliac disease
 Cell nuclei|=|Cell nucleus
+Cellamare Conspiracy, 1718|=|Cellamare Conspiracy
 Cells|=|Cell (biology)
 Cellular automata|=|Cellular automaton
 Cemeteries|=|Cemetery
@@ -736,9 +780,13 @@ Cervix uteri|=|Cervix
 C&eacute;vennes Mountains (France)|=|Cévennes
 Cesium|=|Caesium
 Ceylon|->|Sri Lanka
+CGI (Computer network protocol)|=|Common Gateway Interface
 Chain stores|=|Chain store
 Chairs|=|Chair
+Challenger, Professor (Fictitious character)|=|Professor Challenger
 Champlain, Lake|=|Lake Champlain
+Chan, Charlie (Fictitious character)|=|Charlie Chan
+Chancellorsville, Battle of, Chancellorsville, Va., 1863|=|Battle of Chancellorsville
 Channeling (Spiritualism)|->|Mediumship
 Chanson de Roland|=|The Song of Roland
 Chansons de geste|=|Chanson de geste
@@ -749,6 +797,7 @@ Chapels|=|Chapel
 Charities|<->|Charitable organization
 Charity organization|->|Charitable organization
 Charms|<->|Charm
+Charon (Satellite)|=|Charon (moon)
 Charter Oak (Hartford, Conn.)|=|Charter Oak
 Charter schools|=|Charter school
 Chautauquas|=|Chautauqua
@@ -776,6 +825,7 @@ Chiapas (Mexico)|=|Chiapas
 Chicago and North Western Railway Company|->|Chicago and North Western Transportation Company
 Chicago (Ill.)|=|Chicago
 Chicago (Ill.) -- History|=|History of Chicago
+Chickamauga, Battle of, Ga., 1863|=|Battle of Chickamauga
 Chickens|=|Chicken
 Chignecto Isthmus (N.B. and N.S.)|=|Isthmus of Chignecto
 Child actors|=|Child actor
@@ -822,6 +872,7 @@ Christians|=|Christian
 Christmas stories|->|Christmas
 Chromosomes|=|Chromosome
 Chronic diseases|<->|Chronic (medicine)
+Chrysler's Farm, Battle of, Ont., 1813|=|Battle of Crysler's Farm
 Church buildings|=|Church (building)
 Church calendar|->|Liturgical year
 Church lands|->|Dissolution of the Monasteries
@@ -841,14 +892,16 @@ Circassians|<->|Adyghe people
 Circle-squaring|=|Squaring the circle
 Circuit riders|=|Circuit rider
 Cirripedia|->|Barnacle
+Citation of legal authorities|<->|Legal citation
 Citizens' Councils of America|<->|White Citizens' Council
 City planning|=|Urban planning
 Civil engineers|=|Civil engineer
-Civilization, Modern|->|Modern history
 Civil rights|<->|Civil and political rights
 Civil rights|<-|Civil liberties
 Civil rights movements|=|Movements for civil rights
+Civil supremacy over the military|<->|Civilian control of the military
 Civil War Preservation Trust|<->|Civil War Trust
+Civilization, Modern|->|Modern history
 Clairvoyants|->|Clairvoyance
 Clans|=|Clan
 Classical geography|->|History of geography
@@ -1020,6 +1073,7 @@ Copyright -- Canada|<->|Copyright law of Canada
 Copyright -- Great Britain|<->|Copyright law of the United Kingdom
 Copyright -- United States|<->|Copyright law of the United States
 Corals|=|Coral
+Corbett, Tom (Fictitious character)|<->|Tom Corbett, Space Cadet
 Corinth (Greece)|=|Corinth
 Corn|=|Maize
 Cornwall (England : County)|=|Cornwall
@@ -1057,6 +1111,7 @@ Cover crops|=|Cover crop
 Cowbirds|=|Cowbird
 Cowboys|=|Cowboy
 Cowles Commission for Research in Economics|<->|Cowles Foundation
+Cowpens, Battle of, Cowpens, S.C., 1781|=|Battle of Cowpens
 CPR (First aid)|=|Cardiopulmonary resuscitation
 Cranial fossa, Posterior|=|Posterior cranial fossa
 Craniology|->|Anthropometry
@@ -1102,7 +1157,9 @@ Crustacea|=|Crustacean
 Crystals|=|Crystal
 Cuban Americans|=|Cuban American
 Cuban Missile Crisis, 1962|=|Cuban missile crisis
+Cuchulain (Legendary character)|=|Cú Chulainn
 Cuckoos|=|Cuckoo
+Culloden, Battle of, Scotland, 1746|=|Battle of Culloden
 Cultural industries|=|Cultural industry
 Cultural landscapes|=|Cultural landscape
 Culture conflict|<->|Culture war
@@ -1160,6 +1217,7 @@ Decision making|=|Decision-making
 Decomposition (Mathematics)|->|Decomposition (disambiguation)
 Defloration|->|Virginity
 Deglutition|=|Swallowing
+Dejah Thoris (Fictitious character)|=|Dejah Thoris
 Delaware Bay (Del. and N.J.)|=|Delaware Bay
 Delaware Indians|=|Lenape
 Delaware language|=|Delaware languages
@@ -1189,6 +1247,7 @@ Designers|=|Designer
 Desserts|=|Dessert
 Detectives|=|Detective
 Detectors|=|Sensor
+Detention of persons|<->|Detention (imprisonment)
 Determinants|=|Determinant
 Determinism (Philosophy)|=|Determinism
 Deterrence (Strategy)|<->|Deterrence theory
@@ -1202,6 +1261,7 @@ Devotional literature|<->|Christian devotional literature
 DEW Line|=|Distant Early Warning Line
 Diabetes|=|Diabetes mellitus
 Diagnostic imaging|<->|Medical imaging
+Diamond Necklace Affair, France, 1785|<->|Affair of the Diamond Necklace
 Diamonds|=|Diamond
 Diaries|=|Diary
 Diarists|->|Diary
@@ -1236,6 +1296,7 @@ Diseases|=|Disease
 Disinheritance|->|Inheritance
 Dispute resolution (Law)|<->|Dispute resolution
 Dissenters|=|Dissenter
+Dissertations, Academic|<->|Thesis
 Dissociative disorders|=|Dissociative disorder
 District courts|=|District court
 Diversity in the workplace|=|Diversity (business)
@@ -1253,6 +1314,7 @@ Domestic animals|<->|List of domesticated animals
 Domestic terrorism|<->|Homegrown terrorism
 Dominicans|=|Dominican Order
 Dominican sisters|->|Dominican Order
+Don Juan (Legendary character)|=|Don Juan
 Donkeys|=|Donkey
 Dorchester (Boston, Mass.)|=|Dorchester, Boston
 Dormitories|=|Dormitory
@@ -1289,6 +1351,7 @@ Dude ranches|=|Guest ranch
 Dueling|<->|Duel
 Due process of law|=|Due process
 Dumplings|=|Dumpling
+Dunk Island (Qld.)|=|Dunk Island
 Dunmow flitch|->|Great Dunmow
 Dust devils|=|Dust devil
 Dutch Americans|=|Dutch American
@@ -1311,6 +1374,7 @@ East Indians|=|Indian people
 East Saint Louis Race Riot, East Saint Louis, Ill., 1917|<->|East St. Louis Riot
 East (U.S.)|=|Eastern United States
 Eastern churches|<->|Eastern Christianity
+Eastern Townships (Qu&eacute;bec)|=|Eastern Townships
 Ecclesiastical law|->|Canon law
 Echo (Greek mythology)|=|Echo (mythology)
 Eclipses|=|Eclipse
@@ -1438,6 +1502,7 @@ Equilibrium (Economics)|=|Economic equilibrium
 Erie, Lake|=|Lake Erie
 Erie Railroad Company|=|Erie Railroad
 Erie Railway|->|Erie Railroad
+Erinyes (Greek mythology)|=|Erinyes
 Ernst-Moritz-Arndt-Universit&auml;t Greifswald|=|University of Greifswald
 Errors|=|Error
 Escapes|<->|Prison escape
@@ -1448,6 +1513,7 @@ Eskimos|=|Eskimo
 Esophagogastric junction|->|Cardia
 Essays|->|Essay
 Estrildidae|=|Estrildid finch
+Eteocles (Greek mythology)|=|Eteocles
 Ethical culture movement|=|Ethical movement
 Ethical relativism|=|Moral relativism
 Ethnic groups|=|Ethnic group
@@ -1466,6 +1532,7 @@ Europe, Central|=|Central Europe
 Europe, Eastern|=|Eastern Europe
 Europe, Northern|=|Northern Europe
 Europe, Southern|=|Southern Europe
+Eutaw Springs, Battle of, S.C., 1781|=|Battle of Eutaw Springs
 Evolutionary genetics|->|Modern evolutionary synthesis
 Evolution|<->|Evolution (term)
 Evolution (Biology)|=|Evolution
@@ -1499,6 +1566,7 @@ Expressionism in literature|->|Expressionism
 Expressionism (Music)|=|Expressionist music
 Exterritoriality|=|Extraterritoriality
 Extinct animals|<->|Lists of extinct animals
+Extinct cities|<->|Lost city
 Extinction (Biology)|=|Extinction
 Extrajudicial executions|=|Extrajudicial killing
 Extrasolar planets|=|Exoplanet
@@ -1519,6 +1587,7 @@ Faith and reason|<->|Faith and rationality
 Faithists|->|Oahspe: A New Bible
 Fallout shelters|=|Fallout shelter
 False testimony|->|Perjury
+Falstaff, John, Sir (Fictitious character)|=|Falstaff
 Families|=|Family
 Family counseling|->|Family therapy
 Family farms|=|Family farm
@@ -1531,6 +1600,7 @@ Famines|=|Famine
 Fantasy fiction|=|Fantasy
 Fantasy films|=|Fantasy film
 Fantasy games|<->|Role-playing game
+Fant&ocirc;mas (Fictitious character)|=|Fantômas
 Farm equipment|->|Agricultural machinery
 Farmer-Labor Party|=|Farmer–Labor Party (United States)
 Farmers|=|Farmer
@@ -1587,6 +1657,7 @@ Finches|=|Finch
 Finger Lakes (N.Y.)|=|Finger Lakes
 Fingerprints|=|Fingerprint
 Fingers|=|Finger
+Finn, Huckleberry (Fictitious character)|=|Huckleberry Finn
 Finno-Ugrians|=|Finno-Ugric peoples
 Firearms|=|Firearm
 Fire departments|=|Fire department
@@ -1611,6 +1682,7 @@ Flight simulators|=|Flight simulator
 Flodden, Battle of, England, 1513|=|Battle of Flodden
 Floods|=|Flood
 Florence (Italy)|=|Florence
+Flores, Battle of, Azores, 1591|=|Battle of Flores (1591)
 Florida -- History -- To 1821|<->|Spanish Florida
 Flowers|=|Flower
 Fluids|=|Fluid
@@ -1622,6 +1694,9 @@ Folk poetry|<->|Ethnopoetics
 Folk singers|->|Folk music
 Folk songs|->|Folk music
 Folklorists|<->|Folkloristics
+Follies (Architecture)|=|Folly
+Fontenoy, Battle of, Fontenoy, Hainaut, Belgium, 1745|=|Battle of Fontenoy
+Fontenoy, Battle of, Fontenoy-en-Puisaye, France, 841|=|Battle of Fontenoy (841)
 Food -- Preservation|=|Food preservation
 Food and Agriculture Organization of the United Nations|=|Food and Agriculture Organization
 Food conservation|->|Food preservation
@@ -1643,11 +1718,15 @@ Forensic genetics|->|DNA profiling
 Forest fires|->|Wildfire
 Forest rangers|->|Park ranger
 Forest reserves|->|Forest protection
+Forests and forestry|<->|Forest
+Forests and forestry|<-|Forestry
 Forfeiture|=|Forfeiture (law)
 Forgiveness of sin|->|Forgiveness
 Formal languages|=|Formal language
 Former Soviet republics|=|Post-Soviet states
 Form (Philosophy)|<->|Substantial form
+Fort Pillow, Battle of, Tenn., 1864|=|Battle of Fort Pillow
+Fort Sumter (Charleston, S.C.)|=|Fort Sumter
 FORTH (Computer program language)|=|Forth (programming language)
 FORTRAN (Computer program language)|=|Fortran
 Fossils|=|Fossil
@@ -1671,10 +1750,12 @@ Frankenstein, Victor (Fictitious character)|=|Victor Frankenstein
 Frankenstein's monster (Fictitious character)|=|Frankenstein's monster
 Frankfurt am Main (Germany)|=|Frankfurt
 Frankfurter Buchmesse|=|Frankfurt Book Fair
+Franklin, Battle of, Franklin, Tenn., 1864|=|Battle of Franklin (1864)
 Fraternal organizations|<->|List of general fraternities
 Freak shows|=|Freak show
 Freddie Mac (Firm)|=|Freddie Mac
 Free computer software|=|Free software
+Free Software Foundation (Cambridge, Mass.)|=|Free Software Foundation
 Freedmen|=|Freedman
 Freedom of expression|->|Freedom of speech
 Free enterprise|<->|Free market
@@ -1690,6 +1771,7 @@ Frigates|=|Frigate
 Fringillidae|->|Finch
 Frogs|=|Frog
 Fruit of the Spirit|=|Fruit of the Holy Spirit
+Fu Manchu, Doctor (Fictitious character)|=|Fu Manchu
 Fuel cells|=|Fuel cell
 Fugitive slaves|=|Fugitive slave
 Fukushima Nuclear Disaster, Japan, 2011|=|Fukushima Daiichi nuclear disaster
@@ -1736,6 +1818,7 @@ Gases, Rare|<->|Noble gas
 Gastrointestinal system|<->|Human gastrointestinal tract
 Gas turbines|=|Gas turbine
 Gatling guns|=|Gatling gun
+Gawain (Legendary character)|=|Gawain
 Gay and lesbian studies|<->|Queer studies
 Gay community|<->|LGBT community
 Gay liberation movement|=|Gay liberation
@@ -1810,6 +1893,7 @@ GNU Emacs|<->|Emacs
 Goblins|=|Goblin
 God -- Kingship|<->|Kingship and kingdom of God
 God (Christianity)|=|God in Christianity
+God (Hinduism)|=|God in Hinduism
 Goddesses|=|Goddess
 God (Islam)|=|God in Islam
 Gods|=|Deity
@@ -1818,6 +1902,7 @@ Golfers|<->|Lists of golfers
 Goliad Massacre, Goliad, Tex., 1836|=|Goliad massacre
 Goliards|=|Goliard
 Gonzaga family|<->|Gonzaga
+Gordon Riots, 1780|=|Gordon Riots
 Governesses|=|Governess
 Government business enterprises|->|Government-owned corporation
 Government contractors|=|Government contractor
@@ -1830,15 +1915,19 @@ Grace (Theology)|=|Divine grace
 Grail|=|Holy Grail
 Grain elevators|=|Grain elevator
 Grand Canyon (Ariz.)|=|Grand Canyon
+Grand Canyon National Park (Ariz.)|=|Grand Canyon National Park
+Grand unified theories (Nuclear physics)|<->|Grand Unified Theory
 Grandfathers|->|Grandparent
 Grandmothers|->|Grandparent
 Grandparents|=|Grandparent
 Grants-in-aid|=|Grant-in-aid
+Graphical user interfaces (Computer systems)|=|Graphical user interface
 Grasses|=|Poaceae
 Grasshoppers|=|Grasshopper
 Grasslands|=|Grassland
 Gravity|=|Gravitation
 Great Australian Bight (W.A. and S. Aust.)|=|Great Australian Bight
+Great Barrier Reef (Qld.)|=|Great Barrier Reef
 Great Britain. Admiralty|=|Admiralty
 Great Britain -- Colonies|<->|British Empire
 Great Britain -- History|<->|History of the British Isles
@@ -1878,6 +1967,7 @@ Gr&ouml;bner bases|=|Gröbner basis
 Groceries|->|Grocery store
 Grocery trade|<->|Grocery store
 Group identity|=|Collective identity
+Grover (Fictitious character : Henson)|=|Grover
 Growth factors|=|Growth factor
 Guadalcanal, Battle of, Solomon Islands, 1942-1943|<->|Guadalcanal Campaign
 Guelfs and Ghibellines|=|Guelphs and Ghibellines
@@ -1889,6 +1979,7 @@ Guinea (Coin)|<->|Guinea (British coin)
 Guinea pigs|=|Guinea pig
 Guitarists|=|Guitarist
 Gujarat (India)|=|Gujarat
+Gulliver, Lemuel (Fictitious character)|=|Lemuel Gulliver
 Gulls|=|Gull
 Gun control -- United States|<->|Gun politics in the United States
 Gunpowder Plot, 1605|=|Gunpowder Plot
@@ -1908,8 +1999,10 @@ Hallucinogenic plants|->|Hallucinogen
 Halogens|=|Halogen
 Hamlet (Legendary character)|<->|Hamlet (legend)
 Hampton Institute|->|Hampton University
+Hampton Roads, Battle of, Va., 1862|=|Battle of Hampton Roads
 Hampton University (Va.)|=|Hampton University
 Hanaud, Inspector (Fictitious character)|=|Inspector Hanaud
+Hannay, Richard (Fictitious character)|=|Richard Hannay
 Harbors|=|Harbor
 Hardwoods|=|Hardwood
 Harems|=|Harem
@@ -1943,11 +2036,13 @@ Heavy metal (Motion picture)|=|Heavy Metal (film)
 Heavy metal (Music)|=|Heavy metal music
 Heavy metals|=|Heavy metal (chemistry)
 Hebrides (Scotland)|=|Hebrides
+Hecuba (Legendary character)|=|Hecuba
 Hedgehogs|=|Hedgehog
 Helen of Troy (Greek mythology)|=|Helen of Troy
 Helicopters|=|Helicopter
 Hematopoietic stem cells|=|Hematopoietic stem cell
 Hemorrhagic fever|<->|Viral hemorrhagic fever
+Henry Street Settlement (New York, N.Y.)|=|Henry Street Settlement
 Heracles (Greek mythology)|=|Heracles
 Herbals|=|Herbal
 Herbaria|=|Herbarium
@@ -2172,6 +2267,7 @@ Integrated circuits|=|Integrated circuit
 Intellectuals|=|Intellectual
 Intelligence officers|=|Intelligence officer
 Intelligence service|=|Intelligence agency
+Intelligent design (Teleology)|=|Intelligent design
 Intensive care units|=|Intensive care unit
 Intercountry adoption|=|International adoption
 Interdisciplinary research|<->|Interdisciplinarity
@@ -2180,6 +2276,7 @@ Intermarriage|<->|Mixed marriage
 Intermetallic compounds|<->|Intermetallic
 Internal combustion engines|=|Internal combustion engine
 International Commission on the Holocaust in Romania|=|Wiesel Commission
+International Covenant on Civil and Political Rights (1966)|=|International Covenant on Civil and Political Rights
 International cooperation|->|Internationalism (politics)
 International courts|=|International court
 International crimes|->|International criminal law
@@ -2236,6 +2333,7 @@ Islamic law|=|Sharia
 Islamic sects|=|Islamic schools and branches
 Islands|=|Island
 Islands of the Pacific|=|Pacific Islands
+Isle Royale (Mich.)|=|Isle Royale
 Isles of Shoals (Me. and N.H.)|=|Isles of Shoals
 Isolating mechanisms|=|Reproductive isolation
 Isotopes|=|Isotope
@@ -2245,12 +2343,14 @@ Istanbul (Turkey)|=|Istanbul
 Italian Americans|=|Italian American
 Italy, Northern|=|Northern Italy
 Italy, Southern|=|Southern Italy
+Itasca State Park (Minn.)|=|Itasca State Park
 Jackson State College|->|Jackson State University
 Jacksonville State Teachers College|->|Jacksonville State University
 Jacobins|=|Jacobin
 Jacobite Rebellion, 1715|=|Jacobite rising of 1715
 Jacobite Rebellion, 1745-1746|=|Jacobite rising of 1745
 Jacobites|<->|Jacobite
+Jacquerie, 1358|=|Jacquerie
 James River (Va.)|=|James River
 James River and Kanawha Canal (Va.)|=|James River and Kanawha Canal
 Jammu and Kashmir (India)|=|Jammu and Kashmir
@@ -2260,6 +2360,7 @@ Japanese Americans|=|Japanese American
 Jason (Greek mythology)|=|Jason
 Java (Computer program language)|=|Java (programming language)
 Java (Indonesia)|=|Java
+JavaScript (Computer program language)|=|JavaScript
 Jellyfishes|=|Jellyfish
 Jesuits|=|Society of Jesus
 Jesus Christ|=|Jesus
@@ -2287,6 +2388,7 @@ Joint Information Systems Committee|=|Jisc
 Joint ventures|=|Joint venture
 Jones, Indiana (Fictitious character)|=|Indiana Jones
 Jones family|<->|Jones (surname)
+Jonestown Mass Suicide, Jonestown, Guyana, 1978|<->|Jonestown
 Journalistic ethics|<->|Journalism ethics and standards
 Journalists|=|Journalist
 Juane&ntilde;o Indians|=|Juaneño
@@ -2296,6 +2398,7 @@ Judgment|=|Judgement
 Judicial districts|<->|Legal district
 Judicial process|->|Procedural law
 Jugglers|->|Juggling
+Juliet (Fictitious character)|=|Juliet
 Jungian psychology|=|Analytical psychology
 Jungles|=|Jungle
 Jupiter (Planet)|=|Jupiter
@@ -2303,34 +2406,42 @@ Jupiter (Planet) -- Satellites|=|Moons of Jupiter
 Jupiter (Roman deity)|=|Jupiter (mythology)
 Jurong (Singapore)|=|Jurong
 Justification (Law)|=|Justification (jurisprudence)
+Jutland, Battle of, 1916|=|Battle of Jutland
 Juvenile courts|=|Juvenile court
 Juvenile delinquents|->|Juvenile delinquency
 Juvenile detention|->|Youth detention center
 Juvenile detention homes|=|Youth detention center
+Kai Lung (Fictitious character)|=|Kai Lung
 Kalispel language|=|Montana Salish language
 Kansas -- History -- Civil War, 1861-1865|=|Kansas in the American Civil War
 Kansas State Agricultural College|->|Kansas State University
 Kansas State College|->|Kansas State University
 Karaites|=|Karaite Judaism
 Karakoram Range|=|Karakoram
+Karen (Southeast Asian people)|=|Karen people
 Karmathians|=|Qarmatians
 Kasai River (Angola and Congo)|=|Kasai River
 Katanga (Congo)|=|Katanga Province
 Kebun Raya Bogor|=|Bogor Botanical Gardens
 Kennedy, John F. (John Fitzgerald), 1917-1963 -- Assassination|=|Assassination of John F. Kennedy
+Kensington Gardens (London, England)|=|Kensington Gardens
 Kent (England)|=|Kent
+Kent State Shootings, Kent, Ohio, 1970|=|Kent State shootings
 Kentucky -- History -- Civil War, 1861-1865|=|Kentucky in the American Civil War
 Kestrels|=|Kestrel
+Kett's Rebellion, England, 1549|=|Kett's Rebellion
 Keweenaw Bay Indian Community, Michigan|->|L'Anse Indian Reservation
 Keyboarding|->|Typing
 Kharijites|=|Khawarij
 Kickapoo Indians|=|Kickapoo people
 Kidneys|=|Kidney
 Kievan Rus|=|Kievan Rus'
+Kilauea Volcano (Hawaii)|=|Kīlauea
 Kinetic theory of gases|=|Kinetic theory
 Kinetograph|->|Kinetoscope
 Kinetophone|->|Kinetoscope
 King Philip's War, 1675-1676|=|King Philip's War
+King's Mountain, Battle of, S,C., 1780|=|Battle of Kings Mountain
 Kingdom of God|->|Kingship and kingdom of God
 Kings and rulers|<->|Monarch
 Kiowa Indians|=|Kiowa people
@@ -2350,15 +2461,21 @@ Korea (North)|=|North Korea
 Korea (South)|=|South Korea
 Korean War, 1950-1953|=|Korean War
 Kosher food|=|Kosher foods
+Kosovo, Battle of, Kosovo, 1389|=|Battle of Kosovo
 Kosovo War, 1998-1999|=|Kosovo War
+Krishna (Hindu deity)|=|Krishna
 Krishna River (India)|=|Krishna River
+Kristallnacht, 1938|=|Kristallnacht
+Kronshtadt Rebellion, Kronshtadt, Russia, 1921|=|Kronstadt rebellion
 Kufr (Islam)|=|Kafir
+Kuki (Indic people)|=|Kuki people
 Kung fu|<->|Chinese martial arts
 Kunming Shi (China)|=|Kunming
 Kurds|=|Kurdish people
 Kusan languages|=|Coosan languages
 Kwakiutl language|=|Kwak'wala
 L'Anse Indian Reservation (Mich.)|=|L'Anse Indian Reservation
+La Coru&ntilde;a, Battle of, La Coru&ntilde;a, Spain, 1809|=|Battle of Corunna
 Labor|=|Labour
 Labor contract|->|Labour law
 Labor costs|->|Wage
@@ -2375,12 +2492,16 @@ Labor unions|=|Trade union
 Laboratory animals|->|Animal testing
 Labour Party (Great Britain)|=|Labour Party (UK)
 Labrador (N.L.)|=|Labrador
+Lace and lace making|<->|Lace
+Lady of the Lake (Legendary character)|=|Lady of the Lake
 Ladybugs|=|Coccinellidae
 Lake District (England)|=|Lake District
 Lake Erie, Battle of, 1813|=|Battle of Lake Erie
 Lakes|=|Lake
 Laments|=|Lament
+Lanai (Hawaii)|=|Lanai
 Lancashire (England)|=|Lancashire
+Lancelot (Legendary character)|=|Lancelot
 Land grants|=|Land grant
 Land subdivision|=|Subdivision (land)
 Landlord and tenant|<->|Leasehold estate
@@ -2418,6 +2539,7 @@ Lays|->|Poetry
 Lead-acid batteries|=|Lead–acid battery
 League of Arab States|=|Arab League
 Leander (Greek mythology)|->|Hero and Leander
+Lear, King (Legendary character)|<->|Leir of Britain
 Learning, Psychology of|=|Psychology of learning
 Learning and scholarship|<->|Scholarly method
 Lecturers|=|Lecturer
@@ -2428,6 +2550,7 @@ Legislative oversight|->|Congressional oversight
 Legislative oversight -- United States|=|Congressional oversight
 Legislators|=|Legislator
 Legumes|=|Legume
+Leithen, Edward (Fictitious character)|=|Edward Leithen
 Lepanto, Battle of, Greece, 1571|=|Battle of Lepanto
 Lesbian community|->|LGBT community
 Lesbianism|->|Lesbian
@@ -2498,7 +2621,10 @@ Logarithms|=|Logarithm
 Log cabins|=|Log cabin
 Loggers|=|Lumberjack
 LOGO (Computer program language)|=|Logo (programming language)
+Logos (Christian theology)|=|Logos (Christianity)
 Loire River (France)|=|Loire
+Lojban (Artificial language)|=|Lojban
+Lokele (African people)|=|Kele people (Congo)
 Lollards|<->|Lollardy
 Lombardy (Italy)|=|Lombardy
 London (England)|=|London
@@ -2509,6 +2635,7 @@ Long Island Sound (N.Y. and Conn.)|=|Long Island Sound
 Looms|=|Loom
 Loons|=|Loon
 Loray Mill Strike, 1929|=|Loray Mill Strike
+Lord Dunmore's War, 1774|=|Lord Dunmore's War
 Lord's Supper|<->|Eucharist
 Lorises|=|Loris
 Lorraine (France)|=|Lorraine (region)
@@ -2520,6 +2647,7 @@ Lourdes, Our Lady of|=|Our Lady of Lourdes
 Love poetry|->|Poetry
 Low-income housing|->|Affordable housing
 Loyalty oaths|=|Loyalty oath
+LSD (Drug)|=|Lysergic acid diethylamide
 Lua (Computer program language)|=|Lua (programming language)
 Luddites|=|Luddite
 Lucknow (India) -- History -- Siege, 1857|=|Siege of Lucknow
@@ -2527,9 +2655,11 @@ Lumbee Indians|=|Lumbee
 Lumbering|->|Lumber
 Lumbermen|->|Lumberjack
 Lunar geology|=|Geology of the Moon
+Lundy's Lane, Battle of, Ont., 1814|=|Battle of Lundy's Lane
 Lungs|=|Lung
 Lupin, Ars&egrave;ne (Fictitious character)|=|Arsène Lupin
 Lupines|=|Lupinus
+Lushai (Asian people)|=|Lushei tribe
 Lushai language|=|Mizo language
 Lutheran Church|<->|Lutheranism
 Lutheran Church -- Missouri Synod|=|Lutheran Church–Missouri Synod
@@ -2538,9 +2668,12 @@ Luxembourg Americans|=|Luxembourgian American
 Lyapunov functions|=|Lyapunov function
 Lymphatics|=|Lymphatic system
 Lysosomal storage diseases|=|Lysosomal storage disease
+Maasai (African people)|=|Maasai people
+Macatawa, Lake, (Mich.)|=|Lake Macatawa
 Machinery|=|Machine (mechanical)
 Macintosh (Computer)|=|Macintosh
 Mackenzie River (N.W.T.)|=|Mackenzie River
+Mackinac Island (Mich. : Island)|=|Mackinac Island
 Madeira River (Brazil and Bolivia)|=|Madeira River
 Madrid (Spain)|=|Madrid
 Mafia|<->|Mafia (disambiguation)
@@ -2558,14 +2691,17 @@ Mailing lists|=|Mailing list
 Mail steamers|=|Mail steamer
 Maine, Gulf of|=|Gulf of Maine
 Maintenance|<->|Maintenance, repair, and operations
+Makin Atoll, Battle of, Kiribati, 1943|=|Battle of Makin
 Malacca, Strait of|=|Strait of Malacca
 Malapropisms|=|Malapropism
 Malays (Asian people)|<->|Ethnic Malays
 Malays (Asian people)|<-|Malay race
 Malays (Asian people) -- Singapore|=|Malays in Singapore
+Male (African people)|=|Maale people
 Male friendship|<->|Male bonding
 Male homosexuality|->|Homosexuality
 Male rape|->|Rape by gender
+Malecite Indians|=|Maliseet people
 Malicious mischief|<->|Mischief
 Malikites|<->|Maliki
 Malpractice insurance|=|Professional liability insurance
@@ -2579,6 +2715,7 @@ Mandarin dialects|<->|Mandarin Chinese
 Mandates|=|League of Nations mandate
 Manhattan (New York, N.Y.)|=|Manhattan
 Manhattan Project (U.S.)|=|Manhattan Project
+Manifolds (Mathematics)|=|Manifold
 Manila (Philippines)|=|Manila
 Manned space flight|=|Human spaceflight
 Manors|=|Manor
@@ -2590,10 +2727,15 @@ Manufacturing process|->|Manufacturing
 Manuscripts|=|Manuscript
 Manzanar War Relocation Center|<->|Manzanar
 Maori (New Zealand people)|=|Māori people
+Mapuche Indians|=|Mapuche
 Maputo Bay (Mozambique)|=|Maputo Bay
 Mara&ntilde;&oacute;n River (Peru)|=|Marañón River
+Maratha War, 1775-1782|=|First Anglo-Maratha War
+Maratha War, 1803|<->|Second Anglo-Maratha War
+Maratha War, 1816-1818|<->|Third Anglo-Maratha War
 Marathon running|<->|Marathon
 MARC formats|<->|MARC standards
+March on Washington for Jobs and Freedom, Washington, D.C., 1963|=|March on Washington for Jobs and Freedom
 Marching bands|=|Marching band
 Marijuana|=|Cannabis (drug)
 Marine animals|->|Marine biology
@@ -2617,6 +2759,7 @@ Martyrologies|=|Martyrology
 Martyrs|=|Martyr
 Marwaris|=|Marwari
 Maryland -- History -- Civil War, 1861-1865|=|Maryland in the American Civil War
+Maryland Campaign, 1862|=|Maryland Campaign
 Masques|=|Masque
 Massachusetts -- History -- Civil War, 1861-1865|=|Massachusetts in the American Civil War
 Massachusetts -- History -- New Plymouth, 1620-1691|<->|Plymouth Colony
@@ -2640,6 +2783,7 @@ Matroids|=|Matroid
 Mauna Loa (Hawaii Island, Hawaii)|=|Mauna Loa
 Maxims|<->|Maxim (philosophy)
 Maximum entropy method|<->|Principle of maximum entropy
+May Day (Labor holiday)|=|International Workers' Day
 Maya language|->|Mayan languages
 Mayas|=|Maya peoples
 Mayas|<-|Maya civilization
@@ -2684,6 +2828,7 @@ Melancholy|<->|Melancholia
 Melbourne Church of England Grammar School|->|Melbourne Grammar School
 Melbourne (Vic.)|=|Melbourne
 Melungeons|=|Melungeon
+Memphis (Extinct city)|=|Memphis, Egypt
 Mendel's law|<->|Mendelian inheritance
 Mendoza family|<->|Mendoza
 Men|=|Man
@@ -2754,10 +2899,12 @@ Middle West|=|Midwestern United States
 Midlands (England)|=|The Midlands, England
 Midrash rabbah|=|Midrash Rabba
 Midshipmen|=|Midshipman
+Midway, Battle of, 1942|=|Battle of Midway
 Midwives|->|Midwifery
 Migrant labor|->|Migrant worker
 Migrant workers|=|Migrant worker
 Milan (Italy)|=|Milan
+Military art and science|<->|Military science
 Military courts|->|Martial law
 Military education|<->|Military education and training
 Military ethics|->|Ethics
@@ -2800,11 +2947,13 @@ Mittens|->|Glove
 Mnemonics|=|Mnemonic
 Mobile robots|=|Mobile robot
 Modeling|<->|Physical model
+Modernism (Christian theology) -- Catholic Church|=|Modernism (Roman Catholicism)
 Modernist-fundamentalist controversy|=|Fundamentalist–Modernist Controversy
 Modern Language Association of America|=|Modern Language Association
 Modoc Indians|=|Modoc people
 Moeris, Lake (Egypt)|<->|Lake Moeris
 Mogul Empire|=|Mughal Empire
+Moh&aacute;cs, Battle of, Hungary, 1526|=|Battle of Mohács
 Mohave Indians|=|Mohave people
 Mohawk Indians|=|Mohawk people
 Mohawk River Valley (N.Y.)|=|Mohawk Valley
@@ -2822,12 +2971,16 @@ Monasteries|=|Monastery
 Moneylenders|=|Moneylender
 Monkeys|=|Monkey
 Monks|=|Monk
+Monmouth, Battle of, Freehold, N.J., 1778|=|Battle of Monmouth
+Monmouth's Rebellion, 1685|=|Monmouth Rebellion
 Mono Lake (Calif.)|=|Mono Lake
 Monogamous relationships|=|Monogamy
 Monongahela River (W. Va. and Pa.)|=|Monongahela River
 Monophysites|=|Monophysitism
 Monopolies|=|Monopoly
+Mons, 1st Battle of, Mons, Belgium, 1914|<->|Battle of Mons
 Monsters|=|Monster
+Montessori method of education|<->|Montessori education
 Montgomery family|<->|Montgomery (name)
 Monticello (Va.)|=|Monticello
 Months|=|Month
@@ -2841,6 +2994,8 @@ Moral education|<->|Character education
 Moralities|=|Morality play
 Moravia (Czech Republic)|=|Moravia
 Moravians|->|Moravian Church
+Mordred (Legendary character)|=|Mordred
+Morgan le Fay (Legendary character)|=|Morgan le Fay
 Moriscos|=|Morisco
 Mormon Church|->|The Church of Jesus Christ of Latter-day Saints
 Mormon missionaries|=|Missionary (LDS Church)
@@ -2861,6 +3016,7 @@ Moths|=|Moth
 Motion picture industry|=|Film industry
 Motion pictures|=|Film
 Motions in limine|=|Motion in limine
+Moto, Mr. (Fictitious character)|=|Mr. Moto
 Motorcycles|=|Motorcycle
 Motor fuels|=|Motor fuel
 Motor vehicles|=|Motor vehicle
@@ -2871,6 +3027,7 @@ Mount Rainier National Park (Wash.)|=|Mount Rainier National Park
 Mountain Meadows Massacre, Utah, 1857|=|Mountain Meadows massacre
 Mountain sheep|->|Argali
 Mountains|=|Mountain
+Moving, Household|<->|Relocation (personal)
 Muffs|=|Muff (handwarmer)
 Mules|=|Mule
 Multiple personality|=|Dissociative identity disorder
@@ -2889,6 +3046,7 @@ Muscle strength|<->|Physical strength
 Muscogee (Creek) Nation, Oklahoma|=|Muscogee (Creek) Nation
 Musculoskeletal system|<->|Human musculoskeletal system
 Museum of Non-Objective Painting|->|Solomon R. Guggenheim Museum
+Museum of the Confederacy (Richmond, Va.)|=|Museum of the Confederacy
 Museums|=|Museum
 Mushrooms|=|Mushroom
 Musical instruments|=|Musical instrument
@@ -2900,6 +3058,7 @@ Music publishing -- History|=|History of music publishing
 Muslim converts|->|Religious conversion
 Muslim scholars|<->|List of modern-day Muslim scholars of Islam
 Muslims|=|Muslim
+Mussel Slough Tragedy, 1880|=|Mussel Slough Tragedy
 Mycoses|=|Mycosis
 Mysteries of the Rosary|->|Rosary
 Mystics|=|Mystic
@@ -2933,6 +3092,7 @@ National income|<->|Measures of national income and output
 Nationalists|->|Nationalism
 National liberation movements|<->|Wars of national liberation
 National libraries|=|National library
+National parks and reserves|<->|National park
 National Rifle Association of America|=|National Rifle Association
 National security -- United States|=|National Security of the United States
 National Security Council (U.S.)|=|United States National Security Council
@@ -2980,15 +3140,17 @@ Neurotoxic agents|=|Neurotoxin
 Neurotoxicology|->|Neurotoxin
 Neurotransmitters|=|Neurotransmitter
 Neutrality|=|Neutrality (international relations)
+Nevada Test Site (Nev.)|<->|Nevada National Security Site
 New Age movement|=|New Age
-Newborn infants|->|Infant
 New England -- History -- Colonial period, ca. 1600-1775|<->|New England Colonies
 New Englanders|->|New England
-Newfoundland Museum|->|The Rooms
 New Jerusalem Church|<->|The New Church
+New Market, Battle of, New Market, Va., 1864|=|Battle of New Market
 New Orleans, Battle of, New Orleans, La., 1815|=|Battle of New Orleans
 New Orleans (La.)|=|New Orleans
 New Trier Township High School|=|New Trier High School
+Newborn infants|->|Infant
+Newfoundland Museum|->|The Rooms
 Newsletters|=|Newsletter
 Newspaper carriers|<->|Newspaper delivery
 Newspaper editors|->|Editing
@@ -3005,6 +3167,7 @@ New York (State) -- History|=|History of New York
 New York (State) -- History -- Civil War, 1861-1865|=|New York in the American Civil War
 New York times|=|The New York Times
 New Zealand poetry|->|New Zealand literature
+NeXT (Computer)|=|NeXT Computer
 Nez Perc&eacute; Indians|=|Nez Perce people
 Niagara Falls (N.Y. and Ont.)|=|Niagara Falls
 Niagara River (N.Y. and Ont.)|=|Niagara River
@@ -3051,6 +3214,7 @@ Norfolk (England)|=|Norfolk
 Normandy (France)|=|Normandy
 North Atlantic Treaty Organization|=|NATO
 North Carolina -- History -- Civil War, 1861-1865|=|North Carolina in the American Civil War
+North Frisian Islands (Denmark and Germany)|<->|North Frisian Islands
 Northeastern States|=|Northeastern United States
 Northeast Passage|=|Northern Sea Route
 Northern Pacific Railroad Company|->|Northern Pacific Railway
@@ -3072,6 +3236,7 @@ Nucleic acids|=|Nucleic acid
 Nucleotide sequence|=|Nucleic acid sequence
 Nudism|=|Naturism
 Nudist camps|<->|Nudist community
+Nullification (States' rights)|<->|Nullification (U.S. Constitution)
 Numbers, Complex|=|Complex number
 Numerals|=|Numeral
 Numeration|<->|Numeral system
@@ -3141,11 +3306,15 @@ Open access publishing|<->|Open access
 Open source software|=|Open-source software
 Operas|->|Opera
 Operating systems (Computers)|=|Operating system
+Operation Allied Force, 1999|<->|NATO bombing of Yugoslavia
 Operation Citadel|->|Battle of Kursk
+Operation Crossroads, Marshall Islands, 1946|=|Operation Crossroads
 Operation Menace|->|Battle of Dakar
 Operation Neptune|<->|Normandy landings
 Operation Susannah|=|Lavon Affair
+Operation Torch, 1942|=|Operation Torch
 Operator algebras|=|Operator algebra
+Ophelia (Fictitious character)|=|Ophelia
 Opium abuse|->|Opium
 Opium trade|->|Opium
 Opportunity costs|=|Opportunity cost
@@ -3161,6 +3330,7 @@ Orchids|=|Orchidaceae
 Ore-dressing|=|Mineral processing
 Oregon National Historic Trail|=|Oregon Trail
 Orestes (Greek mythology)|=|Orestes
+Organ Pipe Cactus National Monument (Ariz.)|=|Organ Pipe Cactus National Monument
 Organic gardening|=|Organic horticulture
 Organisation for Islamic Cooperation|=|Organisation of Islamic Cooperation
 Organisation of Islamic Conference|->|Organisation of Islamic Cooperation
@@ -3168,10 +3338,12 @@ Organ (Musical instrument)|=|Organ (music)
 Organomercury compounds|=|Organomercury
 Oriental literature|<->|Asian literature
 Oriental poetry|<->|East Asian poetry
+Oriskany, Battle of, N.Y., 1777|=|Battle of Oriskany
 Ornithologists|<->|List of ornithologists
 Orphan drugs|=|Orphan drug
 Orphanages|=|Orphanage
 Orphans|=|Orphan
+Orr's Island (Me.)|=|Orr's Island
 Orthodox Eastern Church|=|Eastern Orthodox Church
 Osage Indians|->|Osage Nation
 Osage Tribe, Oklahoma|<->|Osage Nation
@@ -3182,6 +3354,7 @@ Osteopathic physicians|<->|Doctor of Osteopathic Medicine
 Ostrich farming|->|Ostrich
 Ostrich farms|->|Ostrich
 Ostriches|=|Ostrich
+Othello (Fictitious character)|=|Othello (character)
 Ottawa Indians|=|Odawa people
 Otters|=|Otter
 Outcasts|=|Outcast (person)
@@ -3273,6 +3446,8 @@ Peacekeeping forces|<->|Peacekeeping
 Peace movements|=|Peace movement
 Peace of mind|=|Inner peace
 Peace treaties|=|Peace treaty
+Peachtree Street (Atlanta, Ga.)|=|Peachtree Street
+Peak District (England)|=|Peak District
 Pearl fisheries|<->|Pearl hunting
 Pearl Harbor (Hawaii), Attack on, 1941|=|Attack on Pearl Harbor
 Pearls|=|Pearl
@@ -3282,6 +3457,7 @@ Pegmatites|=|Pegmatite
 Penal colonies|=|Penal colony
 Pencil drawing|->|Drawing
 Penguins|=|Penguin
+Peninsular Campaign, 1862|=|Peninsula Campaign
 Peninsular War, 1807-1814|=|Peninsular War
 Penis|<-|Phallus
 Pennine Alps (Italy and Switzerland)|<->|Pennine Alps
@@ -3296,6 +3472,7 @@ People with disabilities|->|Disability
 People's Action Party (Singapore)|=|People's Action Party
 Pequannock (N.J.)|=|Pequannock Township, New Jersey
 Pequot War, 1636-1638|<->|Pequot War
+Perceval (Legendary character)|=|Percival
 Perennials|=|Perennial plant
 Perfumes|=|Perfume
 Periodicals|=|Periodical literature
@@ -3315,9 +3492,12 @@ Personnel management|=|Human resource management
 Persons|=|Person
 Pesticides|=|Pesticide
 Pests|=|Pest (organism)
+Peter Pan (Fictitious character)|=|Peter Pan
 Peterborough Abbey|->|Peterborough Cathedral
+Petit Trianon (Versailles, France)|=|Petit Trianon
 Petroleum reserves|=|Oil reserves
 Phallicism|->|Phallus
+Pharisee and the publican (Parable)|=|Pharisee and the Publican
 Pharaohs|=|Pharaoh
 Pharmaceutical chemistry|<->|Medicinal chemistry
 Pharmaceutical technology|<->|Pharmaceutics
@@ -3351,6 +3531,7 @@ Physiologists|->|Physiology
 Pi-calculus|=|Π-calculus
 Pianists|=|Pianist
 Piano music|->|Piano
+Pictured Rocks National Lakeshore (Mich.)|=|Pictured Rocks National Lakeshore
 Pictures|<->|Image
 Piedmont (Italy)|=|Piedmont
 Pilgrims (New Plymouth Colony)|=|Pilgrims (Plymouth Colony)
@@ -3366,6 +3547,7 @@ Pirates|->|Piracy
 Pit bull terriers|=|Pit bull
 Pitcairn Island|<->|Pitcairn Islands
 Pittsburgh (Pa.)|=|Pittsburgh
+Plains of Abraham, Battle of the, Qu&eacute;bec, 1759|=|Battle of the Plains of Abraham
 Planetology|=|Planetary science
 Planets|=|Planet
 Planets -- Geology|->|Planetary geology
@@ -3383,12 +3565,14 @@ Platonists|=|Platonism
 Platters|=|Platter (dishware)
 Playwriting|->|Playwright
 Plazas|=|Plaza
+Plots (Drama, novel, etc.)|<->|Plot (narrative)
 Plowing|->|Plough
 Plows|=|Plough
 Plurality of worlds|=|Cosmic pluralism
 Pluto (Dwarf planet)|=|Pluto
 Pluto (Dwarf planet) -- Satellites|=|Moons of Pluto
 Plymouth automobile|=|Plymouth (automobile)
+Plymouth Church (Brooklyn, New York, N.Y.)|=|Plymouth Church (Brooklyn)
 Plymouth (England)|=|Plymouth
 Plymouth Rock chicken|=|Plymouth Rock (chicken)
 Plymouth Rock (Plymouth, Mass.)|=|Plymouth Rock
@@ -3432,10 +3616,12 @@ Popish Plot, 1678|<->|Popish Plot
 Popular fronts|=|Popular front
 Population transfers|=|Population transfer
 Port Jackson (N.S.W.)|=|Port Jackson
+Porteous Riots, 1736|=|Porteous Riots
 Portrait miniatures|=|Portrait miniature
 Portraits|=|Portrait
 Portugal -- Colonies|<->|Portuguese Empire
 Portuguese Americans|=|Portuguese American
+Poseidon (Greek deity)|=|Poseidon
 Postage stamps|=|Postage stamp
 Postal service|<->|Mail
 Posters|=|Poster
@@ -3444,6 +3630,7 @@ Post-traumatic stress disorder|=|Posttraumatic stress disorder
 Potatoes|=|Potato
 Potawatomi Indians|=|Potawatomi
 Potter, Harry (Fictitious character)|=|Harry Potter (character)
+PowerPC microprocessors|<->|PowerPC
 Practical jokes|=|Practical joke
 Prague (Czech Republic)|=|Prague
 Prairie Provinces|<->|Canadian Prairies
@@ -3458,6 +3645,7 @@ Precision farming|=|Precision agriculture
 Precision guided munitions|=|Precision-guided munition
 Predation (Biology)|<->|Predation
 Preferential ballot|<->|Ranked voting system
+Pregnancy, Unwanted|<->|Unintended pregnancy
 Pregnant women|->|Pregnancy
 Prejudices|=|Prejudice
 Preparatory schools|<->|Preparatory school
@@ -3471,6 +3659,7 @@ Press releases|=|Press release
 Pressure groups|=|Advocacy group
 Pressurized water reactors|=|Pressurized water reactor
 Preventive health services|->|Preventive medicine
+Price regulation|<->|Price controls
 Prices|=|Price
 PricewaterhouseCoopers (Firm)|=|PricewaterhouseCoopers
 PricewaterhouseCoopers LLP|->|PricewaterhouseCoopers
@@ -3501,12 +3690,14 @@ Processions|=|Procession
 Pro-choice movement|=|Abortion-rights movements
 Pro-choice movement -- United States|=|United States pro-choice movement
 Proclamations|=|Proclamation
+Prodigal son (Parable)|=|Parable of the Prodigal Son
 Product life cycle|=|Product lifecycle
 Product safety|->|Safety standards
 Products liability|=|Product liability
 Professional education|->|Professional development
 Professions|=|Profession
 Programming languages (Electronic computers)|=|Programming language
+Progressivism (United States politics)|<->|Progressivism in the United States
 Prohibited books|<->|List of books banned by governments
 Prohibitionists|<->|Prohibitionism
 Project Apollo (U.S.)|=|Apollo program
@@ -3555,6 +3746,7 @@ Psychobiology|<->|Behavioral neuroscience
 Psychological tests|=|Psychological testing
 Psychologists|=|Psychologist
 Psychology, Applied|=|Applied psychology
+Psychology, Comparative|=|Comparative psychology
 Psychology, Industrial|<->|Industrial and organizational psychology
 Psychology, Military|=|Military psychology
 Psychology, Religious|=|Psychology of religion
@@ -3602,6 +3794,7 @@ Quatermain, Allan (Fictitious character)|=|Allan Quatermain
 Quaternions|=|Quaternion
 Qu&eacute;bec (Province)|=|Quebec
 Qu&eacute;bec (Qu&eacute;bec)|=|Quebec City
+Queenston Heights, Battle of, Ont., 1812|=|Battle of Queenston Heights
 Quezon City (Philippines)|=|Quezon City
 Quotation|->|Quotation
 Quotations|<->|Quotation
@@ -3629,6 +3822,7 @@ Radio plays|=|Radio drama
 Radio talk shows|<->|Talk radio
 Radio telescopes|=|Radio telescope
 Raeto-Romance language|=|Romansh language
+Raffles (Fictitious character)|=|A. J. Raffles
 Ragpickers|=|Ragpicker
 Raguel (Archangel)|=|Raguel (angel)
 Railroad accidents|<->|Train wreck
@@ -3645,6 +3839,7 @@ Ranchers|->|Ranch
 Ranches|=|Ranch
 Random matrices|=|Random matrix
 Random variables|=|Random variable
+Random walks (Mathematics)|=|Random walk
 Rangelands|=|Rangeland
 Range management|->|Natural resource management
 Rapanui language|=|Rapa Nui language
@@ -3669,6 +3864,7 @@ Red Cross and Red Crescent|<->|International Red Cross and Red Crescent Movement
 Red Dot Design Award|=|Red Dot
 Red International of Labor Unions|=|Profintern
 Red River Delta (Vietnam)|=|Red River Delta
+Red River Rebellion, 1869-1870|=|Red River Rebellion
 Red River Settlement|=|Red River Colony
 Red River (Tex.-La.)|=|Red River of the South
 Reduction (Chemistry)|->|Redox
@@ -3723,11 +3919,15 @@ RFE/RL|=|Radio Free Europe/Radio Liberty
 Rhine River|=|Rhine
 Rhine River Valley|=|Rhine Valley
 Rh&ocirc;ne River (Switzerland and France)|=|Rhone
+Rich man and Lazarus (Parable)|=|Rich man and Lazarus
+Richmond National Battlefield Park (Va.)|=|Richmond National Battlefield Park
 Riddles|=|Riddle
+Riel Rebellion, 1885|=|North-West Rebellion
 Riemannian manifolds|=|Riemannian manifold
 Rifles|=|Rifle
 Right of property|->|Property
 Right of way|=|Right of way (public throughway)
+Righteous Gentiles in the Holocaust|<->|Righteous Among the Nations
 Rings|=|Ring (jewellery)
 Rings (Algebra)|=|Ring (mathematics)
 Rio de Janeiro (Brazil)|=|Rio de Janeiro
@@ -3756,6 +3956,7 @@ Rome -- History -- Civil War, 49-45 B.C.|=|Caesar's Civil War
 Rome -- History -- Empire, 284-476|<->|Western Roman Empire
 Rome -- History -- Empire, 30 B.C.-476 A.D.|<->|History of the Roman Empire
 Rome (Italy)|=|Rome
+Romeo (Fictitious character)|=|Romeo
 Roosevelt River (Brazil)|=|Roosevelt River
 Rosa, Monte (Italy and Switzerland)|=|Monte Rosa
 Rosh Hodesh|=|Rosh Chodesh
@@ -3790,6 +3991,7 @@ Russo-Turkish War, 1787-1792|=|Russo-Turkish War (1787–92)
 Russo-Turkish War, 1806-1812|=|Russo-Turkish War (1806–12)
 Russo-Turkish War, 1828-1829|=|Russo-Turkish War (1828–29)
 Russo-Turkish War, 1877-1878|=|Russo-Turkish War (1877–78)
+Rye House Plot, 1683|=|Rye House Plot
 Sacraments|=|Sacrament
 &Sacute;aivism|=|Shaivism
 Safaris|=|Safari
@@ -3806,6 +4008,7 @@ Saint Johns River (Fla.)|=|St. Johns River
 Saint Louis (Mo.)|=|St. Louis
 Saint Petersburg (Russia)|=|Saint Petersburg
 Saints|=|Saint
+Salamis, Battle of, Greece, 480 B.C.|=|Battle of Salamis
 Salad dressing|->|Salad
 Salad greens|->|Leaf vegetable
 Salads|=|Salad
@@ -3820,6 +4023,7 @@ Saltpeter|=|Niter
 Salvation -- Christianity|=|Salvation (Christianity)
 Salvation Army|=|The Salvation Army
 Salvationists|->|The Salvation Army
+San Andreas Fault (Calif.)|=|San Andreas Fault
 San Francisco Bay (Calif.)|=|San Francisco Bay
 San Francisco Bay Area (Calif.)|=|San Francisco Bay Area
 San Francisco (Calif.)|=|San Francisco
@@ -3841,7 +4045,10 @@ Saskatchewan River (Sask. and Man.)|=|Saskatchewan River
 Satellites|=|Natural satellite
 Saturn (Planet)|=|Saturn
 Saturn (Planet) -- Satellites|=|Moons of Saturn
+Savo Island, Battle of, Solomon Islands, 1942|=|Battle of Savo Island
+Sawyer, Tom (Fictitious character)|=|Tom Sawyer
 Saxony (Germany)|=|Saxony
+Scales (Weighing instruments)|=|Weighing scale
 Scandals|=|Scandal
 Scarabs|=|Scarabaeidae
 Scarborough (England)|=|Scarborough, North Yorkshire
@@ -3864,7 +4071,9 @@ Scots-Irish|=|Scotch-Irish
 Scottish Americans|=|Scottish American
 Scottish Gaelic language|=|Scottish Gaelic
 Scottish poetry|->|Scottish literature
+Scottsboro Trial, Scottsboro, Ala., 1931|<->|Scottsboro Boys
 Scriptoria|=|Scriptorium
+Scrooge, Ebenezer (Fictitious character)|=|Ebenezer Scrooge
 Scud missile|=|Scud
 Sculptors|->|Sculpture
 Sea birds|=|Seabird
@@ -3885,6 +4094,7 @@ Second language acquisition|=|Second-language acquisition
 Secret societies|=|Secret society
 Sects|=|Sect
 Securities|=|Security (finance)
+Security, International|=|International security
 Security systems|->|Security alarm
 Sedimentary basins|=|Sedimentary basin
 Sedimentary rocks|=|Sedimentary rock
@@ -3960,12 +4170,14 @@ Sheriffs|=|Sheriff
 Shetland (Scotland)|=|Shetland
 Sh&imacr;&#x02bb;ah|=|Shia Islam
 Shiites|->|Shia Islam
+Shiloh, Battle of, Tenn., 1862|=|Battle of Shiloh
 Ship captains|=|Sea captain
 Shipbuilding industry|->|Shipbuilding
 Shipment of goods|<->|Freight transport
 Shipping|<->|Ship transport
 Ships|=|Ship
 Shipwrecks|=|Shipwreck
+Shirley, Anne (Fictitious character)|=|Anne Shirley
 Shock waves|=|Shock wave
 Shoemakers|->|Shoemaking
 Shoe shiners|=|Shoeshiner
@@ -3979,13 +4191,13 @@ Shtetls|=|Shtetl
 Shylock (Fictitious character)|=|Shylock
 Siberia (Russia)|=|Siberia
 Sibyls|=|Sibyl
+Sicilian Vespers, Italy, 1282|=|Sicilian Vespers
 Sicily (Italy)|=|Sicily
 Siddurim|=|Siddur
 Sieges|=|Siege
 Sierra Nevada (Calif. and Nev.)|=|Sierra Nevada (U.S.)
 Sikhs|=|Sikh
 Sikkim (India)|=|Sikkim
-Siksika Nation|=|Siksika Nation
 Silent films|=|Silent film
 Silhouettes|=|Silhouette
 Silicates|=|Silicate
@@ -4030,6 +4242,7 @@ Sled dogs|=|Sled dog
 Sleep disorders|=|Sleep disorder
 Sleep-wake cycle|->|Circadian rhythm
 Sleeping Giant State Park (Conn.)|->|Sleeping Giant (Connecticut)
+Slick, Sam (Fictitious character)|=|Sam Slick
 Slovenian language|=|Slovene language
 Slums|=|Slum
 Smalltalk-80 (Computer program language)|->|Smalltalk
@@ -4089,7 +4302,10 @@ Solar plexus|=|Celiac plexus
 Solar radiation|->|Sunlight
 Soldiers of fortune|->|Mercenary
 Soldiers|=|Soldier
+Solferino, Battle of, Solferino, Italy, 1859|=|Battle of Solferino
 Solution (Chemistry)|=|Solution
+Somme, 1st Battle of the, France, 1916|<->|Battle of the Somme
+Somme, 2nd Battle of the, France, 1918|=|Second Battle of the Somme (1918)
 Song cycles|=|Song cycle
 Songs|=|Song
 Sonora (Mexico : State)|=|Sonora
@@ -4102,6 +4318,7 @@ Source code (Computer science)|=|Source code
 South African War, 1899-1902|=|Second Boer War
 South Asian languages|=|Languages of South Asia
 South Carolina -- History -- Civil War, 1861-1865|=|South Carolina in the American Civil War
+Southampton Insurrection, 1831|=|Nat Turner's slave rebellion
 Southern Cone of South America|=|Southern Cone
 Southern oscillation|->|El Niño
 Southern Pacific Company|->|Southern Pacific Transportation Company
@@ -4290,6 +4507,7 @@ Tankers|=|Tanker
 Tanneries|<->|Tanning
 Tannins|=|Tannin
 Tantric Buddhism|=|Vajrayana
+Tarawa, Battle of, Kiribati, 1943|=|Battle of Tarawa
 Tarawera, Mount (N.Z.)|=|Mount Tarawera
 Tartans|=|Tartan
 Tarzan (Fictitious character)|=|Tarzan
@@ -4320,6 +4538,7 @@ Television broadcasting|->|Broadcasting
 Television programs|=|Television program
 Television remakes|->|Remake
 Templars|=|Knights Templar
+Temple of Jerusalem (Jerusalem)|=|Temple in Jerusalem
 Temples|=|Temple
 Temporary marriage|->|Marriage
 Tennessee -- History -- Civil War, 1861-1865|=|Tennessee in the American Civil War
@@ -4361,6 +4580,7 @@ Thirty Years' War, 1618-1648|=|Thirty Years' War
 Thomas A. Edison, Inc.|<->|Edison Studios
 Thompson family|<->|Thompson (surname)
 Thorndyke, Doctor (Fictitious character)|=|Dr. Thorndyke
+Thought and thinking|<->|Thought
 Thousand Islands (N.Y. and Ont.)|=|Thousand Islands
 Three Initiates|<->|Kybalion
 Thunderbird (Legendary character)|=|Thunderbird (mythology)
@@ -4368,6 +4588,7 @@ Tiahuanacu (Bolivia)|=|Tiwanaku
 Tides|=|Tide
 Tigris River|=|Tigris
 Time-series analysis|<->|Time series
+Timon of Athens (Legendary character)|<->|Timon of Athens (person)
 Tin toys|=|Tin toy
 Tisza River|=|Tisza
 Titan (Satellite)|=|Titan (moon)
@@ -4382,6 +4603,7 @@ Tobacco use|<->|Tobacco smoking
 Tocantins (Brazil)|=|Tocantins
 Tocantins River (Brazil)|=|Tocantins River
 Toeplitz matrices|=|Toeplitz matrix
+Tohono O'odham Indians|<->|Tohono O'odham
 Toll roads|=|Toll road
 Toltecs|=|Toltec
 Tombs|=|Tomb
@@ -4394,6 +4616,7 @@ Totems|=|Totem
 Toucans|=|Toucan
 Tourists|->|Tourism
 Tournaments, Medieval|=|Tournament (medieval)
+Tower of London (London, England)|=|Tower of London
 Towers|=|Tower
 Toxicity testing|=|Toxicology testing
 Toy making|->|Toy
@@ -4405,6 +4628,7 @@ Trade secrets|=|Trade secret
 Trading posts|=|Trading post
 Traditional farming|->|Agriculture
 Tradition (Philosophy)|->|Tradition
+Trafalgar, Battle of, 1805|=|Battle of Trafalgar
 Traffic accidents|=|Traffic collision
 Traffic fatalities|->|Traffic collision
 Traffic safety|=|Road traffic safety
@@ -4412,6 +4636,7 @@ Trailers|=|Trailer (vehicle)
 Trails|=|Trail
 Train robberies|=|Train robbery
 Traitors|->|Treason
+Trajan's Column (Rome, Italy)|=|Trajan's Column
 Tramps|=|Tramp
 Transantarctic Mountains (Antarctica)|=|Transantarctic Mountains
 Transatlantic flights|=|Transatlantic flight
@@ -4432,6 +4657,7 @@ Treasure troves|=|Treasure trove
 Treaties|=|Treaty
 Treaty of Versailles (1919)|=|Treaty of Versailles
 Trees|=|Tree
+Trent Affair, 1861|=|Trent Affair
 Trials|=|Trial
 Triangle Shirtwaist Company|<->|Triangle Shirtwaist Factory fire
 Triangles (Interpersonal relations)|<->|Love triangle
@@ -4439,10 +4665,12 @@ Tribes|=|Tribe
 Tribulation (Christian eschatology)|=|Great Tribulation
 Tricksters|=|Trickster
 Trisection of angle|=|Angle trisection
+Tristan (Legendary character)|=|Tristan
 Triton (Satellite)|=|Triton (moon)
 Trobriand Islanders|->|Trobriand Islands
 Trobriand Islands (Papua New Guinea)|=|Trobriand Islands
 Troglodytes|=|Troglodyte
+Troilus (Legendary character)|=|Troilus
 Tropical fruit|->|List of culinary fruits
 Troubadours|=|Troubadour
 Trout fishing|->|Trout
@@ -4467,6 +4695,7 @@ Tuscany (Italy)|=|Tuscany
 Tuskegee Institute|->|Tuskegee University
 Tuskegee Normal and Industrial Institute|->|Tuskegee University
 Tuskegee Syphilis Study|=|Tuskegee syphilis experiment
+Tutsi (African people)|=|Tutsi
 Tweed Ring|->|William M. Tweed
 Twelfth century|=|12th century
 Twelve-step programs|=|Twelve-step program
@@ -4478,6 +4707,7 @@ Twenty-second century|=|22nd century
 Twenty-sixth century|=|26th century
 Twenty-third century|=|23rd century
 Twinning (Crystallography)|=|Crystal twinning
+Tyler's Insurrection, 1381|=|Peasants' Revolt
 Typewriting|<->|Typing
 Typhus fever|<->|Typhus
 Typology (Linguistics)|=|Linguistic typology
@@ -4488,6 +4718,7 @@ Ulster (Northern Ireland and Ireland)|=|Ulster
 Ultraviolet radiation|=|Ultraviolet
 Umbrellas|=|Umbrella
 Uncle Tom (Fictitious character)|=|Uncle Tom
+Uncle Wiggily (Fictitious character)|=|Uncle Wiggily
 Uncles|=|Uncle
 Undercover operations|=|Undercover operation
 Underground newspapers|->|Underground press
@@ -4568,6 +4799,7 @@ University of Wisconsin|<->|University of Wisconsin System
 University of Wisconsin -- Madison|=|University of Wisconsin–Madison
 University presses|<->|List of university presses
 Unlawful combatants|=|Unlawful combatant
+Upper Peninsula (Mich.)|=|Upper Peninsula of Michigan
 Urban policy|->|Urban planning
 Urdu language|=|Urdu
 Uriel (Archangel)|=|Uriel
@@ -4604,6 +4836,7 @@ Veils|=|Veil
 Venice (Italy)|=|Venice
 Venus (Planet)|=|Venus
 Venus (Roman deity)|=|Venus (mythology)
+Verdun, Battle of, Verdun, France, 1916|=|Battle of Verdun
 Vertebrates|=|Vertebrate
 Vesuvius (Italy)|=|Mount Vesuvius
 Veterans of Foreign Wars of the United States|=|Veterans of Foreign Wars
@@ -4653,6 +4886,7 @@ Waco Branch Davidian Disaster, Tex., 1993|<->|Waco siege
 Wager of battle|=|Trial by combat
 Wages|=|Wage
 Waiters|=|Waiting staff
+Wake Island, Battle of, Wake Island, 1941|=|Battle of Wake Island
 Waldenses|=|Waldensians
 Wales, North|=|North Wales
 Wales, South|=|South Wales
@@ -4673,6 +4907,7 @@ War wounds|->|Wounded in action
 Wasatch Range (Utah and Idaho)|=|Wasatch Range
 Washington (D.C.)|=|Washington, D.C.
 Washington (D.C.) -- History -- Civil War, 1861-1865|=|Washington, D.C., in the American Civil War
+Washington Monument (Washington, D.C.)|=|Washington Monument
 Wasps|=|Wasp
 Waste minimization|=|Waste minimisation
 Waste products|=|Waste
@@ -4708,6 +4943,7 @@ Wedding attendants|<-|Groomsman
 Weddings|=|Wedding
 Weeds|=|Weed
 Weights and measures|->|Units of measurement
+Wellcome Trust (London, England)|=|Wellcome Trust
 Welsh Americans|=|Welsh American
 Werewolves|=|Werewolf
 Werner's syndrome|=|Werner syndrome
@@ -4716,6 +4952,7 @@ West Georgia College|->|University of West Georgia
 West Indians|->|Caribbean
 West Indies, British|=|British West Indies
 West Indies, French|=|French West Indies
+West Philadelphia (Philadelphia, Pa.)|=|West Philadelphia
 Western Canada Sedimentary Basin|=|Western Canadian Sedimentary Basin
 Westinghouse Electric Corporation|<->|Westinghouse Electric (1886)
 Westminster (London, England)|<->|Westminster
@@ -4726,6 +4963,7 @@ Whaling ships|=|Whaler
 Wheat trade|->|Grain trade
 Whistle blowing|<->|Whistleblower
 White collar workers|=|White-collar worker
+White House (Washington, D.C.)|=|White House
 White Mountains (Ariz.)|=|White Mountains (Arizona)
 White Mountains (Calif. and Nev.)|<->|White Mountains (California)
 White Mountains (N.H. and Me.)|<->|White Mountains (New Hampshire)
@@ -4785,6 +5023,7 @@ Women's clothing|->|Clothing
 Wood-engraving|=|Wood engraving
 Wood products|->|Wood
 Woody plants|=|Woody plant
+Wooster, Bertie (Fictitious character)|=|Bertie Wooster
 Word-of-mouth advertising|<->|Word-of-mouth marketing
 Word processing|->|Word processor
 Word processors|=|Word processor
@@ -4813,6 +5052,7 @@ X Window System (Computer system)|=|X Window System
 X-rays|=|X-ray
 Xenobiotics|=|Xenobiotic
 Xenografts|=|Xenotransplantation
+Xhosa (African people)|=|Xhosa people
 Xi River (China)|=|Xi River
 xmh (Computer file)|->|MH Message Handling System
 Yacht clubs|=|Yacht club
@@ -4828,6 +5068,7 @@ Yezidis|=|Yazidi
 Yiddish poetry|->|Yiddish literature
 Yin-yang|<->|Yin and yang
 Yogis|=|Yogi
+York, Battle of, Toronto, Ont., 1813|=|Battle of York
 York (England)|=|York
 York plays|=|York Mystery Plays
 Yorkshire (England)|=|Yorkshire
@@ -4845,6 +5086,7 @@ Yucat&aacute;n (Mexico : State)|=|Yucatán
 Yucca Mountain (Nev.)|=|Yucca Mountain
 Yukon Territory|=|Yukon
 Yunnan Sheng (China)|=|Yunnan
+Ywain (Legendary character)|=|Ywain
 Z (Computer program language)|=|Z notation
 Zambezi River|=|Zambezi
 Zarzuelas|->|Zarzuela
