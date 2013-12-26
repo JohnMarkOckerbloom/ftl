@@ -277,6 +277,12 @@ TITURL ${BASEURL}/search?t.TitleCombined=${ARG}
 AUTURL ${BASEURL}/search?t.AuthorCombined=${ARG}
 KEYURL ${BASEURL}/search?spellcheck=true&s.q=${ARG}
 
+# summon2 seems to require different author and title search syntax
+CATTYPE summon2
+TITURL ${BASEURL}/search?t.TitleCombined:${ARG}#!/search?ho=t&q=TitleCombined:(${ARG})
+AUTURL ${BASEURL}/search?t.AuthorCombined:${ARG}#!/search?ho=t&q=AuthorCombined:(${ARG})
+KEYURL ${BASEURL}/search?spellcheck=true&s.q=${ARG}
+
 CATTYPE tlc
 BRANCH ,1,
 SUBURL ${BASEURL}TLCScripts/interpac.dll?Search&Config=${LCODE}&FormId=0&Branch=${BRANCH}&StartIndex=0&SearchField=4&SearchType=1&SearchData=${ARG:NK}

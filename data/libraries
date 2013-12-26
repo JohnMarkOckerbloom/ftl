@@ -50,6 +50,28 @@ BASEURL http://www.europeana.eu/portal
 AUTURL ${BASEURL}/search.html?query=who:${ARG:S}
 KEYURL ${BASEURL}/search.html?query=${ARG:NK}
 
+ID AU-ANU
+NAME Australian National University
+LOCATION Canberra, ACT
+COUNTRY AU
+CATTYPE summon2
+BASEURL http://anu.summon.serialssolutions.com
+
+ID AU-QBCL
+NAME Brisbane City Council Library Services
+LOCATION Brisbane, Queensland
+COUNTRY AU
+CATTYPE sirsi
+BASEURL http://elibcat.library.brisbane.qld.gov.au/uhtbin/cgisirsi
+
+ID AU-VCCLC
+NAME Casey-Cardinia Library Corporation
+LOCATION Casey and Cardinia Shire, Victoria
+COUNTRY AU
+CATTYPE sirsient
+LCODE cclc
+BASEURL http://swft.cclc.ent.sirsidynix.net.au
+
 ID AU-NCSU:A
 NAME Charles Sturt University
 LOCATION Campuses in New South Wales, Victoria, and ACT
@@ -121,12 +143,27 @@ CATTYPE primo
 BASEURL http://onesearch.slq.qld.gov.au/primo_library
 VID SLQ
 
+ID AU-SSL
+NAME State Library of South Australia
+LOCATION Adelaide, South Australia
+COUNTRY AU
+CATTYPE encore
+BASEURL http://encore.slsa.sa.gov.au/iii/encore
+
 ID AU-WLB
 NAME State Library of Western Australia
 LOCATION Perth, Western Australia
 COUNTRY AU
 BASEURL http://catalogue.slwa.wa.gov.au
 CATTYPE innopac
+
+ID AU-SUA
+NAME University of Adelaide
+LOCATION Adelaide and vicinity, South Australia
+COUNTRY AU
+CATTYPE primo
+BASEURL http://adelaide.hosted.exlibrisgroup.com/primo_library
+VID SUA
 
 ID AU-VBAX
 NAME University of Ballarat
