@@ -2232,6 +2232,35 @@ STATE MS
 BASEURL http://75.144.59.10/uhtbin/cgisirsi.exe
 CATTYPE sirsi
 
+ID OCLC-MJU
+NAME Jackson State University
+LOCATION Jackson
+STATE MS
+BASEURL http://sampson.jsums.edu
+CATTYPE innopac
+
+ID OCLC-MUM
+NAME University of Mississippi Libraries
+LOCATION Oxford
+STATE MS
+CATTYPE summon
+BASEURL http://olemiss.summon.serialssolutions.com
+
+ID OCLC-MR4
+NAME Concordia Seminary Library
+LOCATION St. Louis
+STATE MO
+BASEURL http://bridges.searchmobius.org/
+CATTYPE iii-consortium-member
+LCODE 11
+
+ID OCLC-0MQ
+NAME Daniel Boone Regional Library
+LOCATION Columbia and vicinity
+STATE MO
+CATTYPE bibliocommons
+BASEURL http://dbrl.bibliocommons.com
+
 ID OCLC-KCP
 NAME Kansas City Public Library
 LOCATION Kansas City
@@ -2239,6 +2268,21 @@ STATE MO
 CATTYPE sirsient
 BASEURL http://catalog.kclibrary.org
 LCODE kclibrary
+
+ID OCLC-CMI
+NAME Mid-Continent Public Library
+LOCATION Kansas City vicinity
+STATE MO
+CATTYPE sirsient
+BASEURL http://catalog.mymcpl.org/
+FILTERS N
+
+ID OCLC-MOS
+NAME Springfield-Greene County Library District
+LOCATION Springfield and vicinity
+STATE MO
+BASEURL http://catalog.coolcat.org/iii/encore
+CATTYPE encore
 
 ID OCLC-ZAE
 NAME St. Louis County Library
