@@ -1522,6 +1522,20 @@ STATE DC
 BASEURL http://catalog.loc.gov/cgi-bin/Pwebrecon.cgi
 CATTYPE voyager
 
+ID OCLC-FBR
+NAME Broward County Library
+LOCATION Fort Lauderdale and vicinity
+STATE FL
+CATTYPE ls2pac
+BASEURL http://vc.browardlibrary.org/
+
+ID OCLC-FMP
+NAME Columbia County Public Library
+LOCATION Lake City
+STATE FL
+BASEURL http://www.ccpl.sirsi.net
+CATTYPE rooms
+
 ID OCLC-GF7
 NAME Flagler County Public Library System
 LOCATION Palm Coast and Bunnell
@@ -1559,6 +1573,20 @@ LOCATION Jacksonville
 STATE FL
 CATTYPE sirsient
 BASEURL http://jkpl.ent.sirsi.net/
+
+ID OCLC-FLK
+NAME Live Oak Public Library
+LOCATION Live Oak
+STATE FL
+CATTYPE ipac20
+BASEURL http://75.91.121.130
+PROFILE l--1
+TINDEX TW
+AINDEX BAW
+SINDEX BSW
+# No keyword search!  Default catalog search is TW, so we'll revert to that
+KINDEX TW
+FILTERS N
 
 ID OCLC-DZM
 NAME Miami-Dade Public Library System

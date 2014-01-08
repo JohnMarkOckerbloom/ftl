@@ -240,6 +240,14 @@ SUBURL ${BASEURL}/items?query=subject:(${ARG})
 ATIURL ${BASEURL}/items?query=author:(${AUTHOR})+title:(${TITLE})
 KEYURL ${BASEURL}/items?query=${ARG}
 
+# SIRSI ROOMS interface
+CATTYPE rooms
+SUBURL ${BASEURL}/rooms/portal/media-type/html/language/en/country/US/user/anon/page/Sirsi_Search?&checkspelling=true&searchtarget=248&subtarget=QUALIFIER*SUBJECT&searchterm=${ARG:NK}&searchtype=KEYWORD
+AUTURL ${BASEURL}/rooms/portal/media-type/html/language/en/country/US/user/anon/page/Sirsi_Search?&checkspelling=true&searchtarget=248&subtarget=QUALIFIER*AUTHOR&searchterm=${ARG:NK}&searchtype=KEYWORD
+TITURL ${BASEURL}/rooms/portal/media-type/html/language/en/country/US/user/anon/page/Sirsi_Search?&checkspelling=true&searchtarget=248&subtarget=QUALIFIER*TITLE&searchterm=${ARG:NK}&searchtype=KEYWORD
+ATIURL ${BASEURL}/rooms/portal/media-type/html/language/en/country/US/user/anon/page/Sirsi_AdvancedCatalogSearch.psml?eventSubmit_doSearch=1&qualifiers=TITLE&terms=${TITLE:NK}&operators=And&qualifiers=AUTHOR&terms=${AUTHOR:NK}&button=Search&searchType=KEYWORD&sortBy=relevance
+KEYURL ${BASEURL}/rooms/portal/media-type/html/language/en/country/US/user/anon/page/Sirsi_Search?&checkspelling=true&searchtarget=SIRSI_SEARCH_ALL&subtarget=null&searchterm=${ARG:NK}&searchtype=KEYWORD
+
 CATTYPE sirsi
 SUBURL ${BASEURL}/x/0/0/5?searchdata1=${ARG:NK}{SU}
 AUTURL ${BASEURL}/x/0/0/5?searchdata1=${ARG:NK}{AU}
