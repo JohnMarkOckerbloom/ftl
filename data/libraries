@@ -2075,6 +2075,13 @@ BASEURL http://library.clamsnet.org/
 CATTYPE iii-consortium-member
 LCODE 1
 
+ID OCLC-FLF
+NAME Fenway Libraries Online
+LOCATION Museums and small colleges in Boston and vicinity
+STATE MA
+CATTYPE voyager-vwebv
+BASEURL http://endeavor.flo.org/vwebv/search
+
 ID FIVECOLLEGE
 NAME Five College Libraries
 LOCATION Amherst, Hampshire, Mt. Holyoke, Smith, UMass-Amherst
@@ -2154,6 +2161,21 @@ LOCATION Wellesley
 STATE MA
 CATTYPE summon
 BASEURL http://wellesley.summon.serialssolutions.com
+
+ID OCLC-WNE
+NAME Western New England University
+LOCATION Springfield
+STATE MA
+BASEURL http://encore.wne.edu/iii/encore
+CATTYPE encore
+
+ID OCLC-WCM
+NAME Williams College
+LOCATION Williamstown
+STATE MA
+BASEURL http://francis.williams.edu
+CATTYPE webpacpro
+FILTERS N
 
 ID OCLC-EYP
 NAME Detroit Public Library
