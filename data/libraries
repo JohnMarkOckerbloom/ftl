@@ -957,6 +957,29 @@ CATTYPE primo
 BASEURL http://library-collections-search.westminster.ac.uk/primo_library
 VID WST_VU1
 
+ID UK-UKLOZSL
+NAME Zoological Society of London
+LOCATION London, England
+COUNTRY UK
+BASEURL http://z10300uk.eos-intl.eu/Z10300UK/OPAC/Search/AdvancedSearch.aspx
+CATTYPE eosweb
+
+ID OCLC-MWT
+NAME Alabama A&amp;M University
+LOCATION Normal
+STATE AL
+CATTYPE sirsient
+LCODE default
+BASEURL http://alabamam.sdp.sirsi.net
+STATE AL
+
+ID OCLC-AMU
+NAME Alabama State University
+LOCATION Montgomery
+STATE AL
+BASEURL http://alasu.worldcat.org/search
+CATTYPE worldcat
+
 ID OCLC-ALJCL
 NAME Jefferson County Library Cooperative
 LOCATION Birmingham and vicinity
@@ -1630,6 +1653,13 @@ STATE FL
 BASEURL http://usf.catalog.fcla.edu/sf.jsp
 CATTYPE fcla
 
+ID OCLC-ALQ
+NAME Albany State University
+LOCATION Albany
+STATE GA
+BASEURL http://gil.asurams.edu/cgi-bin/Pwebrecon.cgi
+CATTYPE voyager
+
 ID OCLC-GRA
 NAME Athens-Clarke County Library
 LOCATION Athens
@@ -1644,6 +1674,15 @@ LOCATION Atlanta and vicinity
 STATE GA
 CATTYPE sirsient
 BASEURL http://afpl.ent.sirsi.net
+
+ID OCLC-AUU
+NAME Atlanta University Center
+LOCATION Clark Atlanta, Interdenominational Theological Center, Morehouse, Spelman
+STATE GA
+CATTYPE primo
+BASEURL http://primo1.hosted.exlibrisgroup.com:1701/primo_library
+VID AUC
+DEFAULT http://www.auctr.edu/
 
 ID OCLC-EMU
 NAME Emory University Libraries
