@@ -1466,6 +1466,13 @@ STATE CO
 BASEURL http://discover.poudrelibraries.org/iii/encore
 CATTYPE encore
 
+ID OCLC-HFY
+NAME Summit County Library
+LOCATION Frisco, Silverthorne, and Breckenridge
+STATE CO
+CATTYPE vufindgeneral
+BASEURL http://summit.opac.marmot.org/Union/Search
+
 ID OCLC-COD
 NAME University of Colorado at Boulder
 LOCATION Boulder
@@ -2314,6 +2321,13 @@ STATE MN
 BASEURL http://walden.kohalibrary.com
 CATTYPE koha
 
+ID OCLC-MLU
+NAME Alcorn State University, J.D. Boyd Library
+LOCATION Lorman
+STATE MS
+BASEURL http://jdboyd.alcorn.edu/cgi-bin/Pwebrecon.cgi
+CATTYPE voyager
+
 ID OCLC-MJP
 NAME Jackson-Hinds Library System
 LOCATION Jackson and Hinds County
@@ -2716,6 +2730,13 @@ STATE NC
 BASEURL http://appencore.wncln.org/iii/encore
 CATTYPE encore
 
+ID OCLC-BEN
+NAME Bennett College
+LOCATION Greensboro
+STATE NC
+BASEURL http://bennett.worldcat.org/search
+CATTYPE worldcat
+
 ID OCLC-NDD
 NAME Duke University Libraries
 LOCATION Durham
@@ -3047,12 +3068,36 @@ BASEURL http://catalog.oslri.net/
 CATTYPE iii-consortium-member
 LCODE 1
 
+ID OCLC-ZKE
+NAME Allen University
+LOCATION Columbia
+STATE SC
+BASEURL http://207.67.203.72/A70005/OPAC/Search/AdvancedSearch.aspx
+CATTYPE eosweb
+DEFAULT http://www.allenuniversity.edu/academics/library/
+
+ID OCLC-BDC
+NAME Benedict College
+LOCATION Columbia
+STATE SC
+BASEURL http://alpsc5.state.sc.us/
+CATTYPE iii-consortium-member
+LCODE 2
+
 ID OCLC-SEA
 NAME Clemson University Libraries
 LOCATION Clemson
 STATE SC
 CATTYPE summon
 BASEURL http://clemson.summon.serialssolutions.com
+
+ID OCLC-VCM
+NAME Voorhees College
+LOCATION Denmark
+STATE SC
+BASEURL http://alpsc5.state.sc.us/
+CATTYPE iii-consortium-member
+LCODE 8
 
 ID OCLC-ZR8
 NAME Rawlins Municipal Library
@@ -3061,6 +3106,13 @@ STATE SD
 CATTYPE aleph1
 BASEURL http://argos.sdln.net
 LCODE rpl
+
+ID AMERICANBAPTIST
+NAME American Baptist College
+LOCATION Nashville
+STATE TN
+CATTYPE atriuum
+BASEURL http://abcnash.booksys.net/opac/abcnash/index.html#search:
 
 ID OCLC-TMN
 NAME Memphis Public Library and Information Center
@@ -3075,6 +3127,7 @@ LOCATION Nashville
 STATE TN
 CATTYPE encore
 BASEURL http://nplencore.library.nashville.org/iii/encore
+DEFAULT http://www.library.nashville.org/
 
 ID OCLC-TWS
 NAME Rhodes College

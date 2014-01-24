@@ -47,6 +47,13 @@ AUTURL ${BASEURL}/?q=author:"${ARG}"+
 ATIURL ${BASEURL}/?q=${TINDEX}:"${TITLE}"+author:"${AUTHOR}"+
 KEYURL ${BASEURL}/?q=${ARG}+
 
+CATTYPE atriuum
+SUBURL ${BASEURL}ExpertSearch?ST0=S&view=Bibliographic&SF0=${ARG}
+AUTURL ${BASEURL}ExpertSearch?ST0=N&view=Bibliographic&SF0=${ARG}
+TITURL ${BASEURL}ExpertSearch?ST0=T&view=Bibliographic&SF0=${ARG}
+ATIURL ${BASEURL}ExpertSearch?ST0=N&view=Bibliographic&SF0=${AUTHOR}&ST1=T&SF1=${TITLE}
+KEYURL ${BASEURL}ExpertSearch?ST0=Z&view=Bibliographic&SF0=${ARG}
+
 CATTYPE bibliocommons
 SUBURL ${BASEURL}/search?t=subject&q=${ARG}
 AUTURL ${BASEURL}/search?t=author&q=${ARG}
