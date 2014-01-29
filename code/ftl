@@ -71,6 +71,7 @@ my $countries = {
   'IN' => "India",
   'IE' => "Ireland",
   'NA' => "Namibia",
+  'NG' => "Nigeria",
   'NL' => "Netherlands",
   'NZ' => "New Zealand",
   'SG' => "Singapore",
