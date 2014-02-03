@@ -8,7 +8,7 @@
 #   or lexical analysis (such as many geographical locations)
 #   are not included in this file.
 # See docs file for documentation
-# Last updated 2014-01-21
+# Last updated 2014-02-02
 #
 3-D films|=|3D film
 3-D television|=|3D television
@@ -316,11 +316,13 @@ Arctic regions|=|Arctic
 Arda River (Italy)|=|Arda (Italy)
 Argonauts (Greek mythology)|=|Argonauts
 Arid regions agriculture|<->|Dryland farming
+Arlington National Cemetery (Arlington, Va.)|=|Arlington National Cemetery
 Armada, 1588|=|Spanish Armada
 Armenian Church|=|Armenian Apostolic Church
 Armenia (Republic)|=|Armenia
 Armies|=|Army
 Armor|=|Armour
+Armory Show (1913 : New York, N.Y.)|=|Armory Show
 Arnhem Land (N.T.)|<->|Arnhem Land
 Aromaticity (Chemistry)|=|Aromaticity
 Aromatic compounds|->|Aromaticity
@@ -483,6 +485,7 @@ Bachelorette parties|=|Bachelorette party
 Bachelors|=|Bachelor
 Back Bay (Boston, Mass.)|=|Back Bay, Boston
 Backache|<->|Back pain
+Backache|<-|Low back pain
 Bacon's Rebellion, 1676|=|Bacon's Rebellion
 Bacterial diseases|->|Pathogenic bacteria
 Baculoviruses|=|Baculovirus
@@ -816,7 +819,7 @@ Botany Bay (N.S.W.)|=|Botany Bay
 Bothwell Bridge, Battle of, Scotland, 1679|=|Battle of Bothwell Bridge
 Bottles|=|Bottle
 Bougainville Island (Papua New Guinea)|=|Bougainville Island
-Boundaries|=|Boundary
+Boundaries|=|Border
 Boundary value problems|=|Boundary value problem
 Bounty Mutiny, 1789|=|Mutiny on the Bounty
 Bounty (Ship)|=|HMS Bounty
@@ -828,6 +831,7 @@ BP Deepwater Horizon Explosion and Oil Spill, 2010|<-|Deepwater Horizon oil spil
 Braddock's Campaign, 1755|=|Braddock Expedition
 Brahmanism|<->|Historical Vedic religion
 Brainwashing|=|Mind control
+Breast -- Cancer|=|Breast cancer
 Breweries|=|Brewery
 Brewing industry|->|Brewing
 Bridegrooms|=|Groom
@@ -888,6 +892,7 @@ Burglar alarms|<->|Security alarm
 Burglars|->|Burglary
 Buriats|=|Buryats
 Burlesques|<->|Burlesque
+Burns and scalds|<->|Burn
 Bursa (Turkey)|=|Bursa
 Bury St. Edmunds (England)|<->|Bury St Edmunds
 Buses|=|Bus
@@ -946,6 +951,10 @@ Canadian wit and humor|<->|Canadian humour
 Canals|=|Canal
 Canandaigua (N.Y.)|=|Canandaigua (city), New York
 Canandaigua (N.Y. : Town)|=|Canandaigua (town), New York
+Cancer -- Alternative treatment|=|Alternative cancer treatments
+Cancer -- Epidemiology|=|Epidemiology of cancer
+Cancer -- Research|=|Cancer research
+Cancer -- Treatment|<->|Management of cancer
 Candles|=|Candle
 Cannabinoids|=|Cannabinoid
 Canned salmon|->|Salmon cannery
@@ -966,6 +975,7 @@ Carcinogens|=|Carcinogen
 Cardinals|=|Cardinal (Catholicism)
 Cardiologists|->|Cardiology
 Cardiovascular system|=|Circulatory system
+Cardiovascular system -- Diseases|<->|Cardiovascular disease
 Cardsharping|<->|Card sharp
 Card tricks|<->|Card manipulation
 Career education|->|Career
@@ -1014,6 +1024,7 @@ Cats|=|Cat
 Catskill Mountains (N.Y.)|=|Catskill Mountains
 Cattle drives|=|Cattle drive
 Caucasus, Northern (Russia)|=|North Caucasus
+Cave Hill Cemetery (Louisville, Ky.)|=|Cave Hill Cemetery
 Caves|=|Cave
 Cayuga Indians|=|Cayuga people
 Cayuse Indians|=|Cayuse people
@@ -1035,6 +1046,7 @@ Central Park (New York, N.Y.)|=|Central Park
 Central planning|<->|Economic planning
 Centre spatial guyanais|=|Guiana Space Centre
 Cervix uteri|=|Cervix
+Cervix uteri -- Cancer|=|Cervical cancer
 C&eacute;vennes Mountains (France)|=|Cévennes
 Cesium|=|Caesium
 Ceylon|->|Sri Lanka
@@ -1092,6 +1104,7 @@ Chicago (Ill.)|=|Chicago
 Chicago (Ill.) -- History|=|History of Chicago
 Chickamauga, Battle of, Ga., 1863|=|Battle of Chickamauga
 Chickens|=|Chicken
+Chiesa del Ges&amp;ugrave; (Rome, Italy)|=|Church of the Gesù
 Chignecto Isthmus (N.B. and N.S.)|=|Isthmus of Chignecto
 Chilcotin Indians|=|Tsilhqot'in
 Child actors|=|Child actor
@@ -1150,6 +1163,7 @@ Church buildings|=|Church (building)
 Church calendar|->|Liturgical year
 Church lands|->|Dissolution of the Monasteries
 Church Missionary Society|->|Church Mission Society
+Church of Christ (Whitmerites)|=|Church of Christ (Whitmerite)
 Church of Jesus Christ of Latter-day Saints|=|The Church of Jesus Christ of Latter-day Saints
 Church of Jesus Christ of Latter-day Saints -- Doctrines|<->|Beliefs and practices of The Church of Jesus Christ of Latter-day Saints
 Church of the Creator|<->|Creativity (religion)
@@ -1221,6 +1235,7 @@ Coeur d'Alene Miners' Strike, Idaho, 1899|=|Coeur d'Alene, Idaho labor confronta
 Coffeehouses|=|Coffeehouse
 Cognition in animals|=|Animal cognition
 Cognitive styles|=|Cognitive style
+Cold (Disease)|=|Common cold
 Collars|<->|Collar
 Collection development (Libraries)|=|Library collection development
 Collectivization of agriculture|<->|Collective farming
@@ -1230,6 +1245,7 @@ College students|->|Student
 College teachers|<->|Professor
 Collisions (Astrophysics)|<->|Impact event
 Colloids|=|Colloid
+Colon (Anatomy) -- Cancer|<->|Colorectal cancer
 Colonies|=|Colony
 Colorado River (Colo.-Mexico)|=|Colorado River
 Colored Methodist Episcopal Church|->|Christian Methodist Episcopal Church
@@ -1556,6 +1572,7 @@ Demonomania|->|Demonic possession
 Demonstrations|=|Demonstration (protest)
 Demyelination|=|Demyelinating disease
 Denali National Park and Preserve (Alaska)|=|Denali National Park and Preserve
+Dengue|<->|Dengue fever
 Dental hygienists|=|Dental hygienist
 Dental technicians|=|Dental technician
 Dentists|=|Dentist
@@ -1604,6 +1621,8 @@ Differentiable manifolds|=|Differentiable manifold
 Differential equations|=|Differential equation
 Differential operators|=|Differential operator
 Diffusion of innovation|=|Diffusion of innovations
+Digestive organs|->|Digestion
+Digestive organs -- Cancer|<->|Digestive system neoplasm
 Diggers (San Francisco, Calif.)|<->|Diggers (theater)
 Digital communications|<->|Data transmission
 Digital libraries|=|Digital library
@@ -2211,6 +2230,7 @@ Gas industry|->|Natural gas
 Gases|=|Gas
 Gases, Rare|<->|Noble gas
 Gastrointestinal system|<->|Human gastrointestinal tract
+Gastrointestinal system -- Cancer|=|Gastrointestinal cancer
 Gas turbines|=|Gas turbine
 Gateshead (England)|=|Gateshead
 Gatling guns|=|Gatling gun
@@ -2242,6 +2262,7 @@ Genetic transcription|=|Transcription (genetics)
 Genetically modified foods|=|Genetically modified food
 Geneva (Switzerland)|=|Geneva
 Genitourinary organs|=|Genitourinary system
+Genitourinary organs -- Cancer|<->|Urogenital neoplasm
 Genomes|=|Genome
 Gentleman's magazine (London, England)|=|The Gentleman's Magazine
 Geographic information systems|=|Geographic information system
@@ -2461,6 +2482,7 @@ Health behavior|->|Self care
 Health boards|=|Health board
 Health facilities|<->|Medical facility
 Health status indicators|=|Health indicator
+Heart -- Diseases|->|Cardiovascular disease
 Heart, Artificial|=|Artificial heart
 Heart murmurs|=|Heart murmur
 Heavy metal (Motion picture)|=|Heavy Metal (film)
@@ -2474,6 +2496,7 @@ Helicopters|=|Helicopter
 Hell -- Christianity|<->|Christian views on Hell
 Hematopoietic stem cells|=|Hematopoietic stem cell
 Hemorrhagic fever|<->|Viral hemorrhagic fever
+Hemorrhoids|=|Hemorrhoid
 Henry Street Settlement (New York, N.Y.)|=|Henry Street Settlement
 Heracles (Greek mythology)|=|Heracles
 Herbals|=|Herbal
@@ -2763,6 +2786,8 @@ Internet videos|=|Internet video
 Interpersonal relations|=|Interpersonal relationship
 Interstate commerce|<->|Commerce Clause
 Interstellar matter|=|Interstellar medium
+Intestine, Large|=|Large intestine
+Intestine, Small|=|Small intestine
 Intimate partner violence|->|Domestic violence
 Introduced organisms|=|Introduced species
 Introduced organisms|<-|Invasive species
@@ -3139,6 +3164,7 @@ Little magazines|->|Literary magazine
 Little Salmon River (Idaho)|=|Little Salmon River
 Little Smalltalk (Computer system)|<->|Little Smalltalk
 Liturgies|<->|Liturgy
+Liver -- Diseases|<->|Liver disease
 Liverpool (England)|=|Liverpool
 Lizards|=|Lizard
 Loans|=|Loan
@@ -3194,6 +3220,8 @@ Lumbermen|->|Lumberjack
 Lunar geology|=|Geology of the Moon
 Lundy's Lane, Battle of, Ont., 1814|=|Battle of Lundy's Lane
 Lungs|=|Lung
+Lungs -- Cancer|=|Lung cancer
+Lungs -- Diseases, Obstructive|<->|Obstructive lung disease
 Lupin, Ars&egrave;ne (Fictitious character)|=|Arsène Lupin
 Lupines|=|Lupinus
 Lushai (Asian people)|=|Lushei tribe
@@ -3822,6 +3850,7 @@ Nobel Prizes|=|Nobel Prize
 Nomads|=|Nomad
 Non-alcoholic beverages|=|Non-alcoholic beverage
 Non-governmental organizations|=|Non-governmental organization
+Non-insulin-dependent diabetes|<->|Diabetes mellitus type 2
 Nonjurors|<->|Non-juror
 Nonlethal weapons|=|Non-lethal weapon
 Non-Newtonian fluids|=|Non-Newtonian fluid
@@ -3869,6 +3898,7 @@ Numbers, Complex|=|Complex number
 Numerals|=|Numeral
 Numeration|<->|Numeral system
 Numerical weather forecasting|=|Numerical weather prediction
+Nunivak Island (Alaska)|=|Nunivak Island
 Nuns|=|Nun
 Nuprl (Computer system)|=|NuPRL
 Nuremberg (Germany)|=|Nuremberg
@@ -3998,6 +4028,7 @@ Otters|=|Otter
 Outcasts|=|Outcast (person)
 Outdoor writers|<->|Outdoor literature
 Ovaries|=|Ovary
+Ovaries -- Cancer|=|Ovarian cancer
 Overhead costs|<->|Overhead (business)
 Overpopulation|<->|Human overpopulation
 Oxen|=|Ox
@@ -4030,6 +4061,7 @@ Pamphlets|=|Pamphlet
 Pan (Greek deity)|=|Pan (god)
 Pan American Union|->|Organization of American States
 Panama Canal (Panama)|=|Panama Canal
+Pancreas -- Cancer|=|Pancreatic cancer
 Pangermanism|=|Pan-Germanism
 Panjabis (South Asian people)|=|Punjabi people
 Pansies|=|Pansy
@@ -4386,6 +4418,7 @@ Prose poems|=|Prose poetry
 Prosecution|->|Prosecutor
 Proselytizing|=|Proselytism
 Proserpina (Roman deity)|=|Proserpina
+Prostate -- Cancer|=|Prostate cancer
 Prostitutes|->|Prostitution
 Protective clothing|<->|Personal protective equipment
 Proteins|=|Protein
@@ -4485,16 +4518,17 @@ Radiation injuries|<->|Acute radiation syndrome
 Radicalism|=|Political radicalism
 Radicals|->|Political radicalism
 Radio -- Antennas|->|Antenna (radio)
+Radio Liberty|->|Radio Free Europe/Radio Liberty
+Radio plays|=|Radio drama
+Radio talk shows|<->|Talk radio
+Radio telescopes|=|Radio telescope
 Radioactive fallout|=|Nuclear fallout
 Radioactive pollution|<->|Radioactive contamination
 Radioactive waste disposal|->|Radioactive waste
 Radioactive wastes|=|Radioactive waste
 Radioactivity|->|Radioactive decay
 Radioisotopes|=|Radionuclide
-Radio Liberty|->|Radio Free Europe/Radio Liberty
-Radio plays|=|Radio drama
-Radio talk shows|<->|Talk radio
-Radio telescopes|=|Radio telescope
+Radiotherapy|<->|Radiation therapy
 Raeto-Romance language|=|Romansh language
 Raffles (Fictitious character)|=|A. J. Raffles
 Ragpickers|=|Ragpicker
@@ -4541,6 +4575,7 @@ Reconstruction (U.S. history, 1865-1877)|=|Reconstruction Era
 Records|->|Record
 Records -- Management|=|Records management
 Records retention|<->|Data retention
+Rectum -- Cancer|->|Colorectal cancer
 Red Cross and Red Crescent|<->|International Red Cross and Red Crescent Movement
 Red Dot Design Award|=|Red Dot
 Red International of Labor Unions|=|Profintern
@@ -5113,8 +5148,9 @@ Solar atmosphere|->|Sun
 Solar cells|=|Solar cell
 Solar plexus|=|Celiac plexus
 Solar radiation|->|Sunlight
-Soldiers of fortune|->|Mercenary
 Soldiers|=|Soldier
+Soldiers of fortune|->|Mercenary
+Soldiers' National Cemetery (Gettysburg, Pa.)|<->|Gettysburg National Cemetery
 Solferino, Battle of, Solferino, Italy, 1859|=|Battle of Solferino
 Solution (Chemistry)|=|Solution
 Somerset (England)|=|Somerset
@@ -5303,6 +5339,7 @@ Suffragists|=|Suffragette
 Sufis|->|Sufism
 Sugar trade|->|Sugar
 Suicidal behavior|<->|Suicide crisis
+Suicide -- Prevention|=|Suicide prevention
 Suicide bombings|<->|Suicide attack
 Sulu Archipelago (Philippines)|=|Sulu Archipelago
 Sumerians|->|Sumer
@@ -5732,6 +5769,7 @@ Urban policy|->|Urban planning
 Urbino Studiolo (Palazzo ducale, Urbino, Italy)|->|Palazzo Ducale, Urbino
 Urdu language|=|Urdu
 Uriel (Archangel)|=|Uriel
+Urinary tract infections|=|Urinary tract infection
 Urn burial|->|Cremation
 U.S. Army Medical Research Institute of Infectious Diseases|=|United States Army Medical Research Institute of Infectious Diseases
 U.S. Atomic Energy Commission|=|United States Atomic Energy Commission
@@ -5743,6 +5781,7 @@ Usonian houses|<->|Usonia
 Usun (Central Asian people)|<->|Uysyn
 Ut pictura poesis (Aesthetics)|<->|Ut pictura poesis
 Ute Indians|=|Ute people
+Uterus -- Cancer|=|Uterine cancer
 Utopias|=|Utopia
 Vacation homes|<->|Vacation property
 Vacation rentals|=|Vacation rental

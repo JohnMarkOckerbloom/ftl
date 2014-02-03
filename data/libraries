@@ -1421,6 +1421,14 @@ STATE CA
 CATTYPE summon
 BASEURL http://usc.summon.serialssolutions.com
 
+ID OCLC-YOL
+NAME Yolo County Library
+LOCATION Yolo County
+STATE CA
+BASEURL http://web-iii.yolocounty.org/
+CATTYPE iii-consortium-member
+LCODE 23
+
 ID OCLC-CO3
 NAME Boulder Public Library
 LOCATION Boulder
@@ -2704,6 +2712,14 @@ CATTYPE iii-consortium-member
 BASEURL http://midhudsonlibraries.org
 LCODE 1
 
+# ID is for Mohawk system
+ID OCLC-VML
+NAME Mohawk Valley and Southern Adirondack Library Systems
+LOCATION Public libraries in 8 counties northwest of Albany
+STATE NY
+BASEURL http://pac.sals.edu/polaris
+CATTYPE polaris
+
 # using the ID for Rochester PL (since Monroe Cty doesn't seem to have one)
 ID OCLC-YQR
 NAME Monroe County Library System
@@ -2734,6 +2750,16 @@ LOCATION New York
 STATE NY
 CATTYPE bibliocommons
 BASEURL http://nypl.bibliocommons.com
+
+ID OCLC-ZQP
+NAME Queens Library
+LOCATION Queens
+STATE NY
+BASEURL http://www.queenslibrary.org
+SUBURL ${BASEURL}/search/apachesolr_search?filters=tm_s:"${ARG}"
+AUTURL ${BASEURL}/search/apachesolr_search?filters=tm_a:"${ARG}"
+TITURL ${BASEURL}/search/apachesolr_search?filters=tm_t:"${ARG}"
+KEYURL ${BASEURL}/search/apachesolr_search/${ARG}
 
 ID OCLC-RVE
 NAME Rochester Institute of Technology
