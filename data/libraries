@@ -1144,6 +1144,15 @@ STATE CA
 BASEURL http://encore.berkeley-public.org/iii/encore
 CATTYPE encore
 
+ID OCLC-JQI
+NAME Butte County Library
+LOCATION Butte County
+STATE CA
+CATTYPE tlc
+LCODE pac
+BRANCH ,0,
+BASEURL http://library.buttecounty.net/
+
 ID OCLC-CPS
 NAME California Polytechnic State University
 LOCATION San Luis Obispo
@@ -1165,6 +1174,13 @@ STATE CA
 CATTYPE encorekey
 BASEURL http://encore.chulavista.lib.ca.us/iii/encore
 SKIN def
+
+ID OCLC-CCS
+NAME City College of San Francisco
+LOCATION San Francisco
+STATE CA
+BASEURL http://diego.ccsf.edu
+CATTYPE innopac
 
 ID OCLC-JQJ 
 NAME Contra Costa Library
@@ -1326,6 +1342,13 @@ NAME San Jose Public Library
 LOCATION San Jose
 STATE CA
 BASEURL http://discover.sjlibrary.org/iii/encore_sjpl
+CATTYPE encore
+
+ID OCLC-2CS
+NAME San Jose State University
+LOCATION San Jose
+STATE CA
+BASEURL http://discover.sjlibrary.org/iii/encore_sjsu
 CATTYPE encore
 
 ID OCLC-JTW
