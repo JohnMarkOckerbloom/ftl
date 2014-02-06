@@ -3184,12 +3184,40 @@ BASEURL http://alpsc5.state.sc.us/
 CATTYPE iii-consortium-member
 LCODE 2
 
+ID CHARLESTON
+NAME Charleston County Public Library
+LOCATION Charleston and vicinity
+STATE SC
+CATTYPE sirsient
+BASEURL http://catalog.ccpl.org
+
 ID OCLC-SEA
 NAME Clemson University Libraries
 LOCATION Clemson
 STATE SC
 CATTYPE summon
 BASEURL http://clemson.summon.serialssolutions.com
+
+ID OCLC-SFU
+NAME Furman University Libraries
+LOCATION Greenville
+STATE SC
+BASEURL http://alcuin.furman.edu
+CATTYPE innopac
+
+ID OCLC-SGR
+NAME Greenville County Library System
+LOCATION Greenville and vicinity
+STATE SC
+CATTYPE encore
+BASEURL http://encore.greenvillelibrary.org/iii/encore
+
+ID OCLC-SRC
+NAME Richland Library
+LOCATION Columbia and Richland County
+STATE SC
+BASEURL http://www.richlandlibrary.com
+KEYURL ${BASEURL}/search-bb?query=${ARG:N}
 
 ID OCLC-VCM
 NAME Voorhees College
