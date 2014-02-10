@@ -585,6 +585,13 @@ COUNTRY IN
 BASEURL http://203.129.216.173:8000/cgi-bin/gw/chameleon
 CATTYPE chameleon
 
+ID OCLC-FKT
+NAME Museo Galileo Library
+LOCATION Florence
+COUNTRY IT
+BASEURL http://colombo.imss.fi.it/IMSS/?uilang=en
+KEYURL ${BASEURL}&q=${ARG:S}
+
 ID OCLC-U5N
 NAME University of Namibia
 LOCATION Windhoek and other campuses
@@ -3344,6 +3351,13 @@ AINDEX .AN
 TINDEX ALTITLN
 KINDEX .GN
 
+ID OCLC-TXPAL
+NAME Palacios Library
+LOCATION Palacios and Blessing
+STATE TX
+CATTYPE atriuum
+BASEURL http://palacioslibrary.booksys.net/opac/palacios/index.html?mode=main#search:
+
 ID OCLC-RCE
 NAME Rice University
 LOCATION Houston
@@ -3376,6 +3390,22 @@ CATTYPE primo
 BASEURL http://search.library.tamu.edu:1701/primo_library
 VID tamu
 DEFAULT http://library.tamu.edu/
+
+ID OCLC-TXT
+NAME Texas Southern University
+LOCATION Houston
+STATE TX
+CATTYPE voyager-vwebv
+BASEURL http://txsouthern-voyager.hosted.exlibrisgroup.com/vwebv/search
+
+ID OCLC-ILU
+NAME Texas Tech University Libraries
+LOCATION Lubbock
+STATE TX
+CATTYPE primo
+BASEURL http://onesearch.lib.ttu.edu:1701/primo_library
+VID TTU
+DEFAULT http://library.ttu.edu/
 
 ID OCLC-IWU
 NAME Texas Woman's University
