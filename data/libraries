@@ -675,7 +675,7 @@ NAME University of Limpopo Libraries
 LOCATION Turfloop and Medunsa
 COUNTRY ZA
 CATTYPE webpacpro
-BASEURL http://196.21.109.8:2082/
+BASEURL http://196.21.109.8/
 FILTERS AN
 
 # using WorldCat code for National Taichung Library for the moment
@@ -2895,6 +2895,13 @@ CATTYPE vufindrc1
 FILTERS NK
 LCODE NFG
 
+ID OCLC-NMP
+NAME Minot Public Library
+LOCATION Minot
+STATE ND
+CATTYPE atriuum
+BASEURL http://atriuum.minotlibrary.org/opac/mpl/index.html?mode=main#search:
+
 ID OCLC-APL
 NAME Akron-Summit County Public Library
 LOCATION Akron and vicinity
@@ -3031,6 +3038,13 @@ BASEURL http://205.247.101.11
 CATTYPE iii-consortium-member
 LCODE NaN
 
+ID OCLC-PCH
+NAME Cheyney University Library
+LOCATION Cheyney
+STATE PA
+BASEURL http://pilot.passhe.edu:8062/cgi-bin/Pwebrecon.cgi
+CATTYPE voyager
+
 ID OCLC-DXU
 NAME Drexel University Libraries
 LOCATION Philadelphia
@@ -3118,6 +3132,13 @@ STATE PA
 BASEURL http://catalog.friends-select.org:2051/
 CATTYPE webpacpro
 DEFAULT http://catalog.friends-select.org:2051/search~S69
+
+ID OCLC-LZU
+NAME Lincoln University
+LOCATION Lincoln University, Chester County
+STATE PA
+CATTYPE vufind
+BASEURL http://vf-lincoln.klnpa.org/vufind
 
 ID OCLC-TEU
 NAME Temple University Libraries
@@ -3233,6 +3254,13 @@ STATE SC
 BASEURL http://alpsc5.state.sc.us/
 CATTYPE iii-consortium-member
 LCODE 8
+
+ID OCLC-RCP
+NAME Rapid City Public Libraries
+LOCATION Rapid City and Pennington County
+STATE SD
+CATTYPE encore
+BASEURL http://rcpl-mt.iii.com/iii/encore
 
 ID OCLC-ZR8
 NAME Rawlins Municipal Library
