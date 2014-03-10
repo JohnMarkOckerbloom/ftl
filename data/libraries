@@ -670,6 +670,14 @@ KEYURL ${BASEURL}?methodToCall=submitButtonCall&methodToCallParameter=submitSear
 DEFAULT DOMAIN
 COUNTRY CH
 
+ID OCLC-OM@
+NAME Walter Sisulu University
+LOCATION Mthatha
+COUNTRY ZA
+CATTYPE iii-consortium-member
+BASEURL http://opac.seals.ac.za
+LCODE 13
+
 ID OCLC-OE-DOLLAR
 NAME University of Limpopo Libraries
 LOCATION Turfloop and Medunsa
@@ -692,6 +700,14 @@ LOCATION Taipei
 COUNTRY TW
 CATTYPE sirsi
 BASEURL http://webcat.tpml.edu.tw/uhtbin/cgisirsi
+
+ID OCLC-B9K
+NAME Bilkent University Library
+LOCATION Ankara
+COUNTRY TR
+CATTYPE sirsient
+LCODE university
+BASEURL http://librarycatalog.bilkent.edu.tr
 
 ID OCLC-AU-SHARP
 NAME Anglia Ruskin University
@@ -1227,6 +1243,13 @@ LOCATION Cooperating libraries in California and Nevada
 STATE CA
 BASEURL http://csul.iii.com
 CATTYPE innopac
+
+ID OCLC-LOD
+NAME Lodi Public Library
+LOCATION Lodi
+STATE CA
+CATTYPE sirsi
+BASEURL http://lodicat.stockton.lib.ca.us/uhtbin/cgisirsi
 
 ID OCLC-1LP
 NAME Los Angeles Public Library
@@ -2325,6 +2348,13 @@ LOCATION Ypsilanti
 STATE MI
 CATTYPE summon
 BASEURL http://emich.summon.serialssolutions.com
+
+ID OCLC-LKR
+NAME Lakenet: Lakeland Library Cooperative
+LOCATION 70+ public libraries in West Michigan
+STATE MI
+BASEURL http://frodo.llcoop.org/iii/encore
+CATTYPE encore
 
 ID OCLC-EEL
 NAME Lansing Community College
