@@ -592,6 +592,13 @@ COUNTRY IT
 BASEURL http://colombo.imss.fi.it/IMSS/?uilang=en
 KEYURL ${BASEURL}&q=${ARG:S}
 
+ID OCLC-KEJKU
+NAME Kenyatta University
+LOCATION Nairobi
+COUNTRY KE
+BASEURL http://maktaba.ku.ac.ke
+CATTYPE koha
+
 ID OCLC-U5N
 NAME University of Namibia
 LOCATION Windhoek and other campuses
@@ -670,13 +677,13 @@ KEYURL ${BASEURL}?methodToCall=submitButtonCall&methodToCallParameter=submitSear
 DEFAULT DOMAIN
 COUNTRY CH
 
-ID OCLC-OM@
-NAME Walter Sisulu University
-LOCATION Mthatha
+ID OCLC-X-DOLLAR-@
+NAME National Library of South Africa
+LOCATION Pretoria
 COUNTRY ZA
 CATTYPE iii-consortium-member
-BASEURL http://opac.seals.ac.za
-LCODE 13
+BASEURL http://www.legaldeposit.ac.za
+LCODE 7
 
 ID OCLC-OE-DOLLAR
 NAME University of Limpopo Libraries
@@ -685,6 +692,22 @@ COUNTRY ZA
 CATTYPE webpacpro
 BASEURL http://196.21.109.8/
 FILTERS AN
+
+# using Department of Info Science ID (can't find one for Univ generally)
+ID OCLC-SADIS
+NAME University of South Africa
+LOCATION Pretoria and other campuses
+COUNTRY ZA
+CATTYPE encore
+BASEURL http://encore.unisa.ac.za/iii/encore
+
+ID OCLC-OM@
+NAME Walter Sisulu University
+LOCATION Mthatha
+COUNTRY ZA
+CATTYPE iii-consortium-member
+BASEURL http://opac.seals.ac.za
+LCODE 13
 
 # using WorldCat code for National Taichung Library for the moment
 ID OCLC-CHNTL
@@ -3793,3 +3816,11 @@ LOCATION Laramie
 STATE WY
 CATTYPE summon
 BASEURL http://uwyo.summon.serialssolutions.com
+
+ID OCLC-W8I
+NAME University of Zimbabwe
+LOCATION Harare
+COUNTRY ZW
+BASEURL http://uzlibsys.uz.ac.zw
+CATTYPE innopac
+

@@ -71,6 +71,7 @@ my $countries = {
   'IN' => "India",
   'IE' => "Ireland",
   'IT' => "Italy",
+  'KE' => "Kenya",
   'NA' => "Namibia",
   'NG' => "Nigeria",
   'NL' => "Netherlands",
@@ -81,6 +82,7 @@ my $countries = {
   'UK' => "United Kingdom",
   'US' => "United States",
   'ZA' => "South Africa",
+  'ZW' => "Zimbabwe",
 };
 
 my $states = {
@@ -444,7 +446,7 @@ sub showlibrarylinks {
     if ($rec->{COUNTRY} ne $ccode) {
       if ($ccode) {
         print "</ul>";
-        if ($ccode eq "CA") {
+        if ($ccode eq "CA" || $ccode eq "US") {
           print "</ul>";
         }
       }
@@ -459,7 +461,7 @@ sub showlibrarylinks {
       }
       print qq!<ul>!;
     }
-    if ($rec->{STATE} ne $statecode) {
+    if ($rec->{STATE} && $rec->{STATE} ne $statecode) {
       if ($statecode) {
         print "</ul>";
       }
@@ -483,7 +485,10 @@ sub showlibrarylinks {
     }
     print qq!<li> <a href="$url">$rec->{NAME}</a> ($rec->{LOCATION})\n!;
   }
-  print qq!</ul></ul>\n!;
+  if ($ccode eq "US") {
+    print qq!</ul>\n!;
+  }
+  print qq!</ul>\n!;
 }
 
 # wheretogoto returns the symbol of library the user should go to
