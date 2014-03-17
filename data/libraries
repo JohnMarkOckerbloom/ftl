@@ -1024,7 +1024,6 @@ STATE AL
 CATTYPE sirsient
 LCODE default
 BASEURL http://alabamam.sdp.sirsi.net
-STATE AL
 
 ID OCLC-AMU
 NAME Alabama State University
@@ -1871,6 +1870,38 @@ CATTYPE primo
 BASEURL http://uhawaii-primo.hosted.exlibrisgroup.com/primo_library
 VID OUZ
 DEFAULT http://manoa.hawaii.edu/libraries/
+
+ID OCLC-1OE
+NAME Boise Public Library
+LOCATION Boise
+STATE ID
+CATTYPE sirsient
+LCODE boise
+BASEURL http://lynx.ent.sirsi.net
+
+ID OCLC-I4F
+NAME Idaho Falls Public Library
+LOCATION Idaho Falls
+STATE ID
+BASEURL http://catalog.ifpl.org
+CATTYPE ipac20
+PROFILE ifl
+
+ID OCLC-ZPJ
+NAME Meridian Library District
+LOCATION Meridian
+STATE ID
+CATTYPE sirsient
+LCODE mld
+BASEURL http://lynx.ent.sirsi.net
+
+ID OCLC-ZPP
+NAME Nampa Public Library
+LOCATION Nampa
+STATE ID
+CATTYPE sirsient
+LCODE npl
+BASEURL http://lynx.ent.sirsi.net
 
 ID OCLC-NTD
 NAME University of Idaho Library
