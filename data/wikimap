@@ -8,7 +8,7 @@
 #   or lexical analysis (such as many geographical locations)
 #   are not included in this file.
 # See docs file for documentation
-# Last updated 2014-02-02
+# Last updated 2014-03-21
 #
 3-D films|=|3D film
 3-D television|=|3D television
@@ -668,7 +668,7 @@ Baseball players|->|Baseball
 Baseballs|=|Baseball (ball)
 Basques|=|Basque people
 Bas-relief|->|Relief
-BASIC (Computer program language)|=|Basic
+BASIC (Computer program language)|=|BASIC
 Basketballs|=|Basketball (ball)
 Bass Islands (Ohio)|=|Bass Islands
 Bass voice|=|Bass (voice type)
@@ -1127,6 +1127,7 @@ Cambridge (England)|=|Cambridge
 Camden, Battle of, Camden, S.C., 1780|=|Battle of Camden
 Camembert cheese|=|Camembert
 Camino de Santiago de Compostela|=|Way of St. James
+Camp Douglas (Ill.)|=|Camp Douglas (Chicago)
 Camp Fire, inc.|=|Camp Fire
 Camp Fire Girls|->|Camp Fire
 Camp meetings|=|Camp meeting
@@ -1873,6 +1874,7 @@ Deafness|<->|Hearing loss
 Death of God theology|=|God is dead
 Death Valley (Calif. and Nev.)|<->|Death Valley
 Death Valley National Park (Calif. and Nev.)|=|Death Valley National Park
+Debt, Imprisonment for|<->|Debtors' prison
 Debtor and creditor|<->|Debtor
 Debts, Public|=|Government debt
 Debutantes|=|Debutante
@@ -2237,8 +2239,14 @@ Engineers|=|Engineer
 England -- Religion|=|Religion in England
 England -- Social life and customs|<->|Culture of England
 England, Northern|=|Northern England
+English language -- Alphabet|=|English alphabet
 English language -- Australia|=|Australian English
 English language -- Canada|=|Canadian English
+English language -- Dialects|<->|List of dialects of the English language
+English language -- Grammar|=|English grammar
+English language -- India|<->|Indian English
+English language -- Punctuation|=|Punctuation of English
+English language -- Scotland|=|Scottish English
 English language -- Study and teaching -- Foreign speakers|<->|English as a second or foreign language
 English language -- United States|=|American English
 English newspapers|->|List of newspapers in the United Kingdom
@@ -3213,6 +3221,7 @@ Imperial automobile|=|Imperial (automobile)
 Impersonation|<->|Impersonator
 Imports|=|Import
 Impressionism (Art)|=|Impressionism
+Imprisonment -- United States|<->|Incarceration in the United States
 Improvisation (Music)|=|Musical improvisation
 Inca art|->|Prehistoric art
 Inca roads|<->|Inca road system
@@ -3316,6 +3325,7 @@ Insurance agents|->|Insurance broker
 Insurance companies|->|Insurance
 Integrals|<->|Integral
 Integrated circuits|=|Integrated circuit
+Integrated library systems (Computer systems)|=|Integrated library system
 Intellectuals|=|Intellectual
 Intelligence officers|=|Intelligence officer
 Intelligence service|=|Intelligence agency
@@ -3508,6 +3518,7 @@ Jewish poetry|->|Jewish literature
 Jewish sailors|->|List of Jews in sports
 Jewish women|->|Women in Judaism
 Jews -- History|<->|Jewish history
+Jews -- Identity|=|Jewish identity
 Jews -- New York (State) -- New York|<->|History of the Jews in New York City
 Jews -- New York (State) -- New York -- History|->|History of the Jews in New York City
 Jews -- United States|<->|American Jews
@@ -5022,6 +5033,7 @@ Peasants|=|Peasant
 Peccaries|=|Peccary
 Pecorino cheese|=|Pecorino
 Pediatricians|->|Pediatrics
+Peer-to-peer architecture (Computer networks)|<->|Peer-to-peer
 Pegmatites|=|Pegmatite
 Pell's Point, Battle of, N.Y., 1776|=|Battle of Pell's Point
 Peloponnesus (Greece : Peninsula)|=|Peloponnese
@@ -5543,6 +5555,8 @@ Realism in art|=|Realism (arts)
 Realism in literature|=|Literary realism
 Reality television programs|=|Reality television
 Reasoning|<->|Logical reasoning
+Rebus, Inspector (Fictitious character)|<->|Inspector Rebus
+Rebuses|<->|Rebus
 Recluses|=|Recluse
 Reconstruction (U.S. history, 1865-1877)|=|Reconstruction Era
 Records|->|Record
@@ -6153,6 +6167,7 @@ Slaves of the Immaculate Heart of Mary|<->|Feeneyism
 Slaves|->|Slavery
 Slaves' writings|->|Slave narrative
 Sled dogs|=|Sled dog
+Sleep behavior in animals|<->|Sleep (non-human)
 Sleep disorders|=|Sleep disorder
 Sleep-wake cycle|->|Circadian rhythm
 Sleeping Bear Dunes National Lakeshore (Mich.)|=|Sleeping Bear Dunes National Lakeshore
@@ -7383,6 +7398,7 @@ Women -- History -- Middle Ages, 500-1500|<->|Women in the Middle Ages
 Women -- Suffrage|=|Women's suffrage
 Women -- Suffrage -- United States|=|Women's suffrage in the United States
 Women -- United States -- History|=|History of women in the United States
+Women -- Violence against|=|Violence against women
 Women and freemasonry|=|Freemasonry and women
 Women astronauts|<->|List of female astronauts
 Women heads of state|<->|List of elected and appointed female heads of state

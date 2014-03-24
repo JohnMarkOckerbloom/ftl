@@ -2897,6 +2897,16 @@ STATE NY
 BASEURL http://encore.suffolk.lib.ny.us/iii/encore
 CATTYPE encore
 
+ID OCLC-YOM
+NAME SUNY Oswego, Penfield Library
+LOCATION Oswego
+STATE NY
+CATTYPE alephcuny
+BASEURL http://osw.sunyconnect.suny.edu:4470
+SINDEX FIND_WSU
+TINDEX WTI
+FILTERS NK
+
 ID OCLC-XTC
 NAME Touro College Libraries
 LOCATION New York
@@ -3027,6 +3037,15 @@ LOCATION Columbus
 STATE OH
 BASEURL http://osu.worldcat.org/search
 CATTYPE worldcat
+
+# consortium not found in OCLC
+ID OPALCONSORTIUM
+NAME OPAL Consortium
+LOCATION 24 academic libraries in Ohio
+STATE OH
+BASEURL http://cat.opal-libraries.org
+CATTYPE iii-consortium-member
+LCODE 28
 
 ID OCLC-OCP
 NAME Public Library of Cincinnati and Hamilton County
@@ -3661,6 +3680,13 @@ LOCATION Blacksburg
 STATE VA
 CATTYPE summon
 BASEURL http://vt.summon.serialssolutions.com
+
+ID OCLC-BLP
+NAME Bellingham Public Library
+LOCATION Bellingham
+STATE WA
+CATTYPE bibliocommons
+BASEURL http://bellingham.bibliocommons.com
 
 ID OCLC-F3L
 NAME Fletcher Free Library

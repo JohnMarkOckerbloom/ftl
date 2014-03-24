@@ -20,9 +20,11 @@ TITURL ${BASEURL}/F/?func=find-b&find_code=${TINDEX}&local_base=${LCODE}&request
 KEYURL ${BASEURL}/F/?func=find-b&find_code=WRD&local_base=${LCODE}&request=${ARG}
 
 CATTYPE alephcuny
-SUBURL ${BASEURL}/F/?func=find-e&find_scan_code=SCAN_SUL&local_base=${LCODE}&request=${ARG}
+SINDEX SCAN_SUL
+TINDEX TTL
+SUBURL ${BASEURL}/F/?func=find-e&find_scan_code=${SINDEX}&local_base=${LCODE}&request=${ARG}
 AUTURL ${BASEURL}/F/?func=find-b&find_code=AUT&local_base=${LCODE}&request=${ARG}
-TITURL ${BASEURL}/F/?func=find-b&find_code=TTL&local_base=${LCODE}&request=${ARG:A}
+TITURL ${BASEURL}/F/?func=find-b&find_code=${TINDEX}&local_base=${LCODE}&request=${ARG:A}
 KEYURL ${BASEURL}/F/?func=find-b&find_code=WRD&local_base=${LCODE}&request=${ARG}
 
 CATTYPE alexandria
