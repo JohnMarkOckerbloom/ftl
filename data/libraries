@@ -732,6 +732,14 @@ CATTYPE sirsient
 LCODE university
 BASEURL http://librarycatalog.bilkent.edu.tr
 
+ID OCLC-UGUCU
+NAME Uganda Christian University
+LOCATION Mukono
+COUNTRY UG
+BASEURL http://library.ucu.ac.ug
+CATTYPE koha
+FILTERS S
+
 ID OCLC-AU-SHARP
 NAME Anglia Ruskin University
 LOCATION Cambridge, Chelmsford, and Peterborough, England
@@ -3061,6 +3069,13 @@ STATE OH
 BASEURL http://encore.toledolibrary.org/iii/encore
 CATTYPE encore
 
+ID OCLC-OKI
+NAME Southeastern Public Library System of Oklahoma
+LOCATION 7 counties in southeast Oklahoma
+STATE OK 
+BASEURL http://unicorn.oklibrary.net/uhtbin/cgisirsi
+CATTYPE sirsi
+
 ID OCLC-TUL
 NAME Tulsa City-County Library
 LOCATION Tulsa
@@ -3372,6 +3387,14 @@ STATE SD
 CATTYPE aleph1
 BASEURL http://argos.sdln.net
 LCODE rpl
+
+ID OCLC-SDSDL
+NAME South Dakota Library Network
+LOCATION Various ibraries throughout the state
+STATE SD
+CATTYPE aleph1
+BASEURL http://argos.sdln.net
+
 
 ID AMERICANBAPTIST
 NAME American Baptist College

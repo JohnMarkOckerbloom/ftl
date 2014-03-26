@@ -79,6 +79,7 @@ my $countries = {
   'SG' => "Singapore",
   'TR' => "Turkey",
   'TW' => "Taiwan",
+  'UG' => "Uganda",
   'UK' => "United Kingdom",
   'US' => "United States",
   'ZA' => "South Africa",
