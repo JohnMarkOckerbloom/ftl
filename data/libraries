@@ -1659,6 +1659,14 @@ LCODE bethune
 BRANCH ,0,
 BASEURL http://library.catalog.cookman.edu/
 
+ID OCLC-FMB
+NAME Brevard County Libraries
+LOCATION Space Coast area
+STATE FL
+CATTYPE ls2pac
+BASEURL http://discover.mylibraryworld.com/
+FILTERS S
+
 ID OCLC-FBR
 NAME Broward County Library
 LOCATION Fort Lauderdale and vicinity
@@ -1841,6 +1849,20 @@ CATTYPE primo
 BASEURL http://discovere.emory.edu/primo_library
 VID discovere
 DEFAULT DOMAIN
+
+ID OCLC-GFV
+NAME Fort Valley State University
+LOCATION Fort Valley
+STATE GA
+BASEURL http://gilfind.fvsu.edu/vufind
+CATTYPE vufind
+
+ID OCLC-GSGSL
+NAME Georgia Public Library Service, PINES catalog
+LOCATION Public libraries throughout the state
+STATE GA
+CATTYPE evergreen-dynamic
+BASEURL http://gapines.org/eg/opac
 
 ID OCLC-GAT
 NAME Georgia Tech Library
