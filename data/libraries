@@ -104,6 +104,14 @@ CATTYPE primo
 BASEURL http://macquarie-primo.hosted.exlibrisgroup.com/primo_library
 VID MQ
 
+ID AU-VMOU
+NAME Monash University
+LOCATION Melbourne, Victoria
+COUNTRY AU
+CATTYPE primo
+BASEURL http://search.lib.monash.edu/primo_library
+VID MON
+
 ID AU-ANL
 NAME National Library of Australia
 LOCATION Canberra, ACT
@@ -150,6 +158,14 @@ COUNTRY AU
 CATTYPE encore
 BASEURL http://encore.slsa.sa.gov.au/iii/encore
 
+ID AU-VSL
+NAME State Library of Victoria
+LOCATION Melbourne, Victoria
+COUNTRY AU
+CATTYPE primo
+BASEURL http://search.slv.vic.gov.au/primo_library
+VID MAIN
+
 ID AU-WLB
 NAME State Library of Western Australia
 LOCATION Perth, Western Australia
@@ -171,6 +187,21 @@ LOCATION Ballarat, Victoria
 COUNTRY AU
 BASEURL http://innopac.ballarat.edu.au
 CATTYPE innopac
+
+ID AU-WU
+NAME University of Western Australia
+LOCATION Perth, Western Australia
+COUNTRY AU
+CATTYPE primo
+BASEURL http://onesearch.library.uwa.edu.au/primo_library
+VID UWA
+
+ID AU-NWU 
+NAME University of Wollongong
+LOCATION Wollongong, New South Wales
+COUNTRY AU
+CATTYPE summon
+BASEURL http://uow.summon.serialssolutions.com
 
 ID OCLC-CN5O6
 NAME Calgary Public Library
