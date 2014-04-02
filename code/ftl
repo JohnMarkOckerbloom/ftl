@@ -704,9 +704,9 @@ sub transform {
     } elsif ($transform eq "K" || $transform eq "keyword") {
       $value = makekeywords($value);
     } elsif ($transform eq "S" || $transform eq "simplifyname") {
-      if ($value =~ /^([^,]*,[^,]*),/) {
+      if ($value =~ /^([^,]*,[^,]*)\(/) {
         $value = $1;
-      } elsif ($value =~ /^([^,]*,[^,]*)\(/) {
+      } elsif ($value =~ /^([^,]*,[^,]*),/) {
         $value = $1;
       }
     }

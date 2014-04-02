@@ -378,12 +378,26 @@ PROVINCE ON
 CATTYPE encore
 BASEURL http://encore.sudbury.library.on.ca/iii/encore
 
+ID OCLC-CNGUP
+NAME Guelph Public Library
+LOCATION Guelph
+PROVINCE ON
+BASEURL http://catalog.library.guelph.on.ca/polaris
+CATTYPE polaris
+
 ID OCLC-CNHML
 NAME Hamilton Public Library
 LOCATION Hamilton
 PROVINCE ON
 CATTYPE bibliocommons
 BASEURL http://hpl.bibliocommons.com
+
+ID CA-OHAN
+NAME Hanover Public Library
+LOCATION Hanover
+PROVINCE ON
+BASEURL http://koha.hanoverlibrary.ca
+CATTYPE koha
 
 # I haven't gotten their Iguana links to work, but they still have Vubis
 ID OCLC-0WP
@@ -608,6 +622,14 @@ LOCATION Limerick
 COUNTRY IE
 BASEURL http://ul.summon.serialssolutions.com
 CATTYPE summon
+
+ID SOUTHASIAN
+NAME South Asian University: SAU Library
+LOCATION New Delhi
+COUNTRY IN
+BASEURL http://library.sau.ac.in
+CATTYPE koha
+FILTERS S
 
 ID OCLC-INUOK
 NAME University of Kashmir
@@ -847,8 +869,8 @@ ID OCLC-UKMTU
 NAME De Montfort University
 LOCATION Leicester, England
 COUNTRY UK
-CATTYPE prism
-BASEURL http://prism1.library.dmu.ac.uk
+CATTYPE prismhosted
+BASEURL http://capitadiscovery.co.uk/dmu
 
 ID OCLC-CUD
 NAME Cambridge University Library
