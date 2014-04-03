@@ -301,6 +301,23 @@ PROVINCE BC
 BASEURL http://catalogue.westvanlibrary.ca
 CATTYPE innopac
 
+ID OCLC-WDTBR
+NAME Border Regional Library
+LOCATION Virden, Elkhorn, and McAuley
+PROVINCE MB
+CATTYPE evergreen-dynamic
+BASEURL http://mbrl.mb.catalogue.libraries.coop/eg/opac
+FILTERS N 
+
+# using Brandon ID for this one
+ID CA-MBW
+NAME Western Manitoba Regional Library
+LOCATION Brandon and vicinity
+PROVINCE MB
+BASEURL http://wmrl.ipac.sirsidynix.net
+CATTYPE ipac20
+PROFILE mbw
+
 ID OCLC-CNWIN
 NAME Winnipeg Public Library
 LOCATION Winnipeg
@@ -457,6 +474,14 @@ PROVINCE ON
 CATTYPE bibliocommons
 BASEURL http://ottawa.bibliocommons.com
 
+ID CA-OSH
+NAME Shelburne Public Library
+LOCATION Shelburne
+PROVINCE ON
+BASEURL http://shelburne.kohacatalog.com
+CATTYPE koha
+FILTERS S
+
 ID OCLC-CNSCP
 NAME St. Catharines Public Library
 LOCATION St. Catharines
@@ -543,6 +568,13 @@ CATTYPE primo
 BASEURL http://primo.tug-libraries.on.ca/primo_library
 VID LAURIER
 DEFAULT http://library.wlu.ca/
+
+ID OCLC-CNWPL
+NAME Windsor Public Library
+LOCATION Windsor
+PROVINCE ON
+CATTYPE bibliocommons
+BASEURL http://windsor.bibliocommons.com
 
 ID OCLC-YOU
 NAME York University Libraries
