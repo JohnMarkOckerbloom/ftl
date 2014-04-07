@@ -1664,6 +1664,14 @@ CATTYPE encore
 SKIN cobalt
 BASEURL http://encore.colorado.edu/iii/encore
 
+ID OCLC-BPT
+NAME Bridgeport Library
+LOCATION Bridgeport
+STATE CT
+CATTYPE evergreen-dynamic
+BASEURL http://bridgeport.biblio.org/eg/opac
+LCODE 32
+
 ID OCLC-CZL
 NAME CONSULS
 LOCATION CT State Library; and Central, Eastern, Southern, and Western CT State Universities
@@ -1684,6 +1692,21 @@ LOCATION New Haven
 STATE CT
 BASEURL http://encore.nhfpl.org/iii/encore
 CATTYPE encore
+
+ID OCLC-GWB
+NAME Silas Bronson Library
+LOCATION Waterbury
+STATE CT
+CATTYPE evergreen-dynamic
+BASEURL http://silas.biblio.org/eg/opac
+LCODE 128
+
+ID OCLC-UCW
+NAME University of Connecticut
+LOCATION Storrs and other campuses
+STATE CT
+CATTYPE summon
+BASEURL http://uconn.summon.serialssolutions.com
 
 ID OCLC-YUS
 NAME Yale University
