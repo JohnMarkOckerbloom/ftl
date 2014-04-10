@@ -762,6 +762,21 @@ KEYURL ${BASEURL}?methodToCall=submitButtonCall&methodToCallParameter=submitSear
 DEFAULT DOMAIN
 COUNTRY CH
 
+ID OCLC-T2N
+NAME Durban University of Technology
+LOCATION Durban and Pietermaritzburg
+COUNTRY ZA
+CATTYPE summon
+BASEURL http://dut.summon.serialssolutions.com
+FILTERS S
+
+ID OCLC-V7F
+NAME Mangosuthu University of Technology
+LOCATION Umlazi
+COUNTRY ZA
+CATTYPE sirsi
+BASEURL http://esal.unizulu.ac.za/uhtbin/cgisirsi
+
 ID OCLC-X-DOLLAR-@
 NAME National Library of South Africa
 LOCATION Pretoria
@@ -785,6 +800,13 @@ LOCATION Pretoria and other campuses
 COUNTRY ZA
 CATTYPE encore
 BASEURL http://encore.unisa.ac.za/iii/encore
+
+ID OCLC-OG-SHARP
+NAME University of the Witwatersrand (Wits)
+LOCATION Johannesburg
+COUNTRY ZA
+BASEURL http://wits.worldcat.org/search
+CATTYPE worldcat
 
 ID OCLC-OM@
 NAME Walter Sisulu University
