@@ -59,7 +59,7 @@ COUNTRY
 
 This is usually an uppercased rendition of the ISO 3166-1 alpha-2 country
 code for the country in which the library is located (which is also its
-top-level DNS domain).  May be omitted for libraries in the US.
+top-level DNS domain).  May be omitted for libraries in the US and Canada.
 Exceptional values include "00", for libraries placed under "Global 
 library services" instead of a country, and "SUPPRESS", for libraries not
 included in the list of destinations, but for which we still want to 

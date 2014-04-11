@@ -4,7 +4,7 @@
 # This data file released to the world as CC0 
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, libraries file for usage of this catalog data
-# Last updated 2013-03-22
+# Last updated 2014-03-24
 
 CATTYPE 360search
 SUBURL ${BASEURL}/results?SS_LibHash=${LCODE}&action=start&dbIDList=${DBID}&field=subject&term=${ARG}
