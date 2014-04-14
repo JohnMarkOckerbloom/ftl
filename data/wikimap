@@ -8,7 +8,7 @@
 #   or lexical analysis (such as many geographical locations)
 #   are not included in this file.
 # See docs file for documentation
-# Last updated 2014-04-11
+# Last updated 2014-04-12
 #
 3-D films|=|3D film
 3-D television|=|3D television
@@ -69,6 +69,7 @@ Adams family|<->|Adams (surname)
 Adana (Turkey)|=|Adana
 Adaptation (Biology)|=|Adaptation
 Adda River (Italy)|=|Adda (river)
+Aden (Yemen)|=|Aden
 Adhesives|=|Adhesive
 Adirondack Mountains (N.Y.)|=|Adirondack Mountains
 Administration of estates|->|Estate (land)
@@ -107,7 +108,7 @@ African American cooking|<->|Soul food
 African Americans|=|African American
 Africanists|->|African studies
 Africanized honeybee|<->|Africanized bee
-Africa, Northeast|<->|Horn of Africa
+Africa, Northeast|->|East Africa
 Africa, North|=|North Africa
 Africa, North -- History|=|History of North Africa
 Africa, Portuguese-speaking|=|Portuguese-speaking African countries
@@ -165,6 +166,7 @@ Alabama -- Politics and government|<->|Government of Alabama
 Alamo (San Antonio, Tex.)|=|Alamo Mission in San Antonio
 Alamo (San Antonio, Tex.) -- Siege, 1836|<-|Battle of the Alamo
 Alamo (San Antonio, Tex.) -- Siege, 1836|<->|Siege of the Alamo
+Alarcos, Battle of, Spain, 1195|=|Battle of Alarcos
 Alaska -- Politics and government|<->|Politics of Alaska
 Alaska -- Politics and government|<-|Government of Alaska
 Alaska Packers Association|=|Alaska Packers' Association
@@ -174,6 +176,7 @@ Alberta -- Politics and government|<->|Politics of Alberta
 Albigenses|<->|Catharism
 Alcestis (Greek mythology)|=|Alcestis
 Alchemists|->|Alchemy
+Alcohol|->|Alcoholic beverage
 Alcohol -- Law and legislation|=|Alcohol law
 Alcoholics|->|Alcoholism
 Alcott family|<->|Alcott
@@ -206,6 +209,7 @@ Alligators|=|Alligator
 Allotment gardens|=|Allotment (gardening)
 Allusions|=|Allusion
 Alluvial fans|=|Alluvial fan
+Alluvial plains|=|Alluvial plain
 Almanacs|=|Almanac
 Almohades|<->|Almohad Caliphate
 Almshouses|=|Almshouse
@@ -244,7 +248,8 @@ Amateurism|<->|Amateur
 Amateur theater|=|Amateur theatre
 Amazon River Region|<->|Amazon Basin
 Ambassadors|=|Ambassador
-Ambulance service|<->|Ambulance
+Ambulance service|->|Ambulance
+Ambulances|<->|Ambulance
 Amchitka Island (Alaska)|=|Amchitka
 American beaver|=|North American beaver
 American Camping Association|->|American Camp Association
@@ -994,7 +999,8 @@ Bombay Riots, Mumbai, India, 1992-1993|=|Bombay Riots
 Bombings|->|Bomb
 Bombs|=|Bomb
 Bonaparte family|<->|House of Bonaparte
-Bones|=|Bone
+Bone|->|Bone
+Bones|<->|Bone
 Bones (Musical instrument)|=|Bones (instrument)
 Boogie woogie (Music)|=|Boogie-woogie
 Book collectors|->|Book collecting
@@ -1262,6 +1268,7 @@ Carleton's Raid, 1778|=|Carleton's Raid
 Carmel, Mount (Conn. : Mountain)|<->|Sleeping Giant (Connecticut)
 Carnegie libraries|=|Carnegie library
 Carnell family|<->|Carnell (surname)
+Carnivals|<->|Traveling carnival
 Carnivorous plants|=|Carnivorous plant
 Carolina Bays|=|Carolina Bay
 Carolingians|=|Carolingian dynasty
@@ -1408,6 +1415,7 @@ Chester (England)|=|Chester
 Chester plays|=|Chester Mystery Plays
 Chestnut Hill (Philadelphia, Pa.)|=|Chestnut Hill, Philadelphia
 Chestnut Neck, Battle of, N.J., 1778|=|Battle of Chestnut Neck
+Chests|=|Chest (furniture)
 Cheyenne Indians|=|Cheyenne people
 Chiapas (Mexico)|=|Chiapas
 Chicago and North Western Railway Company|->|Chicago and North Western Transportation Company
@@ -1450,12 +1458,15 @@ Chimpanzees|=|Chimpanzee
 China -- Foreign relations|=|Foreign relations of China
 China -- History -- Boxer Rebellion, 1899-1901|=|Boxer Rebellion
 China -- History -- Han dynasty, 202 B.C.-220 A.D.|<->|Han dynasty
+China -- History -- Jin dynasty, 1115-1234|<->|Jin dynasty (1115–1234)
+China -- History -- Jin dynasty, 265-419|<->|Jin dynasty (265–420)
 China -- History -- Qing dynasty, 1644-1912|<->|Qing dynasty
 China -- History -- Republic, 1912-1949|<->|Republic of China (1912–49)
 China -- History -- Song dynasty, 960-1279|<->|Song dynasty
 China -- History -- Taiping Rebellion, 1850-1864|=|Taiping Rebellion
 China -- History -- Tiananmen Square Incident, 1989|<->|Tiananmen Square protests of 1989
 China -- History -- Warlord period, 1916-1928|=|Warlord Era
+China -- History -- Zhou dynasty, 1122-221 B.C.|<->|Zhou dynasty
 China -- Politics and government|<->|Politics of China
 China -- Politics and government|<-|Government of China
 China -- Religion|=|Religion in China
@@ -1466,6 +1477,9 @@ Chincoteague National Wildlife Refuge (Va. and Md.)|=|Chincoteague National Wild
 Chinese Americans|=|Chinese American
 Chinese chess|=|Xiangqi
 Chinese fiction|->|Chinese literature
+Chinese language -- Ancient Chinese, 600-1200|<->|Middle Chinese
+Chinese language -- Middle Chinese, 1200-1919|<->|Mandarin (late imperial lingua franca)
+Chinese language -- To 600|<->|Old Chinese
 Chinese provinces|=|Provinces of China
 Chinese rites|<->|Chinese Rites controversy
 Chinese river dolphin|=|Baiji
@@ -1647,6 +1661,7 @@ Company of Upholders (London, England)|=|Worshipful Company of Upholders
 Company unions|=|Company union
 Comparative economics|=|Comparative economic systems
 Comparative government|=|Comparative politics
+Competition|<->|Competition (economics)
 Competition, Unfair|=|Unfair competition
 Compilers (Computer programs)|=|Compiler
 Complexes|->|Field of sets
@@ -1728,6 +1743,7 @@ Consumers|=|Consumer
 Contact lenses|=|Contact lens
 Container gardening|<->|Container garden
 Container ships|=|Container ship
+Contests|<->|Competition
 Continental Divide National Scenic Trail|=|Continental Divide Trail
 Continents|=|Continent
 Continued fractions|=|Continued fraction
@@ -1934,6 +1950,7 @@ Cyclopes (Greek mythology)|=|Cyclops
 Cydonia (Mars)|=|Cydonia (region of Mars)
 Cynicism|<->|Cynicism (contemporary)
 Cynics (Greek philosophy)|=|Cynicism (philosophy)
+Cyprus -- History -- Lusignan dynasty, 1192-1474|<->|House of Lusignan
 Czech Americans|=|Czech American
 Dadaism|=|Dada
 Dairy farming|->|Dairy
@@ -1949,6 +1966,7 @@ Dancers|->|Dance
 Dance schools|=|Dance studio
 Dandies|=|Dandy
 Danish poetry|->|Danish literature
+Dannoura, Battle of, Japan, 1185|=|Battle of Dan-no-ura
 Danube River|=|Danube
 Danwei|<->|Work unit
 Daphnis (Greek mythology)|=|Daphnis
@@ -1971,6 +1989,8 @@ Data warehousing|=|Data warehouse
 Dates (Fruit)|->|Date palm
 Dating (Social customs)|=|Dating
 Daughters|=|Daughter
+Day|<->|Daytime (astronomy)
+Days|=|Day
 Deaconesses|=|Deaconess
 Deacons|=|Deacon
 Dead|->|Death
@@ -2074,11 +2094,11 @@ Diaries|=|Diary
 Diarists|->|Diary
 Dictators|=|Dictator
 Didactic literature|<->|Didacticism
+Didgori, Battle of, Georgia, 1121|=|Battle of Didgori
 Difference equations|->|Recurrence relation
 Differentiable manifolds|=|Differentiable manifold
 Differential equations|=|Differential equation
 Differential operators|=|Differential operator
-Diffusion of innovation|=|Diffusion of innovations
 Digestive organs|->|Digestion
 Digestive organs -- Cancer|<->|Digestive system neoplasm
 Diggers (San Francisco, Calif.)|<->|Diggers (theater)
@@ -2108,6 +2128,7 @@ Discrimination in housing|=|Housing discrimination
 Diseases|=|Disease
 Disinheritance|->|Inheritance
 Disjunction (Logic)|=|Logical disjunction
+Dislocations|<->|Joint dislocation
 Dismal Swamp (N.C. and Va.)|=|Great Dismal Swamp
 Dismal Swamp Canal (N.C. and Va.)|=|Dismal Swamp Canal
 Displacement (Ships)|=|Displacement (ship)
@@ -2154,6 +2175,8 @@ Dormitories|=|Dormitory
 Dorset (England)|=|Dorset
 Doubs River (France and Switzerland)|=|Doubs (river)
 Douglas Island (Alaska)|=|Douglas Island
+Draft|<->|Conscription
+Drafts|<->|Draft
 Draft Riot, New York, N.Y., 1863|=|New York City draft riots
 Drag (Aerodynamics)|=|Aerodynamic drag
 Dragonflies|=|Dragonfly
@@ -2274,6 +2297,7 @@ Eggs|=|Egg
 Ego (Psychology)|->|Id, ego and super-ego
 Egypt -- History -- French occupation, 1798-1801|<->|French campaign in Egypt and Syria
 Egypt -- History -- Intervention, 1956|<->|Suez Crisis
+Egypt -- History -- Twentieth dynasty, 1200-ca. 1070 B.C.|<->|Twentieth Dynasty of Egypt
 Egypt -- Politics and government|<->|Politics of Egypt
 Egypt -- Religion|=|Religion in Egypt
 Egyptologists|->|Egyptology
@@ -2510,7 +2534,7 @@ Eyeglasses|=|Glasses
 F-22 (Jet fighter plane)|=|Lockheed Martin F-22 Raptor
 Fables|=|Fable
 Factories|=|Factory
-Failes states|=|Failed state
+Failed states|=|Failed state
 Fair use (Copyright)|=|Fair use
 Fairies|=|Fairy
 Fairmount Park (Philadelphia, Pa.)|=|Fairmount Park
@@ -2728,6 +2752,7 @@ Fox Indians|=|Meskwaki
 Foxes|=|Fox
 Foxtrot (Dance)|=|Foxtrot
 Fractions|<->|Fraction (mathematics)
+Fractures|<->|Bone fracture
 France -- History -- Coup d'&eacute;tat, 1851|=|French coup of 1851
 France -- History -- Directory, 1795-1799|<->|French Directory
 France -- History -- February Revolution, 1848|=|French Revolution of 1848
@@ -3001,6 +3026,7 @@ Grasshoppers|=|Grasshopper
 Grasslands|=|Grassland
 Grateful Dead (Musical group)|=|Grateful Dead
 Grateful dead (Tale)|<->|Grateful dead (folklore)
+Grathe Heath, Battle of, Denmark, 1157|=|Battle of Grathe Heath
 Graub&uuml;nden (Switzerland)|=|Graubünden
 Gravina Island (Ketchikan Gateway Borough, Alaska)|=|Gravina Island
 Gravina Islands (Alaska)|=|Gravina Islands
@@ -3011,6 +3037,7 @@ Great Barrier Reef (Qld.)|=|Great Barrier Reef
 Great Britain. Admiralty|=|Admiralty
 Great Britain -- Colonies|<->|British Empire
 Great Britain -- History|<->|History of the British Isles
+Great Britain -- History -- Angevin period, 1154-1216|<->|Angevin Empire
 Great Britain -- History -- Anglo-Saxon period, 449-1066|<->|Anglo-Saxon England
 Great Britain -- History -- Civil War, 1642-1649|<->|English Civil War
 Great Britain -- History -- Commonwealth and Protectorate, 1649-1660|<->|Commonwealth and Protectorate
@@ -3160,6 +3187,7 @@ Hate crimes|=|Hate crime
 Hate groups|=|Hate group
 Hate|=|Hatred
 Hatters|->|Hatmaking
+Hattin, Battle of, Israel, 1187|=|Battle of Hattin
 Haunted houses|=|Haunted house
 Haunted places|<->|List of reportedly haunted locations
 Hawaii -- History -- Overthrow of the Monarchy, 1893|<->|Overthrow of the Kingdom of Hawaii
@@ -3262,6 +3290,7 @@ Holmes comet|=|Comet Holmes
 Holocaust, Jewish (1939-1945)|=|The Holocaust
 Holocaust survivors|<->|List of Holocaust survivors
 Holomorphic functions|=|Holomorphic function
+Holy Roman Empire -- History -- Hohenstaufen, 1138-1254|->|House of Hohenstaufen
 Holy Year|<->|Jubilee (Christianity)
 Home ownership|<->|Owner-occupier
 Home schooling|=|Homeschooling
@@ -3699,6 +3728,7 @@ Iraq -- Politics and government|<-|Federal government of Iraq
 Iraq War, 2003-2011|<->|Iraq War
 Iraqis|=|Iraqi people
 Ireland -- History -- Easter Rising, 1916|=|Easter Rising
+Ireland -- History -- English Conquest, 1166-1186|<->|Norman invasion of Ireland
 Ireland -- History -- Famine, 1845-1852|=|Great Famine (Ireland)
 Ireland -- History -- Rebellion of 1798|=|Irish Rebellion of 1798
 Ireland -- History -- War of 1689-1691|=|Williamite War in Ireland
@@ -3714,6 +3744,7 @@ Iron founding|->|Casting (metalworking)
 Iron ores|=|Iron ore
 Iroquois Indians|=|Iroquois
 Irrational numbers|=|Irrational number
+Ishibashiyama, Battle of, Japan, 1180|=|Battle of Ishibashiyama
 Ishtar (Assyro-Babylonian deity)|=|Ishtar
 Isis (Egyptian deity)|=|Isis
 Islam and politics|=|Political aspects of Islam
@@ -3778,6 +3809,11 @@ Jansenists|=|Jansenism
 Japan -- History -- Attempted Mongol Invasions, 1274-1281|=|Mongol invasions of Japan
 Japan -- History -- Allied occupation, 1945-1952|=|Occupation of Japan
 Japan -- History -- Earlier Nine Years' War, 1051-1062|=|Former Nine Years War
+Japan -- History -- Gempei Wars, 1180-1185|=|Genpei War
+Japan -- History -- H&omacr;gen and Heiji Insurrections, 1156-1159|<->|Hōgen (era)
+Japan -- History -- H&omacr;gen and Heiji Insurrections, 1156-1159|<-|Heiji
+Japan -- History -- H&omacr;gen and Heiji Insurrections, 1156-1159|<-|Heiji Rebellion
+Japan -- History -- Kamakura period, 1185-1333|<->|Kamakura period
 Japan -- History -- Later Three Years War, 1083-1087|<->|Gosannen War
 Japan -- History -- Meiji period, 1868-1912|=|Meiji period
 Japan -- Politics and government|<->|Politics of Japan
@@ -3786,6 +3822,10 @@ Japan -- Religion|=|Religion in Japan
 Japanese -- Canada -- Evacuation and relocation, 1942-1945|<->|Japanese Canadian internment
 Japanese Americans|=|Japanese American
 Japanese Americans -- Evacuation and relocation, 1942-1945|<->|Japanese American internment
+Japanese language -- Edo period, 1600-1868|<->|Early Modern Japanese
+Japanese language -- Heian period, 794-1185|<->|Early Middle Japanese
+Japanese language -- Middle Japanese, 1185-1600|<->|Late Middle Japanese
+Japanese language -- To 794|<->|Old Japanese
 Jason (Greek mythology)|=|Jason
 Java (Computer program language)|=|Java (programming language)
 Java (Indonesia)|=|Java
@@ -4091,6 +4131,7 @@ Legislative bodies|=|Legislature
 Legislative oversight|->|Congressional oversight
 Legislative oversight -- United States|=|Congressional oversight
 Legislators|=|Legislator
+Legnano, Battle of, Legnano, Italy, 1176|=|Battle of Legnano
 LEGO koncernen (Denmark)|=|The Lego Group
 LEGO Mindstorms toys|=|Lego Mindstorms
 LEGO toys|=|Lego
@@ -4168,7 +4209,7 @@ Lion House (Salt Lake City, Utah)|=|Lion House (Salt Lake City)
 Lipids|=|Lipid
 Lipizzaner horse|=|Lipizzan
 Lippe River (Germany)|=|Lippe (river)
-Lquid crystals|<->|Liquid crystal
+Liquid crystals|<->|Liquid crystal
 Liquids|=|Liquid
 Liquor laws|->|Alcohol law
 Liquors|=|Distilled beverage
@@ -4359,6 +4400,7 @@ Manpower planning|->|Human resource management
 Manufactures|<->|Manufacturing
 Manufacturing industries|->|Manufacturing
 Manufacturing process|->|Manufacturing
+Manures|=|Manure
 Manuscripts|=|Manuscript
 Manzanar National Historic Site|->|Manzanar
 Manzanar War Relocation Center|<->|Manzanar
@@ -4761,6 +4803,9 @@ Morris (Name)|<->|Morris (given name)
 Morris Canal (N.J.)|=|Morris Canal
 Morris family|<->|Morris (surname)
 Mortal Kombat (Game)|<->|Mortal Kombat
+Mortar|=|Mortar (masonry)
+Mortars|<->|Mortar and pestle
+Mortars (Ordnance)|<->|Mortar (weapon)
 Mortgage-backed securities|=|Mortgage-backed security
 Mortgage loans|=|Mortgage loan
 Mortgages|<->|Mortgage law
@@ -5200,6 +5245,7 @@ Ocean currents|=|Ocean current
 Octopuses|=|Octopus
 Oder River|=|Oder
 Odin (Norse deity)|=|Odin
+Odors|=|Odor
 Odysseus (Greek mythology)|=|Odysseus
 Oedipus (Greek mythology)|=|Oedipus
 Offenses against the person|=|Offence against the person
@@ -5370,6 +5416,7 @@ Otterbourne (England)|=|Otterbourne
 Otters|=|Otter
 Ouachita River (Ark. and La.)|=|Ouachita River
 Oudh (India)|=|Awadh
+Ourique, Battle of, Portugal, 1139|=|Battle of Ourique
 Outcasts|=|Outcast (person)
 Outdoor writers|<->|Outdoor literature
 Ovaries|=|Ovary
@@ -5427,6 +5474,7 @@ Panthers|=|Panther
 Pantomimes|->|Pantomime
 Paoli Massacre, 1777|=|Battle of Paoli
 Papacy|->|Pope
+Papacy -- History -- Schism, 1130-1139|<->|Papal election, 1130
 Paperboys|->|Newspaper delivery
 Par&aacute; River (Brazil)|=|Pará River
 Parables|=|Parable
@@ -5536,6 +5584,8 @@ Pequannock (N.J.)|=|Pequannock Township, New Jersey
 Pequot War, 1636-1638|<->|Pequot War
 Perceval (Legendary character)|=|Percival
 Perennials|=|Perennial plant
+Performance|<->|Performance (disambiguation)
+Performances|=|Performance
 Perfumes|=|Perfume
 Periodicals|=|Periodical literature
 Perinatal death|=|Perinatal mortality
@@ -5652,6 +5702,7 @@ Plant diseases|=|Plant pathology
 Plant layout|<->|Plant layout study
 Plant morphogenesis|->|Plant morphology
 Plant viruses|=|Plant virus
+Plantagenet, House of|<->|House of Plantagenet
 Plants|=|Plant
 Plants, Edible|<->|List of leaf vegetables
 Plants, Ornamental|=|Ornamental plant
@@ -6019,6 +6070,7 @@ Raguel (Archangel)|=|Raguel (angel)
 Rai (Music)|=|Raï
 Railroad accidents|<->|Train wreck
 Railroad engineering|=|Railway engineering
+Railroad engineers|->|Railway engineering
 Railroad stations|=|Train station
 Railroad Strike, U.S., 1877|=|Great Railroad Strike of 1877
 Railroad tracks|=|Track (rail transport)
@@ -6094,7 +6146,6 @@ Refugees|=|Refugee
 Regicides|=|Regicide
 Regional economics|->|Regional science
 Regionalism (International organization)|<->|Regionalism (international relations)
-Reinforcement learning (Machine learning)|=|Reinforcement learning
 Rejection (Psychology)|<->|Social rejection
 Relativity (Physics)|<->|Theory of relativity
 Relics|=|Relic
@@ -6357,6 +6408,7 @@ Santa Fe National Historic Trail|<->|Santa Fe Trail
 Santa Maria Island (Azores)|=|Santa Maria Island
 Santa Mar&iacute;a Island (Biob&iacute;o, Chile)|=|Santa María Island, Chile
 Santa Mar&iacute;a Island (Galapagos Islands)|=|Floreana Island
+S&atilde;o Mamede, Battle of, Portugal, 1128|=|Battle of São Mamede
 S&atilde;o Paulo (Brazil)|=|São Paulo
 S&atilde;o Paulo (Brazil : State)|=|São Paulo (state)
 Sapphires|=|Sapphire
@@ -7026,6 +7078,7 @@ Sunday legislation|<->|Blue law
 Sunday schools|=|Sunday school
 Sundials|=|Sundial
 Sunnites|=|Sunni Islam
+Sunomata, Battle of, Sunomata-ch&omacr;, Japan, 1181|=|Battle of Sunomata-gawa
 Sunset Boulevard (Los Angeles, Calif.)|=|Sunset Boulevard
 Sunshine|<->|Sunlight
 Supercomputers|=|Supercomputer
@@ -7100,6 +7153,7 @@ System theory|=|Systems theory
 T Tauri stars|=|T Tauri type stars
 Tablature (Music)|=|Tablature
 Tableaux|<->|Tableau
+Tables|=|Table (furniture)
 Taconic Range|=|Taconic Mountains
 Tactics|=|Tactic
 Tahiti (French Polynesia : Island)|=|Tahiti
@@ -7258,6 +7312,7 @@ Time-series analysis|<->|Time series
 Timon of Athens (Legendary character)|<->|Timon of Athens (person)
 Timucua Indians|=|Timucua
 Tin toys|=|Tin toy
+Tinchebray, Battle of, Tinchebray, France, 1106|=|Battle of Tinchebray
 Tiryns (Extinct city)|<->|Tiryns
 Tisza River|=|Tisza
 Titan (Satellite)|=|Titan (moon)
@@ -7715,6 +7770,7 @@ Vancouver Island (B.C.)|=|Vancouver Island
 Van Rensselaer family|<->|Van Rensselaer (surname)
 Variable stars|=|Variable star
 Variation (Biology)|<->|Variation
+Variations|<->|Variation (music)
 Vashon Island (Wash.)|->|Vashon, Washington
 Vatican Council (1st : 1869-1870 : Basilica di San Pietro in Vaticano)|=|First Vatican Council
 Vatican Council (2nd : 1962-1965 : Basilica di San Pietro in Vaticano)|=|Second Vatican Council
@@ -7780,7 +7836,7 @@ Vincent (Name)|=|Vincent
 Vincent family|=|Vincent (surname)
 Viola da gamba|->|Viol
 Violent crimes|=|Violent crime
-Violins|=|Violin
+Violets|<->|Viola (plant)
 Viols|=|Viol
 Vipa&sacute;yan&amacr; (Buddhism)|<->|Vipassanā
 Virginia -- History -- Colonial period, ca. 1600-1775|<->|Colony of Virginia
@@ -8077,9 +8133,10 @@ Yamuna River (India)|=|Yamuna
 Yana Indians|=|Yana people
 Yangtze River (China)|=|Yangtze River
 Yangtze River Gorges (China)|<->|Three Gorges
+Yaqui Indians|=|Yaqui people
 Yarmuk River|=|Yarmouk River
 Yarmulkes|=|Kippah
-Yaqui Indians|=|Yaqui people
+Yashima, Battle of, Japan, 1185|=|Battle of Yashima
 Year 2000 date conversion (Computer systems)|=|Year 2000 problem
 Yellow River (China)|=|Yellow River
 Yemen (Republic)|<->|Yemen
@@ -8102,7 +8159,7 @@ Yosemite Valley (Calif.)|=|Yosemite Valley
 Yosemite Valley (Calif.) -- History|<->|History of the Yosemite area
 Young adult fiction|=|Young-adult fiction
 Young adult literature|->|Young-adult fiction
-Young adults|<->|Youth
+Young adults|->|Youth
 Young Lords (Organization)|=|Young Lords
 Young Lords Party|->|Young Lords
 Young women|->|Woman
@@ -8111,7 +8168,6 @@ Youth movements|<->|List of youth organizations
 Yucat&aacute;n (Mexico : State)|=|Yucatán
 Yucca Mountain (Nev.)|=|Yucca Mountain
 Yuchi Indians|=|Yuchi people
-Yukon Territory|=|Yukon
 Yuma Indians|<->|Quechan people
 Yunnan Sheng (China)|=|Yunnan
 Yurok Indians|=|Yurok people

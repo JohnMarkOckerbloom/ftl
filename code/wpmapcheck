@@ -11,7 +11,7 @@
 my %lctowiki;
 my %wikitolc;
 
-my $wikimap = "wikimap";
+my $wikimap = $ARGV[0] || "wikimap";
 
 my $unassignedcount = 0;
 

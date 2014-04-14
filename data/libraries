@@ -2694,6 +2694,14 @@ STATE MO
 CATTYPE bibliocommons
 BASEURL http://dbrl.bibliocommons.com
 
+ID OCLC-LHE
+NAME Harris-Stowe State University
+LOCATION St. Louis
+STATE MO
+BASEURL http://bridges.searchmobius.org/
+CATTYPE iii-consortium-member
+LCODE 3
+
 ID OCLC-KCP
 NAME Kansas City Public Library
 LOCATION Kansas City
@@ -2710,12 +2718,32 @@ CATTYPE sirsient
 BASEURL http://catalog.mymcpl.org/
 FILTERS N
 
+ID OCLC-MUJ
+NAME Missouri River Regional Library
+LOCATION Jefferson City and Linn
+STATE MO
+BASEURL http://catalog.mrrl.org
+CATTYPE innopac
+
 ID OCLC-MOS
 NAME Springfield-Greene County Library District
 LOCATION Springfield and vicinity
 STATE MO
 BASEURL http://catalog.coolcat.org/iii/encore
 CATTYPE encore
+
+# uses "Listen 2000" library catalog; can't find anyone else using it
+# also appears not to have general keyword search; will use subject keyword
+ID OCLC-ZAC
+NAME St. Charles City-County Library District
+LOCATION St. Charles County
+STATE MO
+BASEURL http://catalog.youranswerplace.org
+SUBURL ${BASEURL}/SearchResultsAuthor.aspx?QS1=2&QS3=1&QS4=2&QS5=0&QS6=99&QS7=0&QS8=9999&QS9=0&QS10=99&QS2=${ARG}
+AUTURL ${BASEURL}/SearchResultsAuthor.aspx?QS1=1&QS3=1&QS4=2&QS5=0&QS6=99&QS7=0&QS8=9999&QS9=0&QS10=99&QS2=${ARG}
+TITURL ${BASEURL}/SearchResultsAuthor.aspx?QS1=3&QS3=1&QS4=2&QS5=0&QS6=99&QS7=0&QS8=9999&QS9=0&QS10=99&QS2=${ARG}
+ATIURL ${BASEURL}/SearchResultsTitleListing.aspx?QS1=4&QS3=1&QS4=2&QS5=0&QS6=99&QS7=0&QS8=9999&QS9=0&QS10=99&QS13=1&QS2=${AUTHOR}&QS0=${TITLE:A}
+KEYURL ${BASEURL}/SearchResultsAuthor.aspx?QS1=5&QS3=1&QS4=2&QS5=0&QS6=99&QS7=0&QS8=9999&QS9=0&QS10=99&QS2=${ARG}
 
 ID OCLC-ZAE
 NAME St. Louis County Library
