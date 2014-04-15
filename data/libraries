@@ -221,6 +221,13 @@ PROVINCE AB
 CATTYPE bibliocommons
 BASEURL http://mhpl.bibliocommons.com
 
+ID OCLC-1AV
+NAME Red Deer Public Library
+LOCATION Red Deer
+PROVINCE AB
+CATTYPE bibliocommons
+BASEURL http://rdpl.bibliocommons.com
+
 ID OCLC-UAU
 NAME University of Calgary
 LOCATION Calgary
@@ -615,6 +622,13 @@ LOCATION Public libraries across the province
 PROVINCE SK
 CATTYPE encore
 BASEURL http://encore.sasklibraries.ca/iii/encore
+
+ID OCLC-REB
+NAME University of Regina
+LOCATION Regina
+PROVINCE SK
+CATTYPE summon
+BASEURL http://uregina.summon.serialssolutions.com
 
 ID OCLC-UOH
 NAME University of Saskatchewan
@@ -2085,12 +2099,8 @@ ID OCLC-CGP
 NAME Chicago Public Library
 LOCATION Chicago
 STATE IL
-BASEURL http://www.chipublib.org
-SUBURL ${BASEURL}/search/results?advancedSearch=submitted&subject=${ARG:N}
-AUTURL ${BASEURL}/search/results?searchType=Author&terms=${ARG:SN}
-TITURL ${BASEURL}/search/results?searchType=Title&terms=${ARG:A}
-KEYURL ${BASEURL}/search/results?searchType=keyword&terms=${ARG}
-# AUTURL ${BASEURL}/search/results?searchType=Author&terms=${ARG:I}
+BASEURL http://chipublib.bibliocommons.com
+CATTYPE bibliocommons
 
 ID OCLC-CODUP
 NAME College of DuPage
@@ -3837,6 +3847,13 @@ STATE VA
 CATTYPE encore
 BASEURL http://libcat.arlingtonva.us/iii/encore
 
+ID OCLC-RR1
+NAME Central Rappahannock Regional Library
+LOCATION Fredericksburg and vicinity; Westmoreland county
+STATE VA
+CATTYPE bibliocommons
+BASEURL http://librarypoint.bibliocommons.com
+
 ID OCLC-PCX
 NAME Chesterfield County Public Library
 LOCATION Chesterfield County
@@ -3915,9 +3932,8 @@ ID OCLC-Z26
 NAME King County Library System
 LOCATION Libraries near Seattle
 STATE WA
-BASEURL http://catalog.kcls.org/eg/opac
-CATTYPE evergreen-dynamic
-FILTERS N
+CATTYPE bibliocommons
+BASEURL http://kcls.bibliocommons.com
 
 ID OCLC-LZS
 NAME Libraries of Stevens County
