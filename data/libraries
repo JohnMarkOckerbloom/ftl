@@ -228,6 +228,13 @@ PROVINCE AB
 CATTYPE bibliocommons
 BASEURL http://rdpl.bibliocommons.com
 
+ID OCLC-TRACS
+NAME TRAC: The Regional Automation Consortium
+LOCATION Public libraries in northern and rural central Alberta
+PROVINCE AB
+BASEURL http://catalogue.tracpac.ab.ca/polaris
+CATTYPE polaris
+
 ID OCLC-UAU
 NAME University of Calgary
 LOCATION Calgary
@@ -1384,6 +1391,14 @@ LOCATION Oakland
 STATE CA
 BASEURL http://hnulibrary.worldcat.org/search
 CATTYPE worldcat
+
+ID OCLC-EHU
+NAME Humboldt County Public Library
+LOCATION Eureka and vicinity
+STATE CA
+BASEURL http://libcat.co.humboldt.ca.us
+CATTYPE iii-consortium-member
+LCODE 13
 
 ID LINKPLUS
 NAME LINK+ Union Catalog
@@ -3059,6 +3074,14 @@ LOCATION New York
 STATE NY
 CATTYPE bibliocommons
 BASEURL http://nypl.bibliocommons.com
+
+ID OCLC-XDR
+NAME Pioneer Library System: OWWL Catalog
+LOCATION Ontario, Wayne, Wyoming, and Livingston counties
+STATE NY
+BASEURL http://evergreen.owwl.org/eg/opac
+CATTYPE evergreen-dynamic
+LCODE 1
 
 ID OCLC-ZQP
 NAME Queens Library
