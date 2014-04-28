@@ -695,6 +695,17 @@ COUNTRY IT
 BASEURL http://colombo.imss.fi.it/IMSS/?uilang=en
 KEYURL ${BASEURL}&q=${ARG:S}
 
+ID SAPIENZA
+NAME Sapienza Digital Library
+LOCATION Rome
+COUNTRY IT
+BASEURL http://sapienzadigitallibrary.uniroma1.it
+TITURL ${BASEURL}/search/dl_cineca_solr/advanced?query=q=title:${ARG}
+SUBURL ${BASEURL}/search/dl_cineca_solr/advanced?query=q=descMetadata.subject:${ARG}
+AUTURL ${BASEURL}/search/dl_cineca_solr/advanced?query=q=author:${ARG}
+KEYURL ${BASEURL}/search/dl_cineca_solr/advanced?query=q=descMetadata.keyword=${ARG}
+DEFAULT DOMAIN
+
 ID OCLC-KEJKU
 NAME Kenyatta University
 LOCATION Nairobi
@@ -828,7 +839,7 @@ CATTYPE worldcat
 
 ID OCLC-OM@
 NAME Walter Sisulu University
-LOCATION Mthatha
+LOCATION Mthatha and other campuses
 COUNTRY ZA
 CATTYPE iii-consortium-member
 BASEURL http://opac.seals.ac.za
@@ -3613,6 +3624,13 @@ STATE TN
 CATTYPE atriuum
 BASEURL http://abcnash.booksys.net/opac/abcnash/index.html#search:
 
+ID OCLC-TBC
+NAME Belmont University
+LOCATION Nashville
+STATE TN
+CATTYPE summon
+BASEURL http://belmont.summon.serialssolutions.com
+
 ID OCLC-TMN
 NAME Memphis Public Library and Information Center
 LOCATION Memphis
@@ -3634,6 +3652,13 @@ LOCATION Memphis
 STATE TN
 CATTYPE sirsi
 BASEURL http://rclm.sirsi.net/uhtbin/cgisirsi
+
+ID OCLC-TSU
+NAME Tennessee State University
+LOCATION Nashville
+STATE TN
+CATTYPE encore
+BASEURL http://dinaal.tnstate.edu/iii/encore
 
 ID OCLC-TKN
 NAME University of Tennessee
@@ -4067,6 +4092,14 @@ STATE WV
 BASEURL http://aca.iii.com/
 CATTYPE iii-consortium-member
 LCODE 60
+
+ID OCLC-WIW
+NAME Marathon County Public Library
+LOCATION Wausau and vicinity
+STATE WI
+BASEURL http://vcat.wvls.org
+CATTYPE iii-consortium-member
+LCODE 51
 
 ID OCLC-GZD
 NAME Milwaukee County Federated Library System

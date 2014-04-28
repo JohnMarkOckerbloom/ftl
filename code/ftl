@@ -17,6 +17,7 @@
 
 use CGI;
 use NetAddr::IP::Lite;
+use Locale::Country;
 
 BEGIN {
 $OLBP::SCRIPTNAME = "ftl";
@@ -58,33 +59,7 @@ my $WIKIPEDIA_TYPE = "wp";
 
 my ($viafhash, $lccnhash, $wphash);
 
-my $countries = {
-  '00' => " Global library services",
-  'AU' => "Australia",
-  'BE' => "Belgium",
-  'CA' => "Canada",
-  'CH' => "Switzerland",
-  'CN' => "China",
-  'DE' => "Germany",
-  'FR' => "France",
-  'HK' => "Hong Kong",
-  'IN' => "India",
-  'IE' => "Ireland",
-  'IT' => "Italy",
-  'KE' => "Kenya",
-  'NA' => "Namibia",
-  'NG' => "Nigeria",
-  'NL' => "Netherlands",
-  'NZ' => "New Zealand",
-  'SG' => "Singapore",
-  'TR' => "Turkey",
-  'TW' => "Taiwan",
-  'UG' => "Uganda",
-  'UK' => "United Kingdom",
-  'US' => "United States",
-  'ZA' => "South Africa",
-  'ZW' => "Zimbabwe",
-};
+my $countries;
 
 my $states = {
   'AL' => "Alabama", 'AK' => "Alaska", 'AZ' => "Arizona", 'AR' => "Arkansas",
@@ -126,6 +101,16 @@ my $gotpatterns = 0;
 my $rangestotry = [];
 my $gotranges   = 0;
 
+sub init_countries {
+  my @codes = all_country_codes();
+  foreach my $code (@codes) {
+    $countries->{uc($code)} = code2country($code);
+  }
+  $countries->{"00"} = " Global library services";
+  $countries->{"TW"} = "Taiwan";
+  $countries->{"UK"} = "United Kingdom";
+  return $countries;
+}
 
 sub pageheader {
   my ($q, $title) = @_;
@@ -439,6 +424,7 @@ sub showlibrarylinks {
   my $statecode = "";
   my $pcode = "";
   my $ccode = "";
+  $countries = init_countries();
   my @liblist = sortbystate($recref);
   showcountrylinks(@liblist);
   foreach my $rec (@liblist) {
