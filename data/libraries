@@ -695,16 +695,17 @@ COUNTRY IT
 BASEURL http://colombo.imss.fi.it/IMSS/?uilang=en
 KEYURL ${BASEURL}&q=${ARG:S}
 
-ID SAPIENZA
-NAME Sapienza Digital Library
-LOCATION Rome
-COUNTRY IT
-BASEURL http://sapienzadigitallibrary.uniroma1.it
-TITURL ${BASEURL}/search/dl_cineca_solr/advanced?query=q=title:${ARG}
-SUBURL ${BASEURL}/search/dl_cineca_solr/advanced?query=q=descMetadata.subject:${ARG}
-AUTURL ${BASEURL}/search/dl_cineca_solr/advanced?query=q=author:${ARG}
-KEYURL ${BASEURL}/search/dl_cineca_solr/advanced?query=q=descMetadata.keyword=${ARG}
-DEFAULT DOMAIN
+# Not yet ready to put this up; check to see if UniRoma would be better
+# ID SAPIENZA
+# NAME Sapienza Digital Library
+# LOCATION Rome
+# COUNTRY IT
+# BASEURL http://sapienzadigitallibrary.uniroma1.it
+# TITURL ${BASEURL}/search/dl_cineca_solr/advanced?query=q=title:${ARG}
+# SUBURL ${BASEURL}/search/dl_cineca_solr/advanced?query=q=descMetadata.subject:${ARG}
+# AUTURL ${BASEURL}/search/dl_cineca_solr/advanced?query=q=author:${ARG}
+# KEYURL ${BASEURL}/search/dl_cineca_solr/advanced?query=q=descMetadata.keyword=${ARG}
+# DEFAULT DOMAIN
 
 ID OCLC-KEJKU
 NAME Kenyatta University
