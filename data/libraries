@@ -652,6 +652,14 @@ CATTYPE tlc
 LCODE ysm
 BASEURL http://yclibw.yukoncollege.yk.ca/
 
+ID ADDISABABAUNIV
+NAME Addis Ababa University
+LOCATION Addis Ababa
+COUNTRY ET
+BASEURL http://libcat.aau.edu.et
+CATTYPE koha
+FILTERS S
+
 ID OCLC-CPV
 NAME City University of Hong Kong
 LOCATION Hong Kong
@@ -2031,6 +2039,13 @@ LOCATION Public libraries throughout the state
 STATE GA
 CATTYPE evergreen-dynamic
 BASEURL http://gapines.org/eg/opac
+
+ID OCLC-GPM
+NAME Georgia Southern University, Zach S. Henderson Library
+LOCATION Statesboro
+STATE GA
+BASEURL http://gilfind.georgiasouthern.edu/vufind
+CATTYPE vufind
 
 ID OCLC-GAT
 NAME Georgia Tech Library
@@ -3412,6 +3427,14 @@ LOCATION Philadelphia, Newtown, and Bensalem
 STATE PA
 BASEURL http://holy.sirsi.net/uhtbin/cgisirsi
 CATTYPE sirsi
+
+# using the main Scranton library's ID for this
+ID OCLC-SCR
+NAME Lackawanna County Library System
+LOCATION Scranton and vicinity
+STATE PA
+CATTYPE sirsi
+BASEURL http://lack.sirsi.net/uhtbin/cgisirsi
 
 ID OCLC-LAF
 NAME Lafayette College
