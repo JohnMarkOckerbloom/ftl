@@ -8,7 +8,8 @@
 #   or lexical analysis (such as many geographical locations)
 #   are not included in this file.
 # See docs file for documentation
-# Last updated 2014-04-12
+# Last updated 2014-05-17
+# Pick up historical events after Battle of Otlukbeli (1473)
 #
 3-D films|=|3D film
 3-D television|=|3D television
@@ -172,6 +173,7 @@ Alarcos, Battle of, Spain, 1195|=|Battle of Alarcos
 Alaska -- Politics and government|<->|Politics of Alaska
 Alaska -- Politics and government|<-|Government of Alaska
 Alaska Packers Association|=|Alaska Packers' Association
+Albanian-Venetian War, 1447-1448|=|Albanian–Venetian War
 Albatrosses|=|Albatross
 Albert, Lake (Congo and Uganda)|=|Lake Albert (Africa)
 Alberta -- Politics and government|<->|Politics of Alberta
@@ -188,6 +190,7 @@ Alexander Archipelago (Alaska)|=|Alexander Archipelago
 Alexandria (Egypt)|=|Alexandria
 Alexandria (Egypt) -- History|=|History of Alexandria
 Alexandria (Egypt) -- History -- Bombardment, 1882|=|Bombardment of Alexandria
+Alfarrobeira, Battle of, Portugal, 1449|=|Battle of Alfarrobeira
 Algebra, Abstract|=|Abstract algebra
 Algebra, Boolean|=|Boolean algebra
 Algebra, Homological|=|Homological algebra
@@ -334,6 +337,7 @@ Animal traction|->|Working animal
 Animals|=|Animal
 Animals, Mythical|<->|Legendary creature
 Ankara (Turkey)|=|Ankara
+Ankara, Battle of, Ankara, Turkey, 1402|=|Battle of Ankara
 Annandale and Eskdale (Scotland : District)|=|Annandale and Eskdale
 Annette Island (Alaska)|=|Annette Island
 Annuities|=|Annuity
@@ -405,10 +409,12 @@ Arab countries|=|Arab states
 Arabesque (Ballet)|=|Arabesque (ballet position)
 Arabs|=|Arab people
 Aragon (Spain)|=|Aragon
+Aragon (Spain) -- History -- Interregnum, 1410-1412|->|Compromise of Caspe
 Aral Sea (Uzbekistan and Kazakhstan)|=|Aral Sea
 Arapaho Indians|=|Arapaho
 Ararat, Mount (Turkey)|=|Mount Ararat
 Arawak Indians|=|Arawak peoples
+Arbedo, Battle of, Switzerland, 1422|=|Battle of Arbedo
 Archaeologists|->|Archaeology
 Arches|=|Arch
 Architects|=|Architect
@@ -711,6 +717,8 @@ Barcelona Disputation, Barcelona, Spain, 1263|=|Disputation of Barcelona
 Barcelona (Spain)|=|Barcelona
 Barcelona (Spain) -- History|=|History of Barcelona
 Barcelona (Spain) -- History -- Siege, 1713-1714|=|Siege of Barcelona (1713–14)
+Barnet (London, England)|=|Barnet
+Barnet, Battle of, Barnet, London, England, 1471|=|Battle of Barnet
 Barns|=|Barn
 Baroque literature|->|Baroque
 Barro Colorado Island (Panama)|=|Barro Colorado Island
@@ -781,6 +789,10 @@ Belgian sheepdog|=|Belgian Shepherd
 Belgian tervuren|=|Belgian Shepherd Dog (Tervuren)
 Belgium -- History -- German occupation, 1940-1945|<->|German occupation of Belgium during World War II
 Belgium -- Politics and government|<->|Politics of Belgium
+Belgrade (Serbia)|=|Belgrade
+Belgrade (Serbia) -- History -- Siege, 1456|=|Siege of Belgrade (1456)
+Belgrade (Serbia) -- History -- Siege, 1521|=|Siege of Belgrade (1521)
+Belgrade (Serbia) -- History -- Siege, 1944|<->|Belgrade Offensive
 Bell founding|=|Bellfounding
 Bell Rock Lighthouse (Scotland)|=|Bell Rock Lighthouse
 Bell Telephone Laboratories|<->|Bell Labs
@@ -987,6 +999,7 @@ Blood groups|=|Blood type
 Blood platelets|=|Platelet
 Blood products|=|Blood product
 Bloody Sunday, Derry, Northern Ireland, 1972|=|Bloody Sunday (1972)
+Blore Heath, Battle of, England, 1459|=|Battle of Blore Heath
 Blue Licks, Battle of the, Ky., 1782|=|Battle of Blue Licks
 Blue Waters, Battle of the, Ukraine, 1363|=|Battle of Blue Waters
 Blues (Music)|=|Blues
@@ -1000,6 +1013,7 @@ Boeing 737 (Jet transport)|=|Boeing 737
 Boeing 777 (Jet transport)|=|Boeing 777
 Bogomiles|=|Bogomilism
 Bohemia (Czech Republic)|=|Bohemia
+Bohemia (Czech Republic) -- History -- Hussite Wars, 1419-1436|<->|Hussite Wars
 Bohemian Brethren|->|Moravian Church
 Boiling water reactors|=|Boiling water reactor
 Boland (South Africa)|=|Boland, Western Cape
@@ -1043,6 +1057,7 @@ Boston (Mass.) -- History -- Siege, 1775-1776|=|Siege of Boston
 Boston Massacre, 1770|=|Boston Massacre
 Boston National Historical Park (Boston, Mass.)|=|Boston National Historical Park
 Boston Tea Party, Boston, Mass., 1773|=|Boston Tea Party
+Bosworth Field, Battle of, England, 1485|=|Battle of Bosworth Field
 Botanists|=|List of botanists
 Botany Bay (N.S.W.)|=|Botany Bay
 Bothwell Bridge, Battle of, Scotland, 1679|=|Battle of Bothwell Bridge
@@ -1067,6 +1082,7 @@ Brandywine, Battle of, Pa., 1777|=|Battle of Brandywine
 Brazil -- History -- Empire, 1822-1889|<->|Empire of Brazil
 Brazil -- Politics and government|<->|Politics of Brazil
 Brazil -- Politics and government|<-|Federal government of Brazil
+Breadfield, Battle of, Romania, 1479|=|Battle of Breadfield
 Break-even analysis|<->|Break-even (economics)
 Breast -- Cancer|=|Breast cancer
 Breviaries|=|Breviary
@@ -1107,6 +1123,7 @@ Brutus the Trojan (Legendary character)|=|Brutus of Troy
 Bubbles|=|Bubble
 Buboes|=|Bubo
 Buccaneers|=|Buccaneer
+Buckingham's Rebellion, England, 1483|=|Buckingham's rebellion
 Budapest (Hungary)|=|Budapest
 Buddhism -- Sacred books|<->|Buddhist texts
 Buddhist literature|->|Buddhist texts
@@ -1127,6 +1144,7 @@ Buldir Island (Alaska)|=|Buldir Island
 Bulgaria -- History -- Uprising, 1040|=|Uprising of Peter Delyan
 Bulgaria -- History -- Uprising, 1185|=|Uprising of Asen and Peter
 Bulgaria -- History -- Uprising, 1876|=|April Uprising
+Bulgn&eacute;ville, Battle of, France, 1431|=|Battle of Bulgnéville
 Bulimia|=|Bulimia nervosa
 Bull Run, 1st Battle of, Va., 1861|=|First Battle of Bull Run
 Bull Run, 2nd Battle of, Va., 1862|=|Second Battle of Bull Run
@@ -1135,7 +1153,9 @@ Bullying in schools|=|School bullying
 Bumblebees|=|Bumblebee
 Bumppo, Natty (Fictitious character)|=|Natty Bumppo
 Bundle-branch block|<->|Bundle branch block
+Bundling (Courtship)|=|Bundling (tradition)
 Bundling (Marketing)|<->|Product bundling
+Bundschuh Insurrections, 1493-1517|<->|Bundschuh movement
 Bunker Hill, Battle of, Boston, Mass., 1775|=|Battle of Bunker Hill
 Bunyan, Paul (Legendary character)|=|Paul Bunyan
 Buraku people|<->|Burakumin
@@ -1145,7 +1165,8 @@ Burgoyne's Invasion, 1777|->|Saratoga campaign
 Buriats|=|Buryats
 Burlesques|<->|Burlesque
 Burley tobacco|=|Burley (tobacco)
-Burma -- History -- Ava kingdom, ca. 1600-1752|<->|Ava Kingdom
+Burma -- History -- Ava kingdom, 1364-1527|<->|Ava Kingdom
+Burma -- History -- Toungoo dynasty, 1486-1752|<->|Taungoo Dynasty
 Burma -- Politics and government|<->|Politics of Burma
 Burma-Shave signs|<->|Burma-Shave
 Burmese cat|=|Burmese (cat)
@@ -1171,6 +1192,7 @@ Byzantine Empire -- History -- Palaeologi dynasty, 1259-1448|<->|Byzantine Empir
 C (Computer program language)|=|C (programming language)
 C++ (Computer program language)|=|C++
 Cabinets of curiosities|=|Cabinet of curiosities
+Cade's Rebellion, 1450|->|Jack Cade
 Cadiz Expedition, 1625|=|Cádiz Expedition (1625)
 Cahuilla Indians|=|Cahuilla people
 Cairo (Egypt)|=|Cairo
@@ -1196,6 +1218,7 @@ Calliope|=|Calliope (music)
 Callisto (Greek mythology)|=|Callisto (mythology)
 Calvary Chapel (Costa Mesa, Calif.)|=|Calvary Chapel Costa Mesa
 Calvary Chapel movement|=|Calvary Chapel
+Calven, Battle of, Switzerland, 1499|=|Battle of Calven
 Calypso (Greek mythology)|=|Calypso (mythology)
 Calypso (Music)|=|Calypso music
 Calyx (Botany)|<->|Sepal
@@ -1308,6 +1331,7 @@ Carving (Decorative arts)|<->|Carving
 Carving (Meat, etc.)|<->|Meat carving
 Casa Grande National Monument (Ariz.)|<->|Casa Grande Ruins National Monument
 Casco Bay (Me.)|=|Casco Bay
+Caspe declaration, 1412|=|Compromise of Caspe
 Cassandra (Legendary character)|=|Cassandra
 Cassel, Battle of, Cassel, France, 1328|=|Battle of Cassel (1328)
 Cassel, Battle of, Cassel, France, 1677|=|Battle of Cassel (1677)
@@ -1323,6 +1347,7 @@ Castrati|=|Castrato
 Cat-scratch disease|=|Cat scratch disease
 Catalonia (Spain)|=|Catalonia
 Catalonia (Spain) -- History|=|History of Catalonia
+Catalonia (Spain) -- History -- Civil War, 1462-1472|=|Catalonian Civil War
 Catawba River (N.C. and S.C.)|=|Catawba River
 Catechetics|->|Catechism
 Catechisms|=|Catechism
@@ -2209,6 +2234,7 @@ Doors|=|Door
 Dorchester (Boston, Mass.)|=|Dorchester, Boston
 Dordogne River (France)|=|Dordogne (river)
 Dormitories|=|Dormitory
+Dornach, Battle of, Dornach, Switzerland, 1499|=|Battle of Dornach
 Dorset (England)|=|Dorset
 Doubs River (France and Switzerland)|=|Doubs (river)
 Douglas Island (Alaska)|=|Douglas Island
@@ -2311,8 +2337,9 @@ Eddies|=|Eddy (fluid dynamics)
 Eddystone Lighthouse (England)|=|Eddystone Lighthouse
 Edenton Tea Party, Edenton, N.C., 1774|=|Edenton Tea Party
 Edgar Allan Poe Society of Baltimore (Md.)|<->|Edgar Allan Poe House and Museum
-Edgehill, Battle of, England, 1642|=|Battle of Edgehill
 Edge Hill (Warwickshire, England)|=|Edge Hill, Warwickshire
+Edgecote, Battle of, Edgcote, England, 1469|=|Battle of Edgecote Moor
+Edgehill, Battle of, England, 1642|=|Battle of Edgehill
 Edible greens|<->|Leaf vegetable
 Edible mushrooms|=|Edible mushroom
 Edinburgh (Scotland)|=|Edinburgh
@@ -2514,6 +2541,7 @@ Europa (Greek mythology)|=|Europa (mythology)
 Europe -- Politics and government|<->|Politics of Europe
 Europe -- Religion|=|Religion in Europe
 Europeans|=|European
+European literature -- Renaissance, 1450-1600|<->|Renaissance literature
 European Union countries|=|Member state of the European Union
 Europe, Central|=|Central Europe
 Europe, Eastern|=|Eastern Europe
@@ -2644,6 +2672,8 @@ Feral dogs|<->|Free-ranging dog
 Ferguson TE20 (Tractor)|=|Ferguson TE20
 Fermented foods|<->|Fermentation in food processing
 Fernando Po (Equatorial Guinea)|=|Bioko
+Ferrybridge (England)|=|Ferrybridge
+Ferrybridge, Battle of, Ferrybridge, England, 1461|=|Battle of Ferrybridge
 Fertilization in vitro|=|In vitro fertilisation
 Fertilizers|=|Fertilizer
 Festivals|=|Festival
@@ -2761,6 +2791,7 @@ Formal languages|=|Formal language
 Former Soviet republics|=|Post-Soviet states
 Form (Philosophy)|<->|Substantial form
 Forms, Quadratic|=|Quadratic form
+Fornovo, Battle of, Fornovo di Taro, Italy, 1495|=|Battle of Fornovo
 Fort Cumberland (N.B.) -- Siege, 1776|=|Battle of Fort Cumberland
 Fort Davis National Historic Site (Tex.)|=|Fort Davis National Historic Site
 Fort Laramie National Historic Site (Wyo.)|=|Fort Laramie National Historic Site
@@ -2795,6 +2826,7 @@ Foxes|=|Fox
 Foxtrot (Dance)|=|Foxtrot
 Fractions|<->|Fraction (mathematics)
 Fractures|<->|Bone fracture
+France -- History -- Cabochien Uprising, 1413|=|Cabochien Revolt
 France -- History -- Coup d'&eacute;tat, 1851|=|French coup of 1851
 France -- History -- Directory, 1795-1799|<->|French Directory
 France -- History -- February Revolution, 1848|=|French Revolution of 1848
@@ -2871,6 +2903,7 @@ F.W. Woolworth Company|=|F. W. Woolworth Company
 Gabriel (Archangel)|=|Gabriel
 Gabrielino Indians|=|Tongva people
 Gabrielino language|=|Tongva language
+S&umacr;ryava&#x1e41;&sacute;i Gajapati dynasty, 1435-1550|<->|Gajapati Kingdom
 Galaxies|=|Galaxy
 Galicia (Poland and Ukraine)|=|Galicia (Eastern Europe)
 Galicia (Spain : Region)|=|Galicia (Spain)
@@ -3095,6 +3128,7 @@ Great Britain -- History -- House of Lancaster, 1399-1461|->|House of Lancaster
 Great Britain -- History -- Medieval period, 1066-1485|<->|England in the Middle Ages
 Great Britain -- History -- Regency, 1811-1820|<->|Regency era
 Great Britain -- History -- Revolution of 1688|=|Glorious Revolution
+Great Britain -- History -- Southampton Plot, 1415|=|Southampton Plot
 Great Britain -- History -- Stuarts, 1603-1714|=|Stuart period
 Great Britain -- History -- Tudors, 1485-1603|=|Tudor period
 Great Britain -- History -- Victoria, 1837-1901|=|Victorian era
@@ -3283,6 +3317,8 @@ Hermits|=|Hermit
 Hero (Greek mythology)|<->|Hero and Leander
 Herons|=|Heron
 Hertfordshire (England)|=|Hertfordshire
+Hexham (England)|=|Hexham
+Hexham, Battle of, Hexham, England, 1464|=|Battle of Hexham
 Hidatsa Indians|=|Hidatsa
 Hierapolis (Turkey : Extinct city)|=|Hierapolis
 High definition television|=|High-definition television
@@ -3371,6 +3407,7 @@ Hopi Indians|=|Hopi
 Hormones|=|Hormone
 Horn (Musical instrument)|=|Horn (instrument)
 Horn, Cape (Chile)|=|Cape Horn
+Horodlo, Treaty of, 1413|<->|Union of Horodło
 Horoscopes|=|Horoscope
 Horsemanship|=|Equestrianism
 Horses|=|Horse
@@ -3791,6 +3828,7 @@ Iris (Eye)|=|Iris (anatomy)
 Irish Americans|=|Irish American
 Irish language -- Middle Irish, 1100-1550|<->|Middle Irish
 Irish language -- To 1100|<->|Old Irish
+Irmandi&ntilde;os Revolt, Spain, 1467-1469|<->|Irmandiño
 Iron deficiency anemia|=|Iron-deficiency anemia
 Iron founding|->|Casting (metalworking)
 Iron ores|=|Iron ore
@@ -3831,6 +3869,7 @@ Italian provinces|=|Provinces of Italy
 Italian regions|=|Regions of Italy
 Italo-Ethiopian War, 1895-1896|=|First Italo-Ethiopian War
 Italo-Ethiopian War, 1935-1936|=|Second Italo-Ethiopian War
+Italy -- History -- Expedition of Charles VIII, 1494-1496|<->|Italian War of 1494–98
 Italy -- Politics and government|<->|Politics of Italy
 Italy, Northern|=|Northern Italy
 Italy, Southern|=|Southern Italy
@@ -3873,6 +3912,7 @@ Japan -- History -- Kenmu Restoration, 1333-1336|=|Kenmu Restoration
 Japan -- History -- Later Three Years War, 1083-1087|<->|Gosannen War
 Japan -- History -- Meiji period, 1868-1912|=|Meiji period
 Japan -- History -- Muromachi period, 1336-1573|<->|Muromachi period
+Japan -- History -- Period of civil wars, 1480-1603|<->|Sengoku period
 Japan -- History -- Period of northern and southern courts, 1336-1392|<->|Nanboku-chō period
 Japan -- Politics and government|<->|Politics of Japan
 Japan -- Politics and government|<-|Government of Japan
@@ -3918,6 +3958,7 @@ Jews -- History|<->|Jewish history
 Jews -- Identity|=|Jewish identity
 Jews -- New York (State) -- New York|<->|History of the Jews in New York City
 Jews -- New York (State) -- New York -- History|->|History of the Jews in New York City
+Jews -- Spain -- History -- Expulsion, 1492|<->|Alhambra Decree
 Jews -- United States|<->|American Jews
 Jhelum River (India and Pakistan)|=|Jhelum River
 Jig (Dance)|=|Jig
@@ -4076,12 +4117,15 @@ Korea (South) -- Politics and government|<->|Politics of South Korea
 Korea (South) -- Politics and government|<-|Government of South Korea
 Korean resistance movements, 1905-1945|<->|Korean independence movement
 Korean War, 1950-1953|=|Korean War
+Koronowo, Battle of, Koronowo, Poland, 1410|=|Battle of Koronowo
 Kortrijk, Battle of, Kortrijk, Belgium, 1302|=|Battle of the Golden Spurs
 Kortrijk (Belgium)|=|Kortrijk
 Kosher food|=|Kosher foods
 Kosovo, Battle of, Kosovo, 1389|=|Battle of Kosovo
+Kosovo, Battle of, Kosovo, 1448|=|Battle of Kosovo (1448)
 Kosovo War, 1998-1999|=|Kosovo War
 Kpelle (African people)|=|Kpelle people
+Krbava, Battle of, Croatia, 1493|=|Battle of Krbava Field
 Krenitzin Islands (Alaska)|=|Krenitzin Islands
 Krishna (Hindu deity)|=|Krishna
 Krishna River (India)|=|Krishna River
@@ -4284,6 +4328,7 @@ Linguistic minorities|<->|Minority language
 Linguists|->|Linguistics
 Linlithgow (Scotland)|=|Linlithgow
 Lion House (Salt Lake City, Utah)|=|Lion House (Salt Lake City)
+Lipany, Battle of, Czech Republic, 1434|=|Battle of Lipany
 Lipids|=|Lipid
 Lipizzaner horse|=|Lipizzan
 Lippe River (Germany)|=|Lippe (river)
@@ -4319,6 +4364,10 @@ Locomotive engineers|=|Railroad engineer
 Locomotive firemen|<->|Fireman (steam engine)
 Locomotives|=|Locomotive
 Lodgepole pine|<->|Pinus contorta
+Lodi (Italy)|=|Lodi, Lombardy
+Lodi (Italy : Province)|=|Province of Lodi
+Lodi, Peace of, 1454|=|Treaty of Lodi
+Lodi dynasty, 1451-1526|=|Lodi dynasty
 Logarithms|=|Logarithm
 Log cabins|=|Log cabin
 Loggers|=|Lumberjack
@@ -4854,8 +4903,9 @@ Montessori method of education|<->|Montessori education
 Montezuma Castle National Monument (Ariz.)|=|Montezuma Castle National Monument
 Montgomery Bus Boycott, Montgomery, Ala., 1955-1956|=|Montgomery Bus Boycott
 Montgomery family|<->|Montgomery (name)
-Monticello (Va.)|=|Monticello
 Months|=|Month
+Monticello (Va.)|=|Monticello
+Montlh&eacute;ry, Battle of, Montlh&eacute;ry, France, 1465|=|Battle of Montlhéry
 Montr&eacute;al (Qu&eacute;bec)|=|Montreal
 Montr&eacute;al (Qu&eacute;bec) -- History|=|History of Montreal
 Monuments|=|Monument
@@ -4867,6 +4917,7 @@ Moores Creek National Battlefield (N.C.)|=|Moores Creek National Battlefield
 Moosehead Lake (Me.)|=|Moosehead Lake
 Moral education|<->|Character education
 Moralities|=|Morality play
+Morat, Battle of, Murten, Switzerland, 1476|=|Battle of Morat
 Morava River (Serbia)|<->|Great Morava
 Moravia (Czech Republic)|=|Moravia
 Moravians|->|Moravian Church
@@ -4990,6 +5041,7 @@ Nails (Anatomy)|=|Nail (anatomy)
 Nailsworth (England)|=|Nailsworth
 Nairobi (Kenya)|=|Nairobi
 Names, Personal|=|Personal name
+Nancy, Battle of, Nancy, France, 1477|=|Battle of Nancy
 Nanking Massacre, Nanjing, Jiangsu Sheng, China, 1937|=|Nanking Massacre
 Nannies|=|Nanny
 Nantes (France)|=|Nantes
@@ -5083,6 +5135,7 @@ Nessus (Greek mythology)|=|Nessus (mythology)
 Nesting dolls|<->|Matryoshka doll
 Nestor (Greek mythology)|=|Nestor (mythology)
 Netherlands -- History -- Eighty Years' War, 1568-1648|=|Eighty Years' War
+Netherlands -- History -- House of Habsburg, 1477-1556|<->|Habsburg Netherlands
 Netherlands -- Politics and government|<->|Politics of the Netherlands
 Nettles|<->|Urtica
 Nettles|<-|List of plants known as nettle
@@ -5393,6 +5446,7 @@ Omens|=|Omen
 Onega Bay (Russia)|=|Onega Bay
 Onega Lake (Russia)|=|Lake Onega
 Oneness doctrine (Pentecostalism)|<->|Oneness Pentecostalism
+&Omacr;nin War, 1467-1477|=|Ōnin War
 Online dating|<->|Online dating service
 Online information services|<->|Online service provider
 Online journalism|=|Digital journalism
@@ -5462,6 +5516,7 @@ Optical instruments|=|Optical instrument
 Options (Finance)|=|Option (finance)
 Oral communication|->|Communication
 Oral contraceptives|<->|Oral contraceptive pill
+Oranik, Battle of, Macedonia, 1448|=|Battle of Oranik (1448)
 Orators|=|Orator
 Orbits|=|Orbit
 Orchids|=|Orchidaceae
@@ -5483,6 +5538,8 @@ Orion (Greek mythology)|=|Orion (mythology)
 Orishas|=|Orisha
 Oriskany, Battle of, N.Y., 1777|=|Battle of Oriskany
 Orkney (Scotland)|=|Orkney
+Orl&eacute;ans (France)|=|Orléans
+Orl&eacute;ans (France) -- History -- Siege, 1428-1429|=|Siege of Orléans
 Ornithologists|<->|List of ornithologists
 Orphan drugs|=|Orphan drug
 Orphanages|=|Orphanage
@@ -5503,6 +5560,7 @@ Ostrich farming|->|Ostrich
 Ostrich farms|->|Ostrich
 Ostriches|=|Ostrich
 Othello (Fictitious character)|=|Othello (character)
+Otlukbeli, Battle of, Turkey, 1473|=|Battle of Otlukbeli
 Ottawa Indians|=|Odawa
 Otterbourne (England)|=|Otterbourne
 Otterburn, Battle of, Otterburn, England, 1388|=|Battle of Otterburn
@@ -5632,6 +5690,7 @@ Pawnbrokers|=|Pawnbroker
 Pawnbroking|->|Pawnbroker
 Pawnee Indians|=|Pawnee people
 Pazuzu (Assyro-Babylonian deity)|=|Pazuzu
+Pazzi Conspiracy, 1478|=|Pazzi conspiracy
 Peacekeeping forces|<->|Peacekeeping
 Peace movements|=|Peace movement
 Peace of mind|=|Inner peace
@@ -5761,6 +5820,7 @@ Physicists|=|Physicist
 Physiocrats|=|Physiocracy
 Physiologists|->|Physiology
 Pi-calculus|=|Π-calculus
+Piacenza (Italy)|=|Piacenza
 Pianists|=|Pianist
 Piankashaw Indians|=|Piankeshaw
 Piano music|->|Piano
@@ -5849,6 +5909,7 @@ Poliomyelitis vaccine|=|Polio vaccine
 Polisario|=|Polisario Front
 Polish Americans|=|Polish American
 Polish people|=|Poles
+Polish-Teutonic Knights' War, 1409-1411|<->|Polish–Lithuanian–Teutonic War
 Political action committees|=|Political action committee
 Political activists|->|Activism
 Political campaigns|=|Political campaign
@@ -5878,6 +5939,7 @@ Ponds|=|Pond
 Ponies|=|Pony
 Pontiac automobile|=|Pontiac
 Pontiac's Conspiracy, 1763-1765|<->|Pontiac's War
+Ponza, Battle of, Italy, 1435|=|Battle of Ponza (1435)
 Pool (Game)|=|Pool (cue sports)
 Poor laws|->|Poor relief
 Popes|=|Pope
@@ -5916,6 +5978,7 @@ Potter, Harry (Fictitious character)|=|Harry Potter (character)
 Pott's disease|=|Pott disease
 PowerPC microprocessors|<->|PowerPC
 Practical jokes|=|Practical joke
+Pragmatic sanction of Charles VII, 1438|=|Pragmatic Sanction of Bourges
 Prague (Czech Republic)|=|Prague
 Prairie Provinces|<->|Canadian Prairies
 Prairies|=|Prairie
@@ -6265,6 +6328,7 @@ Religions|->|Religion
 Religious life|->|Religion
 Religious tolerance|->|Toleration
 Reliquaries|=|Reliquary
+Remences, War of the, Spain, 1462-1486|<->|Remença
 Remnant (Theology)|=|Remnant (Bible)
 Renewable energy sources|=|Renewable energy
 Reorganized Church of Jesus Christ of Latter Day Saints|->|Community of Christ
@@ -6503,11 +6567,13 @@ San Juan Island (Wash.)|=|San Juan Island
 San Juan Islands (Wash.)|<->|San Juan Islands
 San Juan Mountains (Colo. and N.M.)|=|San Juan Mountains
 San Rafael River (Utah)|=|San Rafael River
+San Romano, Battle of, Italy, 1432|=|Battle of San Romano
 Sanak Islands (Alaska)|=|Sanak Islands
 Sanctuary doctrine (Seventh-Day Adventists)|<->|Heavenly sanctuary
 Sandy Hook Elementary School Massacre, Newtown, Conn., 2012|=|Sandy Hook Elementary School shooting
 Sanitation Workers Strike, Memphis, Tenn., 1968|=|Memphis Sanitation Strike
 Sankhya|=|Samkhya
+Sankt Jakob an der Birs, Battle of, Switzerland, 1444|=|Battle of St. Jakob an der Birs
 Sanskrit language|=|Sanskrit
 Sanskrit poetry|->|Sanskrit literature
 Santa Clara Mission|=|Mission Santa Clara de Asís
@@ -6542,6 +6608,7 @@ S&amacr;vitr&imacr; (Hindu deity)|<->|Savitr
 Savo Island, Battle of, Solomon Islands, 1942|=|Battle of Savo Island
 Sawyer, Tom (Fictitious character)|=|Tom Sawyer
 Saxony (Germany)|=|Saxony
+Sayyid dynasty, 1414-1451|=|Sayyid dynasty
 Scales (Weighing instruments)|=|Weighing scale
 Scandals|=|Scandal
 Scarabs|=|Scarabaeidae
@@ -6731,6 +6798,7 @@ Ships|=|Ship
 Shipwrecks|=|Shipwreck
 Shirley, Anne (Fictitious character)|=|Anne Shirley
 Shirtwaist Makers' Strike, New York, N.Y., 1909|=|New York shirtwaist strike of 1909
+Shkod&euml;r (Albania)|=|Shkodër
 Shkod&euml;r (Albania) -- History -- Siege, 1474|=|Siege of Shkodra (1474)
 Shkod&euml;r (Albania) -- History -- Siege, 1912-1913|=|Siege of Scutari (1912–13)
 Shock waves|=|Shock wave
@@ -6744,6 +6812,8 @@ Shortstop (Baseball)|=|Shortstop
 Shoshonean languages|->|Uto-Aztecan languages
 Shoshoni Indians|=|Shoshone
 Shot (Pellets)|=|Shot (pellet)
+Shrewsbury (England)|=|Shrewsbury
+Shrewsbury, Battle of, Shrewsbury, England, 1403|=|Battle of Shrewsbury
 Shrimp fisheries|<->|Shrimp fishery
 Shropshire (England)|=|Shropshire
 Shrubs|=|Shrub
@@ -7020,6 +7090,7 @@ Spain -- History -- Carlist War, 1833-1840|<->|First Carlist War
 Spain -- History -- Carlist War, 1846-1849|=|Second Carlist War
 Spain -- History -- Carlist War, 1873-1876|<->|Third Carlist War
 Spain -- History -- Civil War, 1936-1939|=|Spanish Civil War
+Spain -- History -- Ferdinand and Isabella, 1479-1516|<->|Catholic Monarchs
 Spain -- History -- Napoleonic Conquest, 1808-1813|<->|Kingdom of Spain (Napoleonic)
 Spain -- History -- Republic, 1873-1875|=|First Spanish Republic
 Spain -- History -- Republic, 1931-1939|=|Second Spanish Republic
@@ -7029,6 +7100,7 @@ Spaniards|=|Spanish people
 Spanish American literature|->|Latin American literature
 Spanish American poetry|->|Latin American poetry
 Spanish-American War, 1898|=|Spanish–American War
+Spanish literature -- Classical period, 1500-1700|<->|Spanish Renaissance literature
 Spanish Succession, War of, 1701-1714|=|War of the Spanish Succession
 Sparta (Extinct city)|<->|Sparta
 Sparta (Greece)|=|Sparta (modern)
@@ -7127,6 +7199,7 @@ Stockholders|=|Shareholder
 Stockholm (Sweden)|=|Stockholm
 Stockyards|<->|Stockyard
 Stoics|=|Stoicism
+Stoke, Battle of, England, 1487|=|Battle of Stoke Field
 Stoke-on-Trent (England)|=|Stoke-on-Trent
 Stone Mountain (Ga.)|=|Stone Mountain
 Stone Mountain Memorial (Ga.)|->|Stone Mountain
@@ -7232,6 +7305,7 @@ Sutures|<->|Surgical suture
 Sutwik Island (Alaska)|=|Sutwik Island
 Svalbard (Norway)|=|Svalbard
 Svetlana (Name)|=|Svetlana
+Swabian War, 1499|=|Swabian War
 Swains Island (American Samoa)|=|Swains Island
 Swamps|=|Swamp
 Swan River (Man.: Rural municipality)|=|Rural Municipality of Swan River
@@ -7296,6 +7370,8 @@ Tanganyika, Lake|=|Lake Tanganyika
 Tankers|=|Tanker
 Tanks|<->|Tank (disambiguation)
 Tanks (Military science)|=|Tank
+Tannenberg, Battle of, Poland, 1410|=|Battle of Grunwald
+Tannenberg, Battle of, St&eogon;bark, Poland, 1914|=|Battle of Tannenberg
 Tanneries|<->|Tanning
 Tannins|=|Tannin
 Tantric Buddhism|=|Vajrayana
@@ -7399,9 +7475,12 @@ Therapeutic alliance|=|Therapeutic relationship
 Therapeutics|=|Therapy
 Therav&amacr;da Buddhism|=|Theravada
 Theseus (Greek mythology)|=|Theseus
+Thessalonik&emacr; (Greece)|=|Thessaloniki
+Thessalonik&emacr; (Greece) -- History -- Siege, 1430|<->|Siege of Thessalonica (1422–30)
 Thieves|->|Theft
 Third Coalition, War of the, 1805|<->|War of the Third Coalition
 Third parties (United States politics)|=|Third party (United States)
+Thirteen Years' War, 1454-1466|=|Thirteen Years' War (1454–66)
 Thirteenth century|=|13th century
 Thirty Years' War, 1618-1648|=|Thirty Years' War
 Thomas A. Edison, Inc.|<->|Edison Studios
@@ -7471,7 +7550,10 @@ Tornadoes|=|Tornado
 Toronto (Ont.)|=|Toronto
 Torpedoes|=|Torpedo
 Torres Strait Islands (Qld.)|<->|Torres Strait Islands
+Tortosa Disputation, Tortosa, Spain, 1413-1414|=|Disputation of Tortosa
 Torts|=|Tort
+Toru&nacute;, Poland, Peace of, 1466|=|Second Peace of Thorn (1466)
+Torviolli, Battle of, Albania, 1444|=|Battle of Torvioll
 Totems|=|Totem
 Toucans|=|Toucan
 Tourists|->|Tourism
@@ -7480,6 +7562,8 @@ Tours, Battle of, France, 732|=|Battle of Tours
 Toutatis (Asteroid)|=|4179 Toutatis
 Tower of London (London, England)|=|Tower of London
 Towers|=|Tower
+Towton (England)|=|Towton
+Towton, Battle of, Towton, England, 1461|=|Battle of Towton
 Toxicity testing|=|Toxicology testing
 Toy making|->|Toy
 Toy stores|->|Retail
@@ -7517,6 +7601,7 @@ Transvaal (South Africa) -- History -- War of 1880-1881|<->|First Boer War
 Transverse Ranges (Calif.)|=|Transverse Ranges
 Transylvania (Romania)|=|Transylvania
 Transylvania (Romania) -- History|=|History of Transylvania
+Transylvania (Romania) -- History -- Peasant Uprising, 1437-1438|<->|Budai Nagy Antal Revolt
 Trappers|=|Trapper
 Travelers|=|Traveler
 Traveling salesman problem|=|Travelling salesman problem
@@ -7547,6 +7632,7 @@ Tropical fruit|->|List of culinary fruits
 Troubadours|=|Troubadour
 Trout fishing|->|Trout
 Troy (Extinct city)|=|Troy
+Troyes, Treaty of, 1420|=|Treaty of Troyes
 TRP channels|=|Transient receptor potential channel
 Truck Drivers' Strike, Minneapolis, Minn., 1934|=|Minneapolis Teamsters Strike of 1934
 Trucks|=|Truck
@@ -7878,6 +7964,7 @@ Vaccines|=|Vaccine
 Vaginal birth after cesarean|=|Vaginal birth after caesarean
 Vagrancy|<->|Vagrancy (people)
 Valcour Island, Battle of, N.Y., 1776|=|Battle of Valcour Island
+Valea Alb&#x01ce;, Battle of, Romania, 1476|=|Battle of Valea Albă
 Valentine (Tank)|=|Valentine tank
 Valentinians|=|Valentinianism
 Valets|=|Valet
@@ -7899,7 +7986,9 @@ V&auml;nern (Sweden)|=|Vänern
 Variable stars|=|Variable star
 Variation (Biology)|<->|Variation
 Variations|<->|Variation (music)
+Varna, Battle of, Varna, Bulgaria, 1444|=|Battle of Varna
 Vashon Island (Wash.)|->|Vashon, Washington
+Vaslui, Battle of, Romania, 1475|=|Battle of Vaslui
 Vatican Council (1st : 1869-1870 : Basilica di San Pietro in Vaticano)|=|First Vatican Council
 Vatican Council (2nd : 1962-1965 : Basilica di San Pietro in Vaticano)|=|Second Vatican Council
 Vedda (Sri Lankan people)|=|Vedda people
@@ -7911,6 +8000,7 @@ Venezuela -- History -- Federal Wars, 1858-1863|<->|Federal War
 Venezuela -- Politics and government|<->|Politics of Venezuela
 Venezuela -- Politics and government|<-|Government of Venezuela
 Venice (Italy)|=|Venice
+Venice (Italy) -- History -- Turkish Wars, 1453-1571|<->|Ottoman–Venetian Wars
 Venus (Planet)|=|Venus
 Venus (Planet) -- Atmosphere|=|Atmosphere of Venus
 Venus (Planet) -- Exploration|<->|Observations and explorations of Venus
@@ -7949,8 +8039,12 @@ Video telephone|=|Videophone
 Vidigueira (Portugal)|=|Vidigueira Municipality
 Vidua|<->|Viduidae
 Vienna (Austria)|=|Vienna
+Vienna (Austria) -- History -- Siege, 1483-1485|<->|Siege of Vienna (1485)
 Vienne River (France)|=|Vienne (river)
-ietnam -- History -- H&#x1ed3; dynasty, 1400-1407|<->|Hồ Dynasty
+Vietnam -- History -- Early L&ecirc; dynasty, 980-1009|<->|Early Lê dynasty
+Vietnam -- History -- H&#x1ed3; dynasty, 1400-1407|<->|Hồ Dynasty
+Vietnam -- History -- Lam S&#x01a1;n Uprising, 1418-1428|=|Lam Sơn uprising
+Vietnam -- History -- Later L&ecirc; dynasty, 1428-1787|<->|Lê dynasty
 Vietnam -- History -- L&yacute; dynasty, 1010-1225|<->|Lý Dynasty
 Vietnam -- History -- Tr&#x1ea7;n dynasty, 1225-1400|<->|Trần Dynasty
 Vietnam -- Politics and government|<->|Politics of Vietnam
@@ -8009,6 +8103,8 @@ Waihi strike, 1912|=|Waihi miners' strike
 WAIS (Information retrieval system)|=|Wide area information server
 Waiters|=|Waiting staff
 Wake Island, Battle of, Wake Island, 1941|=|Battle of Wake Island
+Wakefield (England)|=|Wakefield
+Wakefield, Battle of, Wakefield, England, 1460|=|Battle of Wakefield
 Walden Pond (Middlesex County, Mass.)|=|Walden Pond
 Walden Woods (Mass.)|->|Walden Pond
 Waldenses|=|Waldensians
@@ -8025,6 +8121,7 @@ War crimes|=|War crime
 War crime trials|=|War crimes trials
 War criminals|->|War crime
 War games|<->|War Game
+War of the Castilian Succession, 1475-1479|=|War of the Castilian Succession
 War on Terrorism, 2001-2009|<->|War on Terror
 War (Philosophy)|<->|Philosophy of war
 War poetry|<->|War poet
