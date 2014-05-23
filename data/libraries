@@ -660,6 +660,14 @@ BASEURL http://libcat.aau.edu.et
 CATTYPE koha
 FILTERS S
 
+ID OCLC-GY1
+NAME &Aring;bo Akademi University
+LOCATION Turku and Vaasa
+COUNTRY FI
+CATTYPE voyager-vwebv
+BASEURL http://alma.linneanet.fi/vwebv/search
+FILTERS S
+
 ID OCLC-CPV
 NAME City University of Hong Kong
 LOCATION Hong Kong
@@ -1327,6 +1335,13 @@ LOCATION Little Rock; Pulaski and Perry counties
 STATE AR
 BASEURL http://encore.cals.lib.ar.us/iii/encore
 CATTYPE encore
+
+ID OCLC-AFU
+NAME University of Arkansas
+LOCATION Fayetteville
+STATE AR
+BASEURL http://library.uark.edu
+CATTYPE innopac
 
 ID OCLC-1JQ
 NAME Alameda County Library
@@ -3400,6 +3415,13 @@ STATE PA
 BASEURL http://pilot.passhe.edu:8062/cgi-bin/Pwebrecon.cgi
 CATTYPE voyager
 
+ID OCLC-HBP
+NAME Dauphin County Library System
+LOCATION Harrisburg and vicinity
+STATE PA
+CATTYPE encore
+BASEURL http://dcls-mt.iii.com/iii/encore
+
 ID OCLC-DXU
 NAME Drexel University Libraries
 LOCATION Philadelphia
@@ -3983,6 +4005,13 @@ LOCATION Burlington
 STATE VT
 BASEURL http://flet.sirsi.net/uhtbin/cgisirsi
 CATTYPE sirsi
+
+ID OCLC-RUT
+NAME Rutland Free Library
+LOCATION Rutland
+STATE VT
+BASEURL http://catalog.rutlandfree.org
+CATTYPE koha
 
 ID OCLC-BGTON
 NAME Burlington Public Library
