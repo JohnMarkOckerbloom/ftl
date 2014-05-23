@@ -1838,8 +1838,8 @@ ID OCLC-1DL
 NAME Library of Congress
 LOCATION Washington
 STATE DC
-BASEURL http://catalog.loc.gov/cgi-bin/Pwebrecon.cgi
-CATTYPE voyager
+CATTYPE voyager-vwebv
+BASEURL http://catalog.loc.gov/vwebv/search
 
 ID OCLC-1DB
 NAME Bethune-Cookman University
@@ -2433,6 +2433,13 @@ BASEURL http://ursus.maine.edu/
 CATTYPE iii-consortium-member
 LCODE 8
 
+ID OCLC-BTS
+NAME Bates College
+LOCATION Lewiston
+STATE ME
+CATTYPE summon
+BASEURL http://bates.summon.serialssolutions.com
+
 ID MAINECAT
 NAME MaineCat
 LOCATION Statewide library catalog
@@ -2719,11 +2726,11 @@ BASEURL http://walden.kohalibrary.com
 CATTYPE koha
 
 ID OCLC-MLU
-NAME Alcorn State University, J.D. Boyd Library
+NAME Alcorn State University
 LOCATION Lorman
 STATE MS
-BASEURL http://jdboyd.alcorn.edu/cgi-bin/Pwebrecon.cgi
-CATTYPE voyager
+CATTYPE sirsient
+BASEURL http://alcorn.ent.sirsi.net
 
 ID OCLC-MJP
 NAME Jackson-Hinds Library System
@@ -3999,12 +4006,26 @@ STATE WA
 CATTYPE bibliocommons
 BASEURL http://bellingham.bibliocommons.com
 
+ID OCLC-BNT
+NAME Bennington College
+LOCATION Bennington
+STATE VT
+BASEURL http://library.bennington.edu
+CATTYPE webpacpro
+
 ID OCLC-F3L
 NAME Fletcher Free Library
 LOCATION Burlington
 STATE VT
 BASEURL http://flet.sirsi.net/uhtbin/cgisirsi
 CATTYPE sirsi
+
+ID OCLC-MDY
+NAME Middlebury College
+LOCATION Middlebury
+STATE VT
+CATTYPE summon
+BASEURL http://middlebury.summon.serialssolutions.com
 
 ID OCLC-RUT
 NAME Rutland Free Library
