@@ -3190,6 +3190,13 @@ CATTYPE aleph1
 BASEURL http://p8991-libms1.albany.edu.libproxy.albany.edu
 TINDEX WTI
 
+ID OCLC-BUF
+NAME University at Buffalo, SUNY
+LOCATION Buffalo
+STATE NY
+CATTYPE vufindgeneral
+BASEURL http://catalog.lib.buffalo.edu/vufind/Resource/Results
+
 # ID may be for specific dept in U, but we're using it for whole U
 ID OCLC-NJD
 NAME Appalachian State University, Belk Library
@@ -3775,6 +3782,13 @@ BASEURL http://halan.sdp.sirsi.net
 CATTYPE sirsient
 LCODE hou
 
+ID OCLC-HTC
+NAME Huston-Tillotson University
+LOCATION Austin
+STATE TX
+BASEURL http://voyager.htu.edu/cgi-bin/Pwebrecon.cgi
+CATTYPE voyager
+
 ID OCLC-LPZ
 NAME Lunar and Planetary Institute Library
 LOCATION Houston
@@ -3823,6 +3837,13 @@ STATE TX
 BASEURL http://sapl.sat.lib.tx.us/
 CATTYPE iii-consortium-member
 LCODE 1
+
+ID OCLC-SNM
+NAME St. Mary's University, Louis J. Blume Library
+LOCATION San Antonio
+STATE TX
+BASEURL http://regina.stmarytx.edu
+CATTYPE innopac
 
 ID OCLC-TXA
 NAME Texas A&amp;M University Libraries
