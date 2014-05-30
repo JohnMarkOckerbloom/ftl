@@ -3110,6 +3110,13 @@ CATTYPE iii-consortium-member
 BASEURL http://www.alisweb.org
 LCODE 60
 
+ID OCLC-ZNL
+NAME New York Law School
+LOCATION New York
+STATE NY
+BASEURL http://lawlib.nyls.edu
+CATTYPE innopac
+
 ID OCLC-ZYU
 NAME New York University Libraries
 LOCATION New York
@@ -3174,6 +3181,13 @@ SINDEX FIND_WSU
 TINDEX WTI
 FILTERS NK
 
+ID OCLC-SYB
+NAME Syracuse University Libraries
+LOCATION Syracuse
+STATE NY
+CATTYPE summon
+BASEURL http://syracuse.summon.serialssolutions.com
+
 ID OCLC-XTC
 NAME Touro College Libraries
 LOCATION New York
@@ -3196,6 +3210,13 @@ LOCATION Buffalo
 STATE NY
 CATTYPE vufindgeneral
 BASEURL http://catalog.lib.buffalo.edu/vufind/Resource/Results
+
+ID OCLC-VVW
+NAME Westchester Library System
+LOCATION Public libraries in Westchester County
+STATE NY
+CATTYPE sirsient
+BASEURL http://westls.ent.sirsi.net
 
 # ID may be for specific dept in U, but we're using it for whole U
 ID OCLC-NJD
