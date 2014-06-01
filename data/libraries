@@ -2487,6 +2487,14 @@ STATE MD
 BASEURL http://umaryland.worldcat.org/search
 CATTYPE worldcat
 
+ID OCLC-BXM
+NAME Boston College
+LOCATION Boston
+STATE MA
+BASEURL http://bc-primo.hosted.exlibrisgroup.com/primo_library
+CATTYPE primo
+VID bclib
+
 ID OCLC-BRL
 NAME Boston Public Library
 LOCATION Boston
@@ -2597,6 +2605,13 @@ LOCATION Springfield
 STATE MA
 CATTYPE voyager-vwebv
 BASEURL http://jtbowne.springfieldcollege.edu/vwebv/search
+
+ID OCLC-ULN
+NAME University of Massachusetts Lowell
+LOCATION Lowell
+STATE MA
+BASEURL http://uml.worldcat.org/search
+CATTYPE worldcat
 
 ID OCLC-WEL
 NAME Wellesley College
@@ -2903,6 +2918,13 @@ LOCATION Manchester
 STATE NH
 BASEURL http://findit.gmilcs.org/polaris
 CATTYPE polaris
+
+ID OCLC-2NH
+NAME University of New Hampshire
+LOCATION Durham and Manchester
+STATE NH
+BASEURL http://unhlibrary.worldcat.org/search
+CATTYPE worldcat
 
 ID OCLC-ACP
 NAME Atlantic City Free Public Library
