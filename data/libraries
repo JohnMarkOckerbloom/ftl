@@ -4026,6 +4026,13 @@ STATE VA
 CATTYPE encore
 BASEURL http://ccpl-discover.chesterfield.gov/iii/encore
 
+ID OCLC-8AX
+NAME Fairfax County Public Library
+LOCATION Fairfax County
+STATE VA
+BASEURL http://fcplcat.fairfaxcounty.gov/uhtbin/cgisirsi
+CATTYPE sirsi
+
 ID OCLC-VGM
 NAME George Mason University
 LOCATION Fairfax and other campuses
@@ -4033,6 +4040,20 @@ STATE VA
 CATTYPE primo
 BASEURL http://gml-primo.hosted.exlibrisgroup.com/primo_library
 VID GMU
+
+ID OCLC-VHI
+NAME Hampton University, Harvey Library
+LOCATION Hampton
+STATE VA
+BASEURL http://huwebcat.hamptonu.edu/uhtbin/cgisirsi
+CATTYPE sirsi
+
+ID OCLC-AXJ
+NAME Loudoun County Public Library
+LOCATION Leesburg and vicinity
+STATE VA
+BASEURL http://catalog.lcpl.lib.va.us
+CATTYPE ipac20
 
 ID OCLC-VRP
 NAME Richmond Public Library
