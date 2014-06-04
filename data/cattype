@@ -333,6 +333,15 @@ AUTURL ${BASEURL}?searchArg=${ARG:A}&searchCode=NAME&searchType=1
 TITURL ${BASEURL}?searchArg=${ARG:A}&searchCode=TALL&searchType=1
 KEYURL ${BASEURL}?searchArg=${ARG}&searchCode=GKEY^*&searchType=1
 
+# This is for members of a coalition using the catalog
+# We do more keyword searching in this version, since browse doesn't filter
+#  and the catalog as a whole seems to be more sensitive in this mode
+CATTYPE voyager-vwebv-member
+SUBURL ${BASEURL}?searchArg=${ARG:NK}&searchCode=SKEY^&searchType=1&limitTo=${LCODE}
+AUTURL ${BASEURL}?searchArg=${ARG:S}&searchCode=NKEY*&searchType=1&limitTo=${LCODE}
+TITURL ${BASEURL}?searchArg=${ARG:A}&searchCode=TALL&searchType=1&limitTo=${LCODE}
+KEYURL ${BASEURL}?searchArg=${ARG}&searchCode=GKEY^*&searchType=1&limitTo=${LCODE}
+
 CATTYPE vubis
 SUBURL ${BASEURL}/List.csp?Database=1&OpacLanguage=eng&SearchMethod=Find_1&NumberToRetrieve=50&Profile=publicAccess&PreviousList=Start&PageType=Start&WebPageNr=1&WebAction=NewSearch&StartValue=1&RowRepeat=0&Index1=1*Subjectbib$&SearchT1=${ARG}
 AUTURL ${BASEURL}/List.csp?Database=1&OpacLanguage=eng&SearchMethod=Find_1&NumberToRetrieve=50&Profile=publicAccess&PreviousList=Start&PageType=Start&WebPageNr=1&WebAction=NewSearch&StartValue=1&RowRepeat=0&Index1=1*authorbib$&SearchT1=${ARG}

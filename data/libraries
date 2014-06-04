@@ -2359,12 +2359,27 @@ STATE KY
 BASEURL http://catalog.kentonlibrary.org/eg/opac
 CATTYPE evergreen-dynamic
 
+ID OCLC-KTB
+NAME Kentucky Community and Technical College System
+LOCATION 16 colleges across the state
+STATE KY
+CATTYPE voyager-vwebv
+BASEURL http://kctcs.kyvl.org/vwebv/search
+
 ID OCLC-KLP
 NAME Louisville Free Public Library
 LOCATION Louisville
 STATE KY
 BASEURL http://pac.lfpl.org/polaris
 CATTYPE polaris
+
+ID OCLC-KTC
+NAME Somerset Community College
+LOCATION Somerset
+STATE KY
+CATTYPE voyager-vwebv-member
+BASEURL http://kctcs.kyvl.org/vwebv/search
+LCODE LOCA=Somerset+CC:+All
 
 ID OCLC-KUK
 NAME University of Kentucky
@@ -3784,6 +3799,13 @@ LOCATION Austin
 STATE TX
 CATTYPE bibliocommons
 BASEURL http://austin.bibliocommons.com
+
+ID OCLC-IYU
+NAME Baylor University
+LOCATION Waco
+STATE TX
+CATTYPE summon
+BASEURL http://baylor.summon.serialssolutions.com
 
 ID OCLC-IGA
 NAME Dallas Public Library
