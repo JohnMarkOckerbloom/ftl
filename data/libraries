@@ -3734,7 +3734,6 @@ STATE SD
 CATTYPE aleph1
 BASEURL http://argos.sdln.net
 
-
 ID AMERICANBAPTIST
 NAME American Baptist College
 LOCATION Nashville
@@ -3749,12 +3748,35 @@ STATE TN
 CATTYPE summon
 BASEURL http://belmont.summon.serialssolutions.com
 
+ID OCLC-TCH
+NAME Chattanooga Public Library
+LOCATION Chattanooga
+STATE TN
+BASEURL http://catalog.lib.chattanooga.gov/polaris
+CATTYPE polaris
+
+ID OCLC-TET
+NAME East Tennessee State University
+LOCATION Johnson City
+STATE TN
+BASEURL http://libraries.etsu.edu
+CATTYPE iii-consortium-member
+LCODE 12
+
 ID OCLC-TMN
 NAME Memphis Public Library and Information Center
 LOCATION Memphis
 STATE TN
 CATTYPE sirsient
 BASEURL http://mpub.ent.sirsi.net
+
+ID OCLC-TXM
+NAME Middle Tennessee State University
+LOCATION Murfreesboro
+STATE TN
+BASEURL http://library2.mtsu.edu
+CATTYPE iii-consortium-member
+LCODE 12
 
 ID OCLC-TNN
 NAME Nashville Public Library
@@ -3764,6 +3786,14 @@ CATTYPE encore
 BASEURL http://nplencore.library.nashville.org/iii/encore
 DEFAULT http://www.library.nashville.org/
 
+ID NETCONSORTIUM
+NAME Northeast Tennessee Libraries
+LOCATION Academic and public library federation in NE Tennessee
+STATE TN
+BASEURL http://libraries.etsu.edu
+CATTYPE iii-consortium-member
+LCODE 1
+
 ID OCLC-TWS
 NAME Rhodes College
 LOCATION Memphis
@@ -3771,12 +3801,34 @@ STATE TN
 CATTYPE sirsi
 BASEURL http://rclm.sirsi.net/uhtbin/cgisirsi
 
+ID OCLC-BLUEG
+NAME Tennessee State Library and Archives
+LOCATION Nashville
+STATE TN
+CATTYPE tlc
+LCODE TSLAYSM
+BASEURL http://tsla.tlcdelivers.com/
+
 ID OCLC-TSU
 NAME Tennessee State University
 LOCATION Nashville
 STATE TN
 CATTYPE encore
 BASEURL http://dinaal.tnstate.edu/iii/encore
+
+ID OCLC-TTU
+NAME Tennessee Tech University
+LOCATION Cookeville
+STATE TN
+CATTYPE summon2
+BASEURL http://tntech.summon.serialssolutions.com
+
+ID OCLC-TMA
+NAME University of Memphis
+LOCATION Memphis
+STATE TN
+CATTYPE encore
+BASEURL http://catalogquicksearch.memphis.edu/iii/encore
 
 ID OCLC-TKN
 NAME University of Tennessee
