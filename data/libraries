@@ -2956,6 +2956,22 @@ STATE NJ
 BASEURL http://catalog.bccls.org/polaris
 CATTYPE polaris
 
+ID OCLC-BUN
+NAME Burlington County College
+LOCATION Pemberton and Mount Laurel
+STATE NJ
+CATTYPE sirsient
+LCODE bcc
+BASEURL http://catalog.bcc.edu
+
+ID OCLC-BUL
+NAME Burlington County Library System
+LOCATION Public libraries in Burlington County
+STATE NJ
+CATTYPE sirsient
+LCODE bcls
+BASEURL http://catalog.bcls.lib.nj.us
+
 ID OCLC-NCL
 NAME CamCat
 LOCATION Camden County Library System, and Camden County College
@@ -3010,6 +3026,20 @@ NAME Princeton University Library
 LOCATION Princeton
 STATE NJ
 KEYURL http://library.princeton.edu/find/all/${ARG}
+
+ID OCLC-NJS
+NAME Richard Stockton College of New Jersey
+LOCATION Galloway
+STATE NJ
+CATTYPE summon
+BASEURL http://stockton.summon.serialssolutions.com
+
+ID OCLC-STH
+NAME Seton Hall University
+LOCATION South Orange
+STATE NJ
+BASEURL http://setonhall.worldcat.org/search
+CATTYPE worldcat
 
 ID OCLC-SOM
 NAME Somerset County Library System
