@@ -158,8 +158,10 @@ Airplanes|<->|Fixed-wing aircraft
 Airplanes -- Models|<->|Model aircraft
 Airports|=|Airport
 Air power|=|Airpower
-Airships|=|Airship
 Air warfare|=|Aerial warfare
+Airships|=|Airship
+Airspace (International law)|<->|Air sovereignty
+Airspace (Law)|<->|Airspace
 Aix|=|Aix (genus)
 AIX (Computer file)|=|IBM AIX
 Ajax (Greek mythology)|=|Ajax (mythology)
@@ -416,7 +418,7 @@ Aragon (Spain) -- History -- Interregnum, 1410-1412|->|Compromise of Caspe
 Aral Sea (Uzbekistan and Kazakhstan)|=|Aral Sea
 Arapaho Indians|=|Arapaho
 Ararat, Mount (Turkey)|=|Mount Ararat
-Arawak Indians|=|Arawak peoples
+Arawak Indians|=|Arawak
 Arbedo, Battle of, Switzerland, 1422|=|Battle of Arbedo
 Archaeologists|->|Archaeology
 Arches|=|Arch
@@ -457,7 +459,7 @@ Aromatic compounds|->|Aromaticity
 Arrangement (Music)|=|Arrangement
 Arripis georgianus|=|Australian herring
 Art -- Forgeries|<->|Art forgery
-Art -- Study and teaching|=|Art education
+Art -- Study and teaching|<->|Visual arts education
 Art, Abstract|=|Abstract art
 Art, Aegean|=|Aegean art
 Art, African|<->|African art
@@ -483,7 +485,7 @@ Art, Modern|=|Modern art
 Art museums|=|Art museum
 Art objects|=|Work of art
 Art, Prehistoric|=|Prehistoric art
-Art teachers|->|Art education
+Art teachers|->|Visual arts education
 Art thefts|=|Art theft
 Art thieves|->|Art theft
 Artemis (Greek deity)|=|Artemis
@@ -1447,7 +1449,6 @@ Charrua Indians|=|Charrúa people
 Charter Oak (Hartford, Conn.)|=|Charter Oak
 Charter schools|=|Charter school
 Chautauquas|=|Chautauqua
-Chechens|=|Chechen people
 Chechnia (Russia)|=|Chechnya
 Chechnia (Russia) -- History|<->|History of Chechnya
 Checkers|=|Draughts
@@ -2249,7 +2250,8 @@ Don Juan (Legendary character)|=|Don Juan
 Donati comet|=|Comet Donati
 Donkey Kong (Game)|<->|Donkey Kong (video game)
 Donkeys|=|Donkey
-Doom (Computer file)|=|Doom (video game)
+Doom (Computer file)|<->|Doom (1993 video game)
+Doom (Computer file)|<-|Doom (series)
 Doors|=|Door
 Dorchester (Boston, Mass.)|=|Dorchester, Boston
 Dordogne River (France)|=|Dordogne (river)
@@ -2306,7 +2308,7 @@ Dueling|<->|Duel
 Due process of law|=|Due process
 Dugout canoes|<->|Dugout (boat)
 Duke Nukem (Game)|<->|Duke Nukem
-Duke Nukem (Game)|<-|Duke Nukem (1991 video game)
+Duke Nukem (Game)|<-|Duke Nukem (video game)
 Dulcinea (Fictitious character)|<->|Dulcinea
 Dumfries and Galloway (Scotland)|=|Dumfries and Galloway
 Dumfriesshire (Scotland)|=|Dumfriesshire
@@ -2317,7 +2319,8 @@ Dunk Island (Qld.)|=|Dunk Island
 Dunmow flitch|->|Great Dunmow
 Dust devils|=|Dust devil
 Dutch Americans|=|Dutch American
-Dutch poetry|->|Dutch literature
+Dutch literature|<->|Dutch-language literature
+Dutch poetry|->|Dutch-language literature
 Dutch War, 1672-1678|=|Franco-Dutch War
 Dwarfs|=|Dwarf
 Dwellings|=|Dwelling
@@ -2876,6 +2879,7 @@ France -- Politics and government|<->|Politics of France
 France -- Politics and government|<-|Government of France
 France, Southern|=|Southern France
 Franciscans|=|Franciscan
+Franco-Americans|->|Franco-American (French American)
 Franco-Prussian War, 1870-1871|=|Franco-Prussian War
 Frankenhausen, Battle of, Bad Frankenhausen, Germany, 1525|=|Battle of Frankenhausen
 Frankenstein, Victor (Fictitious character)|=|Victor Frankenstein
@@ -2897,7 +2901,7 @@ Free Methodist Church of North America|<->|Free Methodist Church
 Freethinkers|->|Freethought
 Free thought|=|Freethought
 Free will and determinism|<->|Free will
-French Americans|=|French American
+French Americans|<->|Franco-American (French American)
 French-Canadians|=|French Canadian
 French language -- Middle French, 1300-1600|<->|Middle French
 French language -- To 1300|<->|Old French
@@ -3979,7 +3983,7 @@ Jedburgh Abbey (Jedburgh, Scotland)|=|Jedburgh Abbey
 Jeeves (Fictitious character)|=|Jeeves
 Jellyfishes|=|Jellyfish
 Jerusalem -- History -- Latin Kingdom, 1099-1244|<->|Kingdom of Jerusalem
-Jerusalem -- History -- Siege, 70 A.D.|=|Siege of Jerusalem (70 AD)
+Jerusalem -- History -- Siege, 70 A.D.|=|Siege of Jerusalem (AD 70)
 Jesuits|=|Society of Jesus
 Jesus Christ|=|Jesus
 Jesus Christ -- Ascension|=|Ascension of Jesus
@@ -4162,6 +4166,7 @@ Korea (South) -- History|=|History of South Korea
 Korea (South) -- History -- April Revolution, 1960|=|April Revolution
 Korea (South) -- Politics and government|<->|Politics of South Korea
 Korea (South) -- Politics and government|<-|Government of South Korea
+Korean Air Lines Incident, 1983|<->|Korean Air Lines Flight 007
 Korean resistance movements, 1905-1945|<->|Korean independence movement
 Korean War, 1950-1953|=|Korean War
 Koronowo, Battle of, Koronowo, Poland, 1410|=|Battle of Koronowo
@@ -5010,7 +5015,7 @@ Mortgage loans|=|Mortgage loan
 Mortgages|<->|Mortgage law
 Moscow (Russia)|=|Moscow
 Moscow Trials, Moscow, Russia, 1936-1937|<->|Moscow Trials
-Moselle River|=|Moselle (river)
+Moselle River|=|Moselle
 Mosques|=|Mosque
 Mosquitoes|=|Mosquito
 Mosses|=|Moss
@@ -5096,7 +5101,7 @@ Mythology, Greek|=|Greek mythology
 Mythology, Japanese|=|Japanese mythology
 Mythology, Norse|=|Norse mythology
 Mythology, Roman|=|Roman mythology
-Mythomania|=|Pseudologia fantastica
+Mythomania|<->|Pathological lying
 N-rays|=|N ray
 Nabu (Assyro-Babylonian deity)|=|Nabu
 N&auml;fels, Battle of, Switzerland, 1388|=|Battle of Näfels
@@ -5220,7 +5225,7 @@ Neurotoxic agents|=|Neurotoxin
 Neurotoxicology|->|Neurotoxin
 Neurotransmitters|=|Neurotransmitter
 Neutral Nation Indians|=|Neutral Nation
-Neutrality|=|Neutrality (international relations)
+Neutrality|<->|Country neutrality (international relations)
 Nevada -- Politics and government|<->|Government of Nevada
 Nevada Test Site (Nev.)|<->|Nevada Test Site
 Neville's Cross, Battle of, Neville's Cross, England, 1346|=|Battle of Neville's Cross
@@ -5347,7 +5352,6 @@ Non-insulin-dependent diabetes|<->|Diabetes mellitus type 2
 Nonjurors|<->|Non-juror
 Nonlethal weapons|=|Non-lethal weapon
 Non-Newtonian fluids|=|Non-Newtonian fluid
-Nonparametric statistics|=|Non-parametric statistics
 Nonprofit organizations|=|Nonprofit organization
 Noos (The Greek word)|<->|Nous
 Nootka Indians|=|Nuu-chah-nulth
@@ -7461,7 +7465,7 @@ System design|=|Systems design
 Systems software|=|System software
 System theory|=|Systems theory
 Sz&eacute;kesfeh&eacute;rv&aacute;r (Hungary)|=|Székesfehérvár
-T Tauri stars|=|T Tauri type stars
+T Tauri stars|=|T Tauri star
 Tablature (Music)|=|Tablature
 Tableaux|<->|Tableau
 Tables|=|Table (furniture)
@@ -8214,7 +8218,7 @@ Volhynia (Ukraine)|<->|Volhynia
 Volta River (Ghana)|=|Volta River
 Voluntary aid detachments|=|Voluntary Aid Detachment
 Volunteers|<->|Volunteering
-Vosges Mountains (France)|=|Vosges Mountains
+Vosges Mountains (France)|=|Vosges
 Voyager Project|=|Voyager program
 Voyages around the world|<->|Circumnavigation
 Voyages, Imaginary|=|Imaginary voyage

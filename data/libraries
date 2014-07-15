@@ -1680,6 +1680,13 @@ BASEURL http://web-iii.yolocounty.org/
 CATTYPE iii-consortium-member
 LCODE 23
 
+ID OCLC-EB-DOLLAR
+NAME Bemis Public Library
+LOCATION Littleton
+STATE CO
+BASEURL http://bemis.ent.sirsi.net
+CATTYPE sirsient
+
 ID OCLC-CO3
 NAME Boulder Public Library
 LOCATION Boulder
@@ -1906,6 +1913,13 @@ LOCATION Tallahassee and other campuses
 STATE FL
 BASEURL http://fsu.catalog.fcla.edu/fs.jsp
 CATTYPE fcla
+
+ID OCLC-F9H
+NAME Heartland Library Cooperative
+LOCATION Highlands, DeSoto, Glades, Hardee, and Okechobee Counties
+STATE FL
+BASEURL http://catalog.myhlc.org/Polaris
+CATTYPE polaris
 
 ID OCLC-TNH
 NAME Hillsborough County Public Library Cooperative
@@ -3960,6 +3974,13 @@ LOCATION Palacios and Blessing
 STATE TX
 CATTYPE atriuum
 BASEURL http://palacioslibrary.booksys.net/opac/palacios/index.html?mode=main#search:
+
+ID OCLC-PLS
+NAME Plano Public Library System
+LOCATION Plano
+STATE TX
+BASEURL http://polaris.plano.gov/Polaris
+CATTYPE polaris
 
 ID OCLC-RCE
 NAME Rice University
