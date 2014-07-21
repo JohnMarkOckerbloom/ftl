@@ -342,11 +342,18 @@ AUTURL ${BASEURL}?searchArg=${ARG:S}&searchCode=NKEY*&searchType=1&limitTo=${LCO
 TITURL ${BASEURL}?searchArg=${ARG:A}&searchCode=TALL&searchType=1&limitTo=${LCODE}
 KEYURL ${BASEURL}?searchArg=${ARG}&searchCode=GKEY^*&searchType=1&limitTo=${LCODE}
 
+
 CATTYPE vubis
-SUBURL ${BASEURL}/List.csp?Database=1&OpacLanguage=eng&SearchMethod=Find_1&NumberToRetrieve=50&Profile=publicAccess&PreviousList=Start&PageType=Start&WebPageNr=1&WebAction=NewSearch&StartValue=1&RowRepeat=0&Index1=1*Subjectbib$&SearchT1=${ARG}
-AUTURL ${BASEURL}/List.csp?Database=1&OpacLanguage=eng&SearchMethod=Find_1&NumberToRetrieve=50&Profile=publicAccess&PreviousList=Start&PageType=Start&WebPageNr=1&WebAction=NewSearch&StartValue=1&RowRepeat=0&Index1=1*authorbib$&SearchT1=${ARG}
-TITURL ${BASEURL}/List.csp?Database=1&OpacLanguage=eng&SearchMethod=Find_1&NumberToRetrieve=50&Profile=publicAccess&PreviousList=Start&PageType=Start&WebPageNr=1&WebAction=NewSearch&StartValue=1&RowRepeat=0&Index1=1*Titlebib&SearchT1=${ARG}
-KEYURL ${BASEURL}/List.csp?Database=1&OpacLanguage=eng&SearchMethod=Find_1&NumberToRetrieve=50&Profile=publicAccess&PreviousList=Start&PageType=Start&WebPageNr=1&WebAction=NewSearch&StartValue=1&RowRepeat=0&Index1=1*Keywordsbib&SearchT1=${ARG}
+DBID 1
+KINDEX 1*Keywordsbib
+SINDEX 1*Subjectbib$
+AINDEX 1*authorbib$
+TINDEX 1*Titlebib
+PROFILE Default
+SUBURL ${BASEURL}/List.csp?Database=${DBID}&OpacLanguage=eng&SearchMethod=Find_1&NumberToRetrieve=50&Profile=${PROFILE}&PreviousList=Start&PageType=Start&WebPageNr=1&WebAction=NewSearch&StartValue=1&RowRepeat=0&Index1=${SINDEX}&SearchT1=${ARG}
+AUTURL ${BASEURL}/List.csp?Database=${DBID}&OpacLanguage=eng&SearchMethod=Find_1&NumberToRetrieve=50&Profile=${PROFILE}&PreviousList=Start&PageType=Start&WebPageNr=1&WebAction=NewSearch&StartValue=1&RowRepeat=0&Index1=${AINDEX}&SearchT1=${ARG}
+TITURL ${BASEURL}/List.csp?Database=${DBID}&OpacLanguage=eng&SearchMethod=Find_1&NumberToRetrieve=50&Profile=${PROFILE}&PreviousList=Start&PageType=Start&WebPageNr=1&WebAction=NewSearch&StartValue=1&RowRepeat=0&Index1=${TINDEX}&SearchT1=${ARG}
+KEYURL ${BASEURL}/List.csp?Database=${DBID}&OpacLanguage=eng&SearchMethod=Find_1&NumberToRetrieve=50&Profile=${PROFILE}&PreviousList=Start&PageType=Start&WebPageNr=1&WebAction=NewSearch&StartValue=1&RowRepeat=0&Index1=${KINDEX}&SearchT1=${ARG}
 
 CATTYPE vufind
 SUBURL ${BASEURL}/Search/Results?type=Subject&lookfor=${ARG}

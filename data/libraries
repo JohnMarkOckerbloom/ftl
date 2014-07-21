@@ -434,6 +434,7 @@ LOCATION Kingston
 PROVINCE ON
 BASEURL http://catalogue.kfpl.ca/kfplvw
 CATTYPE vubis
+PROFILE publicAccess
 
 ID OCLC-KPLCP
 NAME Kitchener Public Library
@@ -729,6 +730,19 @@ LOCATION Nairobi
 COUNTRY KE
 BASEURL http://maktaba.ku.ac.ke
 CATTYPE koha
+
+ID UNAIROBI
+NAME University of Nairobi
+LOCATION Nairobi
+COUNTRY KE
+BASEURL http://library.uonbi.ac.ke/opac
+CATTYPE vubis
+DBID 3
+KINDEX Naallwords
+SINDEX Nasubject
+AINDEX Naauthor
+TINDEX Natitleword
+FILTERS NS
 
 ID OCLC-U5N
 NAME University of Namibia
