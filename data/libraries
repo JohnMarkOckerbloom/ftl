@@ -77,6 +77,13 @@ CATTYPE primo
 BASEURL http://primo.unilinc.edu.au/primo_library
 VID CSU
 
+ID AU-VBAX
+NAME Federation University Australia
+LOCATION Ballarat and other campuses, Victoria
+COUNTRY AU
+CATTYPE primo
+BASEURL http://primoapac01.hosted.exlibrisgroup.com/primo_library
+
 ID AU-VLU
 NAME La Trobe University
 LOCATION Melbourne and other campuses, Victoria
@@ -170,6 +177,13 @@ COUNTRY AU
 BASEURL http://catalogue.slwa.wa.gov.au
 CATTYPE innopac
 
+ID OCLC-LE0
+NAME Swinburne University of Technology
+LOCATION Melbourne and vicinity, Victoria
+COUNTRY AU
+CATTYPE primo
+BASEURL http://librarysearch.swinburne.edu.au/primo_library
+
 ID AU-SUA
 NAME University of Adelaide
 LOCATION Adelaide and vicinity, South Australia
@@ -177,13 +191,6 @@ COUNTRY AU
 CATTYPE primo
 BASEURL http://adelaide.hosted.exlibrisgroup.com/primo_library
 VID SUA
-
-ID AU-VBAX
-NAME University of Ballarat
-LOCATION Ballarat, Victoria
-COUNTRY AU
-BASEURL http://innopac.ballarat.edu.au
-CATTYPE innopac
 
 ID AU-WU
 NAME University of Western Australia
@@ -199,6 +206,13 @@ LOCATION Wollongong, New South Wales
 COUNTRY AU
 CATTYPE summon
 BASEURL http://uow.summon.serialssolutions.com
+
+ID OCLC-LR0
+NAME Victoria University
+LOCATION Melbourne, Victoria
+COUNTRY AU
+BASEURL http://library.vu.edu.au
+CATTYPE innopac
 
 ID OCLC-CN5O6
 NAME Calgary Public Library
