@@ -3342,12 +3342,33 @@ STATE NC
 BASEURL http://bennett.worldcat.org/search
 CATTYPE worldcat
 
+ID OCLC-NPC
+NAME Charlotte Mecklenburg Library
+LOCATION Charlotte and vicinity
+STATE NC
+CATTYPE aquabrowser
+BASEURL http://catalog.cmlibrary.org
+
 ID OCLC-NDD
 NAME Duke University Libraries
 LOCATION Durham
 STATE NC
 CATTYPE summon
 BASEURL http://duke.summon.serialssolutions.com
+
+ID OCLC-NPE
+NAME Elizabeth City State University
+LOCATION Elizabeth City
+STATE NC
+BASEURL http://abbott.lib.ecu.edu/uhtbin/cgisirsi/
+CATTYPE sirsi
+
+ID OCLC-NFS
+NAME Fayetteville State University
+LOCATION Fayetteville
+STATE NC
+BASEURL http://uncfsu.worldcat.org/search
+CATTYPE worldcat
 
 ID OCLC-UZZ
 NAME Forsyth County Public Library
