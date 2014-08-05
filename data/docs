@@ -1,5 +1,5 @@
 Description of the data files in this directory
-by John Mark Ockerbloom (last updated 24 May 2013)
+by John Mark Ockerbloom (last updated 1 Aug 2014)
 
 The libraries and cattype files give instructions on how to link
 to searches at various libraries registered in the Forward to Libraries
@@ -41,7 +41,7 @@ at the time I added them to the database.
 
 CATTYPE 
 
-In the cattype file, this gives the identifier for a catalog type record.
+In the cattype file, CATTYPE gives the identifier for a catalog type record.
 In the libraries file, it imports the attribute values from the catalog type
 record with that identifier into the current library's attributes.  Imported
 attribute values can be overridden in the libraries file by a re-declaration
@@ -126,7 +126,7 @@ a transformation of the attribute value, as follows:
             "Chesterton, G. K. (Gilbert Keith), 1874-1936" would become
             simply "Chesterton, G. K.".
 
-When a particualr search cannot be determined for a given library, FTL
+When a particular search cannot be determined for a given library, FTL
 will try to use a simpler search that is defined.  For example, a library
 with no ATIURL might have author/title searches handled via TITURL,
 AUTURL, or KEYURL, depending on what definitions and data are provided.
@@ -215,3 +215,6 @@ of these mechanisms:
      *  <X> -- History = History of [the] <X>
      *  <X> (<Known Geolocation Abbrev.>) = <X>, <Known Geolocation>
      *  <X> in [the] <Known Geolocation> = <X> -- <Known Geolocation>
+     *  <X [plural form]> = <X [singular form]>, when there is a common
+          singular-plural mapping  (e.g. adding s), and there is a
+          Wikipedia redirect from the plural to the singular
