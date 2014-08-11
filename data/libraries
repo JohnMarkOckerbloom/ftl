@@ -2445,6 +2445,14 @@ CATTYPE ls2pac
 BASEURL http://ls2.lafourche.org/
 FILTERS S
 
+ID OCLC-LLM
+NAME Loyola University New Orleans, Monroe Library
+LOCATION New Orleans
+STATE LA
+BASEURL http://loy-primo.hosted.exlibrisgroup.com:1701/primo_library
+CATTYPE primo
+VID LOYNO
+
 ID OCLC-LAZ	
 NAME LSU Alexandria, Bolton Library
 LOCATION Alexandria
@@ -2481,6 +2489,20 @@ STATE LA
 CATTYPE ls2pac
 BASEURL http://catalog.wfplibrary.org:8080/
 FILTERS S
+
+ID OCLC-LNU
+NAME University of New Orleans, Long Library
+LOCATION New Orleans
+STATE LA
+BASEURL https://uno.louislibraries.org:5503/uhtbin/cgisirsi
+CATTYPE sirsi
+
+ID OCLC-LNX
+NAME Xavier University of Louisiana
+LOCATION New Orleans
+STATE LA
+BASEURL https://xavier.louislibraries.org:8603/uhtbin/cgisirsi
+CATTYPE sirsi
 
 ID OCLC-9BY
 NAME Bangor Public Library
