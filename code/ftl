@@ -2,7 +2,7 @@
 
 # Main FTL (Forward to Libraries) CGI script
 # By John Mark Ockerbloom, University of Pennsylvania (everybodyslibraries.com)
-# Version as of 6 May 2013
+# Version as of 22 Aug 2014
 #
 # Main FTL service currently runs at
 #   http://onlinebooks.library.upenn.edu/webbin/ftl
@@ -418,8 +418,27 @@ sub showlocallinks {
   print "</p>\n";
 }
 
+sub library_link {
+  my ($q, $id, $keep) = @_;
+  if (!$id) {
+    $id = "";
+  }
+  my $url = "?library=" . $id;
+  foreach my $attr ('su', 'au', 'ti', 'st', 'at', 'tt', 'from') {
+    if ($q->param($attr)) {
+      my $str = $q->param($attr);
+      utf8::decode($str);
+      $url .= "&$attr=" . OLBP::url_encode($str);
+    }
+  }
+  if ($keep) {
+    $url .= "&keep=1";
+  }
+  return $url;
+}
+
 sub showlibrarylinks {
-  my ($recref, $q, $sourcetoomit) = @_;
+  my ($recref, $q, $sourcetoomit, $keep) = @_;
   return if (!$recref);
   my $statecode = "";
   my $pcode = "";
@@ -462,14 +481,15 @@ sub showlibrarylinks {
       $pcode = $rec->{PROVINCE};
       print qq!<li> <b id="PR-$pcode">$provinces->{$pcode}</b><ul>!;
     }
-    my $url = "?library=" . $rec->{ID};
-    foreach my $attr ('su', 'au', 'ti', 'st', 'at', 'tt', 'from') {
-      if ($q->param($attr)) {
-        my $str = $q->param($attr);
-        utf8::decode($str);
-        $url .= "&$attr=" . OLBP::url_encode($str);
-      }
-    }
+    my $url = library_link($q, $rec->{ID}, $keep);
+    # my $url = "?library=" . $rec->{ID};
+    # foreach my $attr ('su', 'au', 'ti', 'st', 'at', 'tt', 'from') {
+    #   if ($q->param($attr)) {
+    #     my $str = $q->param($attr);
+    #     utf8::decode($str);
+    #     $url .= "&$attr=" . OLBP::url_encode($str);
+    #   }
+    # }
     print qq!<li> <a href="$url">$rec->{NAME}</a> ($rec->{LOCATION})\n!;
   }
   if ($ccode eq "US") {
@@ -481,9 +501,10 @@ sub showlibrarylinks {
 # wheretogoto returns the symbol of library the user should go to
 
 sub wheretogoto {
-  my ($q) = @_;
+  my ($q, $ignoreparam) = @_;
   #if there's one specified in URL, use that (even if it's where we came from)
-  if ($q->param("library")) {
+  #unless we're supposed to ignore it
+  if ($q->param("library") && !$ignoreparam) {
     return $q->param("library");
   }
   # if there's a source-specific one matching our source, use that (ditto)
@@ -752,21 +773,47 @@ sub substitute {
 }
 
 sub select_library_for_routing {
-  my ($q) = @_;
+  my ($q, $librec) = @_;
   my @librecs = getliblist();
-  &startpage($q, "Choose a library for this search");
-  print qq!<h2 align="center">Choose a library for this search</h2>!;
+  my $keep = 0;
+  my $title = "Choose a library";
+  if ($FTL::REMEMBER_FIRST && !$librec && !($q->param("library"))) {
+    $keep = 1;
+  } else {
+    $title .= " for this search";
+  }
+  &startpage($q, $title);
+  print qq!<h2 align="center">$title</h2>!;
   print "<p>If you don't see your library in the list below, you can ";
   print qq!<a href="$SUGGEST_LIBRARY_URL">ask us to add it</a>.</p>!;
-  print qq!<p>You can also <a target="_blank" href="$FTL::MAINURL">!;
-  print qq!set a preferred library for future searches</a>.</p>!;
-  showlibrarylinks(\@librecs, $q);
+  if ($keep) {
+    # user hasn't chosen a library and no library specfified
+    print qq!<p><b>Your library choice here will be registered !;
+    print qq!for future searches.</b>!;
+    print qq! If you would rather not register a library preference, !;
+    print qq!you can instead !;
+    my $url = library_link($q, "0CHOOSE0");
+    print qq! <a href="$url">choose a library for this search only</a>.</p>!;
+  } else {
+    print qq!<p>You can also <a target="_blank" href="$FTL::MAINURL">set a!;
+    if ($librec && $librec->{NAME}) {
+      print " different";
+    }
+    print qq! preferred library for future searches</a>.!;
+    if ($librec && $librec->{NAME}) {
+      print " (Currently, your preferred library is ";
+      my $url = library_link($q, $librec->{ID});
+      print qq!<a href="$url">$librec->{NAME}</a>.)!;
+    }
+    print qq!</p>!;
+  }
+  showlibrarylinks(\@librecs, $q, "", $keep);
   endpage($q);
   finish();
 }
 
 sub route_request {
-  my ($librec, %params) = @_;
+  my ($q, $librec, %params) = @_;
   my $urltype = $params{urltype};
   my $urlpattern = $librec->{$urltype};
   if (!$urlpattern) {
@@ -780,7 +827,12 @@ sub route_request {
                                               {TITLE=>$params{title}})/ge;
   }
   $url =~ s/\$\{([^\}]+)\}/&substitute($1, $librec, {ARG=>$params{arg}})/ge;
-  print "Location: $url\n\n";
+  if ($q->param('keep')) {
+    my $cookies = cookiepopulate($q);
+    print $q->redirect(-uri=>$url, -cookie=>$cookies);
+  } else {
+    print $q->redirect(-uri=>$url);
+  }
   finish();
 }
 
@@ -902,7 +954,7 @@ sub route_term {
     if ($realterm) {
       $term = $realterm;
     } elsif ($termtype eq $WIKIPEDIA_TYPE) {
-      route_request($librec, urltype=>"KEYURL", arg=>$term);
+      route_request($q, $librec, urltype=>"KEYURL", arg=>$term);
     } else {
       # it's a code, not a keyword;
       #   see if the referer can tell us what was being sought
@@ -910,10 +962,10 @@ sub route_term {
       if ($wikititle) {
         $realterm = get_lc_term($wikititle, $WIKIPEDIA_TYPE);
         if ($realterm) {
-          route_request($librec, urltype=>$urltype, arg=>$realterm);
-          route_request($librec, urltype=>"KEYURL", arg=>$realterm);
+          route_request($q, $librec, urltype=>$urltype, arg=>$realterm);
+          route_request($q, $librec, urltype=>"KEYURL", arg=>$realterm);
         }
-        route_request($librec, urltype=>"KEYURL", arg=>$wikititle);
+        route_request($q, $librec, urltype=>"KEYURL", arg=>$wikititle);
       }
       # if not, then just send the user to the library to search on their own
       dropoff_at_library($q, $librec);
@@ -921,8 +973,8 @@ sub route_term {
   } else {
     $term = normalize_subdivisions($term);
   }
-  route_request($librec, urltype=>$urltype, arg=>$term);
-  route_request($librec, urltype=>"KEYURL", arg=>$term);
+  route_request($q, $librec, urltype=>$urltype, arg=>$term);
+  route_request($q, $librec, urltype=>"KEYURL", arg=>$term);
 }
 
 my $q = new CGI;
@@ -946,13 +998,15 @@ if ($subject || $author || $title) {
   my $libchosen = wheretogoto($q);
   $librec = findlibrary($libchosen);
   if (!$librec) {
-    select_library_for_routing($q);
+    my $origrec = findlibrary(wheretogoto($q, 1));
+    select_library_for_routing($q, $origrec);
   }
 } elsif (my $wikititle = wikipedia_referer_title($q)) {
   my $libchosen = wheretogoto($q);
   $librec = findlibrary($libchosen);
   if (!$librec) {
-    select_library_for_routing($q);
+    my $origrec = findlibrary(wheretogoto($q, 1));
+    select_library_for_routing($q, $origrec);
   }
   $subject = $wikititle;
   $stype = $WIKIPEDIA_TYPE;
@@ -964,12 +1018,13 @@ if ($subject) {
 
 if ($author && $title) {
   # we don't yet do forwarding of titles except from OLBP
-  route_request($librec, urltype=>"ATIURL", author=>$author, title=>$title);
+  route_request($q, $librec, urltype=>"ATIURL", author=>$author, title=>$title);
   # didn't work?  Try doing keyword searches
-  route_request($librec, urltype=>"KEYURL", arg=>makekeywords($author, $title));
+  route_request($q, $librec,
+                urltype=>"KEYURL", arg=>makekeywords($author, $title));
   # title more than one word?  probably the safest to try
   if ($title =~ /\s/) {
-    route_request($librec, urltype=>"TITURL", arg=>$title);
+    route_request($q, $librec, urltype=>"TITURL", arg=>$title);
   }
   # still didn't work?  We'll fall through to other cases
 }
@@ -978,8 +1033,8 @@ if ($author) {
 }
 if ($title) {
   # we don't yet do forwarding of titles except from OLBP
-  route_request($librec, urltype=>"TITURL", arg=>$title);
-  route_request($librec, urltype=>"KEYURL", arg=>$title);
+  route_request($q, $librec, urltype=>"TITURL", arg=>$title);
+  route_request($q, $librec, urltype=>"KEYURL", arg=>$title);
 }
 if ($subject || $author || $title) {
   dropoff_at_library($q, $librec);
@@ -991,5 +1046,5 @@ if ($subject || $author || $title) {
 # shouldn't reach here
 
 
-print "Location: $FTL::BAILOUT\n\n";
+print $q->redirect(-uri=>$FTL::BAILOUT);
 finish;
