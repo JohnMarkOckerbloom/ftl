@@ -316,11 +316,21 @@ sub cookiename {
 }
 
 sub cookiepopulate {
-  my ($q) = @_;
-  my $library = _stripspace($q->param("library"));
-  my $libcookie = $q->cookie(-domain=>$FTL::COOKIEDOMAIN,
-                           -name=>cookiename($q->param("from")),
-                           -value=>$library);
+  my ($q, $library) = @_;
+  if (!$library) {
+    $library = _stripspace($q->param("library"));
+  }
+  my $libcookie;
+  if ($FTL::COOKIE_PERSIST) {
+    $libcookie = $q->cookie(-domain=>$FTL::COOKIEDOMAIN,
+                            -name=>cookiename($q->param("from")),
+                            -expires=>$FTL::COOKIE_PERSIST,
+                            -value=>$library);
+  } else {
+    $libcookie = $q->cookie(-domain=>$FTL::COOKIEDOMAIN,
+                            -name=>cookiename($q->param("from")),
+                            -value=>$library);
+  }
   return [$libcookie];
 }
 
@@ -827,8 +837,12 @@ sub route_request {
                                               {TITLE=>$params{title}})/ge;
   }
   $url =~ s/\$\{([^\}]+)\}/&substitute($1, $librec, {ARG=>$params{arg}})/ge;
+  my $cname = cookiename($q->param("from"));
   if ($q->param('keep')) {
     my $cookies = cookiepopulate($q);
+    print $q->redirect(-uri=>$url, -cookie=>$cookies);
+  } elsif ($FTL::COOKIE_PERSIST && $q->cookie($cname)) {
+    my $cookies = cookiepopulate($q, $q->cookie($cname));
     print $q->redirect(-uri=>$url, -cookie=>$cookies);
   } else {
     print $q->redirect(-uri=>$url);
