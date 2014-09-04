@@ -4,7 +4,7 @@
 # This data file released to the world as CC0 
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, libraries file for usage of this catalog data
-# Last updated 2014-03-24
+# Last updated 2014-09-04
 
 CATTYPE 360search
 SUBURL ${BASEURL}/results?SS_LibHash=${LCODE}&action=start&dbIDList=${DBID}&field=subject&term=${ARG}
@@ -229,10 +229,45 @@ TITURL ${BASEURL}/search/searchresults.aspx?type=Keyword&term=${ARG}&by=TI&sort=
 KEYURL ${BASEURL}/search/searchresults.aspx?type=Keyword&term=${ARG}&by=KW&sort=RELEVANCE
 
 # Looks like the Ex Libris Community docs have info on au, ti, su searches
+# (This may not work with recent primo updates)
 CATTYPE primo
 # SUBURL ${BASEURL}/libweb/action/search.do?mode=Advanced&dum=true&operation=1&amp;ct=search&indx=1&vl(6025493UI3)=sub&vl%28freeText0%29=${ARG}&fn=search
 KEYURL ${BASEURL}/libweb/action/search.do?mode=Basic&dum=true&operation=1&amp;ct=search&indx=1&vid=${VID}&vl%28freeText0%29=${ARG:NK}&fn=search
 # may need to do library-specific DEFAULTs when hosted or over-generic
+DEFAULT DOMAIN
+
+# Primo deep link syntax described at
+# https://developers.exlibrisgroup.com/primo/apis/deeplinks
+CATTYPE primodl
+LCODE PRIMO
+SUBURL ${BASEURL}/primo_library/libweb/action/dlSearch.do?vid=${VID}&institution=${LCODE}&query=sub,contains,${ARG:NK}
+AUTURL ${BASEURL}/primo_library/libweb/action/dlSearch.do?vid=${VID}&institution=${LCODE}&query=creator,contains,${ARG:NK}
+TITURL ${BASEURL}/primo_library/libweb/action/dlSearch.do?vid=${VID}&institution=${LCODE}&query=title,contains,${ARG:NK}
+ATIURL ${BASEURL}/primo_library/libweb/action/dlSearch.do?vid=${VID}&institution=${LCODE}&query=creator,contains,${AUTHOR:NK}&query=title,contains,${TITLE:NK}
+KEYURL ${BASEURL}/primo_library/libweb/action/dlSearch.do?vid=${VID}&institution=${LCODE}&query=any,contains,${ARG:NK}
+DEFAULT DOMAIN
+
+# This is for Primo institutions that seems to require a LOC
+# for deep links to work
+# (but it's better to use search_scope if needed and available)
+CATTYPE primodl-loc
+LCODE PRIMO
+SUBURL ${BASEURL}/primo_library/libweb/action/dlSearch.do?vid=${VID}&institution=${LCODE}&loc=${LOC}&query=sub,contains,${ARG:NK}
+AUTURL ${BASEURL}/primo_library/libweb/action/dlSearch.do?vid=${VID}&institution=${LCODE}&loc=${LOC}&query=creator,contains,${ARG:NK}
+TITURL ${BASEURL}/primo_library/libweb/action/dlSearch.do?vid=${VID}&institution=${LCODE}&loc=${LOC}&query=title,contains,${ARG:NK}
+ATIURL ${BASEURL}/primo_library/libweb/action/dlSearch.do?vid=${VID}&institution=${LCODE}&loc=${LOC}&query=creator,contains,${AUTHOR:NK}&query=title,contains,${TITLE:NK}
+KEYURL ${BASEURL}/primo_library/libweb/action/dlSearch.do?vid=${VID}&institution=${LCODE}&loc=${LOC}&query=any,contains,${ARG:NK}
+DEFAULT DOMAIN
+
+# This is for Primo institutions that seems to require a search_scope
+# for deep links to work (preferable to LOC)
+CATTYPE primodl-scope
+LCODE PRIMO
+SUBURL ${BASEURL}/primo_library/libweb/action/dlSearch.do?vid=${VID}&institution=${LCODE}&search_scope=${SCOPE}&query=sub,contains,${ARG:NK}
+AUTURL ${BASEURL}/primo_library/libweb/action/dlSearch.do?vid=${VID}&institution=${LCODE}&search_scope=${SCOPE}&query=creator,contains,${ARG:NK}
+TITURL ${BASEURL}/primo_library/libweb/action/dlSearch.do?vid=${VID}&institution=${LCODE}&search_scope=${SCOPE}&query=title,contains,${ARG:NK}
+ATIURL ${BASEURL}/primo_library/libweb/action/dlSearch.do?vid=${VID}&institution=${LCODE}&search_scope=${SCOPE}&query=creator,contains,${AUTHOR:NK}&query=title,contains,${TITLE:NK}
+KEYURL ${BASEURL}/primo_library/libweb/action/dlSearch.do?vid=${VID}&institution=${LCODE}&search_scope=${SCOPE}&query=any,contains,${ARG:NK}
 DEFAULT DOMAIN
 
 # Talis Prism 2.1

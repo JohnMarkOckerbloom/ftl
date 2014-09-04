@@ -73,16 +73,21 @@ ID AU-NCSU:A
 NAME Charles Sturt University
 LOCATION Campuses in New South Wales, Victoria, and ACT
 COUNTRY AU
-CATTYPE primo
-BASEURL http://primo.unilinc.edu.au/primo_library
+CATTYPE primodl-loc
+BASEURL http://primo.unilinc.edu.au
 VID CSU
+LCODE CSU
+LOC adaptor,scope:(DTL_CSU_UNLOCKED),scope:(CSU),scope:(CSU_SFX),primo_central_multiple_fe
 
 ID AU-VBAX
 NAME Federation University Australia
 LOCATION Ballarat and other campuses, Victoria
 COUNTRY AU
-CATTYPE primo
-BASEURL http://primoapac01.hosted.exlibrisgroup.com/primo_library
+CATTYPE primodl-loc
+BASEURL http://primoapac01.hosted.exlibrisgroup.com
+VID UB
+LCODE UB
+LOC adaptor,scope:(BALLARAT)%2CEbscoLocal1%2Cprimo_central_multiple_fe
 
 ID AU-VLU
 NAME La Trobe University
@@ -104,17 +109,21 @@ ID AU-NMQU
 NAME Macquarie University
 LOCATION Sydney, New South Wales
 COUNTRY AU
-CATTYPE primo
-BASEURL http://macquarie-primo.hosted.exlibrisgroup.com/primo_library
+CATTYPE primodl-loc
+BASEURL http://multisearch.mq.edu.au
 VID MQ
+LCODE MQ
+LOC adaptor,scope:%28%22MQ%22%29,scope:%28MQ_VOYAGER%20%29,scope:%28reserve%29,scope:%28exam%29,primo_central_multiple_fe
 
 ID AU-VMOU
 NAME Monash University
 LOCATION Melbourne, Victoria
 COUNTRY AU
-CATTYPE primo
-BASEURL http://search.lib.monash.edu/primo_library
+CATTYPE primodl-scope
+BASEURL http://search.lib.monash.edu
+LCODE MUA
 VID MON
+SCOPE au_everything
 
 ID AU-ANL
 NAME National Library of Australia
@@ -151,9 +160,11 @@ ID AU-QSL
 NAME State Library of Queensland
 LOCATION Brisbane, Queensland
 COUNTRY AU
-CATTYPE primo
-BASEURL http://onesearch.slq.qld.gov.au/primo_library
+CATTYPE primodl-scope
+BASEURL http://onesearch.slq.qld.gov.au
 VID SLQ
+LCODE SLQ
+SCOPE SLQ_PCI_EBSCO
 
 ID AU-SSL
 NAME State Library of South Australia
@@ -166,9 +177,11 @@ ID AU-VSL
 NAME State Library of Victoria
 LOCATION Melbourne, Victoria
 COUNTRY AU
-CATTYPE primo
-BASEURL http://search.slv.vic.gov.au/primo_library
+CATTYPE primodl-scope
+BASEURL http://search.slv.vic.gov.au
 VID MAIN
+LCODE SLVPRIMO
+SCOPE Everything
 
 ID AU-WLB
 NAME State Library of Western Australia
@@ -181,24 +194,31 @@ ID OCLC-LE0
 NAME Swinburne University of Technology
 LOCATION Melbourne and vicinity, Victoria
 COUNTRY AU
-CATTYPE primo
-BASEURL http://librarysearch.swinburne.edu.au/primo_library
+CATTYPE primodl-loc
+BASEURL http://librarysearch.swinburne.edu.au
+VID SWIN2
+LCODE SUT-ALMA
+LOC local,scope:(SUT-ALMA)
 
+# This only gets local holdings (haven't figured out a LOC or SCOPE
+# code that will get both local holdings and online resources)
 ID AU-SUA
 NAME University of Adelaide
 LOCATION Adelaide and vicinity, South Australia
 COUNTRY AU
-CATTYPE primo
-BASEURL http://adelaide.hosted.exlibrisgroup.com/primo_library
+CATTYPE primodl
+BASEURL http://adelaide.hosted.exlibrisgroup.com
 VID SUA
+LCODE SUA
 
 ID AU-WU
 NAME University of Western Australia
 LOCATION Perth, Western Australia
 COUNTRY AU
-CATTYPE primo
-BASEURL http://onesearch.library.uwa.edu.au/primo_library
+CATTYPE primodl
+BASEURL http://onesearch.library.uwa.edu.au
 VID UWA
+LCODE UWA
 
 ID AU-NWU 
 NAME University of Wollongong
@@ -1400,6 +1420,15 @@ LOCATION San Luis Obispo
 STATE CA
 BASEURL http://find.lib.calpoly.edu/articles
 CATTYPE xerxes
+
+ID OCLC-CSA
+NAME Calfornia State University, Sacramento (Sacramento State)
+LOCATION Sacramento
+STATE CA
+CATTYPE primodl
+BASEURL http://onesearch.csus.edu:1701
+VID SACRAMENTO
+LCODE 01CALS_USL
 
 ID OCLC-CIT
 NAME Caltech Library, California Institute of Technology
