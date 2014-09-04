@@ -4,7 +4,7 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2014-04-11
+# Last updated 2014-09-04
 
 ID OLBP
 NAME The Online Books Page
@@ -580,10 +580,12 @@ ID OCLC-UWW
 NAME University of Waterloo
 LOCATION Waterloo
 PROVINCE ON
-CATTYPE primo
-BASEURL http://primo.tug-libraries.on.ca/primo_library
+CATTYPE primodl-loc
+BASEURL http://primo.tug-libraries.on.ca
 VID WATERLOO
+LCODE WATERLOO
 DEFAULT http://www.lib.uwaterloo.ca/
+LOC adaptor,scope:(WATERLOO)
 
 ID OCLC-LSG
 NAME University of Western Ontario
@@ -610,9 +612,11 @@ ID OCLC-W2U
 NAME Wilfrid Laurier University
 LOCATION Waterloo
 PROVINCE ON
-CATTYPE primo
-BASEURL http://primo.tug-libraries.on.ca/primo_library
+CATTYPE primodl-loc
+BASEURL http://primo.tug-libraries.on.ca
 VID LAURIER
+LCODE LAURIER
+LOC adaptor,scope:(LAURIER)
 DEFAULT http://library.wlu.ca/
 
 ID OCLC-CNWPL
@@ -796,9 +800,11 @@ ID NL-L2U
 NAME Leiden University Libraries
 LOCATION Leiden
 COUNTRY NL
-CATTYPE primo
-BASEURL http://catalogue.leidenuniv.nl/primo_library
+CATTYPE primodl-loc
+BASEURL http://catalogue.leidenuniv.nl
 VID UBL_V1
+LCODE UBL_V1
+LOC adaptor,scope:%28UBL_SFX%29%2Cscope%3A%28UBL_METALIB%29%2Cscope%3A%28UBL_DTL%29%2Cscope%3A%28UBL_LMS%29%2Cscope%3A%28%22PRIMO%22%29%2Cscope%3A%28%22UBL%22%29%2Cscope%3A%28UBL_DSPACE%29%2Cprimo_central_multiple_fe
 
 # ID a bit arbitrary here (for Infoserve service)
 ID OCLC-NZ@
@@ -816,12 +822,15 @@ CATTYPE sirsi
 BASEURL http://opac3.ntu.edu.sg/uhtbin/cgisirsi
 
 ID OCLC-7F1
-NAME National Library Board (SearchPlus)
-LOCATION Various public libraries in Singapore
+NAME National Library Board (OneSearch)
+LOCATION Various libraries and archives in Singapore
 COUNTRY SG
-CATTYPE primo
-BASEURL http://searchplus.nlb.gov.sg/primo_library
-VID SEARCHPLUS
+BASEURL http://search.nlb.gov.sg/Search
+SUBURL ${BASEURL}?subjectquery=${ARG}
+AUTURL ${BASEURL}?creatorquery=${ARG}
+ATIURL ${BASEURL}?creatorquery=${AUTHOR}&titlequery=${TITLE}
+TITURL ${BASEURL}?titlequery=${ARG}
+KEYURL ${BASEURL}?query=${ARG}
 
 ID OCLC-SINUS
 NAME National University of Singapore Libraries
