@@ -4,7 +4,7 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2014-09-04
+# Last updated 2014-09-05
 
 ID OLBP
 NAME The Online Books Page
@@ -950,13 +950,16 @@ BASEURL http://library.ucu.ac.ug
 CATTYPE koha
 FILTERS S
 
+# SCOPE parameter here was a wild guess that worked; might be a better one 
 ID OCLC-AU-SHARP
 NAME Anglia Ruskin University
 LOCATION Cambridge, Chelmsford, and Peterborough, England
 COUNTRY UK
-CATTYPE primo
-BASEURL http://primo.anglia.ac.uk/primo_library
+CATTYPE primodl-scope
+BASEURL http://primo.anglia.ac.uk
 VID ANG_VU1
+LCODE APU
+SCOPE ALL
 DEFAULT http://libweb.anglia.ac.uk/
 
 # getting "our apologies" messages; overloaded or link problems?
@@ -974,6 +977,15 @@ COUNTRY UK
 CATTYPE spydus
 BASEURL http://brighton-hove.spydus.co.uk
 
+ID OCLC-BLSTP
+NAME British Library
+LOCATION London, England
+COUNTRY UK
+CATTYPE primodl
+BASEURL http://explore.bl.uk
+VID BLVU1
+LCODE BL
+
 ID OCLC-UKBCC
 NAME Buckinghamshire County Libraries
 LOCATION Buckinghamshire, England
@@ -985,9 +997,10 @@ ID OCLC-RDF
 NAME Cardiff University and NHS Wales Libraries
 LOCATION Cardiff and elsewhere in Wales
 COUNTRY UK
-CATTYPE primo
-BASEURL http://librarysearch.cf.ac.uk/primo_library
+CATTYPE primodl
+BASEURL http://librarysearch.cf.ac.uk
 VID CARDIFF_V1
+LCODE CARDIFF_V1
 
 ID OCLC-UKYRK
 NAME City of York Libraries and Archives
@@ -1011,9 +1024,11 @@ ID OCLC-UKCOV
 NAME Coventry University
 LOCATION Coventry, England
 COUNTRY UK
-CATTYPE primo
-BASEURL http://locate.coventry.ac.uk/primo_library
+CATTYPE primodl-loc
+BASEURL http://cov-primo.hosted.exlibrisgroup.com
 VID COV_V1
+LCODE COV_V1
+LOC adaptor,scope:(COV)
 
 ID OCLC-EQK
 NAME Cranfield University
@@ -1110,12 +1125,15 @@ BASEURL http://discover.llgc.org.uk
 SINDEX keywords
 FILTERS S
 
+# Get "unexpected error", but search seems to work (unlike before)
 ID OCLC-EUN
 NAME Newcastle University
 LOCATION Newcastle upon Tyne, England
 COUNTRY UK
-CATTYPE primo
-BASEURL http://libsearch.ncl.ac.uk/primo_library
+CATTYPE primodl
+BASEURL http://libsearch.ncl.ac.uk
+VID NCL_V1
+LCODE NCL_V1
 DEFAULT http://www.ncl.ac.uk/library/
 
 ID OCLC-UKNFK
@@ -1151,9 +1169,11 @@ ID OCLC-LUN
 NAME University College London
 LOCATION London, England
 COUNTRY UK
-CATTYPE primo
-BASEURL http://ucl-primo.hosted.exlibrisgroup.com/primo_library
+CATTYPE primodl-scope
+BASEURL http://ucl-primo.hosted.exlibrisgroup.com
 VID UCL_VU1
+LCODE UCL
+SCOPE CSCOP_UCL
 
 ID OCLC-U8H
 NAME University of Huddersfield
@@ -1183,6 +1203,15 @@ COUNTRY UK
 CATTYPE summon
 BASEURL http://le.summon.serialssolutions.com
 
+ID OCLC-EQO
+NAME University of Oxford
+LOCATION Oxford, England
+COUNTRY UK
+CATTYPE primodl
+BASEURL http://solo.bodleian.ox.ac.uk
+VID OXVU1
+LCODE OX
+
 ID OCLC-UKGLA
 NAME University of South Wales
 LOCATION catalogue includes former U-Glamorgan campuses; might not yet include Newport campus
@@ -1194,9 +1223,11 @@ ID OCLC-U9X
 NAME University of Sussex
 LOCATION Brighton, England
 COUNTRY UK
-CATTYPE primo
-BASEURL http://sus-primo.hosted.exlibrisgroup.com/primo_library
+CATTYPE primodl-scope
+BASEURL http://sus-primo.hosted.exlibrisgroup.com
 VID CJKVIEW
+LCODE SUSSEX
+SCOPE EVERYTHING
 DEFAULT http://www.sussex.ac.uk/library/
 
 ID OCLC-UKUAL
@@ -1224,9 +1255,10 @@ ID OCLC-LDP
 NAME University of Westminster
 LOCATION London, England
 COUNTRY UK
-CATTYPE primo
-BASEURL http://library-collections-search.westminster.ac.uk/primo_library
+CATTYPE primodl
+BASEURL http://library-collections-search.westminster.ac.uk
 VID WST_VU1
+LCODE WST_VU1
 
 ID UK-UKLOZSL
 NAME Zoological Society of London
