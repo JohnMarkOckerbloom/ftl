@@ -4202,22 +4202,28 @@ STATE TX
 CATTYPE voyager-vwebv
 BASEURL http://txsouthern-voyager.hosted.exlibrisgroup.com/vwebv/search
 
+# TTU uses EDS for its main search, but also still has Primo
+# (haven't yet successully rev-eng'd EDS, but their form is all GET-based)
 ID OCLC-ILU
 NAME Texas Tech University Libraries
 LOCATION Lubbock
 STATE TX
-CATTYPE primo
-BASEURL http://onesearch.lib.ttu.edu:1701/primo_library
+CATTYPE primodl-loc
+BASEURL http://onesearch.lib.ttu.edu:1701
 VID TTU
+LCODE TTU
+LOC adaptor,scope:(TTU_ALEPH),scope:(TTU_DSPACE_SW),scope:(TTU_ALEPH_SW),scope:(TTU_ALEPH_AR),scope:(TTU_DSPACE_ML2)
 DEFAULT http://library.ttu.edu/
 
 ID OCLC-IWU
 NAME Texas Woman's University
 LOCATION Denton, Dallas, and Houston campuses
 STATE TX
-CATTYPE primo
-BASEURL http://primotc1.hosted.exlibrisgroup.com/primo_library
+CATTYPE primodl-loc
+BASEURL http://twuniversal.twu.edu
 VID TWU-A
+LCODE TWU
+LOC adaptor,scope:(TXWU),scope:(TXWA_CONTENTDM),primo_central_multiple_fe
 DEFAULT http://www.twu.edu/library/
 
 ID OCLC-UHC
@@ -4283,9 +4289,11 @@ ID OCLC-UUM
 NAME University of Utah
 LOCATION Salt Lake City
 STATE UT
-CATTYPE primo
-BASEURL http://thoth.library.utah.edu:1701/primo_library
+CATTYPE primodl-loc
+BASEURL http://utah-primoprod.hosted.exlibrisgroup.com
 VID UUU
+LCODE UUU
+LOC adaptor,scope:(uu),primo_central_multiple_fe
 DEFAULT http://www.lib.utah.edu/
 
 ID OCLC-UTW
@@ -4335,9 +4343,11 @@ ID OCLC-VGM
 NAME George Mason University
 LOCATION Fairfax and other campuses
 STATE VA
-CATTYPE primo
-BASEURL http://gml-primo.hosted.exlibrisgroup.com/primo_library
+CATTYPE primodl-loc
+BASEURL http://gml-primo.hosted.exlibrisgroup.com
 VID GMU
+LCODE GMU
+LOC adaptor,scope:(GMU_LUNA),scope:("GMU"),scope:(GMU_MARS),scope:(GMU_VOYAGER),primo_central_multiple_fe
 
 ID OCLC-VHI
 NAME Hampton University, Harvey Library
@@ -4584,9 +4594,11 @@ ID OCLC-GZN
 NAME University of Wisconsin-Milwaukee Libraries
 LOCATION Milwaukee
 STATE WI
-CATTYPE primo
-BASEURL http://uw-primo.hosted.exlibrisgroup.com/primo_library
+CATTYPE primodl-loc
+BASEURL http://uw-primo.hosted.exlibrisgroup.com
+LOC adaptor,scope:(VOYAGER),scope:(UWMINDS),scope:(MIL_CDM),scope:(MIL_BEPRESS),scope:(UWDC),primo_central_multiple_fe
 VID MIL
+LCODE MIL
 DEFAULT http://www4.uwm.edu/libraries/
 
 ID OCLC-WYL
