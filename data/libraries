@@ -2139,19 +2139,17 @@ ID OCLC-AUU
 NAME Atlanta University Center
 LOCATION Clark Atlanta, Interdenominational Theological Center, Morehouse, Spelman
 STATE GA
-CATTYPE primo
-BASEURL http://primo1.hosted.exlibrisgroup.com:1701/primo_library
-VID AUC
-DEFAULT http://www.auctr.edu/
+BASEURL http://auctr.worldcat.org/search
+CATTYPE worldcat
 
 ID OCLC-EMU
 NAME Emory University Libraries
 LOCATION Atlanta
 STATE GA
-CATTYPE primo
-BASEURL http://discovere.emory.edu/primo_library
+CATTYPE primodl
+BASEURL http://discovere.emory.edu
 VID discovere
-DEFAULT DOMAIN
+LCODE EMORY
 
 ID OCLC-GFV
 NAME Fort Valley State University
@@ -2206,9 +2204,11 @@ ID OCLC-HUH
 NAME University of Hawaii at Manoa
 LOCATION Honolulu
 STATE HI
-CATTYPE primo
-BASEURL http://uhawaii-primo.hosted.exlibrisgroup.com/primo_library
+CATTYPE primodl-scope
+BASEURL http://uhawaii-primo.hosted.exlibrisgroup.com
 VID OUZ
+LCODE OUZ
+SCOPE OUZ_ALL
 DEFAULT http://manoa.hawaii.edu/libraries/
 
 ID OCLC-1OE
@@ -2341,8 +2341,11 @@ ID OCLC-INU
 NAME Northwestern University Libraries
 LOCATION Evanston
 STATE IL
-BASEURL http://search.library.northwestern.edu/primo_library
-CATTYPE primo
+BASEURL http://search.library.northwestern.edu
+CATTYPE primodl-loc
+VID NULV
+LCODE NULV
+LOC adaptor,scope:(Wton+),scope:(Primo+Central),scope:(NUL),scope:(libguides),scope:(Afri_Poster),scope:(NINT),scope:(EAD),primo_central_multiple_fe
 DEFAULT DOMAIN
 
 ID OCLC-B3D
@@ -2357,17 +2360,20 @@ ID OCLC-IWA
 NAME Iowa State University
 LOCATION Ames
 STATE IA
-CATTYPE primo
-BASEURL http://mars.lib.iastate.edu:1701/primo_library
+CATTYPE primodl-loc
+BASEURL http://mars.lib.iastate.edu:1701
 VID ISU0
+LCODE ISU
+LOC adaptor,scope:(ISU),primo_central_multiple_fe
 
 ID OCLC-UK0
 NAME University of Iowa Libraries
 LOCATION Iowa City
 STATE IA
-CATTYPE primo
-BASEURL http://smartsearch.uiowa.edu/primo_library
+CATTYPE primodl
+BASEURL http://smartsearch.uiowa.edu
 VID uiowa
+LCODE uiowa
 
 ID OCLC-IOU
 NAME Des Moines Public Library
@@ -2399,9 +2405,11 @@ ID OCLC-IND
 NAME Hesburgh Libraries, University of Notre Dame
 LOCATION Notre Dame
 STATE IN
-CATTYPE primo
-BASEURL http://onesearch.library.nd.edu/primo_library
-VID OUZ
+CATTYPE primodl-loc
+BASEURL http://onesearch.library.nd.edu
+VID NDU
+LCODE NDU
+LOC adaptor,scope:(NDU),scope:(BCI),scope:(HCC),scope:(SMC),scope:(NDLAW),scope:("MALC"),primo_central_multiple_fe
 
 ID OCLC-1IU
 NAME Indiana University Libraries
@@ -2423,9 +2431,11 @@ ID OCLC-IPL
 NAME Purdue University Libraries
 LOCATION West Lafayette
 STATE IN
-CATTYPE primo
-BASEURL http://purdue-primo-prod.hosted.exlibrisgroup.com/primo_library
+CATTYPE primodl-scope
+BASEURL http://purdue-primo-prod.hosted.exlibrisgroup.com
 VID PURDUE
+LOC PURDUE
+SCOPE everything
 DEFAULT http://www.lib.purdue.edu/
 
 ID OCLC-XWE
@@ -2460,9 +2470,11 @@ ID OCLC-KKU
 NAME University of Kansas Libraries
 LOCATION Lawrence
 STATE KS
-BASEURL http://kuprimo.hosted.exlibrisgroup.com/primo_library
-CATTYPE primo
+BASEURL http://kuprimo.hosted.exlibrisgroup.com
+CATTYPE primodl-scope
 VID KU
+LCODE KU
+SCOPE QUICK
 
 ID OCLC-KCE
 NAME Kenton County Public Library
@@ -2519,9 +2531,11 @@ ID OCLC-LLM
 NAME Loyola University New Orleans, Monroe Library
 LOCATION New Orleans
 STATE LA
-BASEURL http://loy-primo.hosted.exlibrisgroup.com:1701/primo_library
-CATTYPE primo
+BASEURL http://loy-primo.hosted.exlibrisgroup.com:1701
+CATTYPE primodl-scope
 VID LOYNO
+LCODE LOYNO
+SCOPE Everything
 
 ID OCLC-LAZ	
 NAME LSU Alexandria, Bolton Library
@@ -2548,9 +2562,11 @@ ID OCLC-RQH
 NAME Tulane University
 LOCATION New Orleans
 STATE LA
-BASEURL http://tulprimo.hosted.exlibrisgroup.com:1701/primo_library
-CATTYPE primo
-VID tul3
+BASEURL http://tulprimo.hosted.exlibrisgroup.com:1701
+CATTYPE primodl-loc
+VID tref
+LCODE TUL
+LOC local,scope:(TUL_VOYAGER)
 
 ID OCLC-WFPLA
 NAME West Feliciana Parish Library
@@ -2640,9 +2656,11 @@ ID OCLC-BXM
 NAME Boston College
 LOCATION Boston
 STATE MA
-BASEURL http://bc-primo.hosted.exlibrisgroup.com/primo_library
-CATTYPE primo
+BASEURL http://bc-primo.hosted.exlibrisgroup.com
+CATTYPE primodl-loc
 VID bclib
+LCODE BCL
+LOC local,scope:(BCL)
 
 ID OCLC-BRL
 NAME Boston Public Library
@@ -2655,9 +2673,10 @@ ID OCLC-BOS
 NAME Boston University Libraries
 LOCATION Boston
 STATE MA
-BASEURL http://buprimo.hosted.exlibrisgroup.com/primo_library
-CATTYPE primo
+BASEURL http://buprimo.hosted.exlibrisgroup.com
+CATTYPE primodl
 VID BU
+LCODE BOSU
 
 ID OCLC-CWJ
 NAME C/W MARS
@@ -2731,8 +2750,11 @@ ID OCLC-NED
 NAME Northeastern University
 LOCATION Boston
 STATE MA
-BASEURL http://onesearch.northeastern.edu/primo_library
-CATTYPE primo
+BASEURL http://onesearch.northeastern.edu
+CATTYPE primodl-scope
+VID NU
+LCODE NEU
+SCOPE everything_scope
 
 ID OCLC-OCD
 NAME Old Colony Library Network
@@ -2877,10 +2899,11 @@ ID OCLC-MNU
 NAME University of Minnesota Libraries
 LOCATION Twin Cities
 STATE MN
-BASEURL http://primo.lib.umn.edu/primo_library
-CATTYPE primo
+BASEURL http://primo.lib.umn.edu
+CATTYPE primodl-scope
 VID TWINCITIES
-DEFAULT DOMAIN
+LCODE TWINCITIES
+SCOPE mncat_discovery
 
 ID OCLC-MNWUL
 NAME Walden University
@@ -3202,9 +3225,11 @@ ID OCLC-BNG
 NAME Binghamton University
 LOCATION Binghamton
 STATE NY
-BASEURL http://bingprimo.hosted.exlibrisgroup.com:1701/primo_library
-CATTYPE primo
+BASEURL http://bingprimo.hosted.exlibrisgroup.com:1701
+CATTYPE primodl-loc
 VID BING
+LCODE BING
+LOC adaptor,scope:(bing_aleph),scope:(bing_eternity),primo_central_multiple_fe
 
 ID OCLC-BKL
 NAME Brooklyn Public Library
@@ -3322,8 +3347,11 @@ ID OCLC-ZYU
 NAME New York University Libraries
 LOCATION New York
 STATE NY
-BASEURL http://bobcat.library.nyu.edu/primo_library
-CATTYPE primo
+BASEURL http://bobcat.library.nyu.edu
+CATTYPE primodl-loc
+VID NYU
+LCODE NYU
+LOC adaptor,scope:(NS),scope:(CU),scope:(BHS),scope:(NYU),scope:(NYSID),scope:("NYHS"),scope:(GEN),scope:(NYUAD),scope:(NYUSH)
 
 ID OCLC-WDTNY
 NAME New York Public Library
@@ -4019,9 +4047,11 @@ ID OCLC-TKN
 NAME University of Tennessee
 LOCATION Knoxville
 STATE TN
-CATTYPE primo
-BASEURL http://utk-primo.hosted.exlibrisgroup.com/primo_library
+CATTYPE primodl-scope
+BASEURL http://utk-primo.hosted.exlibrisgroup.com
 VID UTK
+LCODE UTK
+SCOPE OneSearch
 
 ID OCLC-1AR
 NAME Arlington Public Library
@@ -4158,9 +4188,11 @@ ID OCLC-TXA
 NAME Texas A&amp;M University Libraries
 LOCATION College Station
 STATE TX
-CATTYPE primo
-BASEURL http://search.library.tamu.edu:1701/primo_library
+CATTYPE primodl-loc
+BASEURL http://search.library.tamu.edu:1701
 VID tamu
+LCODE EVANS
+LOC adaptor,scope:("MSL"),scope:(libguides),scope:(archon),scope:(TAMU-SFX),scope:(EVANS),scope:(tamu_dspace_qdc),primo_central_multiple_fe
 DEFAULT http://library.tamu.edu/
 
 ID OCLC-TXT
