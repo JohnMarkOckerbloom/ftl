@@ -51,7 +51,7 @@ ID AU-ANU
 NAME Australian National University
 LOCATION Canberra, ACT
 COUNTRY AU
-CATTYPE summon2
+CATTYPE summon
 BASEURL http://anu.summon.serialssolutions.com
 
 ID AU-QBCL
@@ -1048,8 +1048,13 @@ ID OCLC-CUD
 NAME Cambridge University Library
 LOCATION Cambridge, England
 COUNTRY UK
-CATTYPE summon
-BASEURL http://cam.summon.serialssolutions.com
+# Cambridge's Summon seems to only cover online resources, and transitions
+# to it from physical catalog seem to work better than vice versa
+# CATTYPE summon
+# BASEURL http://cam.summon.serialssolutions.com
+CATTYPE aquabrowser
+BASEURL http://search.lib.cam.ac.uk
+SINDEX subject
 
 ID OCLC-EDJ
 NAME Edinburgh City Libraries
@@ -2905,6 +2910,13 @@ VID TWINCITIES
 LCODE TWINCITIES
 SCOPE mncat_discovery
 
+ID OCLC-MNT
+NAME University of St. Thomas
+LOCATION St. Paul
+STATE MN
+CATTYPE summon
+BASEURL http://stthomas.summon.serialssolutions.com
+
 ID OCLC-MNWUL
 NAME Walden University
 LOCATION Minneapolis-based online institution
@@ -4033,7 +4045,7 @@ ID OCLC-TTU
 NAME Tennessee Tech University
 LOCATION Cookeville
 STATE TN
-CATTYPE summon2
+CATTYPE summon
 BASEURL http://tntech.summon.serialssolutions.com
 
 ID OCLC-TMA

@@ -228,12 +228,9 @@ AUTURL ${BASEURL}/search/searchresults.aspx?type=Keyword&term=${ARG}&by=AU&sort=
 TITURL ${BASEURL}/search/searchresults.aspx?type=Keyword&term=${ARG}&by=TI&sort=RELEVANCE
 KEYURL ${BASEURL}/search/searchresults.aspx?type=Keyword&term=${ARG}&by=KW&sort=RELEVANCE
 
-# Looks like the Ex Libris Community docs have info on au, ti, su searches
-# (This may not work with recent primo updates)
-CATTYPE primo
-# SUBURL ${BASEURL}/libweb/action/search.do?mode=Advanced&dum=true&operation=1&amp;ct=search&indx=1&vl(6025493UI3)=sub&vl%28freeText0%29=${ARG}&fn=search
+# Old primo search; does not seem to work on any current site I've seen
+CATTYPE primo-old
 KEYURL ${BASEURL}/libweb/action/search.do?mode=Basic&dum=true&operation=1&amp;ct=search&indx=1&vid=${VID}&vl%28freeText0%29=${ARG:NK}&fn=search
-# may need to do library-specific DEFAULTs when hosted or over-generic
 DEFAULT DOMAIN
 
 # Primo deep link syntax described at
@@ -324,16 +321,13 @@ KEYURL ${BASEURL}/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?ENTRY_NAME=BS&&ENTRY=${ARG:
 CATTYPE startpage
 KEYURL ${BASEURL}
 
+# seems to work for both Summon 1 and Summon 2
 CATTYPE summon
-TITURL ${BASEURL}/search?t.TitleCombined=${ARG}
-AUTURL ${BASEURL}/search?t.AuthorCombined=${ARG}
-KEYURL ${BASEURL}/search?spellcheck=true&s.q=${ARG}
-
-# summon2 seems to require different author and title search syntax
-CATTYPE summon2
-TITURL ${BASEURL}/search?t.TitleCombined:${ARG}#!/search?ho=t&q=TitleCombined:(${ARG})
-AUTURL ${BASEURL}/search?t.AuthorCombined:${ARG}#!/search?ho=t&q=AuthorCombined:(${ARG})
-KEYURL ${BASEURL}/search?spellcheck=true&s.q=${ARG}
+SUBURL ${BASEURL}/search?q=SubjectTerms:(${ARG})
+AUTURL ${BASEURL}/search?q=AuthorCombined:(${ARG})
+TITURL ${BASEURL}/search?q=TitleCombined:(${ARG})
+ATIURL ${BASEURL}/search?q=AuthorCombined:(${AUTHOR})+AND+TitleCombined:(${TITLE})
+KEYURL ${BASEURL}/search?q=${ARG}
 
 CATTYPE tlc
 BRANCH ,1,
