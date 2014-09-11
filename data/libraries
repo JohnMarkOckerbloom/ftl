@@ -297,6 +297,13 @@ PROVINCE BC
 CATTYPE encore
 BASEURL http://encore.langara.bc.ca/iii/encore
 
+ID OCLC-OKANU
+NAME Okanagan College
+LOCATION Kelowna
+PROVINCE BC
+CATTYPE eds
+LCODE s5672116
+
 ID OCLC-CNORL
 NAME Okanagan Regional Library
 LOCATION Okanagan Valley and vicinity
@@ -1729,6 +1736,7 @@ STATE CA
 BASEURL http://searchworks.stanford.edu
 CATTYPE blacklight
 AINDEX search_author
+FILTERS NK
 
 ID OCLC-SXP
 NAME Sunnyvale Public Library

@@ -95,10 +95,20 @@ DEFAULT DOMAIN
 CATTYPE dra
 KEYURL ${BASEURL}/tramp2.exe/do_keyword_search/guest&query={${ARG}}
 
+# EDS based on http://support.epnet.com/knowledge_base/detail.php?id=2747
+#  and some reverse-engineering.  Guest access needs to be enabled to
+#  make this work for a given library.
+# (We also need a custid to route it to a particular library's
+#  collection; I have not yet been able to verify if this overrides
+#  routing to local collection search at libraries that already have EDS)
 CATTYPE eds
-AUTURL ${BASEURL}&bquery=AU%20${ARG}
-TITURL ${BASEURL}&bquery=TI%20${ARG}
-KEYURL ${BASEURL}&bquery=${ARG}
+BASEURL http://search.ebscohost.com/login.aspx?direct=true&authtype=ip,guest
+GID main
+PROFILE eds
+SUBURL ${BASEURL}&custid=${LCODE}&groupid=${GID}&profile=${PROFILE}&bquery=SU%20(${ARG})
+AUTURL ${BASEURL}&custid=${LCODE}&groupid=${GID}&profile=${PROFILE}&bquery=AU%20(${ARG:S})
+TITURL ${BASEURL}&custid=${LCODE}&groupid=${GID}&profile=${PROFILE}&bquery=TI%20(${ARG})
+KEYURL ${BASEURL}&custid=${LCODE}&groupid=${GID}&profile=${PROFILE}&bquery=(${ARG})
 
 CATTYPE encore
 SUBURL ${BASEURL}/search/C__Sd%3A%28${ARG}%29__Orightresult__U1?lang=eng&suite=${SKIN}
