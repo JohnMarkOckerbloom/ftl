@@ -8,7 +8,7 @@
 #   or lexical analysis (such as many geographical locations)
 #   are not included in this file.
 # See docs file for documentation
-# Last updated 2014-09-17
+# Last updated 2014-09-18
 # LCSH event sweep left off at end of 1749
 #
 3-D films|=|3D film
@@ -614,7 +614,7 @@ Athens (Greece)|=|Athens
 Athens (Greece) -- History|=|History of Athens
 Athens (Greece) -- History -- Duchy, 1205-1458|<->|Duchy of Athens
 Athens (Greece) -- History -- Revolution of the Four Hundred, 411 B.C.|=|Athenian coup of 411 BC
-Athletes|=|Sportsperson
+Athletes|=|Athlete
 Atka Iceport (Antarctica)|=|Atka Iceport
 Atka Island (Alaska)|=|Atka Island
 Atlanta (Ga.)|=|Atlanta
@@ -1211,7 +1211,6 @@ Brest Expedition, 1694|<->|Battle of Camaret
 Breviaries|=|Breviary
 Breweries|=|Brewery
 Brewing industry|->|Brewing
-Bridegrooms|=|Groom
 Brie cheese|=|Brie
 Brisbane (Qld.)|=|Brisbane
 Briseis (Legendary character)|=|Briseis
@@ -1381,7 +1380,7 @@ Cambridge (England)|=|Cambridge
 Camden, Battle of, Camden, S.C., 1780|=|Battle of Camden
 Camel, Battle of the, Iraq, 656|=|Battle of the Camel
 Camembert cheese|=|Camembert
-Camino de Santiago de Compostela|=|Way of St. James
+Camino de Santiago de Compostela|=|Camino de Santiago
 Camp Douglas (Ill.)|=|Camp Douglas (Chicago)
 Camp Fire, inc.|=|Camp Fire
 Camp Fire Girls|->|Camp Fire
@@ -2061,7 +2060,6 @@ Constitutions|=|Constitution
 Construction industry|->|Construction
 Construction workers|=|Construction worker
 Consultants|=|Consultant
-Consultative Group on International Agricultural Research|<->|CGIAR
 Consulting engineers|->|Engineer
 Consumer cooperatives|=|Consumer cooperative
 Consumer credit|->|Credit (finance)
@@ -3275,7 +3273,7 @@ France -- Politics and government|<->|Politics of France
 France -- Politics and government|<-|Government of France
 France, Southern|=|Southern France
 Franciscans|=|Franciscan
-Franco-Americans|->|Franco-American (French American)
+Franco-Americans|->|French American
 Franco-Prussian War, 1870-1871|=|Franco-Prussian War
 Franco-Spanish War, 1635-1659|=|Franco-Spanish War (1635–59)
 Frankenhausen, Battle of, Bad Frankenhausen, Germany, 1525|=|Battle of Frankenhausen
@@ -3302,7 +3300,7 @@ Free thought|=|Freethought
 Free will and determinism|<->|Free will
 Freiburg, Battle of, Freiburg im Breisgau, Germany, 1644|=|Battle of Freiburg
 Freiburg im Breisgau (Germany)|=|Freiburg im Breisgau
-French Americans|<->|Franco-American (French American)
+French Americans|<->|French American
 French-Canadians|=|French Canadian
 French language -- Middle French, 1300-1600|<->|Middle French
 French language -- To 1300|<->|Old French
@@ -3354,7 +3352,8 @@ Gaeta (Italy) -- History -- Siege, 1860-1861|=|Siege of Gaeta (1860)
 Gaeta, Battle of, Gaeta, Italy, 1806|<->|Siege of Gaeta (1806)
 Gaeta, Gulf of (Italy)|=|Gulf of Gaeta
 Galaxies|=|Galaxy
-Galicia (Poland and Ukraine)|=|Galicia (East Central Europe)
+Galicia (Poland and Ukraine)|=|Galicia (Eastern Europe)
+Galicia (Poland and Ukraine) -- History|=|History of Galicia (Eastern Europe)
 Galicia (Spain : Region)|=|Galicia (Spain)
 Galilean satellites|=|Galilean moons
 Galileo satellite navigation system|=|Galileo (satellite navigation)
@@ -3821,7 +3820,7 @@ Healers|->|Alternative medicine
 Health and race|=|Race and health
 Health behavior|->|Self care
 Health boards|=|Health board
-Health facilities|<->|Medical facility
+Health facilities|<->|Health facility
 Health status indicators|=|Health indicator
 Heart -- Diseases|->|Cardiovascular disease
 Heart, Artificial|=|Artificial heart
@@ -4210,7 +4209,7 @@ India, South|=|South India
 Indian Territory -- History -- Civil War, 1861-1865|->|Indian Territory in the American Civil War
 Indian arts|=|Indian art
 Indian dance|->|Native American music
-Indian Island Massacre, Calif., 1860|=|1860 Wiyot Massacre
+Indian Island Massacre, Calif., 1860|=|1860 Wiyot massacre
 Indian reservations|=|Indian reservation
 Indian sign language|<->|Plains Indian Sign Language
 Indian women|->|Indigenous peoples of the Americas
@@ -5410,7 +5409,7 @@ Medical libraries|=|Medical library
 Medical personnel|=|Medic
 Medical records|=|Medical record
 Medical savings accounts|=|Medical savings account
-Medical sciences|=|Health sciences
+Medical sciences|->|Medicine
 Medical screening|=|Screening (medicine)
 Medical technology|=|Health technology
 Medical wastes|<->|Biomedical waste
@@ -5619,7 +5618,7 @@ Mithraism|=|Mithraic mysteries
 Mitkof Island (Alaska)|=|Mitkof Island
 Mitochondria|=|Mitochondrion
 Mittens|->|Glove
-Miwok Indians|=|Miwok people
+Miwok Indians|=|Miwok
 Mixe Indians|=|Mixe people
 Mixton War, 1541-1542|<->|Mixtón War
 Mixture distributions (Probability theory)|=|Mixture distribution
@@ -9711,7 +9710,7 @@ Year 2000 date conversion (Computer systems)|=|Year 2000 problem
 Yellow River (China)|=|Yellow River
 Yemen (Republic)|<->|Yemen
 Yerba Buena Island (Calif.)|=|Yerba Buena Island
-Yezidis|=|Yazidi
+Yezidis|=|Yazidis
 Yggdrasil (Norse mythology)|=|Yggdrasil
 Yi (Chinese people)|<->|Yi people
 Yiddish poetry|->|Yiddish literature
