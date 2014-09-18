@@ -54,6 +54,13 @@ COUNTRY AU
 CATTYPE summon
 BASEURL http://anu.summon.serialssolutions.com
 
+ID AU-VBAY
+NAME Bayside Library Service
+LOCATION Bayside, Victoria
+COUNTRY AU
+CATTYPE spydus
+BASEURL http://bayside.spydus.com
+
 ID AU-QBCL
 NAME Brisbane City Council Library Services
 LOCATION Brisbane, Queensland
