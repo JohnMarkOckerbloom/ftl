@@ -1,0 +1,225 @@
+#!/usr/bin/perl
+
+# Script to test and report results of searches in FTL libraries
+# By John Mark Ockerbloom, University of Pennsylvania (everybodyslibraries.com)
+# Version as of 7 Sep 2014
+#
+# Main FTL service currently runs at
+#   http://onlinebooks.library.upenn.edu/webbin/ftl
+#
+# This code is made available, "as-is" and unsupported, under the
+# Educational Community License 2.0 (http://opensource.org/licenses/ecl2.php)
+# This code will *not* run out of the box, but depends on certain
+#  other code libraries and data files at Penn.  I may publish
+#  some of these in the future.  For now, this code may be helpful for 
+#  those wishing to implement similar services, or understand
+#  how this service is implemented.
+
+use LWP::UserAgent;
+my $ua = new LWP::UserAgent(max_redirect=>7,
+                requests_redirectable =>  ['GET', 'HEAD']);
+
+BEGIN {
+$OLBP::SCRIPTNAME = "ftltest";
+}
+
+use lib "/websites/OnlineBooks/nonpublic/lib";
+use lib "/home/ockerblo/booksrc/nlib";
+use lib "/data/project/ftl/lib";
+use OLBP;
+use FTLConfig;
+
+my $liblistfile         = $FTL::IDXDIR . "libraries";
+my $libhashfile         = $FTL::IDXDIR . "libraries.hsh";
+
+my $backupdir = "/home/ockerblo/digital/nonpublic/ftl/";
+
+if (! -e $liblistfile) {
+  # hack for my own testing, which takes place on different machine
+  $liblistfile = $backupdir . "libraries";
+  $libhashfile = $backupdir . "libraries.hsh";
+}
+
+my $DEFAULT_TEST = "dictionary";
+
+# stripspace removes interior newlines, excess spaces, leading and trailing
+
+sub _stripspace {
+  my ($str, $returnspace) = @_;
+  if (!$returnspace) {
+    $str =~ s/[\n\r]//g;
+  }
+  $str =~ s/^\s+//;
+  $str =~ s/\s+$//;
+  $str =~ s/\s+/ /g;
+  return $str;
+}
+
+sub libparse {
+  my ($str) = @_;
+  my $rec = {};
+  my @lines = split /\n/, $str;
+  foreach my $line (@lines) {
+    if ($line =~ /^(\S+)\s+(.*\S)/) {
+      $rec->{$1} = $2;
+      if ($1 eq "STATE") {
+        $rec->{COUNTRY} = "US";
+      } elsif ($1 eq "PROVINCE") {
+        $rec->{COUNTRY} = "CA";
+      }
+    }
+  }
+  return $rec;
+}
+
+sub getliblist {
+  my @liblist = ();
+  open IN, "< $liblistfile" or return ();
+  my $str = "";
+  while (my $line = <IN>) {
+    if (!($line =~ /\S/)) {
+      if ($str) {
+        my $rec = libparse($str);
+        $str = "";
+        if ($rec) {
+          push @liblist, $rec;
+        }
+       }
+     }  else {
+       $str .= $line;
+     }
+  }
+  close IN;
+  if ($str) {
+    my $rec = libparse($str);
+    if ($rec) {
+      push @liblist, $rec;
+    }
+  }
+  return @liblist;
+}
+
+my $lhash;
+
+sub findlibrary {
+  my ($librec, $cattype) = @_;
+  my $rec;
+  my $libid = $librec->{ID};
+  return undef if (!$libid);
+  if (!$lhash) {
+    $lhash = new OLBP::Hash(name=>"libhash", filename=>$libhashfile, cache=>1);
+  }
+  my $str = $lhash->get_value(key=>$libid);
+  if ($str) {
+    $rec = libparse($str);
+  }
+  if ($rec && !$rec->{ID}) {
+    $rec->{ID} = $libid;
+  }
+  if (!$rec->{CATTYPE}) {
+    $rec->{CATTYPE} = $cattype;
+  }
+  return $rec;
+}
+
+# cleanarg undoes HTML character entities, removes leading and trailing spaces
+
+sub cleanarg {
+  my $str = shift;
+  return "" if (!$str);
+  $str = OLBP::Entities::utf8ify_entities($str);
+  $str =~ s/^ //;
+  $str =~ s/ $//;
+  return $str;
+}
+
+sub substitute {
+  my ($expr, $librec, $params) = @_;
+  # we use search terms that are unaffected by standard filters
+  my $arg = $expr;
+  my $transforms = "";
+  if ($expr =~ /(.*):.*/) {
+    $arg = $1;
+  }
+  if ($params->{$arg}) {
+    my $value = cleanarg($params->{$arg});
+    return OLBP::url_encode($value);
+  }
+  if ($librec->{$arg}) {
+    return $librec->{$arg};
+  }
+  return "";
+}
+
+sub search_url {
+  my ($librec) = @_;
+  my $test_term = $DEFAULT_TEST;
+  my $urlpattern = $librec->{KEYURL};
+  if (!$urlpattern) {
+    $urlpattern = $librec->{TITURL};
+  }
+  if (!$urlpattern) { 
+    return undef;
+  }
+  my $url = $urlpattern;
+  $url =~ s/\$\{([^\}]+)\}/&substitute($1, $librec, {ARG=>$test_term})/ge;
+  return $url;
+}
+
+sub picklibs {
+  my (@criteria) = @_;
+  my @liblist = getliblist();
+  my @chosenlist = ();
+  foreach my $rec (@liblist) {
+    next if (!$rec->{ID});
+    my $cattype = $rec->{CATTYPE};
+    if (!scalar(@criteria)) {
+      push @chosenlist, findlibrary($rec, $cattype);
+    } else {
+      foreach my $criterion (@criteria) {
+        if ($criterion =~ /(.*)=(.*)/) {
+          if ($rec->{$1} eq $2) {
+            push @chosenlist, findlibrary($rec, $cattype);
+            last;
+          }
+        } elsif ($rec->{ID} eq $criterion) {
+          push @chosenlist, findlibrary($rec, $cattype);
+          last;
+        }
+      }
+    }
+  }
+  return @chosenlist;
+}
+
+sub report {
+  my ($status, $rec, $msg) = @_;
+  return undef if (!$rec);
+  my $id = $rec->{ID};
+  my $cattype = $rec->{CATTYPE} || "custom";
+  print "$status $id ($cattype) $msg\n";
+}
+
+sub test_and_report {
+  my $rec = shift;
+  return undef if (!$rec || !$rec->{ID} || $rec->{COUNTRY} eq "SUPPRESS");
+  my $level = 0;
+  my $url = search_url($rec);
+  if (!$url) {
+    return report($level, $rec, "No URL determinable for search term");
+  }
+  my $req = HTTP::Request->new(GET => $url);
+  my $res = $ua->request($req);
+  if (!$res->is_success) {
+    my $num = $res->redirects;
+    return report($level, $rec, "Fetch failed ($num redirs) : " . $res->status_line);
+  }
+  $level++;
+  return report($level, $rec, "Fetch succeeded: $url");
+}
+
+my @criteria = @ARGV;
+my @whichlibs = picklibs(@criteria);
+foreach my $lib (@whichlibs) {
+  test_and_report($lib);
+}

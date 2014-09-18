@@ -2043,11 +2043,8 @@ ID OCLC-TNH
 NAME Hillsborough County Public Library Cooperative
 LOCATION Tampa and vicinity
 STATE FL
-CATTYPE ipac20
-BASEURL http://ipac.hcplc.org
-AINDEX .AW
-TINDEX .TW
-SINDEX .SW
+CATTYPE polaris
+BASEURL http://catalog.hcplc.org/polaris
 
 ID OCLC-FN2
 NAME Indian River County Library System
@@ -2077,20 +2074,6 @@ STATE FL
 BASEURL http://lcpl.sirsi.net/uhtbin/cgisirsi
 CATTYPE sirsi
 
-ID OCLC-FLK
-NAME Live Oak Public Library
-LOCATION Live Oak
-STATE FL
-CATTYPE ipac20
-BASEURL http://75.91.121.130
-PROFILE l--1
-TINDEX TW
-AINDEX BAW
-SINDEX BSW
-# No keyword search!  Default catalog search is TW, so we'll revert to that
-KINDEX TW
-FILTERS N
-
 ID OCLC-DZM
 NAME Miami-Dade Public Library System
 LOCATION Miami
@@ -2118,6 +2101,14 @@ LOCATION Sarasota and vicinity
 STATE FL
 BASEURL http://suncat.co.sarasota.fl.us
 CATTYPE innopac
+
+# Don't see an ID for this new system, so using ID for the main Live Oak lib
+ID OCLC-FLK
+NAME Suwanee River Regional Library System
+LOCATION Suwanee, Hamilton, and Madison counties
+STATE FL
+CATTYPE sirsient
+BASEURL http://suw.ent.sirsi.net
 
 ID OCLC-FNM
 NAME University of Miami Libraries
