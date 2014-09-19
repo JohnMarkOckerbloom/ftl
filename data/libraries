@@ -218,6 +218,13 @@ BASEURL http://adelaide.hosted.exlibrisgroup.com
 VID SUA
 LCODE SUA
 
+ID AU-SUSA
+NAME University of South Australia
+LOCATION Adelaide and other campuses, South Australia
+COUNTRY AU
+CATTYPE primo-justquery
+BASEURL http://search.library.unisa.edu.au/?
+
 ID AU-WU
 NAME University of Western Australia
 LOCATION Perth, Western Australia
@@ -2487,6 +2494,14 @@ VID KU
 LCODE KU
 SCOPE QUICK
 
+ID OCLC-KBE
+NAME Berea College
+LOCATION Berea
+STATE KY
+CATTYPE voyager-vwebv
+BASEURL http://banc.berea.edu:7008/vwebv/search
+DEFAULT DOMAIN
+
 ID OCLC-KCE
 NAME Kenton County Public Library
 LOCATION Kenton County
@@ -2972,6 +2987,16 @@ LOCATION Columbia and vicinity
 STATE MO
 CATTYPE bibliocommons
 BASEURL http://dbrl.bibliocommons.com
+
+# using the OCLC ID of the MPL consortium based in Ferguson
+ID OCLC-MR9
+NAME Ferguson Municipal Public Library
+LOCATION Ferguson
+STATE MO
+BASEURL http://catalog.mlc.lib.mo.us
+CATTYPE ipac20
+PROFILE fe
+AINDEX PAUTHOR
 
 ID OCLC-LHE
 NAME Harris-Stowe State University

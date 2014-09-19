@@ -238,9 +238,13 @@ AUTURL ${BASEURL}/search/searchresults.aspx?type=Keyword&term=${ARG}&by=AU&sort=
 TITURL ${BASEURL}/search/searchresults.aspx?type=Keyword&term=${ARG}&by=TI&sort=RELEVANCE
 KEYURL ${BASEURL}/search/searchresults.aspx?type=Keyword&term=${ARG}&by=KW&sort=RELEVANCE
 
-# Old primo search; does not seem to work on any current site I've seen
-CATTYPE primo-old
-KEYURL ${BASEURL}/libweb/action/search.do?mode=Basic&dum=true&operation=1&amp;ct=search&indx=1&vid=${VID}&vl%28freeText0%29=${ARG:NK}&fn=search
+# Primo-syntax searches where we need to provide otherr args in baseurl
+CATTYPE primo-justquery
+SUBURL ${BASEURL}query=sub,contains,${ARG:NK}
+AUTURL ${BASEURL}query=creator,contains,${ARG:NK}
+TITURL ${BASEURL}query=title,contains,${ARG:NK}
+ATIURL ${BASEURL}query=creator,contains,${AUTHOR:NK}&query=title,contains,${TITLE:NK}
+KEYURL ${BASEURL}query=any,contains,${ARG:NK}
 DEFAULT DOMAIN
 
 # Primo deep link syntax described at
