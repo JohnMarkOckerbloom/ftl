@@ -1534,6 +1534,13 @@ STATE CA
 CATTYPE sirsi
 BASEURL http://catalog.colapl.org/uhtbin/cgisirsi
 
+ID OCLC-CCJ
+NAME Cypress College
+LOCATION Cypress
+STATE CA
+CATTYPE voyager-vwebv
+BASEURL http://cyclib.nocccd.edu/vwebv/search
+
 ID OCLC-JQR
 NAME Fresno County Public Library
 LOCATION Fresno and vicinity
@@ -3186,6 +3193,14 @@ STATE NJ
 BASEURL http://ipac.hclibrary.us/polaris
 CATTYPE polaris
 
+ID OCLC-MRR
+NAME Mercer County Community College
+LOCATION West Windsor and Trenton
+STATE NJ
+CATTYPE sirsient
+LCODE mccc
+BASEURL http://merl.ent.sirsi.net
+
 ID OCLC-QBL
 NAME Middletown Township Public Library
 LOCATION Middletown
@@ -3742,6 +3757,13 @@ LOCATION Cheyney
 STATE PA
 BASEURL http://pilot.passhe.edu:8062/cgi-bin/Pwebrecon.cgi
 CATTYPE voyager
+
+ID OCLC-PDC
+NAME Community College of Philadelphia
+LOCATION Philadelphia
+STATE PA
+BASEURL http://library.ccp.edu
+CATTYPE innopac
 
 ID OCLC-HBP
 NAME Dauphin County Library System
