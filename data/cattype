@@ -216,6 +216,21 @@ AUTURL ${BASEURL}/cgi-bin/koha/opac-search.pl?multibranchlimit=${LCODE}&idx=au&q
 TITURL ${BASEURL}/cgi-bin/koha/opac-search.pl?multibranchlimit=${LCODE}&idx=ti&q=${ARG}
 KEYURL ${BASEURL}/cgi-bin/koha/opac-search.pl?multibranchlimit=${LCODE}&q=${ARG}
 
+# Non-working libero catalog pattern here; unfortunately I haven't
+# yet found a way to make Libero searches work without a recent dynamically
+# supplied TOKEN argument.  Example of a search URL is below.
+# http://ausport.hosting.libero.com.au/libero/WebOpac.cls?VERSION=2&amp;ACTION=SEARCH&amp;RSN=&amp;DATA=ASC&amp;TOKEN=lTpgKekGh62508&amp;Z=1&amp;NotSearch=1&amp;USE_1=ku&amp;TERM_1=ATHLETICS
+CATTYPE libero
+KINDEX ku
+AINDEX kb
+TINDEX k
+SINDEX sk
+TOKEN lTpgKekGh6250
+SUBURL ${BASEURL}?VERSION=2&ACTION=SEARCH&DATA=ASC&TOKEN=${TOKEN}&Z=1&NotSearch=1&USE_1=${SINDEX}&TERM_1=${ARG}
+AUTURL ${BASEURL}?VERSION=2&ACTION=SEARCH&DATA=ASC&TOKEN=${TOKEN}&Z=1&NotSearch=1&USE_1=${AINDEX}&TERM_1=${ARG}
+TITURL ${BASEURL}?VERSION=2&ACTION=SEARCH&DATA=ASC&TOKEN=${TOKEN}&Z=1&NotSearch=1&USE_1=${TINDEX}&TERM_1=${ARG}
+KEYURL ${BASEURL}?VERSION=2&ACTION=SEARCH&DATA=ASC&TOKEN=${TOKEN}&Z=1&NotSearch=1&USE_1=${KINDEX}&TERM_1=${ARG}
+
 CATTYPE ls2pac
 SUBURL ${BASEURL}?section=search&term=su:${ARG:N}
 AUTURL ${BASEURL}?section=search&term=au:${ARG:N}

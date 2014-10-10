@@ -76,6 +76,14 @@ CATTYPE sirsient
 LCODE cclc
 BASEURL http://swft.cclc.ent.sirsidynix.net.au
 
+# Tried, but haven't yet managed to make this work consistently.
+# ID OZSPORTSCAT
+# CATTYPE libero
+# NAME Catalogue of Australian Sport Sector Library Collections
+# LOCATION 7 sport-related libraries across Australia
+# BASEURL http://ausport.hosting.libero.com.au/libero/WebOpac.cls
+# COUNTRY AU
+
 ID AU-NCSU:A
 NAME Charles Sturt University
 LOCATION Campuses in New South Wales, Victoria, and ACT
