@@ -49,6 +49,12 @@ AUTURL ${BASEURL}/?q=author:"${ARG}"+
 ATIURL ${BASEURL}/?q=${TINDEX}:"${TITLE}"+author:"${AUTHOR}"+
 KEYURL ${BASEURL}/?q=${ARG}+
 
+CATTYPE arena
+SUBURL ${BASEURL}/search?p_p_state=normal&p_p_lifecycle=1&p_p_action=1&p_p_id=searchResult_WAR_arenaportlets&&p_p_mode=view&search_item_no=0&search_type=solr&search_query=subject:(${ARG})
+AUTURL ${BASEURL}/search?p_p_state=normal&p_p_lifecycle=1&p_p_action=1&p_p_id=searchResult_WAR_arenaportlets&&p_p_mode=view&search_item_no=0&search_type=solr&search_query=author:(${ARG})
+TITURL ${BASEURL}/search?p_p_state=normal&p_p_lifecycle=1&p_p_action=1&p_p_id=searchResult_WAR_arenaportlets&&p_p_mode=view&search_item_no=0&search_type=solr&search_query=title:(${ARG})
+KEYURL ${BASEURL}/search?p_p_state=normal&p_p_lifecycle=1&p_p_action=1&p_p_id=searchResult_WAR_arenaportlets&&p_p_mode=view&search_item_no=0&search_type=solr&search_query=${ARG}
+
 CATTYPE atriuum
 SUBURL ${BASEURL}ExpertSearch?ST0=S&view=Bibliographic&SF0=${ARG}
 AUTURL ${BASEURL}ExpertSearch?ST0=N&view=Bibliographic&SF0=${ARG}

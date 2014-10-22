@@ -1121,6 +1121,13 @@ COUNTRY UK
 BASEURL https://opac.librariesni.org.uk/
 CATTYPE viewpoint
 
+ID OCLC-UKGRP
+NAME LibrariesWest
+LOCATION Bath, Bristol, Somerset, and S. Gloucester areas, England
+COUNTRY UK
+BASEURL http://www.librarieswest.org.uk/
+CATTYPE viewpoint
+
 ID UK-UKB
 NAME Library of Birmingham
 LOCATION Birmingham, England
@@ -1157,6 +1164,15 @@ CATTYPE aquabrowser
 BASEURL http://discover.llgc.org.uk
 # can't find a good subject search, so substitute keywords instead
 SINDEX keywords
+FILTERS S
+
+# http://library.newcastle.gov.uk/web/arena/search?p_p_state=normal&p_p_lifecycle=1&p_p_action=1&p_p_id=searchResult_WAR_arenaportlets&p_p_col_count=4&p_p_col_id=column-1&p_p_col_pos=1&p_p_mode=view&search_item_no=0&search_type=solr&search_query=wuthering+heights
+ID OCLC-UKCST
+NAME Newcastle Libraries
+LOCATION Newcastle upon Tyne, England
+COUNTRY UK
+BASEURL http://library.newcastle.gov.uk/web/arena
+CATTYPE arena
 FILTERS S
 
 # Get "unexpected error", but search seems to work (unlike before)
@@ -1252,6 +1268,16 @@ LOCATION catalogue includes former U-Glamorgan campuses; might not yet include N
 COUNTRY UK
 CATTYPE prismhosted
 BASEURL http://capitadiscovery.co.uk/glam-ac
+
+# Currnely getting "unexpected error" messages, but the searches seem to work
+ID OCLC-ESU
+NAME University of Strathclyde
+LOCATION Glasgow, Scotland
+COUNTRY UK
+CATTYPE primodl
+BASEURL http://suprimo.lib.strath.ac.uk
+LCODE SU
+VID SUVU01
 
 ID OCLC-U9X
 NAME University of Sussex
