@@ -3675,6 +3675,13 @@ STATE OH
 BASEURL http://osu.worldcat.org/search
 CATTYPE worldcat
 
+ID OCLC-OWU
+NAME Ohio Wesleyan University
+LOCATION Delaware
+STATE OH
+CATTYPE summon
+BASEURL http://owu.summon.serialssolutions.com
+
 # consortium not found in OCLC
 ID OPALCONSORTIUM
 NAME OPAL Consortium
