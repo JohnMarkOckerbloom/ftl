@@ -94,6 +94,14 @@ VID CSU
 LCODE CSU
 LOC adaptor,scope:(DTL_CSU_UNLOCKED),scope:(CSU),scope:(CSU_SFX),primo_central_multiple_fe
 
+# http://eds.a.ebscohost.com/eds/results?sid=14c49c66-fdcf-4391-a76f-3e9a011cacfb%40sessionmgr4003&vid=0&hid=4203&bquery=wuthering+heights&bdata=JmNsaTA9RlQxJmNsdjA9WSZ0eXBlPTAmc2l0ZT1lZHMtbGl2ZSZzY29wZT1zaXRl
+ID AU-VDU
+NAME Deakin University
+LOCATION Melbourne and other campuses, Victoria
+COUNTRY AU
+CATTYPE eds
+LCODE deakin
+
 ID AU-VBAX
 NAME Federation University Australia
 LOCATION Ballarat and other campuses, Victoria
@@ -1934,6 +1942,14 @@ LOCATION CT State Library; and Central, Eastern, Southern, and Western CT State 
 STATE CT
 CATTYPE webpacpro
 BASEURL http://www.consuls.org/
+
+ID OCLC-GPT
+NAME Cyrenius H. Booth Library
+LOCATION Newtown
+STATE CT
+CATTYPE evergreen-dynamic
+BASEURL http://booth.biblio.org/eg/opac
+LCODE 67
 
 ID OCLC-HPJ
 NAME Hartford Public Library
@@ -3791,6 +3807,14 @@ STATE PA
 BASEURL http://205.247.101.11
 CATTYPE iii-consortium-member
 LCODE NaN
+
+ID OCLC-XK8
+NAME Berks County Public Libraries
+LOCATION Reading and vicinity
+STATE PA
+CATTYPE aquabrowser
+BASEURL http://catalog.berks.lib.pa.us
+SINDEX subject
 
 ID OCLC-PCH
 NAME Cheyney University Library
