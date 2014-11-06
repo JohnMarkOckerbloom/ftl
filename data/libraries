@@ -1523,6 +1523,13 @@ LCODE pac
 BRANCH ,0,
 BASEURL http://library.buttecounty.net/
 
+ID OCLC-CCT
+NAME California Lutheran University
+LOCATION Thousand Oaks
+STATE CA
+BASEURL http://callutheran.worldcat.org/search
+CATTYPE worldcat
+
 ID OCLC-CPS
 NAME California Polytechnic State University
 LOCATION San Luis Obispo
@@ -1531,7 +1538,7 @@ BASEURL http://find.lib.calpoly.edu/articles
 CATTYPE xerxes
 
 ID OCLC-CSA
-NAME Calfornia State University, Sacramento (Sacramento State)
+NAME California State University, Sacramento (Sacramento State)
 LOCATION Sacramento
 STATE CA
 CATTYPE primodl
@@ -3903,6 +3910,13 @@ STATE PA
 BASEURL http://comi.sirsi.net/uhtbin/cgisirsi
 CATTYPE sirsi
 
+ID OCLC-EVI
+NAME Muhlenberg College, Trexler Library
+LOCATION Allentown
+STATE PA
+BASEURL http://muhlenberg.worldcat.org/search
+CATTYPE worldcat
+
 ID OCLC-C8F
 NAME Othmer Library of Chemical History
 LOCATION Philadelphia
@@ -4611,6 +4625,13 @@ LOCATION Bremerton
 STATE WA
 CATTYPE voyager-vwebv
 BASEURL http://olympic.library.ctc.edu/vwebv/search
+
+ID OCLC-OPV
+NAME Pacific Lutheran University
+LOCATION Tacoma
+STATE WA
+BASEURL http://plu.worldcat.org/search
+CATTYPE worldcat
 
 ID OCLC-UOK
 NAME Seattle Public Library
