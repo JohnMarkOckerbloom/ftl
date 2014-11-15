@@ -243,21 +243,29 @@ AUTURL ${BASEURL}?section=search&term=au:${ARG:N}
 TITURL ${BASEURL}?section=search&term=ti:${ARG:N}
 KEYURL ${BASEURL}?section=search&term=${ARG:N}
 
-CATTYPE ls2pac-aurora
-SUBURL ${BASEURL}?config=pac#section=search&term=subject:${ARG:NK}
-AUTURL ${BASEURL}?config=pac#section=search&term=author:${ARG:SNK}
-TITURL ${BASEURL}?config=pac#section=search&term=title:${ARG:NK}
-KEYURL ${BASEURL}?config=pac#section=search&term=${ARG:NK}
+CATTYPE ls2pac-config
+CONFIG pac
+SUBURL ${BASEURL}?config=${CONFIG}#section=search&term=subject:${ARG:NK}
+AUTURL ${BASEURL}?config=${CONFIG}#section=search&term=author:${ARG:SNK}
+TITURL ${BASEURL}?config=${CONFIG}#section=search&term=title:${ARG:NK}
+KEYURL ${BASEURL}?config=${CONFIG}#section=search&term=${ARG:NK}
 
-# Polaris seems to get confused if you try a browse after a search,
-# so these are all keyword searches for now
-CATTYPE polaris
-CONTEXT 1.1033.0.0.1
-SUBURL ${BASEURL}/search/searchresults.aspx?type=Keyword&term=${ARG}&by=SU&sort=RELEVANCE
-AUTURL ${BASEURL}/search/searchresults.aspx?type=Keyword&term=${ARG}&by=AU&sort=RELEVANCE
+# Polaris seems to time out eventually if you try these kinds of links
+# so I'm deprecating this (but keeping it if I need it later)
+# CATTYPE polaris-old
+# CONTEXT 1.1033.0.0.1
+# SUBURL ${BASEURL}/search/searchresults.aspx?type=Keyword&term=${ARG}&by=SU&sort=RELEVANCE
+# AUTURL ${BASEURL}/search/searchresults.aspx?type=Keyword&term=${ARG}&by=AU&sort=RELEVANCE
 # TITURL ${BASEURL}/search/browse.aspx?ctx=1.1033.0.0.6&type=Browse&term=${ARG}&by=TI&sort=RELEVANCE
-TITURL ${BASEURL}/search/searchresults.aspx?type=Keyword&term=${ARG}&by=TI&sort=RELEVANCE
-KEYURL ${BASEURL}/search/searchresults.aspx?type=Keyword&term=${ARG}&by=KW&sort=RELEVANCE
+# TITURL ${BASEURL}/search/searchresults.aspx?type=Keyword&term=${ARG}&by=TI&sort=RELEVANCE
+# KEYURL ${BASEURL}/search/searchresults.aspx?type=Keyword&term=${ARG}&by=KW&sort=RELEVANCE
+
+# Polaris view.aspx seems to work better for deep links
+CATTYPE polaris
+SUBURL ${BASEURL}/view.aspx?subject=${ARG}
+AUTURL ${BASEURL}/view.aspx?author=${ARG}
+TITURL ${BASEURL}/view.aspx?title=${ARG}
+KEYURL ${BASEURL}/view.aspx?keyword=${ARG}
 
 # Primo-syntax searches where we need to provide otherr args in baseurl
 CATTYPE primo-justquery

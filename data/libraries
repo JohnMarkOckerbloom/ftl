@@ -2135,7 +2135,7 @@ ID OCLC-FFL
 NAME Lee County Library System
 LOCATION Fort Myers and vicinity
 STATE FL
-BASEURL http://libpac.leegov.com/polaris
+BASEURL https://libpac.leegov.com/polaris
 CATTYPE polaris
 
 ID OCLC-FTL
@@ -2163,7 +2163,7 @@ ID OCLC-FLX
 NAME Pinellas Automated Library System
 LOCATION Clearwater, St. Petersburg and Pinellas County
 STATE FL
-BASEURL http://pals.polarislibrary.com/polaris
+BASEURL https://pals.polarislibrary.com/polaris
 CATTYPE polaris
 
 ID OCLC-FSP
@@ -2336,14 +2336,14 @@ ID OCLC-ILAPL
 NAME Aurora Public Library
 LOCATION Aurora
 STATE IL
-BASEURL https://catalog.aurorapubliclibrary.org:8443/
-CATTYPE ls2pac-aurora
+BASEURL http://cat.aurorapubliclibrary.org/polaris
+CATTYPE polaris
 
 ID OCLC-IKG
 NAME Champaign Public Library and Urbana Free Library
 LOCATION Champaign-Urbana
 STATE IL
-BASEURL http://cucatalog.org/polaris
+BASEURL https://cucatalog.org/polaris
 CATTYPE polaris
 
 ID OCLC-CGP
@@ -2371,7 +2371,7 @@ ID OCLC-LQC
 NAME Illinois Heartland Library System (SHARE)
 LOCATION Libraries in southern Illinois
 STATE IL
-BASEURL http://search.illinoisheartland.org
+BASEURL https://search.illinoisheartland.org
 CATTYPE polaris
 
 ID OCLC-IHX
@@ -2538,7 +2538,7 @@ ID OCLC-CD3
 NAME Manhattan Public Library
 LOCATION Manhattan
 STATE KS
-BASEURL http://catalog.manhattan.lib.ks.us/polaris
+BASEURL https://catalog.manhattan.lib.ks.us/polaris
 CATTYPE polaris
 
 ID OCLC-KTP
@@ -3217,7 +3217,7 @@ ID OCLC-BRG
 NAME BCCLS
 LOCATION Bergen, Essex, Hudson, and Passaic County public libraries
 STATE NJ
-BASEURL http://catalog.bccls.org/polaris
+BASEURL https://catalog.bccls.org/polaris
 CATTYPE polaris
 
 ID OCLC-BUN
@@ -4239,6 +4239,13 @@ STATE TX
 BASEURL http://catalog.fortbend.lib.tx.us/polaris
 CATTYPE polaris
 
+ID OCLC-IFA
+NAME Fort Worth Library
+LOCATION Fort Worth
+STATE TX
+CATTYPE ipac20
+BASEURL http://fwl.ipac.dynixasp.com
+
 ID OCLC-HT-SHARP
 NAME Harris County Public Library
 LOCATION Houston vicinity
@@ -4271,6 +4278,14 @@ LOCATION Houston
 STATE TX
 BASEURL http://207.67.203.81/T95009/OPAC/Search/AdvancedSearch.aspx
 CATTYPE eosweb
+
+ID OCLC-TME
+NAME McAllen Public Library
+LOCATION McAllen
+STATE TX
+CATTYPE ls2pac-config
+BASEURL http://ls2pac.edinburgpl.us:8080/
+CONFIG mcallen
 
 ID OCLC-QS2
 NAME Montgomery County Memorial Library System
@@ -4320,6 +4335,14 @@ STATE TX
 BASEURL http://sapl.sat.lib.tx.us/
 CATTYPE iii-consortium-member
 LCODE 1
+
+ID OCLC-TX5
+NAME Sekula Memorial Library
+LOCATION Edinburg
+STATE TX
+CATTYPE ls2pac-config
+BASEURL http://ls2pac.edinburgpl.us:8080/
+CONFIG ysm15
 
 ID OCLC-SNM
 NAME St. Mary's University, Louis J. Blume Library
