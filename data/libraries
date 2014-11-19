@@ -1958,12 +1958,27 @@ CATTYPE evergreen-dynamic
 BASEURL http://booth.biblio.org/eg/opac
 LCODE 67
 
+ID OCLC-FEM
+NAME The Ferguson Library
+LOCATION Stamford
+STATE CT
+CATTYPE encore
+BASEURL http://catalogfergusonlibrary.iii.com/iii/encore
+
 ID OCLC-HPJ
 NAME Hartford Public Library
 LOCATION Hartford
 STATE CT
 CATTYPE encorehosted
 BASEURL http://hplct.iii.com/
+
+ID OCLC-CTCKE
+NAME Library Connection Inc.
+LOCATION Greater Hartford suburban libraries
+STATE CT
+CATTYPE encore
+BASEURL http://lci-mt.iii.com/iii/encore
+FILTERS SNK
 
 ID OCLC-NHP
 NAME New Haven Free Public Library
@@ -1980,12 +1995,26 @@ CATTYPE evergreen-dynamic
 BASEURL http://silas.biblio.org/eg/opac
 LCODE 128
 
+ID OCLC-TYC
+NAME Trinity College
+LOCATION Hartford
+STATE CT
+CATTYPE voyager-vwebv
+BASEURL http://ctwweb.wesleyan.edu:7002/vwebv/search
+
 ID OCLC-UCW
 NAME University of Connecticut
 LOCATION Storrs and other campuses
 STATE CT
 CATTYPE summon
 BASEURL http://uconn.summon.serialssolutions.com
+
+ID OCLC-WLU
+NAME Wesleyan University
+LOCATION Middletown
+STATE CT
+CATTYPE summon
+BASEURL http://wesleyan.summon.serialssolutions.com
 
 ID OCLC-YUS
 NAME Yale University
