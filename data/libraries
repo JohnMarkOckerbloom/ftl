@@ -851,6 +851,17 @@ COUNTRY NZ
 CATTYPE voyager-vwebv
 BASEURL http://nzlc.natlib.govt.nz/vwebv/search
 
+ID OCLC-D@A
+NAME VCUQatar
+LOCATION Doha
+COUNTRY QA
+CATTYPE primodl-scope
+BASEURL http://search.library.vcu.edu
+VID VQA
+LCODE VQA
+SCOPE vqa_everything
+DEFAULT http://www.qatar.vcu.edu/library/
+
 ID OCLC-SINTU
 NAME Nanyang Technological University
 LOCATION Singapore
@@ -4069,6 +4080,13 @@ STATE SC
 CATTYPE summon
 BASEURL http://clemson.summon.serialssolutions.com
 
+ID OCLC-SFM
+NAME Francis Marion University
+LOCATION Florence
+STATE SC
+BASEURL http://libencore.fmarion.edu/iii/encore
+CATTYPE encore
+
 ID OCLC-SFU
 NAME Furman University Libraries
 LOCATION Greenville
@@ -4089,6 +4107,14 @@ LOCATION Columbia and Richland County
 STATE SC
 BASEURL http://www.richlandlibrary.com
 KEYURL ${BASEURL}/search-bb?query=${ARG:N}
+
+ID SCLENDS
+NAME SC LENDS
+LOCATION 14 library systems around SC with shared lending
+STATE SC
+BASEURL http://sclends.lib.sc.us/eg/opac
+CATTYPE evergreen-dynamic
+LCODE 1
 
 ID OCLC-VCM
 NAME Voorhees College
@@ -4559,6 +4585,13 @@ STATE VA
 BASEURL http://catalog.lcpl.lib.va.us
 CATTYPE ipac20
 
+ID OCLC-VNS
+NAME Norfolk State University, Lyman Beecher Brooks Library
+LOCATION Norfolk
+STATE VA
+BASEURL http://library.nsu.edu
+CATTYPE innopac
+
 ID OCLC-VRP
 NAME Richmond Public Library
 LOCATION Richmond
@@ -4580,6 +4613,17 @@ LOCATION Virginia Beach
 STATE VA
 BASEURL http://vbplcat.vbgov.com/uhtbin/cgisirsi.exe
 CATTYPE sirsi
+
+ID OCLC-VRC
+NAME Virginia Commonwealth University
+LOCATION Richmond
+STATE VA
+CATTYPE primodl-scope
+BASEURL http://search.library.vcu.edu
+VID VCU
+LCODE VCU
+SCOPE all_scope
+DEFAULT http://www.library.vcu.edu/
 
 ID OCLC-VPI
 NAME Virginia Tech
