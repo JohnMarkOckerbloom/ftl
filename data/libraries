@@ -234,6 +234,13 @@ BASEURL http://adelaide.hosted.exlibrisgroup.com
 VID SUA
 LCODE SUA
 
+ID OCLC-LN1
+NAME University of New England (Australia)
+LOCATION Armidale, New South Wales
+COUNTRY AU
+CATTYPE summon
+BASEURL http://uneau.summon.serialssolutions.com
+
 ID AU-SUSA
 NAME University of South Australia
 LOCATION Adelaide and other campuses, South Australia
@@ -2056,6 +2063,13 @@ BASEURL https://catalog.dclibrary.org/vufind
 FILTERS N
 CATTYPE vufind
 
+ID OCLC-GQG
+NAME Gallaudet University
+LOCATION Washington
+STATE DC
+CATTYPE summon
+BASEURL http://gallaudet.summon.serialssolutions.com
+
 ID OCLC-DGW
 NAME George Washington University
 LOCATION Washington
@@ -2069,6 +2083,13 @@ LOCATION Washington
 STATE DC
 CATTYPE summon
 BASEURL http://gt.summon.serialssolutions.com
+
+ID OCLC-DHU
+NAME Howard University
+LOCATION Washington
+STATE DC
+CATTYPE summon
+BASEURL http://hu.summon.serialssolutions.com
 
 ID OCLC-1DL
 NAME Library of Congress
