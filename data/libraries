@@ -2796,6 +2796,28 @@ BASEURL https://catalyst.library.jhu.edu
 CATTYPE blacklight
 SINDEX subject
 
+ID OCLC-XLJ
+NAME Montgomery County Public Libraries
+LOCATION Montgomery County
+STATE MD
+CATTYPE sirsient
+BASEURL http://mdpl.ent.sirsi.net
+LCODE catalog
+
+ID OCLC-MDK
+NAME Prince George's County Memorial Library System
+LOCATION Prince George's County
+STATE MD
+BASEURL http://catalog.pgcmls.info/polaris
+CATTYPE polaris
+
+ID OCLC-MUB
+NAME University of Maryland Baltimore County
+LOCATION Baltimore
+STATE MD
+BASEURL http://umbc.worldcat.org/search
+CATTYPE worldcat
+
 ID OCLC-UMC
 NAME University of Maryland Libraries
 LOCATION College Park
