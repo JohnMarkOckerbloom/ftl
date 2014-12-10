@@ -8,8 +8,8 @@
 #   or lexical analysis (such as many geographical locations)
 #   are not included in this file.
 # See docs file for documentation
-# Last updated 2014-12-06
-# LCSH event sweep left off at 1845
+# Last updated 2014-12-10
+# LCSH event sweep left off at 1846
 #
 3-D films|=|3D film
 3-D television|=|3D television
@@ -329,6 +329,7 @@ Aluminum silicates|=|Aluminium silicate
 Aluminum smelting|=|Aluminium smelting
 Aluminum sulfate|=|Aluminium sulfate
 Aluminum sulfide|=|Aluminium sulfide
+Alvarado (Veracruz-Llave, Mexico)|=|Alvarado, Veracruz
 Ama language (Papua New Guinea)|=|Ama language (New Guinea)
 Amalekites|<->|Amalek
 Amantea (Italy)|=|Amantea
@@ -387,6 +388,7 @@ Amundsen Sea (Antarctica)|=|Amundsen Sea
 Amur River (China and Russia)|=|Amur River
 Amusement parks|=|Amusement park
 Amusements|<->|Entertainment
+Analgesia|->|Analgesic
 Analysis (Philosophy)|=|Philosophical analysis
 Anangula Island (Alaska)|=|Anangula Island
 Anansi (Legendary character)|<->|Anansi
@@ -557,6 +559,7 @@ Archives|=|Archive
 Archpriest controversy, 1598-1602|=|Archpriest Controversy
 Arcole, Battle of, Arcole, Italy, 1796|=|Battle of Arcole
 Arcole (Italy)|=|Arcole
+Arctic peoples|=|Circumpolar peoples
 Arctic regions|=|Arctic
 Arda River (Italy)|=|Arda (Italy)
 Ardeatine Caves Massacre, Rome, Italy, 1944|=|Ardeatine massacre
@@ -570,7 +573,6 @@ Argentina -- Politics and government|<-|Government of Argentina
 Argentine-Brazilian War, 1825-1828|<->|Cisplatine War
 Argentine Islands (Antarctica)|=|Argentine Islands
 Argentine provinces|=|Provinces of Argentina
-Argentines|=|Argentine people
 Arghun dynasty, 1520-1554|<->|Arghun dynasty
 Argonauts (Greek mythology)|=|Argonauts
 Argos (Greek mythology)|=|Argus Panoptes
@@ -630,7 +632,7 @@ Art, Early Christian|<->|Early Christian art and architecture
 Art for art's sake (Movement)|<->|Art for art's sake
 Art, Gothic|=|Gothic art
 Art, Greek|=|Greek art
-Art historians|->|Art history
+Art historians|->|History of art
 Art, Italian|=|Italian art
 Art, Japanese|=|Japanese art
 Art, Korean|=|Korean art
@@ -907,7 +909,8 @@ Ballinamuck, Battle of, Ballinamuck, Ireland, 1798|=|Battle of Ballinamuck
 Balloons|=|Balloon
 Ballot boxes|=|Ballot box
 Ballroom dancing|=|Ballroom dance
-Balls (Parties)|=|Ball (dance)
+Balls (Parties)|=|Ball (dance party)
+Balls (Sporting goods)|<->|Ball
 Baltic Sea Region|=|Baltic region
 Baltimore, Battle of, Baltimore, Md., 1814|=|Battle of Baltimore
 Baltimore (Md.)|=|Baltimore
@@ -1011,6 +1014,7 @@ Beachy Head, Battle of, 1690|=|Battle of Beachy Head (1690)
 Beachy Head Lighthouse (England)|=|Beachy Head Lighthouse
 Beacon Hill (Boston, Mass.)|=|Beacon Hill, Boston
 Bear Butte (S.D. : Mountain)|=|Bear Butte
+Bear Flag Revolt, 1846|<->|California Republic
 Bear Lodge Mountains (Wyo.)|=|Bear Lodge Mountains
 Bear Paw, Battle of, Mont., 1877|=|Battle of Bear Paw
 Bear River (Utah-Idaho)|=|Bear River (Utah)
@@ -1256,6 +1260,7 @@ Biomolecules|=|Biomolecule
 Biopolymers|=|Biopolymer
 Bird banding|=|Bird ringing
 Bird feeders|=|Bird feeder
+Bird watching|=|Birdwatching
 Birds|=|Bird
 Birds -- Alaska|<->|List of birds of Alaska
 Birds -- Arizona|<->|List of birds of Arizona
@@ -1279,7 +1284,6 @@ Birds -- Vocalization|<->|Bird vocalization
 Birds -- Wisconsin|<->|List of birds of Wisconsin
 Birds of prey|=|Bird of prey
 Birdsongs|->|Bird vocalization
-Bird watching|=|Birdwatching
 Birmingham (England)|=|Birmingham
 Birmingham (England) -- History|=|History of Birmingham
 Birmingham, Battle of, Birmingham, England, 1643|<->|Battle of Camp Hill
@@ -1686,7 +1690,7 @@ California -- Politics and government|<->|Politics of California
 California -- Politics and government|<-|Government of California
 California National Historic Trail|<->|California Trail
 California, Southern|=|Southern California
-Caliphs|=|Caliph
+Caliphs|->|Caliphate
 Calligraphers|->|Calligraphy
 Calliope|=|Calliope (music)
 Callisto (Greek mythology)|=|Callisto (mythology)
@@ -2261,7 +2265,7 @@ Cigarettes|=|Cigarette
 Cigarette smoke|<->|List of cigarette smoke carcinogens
 Cigars|=|Cigar
 Cilicia -- History -- Armenian Kingdom, 1080-1375|<->|Armenian Kingdom of Cilicia
-Cinca River (Spain)|=|Cinca River (Aragon)
+Cinca River (Spain)|=|Cinca (Spain)
 Cincinnati (Ohio)|=|Cincinnati
 Cincinnati (Ohio) -- History|=|History of Cincinnati
 Cincinnati Bengals (Football team)|=|Cincinnati Bengals
@@ -2332,7 +2336,7 @@ Coaching (Athletics)|->|Coach (sport)
 Coal miners|->|Coal mining
 Coal mines and mining|<->|Coal mining
 Coal reserves|->|Mineral resource classification
-Coal Strike, Westmoreland County, Pa., 1910-1911|=|Westmoreland County Coal Strike of 1910–11
+Coal Strike, Westmoreland County, Pa., 1910-1911|=|Westmoreland County coal strike of 1910–11
 Coast Mountains (B.C. and Alaska)|<->|Coast Mountains
 Coast Ranges|<->|Pacific Coast Ranges
 Coastal ecology|->|Ecology
@@ -2863,7 +2867,7 @@ Daughters|=|Daughter
 Davenport, Lucas (Fictitious character)|=|Lucas Davenport
 Davidson, Mount (Nev.)|=|Mount Davidson (Nevada)
 Davis Mountains (Tex.)|=|Davis Mountains
-Day|<->|Daytime (astronomy)
+Day|<->|Daytime
 Days|=|Day
 De Long Mountains (Alaska)|=|De Long Mountains
 Deaconesses|=|Deaconess
@@ -3046,6 +3050,7 @@ Disciples of Christ|<->|Christian Church (Disciples of Christ)
 Discoveries in geography|<->|Exploration
 Discovery (Ship)|<->|RRS Discovery
 Discriminant analysis|<->|Linear discriminant analysis
+Discrimination against people with disabilities|<->|Ableism
 Discrimination in employment|=|Employment discrimination
 Discrimination in housing|=|Housing discrimination
 Discworld (Imaginary place)|=|Discworld (world)
@@ -3235,7 +3240,7 @@ East Humboldt Wilderness (Nev.)|=|East Humboldt Wilderness
 East Indian Americans|=|Indian American
 East Indians|=|Indian people
 East Midlands (England)|=|East Midlands
-East Saint Louis Race Riot, East Saint Louis, Ill., 1917|<->|East St. Louis Riot
+East Saint Louis Race Riot, East Saint Louis, Ill., 1917|<->|East St. Louis riot
 East Spanish Peak (Colo.)|=|East Spanish Peak
 East Sussex (England)|=|East Sussex
 East Timor -- Politics and government|<->|Politics of East Timor
@@ -3332,7 +3337,7 @@ El Mozote Massacre, El Mozote, El Salvador, 1981|=|El Mozote massacre
 El Ni&ntilde;o Current|<->|El Niño
 El Salvador -- Politics and government|<->|Politics of El Salvador
 El Salvador -- Politics and government|<-|Government of El Salvador
-Elaine Race Riot, Elaine, Ark., 1919|=|Elaine Race Riot
+Elaine Race Riot, Elaine, Ark., 1919|=|Elaine race riot
 Elastic waves|->|Linear elasticity
 Elasticity|<-|Linear elasticity
 Elba (Italy)|=|Elba
@@ -3674,7 +3679,7 @@ Federal Home Loan Mortgage Corporation|->|Freddie Mac
 Federal National Mortgage Association|=|Fannie Mae
 Federal Party (U.S.)|<->|Federalist Party
 Federal Reserve banks|<->|Federal Reserve System
-Federalist|<->|Federalist Papers
+Federalist|<->|The Federalist Papers
 Federated searching|=|Federated search
 Feeds|=|Fodder
 Fehmarn (Germany)|=|Fehmarn
@@ -3685,6 +3690,7 @@ Fehrbellin, Battle of, Fehrbellin, Germany, 1675|=|Battle of Fehrbellin
 Feldkirch (Austria)|=|Feldkirch, Vorarlberg
 Felix the Cat (Fictitious character)|=|Felix the Cat
 Fell, Gideon (Fictitious character)|=|Gideon Fell
+Female circumcision|<->|Female genital mutilation
 Females|=|Female
 Feminist criticism|->|Feminist theory
 Feminist jurisprudence|<->|Feminist legal theory
@@ -3702,6 +3708,7 @@ Fernando Po (Equatorial Guinea)|=|Bioko
 Ferrybridge (England)|=|Ferrybridge
 Ferrybridge, Battle of, Ferrybridge, England, 1461|=|Battle of Ferrybridge
 Fertilization in vitro|=|In vitro fertilisation
+Fertilization in vitro, Human|->|In vitro fertilisation
 Fertilizers|=|Fertilizer
 Festivals|=|Festival
 Feta cheese|=|Feta
@@ -3944,7 +3951,7 @@ France -- History -- February Revolution, 1848|=|French Revolution of 1848
 France -- History -- First Republic, 1792-1804|<->|French First Republic
 France -- History -- Insurrection, 1792|<->|10 August (French Revolution)
 France -- History -- Insurrection of the Camisards, 1702-1710|->|Camisard
-France -- History -- Invasion of 1814|<->|1814 campaign in France
+France -- History -- Invasion of 1814|<->|1814 campaign in north-east France
 France -- History -- July Revolution, 1830|=|July Revolution
 France -- History -- Medieval period, 987-1515|<->|France in the Middle Ages
 France -- History -- Regency, 1715-1723|=|Régence
@@ -4069,6 +4076,7 @@ Gale, Dorothy (Fictitious character)|=|Dorothy Gale
 Galena Summit (Idaho)|=|Galena Summit
 Galicia (Poland and Ukraine)|=|Galicia (Eastern Europe)
 Galicia (Poland and Ukraine) -- History|=|History of Galicia (Eastern Europe)
+Galicia (Poland and Ukraine) -- History -- Peasant Uprising, 1846|<->|Galician slaughter
 Galicia (Spain : Region)|=|Galicia (Spain)
 Galilean satellites|=|Galilean moons
 Galileo satellite navigation system|=|Galileo (satellite navigation)
@@ -4331,7 +4339,7 @@ Government monopolies|=|Government monopoly
 Government ownership|=|State ownership
 Governors|=|Governor
 Governors general|=|Governor-General
-Grabow Riot, Grabow, La., 1912|=|Grabow Riot
+Grabow Riot, Grabow, La., 1912|=|Grabow riot
 Grace (Theology)|=|Divine grace
 Grace after meals|->|Grace (prayer)
 Grace at meals|<->|Grace (prayer)
@@ -4441,6 +4449,7 @@ Great powers|=|Great power
 Great Plague, London, England, 1664-1666|<->|Great Plague of London
 Great Pyramid (Egypt)|=|Great Pyramid of Giza
 Great Salt Lake (Utah)|=|Great Salt Lake
+Great Skellig Island (Ireland)|=|Skellig Michael
 Great Smoky Mountains (N.C. and Tenn.)|=|Great Smoky Mountains
 Great Swamp Fight, Southport, Conn., 1637|=|Fairfield Swamp Fight
 Great Western Divide (Calif.)|=|Great Western Divide
@@ -4474,7 +4483,7 @@ Greenbacks|=|Greenback
 Greenhouse effect, Atmospheric|<->|Greenhouse effect
 Greenhouse gases|=|Greenhouse gas
 Greenhouses|=|Greenhouse
-Greensboro Massacre, Greensboro, N.C., 1979|=|Greensboro Massacre
+Greensboro Massacre, Greensboro, N.C., 1979|=|Greensboro massacre
 Greenville, Treaty of, 1795|=|Treaty of Greenville
 Greenwich Village (New York, N.Y.)|=|Greenwich Village
 Gregorian chants|=|Gregorian chant
@@ -4660,6 +4669,7 @@ Health behavior|->|Self care
 Health boards|=|Health board
 Health facilities|<->|Health facility
 Health status indicators|=|Health indicator
+Hearing aids|=|Hearing aid
 Heart -- Diseases|->|Cardiovascular disease
 Heart, Artificial|=|Artificial heart
 Heart murmurs|=|Heart murmur
@@ -4724,6 +4734,7 @@ High-level programming languages|=|High-level programming language
 High performance computing|->|Supercomputer
 High schools|=|High school
 High technology|=|High tech
+High temperature superconductivity|=|High-temperature superconductivity
 High temperature superconductors|->|High-temperature superconductivity
 Highland fling (Dance)|=|Highland Fling
 Highland Mountains (Mont.)|=|Highland Mountains
@@ -4823,7 +4834,7 @@ Homestead Strike, Homestead, Pa., 1892|=|Homestead Strike
 Homology theory|<->|Homology (mathematics)
 Homosexuality -- Religious aspects -- Catholic Church|<->|Homosexuality and Roman Catholicism
 Homosexuality -- Religious aspects -- Christianity|<->|Christianity and homosexuality
-Homosexuality -- Religious aspects -- Judaism|<->|Homosexual behavior and Judaism
+Homosexuality -- Religious aspects -- Judaism|<->|Homosexuality and Judaism
 Homosexuality in animals|<->|Homosexual behavior in animals
 Homosexuality in the Bible|->|The Bible and homosexuality
 Homotopy theory|<->|Homotopy
@@ -5128,7 +5139,7 @@ Indian Removal, 1813-1903|<->|Indian removal
 Indian Territory -- History -- Civil War, 1861-1865|->|Indian Territory in the American Civil War
 Indian arts|=|Indian art
 Indian dance|->|Native American music
-Indian Island Massacre, Calif., 1860|=|1860 Wiyot Massacre
+Indian Island Massacre, Calif., 1860|=|1860 Wiyot massacre
 Indian reservations|=|Indian reservation
 Indian sign language|<->|Plains Indian Sign Language
 Indian women|->|Indigenous peoples of the Americas
@@ -5816,6 +5827,7 @@ Kosher food|=|Kosher foods
 Kosovo, Battle of, Kosovo, 1389|=|Battle of Kosovo
 Kosovo, Battle of, Kosovo, 1448|=|Battle of Kosovo (1448)
 Kosovo War, 1998-1999|=|Kosovo War
+Kot Massacre, 1846|=|Kot massacre
 Ko&zacute;le (Poland)|=|Koźle
 Kpelle (African people)|=|Kpelle people
 Krak&oacute;w (Poland)|=|Kraków
@@ -6186,11 +6198,13 @@ Loaders (Computer programs)|=|Loader (computing)
 Loaders (Machines)|=|Loader (equipment)
 Loans|=|Loan
 Lobbyists|->|Lobbying
+Loblolly pine|=|Pinus taeda
 Local area networks (Computer networks)|=|Local area network
 Local transit|<-|Rapid transit
-Locks and keys|<->|Lock (device)
-Locksmithing|->|Lock (device)
-Locksmiths|->|Lock (device)
+Locks (Hydraulic engineering)|<->|Lock (water transport)
+Locks and keys|<->|Lock (security device)
+Locksmithing|->|Lock (security device)
+Locksmiths|->|Lock (security device)
 Locomotive engineers|=|Railroad engineer
 Locomotive firemen|<->|Fireman (steam engine)
 Locomotives|=|Locomotive
@@ -6657,7 +6671,7 @@ Meloria, Battle of, Italy, 1284|=|Battle of Meloria (1284)
 Melungeons|=|Melungeon
 Memory maps (Computer science)|=|Memory map
 Memphis (Extinct city)|=|Memphis, Egypt
-Memphis Race Riot, Memphis, Tenn., 1866|=|Memphis Riots of 1866
+Memphis Race Riot, Memphis, Tenn., 1866|=|Memphis riots of 1866
 Mendel's law|<->|Mendelian inheritance
 Mendoza family|<->|Mendoza
 Men|=|Man
@@ -6731,6 +6745,10 @@ Meuse River|=|Meuse (river)
 Mexican-American Border Region|->|Mexico–United States border
 Mexican Americans|=|Mexican American
 Mexican War, 1846-1848|=|Mexican–American War
+Mexican War, 1846-1848 -- Campaigns|<->|Mexican–American War campaigns
+Mexican War, 1846-1848 -- Campaigns -- California|<->|Conquest of California
+Mexican War, 1846-1848 -- Naval operations|<->|Pacific Coast Campaign
+Mexican War, 1846-1848 -- Regimental histories -- United States|<->|List of U.S. Army, Navy, and volunteer units in the Mexican–American War
 Mexicans|=|Mexican people
 Mexico -- Boundaries -- United States|->|Mexico–United States border
 Mexico -- History -- Conquest, 1519-1540|<->|Spanish conquest of the Aztec Empire
@@ -6740,6 +6758,7 @@ Mexico -- History -- Spanish colony, 1540-1810|<->|New Spain
 Mexico -- History -- Wars of Independence, 1810-1821|<->|Mexican War of Independence
 Mexico -- Politics and government|<->|Politics of Mexico
 Mexico -- Politics and government|<-|Federal government of Mexico
+Mexico. Treaties, etc. United States, 1848 February 2|=|Treaty of Guadalupe Hidalgo
 Mexico City (Mexico)|=|Mexico City
 Mexico City (Mexico) -- History|=|History of Mexico City
 Mexico, Gulf of|=|Gulf of Mexico
@@ -6963,6 +6982,8 @@ Monte de las Cruces, Battle of, Mexico, 1810|=|Battle of Monte de las Cruces
 Montecatini Terme (Italy)|=|Montecatini Terme
 Montenotte, Battle of, Italy, 1796|=|Battle of Montenotte
 Monterey Jack cheese|=|Monterey Jack
+Monterrey (Mexico)|=|Monterrey
+Monterrey, Battle of, Monterrey, Mexico, 1846|=|Battle of Monterrey
 Montes Claros, Battle of, Portugal, 1665|=|Battle of Montes Claros
 Montessori method of education|<->|Montessori education
 Montevideo (Uruguay)|=|Montevideo
@@ -7973,6 +7994,7 @@ Palmas (Tocantins, Brazil)|=|Palmas, Tocantins
 Palmer Divide (Colo.)|=|Palmer Divide
 Palmer School of Chiropractic|->|Palmer College of Chiropractic
 PalmPilot (Computer)|=|PalmPilot
+Palo Alto, Battle of, Tex., 1846|=|Battle of Palo Alto
 Palomar, Mount (Calif.)|=|Palomar Mountain
 Pampanga language|=|Kapampangan language
 Pampas (Argentina)|=|Pampas
@@ -7990,9 +8012,9 @@ Pandora (Greek mythology)|=|Pandora
 Paneling|<->|Panelling
 Pangermanism|=|Pan-Germanism
 P&amacr;n&imacr;pat (India)|=|Panipat
-Panipat, Battle of, P&amacr;n&imacr;pat, India, 1526|=|Battle of Panipat (1526)
-Panipat, Battle of, P&amacr;n&imacr;pat, India, 1556|=|Battle of Panipat (1556)
-Panipat, Battle of, P&amacr;n&imacr;pat, India, 1761|=|Battle of Panipat (1761)
+Panipat, Battle of, P&amacr;n&imacr;pat, India, 1526|=|First Battle of Panipat
+Panipat, Battle of, P&amacr;n&imacr;pat, India, 1556|=|Second Battle of Panipat
+Panipat, Battle of, P&amacr;n&imacr;pat, India, 1761|=|Third Battle of Panipat
 Panjabis (South Asian people)|=|Punjabi people
 Panola Mountain (Ga.)|=|Panola Mountain
 Pansies|=|Pansy
@@ -8238,6 +8260,7 @@ Phlogiston|<->|Phlogiston theory
 Phobos (Satellite)|=|Phobos (moon)
 Phocidae|<->|Earless seal
 Phoenicians|->|Phoenicia
+Phoenix Program (Counterinsurgency program : Vietnam)|=|Phoenix Program
 Photocopying|->|Photocopier
 Photocopying machines|=|Photocopier
 Photographers|=|Photographer
@@ -8458,11 +8481,13 @@ Portol&aacute;'s Expedition, Calif., 1769-1770|<->|Portolà expedition
 Portrait miniatures|=|Portrait miniature
 Portraits|=|Portrait
 Portugal -- Colonies|<->|Portuguese Empire
+Portugal -- History -- Civil War, 1846-1847|=|Patuleia
 Portugal -- History -- Interregnum, 1383-1385|<->|1383–85 Crisis
 Portugal -- History -- Period of discoveries, 1385-1580|<->|Portuguese discoveries
 Portugal -- History -- Revolution, 1640|<->|Portuguese Restoration War
 Portugal -- History -- Revolution, 1820|<->|Liberal Revolution of 1820
 Portugal -- History -- Spanish dynasty, 1580-1640|<->|Iberian Union
+Portugal -- History -- Uprising, 1846|=|Revolution of Maria da Fonte
 Portugal -- History -- War of the Oranges, 1801|=|War of the Oranges
 Portugal -- Politics and government|<->|Politics of Portugal
 Portuguese Americans|=|Portuguese American
@@ -8529,6 +8554,7 @@ Pregnancy, Unwanted|<->|Unintended pregnancy
 Pregnancy -- Complications|<->|Complications of pregnancy
 Pregnant women|->|Pregnancy
 Prejudices|=|Prejudice
+Prenuptial agreements (Jewish law)|=|Jewish prenuptial agreement
 Preparatory schools|<->|Preparatory school
 Pre-Raphaelitism|->|Pre-Raphaelite Brotherhood
 Presbyterian Church in the U.S.A.|=|Presbyterian Church in the United States of America
@@ -8540,7 +8566,7 @@ Presidential Range (N.H.)|=|Presidential Range
 Presidents|=|President
 Presidents -- United States|<->|President of the United States
 Presidents -- United States -- Election|=|United States presidential election
-Presidents -- United States -- Election -- 1789|=|United States presidential election, 1788–1789
+Presidents -- United States -- Election -- 1789|=|United States presidential election, 1788–89
 Presidents -- United States -- Election -- 1792|=|United States presidential election, 1792
 Presidents -- United States -- Election -- 1796|=|United States presidential election, 1796
 Presidents -- United States -- Election -- 1800|=|United States presidential election, 1800
@@ -8733,7 +8759,6 @@ Psychosexual disorders|=|Psychosexual disorder
 Psychotherapists|->|Psychotherapy
 Psychotropic drugs|=|Psychoactive drug
 Psychotropic plants|<->|Psychoactive plant
-Pterophoridae|=|Plume moth
 Public baths|<->|Public bathing
 Public buildings|->|Building
 Public goods|=|Public good
@@ -9031,6 +9056,7 @@ Reptiles|=|Reptile
 Republican Party (U.S. : 1854- )|=|Republican Party (United States)
 Republican Party (U.S. : 1854- ) -- History|=|History of the United States Republican Party
 Republics|=|Republic
+Resaca de la Palma, Battle of, Tex., 1846|=|Battle of Resaca de la Palma
 Research grants|<->|Funding of science
 Research institutes|=|Research institute
 Research libraries|->|Library
@@ -9042,6 +9068,7 @@ Resolis (Scotland)|=|Resolis
 Respect|<-|Deference
 Respiratory infections|=|Respiratory tract infection
 Respiratory organs|=|Respiratory system
+Respiratory therapy|->|Respiratory therapist
 Restaurants|=|Restaurant
 Restigouche, Battle of the, Canada, 1760|=|Battle of Restigouche
 Restoration movement (Christianity)|=|Restoration Movement
@@ -9415,6 +9442,7 @@ San Juan Islands (Wash.)|<->|San Juan Islands
 San Juan Mountains (Colo. and N.M.)|=|San Juan Mountains
 San Lorenzo, Battle of, Argentina, 1813|=|Battle of San Lorenzo
 San Lorenzo Treaty, 1795|=|Pinckney's Treaty
+San Pasqual, Battle of, Calif., 1846|=|Battle of San Pasqual
 San Pitch Mountains (Utah)|=|San Pitch Mountains
 San Rafael River (Utah)|=|San Rafael River
 San Rafael Swell (Utah)|=|San Rafael Swell
@@ -9560,7 +9588,7 @@ Scorpions (Musical group)|=|Scorpions (band)
 Scotland -- History -- Union, 1707|<->|Acts of Union 1707
 Scotland -- History -- War of Independence, 1285-1371|<->|Wars of Scottish Independence
 Scotland -- Politics and government|<->|Politics of Scotland
-Scotland -- Politics and government|<-|Government of Scotland
+Scotland -- Politics and government|<-|Scottish Government
 Scots-Irish|=|Scotch-Irish
 Scott, Montgomery (Fictitious character)|=|Scotty (Star Trek)
 Scott, Mount (Okla.)|=|Mount Scott (Oklahoma)
@@ -9909,6 +9937,7 @@ Sixteen Personality Factor Questionnaire|=|16PF Questionnaire
 Sixteenth century|=|16th century
 Skates|<->|Ice skate
 Skates (Fishes)|=|Skate
+Skellig Islands (Ireland)|=|Skellig Islands
 Skien (Norway)|=|Skien
 Skilled labor|<->|Skill (labor)
 Skin -- Cancer|=|Skin cancer
@@ -10028,6 +10057,7 @@ Snowmass Mountain (Colo.)|=|Snowmass Mountain
 Snowmen|=|Snowman
 Snowy River (N.S.W. and Vic.)|=|Snowy River
 Soapstone Ridge (Ga.)|=|Soapstone Ridge
+Sobraon, Battle of, India, 1846|=|Battle of Sobraon
 Soccer|=|Association football
 Soccer players|->|Football player
 Soccer referees|<->|Referee (association football)
@@ -10079,7 +10109,6 @@ Sofia (Bulgaria)|=|Sofia
 Sofia (Bulgaria) -- History|=|History of Sofia
 Sogn og Fjordane fylke (Norway)|=|Sogn og Fjordane
 Soil degradation|<->|Soil retrogression and degradation
-Soil fertility|=|Fertility (soil)
 Soil pollution|=|Soil contamination
 Soils|=|Soil
 Solar atmosphere|->|Sun
@@ -10581,7 +10610,6 @@ Tahoe, Lake (Calif. and Nev.)|=|Lake Tahoe
 Tahoe National Forest (Calif.)|=|Tahoe National Forest
 Tahoe Rim Trail (Calif. and Nev.)|=|Tahoe Rim Trail
 Tai (Southeast Asian people)|<->|Tai peoples
-Tai chi|<->|T'ai chi ch'uan
 Tailoring|->|Tailor
 Tailors|=|Tailor
 Taino Indians|=|Taíno
@@ -10720,13 +10748,14 @@ Teton Range (Wyo. and Idaho)|=|Teton Range
 Teutonic race|=|Nordic race
 Tewkesbury, Battle of, Tewkesbury, England, 1471|=|Battle of Tewkesbury
 Texan Santa F&eacute; Expedition, 1841|=|Texas Santa Fe Expedition
-Texas Hill Country (Tex.)|=|Texas Hill Country
+Texas -- Annexation to the United States|=|Texas annexation
 Texas -- History -- Civil War, 1861-1865|=|Texas in the American Civil War
 Texas -- History -- Republic, 1836-1846|<->|Republic of Texas
 Texas -- History -- Revolution, 1835-1836|=|Texas Revolution
 Texas -- History -- Revolution, 1835-1836 -- Campaigns|<->|List of Texas Revolution battles
 Texas -- Politics and government|<->|Politics of Texas
 Texas -- Politics and government|<-|Government of Texas
+Texas Hill Country (Tex.)|=|Texas Hill Country
 Texas Panhandle (Tex.)|=|Texas Panhandle
 Texas Rangers (Baseball team)|=|Texas Rangers (baseball)
 Texas, South|=|South Texas
@@ -11040,7 +11069,7 @@ Tupolev 144 (Jet transport)|=|Tupolev Tu-144
 Tupolev 154 (Jet transport)|=|Tupolev Tu-154
 Turco-Italian War, 1911-1912|=|Italo-Turkish War
 Turco-Polish War, 1620-1621|=|Polish–Ottoman War (1620–21)
-Turia River (Spain)|=|Turia River
+Turia River (Spain)|=|Turia (river)
 Turin (Italy)|=|Turin
 Turin (Italy) -- History -- Siege, 1640|=|Siege of Turin (1640)
 Turin (Italy) -- History -- Siege, 1706|=|Siege of Turin
@@ -11448,7 +11477,7 @@ Vacations|=|Vacation
 Vaccines|=|Vaccine
 Vader, Darth (Fictitious character)|=|Darth Vader
 Vads&oslash; (Norway)|=|Vadsø (town)
-Vaginal birth after cesarean|=|Vaginal birth after caesarean
+Vaginal birth after cesarean|<->|Delivery after previous Caesarean section
 Vagrancy|<->|Vagrancy (people)
 Valais (Switzerland)|=|Valais
 Valcour Island, Battle of, N.Y., 1776|=|Battle of Valcour Island
@@ -11878,6 +11907,9 @@ Wide area networks (Computer networks)|<->|Wide area network
 Wide gap semiconductors|=|Wide-bandgap semiconductor
 Widowers|->|Widow
 Widows|=|Widow
+Wielkopolska (Poland)|<->|Greater Poland
+Wielkopolska (Poland) -- History -- Uprisings, 1846-1848|<-|Greater Poland Uprising (1846)
+Wielkopolska (Poland) -- History -- Uprisings, 1846-1848|<->|Greater Poland Uprising (1848)
 Wife abuse|->|Domestic violence
 Wilbur, Mount (Mont.)|=|Mount Wilbur (Montana)
 Wild horses|=|Wild horse
@@ -11885,6 +11917,7 @@ Wild men|=|Wild man
 Wilderness areas|=|Wilderness area
 Wilderness survival|->|Survival skills
 Wildfires|=|Wildfire
+Wildlife watching|<->|Wildlife observation
 Willamette River (Or.)|=|Willamette River
 Willamette River Greenway (Or.)|<->|Willamette Greenway
 Willamette River, Middle Fork (Or.)|=|Middle Fork Willamette River
@@ -11946,6 +11979,7 @@ Women -- Violence against|=|Violence against women
 Women and freemasonry|=|Freemasonry and women
 Women and war|->|Women in war
 Women astronauts|<->|List of female astronauts
+Women astronomers|<->|List of women astronomers
 Women heads of state|<->|List of elected and appointed female heads of state
 Women in computer science|<->|Women in computing
 Women in journalism|->|Women in journalism and media professions
@@ -11983,6 +12017,7 @@ Working animals|=|Working animal
 Workshops|=|Workshop
 Work songs|=|Work song
 Workweek|<->|Workweek and weekend
+World citizenship|=|Global citizenship
 World Trade Center (New York, N.Y.)|=|World Trade Center
 World War, 1914-1918|=|World War I
 World War, 1914-1918 -- Aerial operations|<->|Aviation in World War I
