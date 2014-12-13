@@ -1048,6 +1048,13 @@ COUNTRY UK
 CATTYPE spydus
 BASEURL http://buckinghamshire.spydus.co.uk
 
+ID OCLC-UKLON
+NAME Camden Libraries
+LOCATION London Borough of Camden, England
+COUNTRY UK
+CATTYPE spydus
+BASEURL http://camden.spydus.co.uk
+
 ID OCLC-RDF
 NAME Cardiff University and NHS Wales Libraries
 LOCATION Cardiff and elsewhere in Wales
@@ -1167,6 +1174,17 @@ LOCATION London, England
 COUNTRY UK
 BASEURL http://catalogue.londonmet.ac.uk
 CATTYPE innopac
+
+ID OCLC-UKLEP
+NAME London School of Economics and Political Science
+LOCATION London, England
+COUNTRY UK
+CATTYPE primodl-loc
+BASEURL http://librarysearch.lse.ac.uk
+VID 44LSE_VU1
+LCODE 44LSE
+LOC adaptor,scope:(44LSE),primo_central_multiple_fe
+DEFAULT http://www.lse.ac.uk/library/home.aspx
 
 ID OCLC-UKLTN
 NAME Luton Culture
@@ -1345,6 +1363,14 @@ CATTYPE primodl
 BASEURL http://library-collections-search.westminster.ac.uk
 VID WST_VU1
 LCODE WST_VU1
+
+ID OCLC-W4S
+NAME Westminster Libraries
+LOCATION City of Westminster, London, England
+COUNTRY UK
+CATTYPE sirsient
+BASEURL http://trib.ent.sirsidynix.net.uk
+LCODE en_GB/wcc
 
 ID UK-UKLOZSL
 NAME Zoological Society of London
