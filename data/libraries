@@ -1394,12 +1394,29 @@ STATE AL
 BASEURL http://alasu.worldcat.org/search
 CATTYPE worldcat
 
+ID OCLC-MWD
+NAME Huntsville-Madison County Public Library
+LOCATION Huntsville and vicinity
+STATE AL
+BASEURL http://catalog.hmcpl.org
+CATTYPE koha
+FILTERS NK
+
 ID OCLC-ALJCL
 NAME Jefferson County Library Cooperative
 LOCATION Birmingham and vicinity
 STATE AL
 BASEURL http://encore.bham.lib.al.us/iii/encore
 CATTYPE encore
+
+ID OCLC-AMP
+NAME Mobile Public Library
+LOCATION Mobile
+STATE AL
+CATTYPE sirsient
+LCODE default
+LCODE en_US/http
+BASEURL http://mobi.ent.sirsi.net
 
 # Can't find a WorldCat registry ID for this; use my own
 ID OLB-MONTGOMERY
@@ -1408,6 +1425,34 @@ LOCATION Montgomery
 STATE AL
 BASEURL http://mccp.sirsi.net/uhtbin/cgisirsi
 CATTYPE sirsi
+
+ID OCLC-MVQ
+NAME Tuscaloosa Public Library
+LOCATION Tuscaloosa
+STATE AL
+BASEURL http://encore.tuscaloosa-library.org/iii/encore
+CATTYPE encore
+
+ID OCLC-TUS
+NAME Tuskegee University Libraries
+LOCATION Tuskegee Institute
+STATE AL
+BASEURL http://shbfuni.tuskegee.edu/uhtbin/cgisirsi.exe
+CATTYPE sirsi
+
+ID OCLC-ALM
+NAME University of Alabama Libraries
+LOCATION Tuscaloosa
+STATE AL
+CATTYPE eds
+LCODE s4594951
+
+ID OCLC-ABC
+NAME University of Alabama at Birmingham Libraries
+LOCATION Birmingham
+STATE AL
+BASEURL http://uab.worldcat.org/search
+CATTYPE worldcat
 
 ID OCLC-H-DOLLAR-A
 NAME Alaska Medical Library
