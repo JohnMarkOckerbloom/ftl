@@ -3050,6 +3050,15 @@ BASEURL http://francis.williams.edu
 CATTYPE webpacpro
 FILTERS N
 
+ID OCLC-EZC
+NAME Central Michigan University
+LOCATION Mount Pleasant
+STATE MI
+BASEURL http://cm-primo.hosted.exlibrisgroup.com
+CATTYPE primodl-loc
+VID CMICH
+LOC adaptor,scope:(CMICH_CONTENTDM),scope:(CMICH_III),primo_central_multiple_fe,%EbscoLocalCMICH3,EbscoLocalCMICH2,EbscoLocalCMICH1
+
 ID OCLC-EYP
 NAME Detroit Public Library
 LOCATION Detroit
@@ -3063,6 +3072,13 @@ LOCATION Ypsilanti
 STATE MI
 CATTYPE summon
 BASEURL http://emich.summon.serialssolutions.com
+
+ID OCLC-EZH
+NAME Flint Public Library
+LOCATION Flint
+STATE MI
+BASEURL http://catalog.fpl.info
+CATTYPE polaris
 
 ID OCLC-LKR
 NAME Lakenet: Lakeland Library Cooperative
@@ -3100,6 +3116,13 @@ BASEURL http://catalog.dalnet.lib.mi.us
 CATTYPE ipac20
 PROFILE occ
 SINDEX .SW
+
+ID OCLC-ENZ
+NAME Petoskey District Library
+LOCATION Petoskey
+STATE MI
+CATTYPE bibliocommons
+BASEURL http://petoskey.bibliocommons.com
 
 ID OCLC-ELM
 NAME University of Michigan Library
