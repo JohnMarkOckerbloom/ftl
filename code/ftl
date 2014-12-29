@@ -181,7 +181,8 @@ sub log_request {
     print LOG "$host|";
   }
   print LOG "$tstr|referer=$referer|cookie=$preferredlibrary";
-  foreach my $attr ('su', 'au', 'ti', 'st', 'at', 'tt', 'from', 'library') {
+  foreach my $attr ('su', 'au', 'ti', 'st', 'at', 'tt', 'kw',
+                    'from', 'library') {
     if ($q->param($attr)) {
       my $str = $q->param($attr);
       utf8::decode($str);
@@ -434,7 +435,7 @@ sub library_link {
     $id = "";
   }
   my $url = "?library=" . $id;
-  foreach my $attr ('su', 'au', 'ti', 'st', 'at', 'tt', 'from') {
+  foreach my $attr ('su', 'au', 'ti', 'st', 'at', 'tt', 'kw', 'from') {
     if ($q->param($attr)) {
       my $str = $q->param($attr);
       utf8::decode($str);
@@ -492,14 +493,6 @@ sub showlibrarylinks {
       print qq!<li> <b id="PR-$pcode">$provinces->{$pcode}</b><ul>!;
     }
     my $url = library_link($q, $rec->{ID}, $keep);
-    # my $url = "?library=" . $rec->{ID};
-    # foreach my $attr ('su', 'au', 'ti', 'st', 'at', 'tt', 'from') {
-    #   if ($q->param($attr)) {
-    #     my $str = $q->param($attr);
-    #     utf8::decode($str);
-    #     $url .= "&$attr=" . OLBP::url_encode($str);
-    #   }
-    # }
     print qq!<li> <a href="$url">$rec->{NAME}</a> ($rec->{LOCATION})\n!;
   }
   if ($ccode eq "US") {
@@ -1005,10 +998,12 @@ utf8::decode($author);
 my $atype   = $q->param('at');
 my $title   = $q->param('ti');
 utf8::decode($title);
+my $genkey  = $q->param('kw');
+utf8::decode($genkey);
 
 my $librec;
 
-if ($subject || $author || $title) {
+if ($subject || $author || $title || $genkey) {
   my $libchosen = wheretogoto($q);
   $librec = findlibrary($libchosen);
   if (!$librec) {
@@ -1050,7 +1045,13 @@ if ($title) {
   route_request($q, $librec, urltype=>"TITURL", arg=>$title);
   route_request($q, $librec, urltype=>"KEYURL", arg=>$title);
 }
-if ($subject || $author || $title) {
+if ($genkey) {
+  # a few libraries don't have keyword search; fall back to sub or title
+  route_request($q, $librec, urltype=>"KEYURL", arg=>$genkey);
+  route_request($q, $librec, urltype=>"SUBURL", arg=>$genkey);
+  route_request($q, $librec, urltype=>"TITURL", arg=>$genkey);
+}
+if ($subject || $author || $title || $genkey) {
   dropoff_at_library($q, $librec);
   sorry($q, "we don't know how to route this kind of query to your library");
 }
