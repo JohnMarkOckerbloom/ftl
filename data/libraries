@@ -3840,6 +3840,20 @@ STATE OH
 BASEURL http://encore.akronlibrary.org/iii/encore
 CATTYPE encore
 
+ID OCLC-CWR
+NAME Case Western Reserve University
+LOCATION Cleveland
+STATE OH
+CATTYPE summon
+BASEURL http://case.summon.serialssolutions.com
+
+ID OCLC-CNC
+NAME Central State University
+LOCATION Wilberforce
+STATE OH
+CATTYPE encorehosted
+BASEURL http://hallie.ces.edu/
+
 ID OCLC-CLE
 NAME Cleveland Public Library
 LOCATION Cleveland
@@ -3847,12 +3861,12 @@ STATE OH
 CATTYPE bibliocommons
 BASEURL http://cpl.bibliocommons.com
 
-ID OCLC-CXP
-NAME Cuyahoga County Public Library
-LOCATION Cleveland suburbs
+ID OCLC-WOO
+NAME College of Wooster
+LOCATION Wooster
 STATE OH
-BASEURL http://encore.cuyahoga.lib.oh.us/iii/encore
-CATTYPE encore
+CATTYPE summon
+BASEURL http://wooster.summon.serialssolutions.com
 
 ID OCLC-OCO
 NAME Columbus Metropolitan Library
@@ -3860,6 +3874,13 @@ LOCATION Columbus and vicinity
 STATE OH
 BASEURL http://catalog.clcohio.org/polaris
 CATTYPE polaris
+
+ID OCLC-CXP
+NAME Cuyahoga County Public Library
+LOCATION Cleveland suburbs
+STATE OH
+BASEURL http://encore.cuyahoga.lib.oh.us/iii/encore
+CATTYPE encore
 
 ID OCLC-7DM
 NAME Dayton Metro Library
@@ -3896,6 +3917,13 @@ NAME Public Library of Cincinnati and Hamilton County
 LOCATION Cincinnati and vicinity
 STATE OH
 BASEURL http://catalog.cincinnatilibrary.org/iii/encore
+CATTYPE encore
+
+ID OCLC-YMM
+NAME Public Library of Youngstown and Mahoning County
+LOCATION Youngstown and vicinity
+STATE OH
+BASEURL http://encore.libraryvisit.org/iii/encore
 CATTYPE encore
 
 ID OCLC-9TL
