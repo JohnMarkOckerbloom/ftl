@@ -28,6 +28,7 @@ use lib "/home/ockerblo/booksrc/nlib";
 use lib "/data/project/ftl/lib";
 use OLBP;
 use FTLConfig;
+use FTLLibraryRecord;
 
 my $ONLINEBOOKS_URL = "http://onlinebooks.library.upenn.edu/";
 my $ONLINEBOOKS_SOURCE = "OLBP";
