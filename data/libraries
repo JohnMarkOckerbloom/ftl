@@ -1888,6 +1888,13 @@ BASEURL http://carlweb.snap.lib.ca.us/carlweb
 DBID 240
 FILTERS N
 
+ID OCLC-CSO
+NAME Sonoma State University Library
+LOCATION Rohnert Park
+STATE CA
+BASEURL http://library.calstate.edu/sonoma
+KEYURL ${BASEURL}/combined/results?query=${ARG:NK}
+
 ID OCLC-STF
 NAME Stanford University Libraries
 LOCATION Stanford
@@ -3311,6 +3318,13 @@ STATE MO
 CATTYPE summon
 BASEURL http://missouri.summon.serialssolutions.com
 
+ID OCLC-WTU
+NAME Washington University Libraries
+LOCATION St. Louis
+STATE MO
+BASEURL http://catalog.wustl.edu
+CATTYPE innopac
+
 ID OLB-MZE
 NAME Butte-Silver Bow Public Library
 LOCATION Butte
@@ -3580,6 +3594,13 @@ LOCATION Public libraries in Cayuga, Cortland, Seneca, Tioga, and Tompkins count
 STATE NY
 BASEURL http://catalog.flls.org/polaris
 CATTYPE polaris
+
+ID OCLC-VYF
+NAME Fordham University
+LOCATION New York
+STATE NY
+BASEURL http://catalog.library.fordham.edu/uhtbin/cgisirsi
+CATTYPE sirsi
 
 ID OCLC-VXV
 NAME Hudson Valley Community College

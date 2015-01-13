@@ -1,8 +1,14 @@
 package FTLLibraryRecord;
 use FTLConfig;
+use NetAddr::IP::Lite;
 use strict;
 
 my $libhashfile         = $FTL::IDXDIR . "libraries.hsh";
+my $iprangefile         = $FTL::IDXDIR . "ipranges";
+
+my $idhash;
+my $rangestotry = [];
+my $gotranges   = 0;
 
 # note that this is not validating hash keys; it assumes the
 # strings we parse are under our control
@@ -27,11 +33,11 @@ sub _init_from_id {
   my ($self, $libid) = @_;
   my $rec;
   return undef if (!$libid);
-  if (!$FTLLibraryRecord::hash) {
-    $FTLLibraryRecord::hash = new OLBP::Hash(name=>"libhash",
-                                             filename=>$libhashfile, cache=>1);
+  if (!$idhash) {
+    $idhash = new OLBP::Hash(name=>"libhash",
+                            filename=>$libhashfile, cache=>1);
   }
-  my $str = $FTLLibraryRecord::hash->get_value(key=>$libid);
+  my $str = $idhash->get_value(key=>$libid);
   if ($str) {
     $self->_init_from_string($str);
   }
@@ -41,17 +47,71 @@ sub _init_from_id {
   return $rec;
 }
 
+sub _get_ranges {
+  $gotranges = 1;
+  open RANGES, "< $iprangefile" or return undef;
+  while (my $line = <RANGES>) {
+    my $rec = {};
+    if ($line =~ /^(\S+)\s+(.*)/) {
+      $rec->{ID} = $1;
+      $rec->{RANGE} = $2;
+      push @{$rangestotry}, $rec;
+    }
+  }
+  close RANGES;
+}
+
+sub _init_from_ip {
+  my ($self, $ipstr) = @_;
+  my $ip;
+  if ($ipstr) {
+    $ip = new NetAddr::IP::Lite($ipstr);
+  }
+  if ($ip) {
+    $self->_get_ranges() if (!$gotranges);
+    foreach my $rec (@{$rangestotry}) {
+      if ($rec->{RANGE}) {
+        my $range = new NetAddr::IP::Lite($rec->{RANGE});
+        if ($range && $ip->within($range)) {
+          # IP range files are not full records; need to get one of them
+          $self->_init_from_id($rec->{ID});
+        }
+      }
+    }
+  }
+  return undef;
+}
+
 sub _initialize {
   my ($self, %params) = @_;
   if ($params{id}) {
     $self->_init_from_id($params{id});
+  } elsif ($params{ip}) {
+    $self->_init_from_ip($params{ip});
   }
   if ($params{string}) {
     $self->_init_from_string($params{string});
   }
+  if (!$self->{ID}) {
+    return undef;
+  }
   return $self;
 }
 
+sub name { return shift->{NAME}; }
+sub id { return shift->{ID}; }
+sub address { return shift->{ADDRESS}; }
+sub homepage { return shift->{HOMEPAGE}; }
+sub reference { return shift->{VREF}; }
+sub number_of_branches { return shift->{BRANCHES}; }
+
+sub geocoords {
+  my ($self) = @_;
+  if ($self->{LONGITIDE} || $self->{LATITUDE}) {
+    return ($self->{LONGITUDE}, $self->{LATITUDE});
+  }
+  return ();
+}
 
 sub new {
   my $class = shift;
