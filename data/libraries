@@ -3512,6 +3512,13 @@ BASEURL http://catalog.somerset.lib.nj.us
 CATTYPE iii-consortium-member
 LCODE 8
 
+ID OCLC-NJP
+NAME William Paterson University, Cheng Library
+LOCATION Wayne
+STATE NJ
+CATTYPE summon
+BASEURL http://wpunj.summon.serialssolutions.com
+
 ID OCLC-QUE
 NAME ABC Library
 LOCATION Albuquerque and Bernalillo County
@@ -3563,6 +3570,7 @@ NAME Columbia University Libraries
 LOCATION New York
 STATE NY
 BASEURL http://clio.columbia.edu/quicksearch
+VREF http://library.columbia.edu/research/askalibrarian.html
 CATTYPE blacklight
 AINDEX author_terms
 
@@ -4172,6 +4180,13 @@ STATE PA
 BASEURL http://catalog.friends-select.org:2051/
 CATTYPE webpacpro
 DEFAULT http://catalog.friends-select.org:2051/search~S69
+
+ID OCLC-LYU
+NAME Lehigh University
+LOCATION Bethlehem
+STATE PA
+CATTYPE vufind
+BASEURL https://library.lehigh.edu/asa2.0
 
 ID OCLC-LZU
 NAME Lincoln University
