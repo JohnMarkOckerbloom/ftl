@@ -8,7 +8,7 @@
 #   or lexical analysis (such as many geographical locations)
 #   are not included in this file.
 # See docs file for documentation
-# Last updated 2015-01-13
+# Last updated 2015-01-15
 # LCSH event sweep left off at 1879
 #
 24 Heures du Mans (Automobile race)|=|24 Hours of Le Mans
@@ -301,12 +301,13 @@ Alpamayo (Peru)|=|Alpamayo
 Alpha (Microprocessor)|=|DEC Alpha
 Alphabet|<-|Latin script
 Alphabet books|=|Alphabet book
+Alphabetizing|<->|Alphabetical order
 Alphabets|->|Alphabet
 Alps, Bavarian (Germany)|=|Bavarian Alps
 Alps, Swiss (Switzerland)|=|Swiss Alps
 Alsace (France)|=|Alsace
 Alsn&ouml;, Ordinance of, 1280|=|Ordinance of Alsnö
-Alta Museum (Norway)|=|Alta Museum
+Alta Museum (Norway)|=|World Heritage Rock Art Centre - Alta Museum
 Altars|=|Altar
 Altered states of consciousness|=|Altered state of consciousness
 Alternative histories (Fiction)|<->|Alternate history
@@ -446,7 +447,7 @@ Angola -- History -- Civil War, 1975-2002|=|Angolan Civil War
 Angola -- History -- Revolution, 1961-1975|<->|Angolan War of Independence
 Angola (Republic) -- Politics and government|<->|Politics of Angola
 Aniakchak National Monument and Preserve (Alaska)|=|Aniakchak National Monument and Preserve
-Animal behavior|=|Animal behaviour
+Animal behavior|<->|Ethology
 Animal experimentation|=|Animal testing
 Animal intelligence|->|Animal cognition
 Animal Man (Fictitious character)|=|Animal Man
@@ -476,7 +477,7 @@ Anthems|=|Anthem
 Anthologies|=|Anthology
 Anthony (Name)|<->|Anthony (given name)
 Anthracite Coal Strike, Pa., 1897|<->|Lattimer massacre
-Anthracite Coal Strike, Pa., 1902|=|Coal Strike of 1902
+Anthracite Coal Strike, Pa., 1902|=|Coal strike of 1902
 Anthropologists|->|Anthropology
 Anti-communist movements|<->|Anti-communism
 Anti-communist movements -- Poland|=|Anti-communist resistance in Poland
@@ -594,6 +595,7 @@ Arghun dynasty, 1520-1554|<->|Arghun dynasty
 Argonauts (Greek mythology)|=|Argonauts
 Argos (Greek mythology)|=|Argus Panoptes
 Argus Range (Calif.)|=|Argus Range
+Arica, Battle of, Arica, Chile, 1880|=|Battle of Arica
 Arid regions agriculture|<->|Dryland farming
 Arikara Indians|=|Arikara
 Arikara Indians -- Wars, 1823|=|Arikara War
@@ -1125,6 +1127,8 @@ Bell Mountain (Butte County and Lemhi County, Idaho)|=|Bell Mountain (Lemhi Rang
 Bell Rock Lighthouse (Scotland)|=|Bell Rock Lighthouse
 Bell Telephone Laboratories|<->|Bell Labs
 Bell X-1 (Supersonic plane)|=|Bell X-1
+Bella Coola Indians|<->|Nuxalk
+Bella Coola language|<->|Nuxalk language
 Belle-&Icirc;le-en-Mer (France)|=|Belle Île
 Belligerency|<->|Belligerent
 Belly River, Battle of, Alta., 1870|=|Battle of the Belly River
@@ -1581,6 +1585,7 @@ British Columbia Provincial Museum|->|Royal British Columbia Museum
 British newspapers|<->|List of newspapers in the United Kingdom
 British Red Cross Society|=|British Red Cross
 British settlers of 1820 (South Africa)|<->|1820 Settlers
+British White cattle|=|British White
 Britons|=|Briton
 Brittany (France)|=|Brittany
 Brittany spaniel|=|Brittany dog
@@ -2224,7 +2229,7 @@ China -- History -- Liao dynasty, 947-1125|<->|Liao dynasty
 China -- History -- Liu Song dynasty, 420-479|<->|Liu Song dynasty
 China -- History -- Min kingdom, 909-945|<->|Min (Ten Kingdoms)
 China -- History -- Ming dynasty, 1368-1644|<->|Ming dynasty
-China -- History -- Nian Rebellion, 1853-1868|<->|Nien Rebellion
+China -- History -- Nian Rebellion, 1853-1868|<->|Nian Rebellion
 China -- History -- Northern and Southern dynasties, 386-589|<->|Southern and Northern Dynasties
 China -- History -- Northern Qi dynasty, 550-577|<->|Northern Qi
 China -- History -- Northern Wei dynasty, 386-534|<->|Northern Wei
@@ -2393,6 +2398,7 @@ Cirripedia|->|Barnacle
 Citation of legal authorities|<->|Legal citation
 Citizens' Councils of America|<->|Citizens' Councils
 City and Country School (New York, N.Y.)|=|City and Country School
+City and town life|<->|Urban culture
 City Hall (Philadelphia, Pa.)|=|Philadelphia City Hall
 City planning|=|Urban planning
 Ciudad-Rodrigo (Spain)|=|Ciudad Rodrigo
@@ -3110,7 +3116,7 @@ Depressions|=|Depression (economics)
 Depressions -- 1929|<->|Great Depression
 Depressions -- 1932|->|Great Depression
 Derbyshire (England)|=|Derbyshire
-Derelicts|->|Flotsam and jetsam
+Derelicts|->|Flotsam, jetsam, lagan and derelict
 Derivative securities|=|Derivative (finance)
 Derivatives|<->|Derivative
 Derry (Northern Ireland)|=|Derry
@@ -3135,7 +3141,7 @@ Detroit (Mich.) -- History -- Siege, 1763|=|Siege of Fort Detroit
 Detroit (Mich.) -- History -- Surrender to the British, 1812|<->|Siege of Detroit
 Detroit Lions (Football team)|=|Detroit Lions
 Detroit Tigers (Baseball team)|=|Detroit Tigers
-Detroit Race Riot, Detroit, Mich., 1943|=|Detroit Race Riot (1943)
+Detroit Race Riot, Detroit, Mich., 1943|=|Detroit race riot of 1943
 Dettingen, Battle of, Karlstein, Unterfranken, Germany, 1743|=|Battle of Dettingen
 Developed countries|=|Developed country
 Developing countries|=|Developing country
@@ -3216,6 +3222,7 @@ Dispute resolution (Law)|<->|Dispute resolution
 Dissenters|=|Dissenter
 Dissertations, Academic|<->|Thesis
 Dissociative disorders|=|Dissociative disorder
+Distillers|->|Distillation
 Distress (Law)|=|Distraint
 Distribution (Economic theory)|<->|Distribution (economics)
 District courts|=|District court
@@ -3327,7 +3334,7 @@ Drummondville (Qu&eacute;bec)|=|Drummondville
 Druzes|=|Druze
 Dry farming|->|Dryland farming
 Dry-rot|=|Dry rot
-Dryden Flight Research Facility|->|Neil A. Armstrong Flight Research Center
+Dryden Flight Research Facility|->|Armstrong Flight Research Center
 Dryfe Sands, Battle of, Scotland, 1593|=|Battle of Dryfe Sands
 Dual Alliance, 1879|=|Dual Alliance (1879)
 Dublin (Ireland)|=|Dublin
@@ -3939,7 +3946,10 @@ Fishery management|=|Fisheries management
 Fishes|=|Fish
 Fishguard (Wales)|=|Fishguard
 Fishguard, Battle of, Fishguard, Wales, 1797|=|Battle of Fishguard
+Fishhooks|=|Fish hook
 Fishing boats|=|Fishing vessel
+Fishing bobbers|=|Fishing float
+Fishing rigs|=|Rig (fishing)
 Fitz Roy, Mount (Argentina)|=|Fitz Roy
 Five Forks, Battle of, Va., 1865|=|Battle of Five Forks
 Five Little Peppers (Fictitious characters)|<->|Five Little Peppers
@@ -4025,6 +4035,7 @@ Forest fires|->|Wildfire
 Forest Hills (New York, N.Y.)|=|Forest Hills, Queens
 Forest rangers|->|Park ranger
 Forest reserves|->|Forest protection
+Forest tent caterpillar|<->|Forest tent caterpillar moth
 Forests and forestry|<->|Forest
 Forests and forestry|<-|Forestry
 Forfeiture|=|Forfeiture (law)
@@ -4351,7 +4362,7 @@ Gems|<->|Gemstone
 Gender expression|->|Gender
 General Conference of the New Church|->|The New Church
 General factor (Psychology)|=|G factor (psychometrics)
-General Motors Corporation Sit-Down Strike, 1936-1937|<->|Flint Sit-Down Strike
+General Motors Corporation Sit-Down Strike, 1936-1937|<->|Flint sit-down strike
 General Strike, Great Britain, 1842|=|1842 General Strike
 General Strike, Great Britain, 1926|=|1926 United Kingdom general strike
 General Strike, Saint Louis, Mo., 1877|=|1877 St. Louis general strike
@@ -4761,6 +4772,7 @@ Gulu District (Uganda)|=|Gulu District
 Gulu (Uganda)|=|Gulu
 Gumby (Fictitious character)|<->|Gumby
 Gun control -- United States|<->|Gun politics in the United States
+Gun War, 1880-1881|=|Basuto Gun War
 Gunboat War, 1807-1814|<->|Gunboat War
 Gunpowder Plot, 1605|=|Gunpowder Plot
 Gunsight Peak (Wash.)|=|Gunsight Peak
@@ -4881,6 +4893,7 @@ Hawaii -- Politics and government|<->|Politics of Hawaii
 Hawaii Island (Hawaii)|=|Hawaii (island)
 Hawaii Volcanoes National Park (Hawaii)|=|Hawaiʻi Volcanoes National Park
 Hawaiian women|<->|Women in Hawaii
+Hawaiians|<->|Native Hawaiians
 Hawes Shops, Battle of, Va., 1864|=|Battle of Haw's Shop
 Hawkman (Fictitious character)|=|Hawkman
 Hayden Peak (Utah)|=|Hayden Peak
@@ -4914,6 +4927,7 @@ Hedmark fylke (Norway)|=|Hedmark
 Heilbronn (Germany)|=|Heilbronn
 Heilbronn, Union of, 1633|<->|Heilbronn League
 Heiligerlee, Battle of, Netherlands, 1568|=|Battle of Heiligerlee (1568)
+Heimlich maneuver|=|Abdominal thrusts
 Heisenberg uncertainty principle|=|Uncertainty principle
 Helderberg Mountains (N.Y.)|<->|Helderberg Escarpment
 Helen of Troy (Greek mythology)|=|Helen of Troy
@@ -4953,7 +4967,7 @@ Hertfordshire (England)|=|Hertfordshire
 Hesse (Germany)|<->|Hesse
 Hesse (Germany) -- History|=|History of Hesse
 Hesse-Nassau (Germany)|=|Hesse-Nassau
-Hessian mercenaries|<->|Hessian (soldiers)
+Hessian mercenaries|<->|Hessian (soldier)
 Hexham (England)|=|Hexham
 Hexham, Battle of, Hexham, England, 1464|=|Battle of Hexham
 Hickey Plot, 1776|->|Thomas Hickey (soldier)
@@ -5055,6 +5069,7 @@ Holy Year|<->|Jubilee (Christianity)
 Holyoke, Mount (Mass.)|=|Mount Holyoke
 Holyoke Range (Mass.)|=|Holyoke Range
 Holyoke Range State Park (Mass.)|<->|Mount Holyoke Range State Park
+Home economics|<->|Family and consumer science
 Home ownership|<->|Owner-occupier
 Home schooling|=|Homeschooling
 Homelands (South Africa)|<->|Bantustan
@@ -5269,7 +5284,7 @@ Hurricanes|->|Tropical cyclone
 Husband and wife|->|Marriage
 Husbands|=|Husband
 Hutu (African people)|=|Hutu
-Huts|=|Hut (dwelling)
+Huts|=|Hut
 Hutterian Brethren|<->|Hutterite
 H.W. Wilson Company|=|H. W. Wilson Company
 Hyakutake comet|=|Comet Hyakutake
@@ -5316,8 +5331,8 @@ Ii, Naosuke, 1815-1860 -- Assassination|<->|Sakuradamon Incident (1860)
 Ikeya-Seki comet|=|Comet Ikeya–Seki
 Iliamna Volcano (Alaska)|=|Mount Iliamna
 Illegal aliens|->|Alien (law)
-Illegitimacy|<->|Legitimacy (law)
-Illegitimate children|->|Legitimacy (law)
+Illegitimacy|<->|Legitimacy (Family law)
+Illegitimate children|->|Legitimacy (Family law)
 Illinois -- History -- Civil War, 1861-1865|=|Illinois in the American Civil War
 Illinois -- History -- War of 1812|<->|Illinois Territory in the War of 1812
 Illinois -- Politics and government|<->|Politics of Illinois
@@ -5806,6 +5821,7 @@ Jewish magic|=|Practical Kabbalah
 Jewish poetry|->|Jewish literature
 Jewish sailors|->|List of Jews in sports
 Jewish women|->|Women in Judaism
+Jews -- Cultural assimilation|=|Jewish assimilation
 Jews -- Dietary laws|<->|Kashrut
 Jews -- England -- History -- Expulsion, 1290|<->|Edict of Expulsion
 Jews -- History|<->|Jewish history
@@ -5877,6 +5893,7 @@ Justice League of America (Fictitious characters)|<->|Justice League
 Justification (Christian theology)|<->|Justification (theology)
 Justification (Law)|=|Justification (jurisprudence)
 Justification (Theory of knowledge)|<->|Theory of justification
+Jute industry|<->|Jute trade
 Jutland, Battle of, 1916|=|Battle of Jutland
 Juvenile courts|=|Juvenile court
 Juvenile delinquents|->|Juvenile delinquency
@@ -5894,7 +5911,7 @@ Kai Lung (Fictitious character)|=|Kai Lung
 K&amacr;l&imacr; (Hindu deity)|=|Kali
 Kalinga, Battle of, India, 260 B.C.|<->|Kalinga War
 Kalispel Indians|=|Pend d'Oreilles
-Kalispel language|=|Montana Salish language
+Kalispel language|=|Salish-Spokane-Kalispel language
 Kalisz (Poland)|=|Kalisz
 Kalka River, Battle of, Ukraine, 1223|=|Battle of the Kalka River
 Kalmar, Union of, 1397|<->|Kalmar Union
@@ -6283,7 +6300,7 @@ Law schools|=|Law school
 Law in literature|->|Law and literature
 Law libraries|=|Law library
 Lawrence Berkeley Laboratory|->|Lawrence Berkeley National Laboratory
-Lawrence Massacre, Lawrence, Kan., 1863|=|Lawrence Massacre
+Lawrence Massacre, Lawrence, Kan., 1863|=|Lawrence massacre
 Law reviews|=|Law review
 Lawyers|=|Lawyer
 Lays|->|Poetry
@@ -6710,6 +6727,7 @@ Maintenance|<->|Maintenance, repair, and operations
 Mainz (Rhineland-Palatinate, Germany)|=|Mainz
 Mainz (Rhineland-Palatinate, Germany) -- History -- Siege, 1793|=|Siege of Mainz (1793)
 Maip&uacute;, Battle of, Chile, 1818|=|Battle of Maipú
+Maiwand, Battle of, De Maywand K&amacr;r&imacr;z, Afghanistan, 1880|=|Battle of Maiwand
 Majorca (Spain)|=|Majorca
 Makin Atoll, Battle of, Kiribati, 1943|=|Battle of Makin
 Malabar Coast (India)|=|Malabar Coast
@@ -6755,6 +6773,9 @@ Mandan Indians|=|Mandan
 Mandarin dialects|<->|Mandarin Chinese
 Mandates|=|League of Nations mandate
 Mandingo (African people)|=|Mandinka people
+Mangrove forests|->|Mangrove
+Mangrove plants|<->|Mangrove
+Mangrove swamps|->|Mangrove
 Manhattan (New York, N.Y.)|=|Manhattan
 Manhattan Project (U.S.)|=|Manhattan Project
 Manic-depressive illness|<->|Bipolar disorder
@@ -7045,7 +7066,7 @@ Mesa Verde National Park (Colo.)|=|Mesa Verde National Park
 Mesabi Range (Minn.)|=|Mesabi Range
 Mesmerism|->|Animal magnetism
 Mesolithic period|=|Mesolithic
-Mesolongion (Greece)|=|Missolonghi
+Mesolongion (Greece)|=|Messolonghi
 Mesolongion (Greece) -- History -- Siege, 1825-1826|=|Third Siege of Missolonghi
 Messengers|=|Messenger
 Mestas, Mount (Colo.)|=|Mount Mestas
@@ -7569,7 +7590,8 @@ Narnia (Imaginary place) -- Juvenile fiction|<->|The Chronicles of Narnia
 Narragansett Indians|=|Narragansett people
 Narva (Estonia)|=|Narva
 Narva, Battle of, Narva, Estonia, 1700|=|Battle of Narva (1700)
-NASA Dryden Flight Research Center|<->|Neil A. Armstrong Flight Research Center
+NASA Neil A. Armstrong Flight Research Center|<->|Armstrong Flight Research Center
+NASA Dryden Flight Research Center|->|Armstrong Flight Research Center
 Naseby, Battle of, Naseby, England, 1645|=|Battle of Naseby
 Nashville (Tenn.) -- History|=|History of Nashville, Tennessee
 Nashville, Battle of, Nashville, Tenn., 1864|=|Battle of Nashville
@@ -7581,6 +7603,7 @@ Natchez Indians -- Wars, 1729|=|Natchez revolt
 Natchez Trace National Scenic Trail|=|Natchez Trace Trail
 Nation-state|=|Nation state
 National Academy of Public Administration|<->|National Academy of Public Administration (United States)
+National cemeteries|<->|List of national cemeteries
 National cemeteries -- United States|=|United States national cemetery
 National Commission on Terrorist Attacks upon the United States|=|9/11 Commission
 National Council of the Churches of Christ in the United States of America|=|National Council of Churches
@@ -7716,6 +7739,7 @@ Nepal -- Politics and government|<->|Politics of Nepal
 Nepal -- Politics and government|<-|Government of Nepal
 Nepalese War, 1814-1816|=|Anglo-Nepalese War
 Nephews|->|Nephew and niece
+Nepoviruses|=|Nepovirus
 Neptune (Planet)|=|Neptune
 Neptune (Planet) -- Satellites|=|Moons of Neptune
 Nera River (Italy)|=|Nera (Italy)
@@ -8051,6 +8075,7 @@ Nuts|=|Nut
 Nyoro (African people)|=|Nyoro people
 O'Hara, Scarlett (Fictitious character)|=|Scarlett O'Hara
 Oahu (Hawaii)|=|Oahu
+Oak processionary moth|=|Oak processionary
 Oakland (Pittsburgh, Pa.)|=|Oakland (Pittsburgh)
 Oakland Athletics (Baseball team)|=|Oakland Athletics
 Oakland Raiders (Football team)|=|Oakland Raiders
@@ -8938,6 +8963,7 @@ PostScript (Computer program language)|=|PostScript
 Postsecondary education|->|Higher education
 Post-traumatic stress disorder|=|Posttraumatic stress disorder
 Potatoes|=|Potato
+Potchefstroom (South Africa)|=|Potchefstroom
 Potos&iacute; (Bolivia)|=|Potosí
 Potos&iacute; (Bolivia : Department)|=|Potosí Department
 Potawatomi Indians|=|Potawatomi
@@ -9071,6 +9097,7 @@ Prester John (Legendary character)|=|Prester John
 Preston (Lancashire, England)|=|Preston, Lancashire
 Preston, Battle of, Preston, Lancashire, England, 1648|=|Battle of Preston (1648)
 Prestonpans, Battle of, Prestonpans, Scotland, 1745|=|Battle of Prestonpans
+Pretoria (South Africa)|=|Pretoria
 Preventive health services|<->|Preventive healthcare
 Priapus (Greek deity)|=|Priapus
 Pribilof Islands (Alaska)|=|Pribilof Islands
@@ -9271,6 +9298,7 @@ Quail Mountains (Calif.)|=|Quail Mountains
 Quails|=|Quail
 Quadrille (Dance)|<->|Quadrille
 Quadrille (Horsemanship)|=|Quadrille (dressage)
+Quantum computers|<->|Quantum computing
 Quantum statistics|->|Particle statistics
 Quapaw Indians|=|Quapaw
 Quartz crystals|->|Quartz
@@ -10223,7 +10251,7 @@ Serpents|=|Serpent
 Service industries|=|Tertiary sector of the economy
 Service learning|=|Service-learning
 Service-oriented architecture (Computer science)|=|Service-oriented architecture
-Servlets|<->|Java Servlet
+Servlets|<->|Java servlet
 Servomechanisms|=|Servomechanism
 Sesame Street (Television program)|=|Sesame Street
 Setting (Literature)|=|Setting (narrative)
@@ -10263,7 +10291,7 @@ Sexual division of labor|=|Sexual division of labour
 Sexual fantasies|=|Sexual fantasy
 Sexual health|->|Reproductive health
 Sexual instinct|<->|Libido
-Sexually transmitted diseases|=|Sexually transmitted disease
+Sexually transmitted diseases|=|Sexually transmitted infection
 SGML (Document markup language)|=|Standard Generalized Markup Language
 Shaft, John (Fictitious character)|=|John Shaft
 Shah dynasty, 1768-|<->|Shah dynasty
@@ -10868,7 +10896,7 @@ St. Paul's Cathedral (London, England)|=|St Paul's Cathedral
 St. Paul's Cathedral (Melbourne, Vic.)|=|St Paul's Cathedral, Melbourne
 Staffordshire (England)|=|Staffordshire
 Stakhanov movement|=|Stakhanovite movement
-Stalkers|=|Stalker
+Stalkers|->|Stalking
 Stamford Bridge, Battle of, England, 1066|=|Battle of Stamford Bridge
 Standard deviations|=|Standard deviation
 Standard Oil Company|=|Standard Oil
@@ -11157,6 +11185,7 @@ Table Mountain (Western Cape, South Africa)|=|Table Mountain
 Table-moving (Spiritualism)|<->|Table-turning
 Tableaux|<->|Tableau
 Tables|=|Table (furniture)
+Tacna, Battle of, Peru, 1880|=|Battle of Tacna
 Taconic Range|=|Taconic Mountains
 Tactics|=|Tactic
 Taensa Indians|=|Taensa
@@ -11209,6 +11238,7 @@ Tantric Buddhism|=|Vajrayana
 Tanzania -- Politics and government|<->|Politics of Tanzania
 Tanzania -- Religion|=|Religion in Tanzania
 Taps and dies|=|Tap and die
+Tar (Lute)|<->|Tar (string instrument)
 Tarapac&aacute;, Battle of, Chile, 1879|=|Battle of Tarapacá
 Tarawa, Battle of, Kiribati, 1943|=|Battle of Tarawa
 Tarawera, Mount (N.Z.)|=|Mount Tarawera
@@ -11305,7 +11335,7 @@ Teton Indians|<->|Lakota people
 Teton Range (Wyo. and Idaho)|=|Teton Range
 Teutonic race|=|Nordic race
 Tewkesbury, Battle of, Tewkesbury, England, 1471|=|Battle of Tewkesbury
-Texan Santa F&eacute; Expedition, 1841|=|Texas Santa Fe Expedition
+Texan Santa F&eacute; Expedition, 1841|=|Texan Santa Fe Expedition
 Texas -- Annexation to the United States|=|Texas annexation
 Texas -- History -- Civil War, 1861-1865|=|Texas in the American Civil War
 Texas -- History -- Republic, 1836-1846|<->|Republic of Texas
@@ -11323,8 +11353,8 @@ Text processing (Computer science)|<->|Text processing
 Textbooks|=|Textbook
 Textile fabrics|<->|Textile
 Textile machinery|<->|Textile manufacturing
-Textile Workers' Strike, Lawrence, Mass., 1912|=|1912 Lawrence Textile Strike
-Textile Workers' Strike, Passaic, N.J., 1926|=|1926 Passaic Textile Strike
+Textile Workers' Strike, Lawrence, Mass., 1912|=|1912 Lawrence textile strike
+Textile Workers' Strike, Passaic, N.J., 1926|=|1926 Passaic textile strike
 Textured soy proteins|<->|Textured vegetable protein
 Thailand -- Politics and government|<->|Politics of Thailand
 Thames, Battle of the, Ont., 1813|=|Battle of the Thames
@@ -11568,6 +11598,7 @@ Trenton, Battle of, Trenton, N.J., 1776|=|Battle of Trenton
 Trevilian Station, Battle of, Va., 1864|=|Battle of Trevilian Station
 Triads (Sociology)|<->|Triad (sociology)
 Trials|=|Trial
+Trials (Witchcraft)|->|Witch-hunt
 Triangle (Musical instrument)|=|Triangle (instrument)
 Triangle Shirtwaist Company|<->|Triangle Shirtwaist Factory fire
 Triangles (Interpersonal relations)|<->|Love triangle
@@ -11605,7 +11636,7 @@ Trout fishing|->|Trout
 Troy (Extinct city)|=|Troy
 Troyes, Treaty of, 1420|=|Treaty of Troyes
 TRP channels|=|Transient receptor potential channel
-Truck Drivers' Strike, Minneapolis, Minn., 1934|=|Minneapolis Teamsters Strike of 1934
+Truck Drivers' Strike, Minneapolis, Minn., 1934|<->|Minneapolis general strike of 1934
 Truck farming|<->|Market garden
 Truckee River (Calif. and Nev.)|=|Truckee River
 Trucks|=|Truck
@@ -11724,6 +11755,7 @@ Ukraine -- History -- Famine, 1932-1933|<->|Holodomor
 Ukraine -- History -- Revolution, 1917-1921|=|Ukrainian War of Independence
 Ukraine -- History -- Uprising, 1768|<->|Koliyivshchyna
 Ukrainian poetry|->|Ukrainian literature
+Ulcinj (Montenegro)|=|Ulcinj
 Ulm (Germany)|=|Ulm
 Ulm (Germany) -- History -- Capitulation, 1805|<->|Battle of Ulm
 Ulm, Truce of, 1647|=|Truce of Ulm (1647)
@@ -11917,7 +11949,8 @@ United States. Fugitive slave law (1793)|=|Fugitive Slave Act of 1793
 United States. Fugitive slave law (1850)|=|Fugitive Slave Act of 1850
 United States -- Geography|=|Geography of the United States
 United States. Goldwater-Nichols Department of Defense Reorganization Act of 1986|=|Goldwater–Nichols Act
-United States. Government Printing Office|=|United States Government Printing Office
+United States. Government Printing Office|->|United States Government Publishing Office
+United States. Government Publishing Office|=|United States Government Publishing Office
 United States Highway 113 (Del. and Md.)|=|U.S. Route 113
 United States Highway 177 (Okla. and Kan.)|=|U.S. Route 177
 United States Highway 195 (Idaho and Wash.)|=|U.S. Route 195
@@ -12459,6 +12492,7 @@ Welland (Ont.)|=|Welland
 Welland Canal (Ont.)|=|Welland Canal
 Wellcome Trust (London, England)|=|Wellcome Trust
 Welsh Americans|=|Welsh American
+Welsh Black cattle|=|Welsh Black
 Welsh Borders (England and Wales)|<->|Welsh Marches
 Welsh language -- Middle Welsh, 1100-1400|<->|Middle Welsh
 Welsh language -- To 1100|<->|Old Welsh
@@ -12490,6 +12524,7 @@ West Virginia -- History -- Civil War, 1861-1865|=|West Virginia in the American
 Western Australia -- Politics and government|<->|Politics of Western Australia
 Western Australia -- Politics and government|<-|Government of Western Australia
 Western Canada Sedimentary Basin|=|Western Canadian Sedimentary Basin
+Western Dvina River|=|Daugava (river)
 Western Morava River (Serbia)|=|West Morava
 Western Sahara -- Politics and government|<->|Politics of Western Sahara
 Westinghouse Electric Corporation|<->|Westinghouse Electric (1886)
@@ -12566,7 +12601,7 @@ William Howard Taft National Historic Site (Cincinnati, Ohio)|=|William Howard T
 Williamsburg (New York, N.Y.)|=|Williamsburg, Brooklyn
 Williamsburg, Battle of, Williamsburg, Va., 1862|=|Battle of Williamsburg
 Williamsburg (Va.) -- History|=|History of Williamsburg, Virginia
-Wilmington Race Riot, Wilmington, N.C., 1898|<->|Wilmington Insurrection of 1898
+Wilmington Race Riot, Wilmington, N.C., 1898|<->|Wilmington insurrection of 1898
 Wilson, Mount (Calif. : Mountain)|=|Mount Wilson (California)
 Wilson's Cavalry Raid, 1865|=|Wilson's Raid
 Wilson's Creek, Battle of, Mo., 1861|=|Battle of Wilson's Creek
@@ -12604,6 +12639,7 @@ Wiseman Massacre, Neb., 1863|=|Wiseman Massacre
 Wishes|=|Wish
 Wissahickon Creek (Pa.)|=|Wissahickon Creek
 Wissembourg, Battle of, Wissembourg, France, 1870|=|Battle of Wissembourg (1870)
+Witch hunting|<->|Witch-hunt
 Witches|->|Witchcraft
 Witnesses|=|Witness
 Wittstock, Battle of, Germany, 1636|=|Battle of Wittstock
@@ -12646,6 +12682,7 @@ Women slaves|->|Slavery
 Women soldiers|<->|Women in the military
 Women's Christian Temperance Union|=|Woman's Christian Temperance Union
 Women's clothing|->|Clothing
+Women's police stations|=|Women's police station
 Wonder Woman (Fictitious character)|=|Wonder Woman
 Wonka, Willy (Fictitious character)|=|Willy Wonka
 Wood-engraving|=|Wood engraving
@@ -12780,6 +12817,8 @@ Year 2000 date conversion (Computer systems)|=|Year 2000 problem
 Yellow dog contract|=|Yellow-dog contract
 Yellow River (China)|=|Yellow River
 Yemen (Republic)|<->|Yemen
+Yeniche|=|Yenish people
+Yeniche language|=|Yenish language
 Yerba Buena Island (Calif.)|=|Yerba Buena Island
 Yezidis|=|Yazidis
 Yggdrasil (Norse mythology)|=|Yggdrasil
