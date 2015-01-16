@@ -2054,12 +2054,26 @@ CATTYPE evergreen-dynamic
 BASEURL http://booth.biblio.org/eg/opac
 LCODE 67
 
+ID OCLC-GKV
+NAME Danbury Library
+LOCATION Danbury
+STATE CT
+BASEURL http://cat.danburylibrary.org
+CATTYPE innopac
+
 ID OCLC-FEM
 NAME The Ferguson Library
 LOCATION Stamford
 STATE CT
 CATTYPE encore
 BASEURL http://catalogfergusonlibrary.iii.com/iii/encore
+
+ID OCLC-GRN
+NAME Greenwich Library
+LOCATION Greenwich
+STATE CT
+BASEURL http://greenwichlibrary.bibliocommons.com
+CATTYPE bibliocommons
 
 ID OCLC-HPJ
 NAME Hartford Public Library
@@ -2082,6 +2096,13 @@ LOCATION New Haven
 STATE CT
 BASEURL http://encore.nhfpl.org/iii/encore
 CATTYPE encore
+
+ID OCLC-NWK
+NAME Norwalk Public Library System
+LOCATION Norwalk
+STATE CT
+BASEURL http://catalog.norwalklib.org
+CATTYPE innopac
 
 ID OCLC-GWB
 NAME Silas Bronson Library
