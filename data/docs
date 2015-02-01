@@ -39,6 +39,24 @@ Identifiers without any hyphens are not ISIL identifiers, but were
 coined by me for library systems that didn't appear to have ISIL identifiers
 at the time I added them to the database.
 
+WCRID
+
+In the libraries file, this gives the numeric WorldCat Registry ID used
+for the library in question.  We don't normally use this field
+except when a library does not have an OCLC- ID or has one with special
+punctuation in it (which makes searching on the OCLC ID difficult),
+or has most of its WorldCat registry information in a record not associated
+with its OCLC- ID.
+
+This field is not necessary for basic Forward to Libraries functionality.
+but can be useful for other applications that want to retrieve other
+information on the library, such as URLs and geolocation, from its
+WorldCat Registry entry.   (Note that any library is eligible to create
+and maintain a free WorldCat Registry entry, regardless of
+whether they are OCLC members or WorldCat subscribers.  See 
+http://www.worldcat.org/registry/Institutions for details.)
+
+
 CATTYPE 
 
 In the cattype file, CATTYPE gives the identifier for a catalog type record.

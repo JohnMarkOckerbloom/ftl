@@ -377,6 +377,7 @@ CATTYPE bibliocommons
 BASEURL http://virl.bibliocommons.com
 
 ID OCLC-VP@
+WCRID 67108
 NAME Vancouver Public Library
 LOCATION Vancouver
 PROVINCE BC
@@ -440,6 +441,7 @@ AINDEX PZAUTH
 TINDEX PALLTI
 
 ID OCLC-N@Y
+WCRID 56553
 NAME Northwest Territories Public Library Services
 LOCATION Public libraries across the NWT
 PROVINCE NT
@@ -852,6 +854,7 @@ LOC adaptor,scope:%28UBL_SFX%29%2Cscope%3A%28UBL_METALIB%29%2Cscope%3A%28UBL_DTL
 
 # ID a bit arbitrary here (for Infoserve service)
 ID OCLC-NZ@
+WCRID 110928
 NAME New Zealand Libraries' Catalogue
 LOCATION Union catalog of 280 libraries nationwide
 COUNTRY NZ
@@ -859,6 +862,7 @@ CATTYPE voyager-vwebv
 BASEURL http://nzlc.natlib.govt.nz/vwebv/search
 
 ID OCLC-D@A
+WCRID 87768
 NAME VCUQatar
 LOCATION Doha
 COUNTRY QA
@@ -894,7 +898,7 @@ COUNTRY SG
 CATTYPE summon
 BASEURL http://nus.summon.serialssolutions.com
 
-ID OCLC-MG-DOLLAR
+ID OCLC-SISIM
 NAME Singapore Institute of Management
 LOCATION Singapore
 COUNTRY SG
@@ -936,6 +940,7 @@ CATTYPE sirsi
 BASEURL http://esal.unizulu.ac.za/uhtbin/cgisirsi
 
 ID OCLC-X-DOLLAR-@
+WCRID 69093
 NAME National Library of South Africa
 LOCATION Pretoria
 COUNTRY ZA
@@ -944,6 +949,7 @@ BASEURL http://www.legaldeposit.ac.za
 LCODE 7
 
 ID OCLC-OE-DOLLAR
+WCRID 70111
 NAME University of Limpopo Libraries
 LOCATION Turfloop and Medunsa
 COUNTRY ZA
@@ -960,6 +966,7 @@ CATTYPE encore
 BASEURL http://encore.unisa.ac.za/iii/encore
 
 ID OCLC-OG-SHARP
+WCRID 87534
 NAME University of the Witwatersrand (Wits)
 LOCATION Johannesburg
 COUNTRY ZA
@@ -967,6 +974,7 @@ BASEURL http://wits.worldcat.org/search
 CATTYPE worldcat
 
 ID OCLC-OM@
+WCRID 58798
 NAME Walter Sisulu University
 LOCATION Mthatha and other campuses
 COUNTRY ZA
@@ -1007,6 +1015,7 @@ FILTERS S
 
 # SCOPE parameter here was a wild guess that worked; might be a better one 
 ID OCLC-AU-SHARP
+WCRID 40218
 NAME Anglia Ruskin University
 LOCATION Cambridge, Chelmsford, and Peterborough, England
 COUNTRY UK
@@ -1455,6 +1464,7 @@ BASEURL http://uab.worldcat.org/search
 CATTYPE worldcat
 
 ID OCLC-H-DOLLAR-A
+WCRID 5738
 NAME Alaska Medical Library
 LOCATION Anchorage and online member access
 STATE AK
@@ -1488,6 +1498,7 @@ LCODE asl
 BASEURL http://jlc-web.uaa.alaska.edu
 
 ID OCLC-X-SHARP-4
+WCRID 8064
 NAME Fairbanks North Star Borough Public Libraries
 LOCATION Fairbanks and vicinity
 STATE AK
@@ -1532,6 +1543,7 @@ BASEURL http://66.223.180.26/uhtbin/cgisirsi.exe
 CATTYPE sirsi
 
 ID OCLC-X@8
+WCRID 8119
 NAME Unalaska Public Library
 LOCATION Unalaska
 STATE AK
@@ -1690,6 +1702,7 @@ AINDEX .AW
 TINDEX ALLTITL
 
 ID OCLC-HN-SHARP
+WCRID 283
 NAME Holy Names University
 LOCATION Oakland
 STATE CA
@@ -1958,6 +1971,7 @@ CATTYPE iii-consortium-member
 LCODE 23
 
 ID OCLC-EB-DOLLAR
+WCRID 8700
 NAME Bemis Public Library
 LOCATION Littleton
 STATE CO
@@ -2010,6 +2024,7 @@ LCODE PPLD
 BASEURL http://pikp.ent.sirsi.net
 
 ID OCLC-4X-SHARP
+WCRID 8677
 NAME Poudre River Public Library District
 LOCATION Fort Collins
 STATE CO
@@ -3123,6 +3138,7 @@ CATTYPE summon
 BASEURL http://lcc.summon.serialssolutions.com
 
 ID OCLC-M7@
+WCRID 7248
 NAME Michigan eLibrary
 LOCATION Order from libraries across the state
 STATE MI
@@ -4524,6 +4540,7 @@ CATTYPE ipac20
 BASEURL http://fwl.ipac.dynixasp.com
 
 ID OCLC-HT-SHARP
+WCRID 15586
 NAME Harris County Public Library
 LOCATION Houston vicinity
 STATE TX
@@ -4822,6 +4839,7 @@ BASEURL http://ibistro.ci.richmond.va.us/uhtbin/cgisirsi
 CATTYPE sirsi
 
 ID OCLC-VA@
+WCRID 5019
 NAME University of Virginia Library
 LOCATION Charlottesville
 STATE VA

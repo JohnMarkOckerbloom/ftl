@@ -1,6 +1,7 @@
 package FTLLibraryRecord;
 use FTLConfig;
 use NetAddr::IP::Lite;
+use OLBP::Hash;
 use strict;
 
 my $libhashfile         = $FTL::IDXDIR . "libraries.hsh";
@@ -9,6 +10,21 @@ my $iprangefile         = $FTL::IDXDIR . "ipranges";
 my $idhash;
 my $rangestotry = [];
 my $gotranges   = 0;
+
+sub get_default_url {
+  my ($self) = @_;
+  my $url = $self->{BASEURL};
+  if ($self->{DEFAULT}) {
+    $url = $self->{DEFAULT};
+    if ($self->{DEFAULT} =~ /DOMAIN/) {
+      $url = $self->{BASEURL};
+      if ($url =~ m!(^[a-z]*://[^/]*/)!) {
+        $url = $1;
+      }
+    }
+  }
+  return $url;
+}
 
 # note that this is not validating hash keys; it assumes the
 # strings we parse are under our control
@@ -31,11 +47,10 @@ sub _init_from_string {
 
 sub _init_from_id {
   my ($self, $libid) = @_;
-  my $rec;
   return undef if (!$libid);
   if (!$idhash) {
     $idhash = new OLBP::Hash(name=>"libhash",
-                            filename=>$libhashfile, cache=>1);
+                            filename=>$self->{hashfile}, cache=>1);
   }
   my $str = $idhash->get_value(key=>$libid);
   if ($str) {
@@ -44,7 +59,6 @@ sub _init_from_id {
   if ($self && !$self->{ID}) {
     $self->{ID} = $libid;
   }
-  return $rec;
 }
 
 sub _get_ranges {
@@ -84,6 +98,10 @@ sub _init_from_ip {
 
 sub _initialize {
   my ($self, %params) = @_;
+  $self->{hashfile} = $libhashfile;
+  if ($params{hashfile}) {
+    $self->{hashfile} = $params{hashfile};
+  }
   if ($params{id}) {
     $self->_init_from_id($params{id});
   } elsif ($params{ip}) {
@@ -104,6 +122,15 @@ sub address { return shift->{ADDRESS}; }
 sub homepage { return shift->{HOMEPAGE}; }
 sub reference { return shift->{VREF}; }
 sub number_of_branches { return shift->{BRANCHES}; }
+
+sub worldcat_registry_id { return shift->{WCRID}; }
+
+sub location { return shift->{LOCATION}; }
+sub country { return shift->{COUNTRY}; }
+sub state { return shift->{STATE}; }
+sub province { return shift->{PROVINCE}; }
+
+sub forwarder { return shift->{FORWARDER}; }
 
 sub geocoords {
   my ($self) = @_;
