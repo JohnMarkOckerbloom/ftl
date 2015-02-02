@@ -4013,6 +4013,21 @@ STATE OK
 CATTYPE bibliocommons
 BASEURL http://tccl.bibliocommons.com
 
+ID OCLC-ABY
+NAME Albany Public Library
+LOCATION Albany
+STATE OR
+BASEURL http://libweb.cityofalbany.net/eg/opac
+CATTYPE evergreen-dynamic
+LCODE 2
+
+ID OCLC-DCH
+NAME Deschutes Public Library
+LOCATION Bend and Deschutes County
+STATE OR
+BASEURL http://catalog.dpls.lib.or.us
+CATTYPE innopac
+
 ID OCLC-OEL
 NAME Eugene Public Library
 LOCATION Eugene
@@ -4026,6 +4041,13 @@ LOCATION Newberg
 STATE OR
 BASEURL http://catalog.georgefox.edu
 CATTYPE innopac
+
+ID OCLC-JCL
+NAME Jackson County Library Services
+LOCATION Medford, Ashland and vicinity
+STATE OR
+BASEURL http://jclsrcc.librarycatalog.info/polaris
+CATTYPE polaris
 
 ID OCLC-LIQ
 NAME LINCC: Libraries in Clackamas County
