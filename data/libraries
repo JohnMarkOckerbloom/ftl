@@ -2613,6 +2613,28 @@ CATTYPE apollo
 BASEURL http://bondurant.biblionix.com/
 FILTERS S
 
+ID OCLC-KAY
+NAME Carnegie-Stout Public Library
+LOCATION Dubuque
+STATE IA
+BASEURL https://catalog.dubuque.lib.ia.us
+CATTYPE koha
+
+ID OCLC-IWR
+NAME Cedar Rapids Public Library
+LOCATION Cedar Rapids
+STATE IA
+CATTYPE sirsient
+LCODE crpl
+BASEURL http://crpl.ent.sirsi.net
+
+ID OCLC-IOS
+NAME Davenport Public Library
+LOCATION Davenport
+STATE IA
+BASEURL http://rivershare.polarislibrary.com
+CATTYPE polaris
+
 ID OCLC-IWA
 NAME Iowa State University
 LOCATION Ames
@@ -2622,6 +2644,14 @@ BASEURL http://mars.lib.iastate.edu:1701
 VID ISU0
 LCODE ISU
 LOC adaptor,scope:(ISU),primo_central_multiple_fe
+
+ID OCLC-IM9
+NAME Marion Public Library
+LOCATION Marion
+STATE IA
+CATTYPE sirsient
+LCODE mpl
+BASEURL http://crpl.ent.sirsi.net
 
 ID OCLC-UK0
 NAME University of Iowa Libraries
