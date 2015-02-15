@@ -2944,8 +2944,9 @@ ID OCLC-MDB
 NAME Enoch Pratt Free Library
 LOCATION Baltimore
 STATE MD
-BASEURL http://pac.epfl.net/uhtbin/cgisirsi
-CATTYPE sirsi
+BASEURL http://catalog.prattlibrary.org
+CATTYPE sirsient
+LCODE en_US/default
 
 ID OCLC-HRF
 NAME Harford County Public Library
