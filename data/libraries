@@ -2925,12 +2925,42 @@ CATTYPE iii-consortium-member
 IPRANGE 208.233.33.0/24
 LCODE 43
 
+ID OCLC-B@L
+WCRID 11441
+NAME Baltimore County Public Library
+LOCATION Baltimore suburbs
+STATE MD
+BASEURL http://catalog.bcpl.lib.md.us/polaris
+CATTYPE polaris
+
+ID OCLC-CCPBT
+NAME Cecil County Public Library
+LOCATION Cecil County
+STATE MD
+CATTYPE sirsient
+BASEURL http://ceco.ent.sirsi.net
+
 ID OCLC-MDB
 NAME Enoch Pratt Free Library
 LOCATION Baltimore
 STATE MD
 BASEURL http://pac.epfl.net/uhtbin/cgisirsi
 CATTYPE sirsi
+
+ID OCLC-HRF
+NAME Harford County Public Library
+LOCATION Harford County
+STATE MD
+BASEURL http://library.hcplonline.org/polaris
+CATTYPE polaris
+
+ID OCLC-HO$
+WCRID 11450
+NAME Howard County Library System
+LOCATION Howard County
+STATE MD
+BASEURL http://polaris.hclibrary.org/polaris
+CATTYPE polaris
 
 ID OCLC-JHE
 NAME Johns Hopkins Libraries
@@ -2968,6 +2998,14 @@ LOCATION College Park
 STATE MD
 BASEURL http://umaryland.worldcat.org/search
 CATTYPE worldcat
+
+ID OCLC-RT9
+NAME Worcester County Library
+LOCATION Ocean City and vicinity
+STATE MD
+BASEURL http://heron.wico.lib.md.us
+CATTYPE iii-consortium-member
+LCODE 3
 
 ID OCLC-BXM
 NAME Boston College
