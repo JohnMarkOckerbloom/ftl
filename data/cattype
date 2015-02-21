@@ -372,6 +372,7 @@ TITURL ${BASEURL}/search?q=TitleCombined:(${ARG})
 ATIURL ${BASEURL}/search?q=AuthorCombined:(${AUTHOR})+AND+TitleCombined:(${TITLE})
 KEYURL ${BASEURL}/search?q=${ARG}
 
+# for TLC libraries where this doesn't work, try ls2pac or ls2pac-config
 CATTYPE tlc
 BRANCH ,1,
 SUBURL ${BASEURL}TLCScripts/interpac.dll?Search&Config=${LCODE}&FormId=0&Branch=${BRANCH}&StartIndex=0&SearchField=4&SearchType=1&SearchData=${ARG:NK}

@@ -8,8 +8,8 @@
 #   or lexical analysis (such as many geographical locations)
 #   are not included in this file.
 # See docs file for documentation
-# Last updated 2015-02-17
-# LCSH event sweep left off at 1914 (still need to complete WWI subtopics)
+# Last updated 2015-02-21
+# LCSH event sweep left off at 1914 (need to complete WWI E-Z subtopics)
 #
 24 Heures du Mans (Automobile race)|=|24 Hours of Le Mans
 3-D films|=|3D film
@@ -567,6 +567,7 @@ Aquatic insects|=|Aquatic insect
 AR-15 rifle|=|AR-15
 Arab countries|=|Arab states
 Arab countries -- History -- Arab Revolt, 1916-1918|=|Arab Revolt
+Arab Spring, 2010-|=|Arab Spring
 Arabesque (Ballet)|=|Arabesque (ballet position)
 Aracaju (Brazil)|=|Aracaju
 Aragon (Spain)|=|Aragon
@@ -1749,11 +1750,15 @@ Burgoyne's Invasion, 1777|->|Saratoga campaign
 Buriats|=|Buryats
 Burlesques|<->|Burlesque
 Burley tobacco|=|Burley (tobacco)
+Burma -- History -- 1824-1948|<->|British rule in Burma
+Burma -- History -- 1948-1962|=|Post-independence Burma, 1948–62
 Burma -- History -- Ava kingdom, 1364-1527|<->|Ava Kingdom
+Burma -- History -- Japanese occupation, 1942-1945|=|Japanese occupation of Burma
 Burma -- History -- Konbaung dynasty, 1752-1885|<->|Konbaung Dynasty
 Burma -- History -- Pagan period, 849-1287|<->|Pagan Kingdom
 Burma -- History -- Toungoo dynasty, 1486-1752|<->|Taungoo Dynasty
 Burma -- Politics and government|<->|Politics of Burma
+Burma -- Politics and government -- 1962-1988|<->|Burmese Way to Socialism
 Burma-Shave signs|<->|Burma-Shave
 Burnaby (B.C.)|=|Burnaby
 Burns and scalds|<->|Burn
@@ -4052,6 +4057,7 @@ Fines (Penalties)|=|Fine (penalty)
 Finger Lakes (N.Y.)|=|Finger Lakes
 Fingerprints|=|Fingerprint
 Fingers|=|Finger
+Finland -- History -- Civil War, 1918|=|Finnish Civil War
 Finland -- History -- Club War, 1596-1597|=|Cudgel War
 Finn, Huckleberry (Fictitious character)|=|Huckleberry Finn
 Finnmark fylke (Norway)|=|Finnmark
@@ -5220,6 +5226,13 @@ Holmes, Mycroft (Fictitious character)|=|Mycroft Holmes
 Holmes, Sherlock|=|Sherlock Holmes
 Holmes comet|=|Comet Holmes
 Holocaust, Jewish (1939-1945)|=|The Holocaust
+Holocaust, Jewish (1939-1945) -- Belarus|=|The Holocaust in Belarus
+Holocaust, Jewish (1939-1945) -- Belgium|=|The Holocaust in Belgium
+Holocaust, Jewish (1939-1945) -- France|=|The Holocaust in France
+Holocaust, Jewish (1939-1945) -- Lithuania|=|The Holocaust in Lithuania
+Holocaust, Jewish (1939-1945) -- Poland|=|The Holocaust in Poland
+Holocaust, Jewish (1939-1945) -- Poland -- Jedwabne|<->|Jedwabne pogrom
+Holocaust, Jewish (1939-1945) -- Ukraine|=|The Holocaust in Ukraine
 Holocaust survivors|<->|List of Holocaust survivors
 Holomorphic functions|=|Holomorphic function
 Holy Cross, Mount of the (Colo.)|=|Mount of the Holy Cross
@@ -5368,6 +5381,7 @@ Humbug Mountain (Or.)|=|Humbug Mountain
 Humification|->|Humus
 Hundred Years' War, 1339-1453|<->|Hundred Years' War
 Hungarian Americans|=|Hungarian American
+Hungary -- Foreign relations|=|Foreign relations of Hungary
 Hungary -- History -- Mongol Invasion, 1241-1242|->|Mongol invasion of Europe
 Hungary -- History -- Mongol Invasion, 1241-1242|<-|Battle of Mohi
 Hungary -- History -- R&aacute;k&oacute;czi Uprising, 1703-1711|=|Rákóczi's War of Independence
@@ -5568,6 +5582,7 @@ India -- Politics and government|<-|Government of India
 India -- Religion|=|Religion in India
 India, South|=|South India
 Indian arts|=|Indian art
+Indian code talkers|<->|Code talker
 Indian dance|->|Native American music
 Indian Island (Calif.)|=|Indian Island (Humboldt Bay)
 Indian Island Massacre, Calif., 1860|=|1860 Wiyot massacre
@@ -5843,6 +5858,9 @@ Isles of Shoals (Me. and N.H.)|=|Isles of Shoals
 ISO 3166 Standard|=|ISO 3166
 ISO 9000 Series Standards|=|ISO 9000
 Isolating mechanisms|=|Reproductive isolation
+Isonzo, 6th Battle of the, Italy, 1916|=|Sixth Battle of the Isonzo
+Isonzo, Battles of the, 1915-1917|<->|Battles of the Isonzo
+Isonzo River (Slovenia and Italy)|=|Soča
 Isotopes|=|Isotope
 Israel -- Politics and government|<->|Politics of Israel
 Israel -- Politics and government|<-|Israeli system of government
@@ -6525,6 +6543,9 @@ Latin language -- Church Latin|<->|Ecclesiastical Latin
 Latin language, Preclassical to ca. 100 B.C.|<->|Old Latin
 Latin letters|->|Letter (message)
 Latouche Island (Alaska)|=|Latouche Island
+Latvia -- History -- German occupation, 1941-1944|=|German occupation of Latvia during World War II
+Latvia -- History -- Soviet occupation, 1940-1941|<->|Soviet occupation of Latvia in 1940
+Latvia -- History -- War of Independence, 1918-1920|=|Latvian War of Independence
 Lau language|<->|Lau language (Malaita)
 Lau language|<-|Lauan language
 Launch vehicles (Astronautics)|=|Launch vehicle
@@ -6657,6 +6678,7 @@ Liberty of conscience|<->|Freedom of thought
 Liberty Party (U.S. : 1840-1848)|=|Liberty Party (United States, 1840)
 Librarians|=|Librarian
 Libraries|=|Library
+Libraries -- Fiction|<->|Libraries in fiction
 Libraries -- Publishing|<->|Library publishing
 Library administration|<->|Library management
 Library catalogs|=|Library catalog
@@ -9088,6 +9110,7 @@ Pinnacle Peak (Maricopa County, Ariz.)|=|Pinnacle Peak (Arizona)
 Pinnipedia|=|Pinniped
 Pinocchio (Fictitious character)|=|Pinocchio
 Pi&ntilde;on Range (Elko County, Nev.)|=|Pinon Range
+Pinsk (Belarus)|=|Pinsk
 Pinto Mountains (Calif.)|=|Pinto Mountains
 Pioneers|=|Pioneer
 Pipe Spring National Monument (Ariz.)|=|Pipe Spring National Monument
@@ -9454,6 +9477,7 @@ Printers' marks|=|Printer's mark
 Printers|=|Printer (publishing)
 Printing industry|->|Printing
 Printing ink|->|Ink
+Pripet Marshes (Belarus and Ukraine)|=|Pinsk Marshes
 Prison gangs|=|Prison gang
 Prison libraries|=|Prison library
 Prisoners|=|Prisoner
@@ -9951,6 +9975,7 @@ Riemannian manifolds|=|Riemannian manifold
 Rif Revolt, 1921-1926|<->|Rif Republic
 Rifles|=|Rifle
 R&imacr;ga (Latvia)|=|Riga
+Riga, Gulf of (Latvia and Estonia)|=|Gulf of Riga
 Right of property|->|Property
 Righteous Gentiles in the Holocaust|<->|Righteous Among the Nations
 Rin-Tin-Tin (Dog)|=|Rin Tin Tin
@@ -10036,6 +10061,7 @@ Roman provinces|=|Roman province
 Romans|<->|Roman
 Rome|=|Ancient Rome
 Rome|<-|Roman Empire
+Rome -- Fiction|<->|Fiction set in the Roman Empire
 Rome -- History -- Civil War, 49-45 B.C.|=|Caesar's Civil War
 Rome -- History -- Constantines, 306-363|<->|Constantinian dynasty
 Rome -- History -- Empire, 284-476|<->|Western Roman Empire
@@ -10162,6 +10188,7 @@ Rye House Plot, 1683|=|Rye House Plot
 's Hertogenbosch (Netherlands) -- History -- Siege, 1629|=|Siege of 's-Hertogenbosch
 Saar River (France and Germany)|=|Saar (river)
 Saarbr&uuml;cken (Germany)|=|Saarbrücken
+Saaremaa Island (Estonia)|=|Saaremaa
 Saarland (Germany)|=|Saarland
 &Scaron;abac (Serbia)|=|Šabac
 Sabah dynasty, 1752-|<->|House of Sabah
@@ -11820,6 +11847,8 @@ Tigger (Fictitious character)|=|Tigger
 Tigris River|=|Tigris
 Tilsit, Treaty of, 1807|<->|Treaties of Tilsit
 Time-series analysis|<->|Time series
+Time travel -- Fiction|<->|List of time travel science fiction
+Time travel in literature|<->|Time travel in fiction
 Timi&scedil;oara (Romania)|=|Timișoara
 Timi&scedil;oara (Romania) -- History|=|History of Timișoara
 Timon of Athens (Legendary character)|<->|Timon of Athens (person)
@@ -13138,27 +13167,42 @@ World citizenship|=|Global citizenship
 World Trade Center (New York, N.Y.)|=|World Trade Center
 World War, 1914-1918|=|World War I
 World War, 1914-1918 -- Aerial operations|<->|Aviation in World War I
+World War, 1914-1918 -- Albania|<->|Albania during World War I
+World War, 1914-1918 -- Australia|<->|Military history of Australia during World War I
 World War, 1914-1918 -- Belgium|<->|Belgium in World War I
+World War, 1914-1918 -- Bibliography|<->|Bibliography of World War I
 World War, 1914-1918 -- Blockades -- Germany|=|Blockade of Germany
 World War, 1914-1918 -- Bulgaria|<->|Bulgaria during World War I
+World War, 1914-1918 -- Campaigns -- Adriatic Sea|=|Adriatic Campaign of World War I
 World War, 1914-1918 -- Campaigns -- Africa|=|African theatre of World War I
 World War, 1914-1918 -- Campaigns -- Africa, East|=|East African Campaign (World War I)
 World War, 1914-1918 -- Campaigns -- Africa, North|=|Military operations in North Africa during World War I
+World War, 1914-1918 -- Campaigns -- Angola|<->|German campaign in Angola
 World War, 1914-1918 -- Campaigns -- Balkan Peninsula|<->|Balkans Campaign (World War I)
+World War, 1914-1918 -- Campaigns -- Cameroon|<->|Kamerun Campaign
+World War, 1914-1918 -- Campaigns -- Caucasus|=|Caucasus Campaign
 World War, 1914-1918 -- Campaigns -- Eastern Front|=|Eastern Front (World War I)
+World War, 1914-1918 -- Campaigns -- Europe|<->|European theatre of World War I
+World War, 1914-1918 -- Campaigns -- Iran|<->|Persian Campaign
 World War, 1914-1918 -- Campaigns -- Iraq|<->|Mesopotamian campaign
 World War, 1914-1918 -- Campaigns -- Italy|<->|Italian Front (World War I)
 World War, 1914-1918 -- Campaigns -- Mediterranean Sea|<->|Naval warfare in the Mediterranean during World War I
 World War, 1914-1918 -- Campaigns -- Middle East|<->|Middle Eastern theatre of World War I
+World War, 1914-1918 -- Campaigns -- Montenegro|<->|Montenegrin Campaign (World War I)
+World War, 1914-1918 -- Campaigns -- Namibia|=|South-West Africa Campaign
 World War, 1914-1918 -- Campaigns -- Serbia|=|Serbian Campaign of World War I
 World War, 1914-1918 -- Campaigns -- Togo|<->|Togoland Campaign
 World War, 1914-1918 -- Campaigns -- Turkey -- Gallipoli Peninsula|=|Gallipoli Campaign
 World War, 1914-1918 -- Campaigns -- Western Front|=|Western Front (World War I)
+World War, 1914-1918 -- Canada|<->|Military history of Canada during World War I
 World War, 1914-1918 -- Casualties|=|World War I casualties
 World War, 1914-1918 -- Causes|=|Causes of World War I
+World War, 1914-1918 -- Cavalry operations|<->|Horses in World War I
 World War, 1914-1918 -- Chemical warfare|<->|Chemical weapons in World War I
+World War, 1914-1918 -- Chronology|<->|Timeline of World War I
 World War, 1914-1918 -- Cryptography|=|World War I cryptography
 World War, 1914-1918 -- Economic aspects|<->|Economic history of World War I
+World War, 1914-1918 -- Fiction|<->|Fiction based on World War I
 World War, 1914-1918 -- Germany|<->|History of Germany during World War I
 World War, 1914-1918 -- Great Britain|<->|History of the United Kingdom during World War I
 World War, 1914-1918 -- Greece|=|Greece during World War I
@@ -13175,25 +13219,37 @@ World War, 1914-1918 -- Romania|<->|Romania during World War I
 World War, 1914-1918 -- Spain|<->|Spain and World War I
 World War, 1914-1918 -- Sweden|<->|Sweden in World War I
 World War, 1914-1918 -- Technology|<->|Technology during World War I
+World War, 1914-1918 -- Ukraine|<->|Ukraine during World War I
 World War, 1914-1918 -- United States|=|United States in World War I
 World War, 1914-1918 -- Women|=|Women in World War I
 World War, 1939-1945|=|World War II
 World War, 1939-1945 -- Belgium|=|Belgium in World War II
 World War, 1939-1945 -- Campaigns|=|Campaigns of World War II
+World War, 1939-1945 -- Campaigns -- Baltic Sea|=|Baltic Sea campaigns (1939–45)
+World War, 1939-1945 -- Campaigns -- Black Sea|<->|Black Sea campaigns (1941–44)
+World War, 1939-1945 -- Campaigns -- Burma|<->|Burma Campaign
+World War, 1939-1945 -- Campaigns -- Caucasus|<->|Battle of the Caucasus
 World War, 1939-1945 -- Campaigns -- Eastern Front|=|Eastern Front (World War II)
 World War, 1939-1945 -- Campaigns -- France|<->|Military history of France during World War II
 World War, 1939-1945 -- Campaigns -- France -- Normandy|<->|Invasion of Normandy
+World War, 1939-1945 -- Campaigns -- Indian Ocean|<->|Indian Ocean in World War II
+World War, 1939-1945 -- Campaigns -- New Guinea|=|New Guinea campaign
 World War, 1939-1945 -- Campaigns -- Solomon Islands -- Guadalcanal|->|Guadalcanal Campaign
+World War, 1939-1945 -- Campaigns -- Southeast Asia|=|South-East Asian theatre of World War II
 World War, 1939-1945 -- Campaigns -- Western Front|=|Western Front (World War II)
 World War, 1939-1945 -- Canada|<->|Military history of Canada during World War II
 World War, 1939-1945 -- Causes|=|Causes of World War II
+World War, 1939-1945 -- Cavalry operations|<->|Horses in World War II
+World War, 1939-1945 -- Chronology|<->|Timeline of World War II
 World War, 1939-1945 -- Cryptography|=|World War II cryptography
 World War, 1939-1945 -- Denmark|=|Denmark in World War II
 World War, 1939-1945 -- Estonia|=|Estonia in World War II
+World War, 1939-1945 -- Fiction|<->|Fiction based on World War II
 World War, 1939-1945 -- Finland|<->|Military history of Finland during World War II
 World War, 1939-1945 -- France|<->|France during World War II
 World War, 1939-1945 -- Hungary|=|Hungary in World War II
 World War, 1939-1945 -- Iceland|=|Iceland in World War II
+World War, 1939-1945 -- India|<->|India in World War II
 World War, 1939-1945 -- Luxembourg|=|Luxembourg in World War II
 World War, 1939-1945 -- Netherlands|=|Netherlands in World War II
 World War, 1939-1945 -- Portugal|=|Portugal in World War II

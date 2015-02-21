@@ -1619,9 +1619,7 @@ ID OCLC-JQI
 NAME Butte County Library
 LOCATION Butte County
 STATE CA
-CATTYPE tlc
-LCODE pac
-BRANCH ,0,
+CATTYPE koha
 BASEURL http://library.buttecounty.net/
 
 ID OCLC-CCT
@@ -4185,6 +4183,13 @@ CATTYPE aquabrowser
 BASEURL http://catalog.berks.lib.pa.us
 SINDEX subject
 
+ID OCLC-PMC
+NAME Carnegie Mellon University
+LOCATION Pittsburgh
+STATE PA
+CATTYPE vufind
+BASEURL http://vufind.library.cmu.edu/vufind
+
 ID OCLC-PCH
 NAME Cheyney University Library
 LOCATION Cheyney
@@ -4198,6 +4203,14 @@ LOCATION Philadelphia
 STATE PA
 BASEURL http://library.ccp.edu
 CATTYPE innopac
+
+ID OCLC-PACPL
+NAME Cranberry Public Library
+LOCATION Cranberry Township, Butler County
+STATE PA
+CATTYPE ls2pac-config
+LCODE Cranberry
+BASEURL http://opac.bcfls.org/
 
 ID OCLC-HBP
 NAME Dauphin County Library System
@@ -4256,6 +4269,14 @@ STATE PA
 CATTYPE aleph1
 BASEURL http://pacscl.exlibrisgroup.com:48992
 TINDEX WTI
+
+ID OCLC-LKC
+NAME Library System of Lancaster County
+LOCATION Lancaster and vicinity
+STATE PA
+BASEURL http://catalog.lancasterlibraries.org
+CATTYPE iii-consortium-member
+LCODE 1
 
 # ID is for Norristown
 ID OCLC-MNL
