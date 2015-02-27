@@ -2474,6 +2474,20 @@ CATTYPE sirsient
 LCODE boise
 BASEURL http://lynx.ent.sirsi.net
 
+ID OCLC-ZVR
+NAME Coeur d'Alene Public Library
+LOCATION Coeur d'Alene
+STATE ID
+BASEURL http://catalog.cin.bywatersolutions.com
+CATTYPE koha
+
+ID OCLC-ZWM
+NAME Cooperative Information Network
+LOCATION 27 public and school libraries in northern Idaho and vicinity
+STATE ID
+BASEURL http://catalog.cin.bywatersolutions.com
+CATTYPE koha
+
 ID OCLC-I4F
 NAME Idaho Falls Public Library
 LOCATION Idaho Falls
@@ -2897,6 +2911,21 @@ LOCATION Lewiston
 STATE ME
 CATTYPE summon
 BASEURL http://bates.summon.serialssolutions.com
+
+ID OCLC-BBH
+NAME Bowdoin College
+LOCATION Brunswick
+STATE ME
+BASEURL http://cbbcat.net
+CATTYPE iii-consortium-member
+LCODE 19
+
+ID OCLC-CBY
+NAME Colby College
+LOCATION Waterville
+STATE ME
+CATTYPE summon
+BASEURL http://colby.summon.serialssolutions.com
 
 ID MAINECAT
 NAME MaineCat
