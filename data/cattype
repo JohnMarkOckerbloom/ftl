@@ -429,9 +429,12 @@ TITURL ${BASEURL}/List.csp?Database=${DBID}&OpacLanguage=eng&SearchMethod=Find_1
 KEYURL ${BASEURL}/List.csp?Database=${DBID}&OpacLanguage=eng&SearchMethod=Find_1&NumberToRetrieve=50&Profile=${PROFILE}&PreviousList=Start&PageType=Start&WebPageNr=1&WebAction=NewSearch&StartValue=1&RowRepeat=0&Index1=${KINDEX}&SearchT1=${ARG}
 
 CATTYPE vufind
-SUBURL ${BASEURL}/Search/Results?type=Subject&lookfor=${ARG}
-AUTURL ${BASEURL}/Search/Results?type=Author&lookfor=${ARG}
-TITURL ${BASEURL}/Search/Results?type=Title&lookfor=${ARG}
+TINDEX Title
+SINDEX Subject
+AINDEX Author
+SUBURL ${BASEURL}/Search/Results?type=${SINDEX}&lookfor=${ARG}
+AUTURL ${BASEURL}/Search/Results?type=${AINDEX}&lookfor=${ARG}
+TITURL ${BASEURL}/Search/Results?type=${TINDEX}&lookfor=${ARG}
 KEYURL ${BASEURL}/Search/Results?type=AllFields&lookfor=${ARG}
 DEFAULT DOMAIN
 

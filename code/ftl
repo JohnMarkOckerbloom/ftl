@@ -167,7 +167,7 @@ sub is_crawler {
 
 sub log_request {
   my ($q) = @_;
-  next if ($NO_CRAWLER_LOGGING && is_crawler($q));
+  return undef if ($NO_CRAWLER_LOGGING && is_crawler($q));
   my $host = $q->remote_host();
   my $preferredlibrary = $q->cookie($FTL::LIBRARY_COOKIE);
   my $referer = $q->referer();

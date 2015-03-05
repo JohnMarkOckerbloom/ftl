@@ -4,7 +4,7 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2014-09-05
+# Last updated 2015-03-04
 
 ID OLBP
 NAME The Online Books Page
@@ -169,6 +169,18 @@ LOCATION Brisbane and other campuses, Queensland
 COUNTRY AU
 CATTYPE summon
 BASEURL http://qut.summon.serialssolutions.com
+
+ID AU-SRGS
+NAME Royal Geographical Society of South Australia
+LOCATION Adelaide, South Australia
+COUNTRY AU
+BASEURL http://rgssa.slimlib.com.au:81/vufind
+CATTYPE vufind
+# we seqrch all fields for subjects; lowercase other specialized fields
+SINDEX AllFields
+TINDEX title
+AINDEX author
+FILTERS NK
 
 ID AU-NSL
 NAME State Library of New South Wales
@@ -2396,6 +2408,20 @@ LOCATION Clark Atlanta, Interdenominational Theological Center, Morehouse, Spelm
 STATE GA
 BASEURL http://auctr.worldcat.org/search
 CATTYPE worldcat
+
+ID OCLC-GBT
+NAME Brenau University
+LOCATION Gainesville
+STATE GA
+BASEURL http://brenau.worldcat.org/search
+CATTYPE worldcat
+
+ID OCLC-GCV
+NAME Chattahoochee Valley Libraries
+LOCATION Columbus and vicinity
+STATE GA
+BASEURL http://chattahoochee.polarislibrary.com/polaris
+CATTYPE polaris
 
 ID OCLC-EMU
 NAME Emory University Libraries
