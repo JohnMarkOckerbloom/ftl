@@ -8,8 +8,8 @@
 #   or lexical analysis (such as many geographical locations)
 #   are not included in this file.
 # See docs file for documentation
-# Last updated 2015-02-28
-# LCSH event sweep left off at 1915
+# Last updated 2015-03-11
+# LCSH event sweep left off at 1916
 #
 24 Heures du Mans (Automobile race)|=|24 Hours of Le Mans
 3-D films|=|3D film
@@ -43,6 +43,15 @@ Aberrant (Game)|=|Aberrant
 Ability grouping in education|->|Tracking (education)
 Abolitionists|->|Abolitionism
 Abortifacients|=|Abortifacient
+Abortion -- Law and legislation|<->|Abortion law
+Abortion -- Moral and ethical aspects|<->|Philosophical aspects of the abortion debate
+Abortion -- Religious aspects|<->|Religion and abortion
+Abortion -- Religious aspects -- Buddhism|<->|Buddhism and abortion
+Abortion -- Religious aspects -- Catholic Church|<->|Catholic Church and abortion
+Abortion -- Religious aspects -- Christianity|<->|Christianity and abortion
+Abortion -- Religious aspects -- Hinduism|<->|Hinduism and abortion
+Abortion -- Religious aspects -- Islam|<->|Islam and abortion
+Abortion -- Religious aspects -- Judaism|<->|Judaism and abortion
 Abortion counseling|->|Pregnancy options counseling
 Abraham Lincoln Birthplace National Historic Site (Ky.)|<->|Abraham Lincoln Birthplace National Historical Park
 Absaroka Range (Mont. and Wyo.)|=|Absaroka Range
@@ -185,7 +194,7 @@ Agricultural systems|->|Agriculture
 Agriculturists|->|Agricultural science
 Agrobiodiversity|=|Agricultural biodiversity
 Agua Tibia Wilderness (Calif.)|=|Agua Tibia Wilderness
-Ahab, Captain (Fictitious character)|<->|Captain Ahab (Moby-Dick)
+Ahab, Captain (Fictitious character)|<->|Captain Ahab
 Ahklun Mountains (Alaska)|=|Ahklun Mountains
 AIDS (Disease)|=|HIV/AIDS
 AIDS vaccines|=|HIV vaccine
@@ -475,6 +484,7 @@ Animal sounds|<->|List of animal sounds
 Animal traction|->|Working animal
 Animals|=|Animal
 Animals, Mythical|<->|Legendary creature
+Animals, Prosecution and punishment of|<->|Animal trial
 Ankara (Turkey)|=|Ankara
 Ankara, Battle of, Ankara, Turkey, 1402|=|Battle of Ankara
 Annandale and Eskdale (Scotland : District)|=|Annandale and Eskdale
@@ -925,6 +935,7 @@ Bacterial diseases|->|Pathogenic bacteria
 Baculoviruses|=|Baculovirus
 Bad breath|=|Halitosis
 Bad Frankenhausen (Germany)|=|Bad Frankenhausen
+Badaga dialect|<->|Badaga language
 Badajoz (Spain)|=|Badajoz
 Badajoz (Spain) -- History -- Siege, 1812|=|Siege of Badajoz (1812)
 Badajoz (Spain : Province)|=|Province of Badajoz
@@ -1334,12 +1345,14 @@ Biggles (Fictitious character)|=|Biggles
 Bighorn Lake (Mont. and Wyo.)|=|Bighorn Lake
 Bighorn Mountains (Wyo. and Mont.)|=|Bighorn Mountains
 Bihar (India)|=|Bihar
+Bihar (India) -- History|=|History of Bihar
 Bilbao (Spain)|=|Bilbao
 Bilingualism|->|Multilingualism
 Billionaires|=|Billionaire
 Bills, Private|=|Private bill
 Bindunuwewa Massacre, Sri Lanka, 2000|=|Bindunuwewa massacre
 Bins|<->|Bulk box
+Biodiesel fuels|<->|Biodiesel
 Biofeedback training|<->|Biofeedback
 Biogeochemical cycles|=|Biogeochemical cycle
 Biographers|<->|List of biographers
@@ -1412,6 +1425,7 @@ Black Patch War, 1906-1909|<->|Black Patch Tobacco Wars
 Black Pine Mountains (Idaho)|<->|Black Pine Mountains
 Black race|->|Black people
 Black Range (N.M.)|=|Black Range
+Black Tom Explosion, Jersey City, N.J., 1916|=|Black Tom explosion
 Black Volta River|=|Black Volta
 Blackburn, Mount (Alaska)|=|Mount Blackburn
 Blackcomb Mountain (B.C.)|=|Blackcomb Peak
@@ -1634,6 +1648,7 @@ Briseis (Legendary character)|=|Briseis
 Bristoe Station, Battle of, Va., 1863|=|Battle of Bristoe Station
 Bristol (England)|=|Bristol
 Bristol Bridge Massacre, Bristol, England, 1793|->|Bristol riots
+British|=|British people
 British Americans|=|British American
 British Antarctic ("Terra Nova") Expedition (1910-1913)|=|Terra Nova Expedition
 British Association for the Advancement of Science|->|British Science Association
@@ -1642,7 +1657,7 @@ British Columbia Provincial Museum|->|Royal British Columbia Museum
 British newspapers|<->|List of newspapers in the United Kingdom
 British Red Cross Society|=|British Red Cross
 British settlers of 1820 (South Africa)|<->|1820 Settlers
-Britons|=|Briton
+Britons|->|British people
 Brittany (France)|=|Brittany
 Brittany spaniel|=|Brittany dog
 Brno (Czech Republic)|=|Brno
@@ -2063,6 +2078,13 @@ Categories (Philosophy)|<->|Category of being
 Cathedrals|=|Cathedral
 Catholic Central Verein of America|=|German Roman Catholic Central Verein of North America
 Catholic Church -- Controversial literature|<->|Criticism of the Catholic Church
+Catholic Church. Archdiocese of Cincinnati (Ohio)|=|Roman Catholic Archdiocese of Cincinnati
+Catholic Church. Archdiocese of Denver (Colo.)|=|Roman Catholic Archdiocese of Denver
+Catholic Church. Archdiocese of Utrecht|=|Roman Catholic Archdiocese of Utrecht
+Catholic Church. Diocese of Cuenca (Spain)|=|Roman Catholic Diocese of Cuenca
+Catholic Church. Diocese of Rieti (Italy)|=|Roman Catholic Diocese of Rieti
+Catholic Church. Diocese of Utrecht|->|Roman Catholic Archdiocese of Utrecht
+Catholic Church. Diocese of Vich (Spain)|=|Roman Catholic Diocese of Vic
 Catholic Church -- History -- 20th century|=|Catholic Church in the 20th century
 Catholic Church -- Liturgy|=|Catholic liturgy
 Catholic Church. Treaties, etc. France, 1801 July 15|<->|Concordat of 1801
@@ -2460,6 +2482,7 @@ Church history -- Modern period, 1500-|<->|History of modern Christianity
 Church lands|->|Dissolution of the Monasteries
 Church Missionary Society|->|Church Mission Society
 Church of Christ (Whitmerites)|=|Church of Christ (Whitmerite)
+Church of England. Diocese of Sodor and Man|=|Diocese of Sodor and Man
 Church of Jesus Christ of Latter-day Saints|=|The Church of Jesus Christ of Latter-day Saints
 Church of Jesus Christ of Latter-day Saints -- Doctrines|<->|Beliefs and practices of The Church of Jesus Christ of Latter-day Saints
 Church of the Creator|<->|Creativity (religion)
@@ -2474,11 +2497,13 @@ Churubusco (Distrito Federal, Mexico)|=|Churubusco
 Churubusco, Battle of, Churubusco, Distrito Federal, Mexico, 1847|=|Battle of Churubusco
 Chuska Mountains (Ariz. and N.M.)|=|Chuska Mountains
 Chutney (Music)|=|Chutney music
+Ci (Chinese poetry)|=|Ci (poetry)
 Cibecue Creek, Battle of, Ariz., 1881|<->|Battle of Cibecue Creek
 Cigarettes|=|Cigarette
 Cigarette smoke|<->|List of cigarette smoke carcinogens
 Cigars|=|Cigar
 Cilicia -- History -- Armenian Kingdom, 1080-1375|<->|Armenian Kingdom of Cilicia
+Cimone Mountain (Italy)|=|Monte Cimone
 Cinca River (Spain)|=|Cinca (Spain)
 Cincinnati (Ohio)|=|Cincinnati
 Cincinnati (Ohio) -- History|=|History of Cincinnati
@@ -2513,6 +2538,7 @@ Civilization, Modern|->|Modern history
 Civita Castellana (Italy)|=|Civita Castellana
 Clairvoyants|->|Clairvoyance
 Clans|=|Clan
+Clans -- Scotland|=|Scottish clan
 Clarington (Ont.)|=|Clarington
 Clark's Expedition against Detroit, 1781|<->|Lochry's Defeat
 Clark's Mill, Battle of, Vera Cruz, Mo., 1862|=|Battle of Clark's Mill
@@ -3058,6 +3084,7 @@ Custozza, Battle of, Italy, 1848|=|Battle of Custoza (1848)
 Custozza, Battle of, Italy, 1866|=|Battle of Custoza (1866)
 Cuxhaven Raid, Cuxhaven, Germany, 1914|=|Cuxhaven Raid
 Cuyahoga River (Ohio)|=|Cuyahoga River
+Cuyahoga Valley National Park (Ohio)|=|Cuyahoga Valley National Park
 Cuyamaca Mountains (Calif.)|=|Cuyamaca Mountains
 Cycles|<->|Cycle
 Cycloids|=|Cycloid
@@ -3214,6 +3241,7 @@ Delhi (India) -- History -- Siege, 1857|=|Siege of Delhi
 Delium, Battle of, Greece, 424 B.C.|=|Battle of Delium
 Delos Island (Greece)|=|Delos
 Delusions|=|Delusion
+Delville Wood, Battle of, France, 1916|=|Battle of Delville Wood
 Demeter (Greek deity)|=|Demeter
 Democratic Party (U.S.)|=|Democratic Party (United States)
 Democratic Party (U.S.) -- History|=|History of the United States Democratic Party
@@ -3795,6 +3823,72 @@ Epidemics|=|Epidemic
 Epirus (Greece and Albania)|=|Epirus
 Epirus (Greece and Albania) -- History -- Despotate, 1204-1318|<->|Despotate of Epirus
 Episcopacy|<->|Episcopal polity
+Episcopal Church. Diocese of Alabama|=|Episcopal Diocese of Alabama
+Episcopal Church. Diocese of Alaska|=|Episcopal Diocese of Alaska
+Episcopal Church. Diocese of Albany|=|Episcopal Diocese of Albany
+Episcopal Church. Diocese of Arkansas|=|Episcopal Diocese of Arkansas
+Episcopal Church. Diocese of Atlanta|=|Episcopal Diocese of Atlanta
+Episcopal Church. Diocese of Bethlehem|=|Episcopal Diocese of Bethlehem
+Episcopal Church. Diocese of California|=|Episcopal Diocese of California
+Episcopal Church. Diocese of Central Florida|=|Episcopal Diocese of Central Florida
+Episcopal Church. Diocese of Central New York|=|Episcopal Diocese of Central New York
+Episcopal Church. Diocese of Central Pennsylvania|=|Episcopal Diocese of Central Pennsylvania
+Episcopal Church. Diocese of Chicago|=|Episcopal Diocese of Chicago
+Episcopal Church. Diocese of Colorado|=|Episcopal Diocese of Colorado
+Episcopal Church. Diocese of Connecticut|=|Episcopal Diocese of Connecticut
+Episcopal Church. Diocese of Dallas|=|Episcopal Diocese of Dallas
+Episcopal Church. Diocese of Delaware|=|Episcopal Diocese of Delaware
+Episcopal Church. Diocese of Duluth|=|Episcopal Diocese of Duluth
+Episcopal Church. Diocese of East Carolina|=|Episcopal Diocese of East Carolina
+Episcopal Church. Diocese of Easton|=|Episcopal Diocese of Easton
+Episcopal Church. Diocese of Florida|=|Episcopal Diocese of Florida
+Episcopal Church. Diocese of Fond du Lac|=|Episcopal Diocese of Fond du Lac
+Episcopal Church. Diocese of Georgia|=|Episcopal Diocese of Georgia
+Episcopal Church. Diocese of Harrisburg|->|Episcopal Diocese of Central Pennsylvania
+Episcopal Church. Diocese of Indiana|->|Episcopal Diocese of Indianapolis
+Episcopal Church. Diocese of Indianapolis|=|Episcopal Diocese of Indianapolis
+Episcopal Church. Diocese of Iowa|=|Episcopal Diocese of Iowa
+Episcopal Church. Diocese of Kansas|=|Episcopal Diocese of Kansas
+Episcopal Church. Diocese of Kentucky|=|Episcopal Diocese of Kentucky
+Episcopal Church. Diocese of Lexington|=|Episcopal Diocese of Lexington
+Episcopal Church. Diocese of Long Island|=|Episcopal Diocese of Long Island
+Episcopal Church. Diocese of Los Angeles|=|Episcopal Diocese of Los Angeles
+Episcopal Church. Diocese of Louisiana|=|Episcopal Diocese of Louisiana
+Episcopal Church. Diocese of Maine|=|Episcopal Diocese of Maine
+Episcopal Church. Diocese of Maryland|=|Episcopal Diocese of Maryland
+Episcopal Church. Diocese of Massachusetts|=|Episcopal Diocese of Massachusetts
+Episcopal Church. Diocese of Michigan|=|Episcopal Diocese of Michigan
+Episcopal Church. Diocese of Minnesota|<->|Episcopal Church in Minnesota
+Episcopal Church. Diocese of Mississippi|=|Episcopal Diocese of Mississippi
+Episcopal Church. Diocese of Missouri|=|Episcopal Diocese of Missouri
+Episcopal Church. Diocese of Nebraska|=|Episcopal Diocese of Nebraska
+Episcopal Church. Diocese of New Hampshire|=|Episcopal Diocese of New Hampshire
+Episcopal Church. Diocese of New Jersey|=|Episcopal Diocese of New Jersey
+Episcopal Church. Diocese of New York|=|Episcopal Diocese of New York
+Episcopal Church. Diocese of Newark|=|Episcopal Diocese of Newark
+Episcopal Church. Diocese of North Carolina|=|Episcopal Diocese of North Carolina
+Episcopal Church. Diocese of North Dakota|=|Episcopal Diocese of North Dakota
+Episcopal Church. Diocese of Northern California|=|Episcopal Diocese of Northern California
+Episcopal Church. Diocese of Ohio|=|Episcopal Diocese of Ohio
+Episcopal Church. Diocese of Oregon|=|Episcopal Diocese of Oregon
+Episcopal Church. Diocese of Pennsylvania|=|Episcopal Diocese of Pennsylvania
+Episcopal Church. Diocese of Pittsburgh|=|Episcopal Diocese of Pittsburgh
+Episcopal Church. Diocese of Puerto Rico|=|Episcopal Diocese of Puerto Rico
+Episcopal Church. Diocese of Rhode Island|=|Episcopal Diocese of Rhode Island
+Episcopal Church. Diocese of Southern Ohio|=|Episcopal Diocese of Southern Ohio
+Episcopal Church. Diocese of Southern Virginia|=|Episcopal Diocese of Southern Virginia
+Episcopal Church. Diocese of Southwest Florida|=|Episcopal Diocese of Southwest Florida
+Episcopal Church. Diocese of Southwestern Virginia|=|Episcopal Diocese of Southwestern Virginia
+Episcopal Church. Diocese of Tennessee|=|Episcopal Diocese of Tennessee
+Episcopal Church. Diocese of Texas|=|Episcopal Diocese of Texas
+Episcopal Church. Diocese of the Central Gulf Coast|=|Episcopal Diocese of the Central Gulf Coast
+Episcopal Church. Diocese of Vermont|=|Episcopal Diocese of Vermont
+Episcopal Church. Diocese of Washington|=|Episcopal Diocese of Washington
+Episcopal Church. Diocese of West Texas|=|Episcopal Diocese of West Texas
+Episcopal Church. Diocese of West Virginia|=|Episcopal Diocese of West Virginia
+Episcopal Church. Diocese of Western Massachusetts|=|Episcopal Diocese of Western Massachusetts
+Episcopal Church. Diocese of Western Michigan|=|Episcopal Diocese of Western Michigan
+Episcopal Church. Diocese of Western New York|=|Episcopal Diocese of Western New York
 Episcopal Church in Scotland|->|Scottish Episcopal Church
 Epistolary fiction|<->|Epistolary novel
 Epitaphs|=|Epitaph
@@ -3998,6 +4092,7 @@ Fathers|=|Father
 Fathers and sons|->|Father
 Fathers of Confederation (Canada)|=|Fathers of Confederation
 Fathers of the church|=|Church Fathers
+Fatima, Our Lady of|=|Our Lady of Fátima
 Fatimites|<->|Fatimid Caliphate
 Fatwas|=|Fatwa
 Feast of the Presentation of the Blessed Virgin Mary|=|Presentation of Mary
@@ -4396,6 +4491,7 @@ Frigates|=|Frigate
 Fringillidae|->|Finch
 Frog Lake Massacre, Frog Lake, Alta., 1885|=|Frog Lake Massacre
 Frogs|=|Frog
+Fromelles, Battle of, Fromelles, France, 1916|=|Battle of Fromelles
 Front Range (Colo. and Wyo.)|=|Front Range
 Fruit of the Spirit|=|Fruit of the Holy Spirit
 Fu Manchu, Doctor (Fictitious character)|=|Fu Manchu
@@ -4777,7 +4873,6 @@ Gravelly Run, Battle of, Va., 1865|<->|Battle of White Oak Road
 Gravelotte, Battle of, France, 1870|=|Battle of Gravelotte
 Gravina Island (Ketchikan Gateway Borough, Alaska)|=|Gravina Island
 Gravina Islands (Alaska)|=|Gravina Islands
-Gravity|=|Gravitation
 Grays Peak (Colo.)|=|Grays Peak
 Graz (Austria)|=|Graz
 Graz, Battle of, Graz, Austria, 1809|=|Battle of Graz
@@ -4803,7 +4898,7 @@ Great Britain -- History -- House of Lancaster, 1399-1461|->|House of Lancaster
 Great Britain -- History -- James I, 1603-1625|=|Jacobean era
 Great Britain -- History -- Medieval period, 1066-1485|<->|England in the Middle Ages
 Great Britain -- History -- Northern Rebellion, 1569|=|Rising of the North
-Great Britain -- History -- Personal Rule, 1629-1640|=|Personal rule of Charles I, 1629–1640
+Great Britain -- History -- Personal Rule, 1629-1640|=|Personal Rule
 Great Britain -- History -- Regency, 1811-1820|<->|Regency era
 Great Britain -- History -- Restoration, 1660-1688|<->|Restoration (1660)
 Great Britain -- History -- Restoration, 1660-1688|<-|Restoration (England)
@@ -5808,9 +5903,9 @@ Iphigenia (Greek mythology)|=|Iphigenia
 Ipoh (Perak)|=|Ipoh
 Iquique (Chile)|=|Iquique
 Iquique, Battle of, Iquique, Chile, 1879|=|Battle of Iquique
-Iran -- History -- Coup d'&eacute;tat, 1921|=|1921 Persian coup d'etat
+Iran -- History -- Coup d'&eacute;tat, 1921|=|1921 Persian coup d'état
 Iran -- History -- Coup d'&eacute;tat, 1953|=|1953 Iranian coup d'état
-Iran -- History -- Election protests, 2009|<->|2009–10 Iranian election protests
+Iran -- History -- Election protests, 2009|<->|2009 Iranian presidential election protests
 Iran -- History -- Jangal&imacr; movement, 1914-1921|=|Jungle Movement of Gilan
 Iran -- History -- Qajar dynasty, 1794-1925|<->|Qajar dynasty
 Iran -- History -- &#x1e62;afavid dynasty, 1501-1736|<->|Safavid dynasty
@@ -6031,7 +6126,9 @@ Jesuits|=|Society of Jesus
 Jesuits -- History -- Suppression, 1773-1814|<->|Suppression of the Society of Jesus
 Jesus Christ|=|Jesus
 Jesus Christ -- Ascension|=|Ascension of Jesus
+Jesus Christ -- Brethren|<->|Brothers of Jesus
 Jesus Christ -- Crucifixion|=|Crucifixion of Jesus
+Jesus Christ -- Nativity|=|Nativity of Jesus
 Jesus Christ -- Resurrection|=|Resurrection of Jesus
 Jesus Christ -- Seven last words|<->|Sayings of Jesus on the cross
 Jewelry|=|Jewellery
@@ -6107,6 +6204,8 @@ Jingpo (Chinese people)|<->|Jingpo people
 Jinn, Qui-Gon (Fictitious character)|=|Qui-Gon Jinn
 Jinshin Revolt, 672|=|Jinshin War
 Jitterbug (Dance)|=|Jitterbug
+Jiu River (Romania)|=|Jiu River
+Jiu River Valley (Romania)|<->|Jiu Valley
 Jiu-jitsu|=|Jiu jitsu
 Joan (Legendary Pope)|=|Pope Joan
 Jo&atilde;o Pessoa (Para&iacute;ba, Brazil)|=|João Pessoa, Paraíba
@@ -6191,9 +6290,11 @@ Kaminoyama-shi (Japan)|=|Kaminoyama, Yamagata
 Kamloops (B.C.)|=|Kamloops
 Kampala (Uganda)|=|Kampala
 Kanagawa-ken (Japan)|=|Kanagawa Prefecture
+Kanarese (Indic people)|<->|Kannada people
 Kanizsa, Battle of, Nagykanizsa, Hungary, 1601|<->|Siege of Nagykanizsa
 K&amacr;npur (India)|=|Kanpur
 K&amacr;npur (India) -- History -- Siege, 1857|=|Siege of Cawnpore
+Kannada language|=|Kannada
 Kansa Indians|=|Kaw people
 Kansas -- History -- 1854-1861|<-|Bleeding Kansas
 Kansas -- History -- 1854-1861|->|Kansas Territory
@@ -6298,7 +6399,7 @@ Kineo, Mount (Me.)|=|Mount Kineo
 Kinetic theory of gases|=|Kinetic theory
 Kinetograph|->|Kinetoscope
 Kinetophone|->|Kinetoscope
-King, Martin Luther, Jr., 1929-1968 -- Assassination|=|Assassination of Martin Luther King, Jr.
+King, Martin Luther, Jr., 1929-1968 -- Assassination|=|Assassination of Martin Luther King Jr.
 King George Island (Antarctica)|=|King George Island (South Shetland Islands)
 King George VI and Queen Elizabeth Diamond Stakes|=|King George VI and Queen Elizabeth Stakes
 King John's Castle (Limerick, Limerick, Ireland)|=|King John's Castle (Limerick)
@@ -6411,9 +6512,11 @@ Kosher food|=|Kosher foods
 Kosovo, Battle of, Kosovo, 1389|=|Battle of Kosovo
 Kosovo, Battle of, Kosovo, 1448|=|Battle of Kosovo (1448)
 Kosovo War, 1998-1999|=|Kosovo War
+Kosti&#xfe20;u&#xfe21;khnivka, Battle of, Kosti&#xfe20;u&#xfe21;khnivka, Ukraine, 1916|=|Battle of Kostiuchnówka
 Kot Massacre, 1846|=|Kot massacre
 Ko&zacute;le (Poland)|=|Koźle
 Kpelle (African people)|=|Kpelle people
+Krakatoa (Indonesia)|<->|Krakatoa
 Krak&oacute;w (Poland)|=|Kraków
 Krak&oacute;w (Poland) -- History|=|History of Kraków
 Krak&oacute;w (Poland) -- History -- Siege, 1655|=|Siege of Kraków (1655)
@@ -6509,7 +6612,7 @@ Lake District (England)|=|Lake District
 Lake Erie, Battle of, 1813|=|Battle of Lake Erie
 Lake George, Battle of, N.Y., 1755|=|Battle of Lake George
 Lake Maracaibo, Battle of, Venezuela, 1823|=|Battle of Lake Maracaibo
-Lake Peipus, Battle of, 1242|=|Battle of the Ice
+Lake Peipus, Battle of, 1242|=|Battle on the Ice (Lake Peipus)
 Lake Trasimene, Battle of, Italy, 217 B.C.|=|Battle of Lake Trasimene
 Lake Wales Ridge (Fla.)|=|Lake Wales Ridge
 Lakes|=|Lake
@@ -6905,6 +7008,7 @@ Louisiana Purchase Exposition (1904 : Saint Louis, Mo.)|=|Louisiana Purchase Exp
 Louisville (Ky.) -- History -- Civil War, 1861-1865|=|Louisville in the American Civil War
 Lourdes, Our Lady of|=|Our Lady of Lourdes
 Louth (Ireland : County)|=|County Louth
+Love -- Philosophy|<->|Philosophy of love
 Love Canal Chemical Waste Landfill (Niagara Falls, N.Y.)|<->|Love Canal
 Love-hate relationships|=|Love–hate relationship
 Love poetry|->|Poetry
@@ -7054,7 +7158,7 @@ Malaya -- History -- British rule, 1867-1942|<->|British Malaya
 Malaya -- History -- Japanese occupation, 1942-1945|=|Japanese occupation of Malaya
 Malays (Asian people)|<->|Ethnic Malays
 Malays (Asian people)|<-|Malay race
-Malays (Asian people) -- Singapore|=|Malays in Singapore
+Malays (Asian people) -- Singapore|<->|Malay Singaporean
 Malcolm's Mills, Battle of, Ont., 1814|=|Battle of Malcolm's Mills
 Maldon, Battle of, England, 991|=|Battle of Maldon
 Male (African people)|=|Maale people
@@ -7129,6 +7233,7 @@ Manzikert, Battle of, Turkey, 1071|=|Battle of Manzikert
 Maori (New Zealand people)|=|Māori people
 Mappings (Mathematics)|<->|Map (mathematics)
 Mapuche Indians|=|Mapuche
+Maputo (Mozambique)|=|Maputo
 Maputo Bay (Mozambique)|=|Maputo Bay
 Mara language (Australia)|=|Marra language
 Maracaibo (Venezuela)|=|Maracaibo
@@ -7199,11 +7304,28 @@ Marston Moor, Battle of, England, 1644|=|Battle of Marston Moor
 Martha's Vineyard (Mass.)|=|Martha's Vineyard
 Martians|=|Martian
 Mart&iacute;n Garc&iacute;a, Battle of, Argentina, 1814|=|Battle of Martín García (1814)
-Martin Luther King, Jr., National Historic Site (Atlanta, Ga.)|=|Martin Luther King, Jr., National Historic Site
+Martin Luther King, Jr., National Historic Site (Atlanta, Ga.)|=|Martin Luther King Jr., National Historic Site
 Martyrdom|->|Martyr
 Martyrologies|=|Martyrology
 Martyrs|=|Martyr
 Marwaris|=|Marwari
+Mary, Blessed Virgin, Saint -- Annunciation|=|Annunciation
+Mary, Blessed Virgin, Saint -- Apparitions and miracles|<->|Marian apparition
+Mary, Blessed Virgin, Saint -- Art|<->|Madonna (art)
+Mary, Blessed Virgin, Saint -- Assumption|<->|Assumption of Mary
+Mary, Blessed Virgin, Saint -- Coredemption|<->|Co-Redemptrix
+Mary, Blessed Virgin, Saint -- Devotion to|<->|Marian devotions
+Mary, Blessed Virgin, Saint -- Feasts|<->|Marian feast days
+Mary, Blessed Virgin, Saint -- Islamic interpretations|=|Mary in Islam
+Mary, Blessed Virgin, Saint -- May devotions|=|May devotions to the Blessed Virgin Mary
+Mary, Blessed Virgin, Saint -- Mediation|<->|Mediatrix
+Mary, Blessed Virgin, Saint -- Queenship|<->|Queen of Heaven
+Mary, Blessed Virgin, Saint -- Shrines|=|Shrines to the Virgin Mary
+Mary, Blessed Virgin, Saint -- Songs and music|<->|Hymns to Mary
+Mary, Blessed Virgin, Saint -- Theology|<->|Mariology
+Mary, Blessed Virgin, Saint -- Titles|=|Titles of Mary
+Mary, Blessed Virgin, Saint -- Virginity|<->|Perpetual virginity of Mary
+Mary, Blessed Virgin, Saint -- Visitation|=|Visitation (Christianity)
 Maryland -- History -- Civil War, 1861-1865|=|Maryland in the American Civil War
 Maryland -- History -- Colonial period, ca. 1600-1775|<->|Province of Maryland
 Maryland -- History -- Revolution, 1775-1783|=|Maryland in the American Revolution
@@ -7636,6 +7758,8 @@ Mohawk River Valley (N.Y.)|=|Mohawk Valley
 Mohawk State Forest (Conn.)|=|Mohawk State Forest
 Mohegan Indian Tribe of Connecticut|=|Mohegan Indian Tribe
 Mohegan Indians|<->|Mohegan people
+Mojkovac (Montenegro)|=|Mojkovac
+Mojkovac, Battle of, Mojkovac, Montenegro, 1916|=|Battle of Mojkovac
 Mojo Indians|=|Moxo people
 Molars|=|Molar (tooth)
 Molde (Norway)|<->|Molde
@@ -7803,6 +7927,7 @@ Mount Irish Range (Nev.)|=|Mount Irish Range
 Mount of Olives (Jerusalem)|=|Mount of Olives
 Mount Rainier National Park (Wash.)|=|Mount Rainier National Park
 Mount Rushmore National Memorial (S.D.)|=|Mount Rushmore
+Mount Sorrel, Battle of, Belgium, 1916|=|Battle of Mont Sorrel
 Mount Tom Range (Mass.)|=|Mount Tom Range
 Mount Tom State Reservation (Mass.)|=|Mount Tom State Reservation
 Mount Vernon (Va. : Estate)|=|Mount Vernon
@@ -7836,6 +7961,7 @@ Multicasting (Computer networks)|<->|Multicast
 Multiple personality|=|Dissociative identity disorder
 Multi-user dungeons|=|MUD
 Mumbai (India)|=|Mumbai
+Mumbai (India) -- History|=|History of Mumbai
 Mummies|=|Mummy
 Mumming plays|=|Mummers play
 Mummy Range (Colo.)|=|Mummy Range
@@ -8413,7 +8539,7 @@ Numeration|<->|Numeral system
 Numerical weather forecasting|=|Numerical weather prediction
 Nunivak Island (Alaska)|=|Nunivak Island
 Nuns|=|Nun
-Nuprl (Computer system)|=|NuPRL
+Nuprl (Computer system)|=|Nuprl
 Nuremberg (Germany)|=|Nuremberg
 Nuremberg (Germany) -- History -- Siege, 1632|=|Siege of Nuremberg
 Nuremberg Trial of Major German War Criminals, Nuremberg, Germany, 1945-1946|=|Nuremberg trials
@@ -8485,6 +8611,7 @@ Ohio River Valley|->|Ohio River
 Ohlone Indians|=|Ohlone people
 Oi music|<->|Oi!
 Oil fields|=|Oil field
+Oil-shales|<->|Oil shale
 Oil spills|=|Oil spill
 Oil wells|=|Oil well
 Ojibwa Indians|=|Ojibwe
@@ -9003,6 +9130,7 @@ Persian Gulf Region|->|Persian Gulf
 Persian Gulf States|<->|Arab states of the Persian Gulf
 Persian Gulf syndrome|=|Gulf War syndrome
 Persian Gulf War, 1991|=|Gulf War
+Persian Gulf War, 1991 -- Press coverage|<->|Media coverage of the Gulf War
 Persian poetry|->|Persian literature
 Personal coaching|<->|Coaching
 Personals|=|Personal advertisement
@@ -9533,7 +9661,7 @@ Processions|=|Procession
 Procne (Greek mythology)|=|Procne
 Proclamations|=|Proclamation
 Prodigal son (Parable)|=|Parable of the Prodigal Son
-Product life cycle|<->|Product lifecycle management
+Product life cycle|<->|Product lifecycle
 Product safety|->|Safety standards
 Products liability|=|Product liability
 Professional education|->|Professional development
@@ -9783,6 +9911,7 @@ Railroad Strike, Netherlands, 1903|<->|Railroad Strikes of 1903
 Railroad Strike, U.S., 1877|=|Great Railroad Strike of 1877
 Railroad tracks|=|Track (rail transport)
 Railroads|=|Rail transport
+Railroads -- Electrification|<->|Railway electrification system
 Rain and rainfall|<->|Rain
 Rain forests|=|Rainforest
 Rain-making|=|Rainmaking
@@ -10103,6 +10232,7 @@ Rome -- History -- Servile Wars, 135-71 B.C.|=|Servile Wars
 Rome -- History -- Severans, 193-235|<->|Severan dynasty
 Rome -- History -- Siege, 410|<->|Sack of Rome (410)
 Rome -- History -- Theodosians, 379-455|<->|Theodosian dynasty
+Rome -- Navy|<->|Roman navy
 Rome -- Politics and government|<->|Political institutions of ancient Rome
 Rome -- Religion|=|Religion in ancient Rome
 Rome (Italy)|=|Rome
@@ -10253,7 +10383,7 @@ Saint Bartholomew's Day, Massacre of, France, 1572|=|St. Bartholomew's Day massa
 Saint Bernard dog|=|St. Bernard (dog)
 Saint-Cast, Battle of, France, 1758|=|Battle of Saint Cast
 Saint Charles, Battle of, Saint-Charles-sur-Richelieu, Qu&eacute;bec, 1837|=|Battle of Saint-Charles
-Saint Croix River (Me. and N.B.)|=|Saint Croix River (Maine – New Brunswick)
+Saint Croix River (Me. and N.B.)|=|Saint Croix River (Maine–New Brunswick)
 Saint Croix River (Wis. and Minn.)|=|St. Croix River (Wisconsin–Minnesota)
 Saint-Denis, Battle of, Saint-Denis, Saint-Hyacinthe, Qu&eacute;bec, 1837|=|Battle of Saint-Denis (1837)
 Saint Elias, Mount (Alaska and Yukon)|=|Mount Saint Elias
@@ -10537,6 +10667,7 @@ Scotland -- History -- Union, 1707|<->|Acts of Union 1707
 Scotland -- History -- War of Independence, 1285-1371|<->|Wars of Scottish Independence
 Scotland -- Politics and government|<->|Politics of Scotland
 Scotland -- Politics and government|<-|Scottish Government
+Scots|<->|Scottish people
 Scots-Irish|=|Scotch-Irish
 Scott, Montgomery (Fictitious character)|=|Scotty (Star Trek)
 Scott, Mount (Okla.)|=|Mount Scott (Oklahoma)
@@ -10556,7 +10687,7 @@ Sculptors|->|Sculpture
 Sea birds|=|Seabird
 Sea monsters|=|Sea monster
 Sea-power|->|Naval warfare
-Sea stories|=|Sea story
+Sea stories|=|Nautical fiction
 Seals (Animals)|->|Pinniped
 Seaman Range (Nev.)|=|Seaman Range
 Sean-nos|<->|Sean Nós
@@ -10571,6 +10702,7 @@ Seattle (Wash.)|=|Seattle
 Seattle Mariners (Baseball team)|=|Seattle Mariners
 Seattle Seahawks (Football team)|=|Seattle Seahawks
 Sea turtles|=|Sea turtle
+Sebright bantam chicken|=|Sebright chicken
 Secessionville, Battle of, Secessionville, S.C., 1862|=|Battle of Secessionville
 Second Advent|=|Second Coming
 Second Coalition, War of the, 1798-1801|<->|War of the Second Coalition
@@ -10635,6 +10767,8 @@ Sentences (Grammar)|=|Sentence (linguistics)
 Sentinel, Mount (Missoula County, Mont.)|=|Mount Sentinel
 Sentinel Peak (Chelan County and Skagit County, Wash.)|=|Sentinel Peak (Washington)
 Sentinel Peak (Pima County, Ariz.)|=|Sentinel Peak (Arizona)
+Senussite Rebellion, 1916-1918|<->|Senussi Campaign
+Senussites|<->|Senussi
 Separation anxiety|<->|Separation anxiety disorder
 September 11 Terrorist Attacks, 2001|=|September 11 attacks
 Sepulchral monuments|->|Funerary art
@@ -11127,6 +11261,7 @@ Soo Locks (Mich.)|=|Soo Locks
 Soor, Battle of, Soor, Czech Republic, 1745|=|Battle of Soor
 Sophists (Greek philosophy)|<->|Sophist
 S&oslash;r-Tr&oslash;ndelag fylke (Norway)|=|Sør-Trøndelag
+Sorrows of the Blessed Virgin Mary, Devotion to|<->|Our Lady of Sorrows
 Sotho (African people)|=|Sotho people
 Soul Calibur (Game)|=|Soulcalibur
 Sounding rockets|=|Sounding rocket
@@ -11223,14 +11358,15 @@ Space weapons|=|Space weapon
 Spade, Sam (Fictitious character)|=|Sam Spade
 Spades (Game)|=|Spades
 Spain -- Colonies|<->|Spanish Empire
-Spain. Ej&eacute;rcito Popular de la Rep&uacute;blica. Abraham Lincoln Battalion|=|Abraham Lincoln Brigade
+Spain. Ej&eacute;rcito Popular de la Rep&uacute;blica. Abraham Lincoln Battalion|=|Lincoln Battalion
+Spain. Ej&eacute;rcito Popular de la Rep&uacute;blica. Brigada Internacional, XV|=|XV International Brigade
 Spain -- History -- Carlist War, 1833-1840|<->|First Carlist War
 Spain -- History -- Carlist War, 1846-1849|=|Second Carlist War
 Spain -- History -- Carlist War, 1873-1876|<->|Third Carlist War
 Spain -- History -- Civil War, 1936-1939|=|Spanish Civil War
 Spain -- History -- Ferdinand and Isabella, 1479-1516|<->|Catholic Monarchs
 Spain -- History -- House of Austria, 1516-1700|<->|Habsburg Spain
-Spain -- History -- Napoleonic Conquest, 1808-1813|<->|Spain under Joseph Bonaparte
+Spain -- History -- Napoleonic Conquest, 1808-1813|<->|Kingdom of Spain under Joseph Bonaparte
 Spain -- History -- Republic, 1873-1875|=|First Spanish Republic
 Spain -- History -- Republic, 1931-1939|=|Second Spanish Republic
 Spain -- History -- Revolution, 1820-1823|<->|Trienio Liberal
@@ -12231,7 +12367,7 @@ Uncles|=|Uncle
 Under-the-table employment|=|Unreported employment
 Undercover operations|=|Undercover operation
 Underground newspapers|->|Underground press
-Underground nuclear explosions|<->|Underground nuclear testing
+Underground nuclear explosions|<->|Underground nuclear weapons testing
 Underground press publications|<->|Underground press
 Underwater exploration|->|Oceanography
 Unemployed|->|Unemployment
@@ -12415,6 +12551,9 @@ United States Highway 222 (Pa. and Md.)|=|U.S. Route 222
 United States Highway 280 (Ala. and Ga.)|=|U.S. Route 280
 United States Highway 550 (Colo. and N.M.)|=|U.S. Route 550
 United States Highway 58 (Va. and Tenn.)|=|U.S. Route 58
+United States -- History -- 1865-1898|->|History of the United States (1865–1918)
+United States -- History -- 1919-1933|->|History of the United States (1918–45)
+United States -- History -- 1933-1945|->|History of the United States (1918–45)
 United States -- History -- Civil War, 1861-1865|=|American Civil War
 United States -- History -- Civil War, 1861-1865 -- Bibliography|<->|Bibliography of the American Civil War
 United States -- History -- Civil War, 1861-1865 -- Blockades|<->|Union blockade
@@ -12703,7 +12842,7 @@ Vestfold Hills (Antarctica)|=|Vestfold Hills
 Vesuvius (Italy)|=|Mount Vesuvius
 Vesuvius (Italy) -- Eruption, 79|=|Eruption of Mount Vesuvius in 79
 Veterans of Foreign Wars of the United States|=|Veterans of Foreign Wars
-Veterans of the Abraham Lincoln Brigade|->|Abraham Lincoln Brigade
+Veterans of the Abraham Lincoln Brigade|->|Lincoln Battalion
 Veterans|=|Veteran
 Veterinarians|=|Veterinary physician
 Veterinary drugs|<->|List of veterinary drugs
@@ -12767,6 +12906,7 @@ Violent crimes|=|Violent crime
 Violets|<->|Viola (plant)
 Viols|=|Viol
 Vipa&sacute;yan&amacr; (Buddhism)|<->|Vipassanā
+Virgin birth|<->|Virgin birth of Jesus
 Virginia -- History -- Colonial period, ca. 1600-1775|<->|Colony of Virginia
 Virginia -- History -- Civil War, 1861-1865|=|Virginia in the American Civil War
 Virginia -- History -- Revolution, 1775-1783|=|Virginia in the American Revolution
@@ -12943,7 +13083,7 @@ Watson, John H. (Fictitious character)|=|Dr. Watson
 Wattasids|=|Wattasid dynasty
 Wattignies, Battle of, France, 1793|=|Battle of Wattignies
 Wattignies-la-Victoire (France)|=|Wattignies-la-Victoire
-Watts Riot, Los Angeles, Calif., 1965|=|Watts Riots
+Watts Riot, Los Angeles, Calif., 1965|=|Watts riots
 Wayne's Campaign, 1794|->|Northwest Indian War
 Wea Indians|=|Wea
 Weapons of mass destruction|=|Weapon of mass destruction
@@ -12997,7 +13137,7 @@ West Philadelphia (Philadelphia, Pa.)|=|West Philadelphia
 West Point, Battle of, West Point, Ga., 1865|=|Battle of West Point
 West Silver Bell Mountains (Ariz.)|=|West Silver Bell Mountains
 West Spanish Peak (Colo.)|=|West Spanish Peak
-West Stanley Colliery Explosion, Stanley, Derwentside, England, 1909|=|West Stanley Pit Disaster
+West Stanley Colliery Explosion, Stanley, Derwentside, England, 1909|=|West Stanley Pit disaster
 West Sussex (England)|=|West Sussex
 West (U.S.)|=|Western United States
 West Virginia -- History -- Civil War, 1861-1865|=|West Virginia in the American Civil War
