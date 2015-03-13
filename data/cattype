@@ -386,6 +386,14 @@ AUTURL ${BASEURL}/opac/search;jsessionid=?max=&view=CONTENT&level=all&material_t
 TITURL ${BASEURL}/opac/search;jsessionid=?max=&view=CONTENT&level=all&material_type=all&location=&lang=eng&q=all_titles%3A${ARG}
 KEYURL ${BASEURL}/opac/search;jsessionid=?max=&view=CONTENT&level=all&material_type=all&location=&lang=eng&q=${ARG}
 
+# Verso by AutoGraphics
+# doesn't seem to handle complex headings very well
+CATTYPE verso
+SUBURL ${BASEURL}/mvc/command=search?query=subject=${ARG:SNK}
+AUTURL ${BASEURL}/mvc/command=search?query=author=${ARG:SNK}
+TITURL ${BASEURL}/mvc/command=search?query=title=${ARG:NK}
+KEYURL ${BASEURL}/mvc/command=search?query=kw=${ARG:SNK}
+
 # viewpoint by Axiell
 CATTYPE viewpoint
 AUTURL ${BASEURL}02_Catalogue/02_003_BrowseResults.aspx?page=1&searchType=0&searchTerm=${ARG:S}

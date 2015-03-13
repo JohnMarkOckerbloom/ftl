@@ -3359,6 +3359,13 @@ STATE MS
 CATTYPE sirsient
 BASEURL http://alcorn.ent.sirsi.net
 
+ID OCLC-H3R
+NAME Harrison County Library System
+LOCATION Biloxi, Gulfport, and Gulf Coast region
+STATE MS
+CATTYPE verso
+BASEURL http://hclib-verso.auto-graphics.com
+
 ID OCLC-MJP
 NAME Jackson-Hinds Library System
 LOCATION Jackson and Hinds County
@@ -3372,6 +3379,22 @@ LOCATION Jackson
 STATE MS
 BASEURL http://sampson.jsums.edu
 CATTYPE innopac
+
+ID OCLC-MPC
+NAME Mississippi Library Commission
+LOCATION Jackson
+STATE MS
+CATTYPE verso
+BASEURL http://mlco-verso.auto-graphics.com
+CID mlco
+LCODE mlco
+
+ID OCLC-TGC
+NAME Tougaloo College
+LOCATION Tougaloo
+STATE MS
+BASEURL http://tougaloo.worldcat.org/search
+CATTYPE worldcat
 
 ID OCLC-MUM
 NAME University of Mississippi Libraries
