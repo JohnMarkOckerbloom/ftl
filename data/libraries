@@ -290,6 +290,13 @@ PROVINCE AB
 CATTYPE sirsient
 BASEURL http://ent.calgarypubliclibrary.com
 
+ID OCLC-CNCAR
+NAME Chinook Arch Regional Library System
+LOCATION South central and southwest Alberta libraries
+PROVINCE AB
+CATTYPE bibliocommons
+BASEURL http://chinookarch.bibliocommons.com
+
 ID OCLC-CNEDM
 NAME Edmonton Public Library
 LOCATION Edmonton
@@ -324,6 +331,13 @@ LOCATION Calgary
 PROVINCE AB
 BASEURL http://webapps2.ucalgary.ca/~lcrtest
 KEYURL ${BASEURL}/search/index.php?q=${ARG}
+
+ID OCLC-CN4UL
+NAME University of Lethbridge
+LOCATION Lethbridge
+PROVINCE AB
+CATTYPE summon
+BASEURL http://uleth.summon.serialssolutions.com
 
 ID OCLC-BURPL
 NAME Burnaby Public Library
@@ -3361,7 +3375,7 @@ BASEURL http://alcorn.ent.sirsi.net
 
 ID OCLC-H3R
 NAME Harrison County Library System
-LOCATION Biloxi, Gulfport, and Gulf Coast region
+LOCATION Gulfport, Biloxi, and vicinity
 STATE MS
 CATTYPE verso
 BASEURL http://hclib-verso.auto-graphics.com
@@ -3400,8 +3414,8 @@ ID OCLC-MUM
 NAME University of Mississippi Libraries
 LOCATION Oxford
 STATE MS
-CATTYPE summon
-BASEURL http://olemiss.summon.serialssolutions.com
+CATTYPE innopac
+BASEURL http://umiss.lib.olemiss.edu
 
 ID OCLC-MR4
 NAME Concordia Seminary Library
@@ -4214,6 +4228,16 @@ LOCATION 35+ academic libraries in Oregon, Washington, and Idaho
 STATE OR
 BASEURL http://summit.worldcat.org/search
 CATTYPE worldcat
+
+ID OCLC-OHS
+NAME Oregon Health and Science University
+LOCATION Portland
+STATE OR
+CATTYPE primodl-loc
+BASEURL http://librarysearch.ohsu.edu
+VID OHSU
+LCODE OHSU
+LOC adaptor%2Cscope%3A%28%22OHSU%22%29
 
 ID OCLC-ORY
 NAME Oregon State Library
