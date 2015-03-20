@@ -2485,6 +2485,13 @@ STATE GA
 BASEURL http://gilfind.georgiasouthern.edu/vufind
 CATTYPE vufind
 
+ID OCLC-GSU
+NAME Georgia State University
+LOCATION Atlanta
+STATE GA
+CATTYPE eds
+LCODE gsu1
+
 ID OCLC-GAT
 NAME Georgia Tech Library
 LOCATION Atlanta
@@ -2757,6 +2764,13 @@ BASEURL http://ecatalog1.siouxcitylibrary.org
 CATTYPE ipac20
 PROFILE mn
 
+ID OCLC-NIU
+NAME University of Northern Iowa
+LOCATION Cedar Falls
+STATE IA
+CATTYPE eds
+LCODE s8904665
+
 ID OCLC-IMF
 NAME Allen County Public Library
 LOCATION Fort Wayne and vicinity
@@ -2764,6 +2778,13 @@ STATE IN
 CATTYPE aquabrowser
 SINDEX subject
 BASEURL http://smartcat.acpl.lib.in.us
+
+ID OCLC-IIB
+NAME Butler University
+LOCATION Indianapolis
+STATE IN
+BASEURL http://butler.worldcat.org/search
+CATTYPE worldcat
 
 ID OCLC-IND
 NAME Hesburgh Libraries, University of Notre Dame
@@ -2809,6 +2830,13 @@ STATE IN
 BASEURL http://sirsi.tcpl.lib.in.us/uhtbin/cgisirsi
 CATTYPE sirsiid
 
+ID OCLC-IVU
+NAME Valparaiso University
+LOCATION Valparaiso
+STATE IN
+CATTYPE summon
+BASEURL http://valpo.summon.serialssolutions.com
+
 ID OCLC-KNJ
 NAME Johnson County Library
 LOCATION Overland Park and vicinity
@@ -2839,6 +2867,13 @@ CATTYPE primodl-scope
 VID KU
 LCODE KU
 SCOPE QUICK
+
+ID OCLC-KSW
+NAME Wichita State University
+LOCATION Wichita
+STATE KS
+CATTYPE voyager-vwebv
+BASEURL http://libcat.wichita.edu/vwebv/search
 
 ID OCLC-KBE
 NAME Berea College
@@ -2884,6 +2919,13 @@ STATE KY
 CATTYPE voyager-vwebv
 BASEURL http://infokat.uky.edu/vwebv/search
 
+ID OCLC-KLG
+NAME University of Louisville
+LOCATION Louisville
+STATE KY
+BASEURL http://uofl.worldcat.org/search
+CATTYPE worldcat
+
 ID OCLC-LMJ
 NAME Jefferson Parish Library
 LOCATION Jefferson Parish
@@ -2898,6 +2940,13 @@ STATE LA
 CATTYPE ls2pac
 BASEURL http://ls2.lafourche.org/
 FILTERS S
+
+ID OCLC-LUU
+NAME Louisiana State University
+LOCATION Baton Rouge
+STATE LA
+BASEURL https://lsu.louislibraries.org/uhtbin/cgisirsi
+CATTYPE sirsi
 
 ID OCLC-LLM
 NAME Loyola University New Orleans, Monroe Library
@@ -3755,6 +3804,13 @@ BASEURL http://library.losalamosnm.us
 CATTYPE ipac20
 AINDEX PZAUTH
 
+ID OCLC-IRU
+NAME New Mexico State University
+LOCATION Las Cruces and other campuses
+STATE NM
+CATTYPE voyager-vwebv
+BASEURL http://libcat.nmsu.edu/vwebv/search
+
 ID OCLC-BNG
 NAME Binghamton University
 LOCATION Binghamton
@@ -4190,12 +4246,33 @@ STATE OH
 BASEURL http://encore.toledolibrary.org/iii/encore
 CATTYPE encore
 
+ID OCLC-CIN
+NAME University of Cincinnati
+LOCATION Cincinnati
+STATE OH
+CATTYPE summon
+BASEURL http://uc.summon.serialssolutions.com
+
 ID OCLC-DAY
 NAME University of Dayton
 LOCATION Dayton
 STATE OH
 CATTYPE eds
 LCODE s9003728
+
+ID OCLC-XAV
+NAME Xavier University
+LOCATION Cincinnati
+STATE OH
+CATTYPE innopac
+BASEURL http://xplore.xavier.edu
+
+ID OCLC-OKS
+NAME Oklahoma State University
+LOCATION Stillwater
+STATE OK 
+CATTYPE summon
+BASEURL http://okstate.summon.serialssolutions.com
 
 ID OCLC-OKI
 NAME Southeastern Public Library System of Oklahoma
@@ -4292,6 +4369,16 @@ LOCATION Corvallis and other campuses
 STATE OR
 CATTYPE summon
 BASEURL http://oregonstate.summon.serialssolutions.com
+
+ID OCLC-ORU
+NAME University of Oregon
+LOCATION Eugene
+STATE OR
+BASEURL http://alliance-primo.hosted.exlibrisgroup.com
+CATTYPE primodl-scope
+VID UO
+LCODE UO
+SCOPE everything
 
 ID OCLC-OQX
 NAME Washington County Cooperative Library Services
@@ -4535,6 +4622,13 @@ STATE PA
 CATTYPE vufind
 BASEURL http://know.freelibrary.org/vufind
 
+ID OCLC-PVU
+NAME Villanova University
+LOCATION Villanova
+STATE PA
+CATTYPE vufindgeneral
+BASEURL https://library.villanova.edu/Find/Combined/Results
+
 ID OCLC-RBN
 NAME Brown University Library
 LOCATION Providence
@@ -4580,6 +4674,13 @@ STATE SC
 CATTYPE summon
 BASEURL http://clemson.summon.serialssolutions.com
 
+ID OCLC-ZKJ
+NAME Coastal Carolina University
+LOCATION Conway
+STATE SC
+CATTYPE eds
+LCODE s8462687
+
 ID OCLC-SFM
 NAME Francis Marion University
 LOCATION Florence
@@ -4623,6 +4724,13 @@ STATE SC
 BASEURL http://alpsc5.state.sc.us/
 CATTYPE iii-consortium-member
 LCODE 8
+
+ID OCLC-SPW
+NAME Wofford College
+LOCATION Spartanburg
+STATE SC
+CATTYPE summon
+BASEURL http://wofford.summon.serialssolutions.com
 
 ID OCLC-RCP
 NAME Rapid City Public Libraries
@@ -5327,6 +5435,13 @@ STATE WV
 BASEURL http://aca.iii.com/
 CATTYPE iii-consortium-member
 LCODE 60
+
+ID OCLC-WVU
+NAME West Virginia University
+LOCATION Morgantown
+STATE WV
+CATTYPE summon
+BASEURL http://wvu.summon.serialssolutions.com
 
 ID OCLC-WIW
 NAME Marathon County Public Library
