@@ -1023,6 +1023,15 @@ COUNTRY TW
 CATTYPE sirsi
 BASEURL http://webcat.tpml.edu.tw/uhtbin/cgisirsi
 
+ID TT-BWS
+WCRID 73103
+NAME University of the West Indies
+LOCATION St. Augustine and other campuses
+COUNTRY TT
+CATTYPE primodl
+BASEURL http://uwin-primo.hosted.exlibrisgroup.com
+VID STA
+
 ID OCLC-B9K
 NAME Bilkent University Library
 LOCATION Ankara
@@ -2387,6 +2396,15 @@ STATE FL
 CATTYPE summon
 BASEURL http://miami.summon.serialssolutions.com
 
+ID OCLC-FNP
+NAME University of North Florida
+LOCATION Jacksonville
+STATE FL
+CATTYPE eds
+LCODE s6281220
+GID main
+PROFILE unflib
+
 ID OCLC-1FH
 NAME University of South Florida
 LOCATION Tampa
@@ -2513,6 +2531,13 @@ STATE ID
 CATTYPE sirsient
 LCODE boise
 BASEURL http://lynx.ent.sirsi.net
+
+ID OCLC-OIP
+NAME Boise State University, Albertsons Library
+LOCATION Boise
+STATE ID
+BASEURL http://boisestate.worldcat.org/search
+CATTYPE worldcat
 
 ID OCLC-ZVR
 NAME Coeur d'Alene Public Library
@@ -3813,6 +3838,13 @@ STATE NY
 CATTYPE ids
 LCODE VXV
 
+ID OCLC-ZMC
+NAME Manhattan College
+LOCATION New York
+STATE NY
+BASEURL http://jaspercat.manhattan.edu/
+CATTYPE koha
+
 ID OCLC-MZA
 NAME Metropolitan Museum of Art Libraries
 LOCATION New York
@@ -4158,6 +4190,13 @@ STATE OH
 BASEURL http://encore.toledolibrary.org/iii/encore
 CATTYPE encore
 
+ID OCLC-DAY
+NAME University of Dayton
+LOCATION Dayton
+STATE OH
+CATTYPE eds
+LCODE s9003728
+
 ID OCLC-OKI
 NAME Southeastern Public Library System of Oklahoma
 LOCATION 7 counties in southeast Oklahoma
@@ -4445,6 +4484,15 @@ LOCATION Lincoln University, Chester County
 STATE PA
 CATTYPE vufind
 BASEURL http://vf-lincoln.klnpa.org/vufind
+
+ID OCLC-ROB
+NAME Robert Morris University
+LOCATION Moon Township
+STATE PA
+CATTYPE eds
+LCODE s5508322
+GID main
+PROFILE eds
 
 ID OCLC-TEU
 NAME Temple University Libraries
@@ -4859,6 +4907,13 @@ STATE TX
 BASEURL http://regina.stmarytx.edu
 CATTYPE innopac
 
+ID OCLC-ISM
+NAME Southern Methodist University
+LOCATION Dallas
+STATE TX
+CATTYPE summon
+BASEURL http://smu.summon.serialssolutions.com
+
 ID OCLC-TXA
 NAME Texas A&amp;M University Libraries
 LOCATION College Station
@@ -4928,6 +4983,18 @@ LOCATION Austin
 STATE TX
 CATTYPE summon
 BASEURL http://utexas.summon.serialssolutions.com
+
+# BYU seems to be using custom interface
+# doesn't seem to like -- subdivisions or authors with years
+ID OCLC-UBY
+NAME Brigham Young University
+LOCATION Provo
+STATE UT
+BASEURL https://search.lib.byu.edu/byu/search
+SUBURL ${BASEURL}?f1=subject&o1=contains&set=all&q1=${ARG:NK}
+AUTURL ${BASEURL}?f1=creator&o1=contains&set=all&q1=${ARG:S}
+TITURL ${BASEURL}?f1=title&o1=contains&set=all&q1=${ARG}
+KEYURL ${BASEURL}?set=all&q1=${ARG}
 
 ID OCLC-UUP
 NAME The City Library
