@@ -1873,6 +1873,13 @@ STATE CA
 BASEURL http://encore.co.san-diego.ca.us/iii/encore
 CATTYPE encore
 
+ID OCLC-CDS
+NAME San Diego State University
+LOCATION San Diego
+STATE CA
+BASEURL http://libpac.sdsu.edu
+CATTYPE webpacpro
+
 ID OCLC-SFR
 NAME San Francisco Public Library
 LOCATION San Francisco
@@ -1966,6 +1973,13 @@ CATTYPE ipac20
 PROFILE thq
 AINDEX .AW
 TINDEX ALLTITL
+
+ID OCLC-CLU
+NAME UCLA: University of California Los Angeles
+LOCATION Los Angeles
+STATE CA
+BASEURL http://ucla.worldcat.org/search
+CATTYPE worldcat
 
 ID OCLC-CUV
 NAME University of California Davis
@@ -3990,6 +4004,23 @@ STATE NY
 CATTYPE summon
 BASEURL http://rit.summon.serialssolutions.com
 
+ID OCLC-VZF
+NAME St. Francis College
+LOCATION Brooklyn
+STATE NY
+CATTYPE primodl-scope
+BASEURL http://tcna.primo.hosted.exlibrisgroup.com
+VID STFRANCISCOLL
+LCODE STFRANCISCOLL
+SCOPE EVERYTHING
+
+ID OCLC-ZSJ
+NAME St. John's University
+LOCATION New York
+STATE NY
+BASEURL http://stjohns.waldo.kohalibrary.com
+CATTYPE koha
+
 ID OCLC-YSM
 NAME Stony Brook University Libraries
 LOCATION Stony Brook
@@ -4074,6 +4105,13 @@ STATE NC
 CATTYPE aquabrowser
 BASEURL http://catalog.cmlibrary.org
 
+ID OCLC-NNM
+NAME Davidson College
+LOCATION Davidson
+STATE NC
+BASEURL http://davidson.worldcat.org/search
+CATTYPE worldcat
+
 ID OCLC-NDD
 NAME Duke University Libraries
 LOCATION Durham
@@ -4145,6 +4183,16 @@ LOCATION Minot
 STATE ND
 CATTYPE atriuum
 BASEURL http://atriuum.minotlibrary.org/opac/mpl/index.html?mode=main#search:
+
+ID OCLC-NWQ
+NAME North Dakota State University
+LOCATION Fargo
+STATE ND
+CATTYPE primodl-scope
+BASEURL http://odin-primo.hosted.exlibrisgroup.com/
+VID ndsu
+LCODE NDSU
+SCOPE NDSU_ALL
 
 ID OCLC-APL
 NAME Akron-Summit County Public Library
@@ -4287,6 +4335,16 @@ LOCATION Tulsa
 STATE OK
 CATTYPE bibliocommons
 BASEURL http://tccl.bibliocommons.com
+
+ID OCLC-OKUBL
+NAME University of Oklahoma
+LOCATION Norman
+STATE OK
+CATTYPE primodl-scope
+BASEURL http://ou-primo.hosted.exlibrisgroup.com
+VID OU
+LCODE OU
+SCOPE default_scope
 
 ID OCLC-ABY
 NAME Albany Public Library
@@ -4643,6 +4701,14 @@ STATE RI
 BASEURL http://catalog.oslri.net/
 CATTYPE iii-consortium-member
 LCODE 1
+
+ID OCLC-PRC
+NAME Providence College
+LOCATION Providence
+STATE RI
+BASEURL http://library.uri.edu
+CATTYPE iii-consortium-member
+LCODE 4
 
 ID OCLC-ZKE
 NAME Allen University
@@ -5022,6 +5088,13 @@ STATE TX
 CATTYPE summon
 BASEURL http://smu.summon.serialssolutions.com
 
+ID OCLC-TXK
+NAME Stephen F. Austin State University
+LOCATION Nacogdoches
+STATE TX
+CATTYPE vufindgeneral
+BASEURL https://library.sfasu.edu/find/Combined/Results
+
 ID OCLC-TXA
 NAME Texas A&amp;M University Libraries
 LOCATION College Station
@@ -5261,13 +5334,6 @@ STATE VA
 CATTYPE summon
 BASEURL http://vt.summon.serialssolutions.com
 
-ID OCLC-BLP
-NAME Bellingham Public Library
-LOCATION Bellingham
-STATE WA
-CATTYPE bibliocommons
-BASEURL http://bellingham.bibliocommons.com
-
 ID OCLC-BNT
 NAME Bennington College
 LOCATION Bennington
@@ -5296,6 +5362,13 @@ STATE VT
 BASEURL http://catalog.rutlandfree.org
 CATTYPE koha
 
+ID OCLC-BLP
+NAME Bellingham Public Library
+LOCATION Bellingham
+STATE WA
+CATTYPE bibliocommons
+BASEURL http://bellingham.bibliocommons.com
+
 ID OCLC-BGTON
 NAME Burlington Public Library
 LOCATION Burlington
@@ -5303,6 +5376,26 @@ STATE WA
 BASEURL http://burlington.skagitcat.org/eg/opac
 CATTYPE evergreen-dynamic
 LCODE 4
+
+ID OCLC-WEA
+NAME Eastern Washington University
+LOCATION Cheney and Spokane
+CATTYPE primodl-loc
+BASEURL http://libsearch.ewu.edu
+STATE WA
+VID EWU
+LCODE EWU
+LOC adaptor,scope:(EWU),scope:(EWU_RIVERPOINT),scope:(EWU_CR),scope:(P),scope:(E-EWU),primo_central_multiple_fe
+
+ID OCLC-WUG
+NAME Gonzaga University
+LOCATION Spokane
+STATE WA
+CATTYPE primodl-scope
+BASEURL http://win-primo.hosted.exlibrisgroup.com
+LCODE FOLEY
+VID FOLEY
+SCOPE Foley_Everything
 
 ID OCLC-HNW
 NAME Hurst Library, Northwest University
