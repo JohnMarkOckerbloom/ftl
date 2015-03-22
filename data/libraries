@@ -1636,6 +1636,13 @@ STATE AR
 BASEURL http://library.uark.edu
 CATTYPE innopac
 
+ID OCLC-AKU
+NAME University of Arkansas at Little Rock
+LOCATION Little Rock
+STATE AR
+LCODE s4877054
+CATTYPE eds
+
 ID OCLC-1JQ
 NAME Alameda County Library
 LOCATION East Bay communities south of Oakland
@@ -1670,6 +1677,14 @@ LOCATION San Luis Obispo
 STATE CA
 BASEURL http://find.lib.calpoly.edu/articles
 CATTYPE xerxes
+
+ID OCLC-CNO
+NAME California State University, Northridge (CSUN)
+LOCATION Northridge
+STATE CA
+BASEURL http://library.calstate.edu/northridge/articles
+CATTYPE xerxes
+FILTERS S
 
 ID OCLC-CSA
 NAME California State University, Sacramento (Sacramento State)
@@ -2166,6 +2181,13 @@ STATE CT
 BASEURL http://catalog.norwalklib.org
 CATTYPE innopac
 
+ID OCLC-GTA
+NAME Quinnipiac University
+LOCATION Hamden
+STATE CT
+CATTYPE summon
+BASEURL http://quinnipiac.summon.serialssolutions.com
+
 ID OCLC-GWB
 NAME Silas Bronson Library
 LOCATION Waterbury
@@ -2215,6 +2237,13 @@ LOCATION Newark
 STATE DE
 BASEURL http://udel.worldcat.org/search
 CATTYPE worldcat
+
+ID OCLC-EAU
+NAME American University
+LOCATION Washington
+STATE DC
+CATTYPE summon
+BASEURL http://american.summon.serialssolutions.com
 
 ID OCLC-DAW
 NAME District of Columbia Public Library
@@ -2309,6 +2338,13 @@ NAME Florida A&amp;M University
 LOCATION Tallahassee
 STATE FL
 BASEURL http://famu.catalog.fcla.edu/am.jsp
+CATTYPE fcla
+
+ID OCLC-FGA
+NAME Florida Gulf Coast University
+LOCATION Fort Myers
+STATE FL
+BASEURL http://fgcu.catalog.fcla.edu/gc.jsp
 CATTYPE fcla
 
 ID OCLC-FMC
@@ -2633,6 +2669,13 @@ STATE IL
 BASEURL http://lrc.cod.edu
 CATTYPE innopac
 
+ID OCLC-IAC
+NAME DePaul University
+LOCATION Chicago
+STATE IL
+BASEURL http://depaul.worldcat.org/search
+CATTYPE worldcat
+
 ID OCLC-IHE
 NAME Evanston Public Library
 LOCATION Evanston
@@ -2940,6 +2983,16 @@ STATE KY
 BASEURL http://uofl.worldcat.org/search
 CATTYPE worldcat
 
+ID OCLC-9KN
+NAME Western Kentucky University
+LOCATION Bowling Green and other campuses
+STATE KY
+CATTYPE primodl-loc
+BASEURL http://tcna.primo.hosted.exlibrisgroup.com
+VID WKU
+LCODE WKU
+LOC adaptor,scope:("WKTY"),primo_central_multiple_fe
+
 ID OCLC-LMJ
 NAME Jefferson Parish Library
 LOCATION Jefferson Parish
@@ -2985,6 +3038,13 @@ LOCATION New Orleans
 STATE LA
 BASEURL http://ipac.neworleanspubliclibrary.org/polaris
 CATTYPE polaris
+
+ID OCLC-LNW
+NAME Northwestern State University
+LOCATION Natchitoches and other campuses
+STATE LA
+BASEURL https://nsula.louislibraries.org:6603/uhtbin/cgisirsi
+CATTYPE sirsi
 
 ID OCLC-LA8
 NAME Shreve Memorial Library
@@ -3491,6 +3551,13 @@ BASEURL http://mlco-verso.auto-graphics.com
 CID mlco
 LCODE mlco
 
+ID OCLC-MFM
+NAME Mississippi State University
+LOCATION Starkville, Meridian, and Jackson
+STATE MS
+CATTYPE eds
+LCODE magn1307
+
 ID OCLC-TGC
 NAME Tougaloo College
 LOCATION Tougaloo
@@ -3622,6 +3689,17 @@ LOCATION Bozeman
 STATE MT
 CATTYPE summon
 BASEURL http://montana.summon.serialssolutions.com
+
+ID OCLC-MTG
+NAME University of Montana, Mansfield Library
+LOCATION Missoula
+STATE MT
+CATTYPE primodl-scope
+BASEURL http://montana-primo.hosted.exlibrisgroup.com
+VID UMMISS
+LCODE UMMISS
+SCOPE UMMISS_PLUS
+
 
 ID OCLC-NLN
 NAME Lincoln City Libraries
@@ -3780,6 +3858,13 @@ LOCATION Galloway
 STATE NJ
 CATTYPE summon
 BASEURL http://stockton.summon.serialssolutions.com
+
+ID OCLC-NJR
+NAME Rutgers University Libraries
+LOCATION New Brunswick, Newark, and Camden
+STATE NJ
+BASEURL https://www-iris-rutgers-edu.proxy.libraries.rutgers.edu/uhtbin/cgisirsi
+CATTYPE sirsi
 
 ID OCLC-STH
 NAME Seton Hall University
@@ -4256,6 +4341,14 @@ LOCATION Columbus
 STATE OH
 BASEURL http://osu.worldcat.org/search
 CATTYPE worldcat
+
+ID OCLC-OUN
+NAME Ohio University
+LOCATION Athens and other campuses
+STATE OH
+CATTYPE iii-consortium-member
+BASEURL http://alice.library.ohiou.edu
+LCODE 7
 
 ID OCLC-OWU
 NAME Ohio Wesleyan University
@@ -4783,6 +4876,13 @@ BASEURL http://sclends.lib.sc.us/eg/opac
 CATTYPE evergreen-dynamic
 LCODE 1
 
+ID OCLC-SZR
+NAME University of South Carolina
+LOCATION Columbia and other campuses
+STATE SC
+CATTYPE encore
+BASEURL http://libcore.csd.sc.edu/iii/encore
+
 ID OCLC-VCM
 NAME Voorhees College
 LOCATION Denmark
@@ -4819,6 +4919,15 @@ LOCATION Various libraries throughout the state
 STATE SD
 CATTYPE aleph1
 BASEURL http://argos.sdln.net
+
+ID OCLC-SDB
+NAME South Dakota State University
+LOCATION Brookings
+STATE SD
+CATTYPE aquabrowser-profile
+BASEURL http://searchsdln.aquabrowser.com/
+LCODE SDB
+SINDEX subject
 
 ID AMERICANBAPTIST
 NAME American Baptist College
@@ -4925,6 +5034,13 @@ BASEURL http://utk-primo.hosted.exlibrisgroup.com
 VID UTK
 LCODE UTK
 SCOPE OneSearch
+
+ID OCLC-TUC
+NAME University of Tennessee Chattanooga
+LOCATION Chattanooga
+STATE TN
+BASEURL http://utc.worldcat.org/search
+CATTYPE worldcat
 
 ID OCLC-1AR
 NAME Arlington Public Library
@@ -5279,6 +5395,21 @@ STATE VA
 BASEURL http://huwebcat.hamptonu.edu/uhtbin/cgisirsi
 CATTYPE sirsi
 
+ID OCLC-VMC
+NAME James Madison University
+LOCATION Harrisonburg
+STATE VA
+LCODE s8863137
+CATTYPE eds
+
+# Looks like they have their own special search box
+# that doesn't handle fields or punctuation well
+ID OCLC-VLB
+NAME Liberty University
+LOCATION Lynchburg
+STATE VA
+KEYURL http://www.liberty.edu/library/search-results/?type=all&q=${ARG:NK}
+
 ID OCLC-AXJ
 NAME Loudoun County Public Library
 LOCATION Leesburg and vicinity
@@ -5558,6 +5689,16 @@ LOCATION Madison and other south-central Wisconsin libraries
 STATE WI
 BASEURL http://www.linkcat.info
 CATTYPE koha
+
+ID OCLC-GZW
+NAME University of Wisconsin Green Bay: Cofrin Library
+LOCATION Green Bay
+STATE WI
+CATTYPE primodl-scope
+BASEURL http://uw-primo.hosted.exlibrisgroup.com
+VID GB
+LCODE GB
+SCOPE default_scope
 
 ID OCLC-GZM
 NAME University of Wisconsin-Madison Libraries
