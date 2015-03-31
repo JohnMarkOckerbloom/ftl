@@ -4408,6 +4408,38 @@ STATE OH
 CATTYPE innopac
 BASEURL http://xplore.xavier.edu
 
+ID OCLC-CKL
+NAME Chickasaw Regional Public Library System
+LOCATION 5 counties in southern Oklahoma
+STATE OK
+CATTYPE ls2pac
+BASEURL http://pac.crlsok.org:8080
+FILTERS SNK
+
+ID OCLC-OEA
+NAME Eastern Oklahoma District Library System
+LOCATION 6 counties in eastern Oklahoma
+STATE OK
+CATTYPE ipac20
+BASEURL http://ipac.eodls.lib.ok.us
+PROFILE eodls
+
+ID OCLC-3OK
+NAME Metropolitan Library System
+LOCATION Oklahoma City and vicinity
+STATE OK
+CATTYPE ls2pac
+BASEURL http://catalog.metrolibrary.org/
+FILTERS S
+
+ID OCLC-OKN
+NAME Northeastern State University
+LOCATION Tahlequah, Broken Arrow, and Muskogee
+STATE OK
+CATTYPE iii-consortium-member
+BASEURL http://library2.nsuok.edu
+LCODE 9
+
 ID OCLC-OKS
 NAME Oklahoma State University
 LOCATION Stillwater
@@ -4415,12 +4447,28 @@ STATE OK
 CATTYPE summon
 BASEURL http://okstate.summon.serialssolutions.com
 
+ID OCLC-OKM
+NAME Pioneer Library System
+LOCATION Cleveland, McClain, and Pottawatomie Counties
+STATE OK 
+CATTYPE sirsient
+LCODE MAIN
+BASEURL http://pion.sdp.sirsi.net
+
 ID OCLC-OKI
 NAME Southeastern Public Library System of Oklahoma
 LOCATION 7 counties in southeast Oklahoma
 STATE OK 
 BASEURL http://unicorn.oklibrary.net/uhtbin/cgisirsi
 CATTYPE sirsi
+
+ID OCLC-OKP
+NAME Southern Prairie Library System
+LOCATION Jackson and Harmon Counties
+STATE OK 
+CATTYPE sirsient
+BASEURL http://spls.ent.sirsi.net
+FILTERS S
 
 ID OCLC-TUL
 NAME Tulsa City-County Library
@@ -4438,6 +4486,14 @@ BASEURL http://ou-primo.hosted.exlibrisgroup.com
 VID OU
 LCODE OU
 SCOPE default_scope
+
+ID OCLC-OWE
+NAME Western Plains Library System
+LOCATION Custer, Dewey, Roger Mills and Washita counties
+STATE OK
+CATTYPE ls2pac-config
+LCODE ysm
+BASEURL http://pac.wplibs.com:8000/
 
 ID OCLC-ABY
 NAME Albany Public Library
