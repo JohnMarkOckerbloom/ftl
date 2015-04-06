@@ -1303,6 +1303,14 @@ COUNTRY UK
 CATTYPE summon
 BASEURL http://staffs.summon.serialssolutions.com
 
+ID OCLC-UKSCS
+NAME Stirling Libraries and Archives
+LOCATION Stirling and vicinity, Scotland
+COUNTRY UK
+BASEURL https://vufind-st.sedar.org.uk/vufind-st
+CATTYPE vufind
+FILTERS S
+
 ID OCLC-LUN
 NAME University College London
 LOCATION London, England
@@ -1815,6 +1823,13 @@ STATE CA
 BASEURL http://encore.oaklandlibrary.org/iii/encore
 CATTYPE encore
 
+ID OCLC-CAPUB
+NAME OC Public Libraries
+LOCATION Orange County
+STATE CA
+CATTYPE sirsient
+BASEURL http://catalog.ocpl.org/
+
 ID OCLC-PAP
 NAME Palo Alto City Library
 LOCATION Palo Alto
@@ -1971,6 +1986,13 @@ BASEURL http://searchworks.stanford.edu
 CATTYPE blacklight
 AINDEX search_author
 FILTERS NK
+
+ID OCLC-CFL
+NAME Stanislaus County Library
+LOCATION Modesto and vicinity
+STATE CA
+CATTYPE ipac20
+BASEURL http://63.200.101.19
 
 ID OCLC-SXP
 NAME Sunnyvale Public Library
