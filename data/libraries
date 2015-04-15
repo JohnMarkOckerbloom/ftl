@@ -47,6 +47,15 @@ BASEURL http://www.europeana.eu/portal
 AUTURL ${BASEURL}/search.html?query=who:${ARG:S}
 KEYURL ${BASEURL}/search.html?query=${ARG:NK}
 
+# hold until checking with suggester about acceptability of results
+# ID AU-AIAS
+# NAME Australian Institute of Aboriginal and Torres Strait Islander Studies
+# LOCATION Canberra, ACT
+# COUNTRY AU
+# CATTYPE sirsi
+# BASEURL http://mura.aiatsis.gov.au/uhtbin/cgisirsi
+# FILTERS SNK
+
 ID AU-ANU
 NAME Australian National University
 LOCATION Canberra, ACT
@@ -5586,6 +5595,16 @@ BASEURL http://burlington.skagitcat.org/eg/opac
 CATTYPE evergreen-dynamic
 LCODE 4
 
+ID OCLC-CWU
+NAME Central Washington University
+LOCATION Ellensburg and other campuses
+STATE WA
+CATTYPE primodl-scope
+BASEURL http://searchlib.cwu.edu
+LCODE CWU
+VID CWU
+SCOPE cwu_alma
+
 ID OCLC-WEA
 NAME Eastern Washington University
 LOCATION Cheney and Spokane
@@ -5595,6 +5614,20 @@ STATE WA
 VID EWU
 LCODE EWU
 LOC adaptor,scope:(EWU),scope:(EWU_RIVERPOINT),scope:(EWU_CR),scope:(P),scope:(E-EWU),primo_central_multiple_fe
+
+ID OCLC-FSKGL
+NAME Fiske Genealogical Library
+LOCATION Seattle
+STATE WA
+BASEURL http://fiske.on.worldcat.org/external-search?queryString
+CATTYPE worldcat-config
+
+ID OCLC-0YE
+NAME Fort Vancouver Regional Library District
+LOCATION Vancouver and vicinity
+STATE WA
+CATTYPE sirsient
+BASEURL http://fvrl.ent.sirsi.net
 
 ID OCLC-WUG
 NAME Gonzaga University
@@ -5701,6 +5734,16 @@ LOCATION Seattle
 STATE WA
 BASEURL http://uwashington.worldcat.org/search
 CATTYPE worldcat
+
+ID OCLC-XFF
+NAME Western Washington University
+LOCATION Bellingham
+STATE WA
+CATTYPE primodl-scope
+BASEURL http://onesearch.library.wwu.edu
+LCODE WWU
+VID WWU
+SCOPE All
 
 ID OCLC-WC3
 NAME Whatcom Community College

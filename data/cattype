@@ -494,6 +494,14 @@ TITURL ${BASEURL}?q=ti%3A${ARG}&qt=advanced&dblist=638
 ATIURL ${BASEURL}?q=ti%3A${TITLE}+au%3A${AUTHOR}&qt=advanced&dblist=638
 KEYURL ${BASEURL}?q=${ARG:NK}&qt=advanced&dblist=638
 
+# some WorldCat Local sites need a bit more configuration
+CATTYPE worldcat-config
+SUBURL ${BASEURL}=su%3A${ARG:NK}&qt=advanced&dblist=638
+AUTURL ${BASEURL}=au%3A${ARG}&qt=advanced&dblist=638
+TITURL ${BASEURL}=ti%3A${ARG}&qt=advanced&dblist=638
+ATIURL ${BASEURL}=ti%3A${TITLE}+au%3A${AUTHOR}&qt=advanced&dblist=638
+KEYURL ${BASEURL}=${ARG:NK}&qt=advanced&dblist=638
+
 CATTYPE xerxes
 SUBURL ${BASEURL}/results?field=subject&query=${ARG:N}
 AUTURL ${BASEURL}/results?field=author&query=${ARG:N}
