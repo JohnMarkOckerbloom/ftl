@@ -118,6 +118,7 @@ sub pageheader {
   my $str = "<html><head><title>FTL: $title</title>";
   $str .= "<link rel=\"stylesheet\" " .
                 " type=\"text/css\" href=\"$FTL::STYLEURL\">";
+  $str .= qq!<meta name="viewport" content="width=device-width, initial-scale=1.0">!;
   $str .= "</head>\n";
   if ($FTL::OLBPBRANDING && source_matches($q, $ONLINEBOOKS_SOURCE)) {
     $str .= $OLBP::bodystart;
