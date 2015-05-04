@@ -4366,6 +4366,21 @@ STATE OH
 BASEURL http://pac.daytonmetrolibrary.org/polaris
 CATTYPE polaris
 
+ID OCLC-ODG
+NAME Delaware County District Library
+LOCATION Delaware, Ostrander, and Powell
+STATE OH
+CATTYPE innopac
+BASEURL http://catalog.delawarelibrary.org
+FILTERS SNK
+
+ID OCLC-LXP
+NAME Lorain Public Library System
+LOCATION Lorain and vicinity
+STATE OH
+CATTYPE bibliocommons
+BASEURL http://lorain.bibliocommons.com
+
 ID OCLC-OSU
 NAME Ohio State University
 LOCATION Columbus
@@ -4409,6 +4424,14 @@ NAME Public Library of Youngstown and Mahoning County
 LOCATION Youngstown and vicinity
 STATE OH
 BASEURL http://encore.libraryvisit.org/iii/encore
+CATTYPE encore
+
+# ID is for Stark County District Library; catalog also covers some nearby libs
+ID OCLC-SDL
+NAME Stark Libraries Information Consortium
+LOCATION Canton and vicinity
+STATE OH
+BASEURL http://catalog.starklibrary.org/iii/encore
 CATTYPE encore
 
 ID OCLC-9TL
