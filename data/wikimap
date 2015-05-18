@@ -9,7 +9,7 @@
 #   or lexical analysis (such as many geographical locations)
 #   are not included in this file.
 # See docs file for documentation
-# Last updated 2015-05-14
+# Last updated 2015-05-18
 # LCSH event sweep left off at 1931
 #
 24 Heures du Mans (Automobile race)|=|24 Hours of Le Mans
@@ -147,7 +147,7 @@ Afghan War, 2001-|<->|War in Afghanistan (2001–present)
 Afghan Wars|=|Anglo-Afghan War
 Afghanistan -- History -- British Intervention, 1838-1842|<->|First Anglo-Afghan War
 Afghanistan -- History -- Saur Revolution, 1978|=|Saur Revolution
-Afghanistan -- History -- Soviet occupation, 1979-1989|<->|Soviet war in Afghanistan
+Afghanistan -- History -- Soviet occupation, 1979-1989|<->|Soviet–Afghan War
 Afghanistan -- Politics and government|<->|Politics of Afghanistan
 Afognak Island (Alaska)|=|Afognak
 Africa -- Religion|=|Religion in Africa
@@ -452,7 +452,7 @@ Anderson, Mount (Wash.)|=|Mount Anderson (Washington)
 Andersonville National Historic Site (Ga.)|=|Andersonville National Historic Site
 Andersonville Prison|->|Andersonville National Historic Site
 Andreanof Islands (Alaska)|=|Andreanof Islands
-Andrews, Archie (Fictitious character)|=|Archie Andrews (comics)
+Andrews, Archie (Fictitious character)|=|Archie Andrews
 Androids|=|Android
 Andromache (Legendary character)|=|Andromache
 Andromeda (Greek mythology)|=|Andromeda (mythology)
@@ -924,7 +924,7 @@ Avebury (England)|<->|Avebury
 Avebury (England)|<-|Avebury, Wiltshire
 Avengers (Fictitious characters)|=|Avengers (comics)
 Averasboro, Battle of, N.C., 1865|=|Battle of Averasborough
-Avondale Mine Disaster, Avondale, Pa., 1869|=|Avondale Mine Disaster
+Avondale Mine Disaster, Avondale, Pa., 1869|=|Avondale Mine disaster
 Awards|=|Award
 Axiomatic set theory|->|Set theory
 Axis (Vertebra)|=|Axis (anatomy)
@@ -1156,7 +1156,7 @@ Bear River Massacre, Idaho, 1863|=|Bear River Massacre
 Bear River Migratory Bird Refuge (Agency : U.S.)|->|Bear River Migratory Bird Refuge
 Bear River Migratory Bird Refuge (Utah)|=|Bear River Migratory Bird Refuge
 Bears|=|Bear
-Bears Paw Mountains (Mont.)|=|Bear Paw Mountains
+Bears Paw Mountains (Mont.)|=|Bears Paw Mountains
 Beartooth Mountains (Mont. and Wyo.)|=|Beartooth Mountains
 Beast of the Apocalypse|=|The beast (Revelation)
 Beatles. Revolver|=|Revolver (Beatles album)
@@ -1271,7 +1271,7 @@ Bern (Switzerland : Canton)|=|Canton of Bern
 Bernina Alps (Italy and Switzerland)|<->|Bernina Range
 Berries|=|Berry
 Besan&ccedil;on (France)|=|Besançon
-Beslan Massacre, Beslan, Russia, 2004|=|Beslan school hostage crisis
+Beslan Massacre, Beslan, Russia, 2004|=|Beslan school siege
 Be&scedil;parmak Mountains (Turkey)|=|Beşparmak Mountains
 Bessarabia (Moldova and Ukraine)|=|Bessarabia
 Bessarabia (Moldova and Ukraine) -- History -- Tatarbunary Uprising, 1924|<->|Tatarbunary Uprising
@@ -2362,7 +2362,7 @@ Chesapeake and Ohio Canal National Historical Park (Agency : U.S.)|->|Chesapeake
 Chesapeake and Ohio Canal National Historical Park|=|Chesapeake and Ohio Canal National Historical Park
 Cheshire West and Chester (England)|=|Cheshire West and Chester
 Chess problems|=|Chess problem
-Chess variations|=|Chess variant
+Chess variations|<->|List of chess variants
 Chester (England)|=|Chester
 Chester plays|=|Chester Mystery Plays
 Chestnut Hill (Philadelphia, Pa.)|=|Chestnut Hill, Philadelphia
@@ -2485,7 +2485,7 @@ China -- History -- Taiping Rebellion, 1850-1864|=|Taiping Rebellion
 China -- History -- Tang dynasty, 618-907|<->|Tang dynasty
 China -- History -- Three kingdoms, 220-265|<->|Three Kingdoms
 China -- History -- Tiananmen Square Incident, 1989|<->|Tiananmen Square protests of 1989
-China -- History -- Tsinan Incident, 1928|=|Jinan Incident
+China -- History -- Tsinan Incident, 1928|=|Jinan incident
 China -- History -- Warlord period, 1916-1928|=|Warlord Era
 China -- History -- White Lotus Rebellion, 1796-1804|<->|White Lotus Rebellion
 China -- History -- Yuan dynasty, 1260-1368|<->|Yuan dynasty
@@ -2649,7 +2649,7 @@ Citizens' Councils of America|<->|Citizens' Councils
 City and Country School (New York, N.Y.)|=|City and Country School
 City and town life|<->|Urban culture
 City Hall (Philadelphia, Pa.)|=|Philadelphia City Hall
-City planning|<->|Theories and process of urban planning
+City planning|<->|Theories of Urban Planning
 City planning -- History|<->|History of urban planning
 Ciudad Ju&aacute;rez, Battle of, Ciudad Ju&aacute;rez, Mexico, 1911|=|Battle of Ciudad Juárez (1911)
 Ciudad Ju&aacute;rez (Mexico)|=|Ciudad Juárez
@@ -3564,7 +3564,7 @@ DNA fingerprinting|=|DNA profiling
 Dobro Pole, Battle of, Serbia, 1918|=|Battle of Dobro Pole
 Dock Strike, London, England, 1889|=|London Dock Strike of 1889
 Docks|=|Dock (maritime)
-Doctor (Fictitious character)|=|Doctor (Doctor Who)
+Doctor (Fictitious character)|=|The Doctor (Doctor Who)
 Doctor of philosophy degree|=|Doctor of Philosophy
 Doctors of the church|=|Doctor of the Church
 Document markup languages|<->|Markup language
@@ -4613,7 +4613,7 @@ France -- History -- February Revolution, 1848|=|French Revolution of 1848
 France -- History -- First Republic, 1792-1804|<->|French First Republic
 France -- History -- Insurrection, 1792|<->|10 August (French Revolution)
 France -- History -- Insurrection of the Camisards, 1702-1710|->|Camisard
-France -- History -- Invasion of 1814|<->|1814 campaign in north-east France
+France -- History -- Invasion of 1814|<->|Campaign in north-east France (1814)
 France -- History -- July Revolution, 1830|=|July Revolution
 France -- History -- Medieval period, 987-1515|<->|France in the Middle Ages
 France -- History -- Regency, 1715-1723|=|Régence
@@ -5463,7 +5463,7 @@ Heaven's Gate (Organization)|=|Heaven's Gate (religious group)
 Heaven's gate (Motion picture)|=|Heaven's Gate (film)
 Heavy metal (Motion picture)|=|Heavy Metal (film)
 Heavy metal (Music)|=|Heavy metal music
-Heavy metals|=|Heavy metal (chemistry)
+Heavy metals|<->|Toxic heavy metal
 Hebrides (Scotland)|=|Hebrides
 Hebron Massacre, Hebron, 1994|=|Cave of the Patriarchs massacre
 Hecuba (Legendary character)|=|Hecuba
@@ -6210,7 +6210,6 @@ Iraq -- History -- Zanj Rebellion, 868-883|<->|Zanj Rebellion
 Iraq -- Politics and government|<->|Politics of Iraq
 Iraq -- Politics and government|<-|Federal government of Iraq
 Iraq War, 2003-2011|<->|Iraq War
-Iraqis|=|Iraqi people
 Ireland -- History -- Civil War, 1922-1923|=|Irish Civil War
 Ireland -- History -- Easter Rising, 1916|=|Easter Rising
 Ireland -- History -- Emmet's Rebellion, 1803|=|Irish Rebellion of 1803
@@ -6711,7 +6710,7 @@ Kineo, Mount (Me.)|=|Mount Kineo
 Kinetic theory of gases|=|Kinetic theory
 Kinetograph|->|Kinetoscope
 Kinetophone|->|Kinetoscope
-King, Martin Luther, Jr., 1929-1968 -- Assassination|=|Assassination of Martin Luther King Jr.
+King, Martin Luther, Jr., 1929-1968 -- Assassination|=|Assassination of Martin Luther King, Jr.
 King George Island (Antarctica)|=|King George Island (South Shetland Islands)
 King George VI and Queen Elizabeth Diamond Stakes|=|King George VI and Queen Elizabeth Stakes
 King John's Castle (Limerick, Limerick, Ireland)|=|King John's Castle (Limerick)
@@ -6746,7 +6745,6 @@ Kissing|<->|Kiss
 Kitchen utensils|=|Kitchen utensil
 Kites|=|Kite
 Kitgum District (Uganda)|=|Kitgum District
-Kittatinny Mountain|<->|Kittatinny Mountains
 Kiwanis International|<->|Kiwanis
 Klamath Mountains (Calif. and Or.)|=|Klamath Mountains
 Klamath National Forest (Agency : U.S.)|->|Klamath National Forest
@@ -7053,8 +7051,8 @@ LeConte, Mount (Tenn.)|=|Mount Le Conte (Tennessee)
 Lecter, Hannibal (Fictitious character)|=|Hannibal Lecter
 Lecturers|=|Lecturer
 Leda (Greek mythology)|=|Leda (mythology)
-Lee-Enfield rifle|=|Lee-Enfield
-Lee-Metford rifle|=|Lee-Metford
+Lee-Enfield rifle|=|Lee–Enfield
+Lee-Metford rifle|=|Lee–Metford
 Leeches|=|Leech
 Leeds (England)|=|Leeds
 Leeds (England) -- History|=|History of Leeds
@@ -7139,8 +7137,9 @@ Liberty bonds|=|Liberty bond
 Liberty of conscience|<->|Freedom of thought
 Liberty Party (U.S. : 1840-1848)|=|Liberty Party (United States, 1840)
 Librarians|=|Librarian
+Librarians -- Fiction|<->|Libraries and librarians in fiction
 Libraries|=|Library
-Libraries -- Fiction|<->|Libraries in fiction
+Libraries -- Fiction|->|Libraries and librarians in fiction
 Libraries -- Publishing|<->|Library publishing
 Library administration|<->|Library management
 Library catalogs|=|Library catalog
@@ -7927,7 +7926,6 @@ Mexican War, 1846-1848|=|Mexican–American War
 Mexican War, 1846-1848 -- Campaigns|<->|Mexican–American War campaigns
 Mexican War, 1846-1848 -- Campaigns -- California|<->|Conquest of California
 Mexican War, 1846-1848 -- Regimental histories -- United States|<->|List of U.S. Army, Navy, and volunteer units in the Mexican–American War
-Mexicans|=|Mexican people
 Mexico -- Boundaries -- United States|->|Mexico–United States border
 Mexico -- History -- Conquest, 1519-1540|<->|Spanish conquest of the Aztec Empire
 Mexico -- History -- Decena Tr&aacute;gica, 1913|=|Ten Tragic Days
@@ -8395,7 +8393,7 @@ Museum of Non-Objective Painting|->|Solomon R. Guggenheim Museum
 Museum of the Confederacy (Richmond, Va.)|=|Museum of the Confederacy
 Museum theater|<->|Museum theatre
 Museums|=|Museum
-Musha Rebellion, 1930|<->|Wushe Incident
+Musha Rebellion, 1930|<->|Wushe incident
 Mushrooms|=|Mushroom
 Music -- 20th century|<->|20th-century music
 Musical canon|->|Canon (music)
@@ -8511,7 +8509,7 @@ National parks and reserves|<->|National park
 National Railroad Shopmen's Strike, U.S., 1922|<->|Great Railroad Strike of 1922
 National Research and Education Network (Computer network)|=|National research and education network
 National Rifle Association of America|=|National Rifle Association
-National security -- United States|=|National Security of the United States
+National security -- United States|=|National security of the United States
 National Security Council (U.S.)|=|United States National Security Council
 National socialism|=|Nazism
 National socialism and occultism|=|Nazism and occultism
@@ -9354,7 +9352,7 @@ Palestine -- History -- Arab rebellion, 1936-1939|=|1936–39 Arab revolt in Pal
 Palestine -- History -- Arab riots, 1920|<->|1920 Nebi Musa riots
 Palestine -- History -- Arab riots, 1929|<->|1929 Palestine riots
 Palestine -- History -- Partition, 1947|<->|United Nations Partition Plan for Palestine
-Palestinian Arabs|<->|Palestinian people
+Palestinian Arabs|<->|Palestinians
 Palimpsests|=|Palimpsest
 Pallas (Asteroid)|=|2 Pallas
 Palliative treatment|=|Palliative care
@@ -9394,7 +9392,7 @@ P&amacr;n&imacr;pat (India)|=|Panipat
 Panipat, Battle of, P&amacr;n&imacr;pat, India, 1526|=|First Battle of Panipat
 Panipat, Battle of, P&amacr;n&imacr;pat, India, 1556|=|Second Battle of Panipat
 Panipat, Battle of, P&amacr;n&imacr;pat, India, 1761|=|Third Battle of Panipat
-Panjabis (South Asian people)|=|Punjabi people
+Panjabis (South Asian people)|=|Punjabis
 Panola Mountain (Ga.)|=|Panola Mountain
 Pansies|=|Pansy
 Pantano de Vargas, Battle of, Colombia, 1819|=|Vargas Swamp Battle
@@ -9830,7 +9828,7 @@ Poland -- History -- Mongol Invasion, 1241|<->|First Mongol invasion of Poland
 Poland -- History -- Occupation, 1939-1945|=|Occupation of Poland (1939–45)
 Poland -- History -- Partition period, 1763-1796|<->|Partitions of Poland
 Poland -- History -- Piast period, 960-1386|<->|History of Poland during the Piast dynasty
-Poland -- History -- Rebellion of Lubomirski, 1665-1666|=|Lubomirski's Rokosz
+Poland -- History -- Rebellion of Lubomirski, 1665-1666|=|Lubomirski's Rebellion
 Poland -- History -- Rebellion of Zebrzydowski, 1606-1609|=|Zebrzydowski Rebellion
 Poland -- History -- Revolution, 1830-1832|<->|November Uprising
 Poland -- History -- Revolution, 1863-1864|<->|January Uprising
@@ -10246,7 +10244,6 @@ Puerperium|=|Postpartum period
 Puerto Rico -- History -- Insurrection, 1868|=|Grito de Lares
 Puerto Rico -- Politics and government|<->|Politics of Puerto Rico
 Puerto Rico -- Politics and government|<-|Government of Puerto Rico
-Puerto Ricans|=|Puerto Rican people
 Puget Sound (Wash.)|=|Puget Sound
 Pugwash, Captain (Fictitious character)|=|Captain Pugwash
 Pukapuka Atoll (Cook Islands)|=|Pukapuka
@@ -10269,7 +10266,7 @@ Puppets|=|Puppet
 Puppies|=|Puppy
 Puritans|=|Puritan
 Pushto language|=|Pashto language
-Pushtuns|=|Pashtun people
+Pushtuns|=|Pashtuns
 Putney (London, England)|=|Putney
 Puzzles|=|Puzzle
 Pwllheli (Wales)|=|Pwllheli
@@ -10594,7 +10591,7 @@ Rhine River Valley|=|Rhine Valley
 Rhode Island, Battle of, R.I., 1778|=|Battle of Rhode Island
 Rhode Island -- History -- Civil War, 1861-1865|=|Rhode Island in the American Civil War
 Rhode Island -- History -- Colonial period, ca. 1600-1775|<->|Colony of Rhode Island and Providence Plantations
-Rhode Island -- Politics and government|<->|Elections in Rhode Island
+Rhode Island -- Politics and government|<->|Politics of Rhode Island
 Rhode Island -- Politics and government|<-|Government of Rhode Island
 Rhode Island red chicken|=|Rhode Island Red
 Rhodes (Greece)|=|Rhodes (city)
@@ -10941,7 +10938,7 @@ Salem Church, Battle of, Va., 1863|=|Battle of Salem Church
 Saline water conversion|<->|Desalination
 Salish language|->|Salishan languages
 Salish Sea (B.C. and Wash.)|=|Salish Sea
-Saliva language|=|Saliba language (South America)
+Saliva language|=|Saliba language
 Salmon canneries|=|Salmon cannery
 Salons|=|Salon (gathering)
 Salsa (Music)|=|Salsa music
@@ -10961,7 +10958,7 @@ Salvation outside the Catholic Church|<->|Extra Ecclesiam nulla salus
 Salvationists|->|The Salvation Army
 Salzburg (Austria)|=|Salzburg
 Salzburg (Austria : Land)|=|Salzburg (state)
-Samma dynasty, ca. 1350-ca. 1520|=|Samma Dynasty
+Samma dynasty, ca. 1350-ca. 1520|=|Samma dynasty
 Samoa -- Religion|=|Religion in Samoa
 San (African people)|<->|San people
 San Andreas Fault (Calif.)|=|San Andreas Fault
@@ -12131,7 +12128,7 @@ Student government|<->|Students' union
 Student housing|->|Dormitory
 Student movements|=|Student activism
 Students|=|Student
-Student unions|=|Student activity center
+Student unions|=|Student center
 Stundists|=|Shtundists
 Stunt flying|=|Aerobatics
 Stuttgart (Germany)|=|Stuttgart
@@ -12177,7 +12174,6 @@ Sullivan's Indian Campaign, 1779|=|Sullivan Expedition
 Sullys Hill National Game Preserve (Agency: U.S.)|->|Sullys Hill National Game Preserve
 Sullys Hill National Game Preserve (N.D.)|=|Sullys Hill National Game Preserve
 Sultan Mountain (Colo.)|=|Sultan Mountain
-Sultana (Steamboat)|=|SS Sultana
 Sulu, Hikaru (Fictitious character)|=|Hikaru Sulu
 Sulu Archipelago (Philippines)|=|Sulu Archipelago
 Sumerians|->|Sumer
@@ -12632,7 +12628,7 @@ Todd, Sweeney (Legendary character)|=|Sweeney Todd
 Toeplitz matrices|=|Toeplitz matrix
 Togaviruses|=|Togaviridae
 Togo -- Politics and government|<->|Politics of Togo
-Tohono O'odham Indians|<->|Tohono O'odham
+Tohono O'odham Indians|<->|Tohono O'odham people
 Toiyabe Range (Nev.)|=|Toiyabe Range
 Tokyo (Japan)|=|Tokyo
 Tokyo Trial, Tokyo, Japan, 1946-1948|->|International Military Tribunal for the Far East
@@ -12742,7 +12738,7 @@ Transverse Mercator projection (Cartography)|=|Transverse Mercator projection
 Transverse Ranges (Calif.)|=|Transverse Ranges
 Transylvania (Romania)|=|Transylvania
 Transylvania (Romania) -- History|=|History of Transylvania
-Transylvania (Romania) -- History -- Peasant Uprising, 1437-1438|<->|Budai Nagy Antal Revolt
+Transylvania (Romania) -- History -- Peasant Uprising, 1437-1438|<->|Budai Nagy Antal revolt
 Transylvania (Romania) -- History -- Peasant Uprising, 1784|<->|Revolt of Horea, Cloșca and Crișan
 Trappers|=|Trapper
 Trasimeno, Lake (Italy)|=|Lake Trasimeno
@@ -13130,7 +13126,7 @@ United States Exploring Expedition (1838-1842)|=|United States Exploring Expedit
 United States. Fair Labor Standards Act of 1938|=|Fair Labor Standards Act
 United States. Federal Aviation Administration|=|Federal Aviation Administration
 United States. Federal Bureau of Investigation|=|Federal Bureau of Investigation
-United States. Federal Communications Commission|=|Federal Communications Commission
+United States. Federal Communications Commission|=|U.S. Federal Communications Commission
 United States. Federal Election Commission|=|Federal Election Commission
 United States -- Foreign relations|<->|Foreign policy of the United States
 United States -- Foreign relations|<-|Foreign relations of the United States
@@ -13274,7 +13270,7 @@ Upper Austria (Austria)|=|Upper Austria
 Upper Peninsula (Mich.)|=|Upper Peninsula of Michigan
 Ural Mountains (Russia)|=|Ural Mountains
 Uranus (Planet)|=|Uranus
-Urban policy|->|Theories and process of urban planning
+Urban policy|->|Theories of Urban Planning
 Urbino Studiolo (Palazzo ducale, Urbino, Italy)|->|Palazzo Ducale, Urbino
 Urdu language|=|Urdu
 Uri (Switzerland)|=|Canton of Uri

@@ -360,6 +360,15 @@ DEFAULT DOMAIN
 
 CATTYPE sirsient
 LCODE default
+SUBURL ${BASEURL}/client/${LCODE}/search/results?&rt=false|||SUBJECT|||Subject&qu="${ARG}"
+AUTURL ${BASEURL}/client/${LCODE}/search/results?&rt=false|||AUTHOR|||Author&qu="${ARG}"
+TITURL ${BASEURL}/client/${LCODE}/search/results?&rt=false|||TITLE|||Title&qu="${ARG}"
+KEYURL ${BASEURL}/client/${LCODE}/search/results?qu=${ARG}
+
+# Older versions of SIRSI enterprise (not hosted with SIRSI) sometimes
+# have rt arguments in different order
+CATTYPE sirsient-old
+LCODE default
 SUBURL ${BASEURL}/client/${LCODE}/search/results?&rt=SUBJECT|||Subject|||false&qu="${ARG}"
 AUTURL ${BASEURL}/client/${LCODE}/search/results?&rt=AUTHOR|||Author|||false&qu="${ARG}"
 TITURL ${BASEURL}/client/${LCODE}/search/results?&rt=TITLE|||Title|||false&qu="${ARG}"

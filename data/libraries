@@ -296,8 +296,8 @@ ID OCLC-CN5O6
 NAME Calgary Public Library
 LOCATION Calgary
 PROVINCE AB
-CATTYPE sirsient
-BASEURL http://ent.calgarypubliclibrary.com
+CATTYPE bibliocommons
+BASEURL http://calgary.bibliocommons.com
 
 ID OCLC-CNCAR
 NAME Chinook Arch Regional Library System
@@ -1045,7 +1045,7 @@ ID OCLC-B9K
 NAME Bilkent University Library
 LOCATION Ankara
 COUNTRY TR
-CATTYPE sirsient
+CATTYPE sirsient-old
 LCODE university
 BASEURL http://librarycatalog.bilkent.edu.tr
 
@@ -1444,7 +1444,7 @@ ID OCLC-MWT
 NAME Alabama A&amp;M University
 LOCATION Normal
 STATE AL
-CATTYPE sirsient
+CATTYPE sirsient-old
 LCODE default
 BASEURL http://alabamam.sdp.sirsi.net
 
@@ -1475,8 +1475,7 @@ NAME Mobile Public Library
 LOCATION Mobile
 STATE AL
 CATTYPE sirsient
-LCODE default
-LCODE en_US/http
+LCODE en_US/default
 BASEURL http://mobi.ent.sirsi.net
 
 # Can't find a WorldCat registry ID for this; use my own
@@ -2112,7 +2111,7 @@ ID OCLC-CQU
 NAME Pikes Peak Library District
 LOCATION Colorado Springs, and El Paso County
 STATE CO
-CATTYPE sirsient
+CATTYPE sirsient-old
 LCODE PPLD
 BASEURL http://pikp.ent.sirsi.net
 
@@ -2512,7 +2511,7 @@ ID OCLC-AFPLS
 NAME Atlanta-Fulton Public Library System
 LOCATION Atlanta and vicinity
 STATE GA
-CATTYPE sirsient
+CATTYPE sirsient-old
 BASEURL http://afpl.ent.sirsi.net
 
 ID OCLC-AUU
@@ -2700,6 +2699,14 @@ STATE IL
 BASEURL http://lrc.cod.edu
 CATTYPE innopac
 
+ID OCLC-JED
+NAME Cooperative Computer Services
+LOCATION 24 libraries in northwestern Chicago suburbs
+STATE IL
+CATTYPE sirsient
+LCODE ccs
+BASEURL http://ccsp.ent.sirsi.net
+
 ID OCLC-IAC
 NAME DePaul University
 LOCATION Chicago
@@ -2726,6 +2733,7 @@ NAME Resource Sharing Alliance (RSA)
 LOCATION Libraries in west central Illinois
 STATE IL
 CATTYPE sirsient
+LCODE en_US/RSA
 BASEURL http://alsi.sdp.sirsi.net
 
 ID OCLC-JDP
@@ -3549,7 +3557,7 @@ ID OCLC-MLU
 NAME Alcorn State University
 LOCATION Lorman
 STATE MS
-CATTYPE sirsient
+CATTYPE sirsient-old
 BASEURL http://alcorn.ent.sirsi.net
 
 ID OCLC-H3R
@@ -5072,7 +5080,7 @@ ID OCLC-TMN
 NAME Memphis Public Library and Information Center
 LOCATION Memphis
 STATE TN
-CATTYPE sirsient
+CATTYPE sirsient-old
 BASEURL http://mpub.ent.sirsi.net
 
 ID OCLC-TXM
