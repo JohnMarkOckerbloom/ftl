@@ -9,7 +9,7 @@
 #   or lexical analysis (such as many geographical locations)
 #   are not included in this file.
 # See docs file for documentation
-# Last updated 2015-05-18
+# Last updated 2015-05-29
 # LCSH event sweep left off at 1931
 #
 24 Heures du Mans (Automobile race)|=|24 Hours of Le Mans
@@ -91,6 +91,7 @@ Actaeon (Greek mythology)|=|Actaeon
 Acteal Massacre, Acteal, Mexico, 1997|=|Acteal massacre
 ACTH|=|Adrenocorticotropic hormone
 Actinide elements|=|Actinide
+Actinium -- Isotopes|=|Isotopes of actinium
 Actium, Battle of, 31 B.C.|=|Battle of Actium
 Actors|=|Actor
 Actresses|->|Actor
@@ -209,6 +210,7 @@ Air|<->|Atmosphere of Earth
 Air forces|=|Air force
 Air-India Flight 182 Bombing Incident, 1985|<->|Air India Flight 182
 Air pilots|=|Pilot (aeronautics)
+Air pressure|->|Atmospheric pressure
 Air-pump|=|Air pump
 Aircraft carriers|=|Aircraft carrier
 Airdevronsix Icefalls (Antarctica)|=|Airdevronsix Icefalls
@@ -507,6 +509,7 @@ Annandale and Eskdale (Scotland : District)|=|Annandale and Eskdale
 Annapolis Royal (N.S.) -- History -- Siege, 1710|<->|Siege of Port Royal (1710)
 Annette Island (Alaska)|=|Annette Island
 Annuities|=|Annuity
+Anorgasmy|=|Anorgasmia
 Anoxic zones|<-|Anoxic waters
 Anoxic zones|<->|Dead zone (ecology)
 Ansei Edo Earthquake, Japan, 1855|=|1855 Edo earthquake
@@ -871,6 +874,8 @@ Auschwitz (Concentration camp)|=|Auschwitz concentration camp
 Ausdehnungslehre|->|Hermann Grassmann
 Aust-Agder fylke (Norway)|=|Aust-Agder
 Austerlitz, Battle of, Czech Republic, 1805|=|Battle of Austerlitz
+Australia -- Discovery and exploration|<->|European exploration of Australia
+Australia -- History -- 1788-1851|<->|History of Australia (1788–1850)
 Australia -- Politics and government|<->|Politics of Australia
 Australia -- Politics and government|<-|Government of Australia
 Australian|->|Australia
@@ -953,6 +958,7 @@ Babington Plot, 1586|=|Babington Plot
 Baboquivari Peak Wilderness (Ariz.)|=|Baboquivari Peak Wilderness
 Baby boom generation|=|Baby boomers
 Babylon (Extinct city)|<->|Babylon
+Babylon 5 (Television program)|<->|Babylon 5
 Baccalaureate addresses|=|Commencement speech
 Bacchantes|=|Maenad
 Bachelor, Mount (Or.)|=|Mount Bachelor
@@ -985,6 +991,7 @@ Bafia language|=|Bafia language (Cameroon)
 Baggins, Bilbo (Fictitious character)|=|Bilbo Baggins
 Baggins, Frodo (Fictitious character)|=|Frodo Baggins
 Baghdad (Iraq)|=|Baghdad
+Bagpipe|=|Bagpipes
 Bagrationovsk (Russia)|=|Bagrationovsk
 Bahai calendar|=|Bahá'í calendar
 Bahai Faith|=|Bahá'í Faith
@@ -1289,6 +1296,7 @@ Bhagavadg&imacr;t&amacr;|=|Bhagavad Gita
 Bhagavatas|<->|Bhagavata
 Bhisho (South Africa)|=|Bhisho
 Bhopal Union Carbide Plant Disaster, Bhopal, India, 1984|=|Bhopal disaster
+Bhotia (Tibetan people)|=|Bhotiya
 Bhutto, Benazir, 1953-2007 -- Assassination|=|Assassination of Benazir Bhutto
 Bible. Acts|=|Acts of the Apostles
 Bible. Amos|=|Book of Amos
@@ -1538,6 +1546,8 @@ Bo Hai (China)|=|Bohai Sea
 Boa Vista (Roraima, Brazil)|=|Boa Vista, Roraima
 Boardinghouses|=|Boarding house
 Boarding schools|=|Boarding school
+Boat people|<->|Boat people (disambiguation)
+Boat people -- Vietnam|<->|Vietnamese boat people
 Boatbuilding|=|Boat building
 Bobbsey Twins (Fictitious characters)|<->|Bobbsey Twins
 Bochum (Germany)|=|Bochum
@@ -1601,6 +1611,7 @@ Borgia family|<->|House of Borgia
 Boring|->|Bore
 Borna disease virus|=|Bornavirus
 Borodino, Battle of, Borodino, Mozha&#x012d;ski&#x012d; ra&#x012d;on, Russia, 1812|<->|Battle of Borodino
+Boron -- Isotopes|=|Isotopes of boron
 Boroughs|=|Borough
 Boruca Indians|=|Boruca people
 Bosnia and Hercegovina|=|Bosnia and Herzegovina
@@ -1933,6 +1944,7 @@ California -- Politics and government|<->|Politics of California
 California -- Politics and government|<-|Government of California
 California National Historic Trail|<->|California Trail
 California, Southern|=|Southern California
+Californium -- Isotopes|=|Isotopes of californium
 Caliphs|->|Caliphate
 Callao (Callao, Peru)|=|Callao
 Callao, Battle of, Callao, Callao, Peru, 1866|=|Battle of Callao
@@ -2036,6 +2048,7 @@ Cape of Good Hope (South Africa)|=|Cape of Good Hope
 Cape Saint Vincent, Battle of, 1797|=|Battle of Cape St Vincent (1797)
 Cape Saint Vincent, Battle of, 1833|=|Battle of Cape St. Vincent (1833)
 Cape Town (South Africa)|=|Cape Town
+Capgras syndrome|=|Capgras delusion
 Capillaries|=|Capillary
 Capital Beltway|=|Interstate 495 (Capital Beltway)
 Capital losses|=|Capital loss
@@ -2050,6 +2063,7 @@ Car sharing|=|Carsharing
 Carabobo, Battle of, Venezuela, 1821|=|Battle of Carabobo
 Caracas (Venezuela)|=|Caracas
 Carbides|=|Carbide
+Carbon -- Isotopes|=|Isotopes of carbon
 Carbon cycle (Biogeochemistry)|=|Carbon cycle
 Carbon dioxide sinks|<->|Carbon sink
 Carbon taxes|=|Carbon tax
@@ -2244,12 +2258,15 @@ Ceresole, Battle of, Ceresole Alba, Italy, 1544|=|Battle of Ceresole
 Ceresole Alba (Italy)|=|Ceresole Alba
 Cerignola (Italy)|=|Cerignola
 Cerignola, Battle of, Cerignola, Italy, 1503|=|Battle of Cerignola
+Cerium -- Isotopes|=|Isotopes of cerium
 Cerro Cor&aacute;, Battle of, Paraguay, 1870|=|Battle of Cerro Corá
 Cerro Gordo, Battle of, Mexico, 1847|=|Battle of Cerro Gordo
 Cervix uteri|=|Cervix
 Cervix uteri -- Cancer|=|Cervical cancer
 Cesarean section|=|Caesarean section
 Cesium|=|Caesium
+Cesium -- Isotopes|=|Isotopes of caesium
+Cesium iodide|=|Caesium iodide
 &Ccedil;e&scedil;me, Battle of, &Ccedil;e&scedil;me, Turkey, 1770|<->|Battle of Chesma
 C&eacute;vennes Mountains (France)|=|Cévennes
 Ceylon|->|Sri Lanka
@@ -2559,6 +2576,7 @@ Christian Scientists|->|Christian Science
 Christian sects|<->|Christian denomination
 Christian union|->|Ecumenism
 Christianity -- Controversial literature|<->|Criticism of Christianity
+Christianity and other religions -- Islam|<->|Christianity and Islam
 Christians|=|Christian
 Christie, Mount (Wash.)|=|Mount Christie (Washington)
 Christmas stories|->|Christmas
@@ -2709,6 +2727,7 @@ Clothing and dress -- History -- Medieval, 500-1500|<->|Early medieval European 
 Clowns|=|Clown
 Cloyds Mountain, Battle of, Va., 1864|=|Battle of Cloyd's Mountain
 Cluj-Napoca (Romania)|=|Cluj-Napoca
+Cluster bombs|=|Cluster munition
 Cluttering (Speech pathology)|=|Cluttering
 Clyde River (Scotland)|=|River Clyde
 Coaches (Athletics)|=|Coach (sport)
@@ -2720,6 +2739,7 @@ Coal mines and mining|<->|Coal mining
 Coal reserves|->|Mineral resource classification
 Coal Strike, Colo., 1913-1914|<->|Colorado Coalfield War
 Coal Strike, Westmoreland County, Pa., 1910-1911|=|Westmoreland County coal strike of 1910–11
+Coal-tar|=|Coal tar
 Coast Mountains (B.C. and Alaska)|<->|Coast Mountains
 Coast Ranges|<->|Pacific Coast Ranges
 Coastal ecology|->|Ecology
@@ -2939,6 +2959,7 @@ Contraceptives|->|Birth control
 Contracting out|=|Outsourcing
 Contracts|=|Contract
 Conventicle act, 1670|=|Conventicles Act 1670
+Convention on Cluster Munitions (2008 May 30)|=|Convention on Cluster Munitions
 Convents|=|Convent
 Conversion|=|Religious conversion
 Converts|->|Religious conversion
@@ -3133,6 +3154,7 @@ Crime and race|=|Race and crime
 Crime and race -- United States|=|Race and crime in the United States
 Crimea (Ukraine)|=|Crimea
 Crimean War, 1853-1856|=|Crimean War
+Crimes of passion|=|Crime of passion
 Crimes without victims|=|Victimless crime
 Criminal anthropology|=|Anthropological criminology
 Criminal behavior|->|Crime
@@ -3530,6 +3552,7 @@ Disabilities|=|Disability
 Disaster relief|->|Emergency management
 Disasters|=|Disaster
 Disciples of Christ|<->|Christian Church (Disciples of Christ)
+Disco music|<->|Disco
 Discoveries in geography|<->|Exploration
 Discovery (Ship)|<->|RRS Discovery
 Discriminant analysis|<->|Linear discriminant analysis
@@ -3559,6 +3582,7 @@ Dividends|=|Dividend
 Division of labor|=|Division of labour
 Dixie National Forest (Agency : U.S.)|->|Dixie National Forest
 Dixie National Forest (Utah)|=|Dixie National Forest
+Dixieland music|<->|Dixieland
 Diyarbak&inodot;r (Turkey)|=|Diyarbakır
 DNA fingerprinting|=|DNA profiling
 Dobro Pole, Battle of, Serbia, 1918|=|Battle of Dobro Pole
@@ -3789,9 +3813,11 @@ Edirne (Turkey)|=|Edirne
 Editorials|=|Editorial
 Editors|->|Editor (disambiguation)
 Edmonton (Alta.)|=|Edmonton
+Education -- Curricula|<->|Curriculum
 Education -- Research|=|Educational research
 Education, Bilingual|=|Bilingual education
 Educational acceleration|=|Academic acceleration
+Educational change|<->|Education reform
 Educational games|=|Educational game
 Educational sociology|=|Sociology of education
 Educational vouchers|=|School voucher
@@ -3949,6 +3975,11 @@ Endymion (Greek mythology)|=|Endymion (mythology)
 Energy budget (Geophysics)|<->|Earth's energy budget
 Energy conversion|=|Energy transformation
 Energy levels (Quantum mechanics)|<->|Energy level
+Energy policy -- Australia|<->|Energy policy of Australia
+Energy policy -- Brazil|<->|Energy policy of Brazil
+Energy policy -- Canada|<->|Energy policy of Canada
+Energy policy -- United States|<->|Energy policy of the United States
+Engineering -- Study and teaching|<->|Engineering education
 Engineering design|<->|Engineering design process
 Engineering economy|=|Engineering economics
 Engineers|=|Engineer
@@ -4162,6 +4193,7 @@ Everglades National Park (Agency : U.S.)|->|Everglades National Park
 Everglades National Park  (Fla.)|=|Everglades National Park
 Everts, Mount (Wyo.)|=|Mount Everts
 Evesham, Battle of, Evesham, England, 1265|=|Battle of Evesham
+Evidence, Expert|<->|Expert witness
 Evolutionary genetics|->|Modern evolutionary synthesis
 Evolution|<->|Evolution (term)
 Evolution (Biology)|=|Evolution
@@ -4819,6 +4851,7 @@ Gauntlet (Game)|=|Gauntlet (1985 video game)
 Gawain (Legendary character)|=|Gawain
 Gay and lesbian studies|<->|Queer studies
 Gay community|<->|LGBT community
+Gay culture|<->|LGBT culture
 Gay liberation movement|=|Gay liberation
 Gay men|->|Gay
 Gay parents|<->|LGBT parenting
@@ -4882,6 +4915,7 @@ Geology -- United States|=|Geology of the United States
 Geology, Stratigraphic|=|Stratigraphy
 Geomagnetism|=|Earth's magnetic field
 Geometry, Analytic|<->|Analytic geometry
+Geophagy|=|Geophagia
 George, Lake (N.Y. : Lake)|=|Lake George (New York)
 George C. Marshall Space Flight Center|=|Marshall Space Flight Center
 George Rogers Clark National Historical Park (Vincennes, Ind.)|=|George Rogers Clark National Historical Park
@@ -5636,6 +5670,7 @@ Holyoke Range (Mass.)|=|Holyoke Range
 Holyoke Range State Park (Mass.)|<->|Mount Holyoke Range State Park
 Home economics|<->|Family and consumer science
 Home ownership|<->|Owner-occupier
+Home rule -- Ireland|<->|Irish Home Rule movement
 Home schooling|=|Homeschooling
 Homelands (South Africa)|<->|Bantustan
 Homeless children|->|Homelessness
@@ -5692,6 +5727,7 @@ Hornblower, Horatio (Fictitious character)|=|Horatio Hornblower
 Horodlo, Treaty of, 1413|<->|Union of Horodło
 Horoscopes|=|Horoscope
 Horse Heaven Hills (Wash.)|=|Horse Heaven Hills
+Horse-radish|<->|Horseradish
 Horse stealing|=|Horse theft
 Horsemanship|=|Equestrianism
 Horses|=|Horse
@@ -5879,6 +5915,7 @@ Hyde Park (Chicago, Ill.)|=|Hyde Park, Chicago
 Hyde Park (London, England)|=|Hyde Park, London
 Hydrocarbons|=|Hydrocarbon
 Hydrodynamics|->|Fluid dynamics
+Hydrogen -- Isotopes|=|Isotopes of hydrogen
 Hydrogen as fuel|=|Hydrogen fuel
 Hymns|=|Hymn
 Hyndman Peak (Idaho)|=|Hyndman Peak
@@ -6182,6 +6219,7 @@ Inyo Mountains (Calif.)|=|Inyo Mountains
 Inyo National Forest (Agency : U.S.)|->|Inyo National Forest
 Inyo National Forest (Calif. and Nev.)|=|Inyo National Forest
 Io (Greek mythology)|=|Io (mythology)
+Iodine -- Isotopes|=|Isotopes of iodine
 Ion (Greek mythology)|=|Ion (mythology)
 Ions|=|Ion
 Iowa -- History -- Civil War, 1861-1865|=|Iowa in the American Civil War
@@ -6422,7 +6460,9 @@ Jesus Christ|=|Jesus
 Jesus Christ -- Ascension|=|Ascension of Jesus
 Jesus Christ -- Brethren|<->|Brothers of Jesus
 Jesus Christ -- Crucifixion|=|Crucifixion of Jesus
+Jesus Christ -- Islamic interpretations|=|Jesus in Islam
 Jesus Christ -- Nativity|=|Nativity of Jesus
+Jesus Christ -- Parables|=|Parables of Jesus
 Jesus Christ -- Resurrection|=|Resurrection of Jesus
 Jesus Christ -- Seven last words|<->|Sayings of Jesus on the cross
 Jewel Cave National Monument (Agency : U.S.)|->|Jewel Cave National Monument
@@ -6757,6 +6797,7 @@ Kliszow, Battle of, Klisz&oacute;w, Poland, 1702|=|Battle of Klissow
 Klondike Gold Rush National Historical Park (Agency : U.S.)|->|Klondike Gold Rush National Historical Park
 Klondike Gold Rush National Historical Park (Skagway, Alaska, and Seattle, Wash.)|=|Klondike Gold Rush National Historical Park
 Klondike River Valley (Yukon)|->|Klondike River
+Klondike River Valley (Yukon) -- Gold discoveries|<->|Klondike Gold Rush
 Klondike River (Yukon)|=|Klondike River
 Klosterkamp, Battle of, Germany, 1760|=|Battle of Kloster Kampen
 Klushino, Battle of, Klushino, Smolenskai&#xfe20;a&#xfe21; oblast&#x02b9;, Russia, 1610|=|Battle of Klushino
@@ -6844,6 +6885,7 @@ Krak&oacute;w (Poland) -- History -- Siege, 1655|=|Siege of Kraków (1655)
 Kramer Hills (Calif. : Mountains)|=|Kramer Hills
 Krbava, Battle of, Croatia, 1493|=|Battle of Krbava Field
 Krcanisi, Battle of, Georgia, 1795|=|Battle of Krtsanisi
+Krebs cycle|=|Citric acid cycle
 Krenitzin Islands (Alaska)|=|Krenitzin Islands
 Kresnensko Uprising, 1878|<->|Kresna–Razlog Uprising
 Krishna (Hindu deity)|=|Krishna
@@ -6966,6 +7008,7 @@ Lane, Lois (Fictitious character)|=|Lane
 Lango (African people)|=|Lango people
 Lango language (Uganda)|=|Lango dialect
 Language and languages|<->|Language
+Language and languages -- Study and teaching|=|Language education
 Language schools|=|Language school
 Languedoc (France)|=|Languedoc
 Lan&iacute;n Volcano (Argentina and Chile)|=|Lanín
@@ -7009,6 +7052,8 @@ Lauterbrunnen (Switzerland)|=|Lauterbrunnen
 Lava Beds National Monument (Calif.)|=|Lava Beds National Monument
 Law -- Great Britain|<->|Law of the United Kingdom
 Law -- Philosophy|=|Philosophy of law
+Law -- Study and teaching|<->|Legal education
+Law -- Study and teaching -- United States|<->|Legal education in the United States
 Law -- United States|<->|Law of the United States
 Law -- Wales|<->|Welsh law
 Law, Byzantine|=|Byzantine law
@@ -7032,6 +7077,7 @@ Le Mans (France)|=|Le Mans
 Le Mans, Battle of, Le Mans, France, 1871|=|Battle of Le Mans
 Le Palais (France)|=|Le Palais
 Le Palais (France) -- History -- Siege, 1761|<->|Capture of Belle Île
+Lead -- Isotopes|=|Isotopes of lead
 Lead-acid batteries|=|Lead–acid battery
 League of Arab States|=|Arab League
 Leaks (Disclosure of information)|<->|News leak
@@ -7329,6 +7375,8 @@ Lord Dunmore's War, 1774|=|Lord Dunmore's War
 Lord of the Rings roleplaying game|=|The Lord of the Rings Roleplaying Game
 Lord of the Rings Strategy Battle Game|=|The Lord of the Rings Strategy Battle Game
 Lord's Supper|<->|Eucharist
+Lord's Supper -- Catholic Church|=|Eucharist in the Catholic Church
+Lord's Supper -- Real presence|=|Real presence of Christ in the Eucharist
 Lorises|=|Loris
 Lorn (Scotland)|=|Lorne, Scotland
 Lorraine (France)|=|Lorraine (region)
@@ -7473,6 +7521,7 @@ Magnesia, Battle of, Manisa, Turkey, 190 B.C.|=|Battle of Magnesia
 Magnetic amplifiers|=|Magnetic amplifier
 Magnetic bearings|=|Magnetic bearing
 Magnetic fields|=|Magnetic field
+Magnetic permeability|<->|Permeability (electromagnetism)
 Magpies|=|Magpie
 Mah jong|=|Mahjong
 Mahayana Buddhism|=|Mahayana
@@ -7730,6 +7779,7 @@ Mathematical models|=|Mathematical model
 Mathematical recreations|=|Recreational mathematics
 Mathematicians|=|Mathematician
 Mathematics -- Philosophy|<->|Philosophy of mathematics
+Mathematics -- Study and teaching|<->|Mathematics education
 Mathematics, Greek|<->|Greek mathematics
 Mato Grosso (Brazil : State)|=|Mato Grosso
 Mato Grosso do Sul (Brazil)|=|Mato Grosso do Sul
@@ -8159,6 +8209,7 @@ Mollendo (Peru)|=|Mollendo
 Mollusks|=|Mollusca
 Molokai (Hawaii)|=|Molokai
 Molten salt reactors|=|Molten salt reactor
+Molting|=|Moulting
 Mombasa (Kenya)|=|Mombasa
 Monadnock, Mount (N.H.)|=|Mount Monadnock
 Monaghan (Ireland : County)|=|County Monaghan
@@ -8284,6 +8335,7 @@ Mortars|<->|Mortar and pestle
 Mortars (Ordnance)|<->|Mortar (weapon)
 Mortgage-backed securities|=|Mortgage-backed security
 Mortgage banks|=|Mortgage bank
+Mortgage brokers|=|Mortgage broker
 Mortgage loans|=|Mortgage loan
 Mortgages|<->|Mortgage law
 Moscow (Russia)|=|Moscow
@@ -8802,6 +8854,7 @@ Nile, Battle of the, Egypt, 1798|=|Battle of the Nile
 Nile River|=|Nile
 Nile River Valley|->|Nile
 Nilgiri Hills (India)|=|Nilgiri mountains
+Ninepipe National Wildlife Refuge (Mont.)|=|Ninepipe National Wildlife Refuge
 Nineteen eighties|=|1980s
 Nineteen fifties|=|1950s
 Nineteen forties|=|1940s
@@ -8819,6 +8872,7 @@ Nineveh (Extinct city)|=|Nineveh
 Ninhursag (Sumerian deity)|=|Ninhursag
 Ninth century|=|9th century
 Ninth of Av|=|Tisha B'Av
+Niobium -- Isotopes|=|Isotopes of niobium
 Nippur (Extinct city)|=|Nippur
 Nitrides|=|Nitride
 Nitrogen oxides|=|Nitrogen oxide
@@ -8951,6 +9005,7 @@ Nuclear reactors|=|Nuclear reactor
 Nuclear weapons|=|Nuclear weapon
 Nucleic acids|=|Nucleic acid
 Nucleotide sequence|=|Nucleic acid sequence
+Nudibranchia|=|Nudibranch
 Nudism|=|Naturism
 Nudist camps|<->|Nudist community
 Nueces River (Tex.)|=|Nueces River
@@ -8971,6 +9026,7 @@ Nursery rhymes|=|Nursery rhyme
 Nursery schools|<->|Preschool
 Nurses|->|Nursing
 Nursing -- Research|=|Nursing research
+Nursing -- Study and teaching|<->|Nurse education
 Nursing -- United States -- History|=|History of nursing in the United States
 Nursing homes|->|Nursing home care
 Nursing schools|=|Nursing school
@@ -9307,6 +9363,7 @@ Oxen|=|Ox
 Oxford (England)|=|Oxford
 Oxidation|->|Redox
 Oxidation-reduction reaction|=|Redox
+Oxygen -- Isotopes|=|Isotopes of oxygen
 Oyl, Olive (Fictitious character)|=|Olive Oyl
 Oz (Imaginary place)|=|Land of Oz
 Ozark Mountains|=|Ozarks
@@ -9453,6 +9510,7 @@ Parmigiano Reggiano cheese|=|Parmigiano-Reggiano
 Parodies|->|Parody
 Parque Etnobot&aacute;nico Omora (Agency : Chile)|->|Omora Ethnobotanical Park
 Parque Etnobot&aacute;nico Omora (Chile)|=|Omora Ethnobotanical Park
+Parrotfishes|=|Parrotfish
 Parrots|=|Parrot
 Parsees|<->|Parsi
 Partai Keadilan Sejahtera|=|Prosperous Justice Party
@@ -9520,6 +9578,7 @@ Peasants|=|Peasant
 Peasants' War, 1524-1525|<->|German Peasants' War
 Peasants' War, 1626|<->|Peasants' War in Upper Austria
 Pease River, Battle of, Tex., 1860|=|Battle of Pease River
+Pebble bed reactors|=|Pebble-bed reactor
 Pecatonica, Battle of, Wis., 1832|=|Battle of Horseshoe Bend (1832)
 Peccaries|=|Peccary
 Pecorino cheese|=|Pecorino
@@ -9658,6 +9717,7 @@ Philippines -- History -- To 1521|<->|History of the Philippines (900–1521)
 Philippines -- Politics and government|<->|Politics of the Philippines
 Philippines -- Politics and government|<-|Government of the Philippines
 Philoctetes (Greek mythology)|=|Philoctetes
+Philosopher-kings|=|Philosopher king
 Philosophers|=|Philosopher
 Philosophy and religion|->|Philosophy of religion
 Philosophy in literature|<->|Philosophy and literature
@@ -9682,6 +9742,7 @@ Physical sciences|<->|Outline of physical science
 Physicians|=|Physician
 Physicists|=|Physicist
 Physics -- Philosophy|=|Philosophy of physics
+Physics -- Study and teaching|<->|Physics education
 Physiocrats|=|Physiocracy
 Physiologists|->|Physiology
 Pi-calculus|=|Π-calculus
@@ -9693,6 +9754,7 @@ Pianola|->|Player piano
 Piau&iacute; (Brazil)|=|Piauí
 Piave, 2nd Battle of the, Italy, 1918|=|Battle of the Piave River
 Piave River (Italy)|<->|Piave (river)
+Pica (Pathology)|=|Pica (disorder)
 Picard, Jean Luc (Fictitious character)|=|Jean-Luc Picard
 Picenes (Italic people)|=|Picentes
 Pichincha, Battle of, Ecuador, 1822|=|Battle of Pichincha
@@ -9713,6 +9775,7 @@ Pigeon Roost Massacre, 1812|<->|Pigeon Roost State Historic Site
 Piglet (Fictitious character)|=|Piglet (Winnie-the-Pooh)
 Pigwacket Fight, 1725|=|Battle of Pequawket
 Pikes Peak (Colo.)|=|Pikes Peak
+Pilates method|=|Pilates
 Pilchuck, Mount (Wash.)|=|Mount Pilchuck
 Pilgrimage of Grace, 1536-1537|=|Pilgrimage of Grace
 Pilgrims (New Plymouth Colony)|=|Pilgrim Fathers
@@ -9797,6 +9860,7 @@ Plurality of worlds|=|Cosmic pluralism
 Pluto (Dwarf planet)|=|Pluto
 Pluto (Dwarf planet) -- Satellites|=|Moons of Pluto
 Pluto (Fictitious character)|=|Pluto (Disney)
+Plutonium -- Isotopes|=|Isotopes of plutonium
 Plymouth, Battle of, Plymouth, N.C., 1864|=|Battle of Plymouth (1864)
 Plymouth automobile|=|Plymouth (automobile)
 Plymouth Bay (Mass.)|=|Plymouth Bay
@@ -9867,6 +9931,7 @@ Political stability|->|Failed state
 Politicians|=|Politician
 Pollination by insects|=|Entomophily
 Pollifax, Emily (Fictitious character)|=|Emily Pollifax
+Polonium -- Isotopes|=|Isotopes of polonium
 Poltava, Battle of, Poltava, Ukraine, 1709|=|Battle of Poltava
 Polycyclic compounds|=|Polycyclic compound
 Polyhymnia (Asteroid)|=|33 Polyhymnia
@@ -10370,6 +10435,9 @@ Radioactive wastes|=|Radioactive waste
 Radioactivity|->|Radioactive decay
 Radioisotopes|=|Radionuclide
 Radiotherapy|<->|Radiation therapy
+Radishes|=|Radish
+Radium -- Isotopes|=|Isotopes of radium
+Radon -- Isotopes|=|Isotopes of radon
 Radzymin (Poland)|=|Radzymin
 Radzymin, Battle of, Radzymin, Poland, 1920|=|Battle of Radzymin (1920)
 Rae Bareli (India : District)|=|Raebareli district
@@ -10391,6 +10459,11 @@ Railroad Strike, U.S., 1877|=|Great Railroad Strike of 1877
 Railroad tracks|=|Track (rail transport)
 Railroads|=|Rail transport
 Railroads -- Electrification|<->|Railway electrification system
+Railroads -- Great Britain|<->|Rail transport in Great Britain
+Railroads -- Great Britain -- History|<->|History of rail transport in Great Britain
+Railroads -- History|<->|History of rail transport
+Railroads -- United States|<->|Rail transportation in the United States
+Railroads -- United States -- History|<->|History of rail transport in the United States
 Rain and rainfall|<->|Rain
 Rain forests|=|Rainforest
 Rain-making|=|Rainmaking
@@ -10501,6 +10574,7 @@ Reference works|=|Reference work
 Reflection (Optics)|<->|Reflection (physics)
 Reflection (Philosophy)|<->|Human self-reflection
 Reformation|=|Protestant Reformation
+Reformation -- Scotland|=|Scottish Reformation
 Reformatories|=|Reformatory
 Reformed Church|->|Calvinism
 Reformers|->|Reform movement
@@ -10695,6 +10769,7 @@ Rogue River-Siskiyou National Forest (Agency : U.S.)|->|Rogue River – Siskiyou
 Rogue River-Siskiyou National Forest (Or. and Calif.)|=|Rogue River – Siskiyou National Forest
 Rohilla War, 1774|<->|First Rohilla War
 Roland (Legendary character)|<->|Roland
+Role playing|=|Role-playing
 Roman Republic (1798-1799)|<->|Roman Republic (18th century)
 Roman Republic (1849)|->|Roman Republic (19th century)
 Romania -- History -- Peasants' Uprising, 1907|=|1907 Romanian Peasants' Revolt
@@ -11127,6 +11202,7 @@ Saverne (France)|=|Saverne
 S&amacr;vitr&imacr; (Hindu deity)|<->|Savitr
 Savo Island, Battle of, Solomon Islands, 1942|=|Battle of Savo Island
 Sawatch Range (Colo.)|=|Sawatch Range
+Sawflies|=|Sawfly
 Sawtooth Mountains (Idaho)|=|Sawtooth Range (Idaho)
 Sawyer, Tom (Fictitious character)|=|Tom Sawyer
 Saxa Rubra, Battle of, Italy, 312|=|Battle of the Milvian Bridge
@@ -11174,6 +11250,7 @@ Schwenkfelders|->|Schwenkfelder Church
 Schwyz (Switzerland)|=|Schwyz
 Schwyz (Switzerland : Canton)|=|Canton of Schwyz
 Science -- Philosophy|=|Philosophy of science
+Science -- Study and teaching|<->|Science education
 Science and astrology|=|Astrology and science
 Science fiction fans|<->|Science fiction fandom
 Scientific satellites|->|Satellite
@@ -11205,6 +11282,7 @@ Scrooge, Ebenezer (Fictitious character)|=|Ebenezer Scrooge
 Scud missile|=|Scud
 Scully, Dana (Fictitious character)|=|Dana Scully
 Sculptors|->|Sculpture
+Scutari, Lake (Albania and Montenegro)|=|Lake Skadar
 Sea birds|=|Seabird
 Sea monsters|=|Sea monster
 Sea-power|->|Naval warfare
@@ -11956,6 +12034,7 @@ Spider-Man (Fictitious character)|=|Spider-Man
 Spiders|=|Spider
 &Scaron;pilberk (Brno, Czech Republic : Castle)|=|Špilberk Castle
 Spinning|=|Spinning (textiles)
+Spinning-wheel|=|Spinning wheel
 Spion Kop, Battle of, South Africa, 1900|=|Battle of Spion Kop
 Spirit Lake Massacre, Iowa, 1857|=|Spirit Lake Massacre
 Spirit Lake Tribe, North Dakota|=|Spirit Lake Tribe
@@ -12086,6 +12165,7 @@ Stoke, Battle of, England, 1487|=|Battle of Stoke Field
 Stoke-on-Trent (England)|=|Stoke-on-Trent
 Stoker, Bram, 1847-1912. Dracula|=|Dracula
 Stolbovo, Treaty of, 1617|=|Treaty of Stolbovo
+Stomata|=|Stoma
 Stone Mountain (Ga.)|=|Stone Mountain
 Stone Mountain Memorial (Ga.)|->|Stone Mountain
 Stonehenge (England)|=|Stonehenge
@@ -12116,6 +12196,7 @@ Stress (Physiology)|=|Stress (biology)
 Stress (Psychology)|=|Stress (psychological)
 Striated muscle|=|Striated muscle tissue
 Strip mining|<->|Surface mining
+Strontium -- Isotopes|=|Isotopes of strontium
 Structural analysis (Engineering)|=|Structural analysis
 Structural design|->|Structural engineering
 Stuart family|<->|Stuart (name)
@@ -12340,6 +12421,7 @@ Talamanca (Costa Rica : Canton)|=|Talamanca (canton)
 Talana Hill, Battle of, South Africa, 1899|=|Battle of Talana Hill
 Talavera, Battle of, Talavera de la Reina, Spain, 1809|=|Battle of Talavera
 Talavera de la Reina (Spain)|=|Talavera de la Reina
+Taler|<->|Thaler
 Talismans|=|Talisman
 Talkeetna Mountains (Alaska)|=|Talkeetna Mountains
 Talking birds|=|Talking bird
@@ -12371,6 +12453,7 @@ Tannins|=|Tannin
 Tantric Buddhism|=|Vajrayana
 Tanzania -- Politics and government|<->|Politics of Tanzania
 Tanzania -- Religion|=|Religion in Tanzania
+Tap dancing|=|Tap dance
 Taps and dies|=|Tap and die
 Tar (Lute)|<->|Tar (string instrument)
 Tarapac&aacute;, Battle of, Chile, 1879|=|Battle of Tarapacá
@@ -12418,6 +12501,8 @@ Teenage girls|->|Adolescence
 Teenage Mutant Ninja Turtles (Fictitious characters)|<->|Teenage Mutant Ninja Turtles
 Teenagers|->|Adolescence
 Teeth|=|Tooth
+Teeth -- Diseases|<->|Tooth pathology
+Teeth -- Erosion|<->|Acid erosion
 Tehachapi Mountains (Calif.)|=|Tehachapi Mountains
 Tehachapi Pass (Calif.)|=|Tehachapi Pass
 Tel Aviv (Israel)|=|Tel Aviv
@@ -12470,6 +12555,7 @@ Terpenes|=|Terpene
 Terror, Mount (Wash.)|=|Mount Terror (Washington)
 Terrorists|->|Terrorism
 Testing|->|Test (assessment)
+Testis|<->|Testicle
 Test of Spoken English|=|TSE (examination)
 Tet Offensive, 1968|=|Tet Offensive
 Teton Indians|<->|Lakota people
@@ -12545,6 +12631,7 @@ Thompson's Station, Battle of, Thompson's Station, Tenn., 1863|=|Battle of Thomp
 Thor (Missile)|=|PGM-17 Thor
 Thor (Motion picture)|=|Thor (film)
 Thor (Norse deity)|=|Thor
+Thorium -- Isotopes|=|Isotopes of thorium
 Thorndyke, Doctor (Fictitious character)|=|Dr. Thorndyke
 Thoth (Egyptian deity)|=|Thoth
 Thought and thinking|<->|Thought
@@ -12573,6 +12660,7 @@ Tibet Autonomous Region (China)|<->|Tibet Autonomous Region
 Tibet Autonomous Region (China) -- History -- Uprising of 1959|=|1959 Tibetan uprising
 Tibet Autonomous Region (China) -- History -- Uprising of 2008|=|2008 Tibetan unrest
 Tibet Autonomous Region (China) -- Religion|=|Religion in Tibet
+Tibetans|=|Tibetan people
 Ticino (Switzerland)|=|Ticino
 Ticino River, Battle of the, Italy, 218 B.C.|=|Battle of Ticinus
 Ticino River (Switzerland and Italy)|=|Ticino (river)
@@ -12741,6 +12829,7 @@ Transylvania (Romania) -- History|=|History of Transylvania
 Transylvania (Romania) -- History -- Peasant Uprising, 1437-1438|<->|Budai Nagy Antal revolt
 Transylvania (Romania) -- History -- Peasant Uprising, 1784|<->|Revolt of Horea, Cloșca and Crișan
 Trappers|=|Trapper
+Trapshooting|=|Trap shooting
 Trasimeno, Lake (Italy)|=|Lake Trasimeno
 Trautenau, Battle of, Trutnov, Czech Republic, 1866|=|Battle of Trautenau
 Travelers|=|Traveler
@@ -12814,6 +12903,7 @@ Tsonga (African people)|=|Tsonga people
 Tsukuba-shi (Japan)|=|Tsukuba, Ibaraki
 Tsunamis|=|Tsunami
 Tsushima, Battle of, 1905|=|Battle of Tsushima
+Tu bi-Shevat|=|Tu BiShvat
 Tualatin Mountains (Or.)|=|Tualatin Mountains
 Tualatin River (Or.)|=|Tualatin River
 Tualatin River National Wildlife Refuge (Agency : U.S.)|->|Tualatin River National Wildlife Refuge
@@ -12965,6 +13055,7 @@ Underground press publications|<->|Underground press
 Underwater exploration|->|Oceanography
 Unemployed|->|Unemployment
 Unemployment insurance|=|Unemployment benefits
+Uneven parallel bars|=|Uneven bars
 Unfair labor practices|=|Unfair labor practice
 Unga Island (Alaska)|=|Unga Island
 Ungulates|=|Ungulate
@@ -13269,6 +13360,7 @@ Unlawful combatants|=|Unlawful combatant
 Upper Austria (Austria)|=|Upper Austria
 Upper Peninsula (Mich.)|=|Upper Peninsula of Michigan
 Ural Mountains (Russia)|=|Ural Mountains
+Uranium -- Isotopes|=|Isotopes of uranium
 Uranus (Planet)|=|Uranus
 Urban policy|->|Theories of Urban Planning
 Urbino Studiolo (Palazzo ducale, Urbino, Italy)|->|Palazzo Ducale, Urbino
@@ -13511,6 +13603,7 @@ Virginia -- Politics and government|<-|Government of Virginia
 Virginia Company of London|=|London Company
 Virginia Tech Shootings, Blacksburg, Va., 2007|=|Virginia Tech shooting
 Virtual computer systems|<->|Virtual machine
+Virtual pets|<->|Digital pet
 Virtues|->|Virtue
 Viruses|=|Virus
 Visas|=|Visa (document)
@@ -13521,6 +13614,7 @@ Visions|=|Vision (spirituality)
 Visitors' centers|=|Visitor center
 Vitamin B1|=|Thiamine
 Vitamin B2|=|Riboflavin
+Vitamin U|=|S-Methylmethionine
 Vitamins|=|Vitamin
 Vitoria, Battle of, Vitoria, Spain, 1813|=|Battle of Vitoria
 Vit&oacute;ria (Esp&iacute;rito Santo, Brazil)|=|Vitória, Espírito Santo
@@ -13691,6 +13785,7 @@ Wattasids|=|Wattasid dynasty
 Wattignies, Battle of, France, 1793|=|Battle of Wattignies
 Wattignies-la-Victoire (France)|=|Wattignies-la-Victoire
 Watts Riot, Los Angeles, Calif., 1965|=|Watts riots
+Wavelength division multiplexing|=|Wavelength-division multiplexing
 Wayne National Forest (Agency : U.S.)|->|Wayne National Forest
 Wayne National Forest (Ohio)|=|Wayne National Forest
 Wayne's Campaign, 1794|->|Northwest Indian War
@@ -13775,6 +13870,8 @@ Whaling ships|=|Whaler
 Whatcom Peak (Wash.)|=|Whatcom Peak
 Wheat trade|->|Grain trade
 Whetstone Mountains (Ariz.)|=|Whetstone Mountains
+Whirlwind computer|<->|Whirlwind I
+Whirlwind (Fighter plane)|=|Westland Whirlwind (fighter)
 Whiskey|=|Whisky
 Whiskey Rebellion, Pa., 1794|<->|Whiskey Rebellion
 Whistle blowing|<->|Whistleblower
@@ -14090,6 +14187,7 @@ Wyoming Valley (Pa.)|=|Wyoming Valley
 X-15 (Rocket aircraft)|=|North American X-15
 X.500 directory standard (Telecommunication)|<->|X.500
 X-Men (Fictitious characters)|<->|X-Men
+X-ray binaries|=|X-ray binary
 X-rays|=|X-ray
 X Window System (Computer system)|=|X Window System
 Xena, Warrior Princess (Fictitious character)|=|Xena
@@ -14212,9 +14310,11 @@ Zimbabwe -- History -- Chimurenga War, 1896-1897|<->|Second Matabele War
 Zimbabwe -- History -- Chimurenga War, 1966-1980|<->|Rhodesian Bush War
 Zimbabwe -- History -- Ndebele War, 1893|<->|First Matabele War
 Zimbabwe -- Politics and government|<->|Politics of Zimbabwe
+Zinc -- Isotopes|=|Isotopes of zinc
 Zionists|->|Zionism
 Zip codes|=|ZIP code
 Zip to Zap Riot, Zap, N.D., 1969|=|Zip to Zap
+Zirconium -- Isotopes|=|Isotopes of zirconium
 Zire (Computer)|=|Zire Handheld
 Znaim, Battle of, Znojmo, Czech Republic, 1809|<->|Armistice of Znaim
 Znojmo (Czech Republic)|=|Znojmo
