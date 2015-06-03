@@ -5160,6 +5160,14 @@ STATE TN
 BASEURL http://utc.worldcat.org/search
 CATTYPE worldcat
 
+ID OCLC-ALAMO
+NAME Alamo Colleges Libraries
+LOCATION Community colleges in San Antonio and Bexar County
+STATE TX
+BASEURL http://alamo.iii.com
+CATTYPE iii-consortium-member
+LCODE 7
+
 ID OCLC-1AR
 NAME Arlington Public Library
 LOCATION Arlington
@@ -5268,6 +5276,13 @@ LOCATION Palacios and Blessing
 STATE TX
 CATTYPE atriuum
 BASEURL http://palacioslibrary.booksys.net/opac/palacios/index.html?mode=main#search:
+
+ID OCLC-PQC
+NAME Paul Quinn College, Zale Library
+LOCATION Dallas
+STATE TX
+BASEURL http://voyager.pqc.edu/cgi-bin/Pwebrecon.cgi
+CATTYPE voyager
 
 ID OCLC-PLS
 NAME Plano Public Library System
@@ -5398,6 +5413,13 @@ LOCATION Austin
 STATE TX
 CATTYPE summon
 BASEURL http://utexas.summon.serialssolutions.com
+
+ID OCLC-TXW
+NAME Waco-McClennan County Library
+LOCATION Waco
+STATE TX
+BASEURL http://waco.ipac.sirsidynix.net
+CATTYPE ipac20
 
 # BYU seems to be using custom interface
 # doesn't seem to like -- subdivisions or authors with years
