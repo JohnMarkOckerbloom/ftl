@@ -788,6 +788,14 @@ CATTYPE voyager-vwebv
 BASEURL http://alma.linneanet.fi/vwebv/search
 FILTERS S
 
+# Going with electronic library ID; might be a better ID to use
+ID OCLC-FRMAR
+NAME Aix Marseille Universit&eacute;
+LOCATION Aix-en-Provence, Marseille, and vicinity
+COUNTRY FR
+BASEURL http://catalogue.univ-aix-marseille.fr/
+CATTYPE koha
+
 ID OCLC-CPV
 NAME City University of Hong Kong
 LOCATION Hong Kong
@@ -1170,6 +1178,13 @@ COUNTRY UK
 CATTYPE aquabrowser
 BASEURL http://search.lib.cam.ac.uk
 SINDEX subject
+
+ID OCLC-CBK
+NAME Cornwall Council libraries
+LOCATION 30+ public libraries in Cornwall, England
+COUNTRY UK
+CATTYPE prismhosted
+BASEURL http://capitadiscovery.co.uk/cornwall
 
 ID OCLC-EDJ
 NAME Edinburgh City Libraries
@@ -3287,6 +3302,16 @@ BASEURL http://buprimo.hosted.exlibrisgroup.com
 CATTYPE primodl
 VID BU
 LCODE BOSU
+
+ID OCLC-MBB
+NAME Brandeis University Library
+LOCATION Waltham
+STATE MA
+CATTYPE primodl-scope
+BASEURL http://search.library.brandeis.edu
+VID BRAND
+LCODE 01BRAND
+SCOPE ALMA
 
 ID OCLC-CWJ
 NAME C/W MARS

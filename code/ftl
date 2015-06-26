@@ -151,7 +151,7 @@ sub endpage {
     print "The Online Books Page</a>, using data provided by ";
     print qq!the <a href="http://www.loc.gov/">Library of Congress</a>, !;
     print qq!<a href="http://www.oclc.org/">OCLC</a>, !;
-    print qq!<a href="http://en.wikipedia.org/">Wikipedia</a>, !;
+    print qq!<a href="https://en.wikipedia.org/">Wikipedia</a>, !;
     print "and other sources.";
     print "</p></body></html>\n";
   }
