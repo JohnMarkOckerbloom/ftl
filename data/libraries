@@ -4,7 +4,7 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2015-03-04
+# Last updated 2015-07-15
 
 ID OLBP
 NAME The Online Books Page
@@ -482,6 +482,13 @@ LOCATION Public libraries across the NWT
 PROVINCE NT
 CATTYPE sirsi
 BASEURL http://nwte.sirsidynix.net/uhtbin/cgisirsi
+
+ID CA-NSAR
+NAME Annapolis Valley Regional Library
+LOCATION Annapolis and Kings counties, and West Hants
+PROVINCE NS
+BASEURL https://avrl.catalogue.library.ns.ca
+CATTYPE vufind
 
 ID CA-NSH
 NAME Halifax Public Libraries
@@ -2183,6 +2190,17 @@ STATE CT
 BASEURL http://cat.danburylibrary.org
 CATTYPE innopac
 
+ID OCLC-GKX
+NAME Darien Library
+LOCATION Darien
+STATE CT
+BASEURL http://www.darienlibrary.org/catalog
+SUBURL ${BASEURL}/search/subject/${ARG}
+TITURL ${BASEURL}/search/title/${ARG}
+AUTURL ${BASEURL}/search/author/${ARG}
+KEYURL ${BASEURL}/search/keyword/${ARG}
+FILTERS NK
+
 ID OCLC-FEM
 NAME The Ferguson Library
 LOCATION Stamford
@@ -3875,6 +3893,14 @@ CATTYPE sirsient
 LCODE mccc
 BASEURL http://merl.ent.sirsi.net
 
+ID OCLC-NNF
+NAME Middlesex County College
+LOCATION Edison
+STATE NJ
+BASEURL http://librarycatalog.lmxac.org/uhtbin/cgisirsi
+CATTYPE sirsilib
+LCODE MCC
+
 ID OCLC-QBL
 NAME Middletown Township Public Library
 LOCATION Middletown
@@ -4890,17 +4916,21 @@ CATTYPE vufindgeneral
 BASEURL http://tripod.brynmawr.edu/find/Channels/Results
 FILTERS NK
 
+# For now, subject and keyword searches use Franklin-Summon discovery
+# and other searches use regular Franklin
 ID OCLC-PAU
 NAME University of Pennsylvania Libraries
 LOCATION Philadelphia
 STATE PA
 IPRANGE 128.91.0.0/16|130.91.0.0/16|158.130.0.0/16|165.123.0.0/16
 BASEURL http://dla.library.upenn.edu/dla/franklin
-SUBURL ${BASEURL}/search.html?q=${ARG}&qt=dla-subject
+# SUBURL ${BASEURL}/search.html?q=${ARG}&qt=dla-subject
+SUBURL ${BASEURL}/search.html?meta=t&q=${ARG}
 AUTURL ${BASEURL}/search.html?q=${ARG}&qt=dla-author
 ATIURL ${BASEURL}/search.html?q=author("${AUTHOR}") AND title:("${TITLE:A}")&qt=dla-advanced
 TITURL ${BASEURL}/search.html?q=${ARG}&qt=dla-title
-KEYURL ${BASEURL}/search.html?q=${ARG}&qt=dla-standard
+# KEYURL ${BASEURL}/search.html?q=${ARG}&qt=dla-standard
+KEYURL ${BASEURL}/search.html?meta=t&q=${ARG}
 
 ID OCLC-PIT
 NAME University of Pittsburgh

@@ -4,7 +4,7 @@
 # This data file released to the world as CC0 
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, libraries file for usage of this catalog data
-# Last updated 2014-09-04
+# Last updated 2015-07-15
 
 CATTYPE 360search
 SUBURL ${BASEURL}/results?SS_LibHash=${LCODE}&action=start&dbIDList=${DBID}&field=subject&term=${ARG}
@@ -356,6 +356,14 @@ SUBURL ${BASEURL}/x/0/0/5?user_id=${USER}&searchdata1=${ARG:NK}{SU}
 AUTURL ${BASEURL}/x/0/0/5?user_id=${USER}&searchdata1=${ARG:NK}{AU}
 TITURL ${BASEURL}/x/0/0/5?user_id=${USER}&searchdata1=${ARG:NK}{TI}
 KEYURL ${BASEURL}/x/0/0/5?user_id=${USER}&searchdata1=${ARG:NK}
+DEFAULT DOMAIN
+
+# for old sirsi systems that take a library argument
+CATTYPE sirsilib
+SUBURL ${BASEURL}/x/0/0/5?library=${LCODE}&searchdata1=${ARG:NK}{SU}
+AUTURL ${BASEURL}/x/0/0/5?library=${LCODE}&searchdata1=${ARG:NK}{AU}
+TITURL ${BASEURL}/x/0/0/5?library=${LCODE}&searchdata1=${ARG:NK}{TI}
+KEYURL ${BASEURL}/x/0/0/5?library=${LCODE}&searchdata1=${ARG:NK}
 DEFAULT DOMAIN
 
 CATTYPE sirsient
