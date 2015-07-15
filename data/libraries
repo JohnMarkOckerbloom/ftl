@@ -4925,7 +4925,7 @@ STATE PA
 IPRANGE 128.91.0.0/16|130.91.0.0/16|158.130.0.0/16|165.123.0.0/16
 BASEURL http://dla.library.upenn.edu/dla/franklin
 # SUBURL ${BASEURL}/search.html?q=${ARG}&qt=dla-subject
-SUBURL ${BASEURL}/search.html?meta=t&q=${ARG}
+SUBURL ${BASEURL}/search.html?meta=t&qt=dla-subject&q=${ARG}
 AUTURL ${BASEURL}/search.html?q=${ARG}&qt=dla-author
 ATIURL ${BASEURL}/search.html?q=author("${AUTHOR}") AND title:("${TITLE:A}")&qt=dla-advanced
 TITURL ${BASEURL}/search.html?q=${ARG}&qt=dla-title
