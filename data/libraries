@@ -5258,6 +5258,14 @@ STATE TX
 CATTYPE encore
 BASEURL http://encore.cityofdenton.com/iii/encore
 
+ID OCLC-TXP
+NAME El Paso Public Library
+LOCATION El Paso
+STATE TX
+CATTYPE sirsient
+BASEURL http://elpasopl.ent.sirsi.net
+LCODE en_US/default
+
 ID OCLC-FTX
 NAME Fort Bend County Libraries
 LOCATION Richmond and vicinity
@@ -5314,6 +5322,13 @@ CATTYPE ls2pac-config
 BASEURL http://ls2pac.edinburgpl.us:8080/
 CONFIG mcallen
 
+ID OCLC-M-DOLLAR-K
+NAME McKinney Public Library System
+LOCATION McKinney
+STATE TX
+BASEURL http://ipac.mckinneytexas.org/Polaris
+CATTYPE polaris
+
 ID OCLC-QS2
 NAME Montgomery County Memorial Library System
 LOCATION Montgomery County
@@ -5345,6 +5360,13 @@ LOCATION Plano
 STATE TX
 BASEURL http://polaris.plano.gov/Polaris
 CATTYPE polaris
+
+ID OCLC-PVA
+NAME Prairie View A&amp;M University
+LOCATION Prairie View
+STATE TX
+CATTYPE voyager-vwebv
+BASEURL http://voyager-pv.tamu.edu/vwebv/search
 
 ID OCLC-RCE
 NAME Rice University
@@ -5410,6 +5432,13 @@ LCODE EVANS
 LOC adaptor,scope:("MSL"),scope:(libguides),scope:(archon),scope:(TAMU-SFX),scope:(EVANS),scope:(tamu_dspace_qdc),primo_central_multiple_fe
 DEFAULT http://library.tamu.edu/
 
+ID OCLC-TTT
+NAME Texas College
+LOCATION Tyler
+STATE TX
+BASEURL http://catalog.texascollege.edu:8080
+CATTYPE ls2pac-config
+
 ID OCLC-TXT
 NAME Texas Southern University
 LOCATION Houston
@@ -5440,6 +5469,13 @@ VID TWU-A
 LCODE TWU
 LOC adaptor,scope:(TXWU),scope:(TXWA_CONTENTDM),primo_central_multiple_fe
 DEFAULT http://www.twu.edu/library/
+
+ID OCLC-QT7
+NAME Tyler Public Library
+LOCATION Tyler
+STATE TX
+CATTYPE encore
+BASEURL http://typl-mt.iii.com/iii/encore
 
 ID OCLC-UHC
 NAME UHCL Neumann Library
@@ -5475,6 +5511,14 @@ LOCATION Waco
 STATE TX
 BASEURL http://waco.ipac.sirsidynix.net
 CATTYPE ipac20
+
+ID OCLC-WYC
+NAME Wiley College
+LOCATION Marshall
+STATE TX
+BASEURL http://twc.wileyc.edu:8080
+CATTYPE ls2pac
+FILTERS S
 
 # BYU seems to be using custom interface
 # doesn't seem to like -- subdivisions or authors with years
