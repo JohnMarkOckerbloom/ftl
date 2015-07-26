@@ -5767,6 +5767,16 @@ VID EWU
 LCODE EWU
 LOC adaptor,scope:(EWU),scope:(EWU_RIVERPOINT),scope:(EWU_CR),scope:(P),scope:(E-EWU),primo_central_multiple_fe
 
+ID OCLC-ESR
+NAME Evergreen State College
+LOCATION Olympia
+STATE WA
+CATTYPE primodl-scope
+BASEURL http://alliance-primo.hosted.exlibrisgroup.com
+LCODE Alliance_EVSC
+VID EVSC
+SCOPE tesc_alma_summit
+
 ID OCLC-FSKGL
 NAME Fiske Genealogical Library
 LOCATION Seattle
@@ -5805,6 +5815,13 @@ LOCATION Libraries near Seattle
 STATE WA
 CATTYPE bibliocommons
 BASEURL http://kcls.bibliocommons.com
+
+ID OCLC-YEQ
+NAME Kitsap Regional Library
+LOCATION Kitsap County
+STATE WA
+BASEURL http://catalog.krl.org/polaris
+CATTYPE polaris
 
 ID OCLC-LZS
 NAME Libraries of Stevens County
@@ -5886,6 +5903,16 @@ LOCATION Seattle
 STATE WA
 BASEURL http://uwashington.worldcat.org/search
 CATTYPE worldcat
+
+ID OCLC-WSUBL
+NAME Washington State University
+LOCATION Pullman and other campuses
+STATE WA
+CATTYPE primodl-scope
+BASEURL http://searchit.libraries.wsu.edu
+LCODE WSU
+VID WSU
+SCOPE WSU_everything
 
 ID OCLC-XFF
 NAME Western Washington University
