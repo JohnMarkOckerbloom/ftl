@@ -3985,6 +3985,13 @@ STATE NM
 BASEURL http://encore.cabq.gov/iii/encore
 CATTYPE encore
 
+ID OCLC-ZP7
+NAME Rio Rancho Public Libraries
+LOCATION Rio Rancho
+STATE NM
+BASEURL http://discover.ci.rio-rancho.nm.us/iii/encore
+CATTYPE encore
+
 ID OCLC-LAN
 NAME Los Alamos County Library System
 LOCATION Los Alamos
@@ -3999,6 +4006,27 @@ LOCATION Las Cruces and other campuses
 STATE NM
 CATTYPE voyager-vwebv
 BASEURL http://libcat.nmsu.edu/vwebv/search
+
+ID OCLC-SFP
+NAME Santa Fe Public Library
+LOCATION Santa Fe
+STATE NM
+BASEURL https://catalog.ci.santa-fe.nm.us
+CATTYPE innopac
+
+ID OCLC-TBL
+NAME Thomas Branigan Memorial Library
+LOCATION Las Cruces
+STATE NM
+BASEURL http://chile.las-cruces.org
+CATTYPE innopac
+
+ID OCLC-IQU
+NAME University of New Mexico Libraries
+LOCATION Albuquerque
+STATE NM
+BASEURL http://unm.worldcat.org/search
+CATTYPE worldcat
 
 ID OCLC-BNG
 NAME Binghamton University
