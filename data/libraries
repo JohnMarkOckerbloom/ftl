@@ -1688,6 +1688,16 @@ STATE CA
 BASEURL http://encore.aclibrary.org/iii/encore
 CATTYPE encore
 
+ID OCLC-JQD
+NAME Anaheim Public Library
+LOCATION Anaheim
+STATE CA
+BASEURL http://ipac.anaheim.net
+CATTYPE ipac20
+PROFILE z
+SINDEX SUBJECT
+TINDEX ALLTITL
+
 ID OCLC-JQF
 NAME Berkeley Public Library
 LOCATION Berkeley
@@ -1860,6 +1870,14 @@ STATE CA
 CATTYPE sirsient
 BASEURL http://catalog.ocpl.org/
 
+ID OCLC-CCO
+NAME Occidental College
+LOCATION Los Angeles
+STATE CA
+BASEURL http://oasys.lib.oxy.edu
+CATTYPE webpacpro
+FILTERS SNK
+
 ID OCLC-PAP
 NAME Palo Alto City Library
 LOCATION Palo Alto
@@ -2000,6 +2018,13 @@ CATTYPE carlweb
 BASEURL http://carlweb.snap.lib.ca.us/carlweb
 DBID 240
 FILTERS N
+
+ID OCLC-JTH
+NAME Sonoma County Library
+LOCATION Santa Rosa and vicinity
+STATE CA
+BASEURL http://find.sonomalibrary.org
+CATTYPE sirsient
 
 ID OCLC-CSO
 NAME Sonoma State University Library
