@@ -5321,7 +5321,7 @@ LCODE en_US/default
 
 ID OCLC-FTX
 NAME Fort Bend County Libraries
-LOCATION Richmond and vicinity
+LOCATION Richmond, Sugar Land, and vicinity
 STATE TX
 BASEURL http://catalog.fortbend.lib.tx.us/polaris
 CATTYPE polaris
@@ -5359,6 +5359,29 @@ LOCATION Austin
 STATE TX
 BASEURL http://voyager.htu.edu/cgi-bin/Pwebrecon.cgi
 CATTYPE voyager
+
+ID OCLC-TXKAU
+NAME Kaufman County Library
+LOCATION Kaufman
+STATE TX
+CATTYPE atriuum
+BASEURL http://kaufmancpltx.booksys.net/opac/kcpl/index.html?mode=start#search:
+FILTERS N
+
+ID OCLC-DB-DOLLAR
+NAME Laredo Public Library
+LOCATION Laredo
+STATE TX
+CATTYPE ipac20
+BASEURL http://lpl.ipac.sirsidynix.net
+SINDEX .SW
+
+ID OCLC-TXL
+NAME Lubbock Public Library
+LOCATION Lubbock
+STATE TX
+BASEURL http://newlib.ci.lubbock.tx.us/uhtbin/cgisirsi
+CATTYPE sirsi
 
 ID OCLC-LPZ
 NAME Lunar and Planetary Institute Library
