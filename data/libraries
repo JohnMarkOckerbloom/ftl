@@ -3051,12 +3051,34 @@ STATE KY
 CATTYPE voyager-vwebv
 BASEURL http://kctcs.kyvl.org/vwebv/search
 
+ID OCLC-KYL
+NAME Lexington Public Library
+LOCATION Lexington
+STATE KY
+CATTYPE ls2pac
+BASEURL http://catalog.lexpublib.org/
+FILTERS S
+
 ID OCLC-KLP
 NAME Louisville Free Public Library
 LOCATION Louisville
 STATE KY
 BASEURL http://pac.lfpl.org/polaris
 CATTYPE polaris
+
+ID OCLC-KHN
+NAME Northern Kentucky University
+LOCATION Highland Heights
+STATE KY
+BASEURL http://northernkentuckyuniversity.on.worldcat.org/external-search?queryString
+CATTYPE worldcat-config
+
+ID OCLC-KN4
+NAME Rowan County Public Library
+LOCATION Morehead
+STATE KY
+CATTYPE ls2pac
+BASEURL http://24.172.156.147:8080/
 
 ID OCLC-KTC
 NAME Somerset Community College
