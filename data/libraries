@@ -292,6 +292,14 @@ COUNTRY AU
 BASEURL http://library.vu.edu.au
 CATTYPE innopac
 
+ID OCLC-BOU
+NAME University of Botswana
+LOCATION Gaborone
+COUNTRY BW
+BASEURL http://medupe.ub.bw
+CATTYPE webpacpro
+FILTERS NK
+
 ID OCLC-CN5O6
 NAME Calgary Public Library
 LOCATION Calgary
@@ -803,6 +811,14 @@ COUNTRY FR
 BASEURL http://catalogue.univ-aix-marseille.fr/
 CATTYPE koha
 
+ID OCLC-GHKNU
+NAME Kwame Nkrumah University of Science and Technology
+LOCATION Kumasi
+COUNTRY GH
+BASEURL http://libcat.knust.edu.gh/?
+CATTYPE alexandria6
+FILTERS S
+
 ID OCLC-CPV
 NAME City University of Hong Kong
 LOCATION Hong Kong
@@ -1063,6 +1079,14 @@ COUNTRY TR
 CATTYPE sirsient-old
 LCODE university
 BASEURL http://librarycatalog.bilkent.edu.tr
+
+ID KYAMBOGO
+NAME Kyambogo University
+LOCATION Kampala
+COUNTRY UG
+BASEURL http://library.kyu.ac.ug
+CATTYPE koha
+FILTERS S
 
 ID OCLC-UGUCU
 NAME Uganda Christian University

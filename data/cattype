@@ -27,12 +27,26 @@ AUTURL ${BASEURL}/F/?func=find-b&find_code=AUT&local_base=${LCODE}&request=${ARG
 TITURL ${BASEURL}/F/?func=find-b&find_code=${TINDEX}&local_base=${LCODE}&request=${ARG:A}
 KEYURL ${BASEURL}/F/?func=find-b&find_code=WRD&local_base=${LCODE}&request=${ARG}
 
+# We may phase this out in favor of the alexandria6 below,
+# since I know of no OPACs preferring this syntax, & other more flexible
 CATTYPE alexandria
 SUBURL ${BASEURL}&results=SearchType0%3DKeyword%26SearchField0%3DSubjects%3A${ARG:NK}%26Interface%3Dsimple%26localCollection%3D1
 TITURL ${BASEURL}&results=SearchType0%3DKeyword%26SearchField0%3DTitle%3A${ARG}%26Interface%3Dsimple%26localCollection%3D1
 AUTURL ${BASEURL}&results=SearchType0%3DKeyword%26SearchField0%3DAuthor%3A${ARG:NK}%26Interface%3Dsimple%26localCollection%3D1
 ATIURL ${BASEURL}&results=SearchType0%3DKeyword%26SearchField0%3D${AUTHOR:SNK}%20${TITLE:NKA}%26Interface%3Dsimple%26localCollection%3D1
 KEYURL ${BASEURL}&results=SearchType0%3DKeyword%26SearchField0%3D${ARG:NK}%26Interface%3Dsimple%26localCollection%3D1
+
+# Syntax that seems to be preferred by Alexandria 6, possibly other versions
+CATTYPE alexandria6
+AINDEX Author
+SINDEX Subjects
+KINDEX Keyword
+TINDEX Title
+LCODE 0
+SUBURL ${BASEURL}results=SearchType0%3D${SINDEX}%26SearchField0%3D${ARG:NK}%26Interface%3Dsimple%26localCollection%3D${LCODE}
+AUTURL ${BASEURL}results=SearchType0%3D${AINDEX}%26SearchField0%3D${ARG:SNK}%26Interface%3Dsimple%26localCollection%3D${LCODE}
+TITURL ${BASEURL}results=SearchType0%3D${TINDEX}%26SearchField0%3D${ARG:NK}%26Interface%3Dsimple%26localCollection%3D${LCODE}
+KEYURL ${BASEURL}results=SearchType0%3D${KINDEX}%26SearchField0%3D${ARG:NK}%26Interface%3Dsimple%26localCollection%3D${LCODE}
 
 # Biblionix makes apollo, supports basic OpenSearch (not sure if other options)
 # libraries also may have minimal cataloging
