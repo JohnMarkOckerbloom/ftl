@@ -2796,6 +2796,13 @@ STATE IL
 BASEURL http://depaul.worldcat.org/search
 CATTYPE worldcat
 
+ID OCLC-IBE
+NAME Dominican University, Rebecca Crown Library
+LOCATION River Forest
+STATE IL
+BASEURL http://vufind.carli.illinois.edu/vf-dom
+CATTYPE vufindrc1
+
 ID OCLC-IHE
 NAME Evanston Public Library
 LOCATION Evanston
@@ -2809,6 +2816,21 @@ LOCATION Libraries in southern Illinois
 STATE IL
 BASEURL https://search.illinoisheartland.org
 CATTYPE polaris
+
+ID OCLC-AP8
+NAME Joliet Junior College
+LOCATION Joliet
+STATE IL
+CATTYPE eds
+LCODE joliet
+
+ID OCLC-ILM
+NAME Lincoln Library
+LOCATION Springfield
+STATE IL
+CATTYPE sirsient
+LCODE en_US/public
+BASEURL http://lincolnlibrary.sdp.sirsi.net
 
 ID OCLC-IHX
 NAME Resource Sharing Alliance (RSA)
