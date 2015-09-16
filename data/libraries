@@ -3912,6 +3912,13 @@ STATE NV
 BASEURL http://library.washoecounty.us/
 CATTYPE koha
 
+ID OCLC-QYA
+NAME Concord Public Library
+LOCATION Concord
+STATE NH
+BASEURL http://mls.concordnh.gov
+CATTYPE webpacpro
+
 ID OCLC-DRB
 NAME Dartmouth College
 LOCATION Hanover
@@ -3919,12 +3926,26 @@ STATE NH
 BASEURL http://library.dartmouth.edu
 KEYURL ${BASEURL}/search/index.php?q=${ARG}
 
+ID OCLC-HB2
+NAME Lebanon Public Libraries
+LOCATION Lebanon and West Lebanon
+STATE NH
+BASEURL http://catalog.leblibrary.com
+CATTYPE koha
+
 ID OCLC-QYC
 NAME Manchester City Library
 LOCATION Manchester
 STATE NH
 BASEURL http://findit.gmilcs.org/polaris
 CATTYPE polaris
+
+ID OCLC-QWB
+NAME Nashua Public Library
+LOCATION Nashua
+STATE NH
+CATTYPE sirsient
+BASEURL http://nashpl.ent.sirsi.net
 
 ID OCLC-2NH
 NAME University of New Hampshire
@@ -5427,6 +5448,13 @@ LOCATION Austin
 STATE TX
 BASEURL http://voyager.htu.edu/cgi-bin/Pwebrecon.cgi
 CATTYPE voyager
+
+ID OCLC-IJC
+NAME Irving Public Library
+LOCATION Irving
+STATE TX
+BASEURL http://irving.polarislibrary.com/polaris
+CATTYPE polaris
 
 ID OCLC-TXKAU
 NAME Kaufman County Library
