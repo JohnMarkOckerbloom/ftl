@@ -1267,6 +1267,23 @@ COUNTRY UK
 CATTYPE spydus
 BASEURL http://library-opac.birmingham.gov.uk
 
+ID OCLC-UKLVP
+NAME Liverpool Libraries
+LOCATION Liverpool, England
+COUNTRY UK
+CATTYPE prismhosted
+BASEURL http://capitadiscovery.co.uk/liverpool
+
+ID OCLC-L7L
+NAME The London Library
+LOCATION London, England
+COUNTRY UK
+VID 44LON_VU1
+LCODE 44LON
+CATTYPE primodl-loc
+BASEURL http://pmt-eu.hosted.exlibrisgroup.com
+LOC adaptor,scope:(44LON),primo_central_multiple_fe
+
 ID OCLC-LND
 NAME London Metropolitan University
 LOCATION London, England
@@ -1309,7 +1326,6 @@ BASEURL http://discover.llgc.org.uk
 SINDEX keywords
 FILTERS S
 
-# http://library.newcastle.gov.uk/web/arena/search?p_p_state=normal&p_p_lifecycle=1&p_p_action=1&p_p_id=searchResult_WAR_arenaportlets&p_p_col_count=4&p_p_col_id=column-1&p_p_col_pos=1&p_p_mode=view&search_item_no=0&search_type=solr&search_query=wuthering+heights
 ID OCLC-UKCST
 NAME Newcastle Libraries
 LOCATION Newcastle upon Tyne, England
@@ -1350,6 +1366,13 @@ COUNTRY UK
 CATTYPE iii-consortium-member
 BASEURL http://catalogue.ulrls.lon.ac.uk
 LCODE 24
+
+ID OCLC-UKSOU
+NAME Southwark Libraries
+LOCATION London Borough of Southwark, England
+COUNTRY UK
+CATTYPE prismhosted
+BASEURL http://capitadiscovery.co.uk/southwark
 
 ID OCLC-UK4ZN
 NAME Staffordshire University Library
