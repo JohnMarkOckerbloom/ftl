@@ -978,6 +978,15 @@ COUNTRY SG
 BASEURL http://catalogue.library.smu.edu.sg
 CATTYPE webpacpro
 
+ID OCLC-SGSUT
+NAME Singapore University of Technology and Design
+LOCATION Singapore
+COUNTRY SG
+CATTYPE primodl-loc
+BASEURL http://primo-direct-apac.hosted.exlibrisgroup.com
+VID 65SUTD
+LOC adaptor,scope:(65SUTD),primo_central_multiple_fe
+
 # Don't know the ISIL if any for SWISSBIB
 ID SWISSBIB
 NAME Swissbib
@@ -4086,6 +4095,13 @@ STATE NJ
 CATTYPE summon
 BASEURL http://stockton.summon.serialssolutions.com
 
+ID OCLC-NJG
+NAME Rowan University
+LOCATION Glassboro
+STATE NJ
+CATTYPE summon
+BASEURL http://rowan.summon.serialssolutions.com
+
 ID OCLC-NJR
 NAME Rutgers University Libraries
 LOCATION New Brunswick, Newark, and Camden
@@ -4107,6 +4123,13 @@ STATE NJ
 BASEURL http://catalog.somerset.lib.nj.us
 CATTYPE iii-consortium-member
 LCODE 8
+
+ID OCLC-NJT
+NAME The College of New Jersey
+LOCATION Ewing
+STATE NJ
+CATTYPE voyager-vwebv
+BASEURL http://libcat.tcnj.edu:7009/vwebv/search
 
 ID OCLC-NJP
 NAME William Paterson University, Cheng Library
