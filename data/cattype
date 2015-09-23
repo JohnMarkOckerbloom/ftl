@@ -111,6 +111,16 @@ AUTURL ${BASEURL}q=${ARG}&search_field=${AINDEX}
 TITURL ${BASEURL}q=${ARG:A}&search_field=title
 KEYURL ${BASEURL}q=${ARG}
 
+# Wisconsin seems to like the search type up front; not sure if other BLs do
+CATTYPE blacklight-typeatfront
+AINDEX author
+SINDEX subject
+TINDEX title
+SUBURL ${BASEURL}/${SINDEX}?q=${ARG}
+AUTURL ${BASEURL}/${AINDEX}?q=${ARG}
+TITURL ${BASEURL}/${TINDEX}?q=${ARG}
+KEYURL ${BASEURL}?q=${ARG}
+
 CATTYPE carlweb
 SUBURL ${BASEURL}/jsp/DoSearch?databaseID=${DBID}&index=sb/&terms=${ARG}
 AUTURL ${BASEURL}/jsp/DoSearch?databaseID=${DBID}&index=n&terms=${ARG}

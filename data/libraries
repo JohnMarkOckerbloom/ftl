@@ -185,7 +185,7 @@ LOCATION Adelaide, South Australia
 COUNTRY AU
 BASEURL http://rgssa.slimlib.com.au:81/vufind
 CATTYPE vufind
-# we seqrch all fields for subjects; lowercase other specialized fields
+# we search all fields for subjects; lowercase other specialized fields
 SINDEX AllFields
 TINDEX title
 AINDEX author
@@ -6185,6 +6185,14 @@ STATE WV
 CATTYPE summon
 BASEURL http://wvu.summon.serialssolutions.com
 
+ID OCLC-GZG
+NAME Brown County Library
+LOCATION Green Bay and vicinity
+STATE WI
+CATTYPE sirsient
+LCODE en_US/home
+BASEURL http://brown.ent.sirsi.net
+
 ID OCLC-WIW
 NAME Marathon County Public Library
 LOCATION Wausau and vicinity
@@ -6222,8 +6230,8 @@ ID OCLC-GZM
 NAME University of Wisconsin-Madison Libraries
 LOCATION Madison
 STATE WI
-BASEURL http://search.library.wisc.edu/catalog
-CATTYPE blacklight
+BASEURL https://search.library.wisc.edu/search/catalog
+CATTYPE blacklight-typeatfront
 
 ID OCLC-GZN
 NAME University of Wisconsin-Milwaukee Libraries
@@ -6235,6 +6243,14 @@ LOC adaptor,scope:(VOYAGER),scope:(UWMINDS),scope:(MIL_CDM),scope:(MIL_BEPRESS),
 VID MIL
 LCODE MIL
 DEFAULT http://www4.uwm.edu/libraries/
+
+ID OCLC-GZK
+NAME Winnefox Library System
+LOCATION 30 public libraries in Oshkosh and 5 nearby counties
+STATE WI
+BASEURL http://catalog.winnefox.org
+CATTYPE vufind
+FILTERS S
 
 ID OCLC-WYL
 NAME Laramie County Library
