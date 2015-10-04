@@ -1686,12 +1686,33 @@ STATE AZ
 CATTYPE summon
 BASEURL http://asu.summon.serialssolutions.com
 
+ID OCLC-O6C
+NAME Chandler Public Library
+LOCATION Chandler
+STATE AZ
+BASEURL http://chandler.polarislibrary.com/polaris
+CATTYPE polaris
+
 ID OCLC-AZH
 NAME Flagstaff City-Coconino County Public Library
 LOCATION Flagstaff
 STATE AZ
 BASEURL http://www.flagstaffpubliclibrary.org/uhtbin/cgisirsi/
 CATTYPE sirsi
+
+ID OCLC-VTL
+NAME Glendale Public Library
+LOCATION Glendale
+STATE AZ
+BASEURL http://glendale.polarislibrary.com/polaris
+CATTYPE polaris
+
+ID OCLC-MSA
+NAME Mesa Public Library
+LOCATION Mesa
+STATE AZ
+BASEURL http://cat.mesalibrary.org/polaris
+CATTYPE polaris
 
 ID OCLC-1PN
 NAME Phoenix Public Library
@@ -1708,6 +1729,13 @@ STATE AZ
 BASEURL http://librarycatalog.pima.gov
 CATTYPE webpacpro
 FILTERS N
+
+ID OCLC-AZD
+NAME Scottsdale Public Library
+LOCATION Scottsdale
+STATE AZ
+BASEURL http://Scottsdale.polarislibrary.com/polaris
+CATTYPE polaris
 
 ID OCLC-AZU
 NAME University of Arizona Libraries
