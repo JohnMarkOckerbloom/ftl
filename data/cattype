@@ -499,10 +499,14 @@ DEFAULT DOMAIN
 
 # same as vufind, but with more control over URL before ?
 CATTYPE vufindgeneral
-SUBURL ${BASEURL}?type=Subject&lookfor=${ARG}
-AUTURL ${BASEURL}?type=Author&lookfor=${ARG}
-TITURL ${BASEURL}?Results?type=Title&lookfor=${ARG}
-KEYURL ${BASEURL}?type=AllFields&lookfor=${ARG}
+TINDEX Title
+SINDEX Subject
+AINDEX Author
+KINDEX AllFields
+SUBURL ${BASEURL}?type=${SINDEX}&lookfor=${ARG}
+AUTURL ${BASEURL}?type=${AINDEX}&lookfor=${ARG}
+TITURL ${BASEURL}?type=${TINDEX}&lookfor=${ARG}
+KEYURL ${BASEURL}?type=${KINDEX}&lookfor=${ARG}
 DEFAULT DOMAIN
 
 CATTYPE vufindnoaccent

@@ -9,7 +9,7 @@
 #   or lexical analysis (such as many geographical locations)
 #   are not included in this file.
 # See docs file for documentation
-# Last updated 2015-10-04
+# Last updated 2015-10-06
 # LCSH event sweep left off at 1940
 #
 24 Heures du Mans (Automobile race)|=|24 Hours of Le Mans
@@ -20,7 +20,9 @@
 401(k) plans|<->|401(k)
 403(b) plans|<->|403(b)
 527 groups|=|527 organization
+6502 (Microprocessor)|=|MOS Technology 6502
 A-10 (Jet attack plane)|=|Fairchild Republic A-10 Thunderbolt II
+A1 Road (England and Scotland)|=|A1 road (Great Britain)
 Aachen (Germany)|=|Aachen
 Aar River (Switzerland)|=|Aare
 Aarau (Switzerland)|=|Aarau
@@ -5914,6 +5916,7 @@ Hollabrunn (Hollabrunn, Austria)|=|Hollabrunn
 Hollabrunn, Battle of, Hollabrunn, Hollabrunn, Austria, 1805|=|Battle of Schöngrabern
 Holland (Netherlands : Province)|<->|Holland
 Hollies|<->|Holly
+Holloway Road (London, England)|=|Holloway Road
 Hollywood (Los Angeles, Calif.)|=|Hollywood
 Holmes, Mycroft (Fictitious character)|=|Mycroft Holmes
 Holmes, Sherlock|=|Sherlock Holmes
@@ -6422,6 +6425,17 @@ Insurance companies|->|Insurance
 Integrals|<->|Integral
 Integrated circuits|=|Integrated circuit
 Integrated library systems (Computer systems)|=|Integrated library system
+Intel 80286 (Microprocessor)|=|Intel 80286
+Intel 80386 (Microprocessor)|=|Intel 80386
+Intel 80486 (Microprocessor)|=|Intel 80486
+Intel 8080 (Microprocessor)|=|Intel 8080
+Intel 8085 (Microprocessor)|=|Intel 8085
+Intel 8086 (Microprocessor)|=|Intel 8086
+Intel 8087 (Microprocessor)|=|Intel 8087
+Intel 8088 (Microprocessor)|=|Intel 8088
+Intel 8089 (Microprocessor)|=|Intel 8089
+Intel 80x86 series microprocessors|<->|X86
+Intel microprocessors|<->|List of Intel microprocessors
 Intellectuals|=|Intellectual
 Intelligence officers|=|Intelligence officer
 Intelligence service|=|Intelligence agency
@@ -6628,6 +6642,7 @@ Italy -- History -- War of 1859|=|Second Italian War of Independence
 Italy -- Politics and government|<->|Politics of Italy
 Italy, Northern|=|Northern Italy
 Italy, Southern|=|Southern Italy
+Itanium (Microprocessor)|=|Itanium
 Itasca State Park (Minn.)|=|Itasca State Park
 Iterative methods (Mathematics)|<->|Iterative method
 Itokawa (Asteroid)|=|25143 Itokawa
@@ -7835,11 +7850,13 @@ Lyon (France)|=|Lyon
 Lys, Battle of the, 1918|<->|Battle of the Lys (1918)
 Lysosomal storage diseases|=|Lysosomal storage disease
 M1 Motorway (England)|=|M1 motorway
+M1 (Tank)|=|M1 Abrams
 M-16 rifle|=|M16 rifle
 M-4 carbine|=|M4 carbine
 M18 Motorway (England)|=|M18 motorway (Great Britain)
 M27 Motorway (England)|=|M27 motorway
 M5 Motorway (England)|=|M5 motorway
+M60 (Tank)|=|M60 Patton
 Maasai (African people)|=|Maasai people
 Macap&aacute; (Amap&aacute;, Brazil)|=|Macapá
 Macatawa, Lake, (Mich.)|=|Lake Macatawa
@@ -8508,6 +8525,8 @@ Minstrels|=|Minstrel
 Minute Man National Historical Park (Agency : U.S.)|->|Minute Man National Historical Park
 Minute Man National Historical Park (Mass.)|=|Minute Man National Historical Park
 Minutemen (Militia)|=|Minutemen
+MIPS R4000 (Microprocessor)|=|R4000
+MIPS-X (Microprocessor)|=|MIPS-X
 Miracles|=|Miracle
 Miraflores, Battle of, Lima, Peru, 1881|=|Battle of Miraflores
 Mirages|=|Mirage
@@ -8769,11 +8788,22 @@ Motion pictures|=|Film
 Motions in limine|=|Motion in limine
 Motivation (Psychology)|=|Motivation
 Moto, Mr. (Fictitious character)|=|Mr. Moto
-Motorboats|=|Motorboat
-Motorcycles|=|Motorcycle
 Motor fuels|=|Motor fuel
 Motor vehicle driving|<->|Driving
 Motor vehicles|=|Motor vehicle
+Motorboats|=|Motorboat
+Motorcycles|=|Motorcycle
+Motorola 6800 (Microprocessor)|=|Motorola 6800
+Motorola 68000 (Microprocessor)|=|Motorola 68000
+Motorola 68000 series microprocessors|=|Motorola 68000 series
+Motorola 68010 (Microprocessor)|=|Motorola 68010
+Motorola 68020 (Microprocessor)|=|Motorola 68020
+Motorola 68030 (Microprocessor)|=|Motorola 68030
+Motorola 68851 (Microprocessor)|=|Motorola 68851
+Motorola 68881 (Microprocessor)|<->|Motorola 68881
+Motorola 68882 (Microprocessor)|->|Motorola 68881
+Motorola 68HC11 (Microprocessor)|<->|Freescale 68HC11
+Motorola 88000 (Microprocessor)|=|Motorola 88000
 Mottoes|=|Motto
 Mound-builders|=|Mound Builders
 Mounds|=|Mound
@@ -10084,6 +10114,7 @@ Pensacola (Fla.) -- History -- Siege, 1781|=|Siege of Pensacola
 Pensions|=|Pension
 Pentecostal churches|->|Pentecostalism
 Pentheus, King of Thebes (Mythological character)|=|Pentheus
+Pentium (Microprocessor)|<->|Pentium
 Pentland Hills (Scotland)|=|Pentland Hills
 People with disabilities|->|Disability
 People with disabilities -- Abuse of|=|Disability abuse
@@ -13231,6 +13262,7 @@ Thur River (Switzerland)|=|Thur (Switzerland)
 Thurgau (Switzerland)|=|Thurgau
 Thuringia (Germany)|=|Thuringia
 TI 99/4A (Computer)|=|Texas Instruments TI-99/4A
+TI 99000 (Microprocessor)|<->|Texas Instruments TMS9900
 Tiahuanacu (Bolivia)|=|Tiwanaku
 Tianjin (China)|=|Tianjin
 Tianjin Massacre, Tianjin, China, 1870|=|Tianjin Massacre
@@ -15028,6 +15060,8 @@ Zen Buddhism|=|Zen
 Zeus (Greek deity)|=|Zeus
 Zgoda (Concentration camp)|=|Zgoda labour camp
 Z&#xfe20;h&#xfe21;ovti Vody, Battle of, Ukraine, 1648|=|Battle of Zhovti Vody
+Zilog Z-80 (Microprocessor)|=|Zilog Z80
+Zilog Z8000 (Microprocessor)|=|Zilog Z8000
 Zimbabwe -- History -- Chimurenga War, 1896-1897|<->|Second Matabele War
 Zimbabwe -- History -- Chimurenga War, 1966-1980|<->|Rhodesian Bush War
 Zimbabwe -- History -- Ndebele War, 1893|<->|First Matabele War

@@ -342,6 +342,13 @@ PROVINCE AB
 BASEURL http://catalogue.tracpac.ab.ca/polaris
 CATTYPE polaris
 
+ID OCLC-UAB
+NAME University of Alberta
+LOCATION Edmonton
+PROVINCE AB
+CATTYPE eds
+LCODE s5940188
+
 ID OCLC-UAU
 NAME University of Calgary
 LOCATION Calgary
@@ -1533,6 +1540,17 @@ STATE AL
 BASEURL http://alasu.worldcat.org/search
 CATTYPE worldcat
 
+ID OCLC-AAA
+NAME Auburn University 
+LOCATION Auburn
+STATE AL
+CATTYPE vufindgeneral
+BASEURL http://catalog.lib.auburn.edu/vufind/Search/Home
+SINDEX subject
+AINDEX author
+TINDEX title
+KINDEX all
+
 ID OCLC-MWD
 NAME Huntsville-Madison County Public Library
 LOCATION Huntsville and vicinity
@@ -2157,6 +2175,20 @@ STATE CA
 BASEURL http://ucla.worldcat.org/search
 CATTYPE worldcat
 
+ID OCLC-CUS
+NAME UCSD: University of California San Diego
+LOCATION La Jolla
+STATE CA
+BASEURL http://roger.ucsd.edu
+CATTYPE innopac
+
+ID OCLC-RQE
+NAME University of California Berkeley
+LOCATION Berkeley
+STATE CA
+CATTYPE eds
+LCODE s1226370
+
 ID OCLC-CUV
 NAME University of California Davis
 LOCATION Davis
@@ -2177,6 +2209,21 @@ LOCATION All 10 UC campuses
 STATE CA
 BASEURL http://melvyl.worldcat.org/search
 CATTYPE worldcat
+
+ID OCLC-CRU
+NAME University of California Riverside
+LOCATION Riverside
+STATE CA
+BASEURL http://scotty.ucr.edu
+CATTYPE innopac
+
+ID OCLC-CUT
+NAME University of California Santa Barbara
+LOCATION Santa Barbara
+STATE CA
+CATTYPE alephcuny
+BASEURL http://pegasus.library.ucsb.edu
+LCODE SBA01PUB
 
 ID OCLC-CSL
 NAME USC: University of Southern California
@@ -2215,6 +2262,17 @@ LOCATION Various libraries in or near Colorado
 STATE CO
 BASEURL http://prospector.coalliance.org
 CATTYPE innopac
+
+ID OCLC-COF
+NAME Colorado State University
+LOCATION Fort Collins
+STATE CO
+CATTYPE vufindgeneral
+BASEURL http://discovery.library.colostate.edu/Search/Home
+SINDEX subject
+AINDEX author
+TINDEX title
+KINDEX all
 
 ID OCLC-DPL
 NAME Denver Public Library
@@ -2610,6 +2668,13 @@ LOCATION Suwanee, Hamilton, and Madison counties
 STATE FL
 CATTYPE sirsient
 BASEURL http://suw.ent.sirsi.net
+
+ID OCLC-FUG
+NAME University of Florida, George A. Smathers Libraries
+LOCATION Gainesville
+STATE FL
+CATTYPE summon
+BASEURL http://ufl.summon.serialssolutions.com
 
 ID OCLC-FNM
 NAME University of Miami Libraries
