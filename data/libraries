@@ -449,6 +449,16 @@ CATTYPE evergreen-dynamic
 BASEURL http://mbrl.mb.catalogue.libraries.coop/eg/opac
 FILTERS N 
 
+ID OCLC-UAT
+NAME University of Manitoba
+LOCATION Winnipeg
+PROVINCE MB
+CATTYPE primodl-scope
+BASEURL http://primo-pmtna01.hosted.exlibrisgroup.com
+VID UMB
+LCODE UMB
+SCOPE UManitoba
+
 # using Brandon ID for this one
 ID CA-MBW
 NAME Western Manitoba Regional Library
@@ -623,6 +633,13 @@ PROVINCE ON
 CATTYPE bibliocommons
 BASEURL http://ottawa.bibliocommons.com
 
+ID OCLC-Q2U
+NAME Queen's University
+LOCATION Kingston
+PROVINCE ON
+BASEURL http://queensu.summon.serialssolutions.com
+CATTYPE summon
+
 ID CA-OSH
 NAME Shelburne Public Library
 LOCATION Shelburne
@@ -660,6 +677,16 @@ BASEURL http://www.torontopubliclibrary.ca/search.jsp
 CATTYPE endeca
 SINDEX Subject_Search_Interface
 TINDEX Title_Search_Interface
+
+ID OCLC-U3G
+NAME University of Guelph
+LOCATION Guelph
+PROVINCE ON
+CATTYPE primodl-scope
+BASEURL http://primo.tug-libraries.on.ca
+VID GUELPH
+LCODE GUELPH
+SCOPE search_tab
 
 ID OCLC-OTZ
 NAME University of Ottawa
@@ -771,6 +798,18 @@ LOCATION Public libraries across the province
 PROVINCE SK
 CATTYPE encore
 BASEURL http://encore.sasklibraries.ca/iii/encore
+
+# Uses Ariane catalog (custom?)
+# searches via this method tend to skew English, but have decent hit counts
+ID OCLC-LVB
+NAME Universit&eacute; Laval
+LOCATION Qu&eacute;bec
+PROVINCE PQ
+BASEURL http://ariane25.bibl.ulaval.ca/ariane/wicket/recherche
+KEYURL ${BASEURL}?c=ariane&rq.r.l[0].c=*&rq.r.l[0].v=${ARG}
+AUTURL ${BASEURL}?c=ariane&rq.r.l[0].c=AU&rq.r.l[0].v=${ARG}
+TITURL ${BASEURL}?c=ariane&rq.r.l[0].c=TI&rq.r.l[0].v=${ARG}
+SUBURL ${BASEURL}?c=ariane&rq.r.l[0].c=SU&rq.r.l[0].v=${ARG}
 
 ID OCLC-REB
 NAME University of Regina
@@ -3484,6 +3523,13 @@ CATTYPE sirsient
 BASEURL http://mdpl.ent.sirsi.net
 LCODE catalog
 
+ID OCLC-AGL
+NAME National Agricultural Library
+LOCATION Beltsville
+STATE MD
+BASEURL http://agricola.nal.usda.gov/cgi-bin/Pwebrecon.cgi
+CATTYPE voyager
+
 ID OCLC-MDK
 NAME Prince George's County Memorial Library System
 LOCATION Prince George's County
@@ -4435,6 +4481,13 @@ STATE NY
 CATTYPE bibliocommons
 BASEURL http://nypl.bibliocommons.com
 
+ID OCLC-1NY
+NAME New York State Library, Archives, and Museum
+LOCATION Albany
+STATE NY
+CATTYPE sirsi
+BASEURL http://nysl.nysed.gov/uhtbin/cgisirsi.exe
+
 ID OCLC-XDR
 NAME Pioneer Library System: OWWL Catalog
 LOCATION Ontario, Wayne, Wyoming, and Livingston counties
@@ -4531,6 +4584,13 @@ LOCATION Buffalo
 STATE NY
 CATTYPE vufindgeneral
 BASEURL http://catalog.lib.buffalo.edu/vufind/Resource/Results
+
+ID OCLC-RRR
+NAME University of Rochester, River Campus Libraries
+LOCATION Rochester
+STATE NY
+CATTYPE summon
+BASEURL http://rochester.summon.serialssolutions.com
 
 ID OCLC-VVW
 NAME Westchester Library System
@@ -4713,6 +4773,15 @@ STATE OH
 CATTYPE innopac
 BASEURL http://catalog.delawarelibrary.org
 FILTERS SNK
+
+# Kent State has EDS, but it doesn't work right off-campus (no custid seen)
+# so we'll drop back to KentLink, their catalog
+ID OCLC-KSU
+NAME Kent State University
+LOCATION Kent and other campuses
+STATE OH
+CATTYPE innopac
+BASEURL http://kentlink.kent.edu
 
 ID OCLC-LXP
 NAME Lorain Public Library System
