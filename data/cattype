@@ -256,6 +256,13 @@ AUTURL ${BASEURL}/cgi-bin/koha/opac-search.pl?multibranchlimit=${LCODE}&idx=au&q
 TITURL ${BASEURL}/cgi-bin/koha/opac-search.pl?multibranchlimit=${LCODE}&idx=ti&q=${ARG}
 KEYURL ${BASEURL}/cgi-bin/koha/opac-search.pl?multibranchlimit=${LCODE}&q=${ARG}
 
+# some Koha installs seem to use a different syntax for branch limits
+CATTYPE koha-group
+SUBURL ${BASEURL}/cgi-bin/koha/opac-search.pl?branch_group_limit=branch:${LCODE}&idx=su&q=${ARG}
+AUTURL ${BASEURL}/cgi-bin/koha/opac-search.pl?branch_group_limit=branch:${LCODE}&idx=au&q=${ARG}
+TITURL ${BASEURL}/cgi-bin/koha/opac-search.pl?branch_group_limit=branch:${LCODE}&idx=ti&q=${ARG}
+KEYURL ${BASEURL}/cgi-bin/koha/opac-search.pl?branch_group_limit=branch:${LCODE}&q=${ARG}
+
 # Non-working libero catalog pattern here; unfortunately I haven't
 # yet found a way to make Libero searches work without a recent dynamically
 # supplied TOKEN argument.  Example of a search URL is below.

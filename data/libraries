@@ -1771,6 +1771,13 @@ STATE AZ
 BASEURL http://cat.mesalibrary.org/polaris
 CATTYPE polaris
 
+ID OCLC-AZN
+NAME Northern Arizona University, Cline Library
+LOCATION Flagstaff
+STATE AZ
+BASEURL http://cline.lib.nau.edu
+CATTYPE webpacpro
+
 ID OCLC-1PN
 NAME Phoenix Public Library
 LOCATION Phoenix
@@ -2500,6 +2507,13 @@ STATE DE
 CATTYPE sirsient
 BASEURL http://dlc.lib.de.us
 
+ID OCLC-DRC
+NAME Delaware State University
+LOCATION Dover
+STATE DE
+CATTYPE summon
+BASEURL http://desu.summon.serialssolutions.com
+
 ID OCLC-NO5
 NAME University of Delaware Library
 LOCATION Newark
@@ -2556,6 +2570,17 @@ LOCATION Washington
 STATE DC
 CATTYPE voyager-vwebv
 BASEURL http://catalog.loc.gov/vwebv/search
+
+ID OCLC-SMI
+NAME Smithsonian Libraries
+LOCATION Washington and other locations
+STATE DC
+BASEURL http://siris-libraries.si.edu
+CATTYPE ipac20
+PROFILE liball
+AINDEX PAUTH
+TINDEX ALLTTLP
+KINDEX GW
 
 ID OCLC-1DB
 NAME Bethune-Cookman University
@@ -3208,6 +3233,16 @@ STATE KS
 CATTYPE bibliocommons
 BASEURL http://jocolibrary.bibliocommons.com
 
+ID OCLC-KKS
+NAME Kansas State University
+LOCATION Manhattan
+STATE KS
+CATTYPE primodl-loc
+BASEURL http://searchit.lib.ksu.edu
+VID 01KSU
+LCODE 01KSU
+LOC adaptor,scope:(01KSU_ALMA),scope:(01KSU),scope:(01KSU_DSPACE),primo_central_multiple_fe
+
 ID OCLC-CD3
 NAME Manhattan Public Library
 LOCATION Manhattan
@@ -3829,6 +3864,13 @@ PROFILE elibrary
 AINDEX AL
 TINDEX UTL
 
+ID OCLC-MNM
+NAME Minnesota State University
+LOCATION Mankato
+STATE MN
+CATTYPE summon
+BASEURL http://mnsu.summon.serialssolutions.com
+
 ID OCLC-SPP
 NAME Saint Paul Public Library
 LOCATION St. Paul
@@ -4036,6 +4078,16 @@ STATE MT
 CATTYPE summon
 BASEURL http://montana.summon.serialssolutions.com
 
+ID OCLC-MZJ
+NAME Montana Tech of the University of Montana
+LOCATION Butte
+STATE MT
+CATTYPE primodl-scope
+BASEURL http://montana-primo.hosted.exlibrisgroup.com
+VID UMTECH
+LCODE UMONTANA-Montana+Tech
+SCOPE EVERYTHING
+
 ID OCLC-MTG
 NAME University of Montana, Mansfield Library
 LOCATION Missoula
@@ -4045,7 +4097,6 @@ BASEURL http://montana-primo.hosted.exlibrisgroup.com
 VID UMMISS
 LCODE UMMISS
 SCOPE UMMISS_PLUS
-
 
 ID OCLC-NLN
 NAME Lincoln City Libraries
@@ -4656,6 +4707,14 @@ STATE NC
 CATTYPE sirsi
 BASEURL http://vega.co.forsyth.nc.us/uhtbin/cgisirsi.exe
 
+ID OCLC-NCJ
+NAME Johnson C. Smith University
+LOCATION Charlotte
+STATE NC
+BASEURL http://libcat.jcsu.edu
+CATTYPE webpacpro
+FILTERS N
+
 ID OCLC-NRC
 NAME North Carolina State University (NCSU)
 LOCATION Raleigh
@@ -5040,6 +5099,13 @@ STATE OR
 CATTYPE summon
 BASEURL http://oregonstate.summon.serialssolutions.com
 
+ID OCLC-UMQ
+NAME Umpqua Community College
+LOCATION Roseburg
+STATE OR
+BASEURL http://umpqua.worldcat.org/search
+CATTYPE worldcat
+
 ID OCLC-ORU
 NAME University of Oregon
 LOCATION Eugene
@@ -5072,6 +5138,13 @@ STATE PA
 BASEURL http://205.247.101.11
 CATTYPE iii-consortium-member
 LCODE NaN
+
+ID OCLC-BFJ
+NAME Beaver County Library System
+LOCATION Public and community college libraries in Beaver County
+STATE PA
+BASEURL http://bvrpac.beaverlibraries.org
+CATTYPE innopac
 
 ID OCLC-XK8
 NAME Berks County Public Libraries
@@ -5954,6 +6027,13 @@ LCODE UUU
 LOC adaptor,scope:(uu),primo_central_multiple_fe
 DEFAULT http://www.lib.utah.edu/
 
+ID OCLC-UV-DOLLAR
+NAME Utah Valley University
+LOCATION Orem
+STATE UT
+CATTYPE eds
+LCODE s9010408
+
 ID OCLC-UTW
 NAME Weber County Library
 LOCATION Ogden and vicinity
@@ -6091,6 +6171,14 @@ STATE VT
 BASEURL http://library.bennington.edu
 CATTYPE webpacpro
 
+ID OCLC-BSY
+NAME Brooks Memorial Library
+LOCATION Brattleboro
+STATE VT
+BASEURL http://catalog.brookslibraryvt.org
+CATTYPE koha-group
+LCODE BROOKSBRAT
+
 ID OCLC-F3L
 NAME Fletcher Free Library
 LOCATION Burlington
@@ -6146,6 +6234,13 @@ STATE WA
 VID EWU
 LCODE EWU
 LOC adaptor,scope:(EWU),scope:(EWU_RIVERPOINT),scope:(EWU_CR),scope:(P),scope:(E-EWU),primo_central_multiple_fe
+
+ID OCLC-EV4
+NAME Everett Community College
+LOCATION Everett
+STATE WA
+CATTYPE voyager-vwebv
+BASEURL http://everett.library.ctc.edu/vwebv/search
 
 ID OCLC-ESR
 NAME Evergreen State College
