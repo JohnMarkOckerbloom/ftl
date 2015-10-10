@@ -2381,6 +2381,13 @@ CATTYPE evergreen-dynamic
 BASEURL http://bridgeport.biblio.org/eg/opac
 LCODE 32
 
+ID OCLC-CTL
+NAME Connecticut College
+LOCATION New London
+STATE CT
+CATTYPE eds
+LCODE s8986602
+
 ID OCLC-CZL
 NAME CONSULS
 LOCATION CT State Library; and Central, Eastern, Southern, and Western CT State Universities
@@ -3728,6 +3735,13 @@ LOCATION Springfield
 STATE MA
 CATTYPE voyager-vwebv
 BASEURL http://jtbowne.springfieldcollege.edu/vwebv/search
+
+ID OCLC-AUM
+NAME University of Massachusetts Amherst
+LOCATION Amherst
+STATE MA
+BASEURL http://umass.worldcat.org/search
+CATTYPE worldcat
 
 ID OCLC-ULN
 NAME University of Massachusetts Lowell
@@ -5382,6 +5396,14 @@ LOCATION Providence
 STATE RI
 CATTYPE vufind
 BASEURL http://library.brown.edu/find
+
+ID OCLC-CCW
+NAME Community College of Rhode Island
+LOCATION Warwick and other campuses
+STATE RI
+BASEURL http://library.uri.edu
+CATTYPE iii-consortium-member
+LCODE 2
 
 ID OCLC-RIOSL
 NAME Ocean State Libraries
