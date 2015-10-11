@@ -879,6 +879,13 @@ COUNTRY IE
 BASEURL http://0-ittdublin.summon.serialssolutions.com.millennium.it-tallaght.ie
 CATTYPE summon
 
+ID OCLC-ERD
+NAME Trinity College Dublin
+LOCATION Dublin
+COUNTRY IE
+BASEURL http://stella.catalogue.tcd.ie/iii/encore
+CATTYPE encore
+
 ID OCLC-IEUOL
 NAME University of Limerick
 LOCATION Limerick
@@ -1085,6 +1092,13 @@ LOCATION Pretoria and other campuses
 COUNTRY ZA
 CATTYPE encore
 BASEURL http://encore.unisa.ac.za/iii/encore
+
+ID OCLC-STB
+NAME Stockholms Stadsbibliotek
+LOCATION Stockholm; English search terms may give limited results
+COUNTRY SE
+BASEURL https://biblioteket.stockholm.se/en/sok
+KEYURL ${BASEURL}?freetext=${ARG}
 
 ID OCLC-OG-SHARP
 WCRID 87534
@@ -1974,6 +1988,14 @@ LOCATION Lodi
 STATE CA
 CATTYPE sirsi
 BASEURL http://lodicat.stockton.lib.ca.us/uhtbin/cgisirsi
+
+ID OCLC-CLB
+NAME Long Beach Public Library
+LOCATION Long Beach
+STATE CA
+BASEURL http://encore.lbpl.org/iii/encore
+CATTYPE encore
+FILTERS S
 
 ID OCLC-1LP
 NAME Los Angeles Public Library
