@@ -1093,6 +1093,14 @@ COUNTRY ZA
 CATTYPE encore
 BASEURL http://encore.unisa.ac.za/iii/encore
 
+# using one of the National Library of Sweden's identifiers for this
+ID OCLC-S3O
+NAME LIBRIS
+LOCATION 400 research libraries in Sweden; English search coverage may vary
+COUNTRY SE
+BASEURL http://libris.kb.se
+KEYURL ${BASEURL}/hitlist?d=libris&f=simp&spell=true&q=${ARG}
+
 ID OCLC-STB
 NAME Stockholms Stadsbibliotek
 LOCATION Stockholm; English search terms may give limited results
@@ -4294,6 +4302,14 @@ STATE NJ
 BASEURL http://catalog.mainlib.org
 CATTYPE polaris
 
+ID OCLC-NJNPL
+NAME Newark Public Library
+LOCATION Newark
+STATE NJ
+BASEURL http://catalog.npl.org
+CATTYPE iii-consortium-member
+LCODE 1
+
 ID OCLC-PPR
 NAME Princeton Public Library
 LOCATION Princeton
@@ -4575,6 +4591,13 @@ STATE NY
 CATTYPE sirsi
 BASEURL http://nysl.nysed.gov/uhtbin/cgisirsi.exe
 
+ID OCLC-YVO
+NAME Onondaga County Public Library
+LOCATION Syracuse and vicinity
+STATE NY
+BASEURL http://catalog.onlib.org/polaris
+CATTYPE polaris
+
 ID OCLC-XDR
 NAME Pioneer Library System: OWWL Catalog
 LOCATION Ontario, Wayne, Wyoming, and Livingston counties
@@ -4582,6 +4605,13 @@ STATE NY
 BASEURL http://evergreen.owwl.org/eg/opac
 CATTYPE evergreen-dynamic
 LCODE 1
+
+ID OCLC-VZQ
+NAME Pratt Institute
+LOCATION New York
+STATE NY
+BASEURL http://cat.pratt.edu
+CATTYPE webpacpro
 
 ID OCLC-ZQP
 NAME Queens Library
@@ -4771,6 +4801,13 @@ LOCATION Chapel Hill
 STATE NC
 BASEURL http://library.unc.edu/research/combinedresults/
 CATTYPE endeca
+
+ID OCLC-1NG
+NAME University of North Carolina Greensboro
+LOCATION Greesnboro
+STATE NC
+BASEURL http://uncg.worldcat.org/search
+CATTYPE worldcat
 
 ID OCLC-8NX
 NAME Wake County Public Libraries
