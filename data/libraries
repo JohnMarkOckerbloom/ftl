@@ -2643,6 +2643,13 @@ STATE FL
 CATTYPE ls2pac
 BASEURL http://vc.browardlibrary.org/
 
+ID OCLC-FNO
+NAME Collier County Public Library
+LOCATION Naples and vicinity
+STATE FL
+BASEURL http://catalog.collier-lib.org
+CATTYPE innopac
+
 ID OCLC-FMP
 NAME Columbia County Public Library
 LOCATION Lake City
@@ -2755,12 +2762,26 @@ STATE FL
 BASEURL https://pals.polarislibrary.com/polaris
 CATTYPE polaris
 
+ID OCLC-FSA
+NAME Saint Leo University
+LOCATION Saint Leo
+STATE FL
+BASEURL https://saintleo.on.worldcat.org/external-search?queryString
+CATTYPE worldcat-config
+
 ID OCLC-FSP
-NAME Sarasota Country Libraries
+NAME Sarasota County Libraries
 LOCATION Sarasota and vicinity
 STATE FL
 BASEURL http://suncat.co.sarasota.fl.us
 CATTYPE innopac
+
+ID OCLC-FLR
+NAME St. Lucie County Library System
+LOCATION St. Lucie County
+STATE FL
+BASEURL http://lib.co.st-lucie.fl.us/uhtbin/cgisirsi
+CATTYPE sirsi
 
 # Don't see an ID for this new system, so using ID for the main Live Oak lib
 ID OCLC-FLK
