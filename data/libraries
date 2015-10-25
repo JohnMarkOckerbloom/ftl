@@ -377,6 +377,13 @@ PROVINCE BC
 CATTYPE bibliocommons
 BASEURL http://gvpl.bibliocommons.com
 
+ID OCLC-CN8JI
+NAME Justice Institute of British Columbia
+LOCATION New Westminster and other campuses
+PROVINCE BC
+CATTYPE eds
+LCODE s5672447
+
 ID OCLC-LANGC
 NAME Langara College Library
 LOCATION Vancouver
@@ -397,6 +404,14 @@ LOCATION Okanagan Valley and vicinity
 PROVINCE BC
 CATTYPE bibliocommons
 BASEURL http://orl.bibliocommons.com
+
+# Looks like SFU has its own custom search
+ID OCLC-SFB
+NAME Simon Fraser University
+LOCATION Burnaby, Surrey, and Vancouver
+PROVINCE BC
+BASEURL http://search.lib.sfu.ca/
+KEYURL ${BASEURL}?q=${ARG}
 
 ID CA-BSUR
 NAME Surrey Libraries
@@ -425,6 +440,13 @@ LOCATION Various public libraries on Vancouver Island
 PROVINCE BC
 CATTYPE bibliocommons
 BASEURL http://virl.bibliocommons.com
+
+ID OCLC-CN8ML
+NAME Vancouver Island University
+LOCATION Nanaimo and other campuses
+PROVINCE BC
+CATTYPE summon
+BASEURL http://viu.summon.serialssolutions.com
 
 ID OCLC-VP@
 WCRID 67108
@@ -514,6 +536,15 @@ LOCATION Annapolis and Kings counties, and West Hants
 PROVINCE NS
 BASEURL https://avrl.catalogue.library.ns.ca
 CATTYPE vufind
+
+ID OCLC-DAK
+NAME Dalhousie University
+LOCATION Halifax
+PROVINCE NS
+CATTYPE primodl
+BASEURL http://novanet-primo.hosted.exlibrisgroup.com
+VID DAL
+LCODE DAL
 
 ID CA-NSH
 NAME Halifax Public Libraries
@@ -991,6 +1022,13 @@ VID VQA
 LCODE VQA
 SCOPE vqa_everything
 DEFAULT http://www.qatar.vcu.edu/library/
+
+ID OCLC-SU6KU
+NAME King Saud University
+LOCATION Riyadh; English search terms may give limited results
+COUNTRY SA
+CATTYPE sirsi
+BASEURL http://catalog.library.ksu.edu.sa/uhtbin/cgisirsi
 
 ID OCLC-SINTU
 NAME Nanyang Technological University
@@ -5171,6 +5209,16 @@ STATE OR
 BASEURL http://jclsrcc.librarycatalog.info/polaris
 CATTYPE polaris
 
+ID OCLC-OLP
+NAME Lewis and Clark College
+LOCATION Portland
+STATE OR
+CATTYPE primodl-scope
+BASEURL http://alliance-primo.hosted.exlibrisgroup.com
+LCODE 01ALLIANCE_LCC
+VID LCC
+SCOPE lcc_nz_pc
+
 ID OCLC-LIQ
 NAME LINCC: Libraries in Clackamas County
 LOCATION Clackamas County
@@ -6290,6 +6338,13 @@ STATE VA
 CATTYPE summon
 BASEURL http://vt.summon.serialssolutions.com
 
+ID OCLC-VLW
+NAME Washington and Lee University
+LOCATION Lexington
+STATE VA
+CATTYPE summon
+BASEURL http://wlu.summon.serialssolutions.com
+
 ID OCLC-BNT
 NAME Bennington College
 LOCATION Bennington
@@ -6497,6 +6552,16 @@ LOCATION Grays Harbor, Lewis, Mason, Pacific, and Thurston counties
 STATE WA
 CATTYPE sirsi
 BASEURL http://cat.trl.org/uhtbin/cgisirsi.exe
+
+ID OCLC-UPP
+NAME University of Puget Sound
+LOCATION Tacoma
+STATE WA
+CATTYPE primodl-scope
+BASEURL http://alliance-primo.hosted.exlibrisgroup.com
+LCODE UPUGS
+VID UPUGS
+SCOPE everything
 
 ID OCLC-WAU
 NAME University of Washington
