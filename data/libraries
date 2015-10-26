@@ -370,6 +370,20 @@ PROVINCE BC
 CATTYPE bibliocommons
 BASEURL http://burnaby.bibliocommons.com
 
+ID OCLC-CNCOQ
+NAME Coquitlam Public Library
+LOCATION Coquitlam
+PROVINCE BC
+BASEURL http://catalog.library.coquitlam.bc.ca/polaris
+CATTYPE polaris
+
+ID OCLC-DCK
+NAME Douglas College
+LOCATION New Westminster and Coquitlam
+PROVINCE BC
+CATTYPE eds
+LCODE s5672421
+
 ID OCLC-4C3
 NAME Greater Victoria Public Library
 LOCATION Victoria and vicinity
@@ -420,6 +434,13 @@ LOCATION Surrey
 PROVINCE BC
 CATTYPE bibliocommons
 BASEURL http://surrey.bibliocommons.com
+
+ID OCLC-CN5CF
+NAME Thompson Rivers University
+LOCATION Kamloops and other campuses
+PROVINCE BC
+CATTYPE eds
+LCODE s5672243
 
 ID OCLC-8UB
 NAME University of British Columbia Library
@@ -4899,6 +4920,13 @@ LOCATION Raleigh
 STATE NC
 CATTYPE vufind
 BASEURL https://catalog.wakegov.com/
+
+ID OCLC-EWF
+NAME Wake Forest University
+LOCATION Winston-Salem
+STATE NC
+CATTYPE summon
+BASEURL http://wfu.summon.serialssolutions.com
 
 ID OCLC-NFG
 NAME Fargo Public Library
