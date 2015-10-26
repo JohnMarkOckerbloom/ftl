@@ -374,8 +374,9 @@ ID OCLC-4C3
 NAME Greater Victoria Public Library
 LOCATION Victoria and vicinity
 PROVINCE BC
-CATTYPE bibliocommons
-BASEURL http://gvpl.bibliocommons.com
+CATTYPE sirsient
+LCODE en_US/default
+BASEURL http://gvpl.ent.sirsidynix.net
 
 ID OCLC-CN8JI
 NAME Justice Institute of British Columbia
@@ -402,8 +403,8 @@ ID OCLC-CNORL
 NAME Okanagan Regional Library
 LOCATION Okanagan Valley and vicinity
 PROVINCE BC
-CATTYPE bibliocommons
-BASEURL http://orl.bibliocommons.com
+BASEURL http://ipac.orl.bc.ca/polaris
+CATTYPE polaris
 
 # Looks like SFU has its own custom search
 ID OCLC-SFB
@@ -438,8 +439,8 @@ ID OCLC-CAVAN
 NAME Vancouver Island Regional Library
 LOCATION Various public libraries on Vancouver Island
 PROVINCE BC
-CATTYPE bibliocommons
-BASEURL http://virl.bibliocommons.com
+BASEURL http://search.virl.bc.ca/iii/encore
+CATTYPE encore
 
 ID OCLC-CN8ML
 NAME Vancouver Island University
@@ -574,8 +575,8 @@ ID OCLC-CNBAR
 NAME Barrie Public Library
 LOCATION Barrie
 PROVINCE ON
-CATTYPE bibliocommons
-BASEURL http://barrie.bibliocommons.com
+CATTYPE encore
+BASEURL http://encore.barriepubliclibrary.ca/iii/encore
 
 ID OCLC-WDTGS
 NAME Greater Sudbury Public Library
