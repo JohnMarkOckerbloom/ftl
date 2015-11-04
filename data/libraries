@@ -300,6 +300,16 @@ BASEURL http://medupe.ub.bw
 CATTYPE webpacpro
 FILTERS NK
 
+ID OCLC-ATUWW
+NAME Western Sydney University
+LOCATION Penrith and other campuses, New South Wales
+COUNTRY AU
+CATTYPE primodl-loc
+BASEURL http://west-sydney-primo.hosted.exlibrisgroup.com
+VID UWS-ALMA
+LCODE UWS-ALMA
+LOC adaptor,scope:(UWS-ALMA),primo_central_multiple_fe
+
 ID OCLC-CN5O6
 NAME Calgary Public Library
 LOCATION Calgary
@@ -2811,6 +2821,13 @@ STATE FL
 CATTYPE sirsient
 BASEURL http://jkpl.ent.sirsi.net/
 
+ID OCLC-FN4
+NAME Lake County Library System
+LOCATION Lake County
+STATE FL
+BASEURL http://catalog.mylakelibrary.org
+CATTYPE koha
+
 ID OCLC-FFL
 NAME Lee County Library System
 LOCATION Fort Myers and vicinity
@@ -4198,6 +4215,13 @@ LOCATION St. Louis
 STATE MO
 BASEURL http://catalog.slpl.org/uhtbin/cgisirsi
 CATTYPE sirsi
+
+ID OCLC-UMK
+NAME University of Missouri Kansas City: UMKC Libraries
+LOCATION Kansas City
+STATE MO
+CATTYPE summon
+BASEURL http://umkc.summon.serialssolutions.com
 
 ID OCLC-MUU
 NAME University of Missouri Libraries
