@@ -3108,6 +3108,14 @@ STATE IL
 BASEURL http://cat.aurorapubliclibrary.org/polaris
 CATTYPE polaris
 
+ID OCLC-JCH
+NAME Bloomington Public Library
+LOCATION Bloomington
+STATE IL
+CATTYPE sirsient
+BASEURL http://blpl.ent.sirsi.net
+LCODE update
+
 ID OCLC-IKG
 NAME Champaign Public Library and Urbana Free Library
 LOCATION Champaign-Urbana
@@ -3180,6 +3188,14 @@ CATTYPE sirsient
 LCODE en_US/public
 BASEURL http://lincolnlibrary.sdp.sirsi.net
 
+ID OCLC-OX2
+NAME Oswego Public Library District
+LOCATION Oswego and Montgomery
+STATE IL
+CATTYPE sirsient
+BASEURL http://osw.ent.sirsi.net
+LCODE en_US/default
+
 ID OCLC-IHX
 NAME Resource Sharing Alliance (RSA)
 LOCATION Libraries in west central Illinois
@@ -3236,6 +3252,20 @@ VID NULV
 LCODE NULV
 LOC adaptor,scope:(Wton+),scope:(Primo+Central),scope:(NUL),scope:(libguides),scope:(Afri_Poster),scope:(NINT),scope:(EAD),primo_central_multiple_fe
 DEFAULT DOMAIN
+
+ID OCLC-ILPML
+NAME Pritzker Military Museum and Library
+LOCATION Chicago
+STATE IL
+BASEURL http://www.pritzkermilitary.org/explore/library/online-catalog
+KEYURL ${BASEURL}/search#q=${ARG}
+
+ID OCLCC-GP4
+NAME Waukegan Public Library
+LOCATION Waukegan
+STATE IL
+BASEURL http://catalog.waukeganpl.org
+CATTYPE innopac
 
 ID OCLC-B3D
 NAME Bondurant Community Library
