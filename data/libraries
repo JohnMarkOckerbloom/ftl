@@ -2489,6 +2489,13 @@ STATE CO
 CATTYPE vufindgeneral
 BASEURL http://summit.opac.marmot.org/Union/Search
 
+ID OCLC-COH
+NAME United States Air Force Academy
+LOCATION Colorado Springs
+STATE CO
+BASEURL http://afac.sirsi.net/uhtbin/cgisirsi
+CATTYPE sirsi
+
 ID OCLC-COD
 NAME University of Colorado at Boulder
 LOCATION Boulder
@@ -2609,6 +2616,13 @@ LOCATION Hartford
 STATE CT
 CATTYPE voyager-vwebv
 BASEURL http://ctwweb.wesleyan.edu:7002/vwebv/search
+
+ID OCLC-CGA
+NAME United States Coast Guard Academy
+LOCATION New London
+STATE CT
+CATTYPE summon
+BASEURL http://uscga.summon.serialssolutions.com
 
 ID OCLC-UCW
 NAME University of Connecticut
@@ -2973,6 +2987,14 @@ CATTYPE primodl
 BASEURL http://discovere.emory.edu
 VID discovere
 LCODE EMORY
+
+ID OCLC-TRG
+NAME Fort Benning Libraries
+LOCATION Fort Benning
+STATE GA
+CATTYPE iii-consortium-member
+BASEURL https://mylibraryus.armybiznet.com
+LCODE 69
 
 ID OCLC-GFV
 NAME Fort Valley State University
@@ -3471,6 +3493,14 @@ CATTYPE voyager-vwebv
 BASEURL http://banc.berea.edu:7008/vwebv/search
 DEFAULT DOMAIN
 
+ID OCLC-APK
+NAME Fort Campbell, Sink Library
+LOCATION Fort Campbell
+STATE KY
+CATTYPE iii-consortium-member
+BASEURL https://mylibraryus.armybiznet.com
+LCODE 21
+
 ID OCLC-KCE
 NAME Kenton County Public Library
 LOCATION Kenton County
@@ -3760,6 +3790,13 @@ LOCATION Prince George's County
 STATE MD
 BASEURL http://catalog.pgcmls.info/polaris
 CATTYPE polaris
+
+ID OCLC-UNA
+NAME United States Naval Academy, Nimitz Library
+LOCATION Annapolis
+STATE MD
+CATTYPE summon
+BASEURL http://usna.summon.serialssolutions.com
 
 ID OCLC-MUB
 NAME University of Maryland Baltimore County
@@ -4846,6 +4883,13 @@ CATTYPE summon
 BASEURL http://touro.summon.serialssolutions.com
 IPRANGE 24.187.203.218/31|24.187.203.220/31|64.20.191.56/29|75.99.35.169/32|75.99.35.170/31|75.99.35.172/31|98.142.112.0/22|98.142.116.0/23|98.142.118.0/24|98.142.119.0/28|98.142.119.64/26|98.142.119.128/25|98.142.120.0/22|98.142.124.0/23|108.27.40.161/32|108.27.40.162/31|108.27.40.164/30|173.220.9.185/32|173.220.9.186/31|173.220.9.188/31|173.220.14.241/32|173.220.14.242/31|173.220.14.244/31|173.220.29.81/32|173.220.29.82/31|173.220.29.84/31|173.220.29.105/32|173.220.29.106/31|173.220.29.108/31|173.220.29.185/32|173.220.29.186/31|173.220.29.188/31|173.220.29.193/32|173.220.29.194/31|173.220.29.196/31|173.220.45.41/32|173.220.45.42/31|173.220.45.44/31|173.220.62.17/32|173.220.62.18/31|173.220.62.20/31|173.220.88.25/32|173.220.88.26/31|173.220.88.28/31|173.220.89.240/29|173.220.90.248/29|184.74.187.192/29|184.74.199.129/32|184.74.199.130/31|184.74.199.132/30|184.75.22.192/30|184.75.22.196/31|184.75.33.89/32|184.75.33.90/31|184.75.33.92/30|207.127.40.0/24|207.127.41.0/24|207.127.42.0/24|207.127.43.0/24
 
+ID OCLC-YWM
+NAME United States Military Academy
+LOCATION West Point
+STATE NY
+CATTYPE eds
+LCODE s8366957
+
 ID OCLC-NAM
 NAME University at Albany, SUNY
 LOCATION Albany
@@ -4931,6 +4975,14 @@ LOCATION Winston-Salem and vicinity
 STATE NC
 CATTYPE sirsi
 BASEURL http://vega.co.forsyth.nc.us/uhtbin/cgisirsi.exe
+
+ID OCLC-APB
+NAME Fort Bragg, Throckmorton Library
+LOCATION Fort Bragg
+STATE NC
+CATTYPE iii-consortium-member
+BASEURL https://mylibraryus.armybiznet.com
+LCODE 19
 
 ID OCLC-NCJ
 NAME Johnson C. Smith University
@@ -5953,6 +6005,14 @@ STATE TX
 BASEURL http://catalog.fortbend.lib.tx.us/polaris
 CATTYPE polaris
 
+ID OCLC-APH
+NAME Fort Hood, Casey Memorial Library
+LOCATION Fort Hood
+STATE TX
+CATTYPE iii-consortium-member
+BASEURL https://mylibraryus.armybiznet.com
+LCODE 27
+
 ID OCLC-IFA
 NAME Fort Worth Library
 LOCATION Fort Worth
@@ -6561,6 +6621,14 @@ LOCATION Kitsap County
 STATE WA
 BASEURL http://catalog.krl.org/polaris
 CATTYPE polaris
+
+ID OCLC-AVW
+NAME Lewis-McChord Libraries
+LOCATION Joint Base Lewis-McChord
+STATE WA
+CATTYPE iii-consortium-member
+BASEURL https://mylibraryus.armybiznet.com
+LCODE 71
 
 ID OCLC-LZS
 NAME Libraries of Stevens County
