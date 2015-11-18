@@ -103,7 +103,6 @@ VID CSU
 LCODE CSU
 LOC adaptor,scope:(DTL_CSU_UNLOCKED),scope:(CSU),scope:(CSU_SFX),primo_central_multiple_fe
 
-# http://eds.a.ebscohost.com/eds/results?sid=14c49c66-fdcf-4391-a76f-3e9a011cacfb%40sessionmgr4003&vid=0&hid=4203&bquery=wuthering+heights&bdata=JmNsaTA9RlQxJmNsdjA9WSZ0eXBlPTAmc2l0ZT1lZHMtbGl2ZSZzY29wZT1zaXRl
 ID AU-VDU
 NAME Deakin University
 LOCATION Melbourne and other campuses, Victoria
@@ -6433,6 +6432,13 @@ STATE VA
 BASEURL http://catalog.lcpl.lib.va.us
 CATTYPE ipac20
 
+ID OCLC-TWE
+NAME Norfolk Public Library
+LOCATION Norfolk
+STATE VA
+BASEURL http://catalog.norfolk.gov/uhtbin/cgisirsi.exe
+CATTYPE sirsi
+
 ID OCLC-VNS
 NAME Norfolk State University, Lyman Beecher Brooks Library
 LOCATION Norfolk
@@ -6445,6 +6451,13 @@ NAME Richmond Public Library
 LOCATION Richmond
 STATE VA
 BASEURL http://ibistro.ci.richmond.va.us/uhtbin/cgisirsi
+CATTYPE sirsi
+
+ID OCLC-RVLOD
+NAME Roanoke Valley Libraries
+LOCATION Roanoke, Salem, and vicinity
+STATE VA
+BASEURL http://www.rvl.info/uhtbin/cgisirsi
 CATTYPE sirsi
 
 ID OCLC-VA@
@@ -6474,12 +6487,26 @@ LCODE VCU
 SCOPE all_scope
 DEFAULT http://www.library.vcu.edu/
 
+ID OCLC-VSC
+NAME Virginia State University
+LOCATION Petersburg
+STATE VA
+LCODE s7958119
+CATTYPE eds
+
 ID OCLC-VPI
 NAME Virginia Tech
 LOCATION Blacksburg
 STATE VA
 CATTYPE summon
 BASEURL http://vt.summon.serialssolutions.com
+
+ID OCLC-VUU
+NAME Virginia Union University
+LOCATION Richmond
+STATE VA
+BASEURL http://vauu.sirsi.net/uhtbin/cgisirsi
+CATTYPE sirsi
 
 ID OCLC-VLW
 NAME Washington and Lee University
