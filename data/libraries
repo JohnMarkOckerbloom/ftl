@@ -4248,6 +4248,22 @@ STATE MO
 BASEURL http://catalog.mrrl.org
 CATTYPE innopac
 
+ID OCLC-MOU
+NAME Missouri State University
+LOCATION Springfield
+STATE MO
+BASEURL http://swan.searchmobius.org/
+CATTYPE iii-consortium-member
+LCODE 6
+
+ID OCLC-MTF
+NAME Poplar Bluff Municipal Library
+LOCATION Poplar Bluff
+STATE MO
+BASEURL http://poplarbluff.missourievergreen.org/eg/opac
+CATTYPE evergreen-dynamic
+LCODE 2
+
 ID OCLC-MOS
 NAME Springfield-Greene County Library District
 LOCATION Springfield and vicinity
@@ -4281,6 +4297,14 @@ LOCATION St. Louis
 STATE MO
 BASEURL http://catalog.slpl.org/uhtbin/cgisirsi
 CATTYPE sirsi
+
+ID TANEYHILLS
+NAME Taneyhills Community Library
+LOCATION Branson
+STATE MO
+BASEURL http://taneyhills.bywatersolutions.com
+CATTYPE koha
+FILTERS S
 
 ID OCLC-UMK
 NAME University of Missouri Kansas City: UMKC Libraries
