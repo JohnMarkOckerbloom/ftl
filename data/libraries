@@ -1042,6 +1042,13 @@ COUNTRY NZ
 CATTYPE voyager-vwebv
 BASEURL http://nzlc.natlib.govt.nz/vwebv/search
 
+ID SARGODHA
+NAME University of Sargodha, Central Library
+LOCATION Sargodha; English search terms may give limited results
+COUNTRY PK
+BASEURL http://library.uos.edu.pk:8000
+CATTYPE koha
+
 ID OCLC-D@A
 WCRID 87768
 NAME VCUQatar
@@ -1899,12 +1906,34 @@ STATE AZ
 BASEURL http://universityofarizona.worldcat.org.ezproxy1.library.arizona.edu/search
 CATTYPE worldcat
 
+ID OCLC-AJE
+NAME Bentonville Public Library
+LOCATION Bentonville
+STATE AR
+CATTYPE ls2pac
+BASEURL http://library.bentonvillear.com:8080/
+FILTERS S
+
 ID OCLC-8AK
 NAME Central Arkansas Library System
 LOCATION Little Rock; Pulaski and Perry counties
 STATE AR
 BASEURL http://encore.cals.lib.ar.us/iii/encore
 CATTYPE encore
+
+ID OCLC-FAYTV
+NAME Fayetteville Public Library
+LOCATION Fayetteville
+STATE AR
+BASEURL http://catalog.faylib.org/polaris
+CATTYPE polaris
+
+ID OCLC-FSM
+NAME Fort Smith Public Library
+LOCATION Fort Smith
+STATE AR
+BASEURL http://catalog.fortsmithlibrary.org/polaris
+CATTYPE polaris
 
 ID OCLC-AFU
 NAME University of Arkansas
