@@ -3007,6 +3007,14 @@ STATE GA
 BASEURL http://chattahoochee.polarislibrary.com/polaris
 CATTYPE polaris
 
+ID OCLC-GDK
+NAME DeKalb County Public Library
+LOCATION DeKalb County
+STATE GA
+BASEURL http://dekalb.ipac.sirsidynix.net
+CATTYPE ipac20
+PROFILE dcpl
+
 ID OCLC-EMU
 NAME Emory University Libraries
 LOCATION Atlanta
@@ -3059,6 +3067,13 @@ STATE GA
 BASEURL https://portal.library.gatech.edu/vufind
 CATTYPE vufind
 
+ID OCLC-ZGX
+NAME Gwinnett County Public Library
+LOCATION Gwinnett County
+STATE GA
+BASEURL http://gwinnett.polarislibrary.com/polaris
+CATTYPE polaris
+
 ID OCLC-GSC
 NAME Live Oak Public Libraries
 LOCATION Savannah; Chatham, Effingham and Liberty Counties
@@ -3078,6 +3093,13 @@ NAME University of Georgia
 LOCATION Athens
 STATE GA
 BASEURL http://gilfind.uga.edu/vufind
+CATTYPE vufind
+
+ID OCLC-GWC
+NAME University of West Georgia
+LOCATION Carrollton
+STATE GA
+BASEURL http://gilfind.westga.edu/vufind
 CATTYPE vufind
 
 ID OCLC-HUH
