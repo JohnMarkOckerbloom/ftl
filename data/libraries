@@ -2884,6 +2884,16 @@ STATE FL
 BASEURL http://lcpl.sirsi.net/uhtbin/cgisirsi
 CATTYPE sirsi
 
+ID OCLC-FYM
+NAME Miami Dade College
+LOCATION Miami and other campuses
+STATE FL
+CATTYPE primodl-scope
+BASEURL http://discover.linccweb.org
+VID FLCC1600
+LCODE FLCC1600
+SCOPE FLCC1600
+
 ID OCLC-DZM
 NAME Miami-Dade Public Library System
 LOCATION Miami
@@ -2919,6 +2929,16 @@ STATE FL
 BASEURL http://suncat.co.sarasota.fl.us
 CATTYPE innopac
 
+ID OCLC-FSS
+NAME Seminole State College of Florida
+LOCATION Sanford and other campuses
+STATE FL
+CATTYPE primodl-scope
+BASEURL http://discover.linccweb.org
+VID FLCC2600
+LCODE FLCC2600
+SCOPE FLCC2600
+
 ID OCLC-FLR
 NAME St. Lucie County Library System
 LOCATION St. Lucie County
@@ -2933,6 +2953,13 @@ LOCATION Suwanee, Hamilton, and Madison counties
 STATE FL
 CATTYPE sirsient
 BASEURL http://suw.ent.sirsi.net
+
+ID OCLC-FTU
+NAME University of Central Florida: UCF Libraries
+LOCATION Orlando and other campuses
+STATE FL
+CATTYPE eds
+LCODE current
 
 ID OCLC-FUG
 NAME University of Florida, George A. Smathers Libraries
