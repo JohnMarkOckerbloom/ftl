@@ -413,6 +413,13 @@ AUTURL ${BASEURL}/client/${LCODE}/search/results?&rt=AUTHOR|||Author|||false&qu=
 TITURL ${BASEURL}/client/${LCODE}/search/results?&rt=TITLE|||Title|||false&qu="${ARG}"
 KEYURL ${BASEURL}/client/${LCODE}/search/results?qu=${ARG}
 
+# SOPAC: A Drupal catalog used at Darien, Ann Arbor, and elsewhere
+CATTYPE sopac
+SUBURL ${BASEURL}/search/subject/${ARG}
+TITURL ${BASEURL}/search/title/${ARG}
+AUTURL ${BASEURL}/search/author/${ARG}
+KEYURL ${BASEURL}/search/keyword/${ARG}
+
 CATTYPE spydus
 SUBURL ${BASEURL}/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?ENTRY_NAME=SU&&ENTRY=${ARG:N}
 AUTURL ${BASEURL}/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?ENTRY_NAME=AU&&ENTRY=${ARG:N}

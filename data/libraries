@@ -2574,10 +2574,7 @@ NAME Darien Library
 LOCATION Darien
 STATE CT
 BASEURL http://www.darienlibrary.org/catalog
-SUBURL ${BASEURL}/search/subject/${ARG}
-TITURL ${BASEURL}/search/title/${ARG}
-AUTURL ${BASEURL}/search/author/${ARG}
-KEYURL ${BASEURL}/search/keyword/${ARG}
+CATTYPE sopac
 FILTERS NK
 
 ID OCLC-FEM
@@ -3199,6 +3196,13 @@ LOCATION Moscow, and other campuses
 STATE ID
 BASEURL http://uidaho.worldcat.org/search
 CATTYPE worldcat
+
+ID OCLC-JBL
+NAME Arlington Heights Memorial Library
+LOCATION Arlington Heights
+STATE IL
+BASEURL http://www.ahml.info/catalog
+CATTYPE sopac
 
 ID OCLC-ILAPL
 NAME Aurora Public Library
@@ -4067,6 +4071,21 @@ STATE MA
 BASEURL http://francis.williams.edu
 CATTYPE webpacpro
 FILTERS N
+
+ID OCLC-EYH
+NAME Ann Arbor District Library
+LOCATION Ann Arbor
+STATE MI
+BASEURL http://www.aadl.org/catalog
+CATTYPE sopac
+FILTERS NK
+
+ID OCLC-E9L
+NAME Capital Area District Libraries
+LOCATION Lansing and Ingham County
+STATE MI
+CATTYPE webpacpro
+BASEURL http://opac.cadl.org/
 
 ID OCLC-EZC
 NAME Central Michigan University
