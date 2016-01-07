@@ -9,7 +9,7 @@
 #   or lexical analysis (such as many geographical locations)
 #   are not included in this file.
 # See docs file for documentation
-# Last updated 2016-01-04
+# Last updated 2016-01-06
 #
 16th Street Baptist Church Bombing, Birmingham, Ala., 1963|=|16th Street Baptist Church bombing
 24 Heures du Mans (Automobile race)|=|24 Hours of Le Mans
@@ -772,6 +772,7 @@ Architectural practice|->|Architectural firm
 Architecture, Early Christian|->|Early Christian art and architecture
 Architecture, Modern|<->|Contemporary architecture
 Archives|=|Archive
+Archives -- Processing|=|Archival processing
 Archpriest controversy, 1598-1602|=|Archpriest Controversy
 Arcole, Battle of, Arcole, Italy, 1796|=|Battle of Arcole
 Arcole (Italy)|=|Arcole
@@ -2306,6 +2307,7 @@ Camp Fire, inc.|=|Camp Fire
 Camp Fire Girls|->|Camp Fire
 Camp Grant Massacre, Ariz., 1871|=|Camp Grant massacre
 Camp meetings|=|Camp meeting
+Campagna di Roma (Italy)|=|Roman Campagna
 Campaign funds|<->|Campaign finance
 Campaldino, Battle of, Campaldino, Italy, 1289|=|Battle of Campaldino
 Campania (Italy)|=|Campania
@@ -3498,6 +3500,7 @@ Copper Miners' Strike, Zambia, 1935|=|Copperbelt strike of 1935
 Coptic Church|=|Coptic Orthodox Church of Alexandria
 Copyists|=|Copyist
 Copyright -- Canada|<->|Copyright law of Canada
+Copyright -- Duration|<->|Copyright term
 Copyright -- Great Britain|<->|Copyright law of the United Kingdom
 Copyright -- United States|<->|Copyright law of the United States
 Coquitlam (B.C.)|=|Coquitlam
@@ -4054,6 +4057,7 @@ Developing countries|=|Developing country
 Developmental disabilities|=|Developmental disability
 Developmental neurobiology|<->|Neural development
 Deventer (Netherlands)|=|Deventer
+Device drivers (Computer programs)|=|Device driver
 Devils Head (Colo.)|=|Devils Head (summit)
 Devils Tower National Monument (Agency : U.S.)|->|Devils Tower
 Devils Tower National Monument (Wyo.)|<->|Devils Tower
@@ -4357,6 +4361,7 @@ Earth sciences|=|Earth science
 Earthworms|=|Earthworm
 East and West|=|East–West dichotomy
 East Anglia (England)|=|East Anglia
+East Bay (Calif.)|=|East Bay (San Francisco Bay Area)
 East End (London, England)|=|East End of London
 East Hampton (N.Y.)|<->|East Hampton (village), New York
 East Hampton (N.Y. : Town)|=|East Hampton (town), New York
@@ -4744,6 +4749,7 @@ Episcopal Church in Scotland|->|Scottish Episcopal Church
 Epistolary fiction|<->|Epistolary novel
 Epitaphs|=|Epitaph
 Epoxy resins|<->|Epoxy
+Equal time rule (Broadcasting)|<->|Equal-time rule
 Equations|=|Equation
 Equatorial Guinea -- History -- Attempted coup, 2004|=|2004 Equatorial Guinea coup d'état attempt
 Equilibrium (Economics)|=|Economic equilibrium
@@ -4930,6 +4936,7 @@ Fair Oaks, Battle of, Va., 1862|=|Battle of Seven Pines
 Fair use (Copyright)|=|Fair use
 Fairies|=|Fairy
 Fairmount Park (Philadelphia, Pa.)|=|Fairmount Park
+Fairness doctrine (Broadcasting)|<->|Fairness Doctrine
 Fairs|=|Fair
 Fairview Range (Nev.)|=|Fairview Range (Lincoln County)
 Fairvue Plantation (Tenn.)|=|Isaac Franklin Plantation
@@ -5089,7 +5096,7 @@ Firearms -- Law and legislation -- Germany|<->|Gun legislation in Germany
 Firearms -- Law and legislation -- Italy|<->|Gun politics in Italy
 Firearms -- Law and legislation -- Mexico|<->|Gun politics in Mexico
 Firearms -- Law and legislation -- South Africa|<->|Firearm legislation in South Africa
-Firearms -- Law and legislation -- United States|->|Gun politics in the United States
+Firearms -- Law and legislation -- United States|<->|Gun law in the United States
 Fireplaces|=|Fireplace
 Fires|->|Fire
 Fireships|=|Fire ship
@@ -7132,6 +7139,8 @@ Internet marketing|<->|Online advertising
 Internet telephony|<->|Voice over IP
 Internet videos|=|Internet video
 Interpersonal relations|=|Interpersonal relationship
+Interpretation of cultural and natural resources|<->|Heritage interpretation
+Interpreters (Computer programs)|=|Interpreter (computing)
 Intersexuality|<->|Intersex
 Interstate 19 (Ariz.)|=|Interstate 19
 Interstate 205 (Or. and Wash.)|=|Interstate 205 (Oregon–Washington)
@@ -7760,6 +7769,7 @@ Kelly's Ford, Battle of, Va., 1863|=|Battle of Kelly's Ford
 Kelowna (B.C.)|=|Kelowna
 Kenai Fjords National Park (Agency : U.S.)|->|Kenai Fjords National Park
 Kenai Fjords National Park (Alaska)|=|Kenai Fjords National Park
+Kenai Peninsula (Alaska)|=|Kenai Peninsula
 Kenilworth Castle (Kenilworth, England)|=|Kenilworth Castle
 Kennedy, John F. (John Fitzgerald), 1917-1963 -- Assassination|=|Assassination of John F. Kennedy
 Kennedy, Robert F., 1925-1968 -- Assassination|=|Assassination of Robert F. Kennedy
@@ -8205,11 +8215,60 @@ Laurel Highlands (Pa.)|=|Laurel Highlands
 Lausanne (Switzerland)|=|Lausanne
 Lauterbrunnen (Switzerland)|=|Lauterbrunnen
 Lava Beds National Monument (Calif.)|=|Lava Beds National Monument
+Law -- Abbreviations|<->|List of legal abbreviations
+Law -- Argentina|<->|Argentine law
+Law -- Asia|<->|Legal systems in Asia
+Law -- Australia|<->|Law of Australia
+Law -- Belgium|<->|Law of Belgium
+Law -- Bibliography|<->|Legal bibliography
+Law -- Brazil|<->|Law of Brazil
+Law -- Bulgaria|<->|Law of Bulgaria
+Law -- Canada|<->|Law of Canada
+Law -- Chile|<->|Law of Chile
+Law -- China|<->|Chinese law
+Law -- Cuba|<->|Cuban law
+Law -- Dictionaries|<->|Law dictionary
+Law -- England|<->|English law
+Law -- Europe|<->|Law in Europe
+Law -- European Union countries|<->|European Union law
+Law -- Florida|<->|Law of Florida
+Law -- France|<->|Law of France
+Law -- Georgia|<->|Law of Georgia (U.S. state)
+Law -- Germany|<->|Law of Germany
 Law -- Great Britain|<->|Law of the United Kingdom
+Law -- History|<->|Legal history
+Law -- India|<->|Law of India
+Law -- India -- History|<->|History of Indian law
+Law -- Iraq|<->|Law of Iraq
+Law -- Ireland|<->|Law of the Republic of Ireland
+Law -- Italy|<->|Law of Italy
+Law -- Japan|<->|Law of Japan
+Law -- Korea (North)|<->|Law of North Korea
+Law -- Louisiana|<->|Law of Louisiana
+Law -- Malta|<->|Law of Malta
+Law -- Massachusetts|<->|Law of Massachusetts
+Law -- Mexico|<->|Law of Mexico
+Law -- Michigan|<->|Law of Michigan
+Law -- New York (State)|<->|Law of New York
+Law -- Nigeria|<->|Law of Nigeria
+Law -- North Carolina|<->|Law of North Carolina
+Law -- Ohio|<->|Law of Ohio
+Law -- Pakistan|<->|Law of Pakistan
+Law -- Pennsylvania|<->|Law of Pennsylvania
 Law -- Philosophy|=|Philosophy of law
+Law -- Psychological aspects|<->|Legal psychology
+Law -- Russia (Federation)|<->|Law of Russia
+Law -- Scotland|<->|Scots law
+Law -- South Africa|<->|Law of South Africa
+Law -- Soviet Union|<->|Law of the Soviet Union
+Law -- Spain|<->|Law of Spain
+Law -- Switzerland|<->|Law of Switzerland
 Law -- Study and teaching|<->|Legal education
 Law -- Study and teaching -- United States|<->|Legal education in the United States
+Law -- Texas|<->|Law of Texas
 Law -- United States|<->|Law of the United States
+Law -- Vietnam|<->|Law of Vietnam
+Law -- Virginia|<->|Law of Virginia
 Law -- Wales|<->|Welsh law
 Law, Byzantine|=|Byzantine law
 Law firms|=|Law firm
@@ -8560,6 +8619,7 @@ Longshoremen's Strike, 1971-1972|<->|ILWU 1971 strike
 Longshoremen's Strike, San Francisco, Calif., 1934|<->|1934 West Coast waterfront strike
 Longstocking, Pippi|=|Pippi Longstocking
 Longueuil (Qu&eacute;bec)|=|Longueuil
+Lookalikes|=|Look-alike
 Lookout Mountain (Appalachian Mountains)|=|Lookout Mountain
 Lookout Mountain, Battle of, Tenn., 1863|=|Battle of Lookout Mountain
 Looms|=|Loom
@@ -10236,6 +10296,7 @@ Niagara Falls (N.Y. and Ont.)|=|Niagara Falls
 Niagara Frontier (N.Y.)|<->|Niagara Frontier
 Niagara Peninsula (Ont.)|=|Niagara Peninsula
 Niagara River (N.Y. and Ont.)|=|Niagara River
+Nias Island (Indonesia)|<->|Nias
 Nibelungen|<->|Nibelung
 Nicaragua -- History -- 1979-1990|=|History of Nicaragua (1979–90)
 Nicaragua -- History -- English Invasion, 1780-1781|<->|San Juan Expedition (1780)
@@ -10297,6 +10358,7 @@ Nipmuc Indians|=|Nipmuc
 Nippur (Extinct city)|=|Nippur
 Nisqually Earthquake, Wash., 2001|=|2001 Nisqually earthquake
 Nitrides|=|Nitride
+Nitrogen -- Fixation|=|Nitrogen fixation
 Nitrogen oxides|=|Nitrogen oxide
 Nittany Mountain (Pa. : Mountain)|=|Mount Nittany
 Nixon, Richard M. (Richard Milhous), 1913-1994 -- Impeachment|<->|Impeachment process of Richard Nixon
@@ -10526,6 +10588,7 @@ Occupational diseases|=|Occupational disease
 Occupational therapists|=|Occupational therapist
 Occupations|<->|Job
 Occupy Wall Street (Movement)|<->|Occupy Wall Street
+Ocean bottom|=|Seabed
 Ocean circulation|->|Ocean current
 Ocean currents|=|Ocean current
 Ochakiv (Ukraine)|=|Ochakiv
@@ -13068,6 +13131,7 @@ Sarpsborg (Norway)|<->|Sarpsborg
 Sarpsborg kommune (Norway)|->|Sarpsborg
 Sarrians (France)|=|Sarrians
 SARS (Disease)|=|Severe acute respiratory syndrome
+Sarvodaya movement|<->|Sarvodaya
 Sasquatch|=|Bigfoot
 Saskatchewan -- Politics and government|<->|Politics of Saskatchewan
 Saskatchewan River (Sask. and Man.)|=|Saskatchewan River
@@ -13352,6 +13416,7 @@ SGML (Document markup language)|=|Standard Generalized Markup Language
 Shadow (Fictitious character)|<->|The Shadow
 Shadow (Psychoanalysis)|=|Shadow (psychology)
 Shadow (Radio program)|->|The Shadow
+Shadow shows|<->|Shadow play
 Shaft, John (Fictitious character)|=|John Shaft
 Shah dynasty, 1768-|<->|Shah dynasty
 Shakespeare, William, 1564-1616 -- Authorship|<->|Shakespeare authorship question
@@ -13546,6 +13611,9 @@ Simla (India)|=|Shimla
 Simpson, Bart (Fictitious character)|=|Bart Simpson
 Simpson, Homer (Fictitious character)|=|Homer Simpson
 Simpsons (Fictitious characters)|=|Simpson family
+Sin -- Christianity|=|Christian views on sin
+Sin -- Islam|=|Islamic views on sin
+Sin -- Judaism|=|Jewish views on sin
 Sin, Original|=|Original sin
 Sinai (Egypt)|=|Sinai Peninsula
 Sinai, Mount (Egypt)|=|Mount Sinai
@@ -14062,6 +14130,7 @@ Sri Lanka -- History -- Civil War, 1983-2009|<->|Sri Lankan Civil War
 Sri Lanka -- History -- Rebellion, 1818|<->|Great Rebellion of 1817–18
 Sri Lanka -- History -- Rebellion, 1848|=|Matale Rebellion
 Sri Lanka -- History -- Rebellion, 1971|<->|1971 JVP Insurrection
+Sri Lanka -- Politics and government|<->|Politics of Sri Lanka
 St. Albans Abbey|->|St Albans Cathedral
 St. Catharines (Ont.)|=|St. Catharines
 St. Clair's Campaign, 1791|<->|St. Clair's Defeat
@@ -16232,6 +16301,7 @@ Winnipeg (Man.)|=|Winnipeg
 Winnipesaukee, Lake (N.H.)|=|Lake Winnipesaukee
 Winooski 44 Trial, Burlington, Vt., 1984|<->|Winooski 44
 Winter Olympics|=|Winter Olympic Games
+Wireless LANs|=|Wireless LAN
 Wiretapping|<->|Telephone tapping
 Wirral (England)|<->|Metropolitan Borough of Wirral
 Wisconsin -- History -- Civil War, 1861-1865|=|Wisconsin in the American Civil War
