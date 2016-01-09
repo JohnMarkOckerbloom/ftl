@@ -2752,14 +2752,19 @@ AINDEX PAUTH
 TINDEX ALLTTLP
 KINDEX GW
 
+ID OCLC-FMG
+NAME Alachua County Library District
+LOCATION Gainesville and vicinity
+STATE FL
+BASEURL http://catalog.aclib.us
+CATTYPE polaris
+
 ID OCLC-1DB
 NAME Bethune-Cookman University
 LOCATION Daytona Beach
 STATE FL
-CATTYPE tlc
-LCODE bethune
-BRANCH ,0,
-BASEURL http://library.catalog.cookman.edu/
+BASEURL https://bethune.on.worldcat.org/external-search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-FMB
 NAME Brevard County Libraries
@@ -2905,6 +2910,14 @@ STATE FL
 BASEURL http://iii.ocls.info
 CATTYPE webpacpro
 
+ID OCLC-FWP
+NAME Palm Beach County Library System
+LOCATION West Palm Beach and vicinity
+STATE FL
+CATTYPE sirsient
+LCODE en_US/pbcls
+BASEURL http://pbcls.ent.sirsi.net/
+
 ID OCLC-FLX
 NAME Pinellas Automated Library System
 LOCATION Clearwater, St. Petersburg and Pinellas County
@@ -2925,6 +2938,13 @@ LOCATION Sarasota and vicinity
 STATE FL
 BASEURL http://suncat.co.sarasota.fl.us
 CATTYPE innopac
+
+ID OCLC-FCS
+NAME Seminole County Public Library
+LOCATION Seminole County
+STATE FL
+BASEURL http://elibrary.seminolecountyfl.gov/uhtbin/cgisirsi.exe
+CATTYPE sirsi
 
 ID OCLC-FSS
 NAME Seminole State College of Florida
