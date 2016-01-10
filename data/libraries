@@ -1816,8 +1816,9 @@ ID OCLC-MSLIB
 NAME Matanuska-Susitna Library Network
 LOCATION Matanuska-Susitna Borough
 STATE AK
-BASEURL http://catalog.matsulibraries.org/uhtbin/cgisirsi.exe
-CATTYPE sirsi
+BASEURL http://jlc-web.uaa.alaska.edu/
+CATTYPE sirsient
+LCODE en_US/msln
 
 ID OCLC-Q2T
 NAME Petersburg Public Library
@@ -1880,9 +1881,8 @@ ID OCLC-1PN
 NAME Phoenix Public Library
 LOCATION Phoenix
 STATE AZ
-BASEURL http://www.phoenixpubliclibrary.org/controller.jsp
-CATTYPE endeca
-KINDEX Search+All
+BASEURL http://catalog.phoenixpubliclibrary.org
+CATTYPE polaris
 
 ID OCLC-AZT
 NAME Pima County Public Library
@@ -2135,6 +2135,13 @@ STATE CA
 BASEURL http://discovery.marinet.lib.ca.us/iii/encore
 CATTYPE encore
 
+ID OCLC-JRD
+NAME Monterey Public Library
+LOCATION Monterey
+STATE CA
+BASEURL http://www.montereylibrary.org
+CATTYPE koha
+
 ID OCLC-MVP
 NAME Mountain View Public Library
 LOCATION Mountain View
@@ -2171,6 +2178,13 @@ BASEURL http://oasys.lib.oxy.edu
 CATTYPE webpacpro
 FILTERS SNK
 
+ID OCLC-PAK
+NAME Pacific Grove Public Library
+LOCATION Pacific Grove
+STATE CA
+BASEURL http://catalog.pacificgrovelibrary.org
+CATTYPE koha
+
 ID OCLC-PAP
 NAME Palo Alto City Library
 LOCATION Palo Alto
@@ -2179,20 +2193,12 @@ BASEURL http://webcat.cityofpaloalto.org
 CATTYPE ipac20
 PROFILE pacl
 
-ID OCLC-MPGCA
-NAME PALS Catalog
-LOCATION Monterey and Pacific Grove public and special libraries
-STATE CA
-BASEURL http://montn.ci.monterey.ca.us
-CATTYPE webpacpro
-
 ID OCLC-CPP
 NAME Pasadena Public Library
 LOCATION Pasadena
 STATE CA
-BASEURL http://catalog.pasadenapubliclibrary.net
-CATTYPE ipac20
-PROFILE pcent
+BASEURL http://pgpl-mt.iii.com/iii/encore_pasadena
+CATTYPE encore
 
 ID OCLC-CZP
 NAME Peninsula Library System
@@ -2283,11 +2289,9 @@ ID OCLC-JTW
 NAME San Leandro Public Library
 LOCATION San Leandro
 STATE CA
-BASEURL http://www.library.sanleandro.org
-CATTYPE ipac20
-PROFILE m
-AINDEX PAUTHOR
-TINDEX ALLTITL
+BASEURL http://sanle.ent.sirsi.net
+CATTYPE sirsient
+LCODE en_US/default
 
 ID OCLC-JRZ
 NAME Santa Clara City Library
@@ -2688,7 +2692,7 @@ ID OCLC-NO5
 NAME University of Delaware Library
 LOCATION Newark
 STATE DE
-BASEURL http://udel.worldcat.org/search
+BASEURL http://delcat.worldcat.org/search
 CATTYPE worldcat
 
 ID OCLC-EAU
@@ -2699,12 +2703,12 @@ CATTYPE summon
 BASEURL http://american.summon.serialssolutions.com
 
 ID OCLC-DAW
-NAME District of Columbia Public Library
+NAME DC Public Library
 LOCATION Washington
 STATE DC
-BASEURL https://catalog.dclibrary.org/vufind
-FILTERS N
-CATTYPE vufind
+CATTYPE sirsient
+BASEURL https://catalog.dclibrary.org
+LCODE en_US/dcpl
 
 ID OCLC-GQG
 NAME Gallaudet University
@@ -3108,8 +3112,12 @@ ID OCLC-GAT
 NAME Georgia Tech Library
 LOCATION Atlanta
 STATE GA
-BASEURL https://portal.library.gatech.edu/vufind
-CATTYPE vufind
+CATTYPE primodl-scope
+BASEURL http://gatech-primo.hosted.exlibrisgroup.com
+VID 01GALI_GIT
+LCODE 01GALI_GIT
+SCOPE Everything
+DEFAULT http://www.library.gatech.edu/
 
 ID OCLC-ZGX
 NAME Gwinnett County Public Library
@@ -3257,8 +3265,8 @@ ID OCLC-CODUP
 NAME College of DuPage
 LOCATION Glen Ellyn
 STATE IL
-BASEURL http://lrc.cod.edu
-CATTYPE innopac
+BASEURL https://cod.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-JED
 NAME Cooperative Computer Services
@@ -3325,15 +3333,15 @@ LOCATION Libraries in west central Illinois
 STATE IL
 CATTYPE sirsient
 LCODE en_US/RSA
-BASEURL http://alsi.sdp.sirsi.net
+BASEURL https://alsi.sdp.sirsi.net
 
 ID OCLC-JDP
 NAME SWAN: System Wide Automated Network
 LOCATION Suburban libraries in the Chicago area
 STATE IL
-BASEURL http://swan.mls.lib.il.us
-CATTYPE iii-consortium-member
-LCODE 1
+CATTYPE sirsient
+LCODE en_US/default
+BASEURL https://swanlibs.ent.sirsi.net
 
 ID OCLC-CGU
 NAME University of Chicago Library
