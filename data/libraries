@@ -3484,9 +3484,8 @@ ID OCLC-IMF
 NAME Allen County Public Library
 LOCATION Fort Wayne and vicinity
 STATE IN
-CATTYPE aquabrowser
-SINDEX subject
-BASEURL http://smartcat.acpl.lib.in.us
+CATTYPE sirsient
+BASEURL http://alpl.ent.sirsi.net
 
 ID OCLC-IIB
 NAME Butler University
@@ -3574,7 +3573,7 @@ ID OCLC-KTP
 NAME Topeka and Shawnee County Public Library
 LOCATION Topeka
 STATE KS
-BASEURL http://catalog.tscpl.org/polaris
+BASEURL http://catalog.tscpl.org
 CATTYPE polaris
 
 ID OCLC-KKU
@@ -3711,7 +3710,7 @@ ID OCLC-LLM
 NAME Loyola University New Orleans, Monroe Library
 LOCATION New Orleans
 STATE LA
-BASEURL http://loy-primo.hosted.exlibrisgroup.com:1701
+BASEURL http://loy-primo.hosted.exlibrisgroup.com
 CATTYPE primodl-scope
 VID LOYNO
 LCODE LOYNO
@@ -3735,7 +3734,7 @@ ID OCLC-LNW
 NAME Northwestern State University
 LOCATION Natchitoches and other campuses
 STATE LA
-BASEURL https://nsula.louislibraries.org:6603/uhtbin/cgisirsi
+BASEURL https://nsula.louislibraries.org/uhtbin/cgisirsi
 CATTYPE sirsi
 
 ID OCLC-LA8
@@ -4047,8 +4046,9 @@ ID OCLC-OCD
 NAME Old Colony Library Network
 LOCATION South Shore public libraries
 STATE MA
-BASEURL http://sw3.ocln.org/uhtbin/cgisirsi
-CATTYPE sirsi
+BASEURL https://catalog.ocln.org
+CATTYPE sirsient
+LCODE en_US/default
 
 ID OCLC-1SC
 NAME Simmons College
@@ -4211,15 +4211,17 @@ STATE MN
 BASEURL http://hamline.worldcat.org/search
 CATTYPE worldcat
 
+# Hennepin now seems to have a custom search 
 ID OCLC-HCO
 NAME Hennepin County Library
 LOCATION Minneapolis and vicinity
 STATE MN
-BASEURL https://catalog.hclib.org
-CATTYPE ipac20
-PROFILE elibrary
-AINDEX AL
-TINDEX UTL
+BASEURL https://apps.hclib.org/catalog/results.cfm
+SUBURL ${BASEURL}?subject=${ARG}
+AUTURL ${BASEURL}?author=${ARG}
+TITURL ${BASEURL}?title=${ARG}
+ATIURL ${BASEURL}?author=${AUTHOR}&title=${TITLE}
+KEYURL ${BASEURL}?all=${ARG}
 
 ID OCLC-MNM
 NAME Minnesota State University
@@ -4277,8 +4279,9 @@ ID OCLC-MJP
 NAME Jackson-Hinds Library System
 LOCATION Jackson and Hinds County
 STATE MS
-BASEURL http://75.144.59.10/uhtbin/cgisirsi.exe
-CATTYPE sirsi
+CATTYPE sirsient
+BASEURL https://jack.ent.sirsi.net
+LCODE en_US/default
 
 ID OCLC-MJU
 NAME Jackson State University
@@ -4337,10 +4340,8 @@ ID OCLC-MR9
 NAME Ferguson Municipal Public Library
 LOCATION Ferguson
 STATE MO
-BASEURL http://catalog.mlc.lib.mo.us
-CATTYPE ipac20
-PROFILE fe
-AINDEX PAUTHOR
+BASEURL http://pac.mlc.lib.mo.us/polaris
+CATTYPE polaris
 
 ID OCLC-LHE
 NAME Harris-Stowe State University
@@ -4490,9 +4491,8 @@ ID OCLC-NLN
 NAME Lincoln City Libraries
 LOCATION Lincoln
 STATE NE
-BASEURL http://lincoln.pioneer.kohalibrary.com
-CATTYPE koha-consortium-member
-LCODE LC-LIBS
+BASEURL https://lcl.ent.sirsi.net
+CATTYPE sirsient
 
 ID OCLC-NBO
 NAME Omaha Public Library
@@ -4591,9 +4591,8 @@ ID OCLC-BUL
 NAME Burlington County Library System
 LOCATION Public libraries in Burlington County
 STATE NJ
-CATTYPE sirsient
-LCODE bcls
-BASEURL http://catalog.bcls.lib.nj.us
+CATTYPE polaris
+BASEURL http://bcls.polarislibrary.com/polaris
 
 ID OCLC-NCL
 NAME CamCat
@@ -4721,8 +4720,8 @@ ID OCLC-NJP
 NAME William Paterson University, Cheng Library
 LOCATION Wayne
 STATE NJ
-CATTYPE summon
-BASEURL http://wpunj.summon.serialssolutions.com
+CATTYPE eds
+LCODE s8953837
 
 ID OCLC-QUE
 NAME ABC Library
@@ -4778,7 +4777,7 @@ ID OCLC-BNG
 NAME Binghamton University
 LOCATION Binghamton
 STATE NY
-BASEURL http://bingprimo.hosted.exlibrisgroup.com:1701
+BASEURL http://bingprimo.hosted.exlibrisgroup.com
 CATTYPE primodl-loc
 VID BING
 LCODE BING
@@ -4995,8 +4994,8 @@ ID OCLC-YSM
 NAME Stony Brook University Libraries
 LOCATION Stony Brook
 STATE NY
-CATTYPE vufind
-BASEURL http://sbufind.library.stonybrook.edu/vufind
+CATTYPE eds
+LCODE s3706898
 
 # no ID I could find for SC library system as a whole; using Clerks Office ID
 ID OCLC-SUFFO
@@ -5121,8 +5120,9 @@ ID OCLC-UZZ
 NAME Forsyth County Public Library
 LOCATION Winston-Salem and vicinity
 STATE NC
-CATTYPE sirsi
-BASEURL http://vega.co.forsyth.nc.us/uhtbin/cgisirsi.exe
+BASEURL http://forsyth.nccardinal.org/eg/opac
+CATTYPE evergreen-dynamic
+LCODE 222
 
 ID OCLC-APB
 NAME Fort Bragg, Throckmorton Library
@@ -5158,7 +5158,7 @@ ID OCLC-NOC
 NAME University of North Carolina (UNC) Chapel Hill
 LOCATION Chapel Hill
 STATE NC
-BASEURL http://library.unc.edu/research/combinedresults/
+BASEURL http://library.unc.edu/find/combinedresults/
 CATTYPE endeca
 
 ID OCLC-1NG
@@ -5186,10 +5186,9 @@ ID OCLC-NFG
 NAME Fargo Public Library
 LOCATION Fargo
 STATE ND
-BASEURL http://ufind.odin.nodak.edu/vufind
-CATTYPE vufindrc1
-FILTERS NK
-LCODE NFG
+BASEURL https://catalog.fargolibrary.org
+CATTYPE koha
+#FILTERS NK
 
 ID OCLC-NMP
 NAME Minot Public Library
@@ -5464,6 +5463,26 @@ BASEURL http://libweb.cityofalbany.net/eg/opac
 CATTYPE evergreen-dynamic
 LCODE 2
 
+ID OCLC-CEO
+NAME Central Oregon Community College
+LOCATION Bend
+STATE OR
+CATTYPE primodl-loc
+BASEURL http://alliance-primo.hosted.exlibrisgroup.com
+LCODE COCC
+VID COCC
+LOC adaptor,scope:(COCC),scope:(P),scope:(E-COCC)
+
+ID OCLC-CHK
+NAME Chemeketa Community College
+LOCATION Salem and Yamhill Valley
+STATE OR
+CATTYPE primodl-scope
+BASEURL http://alliance-primo.hosted.exlibrisgroup.com
+LCODE CHEMEK
+VID CHEMEK
+SCOPE everything
+
 ID OCLC-DCH
 NAME Deschutes Public Library
 LOCATION Bend and Deschutes County
@@ -5482,8 +5501,11 @@ ID OCLC-WEV
 NAME George Fox University
 LOCATION Newberg
 STATE OR
-BASEURL http://catalog.georgefox.edu
-CATTYPE innopac
+CATTYPE primodl-scope
+BASEURL http://alliance-primo.hosted.exlibrisgroup.com
+LCODE Alliance_GFOX
+VID GFOX
+SCOPE gfox_alma_summit_primocentral
 
 ID OCLC-JCL
 NAME Jackson County Library Services
@@ -5516,12 +5538,8 @@ STATE OR
 CATTYPE bibliocommons
 BASEURL http://multcolib.bibliocommons.com
 
-ID OCLC-OBS
-NAME Orbis Cascade Alliance Summit
-LOCATION 35+ academic libraries in Oregon, Washington, and Idaho
-STATE OR
-BASEURL http://summit.worldcat.org/search
-CATTYPE worldcat
+# Orbis Cascade appears to no longer have a unified catalog;
+# add the individual member libraries as time permits
 
 ID OCLC-OHS
 NAME Oregon Health and Science University
@@ -5537,16 +5555,19 @@ ID OCLC-ORY
 NAME Oregon State Library
 LOCATION Salem
 STATE OR
-BASEURL http://catalog.willamette.edu
-CATTYPE iii-consortium-member
-LCODE 2
+BASEURL https://ccrls.ent.sirsi.net
+CATTYPE sirsient
+LCODE en_US/oslpublic
 
 ID OCLC-ORE
 NAME Oregon State University (OSU)
 LOCATION Corvallis and other campuses
 STATE OR
-CATTYPE summon
-BASEURL http://oregonstate.summon.serialssolutions.com
+CATTYPE primodl-scope
+BASEURL http://search.library.oregonstate.edu
+LCODE OSU
+VID OSU
+SCOPE everything
 
 ID OCLC-UMQ
 NAME Umpqua Community College
@@ -5576,9 +5597,11 @@ ID OCLC-OWT
 NAME Willamette University Libraries
 LOCATION Salem
 STATE OR
-BASEURL http://catalog.willamette.edu
-CATTYPE iii-consortium-member
-LCODE 1
+CATTYPE primodl-scope
+BASEURL http://alliance-primo.hosted.exlibrisgroup.com
+LCODE WU
+VID WU
+SCOPE WU_Libraries_Summit
 
 ID OCLC-PGA
 NAME ACCESS Pennsylvania
@@ -6724,6 +6747,16 @@ BASEURL http://searchlib.cwu.edu
 LCODE CWU
 VID CWU
 SCOPE cwu_alma
+
+ID OCLC-CCV
+NAME Clark College
+LOCATION Vancouver
+STATE WA
+CATTYPE primodl-scope
+BASEURL http://alliance-primo.hosted.exlibrisgroup.com
+LCODE CC
+VID CC
+SCOPE cc_alma
 
 ID OCLC-WEA
 NAME Eastern Washington University
