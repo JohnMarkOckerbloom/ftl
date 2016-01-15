@@ -5696,7 +5696,8 @@ NAME Lackawanna County Library System
 LOCATION Scranton and vicinity
 STATE PA
 CATTYPE sirsi
-BASEURL http://lack.sirsi.net/uhtbin/cgisirsi
+CATTYPE evergreen-dynamic
+BASEURL http://lackawanna.sparkpa.org/eg/opac
 
 ID OCLC-LAF
 NAME Lafayette College
@@ -5769,9 +5770,8 @@ ID OCLC-PAFSS
 NAME Friends Select School Library
 LOCATION Philadelphia
 STATE PA
-BASEURL http://catalog.friends-select.org:2051/
-CATTYPE webpacpro
-DEFAULT http://catalog.friends-select.org:2051/search~S69
+BASEURL http://fss.goalexandria.com/?
+CATTYPE alexandria
 
 ID OCLC-LYU
 NAME Lehigh University
@@ -5848,12 +5848,13 @@ STATE PA
 CATTYPE vufindgeneral
 BASEURL https://library.villanova.edu/Find/Combined/Results
 
+# Brown now has a custom search; not clear if you can limit to fields
 ID OCLC-RBN
 NAME Brown University Library
 LOCATION Providence
 STATE RI
-CATTYPE vufind
-BASEURL http://library.brown.edu/find
+BASEURL https://search.library.brown.edu/
+KEYURL ${BASEURL}?q=${ARG}
 
 ID OCLC-CCW
 NAME Community College of Rhode Island
@@ -5883,7 +5884,7 @@ ID OCLC-ZKE
 NAME Allen University
 LOCATION Columbia
 STATE SC
-BASEURL http://207.67.203.72/A70005/OPAC/Search/AdvancedSearch.aspx
+BASEURL http://a70005.eos-intl.net/A70005/OPAC/Search/AdvancedSearch.aspx
 CATTYPE eosweb
 DEFAULT http://www.allenuniversity.edu/academics/library/
 
@@ -6053,8 +6054,8 @@ ID OCLC-TNN
 NAME Nashville Public Library
 LOCATION Nashville
 STATE TN
-CATTYPE encore
-BASEURL http://nplencore.library.nashville.org/iii/encore
+CATTYPE vufindgeneral
+BASEURL http://catalog.library.nashville.org/Union/Search
 DEFAULT http://www.library.nashville.org/
 
 ID NETCONSORTIUM
@@ -6069,8 +6070,8 @@ ID OCLC-TWS
 NAME Rhodes College
 LOCATION Memphis
 STATE TN
-CATTYPE sirsi
-BASEURL http://rclm.sirsi.net/uhtbin/cgisirsi
+CATTYPE worldcat
+BASEURL http://rhodescollege.worldcat.org/search
 
 ID OCLC-BLUEG
 NAME Tennessee State Library and Archives
@@ -6106,9 +6107,9 @@ NAME University of Tennessee
 LOCATION Knoxville
 STATE TN
 CATTYPE primodl-scope
-BASEURL http://utk-primo.hosted.exlibrisgroup.com
-VID UTK
-LCODE UTK
+BASEURL http://utk-almaprimo.hosted.exlibrisgroup.com
+VID 01UTK
+LCODE 01UTK
 SCOPE OneSearch
 
 ID OCLC-TUC
@@ -6188,8 +6189,8 @@ ID OCLC-IFA
 NAME Fort Worth Library
 LOCATION Fort Worth
 STATE TX
-CATTYPE ipac20
-BASEURL http://fwl.ipac.dynixasp.com
+BASEURL http://fwmlc.polarislibrary.com/polaris
+CATTYPE polaris
 
 ID OCLC-HT-SHARP
 WCRID 15586
@@ -6252,7 +6253,7 @@ ID OCLC-LPZ
 NAME Lunar and Planetary Institute Library
 LOCATION Houston
 STATE TX
-BASEURL http://207.67.203.81/T95009/OPAC/Search/AdvancedSearch.aspx
+BASEURL http://t95009.eos-intl.net/T95009/OPAC/Search/AdvancedSearch.aspx
 CATTYPE eosweb
 
 ID OCLC-TME
@@ -6260,8 +6261,8 @@ NAME McAllen Public Library
 LOCATION McAllen
 STATE TX
 CATTYPE ls2pac-config
-BASEURL http://ls2pac.edinburgpl.us:8080/
-CONFIG mcallen
+LCODE mcallen
+BASEURL http://hcls.tlcdelivers.com:8080/
 
 ID OCLC-M-DOLLAR-K
 NAME McKinney Public Library System
@@ -6338,8 +6339,8 @@ NAME Sekula Memorial Library
 LOCATION Edinburg
 STATE TX
 CATTYPE ls2pac-config
-BASEURL http://ls2pac.edinburgpl.us:8080/
-CONFIG ysm15
+BASEURL http://hcls.tlcdelivers.com:8080/
+CONFIG edinburg
 
 ID OCLC-SNM
 NAME St. Mary's University, Louis J. Blume Library
@@ -6366,11 +6367,8 @@ ID OCLC-TXA
 NAME Texas A&amp;M University Libraries
 LOCATION College Station
 STATE TX
-CATTYPE primodl-loc
-BASEURL http://search.library.tamu.edu:1701
-VID tamu
-LCODE EVANS
-LOC adaptor,scope:("MSL"),scope:(libguides),scope:(archon),scope:(TAMU-SFX),scope:(EVANS),scope:(tamu_dspace_qdc),primo_central_multiple_fe
+CATTYPE voyager-vwebv
+BASEURL https://libcat.tamu.edu/vwebv/search
 DEFAULT http://library.tamu.edu/
 
 ID OCLC-TTT
@@ -6387,17 +6385,12 @@ STATE TX
 CATTYPE voyager-vwebv
 BASEURL http://txsouthern-voyager.hosted.exlibrisgroup.com/vwebv/search
 
-# TTU uses EDS for its main search, but also still has Primo
-# (haven't yet successully rev-eng'd EDS, but their form is all GET-based)
 ID OCLC-ILU
 NAME Texas Tech University Libraries
 LOCATION Lubbock
 STATE TX
-CATTYPE primodl-loc
-BASEURL http://onesearch.lib.ttu.edu:1701
-VID TTU
-LCODE TTU
-LOC adaptor,scope:(TTU_ALEPH),scope:(TTU_DSPACE_SW),scope:(TTU_ALEPH_SW),scope:(TTU_ALEPH_AR),scope:(TTU_DSPACE_ML2)
+CATTYPE eds
+LCODE s8383439
 DEFAULT http://library.ttu.edu/
 
 ID OCLC-IWU
@@ -6645,7 +6638,7 @@ ID OCLC-VPL
 NAME Virginia Beach Public Library
 LOCATION Virginia Beach
 STATE VA
-BASEURL http://vbplcat.vbgov.com/uhtbin/cgisirsi.exe
+BASEURL https://vbplcat.vbgov.com/uhtbin/cgisirsi.exe
 CATTYPE sirsi
 
 ID OCLC-VRC
@@ -6706,8 +6699,8 @@ ID OCLC-F3L
 NAME Fletcher Free Library
 LOCATION Burlington
 STATE VT
-BASEURL http://flet.sirsi.net/uhtbin/cgisirsi
-CATTYPE sirsi
+BASEURL http://ffl.polarislibrary.com
+CATTYPE polaris
 
 ID OCLC-MDY
 NAME Middlebury College
