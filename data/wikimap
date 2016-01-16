@@ -214,7 +214,6 @@ African American newspapers|=|African-American newspapers
 African American scientists|<->|List of African-American inventors and scientists
 African Americans -- History|<->|African-American history
 Afrikaans language|=|Afrikaans
-Afrikaners|=|Afrikaner
 Afsluitdijk (Netherlands)|=|Afsluitdijk
 Agadir (Morocco)|=|Agadir
 Agadir Incident, 1911|=|Agadir Crisis
@@ -590,7 +589,7 @@ Anglo-Israelism|=|British Israelism
 Anglo-Spanish War, 1585-1604|=|Anglo-Spanish War (1585–1604)
 Anglo-Spanish War, 1739-1748|=|War of Jenkins' Ear
 Anglo-Spanish War, 1762-1763|=|Anglo-Spanish War (1762–63)
-Anglo-Spanish War, 1779-1783|=|Anglo-Spanish War (1779–83)
+Anglo-Spanish War, 1779-1783|<->|Spain in the American Revolutionary War
 Angola -- History -- Civil War, 1975-2002|=|Angolan Civil War
 Angola -- History -- Civil War, 1975-2002 -- Participation, Cuban|<->|Cuban intervention in Angola
 Angola -- History -- Revolution, 1961-1975|<->|Angolan War of Independence
@@ -1080,7 +1079,7 @@ Austro-Prussian War, 1866|=|Austro-Prussian War
 Austro-Sardinian War, 1848-1849|<->|First Italian War of Independence
 Austro-Turkish War, 1661-1664|<->|Austro-Turkish War (1663–64)
 Austro-Turkish War, 1788-1790|<->|Austro-Turkish War (1787–91)
-Auteuil (Paris, France)|->|Auteuil-Neuilly-Passy
+Auteuil (Paris, France)|->|Neuilly-Auteuil-Passy
 Auto-Lite (Firm) Strike, Toledo, Ohio, 1934|=|Auto-Lite strike
 Automatic programming (Computer science)|=|Automatic programming
 Automobile driving|->|Driving
@@ -1972,7 +1971,7 @@ Brazil -- History -- French colony, 1555-1567|<->|France Antarctique
 Brazil -- History -- Naval Revolt, 1893-1894|=|Revolta da Armada
 Brazil -- History -- Naval Revolt, 1910|=|Revolt of the Lash
 Brazil -- History -- Revolution, 1842|=|Liberal rebellions of 1842 (Empire of Brazil)
-Brazil -- History -- Revolution, 1924-1925|->|Tenente revolts
+Brazil -- History -- Revolution, 1924-1925|->|Tenentism
 Brazil -- History -- Revolution, 1930|=|Brazilian Revolution of 1930
 Brazil -- History -- Revolution, 1964|<->|1964 Brazilian coup d'état
 Brazil -- History -- United Kingdom, 1815-1822|<->|United Kingdom of Portugal, Brazil and the Algarves
@@ -2259,9 +2258,8 @@ Calendars|->|Calendar
 Calgary (Alta.)|=|Calgary
 Calgary Flames (Hockey team)|=|Calgary Flames
 Caliban (Fictitious character)|=|Caliban
-Calico|<->|Calico (textile)
 Calico Museum of Textiles (India)|=|Calico Museum of Textiles
-Calico-printing|->|Calico (textile)
+Calico-printing|->|Calico
 Caliente Range (Calif.)|=|Caliente Range
 California -- Gold discoveries|<->|California Gold Rush
 California -- History -- Civil War, 1861-1865|=|California in the American Civil War
@@ -2440,7 +2438,7 @@ Carlow (Ireland : County)|=|County Carlow
 Carmel, Mount (Conn. : Mountain)|<->|Sleeping Giant (Connecticut)
 Carmen de Patagones (Argentina)|=|Carmen de Patagones
 Carnegie libraries|=|Carnegie library
-Carnell family|<->|Carnell (surname)
+Carnell family|<->|Carnell
 Carnifex Ferry, Battle of, W. Va., 1861|=|Battle of Carnifex Ferry
 Carnivals|<->|Traveling carnival
 Carnivorous plants|=|Carnivorous plant
@@ -2877,7 +2875,7 @@ China -- History -- Boxer Rebellion, 1899-1901|=|Boxer Rebellion
 China -- History -- Chen dynasty, 557-589|<->|Chen dynasty
 China -- History -- Civil War, 1945-1949|<->|Chinese Civil War
 China -- History -- Cultural Revolution, 1966-1976|=|Cultural Revolution
-China -- History -- December Ninth Movement, 1935|=|December 9th movement
+China -- History -- December Ninth Movement, 1935|=|December 9th Movement
 China -- History -- Earlier Shu kingdom, 907-925|<->|Former Shu
 China -- History -- Encirclement Campaigns, 1930-1934|<->|Encirclement Campaigns
 China -- History -- Five dynasties and the Ten kingdoms, 907-979|<->|Five Dynasties and Ten Kingdoms period
@@ -2895,12 +2893,12 @@ China -- History -- Liao dynasty, 947-1125|<->|Liao dynasty
 China -- History -- Liu Song dynasty, 420-479|<->|Liu Song dynasty
 China -- History -- Long March, 1934-1935|=|Long March
 China -- History -- May Fourth movement, 1919|=|May Fourth Movement
-China -- History -- May Thirtieth movement, 1925|=|May Thirtieth movement
+China -- History -- May Thirtieth movement, 1925|=|May Thirtieth Movement
 China -- History -- Min kingdom, 909-945|<->|Min (Ten Kingdoms)
 China -- History -- Ming dynasty, 1368-1644|<->|Ming dynasty
 China -- History -- Movement to Protect the Constitution, 1917-1923|<->|Constitutional Protection Movement
 China -- History -- Nian Rebellion, 1853-1868|<->|Nian Rebellion
-China -- History -- Northern and Southern dynasties, 386-589|<->|Southern and Northern Dynasties
+China -- History -- Northern and Southern dynasties, 386-589|<->|Northern and Southern dynasties
 China -- History -- Northern Expedition, 1926-1928|<->|Northern Expedition
 China -- History -- Northern Qi dynasty, 550-577|<->|Northern Qi
 China -- History -- Northern Wei dynasty, 386-534|<->|Northern Wei
@@ -4369,7 +4367,6 @@ East Humboldt Range (Nev.)|=|East Humboldt Range
 East Humboldt Wilderness (Nev.)|=|East Humboldt Wilderness
 East Indian Americans|=|Indian Americans
 East Indians|=|Indian people
-East Indies|=|Indies
 East Midlands (England)|=|East Midlands
 East Saint Louis Race Riot, East Saint Louis, Ill., 1917|<->|East St. Louis riot
 East Spanish Peak (Colo.)|=|East Spanish Peak
@@ -5450,7 +5447,7 @@ French language -- Middle French, 1300-1600|<->|Middle French
 French language -- To 1300|<->|Old French
 Freshwater snails|=|Freshwater snail
 Freud, Sigmund, 1856-1939 -- Bibliography|<->|Sigmund Freud bibliography
-Freud, Sigmund, 1856-1939 -- Religion|<->|Religious views of Sigmund Freud
+Freud, Sigmund, 1856-1939 -- Religion|<->|Sigmund Freud's views on religion
 Fribourg (Switzerland)|=|Fribourg
 Fribourg (Switzerland : Canton)|=|Canton of Fribourg
 Friday the 13th films|<->|Friday the 13th (franchise)
@@ -5782,7 +5779,7 @@ Gippsland (Vic.)|=|Gippsland
 Girl Scouts|->|Girl Guides
 Girl Scouts of the United States of America|<->|Girl Scouts of the USA
 Girls|=|Girl
-Girondists|=|Girondist
+Girondists|=|Girondins
 Glacial epoch|<->|Ice age
 Glacier Bay National Park and Preserve (Agency : U.S.)|->|Glacier Bay National Park and Preserve
 Glacier Bay National Park and Preserve (Alaska)|=|Glacier Bay National Park and Preserve
@@ -5887,7 +5884,7 @@ Government monopolies|=|Government monopoly
 Government ownership|=|State ownership
 Governments in exile|=|Government in exile
 Governors|=|Governor
-Governors general|=|Governor-General
+Governors general|=|Governor-general
 Grabow Riot, Grabow, La., 1912|=|Grabow riot
 Grafton Affair, 1905-1906|<->|SS John Grafton
 Grace (Theology)|=|Divine grace
@@ -6146,7 +6143,6 @@ Guilford Courthouse, Battle of, N.C., 1781|=|Battle of Guilford Court House
 Guilford Courthouse National Military Park (N.C.)|=|Guilford Courthouse National Military Park
 Guilin, Battle of, Guilin, Guangxi Zhuangzu Zizhiqu, China, 1944|<->|Battle of Guilin–Liuzhou
 Guinea -- History -- Portuguese Invasion, 1970|<->|Operation Green Sea
-Guinea (Coin)|<->|Guinea (British coin)
 Guinea-Bissau -- History -- Revolution, 1963-1974|=|Guinea-Bissau War of Independence
 Guinea pigs|=|Guinea pig
 Guitarists|=|Guitarist
@@ -7021,7 +7017,7 @@ Indore (India)|=|Indore
 Induction (Logic)|=|Inductive reasoning
 Induction (Mathematics)|=|Mathematical induction
 Indulgences|=|Indulgence
-Indus civilization|=|Indus Valley Civilization
+Indus civilization|=|Indus Valley Civilisation
 Industrial efficiency|->|Productivity
 Industrial hygiene|=|Occupational hygiene
 Industrial productivity|<->|Productivity
@@ -7577,8 +7573,8 @@ Jews -- Lithuania -- History|<->|History of the Jews in Lithuania
 Jews -- Morocco -- History|<->|History of the Jews in Morocco
 Jews -- Netherlands|<->|History of the Jews in the Netherlands
 Jews -- Netherlands -- History|->|History of the Jews in the Netherlands
-Jews -- New York (State) -- New York|<->|Jews in New York City
-Jews -- New York (State) -- New York -- History|->|Jews in New York City
+Jews -- New York (State) -- New York|<->|History of the Jews in New York City
+Jews -- New York (State) -- New York -- History|->|History of the Jews in New York City
 Jews -- Persecutions|=|Persecution of Jews
 Jews -- Poland -- History|<->|History of the Jews in Poland
 Jews -- Portugal -- History|<->|History of the Jews in Portugal
@@ -8473,7 +8469,7 @@ Lincoln, Abraham, 1809-1865 -- Bibliography|<->|Bibliography of Abraham Lincoln
 Lincoln, Abraham, 1809-1865 -- Childhood and youth|<->|Early life and career of Abraham Lincoln
 Lincoln, Abraham, 1809-1865. Cooper Institute speech|=|Cooper Union speech
 Lincoln, Abraham, 1809-1865 -- Death and burial|<->|Funeral and burial of Abraham Lincoln
-Lincoln, Abraham, 1809-1865 -- Family|<->|Lincoln family tree
+Lincoln, Abraham, 1809-1865 -- Family|<->|Lincoln family
 Lincoln, Abraham, 1809-1865 -- Funeral journey to Springfield|->|Funeral and burial of Abraham Lincoln
 Lincoln, Abraham, 1809-1865. Gettysburg address|=|Gettysburg Address
 Lincoln, Abraham, 1809-1865 -- Health|<->|Medical and mental health of Abraham Lincoln
@@ -9223,7 +9219,7 @@ Memorial Day Massacre, Chicago, Ill., 1937|=|Memorial Day massacre of 1937
 Memory maps (Computer science)|=|Memory map
 Memphis (Extinct city)|=|Memphis, Egypt
 Memphis (Group)|=|Memphis Group
-Memphis, Battle of, Memphis, Tenn., 1862|=|Battle of Memphis
+Memphis, Battle of, Memphis, Tenn., 1862|=|First Battle of Memphis
 Memphis Grizzlies (Basketball team)|=|Memphis Grizzlies
 Memphis Race Riot, Memphis, Tenn., 1866|=|Memphis riots of 1866
 Men|=|Man
@@ -9308,7 +9304,7 @@ Metz (France) -- History|=|History of Metz
 Metz (France) -- History -- Siege, 1814|=|Siege of Metz (1814)
 Metz (France) -- History -- Siege, 1870|=|Siege of Metz (1870)
 Metz, Battle of, Metz, France, 1944|=|Battle of Metz
-Meuse River|=|Meuse (river)
+Meuse River|=|Meuse
 Mexican-American Border Region|->|Mexico–United States border
 Mexican lime|=|Key lime
 Mexican states|=|States of Mexico
@@ -11162,7 +11158,7 @@ Pan American Flight 806 Crash, American Samoa, 1974|=|Pan Am Flight 806
 Pan American Union|->|Organization of American States
 Pan-Hispanism|=|Panhispanism
 Panama -- History -- American Invasion, 1989|=|United States invasion of Panama
-Panama -- History -- Revolution, 1903|<->|Separation of Panama from Colombia
+Panama -- History -- Revolution, 1903|<->|Panama–Colombia separation
 Panama Canal (Panama)|=|Panama Canal
 Panama Canal (Panama) -- History|=|History of the Panama Canal
 Panama-Pacific International Exposition (1915 : San Francisco, Calif.)|=|Panama–Pacific International Exposition
@@ -11203,7 +11199,7 @@ Papah&amacr;naumoku&amacr;kea Marine National Monument (Agency : U.S.)|->|Papah�
 Papah&amacr;naumoku&amacr;kea Marine National Monument (Hawaii)|=|Papahānaumokuākea Marine National Monument
 Papeete (French Polynesia)|=|Papeete
 Paperboys|->|Paperboy
-Papers of George Washington (Project)|=|The Papers of George Washington
+Papers of George Washington (Project)|=|The Washington Papers
 Par&aacute; (Brazil : State)|=|Pará
 Par&aacute; (Brazil : State) -- History -- Cabanagem, 1835-1840|<->|Cabanagem
 Par&aacute; River (Brazil)|=|Pará River
@@ -11396,7 +11392,7 @@ Permanent revolution theory|=|Permanent revolution
 Pernambuco (Brazil)|=|Pernambuco
 Pernambuco (Brazil) -- History|=|History of Pernambuco
 Pernambuco (Brazil) -- History -- Revolution, 1817|=|Pernambucan Revolt
-Pernambuco (Brazil) -- History -- Revolution, 1848-1849|=|Praieira revolt
+Pernambuco (Brazil) -- History -- Revolution, 1848-1849|=|Praieira Revolt
 Perpetual Help, Our Lady of|=|Our Lady of Perpetual Help
 Perryville, Battle of, Perryville, Ky., 1862|=|Battle of Perryville
 Persephone (Greek deity)|=|Persephone
@@ -11663,7 +11659,7 @@ Plymouth Rock (Plymouth, Mass.)|=|Plymouth Rock
 Poachers|->|Poaching
 Poachie Range (Ariz.)|=|Poachie Range
 Pocono Mountains (Pa.)|<->|Pocono Mountains
-Pocotaligo, Battle of, Pocotaligo, S.C., 1862 (October 22)|=|Battle of Pocotaligo
+Pocotaligo, Battle of, Pocotaligo, S.C., 1862 (October 22)|=|Second Battle of Pocotaligo
 Poets|=|Poet
 Poets, American|<->|List of poets from the United States
 Poets, Russian|<->|List of Russian-language poets
@@ -12307,10 +12303,10 @@ Railroad accidents|<->|Train wreck
 Railroad engineering|=|Railway engineering
 Railroad engineers|->|Railway engineering
 Railroad stations|=|Train station
-Railroad Strike, Netherlands, 1903|<->|Railroad Strikes of 1903
+Railroad Strike, Netherlands, 1903|<->|Railroad strikes of 1903 in the Netherlands
 Railroad Strike, U.S., 1877|=|Great Railroad Strike of 1877
 Railroad tracks|=|Track (rail transport)
-Railroad Workers' Strike, Bucharest, Romania, 1933|=|Grivița Strike of 1933
+Railroad Workers' Strike, Bucharest, Romania, 1933|=|Grivița strike of 1933
 Railroads|=|Rail transport
 Railroads -- Electrification|<->|Railway electrification system
 Railroads -- Great Britain|<->|Rail transport in Great Britain
@@ -12954,7 +12950,7 @@ Salt Lake Valley (Utah)|=|Salt Lake Valley
 Salt marshes|=|Salt marsh
 Saltillo (Coahuila, Mexico)|=|Saltillo
 Saltmarsh bulrush|<->|Bolboschoenus
-Saltpeter|=|Niter
+Saltpeter|=|Nitre
 Salts|=|Salt (chemistry)
 Salvador (Brazil)|=|Salvador, Bahia
 Salvador (Brazil) -- History -- Capture by the Spanish, 1625|=|Recapture of Bahia
@@ -13773,7 +13769,7 @@ Slivnitsa, Battle of, Slivnit&#xfe20;s&#xfe21;a, Bulgaria, 1885|=|Battle of Sliv
 Sloan Peak (Wash.)|=|Sloan Peak
 S&lstrok;obodyszcze, Battle of, Slobodyshche, Berdychivs&#x02b9;ky&#x012d; ra&#x012d;on, Ukraine, 1660|=|Battle of Slobodyshche
 Slovenia -- History -- Peasant Uprising, 1573|->|Croatian–Slovene Peasant Revolt
-Slovakia -- History -- Uprising, 1848-1849|=|Slovak Uprising 1848–49
+Slovakia -- History -- Uprising, 1848-1849|=|Slovak Uprising of 1848–49
 Slovakia -- History -- Uprising, 1944|<->|Slovak National Uprising
 Slovakia -- Politics and government|<->|Politics of Slovakia
 Slovakia -- Politics and government|<-|Government of Slovakia
@@ -13806,7 +13802,6 @@ Snake River Plain Aquifer (Idaho)|=|Snake River Aquifer
 Snake River Plain (Idaho and Or.)|=|Snake River Plain
 Snake War, 1864-1868|=|Snake War
 Snakes|=|Snake
-Sneakers|=|Sneakers (footwear)
 Snipers|=|Sniper
 Snoopy (Fictitious character)|=|Snoopy
 Snow, Mount (Vt.)|<->|Mount Snow
@@ -13977,7 +13972,7 @@ Southeast Freeway (Washington, D.C.)|=|Interstate 695 (District of Columbia)
 Southeastern Pennsylvania Transportation Authority|=|SEPTA
 Southern Cone of South America|=|Southern Cone
 Southern Morava River (Serbia)|=|South Morava
-Southern oscillation|<->|El Niño Southern Oscillation
+Southern oscillation|<->|El Niño–Southern Oscillation
 Southern Pacific Company|->|Southern Pacific Transportation Company
 Southern Peru Earthquake, Peru, 2001|=|2001 southern Peru earthquake
 Southern Peru Copper Corporation|<->|Southern Copper Corporation
@@ -14654,6 +14649,7 @@ Temple of Jerusalem (Jerusalem)|=|Temple in Jerusalem
 Temples|=|Temple
 Temporary marriage|->|Marriage
 Tendoy Mountains (Mont.)|=|Tendoy Mountains
+Tenentismo|=|Tenentism
 Tennessee -- History -- Civil War, 1861-1865|=|Tennessee in the American Civil War
 Tennessee, East|=|East Tennessee
 Tennessee River Valley|<->|Tennessee Valley
@@ -14879,7 +14875,6 @@ Toledo War, 1835|=|Toledo War
 Toll roads|=|Toll road
 Tolmie Peak (Wash.)|=|Tolmie Peak
 Tolmie State Park (Wash.)|=|Tolmie State Park
-Tolstoy family|<->|Tolstoy (family)
 Toltecs|=|Toltec
 Tom Thumb (Tale)|<->|Tom Thumb
 Tomatoes|=|Tomato
@@ -15030,7 +15025,6 @@ Triads (Sociology)|<->|Triad (sociology)
 Trials|=|Trial
 Trials (Witchcraft)|->|Witch-hunt
 Trials in absentia|=|Trial in absentia
-Triangle (Musical instrument)|=|Triangle (instrument)
 Triangle Shirtwaist Company|<->|Triangle Shirtwaist Factory fire
 Triangles (Interpersonal relations)|<->|Love triangle
 Tribes|=|Tribe
@@ -15146,7 +15140,6 @@ Turkey -- History -- Shaykh Sa&#x02bb;&imacr;d Rebellion, 1925|=|Sheikh Said reb
 Turkey -- History -- Tanzimat, 1839-1876|<->|Tanzimat
 Turkey -- History -- Wars with Persia, 1576-1639|<->|Ottoman–Persian Wars
 Turkey -- Politics and government|<->|Politics of Turkey
-Turkey -- Politics and government|<-|Government of Turkey
 Turkish language -- Grammar|=|Turkish grammar
 Turnbull National Wildlife Refuge (Agency : U.S.)|->|Turnbull National Wildlife Refuge
 Turnbull National Wildlife Refuge (Wash.)|=|Turnbull National Wildlife Refuge
@@ -15199,7 +15192,7 @@ Typhus fever|<->|Typhus
 Typology (Linguistics)|=|Linguistic typology
 Typology (Psychology)|=|Personality type
 Tyre (Lebanon) -- History -- Siege, 332 B.C.|=|Siege of Tyre (332 BC)
-Tyrol (Austria)|=|Tirol, Austria
+Tyrol (Austria)|=|Tyrol (state)
 Tyrol (Austria) -- History|<->|History of Tyrol
 Tyrol (Austria) -- History -- Uprising of 1809|=|Tyrolean Rebellion
 Tyrone's Rebellion, 1597-1603|<->|Nine Years' War (Ireland)
@@ -15692,7 +15685,7 @@ Valley of the Queens (Egypt)|=|Valley of the Queens
 Valmy, Battle of, Valmy, France, 1792|=|Battle of Valmy
 Valois, House of|=|House of Valois
 Valuation|=|Valuation (finance)
-Values|<->|Value (personal and cultural)
+Values|<->|Value (ethics)
 Valverde, Battle of, Val Verde, N.M., 1862|=|Battle of Valverde
 Vampires|=|Vampire
 Vampires -- Fiction|->|Vampire literature
@@ -16543,7 +16536,7 @@ World War, 1939-1945 -- India|<->|India in World War II
 World War, 1939-1945 -- Indochina|<->|French Indochina in World War II
 World War, 1939-1945 -- Influence|->|Aftermath of World War II
 World War, 1939-1945 -- Italy|<->|Military history of Italy during World War II
-World War, 1939-1945 -- Jewish resistance|<->|Jewish resistance under Nazi rule
+World War, 1939-1945 -- Jewish resistance|<->|Jewish resistance in German-occupied Europe
 World War, 1939-1945 -- Jews|<->|History of the Jews during World War II
 World War, 1939-1945 -- Jews -- Rescue|<->|Individuals and groups assisting Jews during the Holocaust
 World War, 1939-1945 -- Jews -- Rescue -- Denmark|<->|Rescue of the Danish Jews
