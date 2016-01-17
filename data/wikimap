@@ -9,8 +9,8 @@
 #   or lexical analysis (such as many geographical locations)
 #   are not included in this file.
 # See docs file for documentation
-# Last updated 2016-01-06
-#
+# Last updated 2016-01-16
+# Cuisine: done through T
 16th Street Baptist Church Bombing, Birmingham, Ala., 1963|=|16th Street Baptist Church bombing
 24 Heures du Mans (Automobile race)|=|24 Hours of Le Mans
 3-D films|=|3D film
@@ -25,6 +25,7 @@
 73 Easting, Battle of, Iraq, 1991|=|Battle of 73 Easting
 A-10 (Jet attack plane)|=|Fairchild Republic A-10 Thunderbolt II
 A1 Road (England and Scotland)|=|A1 road (Great Britain)
+A7V (Tank)|=|A7V
 Aachen (Germany)|=|Aachen
 Aachen (Germany) -- History -- Siege, 1944|->|Battle of Aachen
 Aachen, Battle of, Aachen, Germany, 1944|<->|Battle of Aachen
@@ -186,6 +187,8 @@ Aeta (Philippine people)|=|Aeta people
 Affective disorders|<->|Mood disorder
 Affinity labeling|<->|Affinity label
 Afghan War, 2001-|<->|War in Afghanistan (2001–14)
+Afghan War, 2001- -- Campaigns|<->|List of military operations in the war in Afghanistan (2001–present)
+Afghan War, 2001- -- Protest movements|<->|Protests against the war in Afghanistan (2001–14)
 Afghan Wars|=|Anglo-Afghan War
 Afghanistan -- History -- British Intervention, 1838-1842|<->|First Anglo-Afghan War
 Afghanistan -- History -- Saur Revolution, 1978|=|Saur Revolution
@@ -550,6 +553,7 @@ Anderson, Mount (Wash.)|=|Mount Anderson (Washington)
 Andersonville National Historic Site (Ga.)|=|Andersonville National Historic Site
 Andersonville Prison|->|Andersonville National Historic Site
 Andhra Pradesh (India)|=|Andhra Pradesh
+Andkhvoy (Afghanistan)|=|Andkhoy
 Andreanof Islands (Alaska)|=|Andreanof Islands
 Andrews, Archie (Fictitious character)|=|Archie Andrews
 Androids|=|Android
@@ -798,6 +802,7 @@ Argentina -- Politics and government|<-|Government of Argentina
 Argentine-Brazilian War, 1825-1828|<->|Cisplatine War
 Argentine Islands (Antarctica)|=|Argentine Islands
 Argentine provinces|=|Provinces of Argentina
+Arghandab River (Afghanistan)|=|Arghandab River
 Arghun dynasty, 1520-1554|<->|Arghun dynasty
 Argonaut Gold Mine Disaster, Jackson, Calif., 1922|<->|Argonaut Mine
 Argonauts (Greek mythology)|=|Argonauts
@@ -862,6 +867,7 @@ Art -- Forgeries|<->|Art forgery
 Art -- Study and teaching|<->|Visual arts education
 Art, Abstract|=|Abstract art
 Art, Aegean|=|Aegean art
+Art, Afghan|=|Afghan art
 Art, African|<->|African art
 Art, American|<->|Visual art of the United States
 Art, Ancient|=|Ancient art
@@ -1175,15 +1181,19 @@ Badajoz (Spain)|=|Badajoz
 Badajoz (Spain) -- History -- Siege, 1812|=|Siege of Badajoz (1812)
 Badajoz (Spain) -- History -- Siege, 1936|<->|Battle of Badajoz (1936)
 Badajoz (Spain : Province)|=|Province of Badajoz
+Badakhsh&amacr;n (Afghanistan)|<->|Badakhshan Province
 Baden (Germany)|=|Baden
 Baden-Baden (Germany)|=|Baden-Baden
 Baden-W&uuml;rttemberg (Germany)|=|Baden-Württemberg
+B&amacr;dgh&imacr;s (Afghanistan)|=|Badghis Province
 Badlands National Park (S.D.)|=|Badlands National Park
 Badr, Battle of, Badr &#x1e24;unayn, Saudi Arabia, 624|=|Battle of Badr
 Bafia language|=|Bafia language (Cameroon)
 Baggins, Bilbo (Fictitious character)|=|Bilbo Baggins
 Baggins, Frodo (Fictitious character)|=|Frodo Baggins
 Baghdad (Iraq)|=|Baghdad
+Baghl&amacr;n (Afghanistan)|=|Baghlan
+Baghl&amacr;n (Afghanistan : Province)|=|Baghlan Province
 Bagpipe|=|Bagpipes
 Bagrationovsk (Russia)|=|Bagrationovsk
 Bahai calendar|=|Bahá'í calendar
@@ -1223,6 +1233,8 @@ Balkan Peninsula|=|Balkans
 Balkan Peninsula -- History -- War of 1912-1913|<->|Balkan Wars
 Balkan Peninsula -- History -- War of 1912-1913|<-|First Balkan War
 Balkan Peninsula -- History -- War of 1912-1913|<-|Second Balkan War
+Balkh (Afghanistan)|=|Balkh
+Balkh (Afghanistan : Province)|=|Balkh Province
 Ball's Bluff, Battle of, Va., 1861|=|Battle of Ball's Bluff
 Ballads|=|Ballad
 Ballarat (Vic.)|=|Ballarat
@@ -1248,7 +1260,10 @@ Baltimore Ravens (Football team)|=|Baltimore Ravens
 Balto (Dog)|=|Balto
 Baluchistan|=|Balochistan
 Bam Earthquake, Iran, 2003|=|2003 Bam earthquake
+B&amacr;m&imacr;&amacr;n (Afghanistan : Province)|=|Bamyan Province
+Bamiyan Site (Afghanistan)|<->|Buddhas of Bamiyan
 Bamse (Dog)|=|Bamse (St. Bernard)
+B&amacr;my&amacr;n (Afghanistan)|=|Bamyan
 Banach spaces|=|Banach space
 Bananas|=|Banana
 Banda language (Indonesia)|=|Banda language (Maluku)
@@ -2664,6 +2679,7 @@ Cham (Dance)|=|Cham dance
 Cham (Southeast Asian people)|=|Chams
 Chamber theater|=|Chamber theatre
 Chamoli Earthquake, India, 1999|=|1999 Chamoli earthquake
+Chamorro (Micronesian people)|=|Chamorro people
 Champ (Monster)|=|Champ (cryptozoology)
 Champagne (Wine)|=|Champagne
 Champagne, Battles of, France, 1914-1917|<->|Battle of Champagne
@@ -3457,28 +3473,255 @@ Cookes Peak (N.M.)|<->|Cookes Range
 Cookie Monster (Fictitious character)|=|Cookie Monster
 Cookies (Computer science)|<-|HTTP cookie
 Cookies (Computer science)|<->|Magic cookie
+Cooking, Afghan|<->|Afghan cuisine
+Cooking, African|<->|African cuisine
+Cooking, Albanian|<->|Albanian cuisine
+Cooking, Algerian|<->|Algerian cuisine
 Cooking, American|<->|Cuisine of the United States
 Cooking, American -- California style|<->|Cuisine of California
 Cooking, American -- Louisiana style|->|Louisiana Creole cuisine
+Cooking, American -- Midwestern style|<->|Cuisine of the Midwestern United States
 Cooking, American -- New England style|<->|Cuisine of New England
 Cooking, American -- Southern style|<->|Cuisine of the Southern United States
+Cooking, American -- Southwestern style|<->|Cuisine of the Southwestern United States
+Cooking, American -- Pacific Northwest style|<->|Pacific Northwest cuisine
 Cooking, American -- Western style|<->|Cuisine of the Western United States
+Cooking, Angolan|<->|Angolan cuisine
+Cooking, Arab|<->|Arab cuisine
+Cooking, Argentine|<->|Argentine cuisine
+Cooking, Armenian|<->|Armenian cuisine
+Cooking, Asian|<->|Asian cuisine
 Cooking, Australian|<->|Australian cuisine
 Cooking, Austrian|<->|Austrian cuisine
+Cooking, Austrian -- Viennese style|<->|Viennese cuisine
+Cooking, Azerbaijani|<->|Azerbaijani cuisine
+Cooking, Bahamian|<->|Bahamian cuisine
+Cooking, Balinese|<->|Balinese cuisine
+Cooking, Balkan|<->|Balkan cuisine
+Cooking, Bangladeshi|<->|Bangladeshi cuisine
+Cooking, Barbadian|<->|Barbadian cuisine
 Cooking, Basque|<->|Basque cuisine
+Cooking, Belarusian|<->|Belarusian cuisine
 Cooking, Belgian|<->|Belgian cuisine
+Cooking, Belizean|<->|Belizean cuisine
+Cooking, Bengali|<->|Bengali cuisine
+Cooking, Beninese|<->|Benin cuisine
+Cooking, Bermudian|<->|Bermudian cuisine
+Cooking, Bhutanese|<->|Bhutanese cuisine
+Cooking, Bolivian|<->|Bolivian cuisine
+Cooking, Bosnian|<->|Bosnia and Herzegovina cuisine
+Cooking, Botswanan|<->|Botswana cuisine
+Cooking, Brazilian|<->|Brazilian cuisine
 Cooking, British|<->|British cuisine
+Cooking, Bruneian|<->|Bruneian cuisine
+Cooking, Bulgarian|<->|Bulgarian cuisine
+Cooking, Burkinabe|<->|Burkinabé cuisine
+Cooking, Burmese|<->|Burmese cuisine
 Cooking, Cajun|<->|Cajun cuisine
+Cooking, Cambodian|<->|Cambodian cuisine
+Cooking, Cameroonian|<->|Cameroonian cuisine
 Cooking, Canadian|<->|Canadian cuisine
+Cooking, Canadian -- Maritime Provinces style|<->|Cuisine of the Maritimes
+Cooking, Caribbean|<->|Caribbean cuisine
+Cooking, Caucasian|<->|Caucasian cuisine
+Cooking, Chilean|<->|Chilean cuisine
 Cooking, Chinese|<->|Chinese cuisine
+Cooking, Chinese -- Anhui style|<->|Anhui cuisine
+Cooking, Chinese -- Beijing style|<->|Beijing cuisine
+Cooking, Chinese -- Cantonese style|<->|Cantonese cuisine
+Cooking, Chinese -- Fujian style|<->|Fujian cuisine
+Cooking, Chinese -- Hakka style|<->|Hakka cuisine
+Cooking, Chinese -- Henan style|<->|Henan cuisine
+Cooking, Chinese -- Hubei style|<->|Hubei cuisine
+Cooking, Chinese -- Hunan style|<->|Hunan cuisine
+Cooking, Chinese -- Jiangsu style|<->|Jiangsu cuisine
+Cooking, Chinese -- Macanese style|<->|Macanese cuisine
+Cooking, Chinese -- Shandong style|<->|Shandong cuisine
+Cooking, Chinese -- Shanghai style|<->|Shanghai cuisine
+Cooking, Chinese -- Sichuan style|<->|Sichuan cuisine
+Cooking, Chinese -- Taiwanese style|<->|Taiwanese cuisine
+Cooking, Chinese -- Yunnan style|<->|Yunnan cuisine
+Cooking, Chinese -- Zhejiang style|<->|Zhejiang cuisine
+Cooking, Circassian|<->|Circassian cuisine
+Cooking, Colombian|<->|Colombian cuisine
+Cooking, Congolese (Democratic Republic)|<->|Democratic Republic of the Congo cuisine
+Cooking, Costa Rican|<->|Costa Rican cuisine
 Cooking, Creole -- Louisiana style|<->|Louisiana Creole cuisine
+Cooking, Crimean Tatar|<->|Crimean Tatar cuisine
+Cooking, Croatian|<->|Croatian cuisine
+Cooking, Cuban|<->|Cuban cuisine
+Cooking, Cypriot|<->|Cypriot cuisine
+Cooking, Czech|<->|Czech cuisine
+Cooking, Danish|<->|Danish cuisine
+Cooking, Djibouti|<->|Djiboutian cuisine
+Cooking, Dutch|<->|Dutch cuisine
+Cooking, Ecuadorian|<->|Ecuadorian cuisine
+Cooking, Egyptian|<->|Egyptian cuisine
 Cooking, English|<->|English cuisine
+Cooking, English -- Cornish style|<->|Cornish cuisine
+Cooking, English -- Devon style|<->|Cuisine of Devon
+Cooking, Eritrean|<->|Eritrean cuisine
+Cooking, Estonian|<->|Estonian cuisine
+Cooking, Ethiopian|<->|Ethiopian cuisine
+Cooking, European|<->|European cuisine
+Cooking, Faroese|<->|Faroese cuisine
 Cooking, Finnish|<->|Finnish cuisine
 Cooking, French|<->|French cuisine
+Cooking, French -- Alsatian style|<->|Alsatian cuisine
+Cooking, French -- Corsican style|<->|Cuisine of Corsica
+Cooking, French -- Gascony style|<->|Cuisine of Gascony
+Cooking, Gabonese|<->|Gabonese cuisine
+Cooking, Gambian|<->|Gambian cuisine
+Cooking, Georgian (South Caucasian)|<->|Georgian cuisine
 Cooking, German|<->|German cuisine
+Cooking, German -- Bavarian style|<->|Bavarian cuisine
+Cooking, German -- Schleswig-Holstein style|<->|Schleswig-Holstein cuisine
+Cooking, Ghanaian|<->|Ghanaian cuisine
+Cooking, Greek|<->|Greek cuisine
+Cooking, Greek -- Cretan style|<->|Cretan cuisine
+Cooking, Greenlandic|<->|Greenlandic cuisine
+Cooking, Guatemalan|<->|Guatemalan cuisine
+Cooking, Guinea-Bissauan|<->|Cuisine of Guinea-Bissau
+Cooking, Haitian|<->|Haitian cuisine
+Cooking, Hittite|<->|Hittite cuisine
+Cooking, Hmong|<->|Hmong cuisine
+Cooking, Honduran|<->|Honduran cuisine
+Cooking, Hui|<->|Chinese Islamic cuisine
+Cooking, Hungarian|<->|Hungarian cuisine
+Cooking, Icelandic|<->|Icelandic cuisine
+Cooking, Igbo|<->|Igbo cuisine
+Cooking, Indic|<->|Indian cuisine
+Cooking, Indic -- Assamese style|<->|Assamese cuisine
+Cooking, Indic -- Kerala style|<->|Cuisine of Kerala
+Cooking, Indic -- Marathi style|<->|Maharashtrian cuisine
+Cooking, Indic -- Northern style|<->|North Indian cuisine
+Cooking, Indic -- Southern style|<->|South Indian cuisine
+Cooking, Indic -- Udupi style|<->|Udupi cuisine
+Cooking, Indonesian|<->|Indonesian cuisine
+Cooking, Iranian|<->|Iranian cuisine
+Cooking, Iraqi|<->|Iraqi cuisine
+Cooking, Irish|<->|Irish cuisine
+Cooking, Israeli|<->|Israeli cuisine
 Cooking, Italian|<->|Italian cuisine
+Cooking, Italian -- Neapolitan style|<->|Neapolitan cuisine
+Cooking, Italian -- Sicilian style|<->|Sicilian cuisine
+Cooking, Italian -- Venetian style|<->|Cuisine of Veneto
+Cooking, Ivoirian|<->|Ivorian cuisine
+Cooking, Jamaican|<->|Jamaican cuisine
 Cooking, Japanese|<->|Japanese cuisine
+Cooking, Javanese|<->|Javanese cuisine
+Cooking, Jordanian|<->|Jordanian cuisine
+Cooking, Kashmiri|<->|Kashmiri cuisine
+Cooking, Kazakh|<->|Kazakh cuisine
+Cooking, Komi|<->|Komi cuisine
+Cooking, Korean|<->|Korean cuisine
+Cooking, Kurdish|<->|Kurdish cuisine
+Cooking, Kuwaiti|<->|Kuwaiti cuisine
+Cooking, Kyrgyz|<->|Kyrgyz cuisine
+Cooking, Lao|<->|Lao cuisine
+Cooking, Latin American|<->|Latin American cuisine
+Cooking, Latvian|<->|Latvian cuisine
+Cooking, Lebanese|<->|Lebanese cuisine
+Cooking, Lesothan|<->|Cuisine of Lesotho
+Cooking, Liberian|<->|Liberian cuisine
+Cooking, Liechtenstein|<->|Liechtensteiner cuisine
+Cooking, Lithuanian|<->|Lithuanian cuisine
+Cooking -- Louisiana -- New Orleans|<->|Cuisine of New Orleans
+Cooking -- Luxembourg|<->|Luxembourg cuisine
+Cooking, Macedonian|<->|Macedonian cuisine
+Cooking, Malagasy|<->|Malagasy cuisine
+Cooking, Malawi|<->|Malawian cuisine
+Cooking, Malay|<->|Malay cuisine
+Cooking, Malaysian|<->|Malaysian cuisine
+Cooking, Malian|<->|Malian cuisine
+Cooking, Maltese|<->|Maltese cuisine
+Cooking, Mauritian|<->|Cuisine of Mauritius
+Cooking, Medieval|<->|Medieval cuisine
+Cooking, Mediterranean|<->|Mediterranean cuisine
+Cooking, Mexican|<->|Mexican cuisine
+Cooking, Middle Eastern|<->|Middle Eastern cuisine
+Cooking, Moldovan|<->|Moldovan cuisine
+Cooking, Mongolian|<->|Mongolian cuisine
+Cooking, Montserratian|<->|Cuisine of Montserrat
+Cooking, Moroccan|<->|Moroccan cuisine
+Cooking, Namibian|<->|Namibian cuisine
+Cooking, Nepali|<->|Nepalese cuisine
+Cooking -- New Mexico|<->|New Mexican cuisine
+Cooking -- New York (State) -- New York|<->|Cuisine of New York City
+Cooking, New Zealand|<->|New Zealand cuisine
+Cooking, Ni-Vanuatu|<->|Cuisine of Vanuatu
+Cooking, Nicaraguan|<->|Nicaraguan cuisine
+Cooking, Nigerian|<->|Nigerian cuisine
+Cooking, Niuean|<->|Cuisine of Niue
+Cooking, Norwegian|<->|Norwegian cuisine
+Cooking, Omani|<->|Omani cuisine
+Cooking, Pakistani|<->|Pakistani cuisine
+Cooking, Palestinian Arab|<->|Palestinian cuisine
+Cooking, Panamanian|<->|Panamanian cuisine
+Cooking, Panjabi|<->|Punjabi cuisine
+Cooking, Paraguayan|<->|Paraguayan cuisine
+Cooking, Peruvian|<->|Peruvian cuisine
+Cooking, Philippine|<->|Philippine cuisine
+Cooking, Polish|<->|Polish cuisine
+Cooking, Portuguese|<->|Portuguese cuisine
+Cooking, Puerto Rican|<->|Puerto Rican cuisine
+Cooking, Roman|<->|Ancient Roman cuisine
+Cooking, Romanian|<->|Romanian cuisine
+Cooking, Russian|<->|Russian cuisine
+Cooking, Rwandan|<->|Rwandan cuisine
+Cooking, Saint Lucian|<->|Saint Lucian cuisine
+Cooking, Salvadoran|<->|Salvadoran cuisine
+Cooking, Sami|<->|Sami cuisine
+Cooking, Saudi Arabian|<->|Saudi Arabian cuisine
+Cooking, Saxon|<->|Saxon cuisine
+Cooking, Scottish|<->|Scottish cuisine
+Cooking, Serbian|<->|Serbian cuisine
+Cooking, Seychellois|<->|Cuisine of Seychelles
+Cooking, Sierra Leonean|<->|Sierra Leonean cuisine
+Cooking, Silesian|<->|Silesian cuisine
+Cooking, Sindhi|<->|Sindhi cuisine
+Cooking, Singaporean|<->|Singaporean cuisine
+Cooking, Slovak|<->|Slovak cuisine
+Cooking, Slovenian|<->|Slovenian cuisine
+Cooking, Somali|<->|Somali cuisine
+Cooking, South African|<->|South African cuisine
+Cooking, Spanish|<->|Spanish cuisine
+Cooking, Spanish -- Andalusian style|<->|Andalusian cuisine
+Cooking, Spanish -- Aragonese style|<->|Aragonese cuisine
+Cooking, Spanish -- Asturian style|<->|Asturian cuisine
+Cooking, Spanish -- Catalonian style|<->|Catalan cuisine
+Cooking, Spanish -- Extremaduran style|<->|Extremaduran cuisine
+Cooking, Spanish -- Galician style|<->|Galician cuisine
+Cooking, Sri Lankan|<->|Sri Lankan cuisine
+Cooking, Sudanese|<->|Sudanese cuisine
 Cooking, Swedish|<->|Swedish cuisine
+Cooking, Swiss|<->|Swiss cuisine
+Cooking, Syrian|<->|Syrian cuisine
+Cooking, Tajik|<->|Tajik cuisine
+Cooking, Tamil|<->|Tamil cuisine
+Cooking, Tanzanian -- Zanzibari style|<->|Zanzibari cuisine
+Cooking, Tatar|<->|Tatar cuisine
+Cooking -- Texas|<->|Texan cuisine
+Cooking, Thai|<->|Thai cuisine
+Cooking, Tibetan|<->|Tibetan cuisine
+Cooking, Togolese|<->|Togolese cuisine
+Cooking, Trinidadian|<->|Trinidad and Tobago cuisine
+Cooking, Tunisian|<->|Tunisian cuisine
+Cooking, Turkish|<->|Turkish cuisine
+Cooking, Turkmen|<->|Turkmen cuisine
+Cooking, Udmurt|<->|Udmurt cuisine
+Cooking, Ugandan|<->|Ugandan cuisine
+Cooking, Uighur|<->|Xinjiang cuisine
+Cooking, Ukrainian|<->|Ukrainian cuisine
+Cooking -- United States|->|Cuisine of the United States
+Cooking, Uruguayan|<->|Uruguayan cuisine
+Cooking, Uzbek|<->|Uzbek cuisine
+Cooking, Venezuelan|<->|Venezuelan cuisine
+Cooking, Vietnamese|<->|Vietnamese cuisine
+Cooking, Welsh|<->|Welsh cuisine
+Cooking, West African|<->|West African cuisine
+Cooking, Yemeni|<->|Yemeni cuisine
+Cooking, Yugoslav|<->|Yugoslavian cuisine
 Cool Spring, Battle of, Va., 1864|=|Battle of Cool Spring
 Coombs' test|=|Coombs test
 Cooperative societies|=|Cooperative
@@ -3497,6 +3740,7 @@ Copper Miners' Strike, Mich., 1913-1914|=|Copper Country strike of 1913–1914
 Copper Miners' Strike, Zambia, 1935|=|Copperbelt strike of 1935
 Coptic Church|=|Coptic Orthodox Church of Alexandria
 Copyists|=|Copyist
+Copyright -- Afghanistan|<->|Afghanistan and copyright issues
 Copyright -- Canada|<->|Copyright law of Canada
 Copyright -- Duration|<->|Copyright term
 Copyright -- Great Britain|<->|Copyright law of the United Kingdom
@@ -3890,6 +4134,7 @@ Davis Mountains (Tex.)|=|Davis Mountains
 Day|<->|Daytime
 Day fines|=|Day-fine
 Dayak (Indonesian people)|=|Dayak people
+D&amacr;ykund&imacr; (Afghanistan : Province)|=|Daykundi Province
 Daylight saving|=|Daylight saving time
 Dayr al-Qamar (Lebanon)|=|Deir al-Qamar
 Days|=|Day
@@ -4978,6 +5223,7 @@ Fantasy football (Game)|<->|Fantasy football
 Fantasy games|<->|Role-playing game
 Fantasy hockey (Game)|=|Fantasy hockey
 Fant&ocirc;mas (Fictitious character)|=|Fantômas
+Far&amacr;h (Afghanistan : Province)|=|Farah Province
 Farm equipment|->|Agricultural machinery
 Farm management|->|Agricultural science
 Farmer-Labor Party|=|Farmer–Labor Party (United States)
@@ -4987,6 +5233,7 @@ Farmhouses|=|Farmhouse
 Farmington Mine Disaster, Farmington, W. Va., 1968|=|Farmington Mine disaster
 Farms|=|Farm
 Faruqi dynasty, 1382-1601|=|Faruqi dynasty
+F&amacr;ry&amacr;b (Afghanistan)|=|Faryab Province
 Fascists|->|Fascism
 Fashoda Crisis, 1898|<->|Fashoda Incident
 Fasteners|=|Fastener
@@ -5751,9 +5998,12 @@ Gettysburg Reunion, 1913|=|1913 Gettysburg reunion
 Gettysburg Reunion, 1938|=|1938 Gettysburg reunion
 Ghana -- Politics and government|<->|Politics of Ghana
 Ghana -- Politics and government|<-|Government of Ghana
+Ghazn&imacr; (Afghanistan)|=|Ghazni
+Ghazn&imacr; (Afghanistan : Province)|=|Ghazni Province
 Ghosts|=|Ghost
 Ghost stories|=|Ghost story
 Ghote, Ganesh (Fictitious character)|=|Inspector Ghote
+Ghowr (Afghanistan)|=|Ghor Province
 Giant African snail|<->|Giant African land snail
 Giant Mine (Yellowknife, N.W.T.)|=|Giant Mine
 Giant sequoia|=|Sequoiadendron giganteum
@@ -6159,6 +6409,7 @@ Gulliver, Lemuel (Fictitious character)|=|Lemuel Gulliver
 Gulls|=|Gull
 Gulu District (Uganda)|=|Gulu District
 Gulu (Uganda)|=|Gulu
+Gumal River (Afghanistan and Pakistan)|=|Gomal River
 Gumby (Fictitious character)|<->|Gumby
 Gun control -- United States|<->|Gun politics in the United States
 Gun War, 1880-1881|=|Basuto Gun War
@@ -6383,6 +6634,8 @@ Hell -- Christianity|<->|Christian views on hell
 Hello Kitty (Fictitious character)|=|Hello Kitty
 Hells Canyon National Recreation Area (Agency : U.S.)|->|Hells Canyon National Recreation Area
 Hells Canyon National Recreation Area (Or. and Idaho)|=|Hells Canyon National Recreation Area
+Helmand (Afghanistan)|=|Helmand Province
+Helmand River (Afghanistan)|=|Helmand River
 Helsingborg (Sweden)|=|Helsingborg
 Helsingborg, Battle of, Helsingborg, Sweden, 1710|=|Battle of Helsingborg
 Helsingborgs kommun (Sweden)|=|Helsingborg Municipality
@@ -6397,6 +6650,8 @@ Hengyang, Battle of, Hengyang Shi, China, 1944|<->|Defense of Hengyang
 Henry Mountains (Utah)|=|Henry Mountains
 Henry Street Settlement (New York, N.Y.)|=|Henry Street Settlement
 Heracles (Greek mythological character)|=|Heracles
+Herat (Afghanistan)|=|Herat
+Her&amacr;t (Afghanistan : Province)|=|Herat Province
 Herbals|=|Herbal
 Herbaria|=|Herbarium
 Herbs|=|Herb
@@ -6463,6 +6718,7 @@ Hindi language|=|Hindi
 Hindu civilization|<->|Vedic period
 Hindu ethics|->|Ethics in religion
 Hindu gods|=|Hindu deities
+Hindu Kush Mountains (Afghanistan and Pakistan)|<->|Hindu Kush
 Hindus|=|Hindu
 Hinman, Mount (Wash.)|=|Mount Hinman
 Hinnies|=|Hinny
@@ -7018,6 +7274,7 @@ Induction (Logic)|=|Inductive reasoning
 Induction (Mathematics)|=|Mathematical induction
 Indulgences|=|Indulgence
 Indus civilization|=|Indus Valley Civilisation
+Indus River Delta (Pakistan)|=|Indus River Delta
 Industrial efficiency|->|Productivity
 Industrial hygiene|=|Occupational hygiene
 Industrial productivity|<->|Productivity
@@ -7374,6 +7631,7 @@ Jaffa (Tel Aviv, Israel)|=|Jaffa
 Jaipur (India)|=|Jaipur
 Jakarta (Indonesia)|=|Jakarta
 Jakarta (Indonesia) -- History|=|History of Jakarta
+Jal&amacr;l&amacr;b&amcr;d (Afghanistan)|=|Jalalabad
 Jalisco (Mexico)|=|Jalisco
 Jam|<->|Fruit preserves
 Jamaica -- History -- Insurrection, 1865|<->|Morant Bay rebellion
@@ -7626,6 +7884,7 @@ Joshua Tree National Park (Agency : U.S.)|->|Joshua Tree National Park
 Joshua Tree National Park (Calif.)|=|Joshua Tree National Park
 Journalistic ethics|<->|Journalism ethics and standards
 Journalists|=|Journalist
+Jowzj&amacr;n (Afghanistan)|=|Jowzjan Province
 Juane&ntilde;o Indians|=|Juaneño
 Judaism -- History -- Medieval and early modern period, 425-1789|<->|Jews in the Middle Ages
 Judaism -- History -- Post-exilic period, 586 B.C.-210 A.D.|<->|Second Temple Judaism
@@ -7667,6 +7926,9 @@ Juvenile delinquents|->|Juvenile delinquency
 Juvenile detention|->|Youth detention center
 Juvenile detention homes|=|Youth detention center
 Ka'ula (Hawaii)|=|Kaʻula
+Kabul (Afghanistan)|=|Kabul
+Kabul (Afghanistan : Province)|=|Kabul Province
+Kabul River (Afghanistan and Pakistan)|=|Kabul River
 Kachchh (India)|=|Kutch district
 Kachchh (Princely State)|=|Cutch State
 Kachin (Asian people)|<->|Kachin people
@@ -7700,6 +7962,7 @@ Kampala (Uganda)|=|Kampala
 Kanagawa-ken (Japan)|=|Kanagawa Prefecture
 Kanarese (Indic people)|<->|Kannada people
 Kandah&amacr;r (Afghanistan)|=|Kandahar
+Kandah&amacr;r (Afghanistan : Province)|=|Kandahar Province
 Kanizsa, Battle of, Nagykanizsa, Hungary, 1601|<->|Siege of Nagykanizsa
 K&amacr;npur (India)|=|Kanpur
 K&amacr;npur (India) -- History -- Siege, 1857|=|Siege of Cawnpore
@@ -7717,6 +7980,8 @@ Kantishna River (Alaska)|=|Kantishna River
 Kanto Earthquake, Japan, 1923|=|1923 Great Kantō earthquake
 Kanuri (African people)|=|Kanuri people
 Kao-hsiung (Taiwan)|=|Kaohsiung
+K&amacr;p&imacr;s&amacr; (Afghanistan)|=|Kapisa Province
+Kapisa (Extinct city)|<->|Ancient Kapisa
 Kapsin Incident, 1884|=|Gapsin Coup
 Kapyong, Battle of, Korea, 1951|=|Battle of Kapyong
 Karaites|=|Karaite Judaism
@@ -7812,6 +8077,7 @@ Khartoum (Sudan) -- History -- Siege, 1884-1885|=|Siege of Khartoum
 Khaybar, Battle of, Khaybar, Saudi Arabia, 628|=|Battle of Khaybar
 Khe Sanh, Battle of, Vietnam, 1968|=|Battle of Khe Sanh
 Khiva (Uzbekistan)|=|Khiva
+Khowst (Afghanistan)|=|Khost
 Khubar (Saudi Arabia)|=|Khobar
 Kickapoo Indians|=|Kickapoo people
 Kidneys|=|Kidney
@@ -7942,9 +8208,11 @@ Komaki Nagakute, Battle of, Japan, 1584|<->|Battle of Komaki and Nagakute
 Komandorski Islands, Battle of the, 1943|=|Battle of the Komandorski Islands
 Kom&aacute;rno (Z&aacute;padoslovensk&yacute; kraj, Slovakia)|=|Komárno
 Kom&aacute;rom (Hungary)|<->|Komárom
+Komi-Permyak dialect|=|Komi-Permyak language
 Kommunistische Partei Deutschlands|=|Communist Party of Germany
 K&#x014f;mundo Incident, Korea, 1885-1887|=|Port Hamilton incident
 Kon Tum (Vietnam)|=|Kon Tum
+Kondoz (Afghanistan : Province)|=|Kunduz Province
 K&ouml;niggr&auml;tz, Battle of, Sadov&aacute;, Czech Republic, 1866|=|Battle of Königgrätz
 K&ouml;nigsberg, Battle of, Kaliningrad, Kaliningradskai&#xfe20;a&#xfe21; oblast&#x02b9;, Russia, 1945|=|Battle of Königsberg
 Kongo (African people)|=|Kongo people
@@ -7959,6 +8227,7 @@ Kootenai language|=|Kutenai language
 Kootenai National Forest (Agency : U.S.)|->|Kootenai National Forest
 Kootenai National Forest (Mont. and Idaho)|=|Kootenai National Forest
 Kootenai River|=|Kootenay River
+Korangal Valley (Afghanistan)|=|Korangal Valley
 Korea -- History -- Allied occupation, 1945-1948|<->|United States Army Military Government in Korea
 Korea -- History -- Chejudo Rebellion, 1948|=|Jeju Uprising
 Korea -- History -- Chos&#x014f;n dynasty, 1392-1910|<->|Joseon
@@ -8046,6 +8315,9 @@ Kuiu Island (Alaska)|=|Kuiu Island
 Kuki (Indic people)|=|Kuki people
 Kulikovo, Battle of, Russia, 1380|=|Battle of Kulikovo
 Kulu (India)|=|Kullu
+Kunar (Afghanistan : Province)|=|Kunar Province
+Kunar River (Pakistan and Afghanistan)|=|Kunar River
+Kund&umacr;z (Afghanistan)|=|Kunduz
 Kunersdorf, Battle of, Kunowice, Poland, 1759|=|Battle of Kunersdorf
 Kung fu|<->|Chinese martial arts
 Kunlun Mountains (China and India)|<->|Kunlun Mountains
@@ -8125,6 +8397,7 @@ Ladysmith (South Africa) -- History -- Siege, 1899-1900|=|Siege of Ladysmith
 Lafayette Park (Washington, D.C.)|=|Lafayette Square, Washington, D.C.
 Lagarde, Battle of, Lagarde, Lorraine, France, 1940|=|Battle of Lagarde
 Lager beer|=|Lager
+Laghman&amacr;n (Afghanistan)|<->|Laghman Province
 Laika (Dog)|=|Laika
 Lake Champlain, Battle of, N.Y., 1609|<->|Iroquois War (1609)
 Lake Champlain, Battle of, N.Y., 1814|->|Battle of Plattsburgh
@@ -8672,6 +8945,7 @@ Lowell National Historical Park (Lowell, Mass.)|=|Lowell National Historical Par
 Lower Austria (Austria)|=|Lower Austria
 Lower East Side (New York, N.Y.)|=|Lower East Side
 Lower Saxony (Germany)|=|Lower Saxony
+Lowgar (Afghanistan)|=|Logar Province
 Loyalty oaths|=|Loyalty oath
 LSD (Drug)|=|Lysergic acid diethylamide
 Lua (Computer program language)|=|Lua (programming language)
@@ -8782,6 +9056,7 @@ Madrid (Spain)|=|Madrid
 Madrid (Spain) -- History|=|History of Madrid
 Madrid (Spain) -- History -- Siege, 1936-1939|=|Siege of Madrid
 Madrid Train Bombings, Madrid, Spain, 2004|=|2004 Madrid train bombings
+Madurese (Indonesian people)|=|Madurese people
 Mafia|<->|Mafia (disambiguation)
 Mafikeng (South Africa) -- History -- Siege, 1899-1900|=|Siege of Mafeking
 Magazine Mountain (Ark.)|=|Mount Magazine
@@ -9061,6 +9336,7 @@ Mashonaland Central Province (Zimbabwe)|=|Mashonaland Central Province
 Mashonaland East Province (Zimbabwe)|=|Mashonaland East Province
 Mashonaland West Province (Zimbabwe)|=|Mashonaland West Province
 Masjid al-Aq&#x1e63;&aacute; (Jerusalem)|=|Al-Aqsa Mosque
+Masjid-i Kab&umacr;d (Maz&amacr;r-i Shar&imacr;f, Afghanistan)|<->|Shrine of Ali
 Mason, Perry (Fictitious character)|=|Perry Mason
 Masques|=|Masque
 Mass|=|Mass (liturgy)
@@ -9128,6 +9404,7 @@ Mayo (Ireland : County)|=|County Mayo
 Mayo Indians|=|Mayo people
 Mayors|=|Mayor
 Mazama, Mount (Or.)|=|Mount Mazama
+Maz&amacr;r-i Shar&imacr;f (Afghanistan)|=|Mazar-i-Sharif
 Mazatzal Mountains (Ariz.)|=|Mazatzal Mountains
 Mazdakism|->|Mazdak
 Mazra&#x02bb;ah, Battle of, Mazra&#x02bb;ah, Suwayd&amacr;&#x02be; Province, Syria, 1925|<->|Battle of al-Mazraa
@@ -9306,6 +9583,7 @@ Metz (France) -- History -- Siege, 1870|=|Siege of Metz (1870)
 Metz, Battle of, Metz, France, 1944|=|Battle of Metz
 Meuse River|=|Meuse
 Mexican-American Border Region|->|Mexico–United States border
+Mexican American cooking|<->|Tex-Mex
 Mexican lime|=|Key lime
 Mexican states|=|States of Mexico
 Mexican War, 1846-1848|=|Mexican–American War
@@ -9848,6 +10126,7 @@ Murcia (Spain)|=|Murcia
 Murcia (Spain : Region)|<->|Region of Murcia
 Murderers|->|Murder
 Muret, Battle of, Muret, Haute-Garonne, France, 1213|=|Battle of Muret
+Murgab River (Afghanistan and Turkmenistan)|<->|Murghab River
 Murray River (N.S.W.-S. Aust.)|=|Murray River
 Musa Dagh, Defense of, Turkey, 1915|<->|Musa Dagh
 Musa Qala, Battle of, M&umacr;s&aacute; Qal&#x02bb;eh, Afghanistan, 2007|=|Battle of Musa Qala
@@ -9876,6 +10155,7 @@ Muslim converts|->|Religious conversion
 Muslim pilgrims and pilgrimages -- Saudi Arabia -- Mecca|<->|Hajj
 Muslim scholars|<->|List of modern-day Muslim scholars of Islam
 Muslims|=|Muslim
+Muslims -- Dietary laws|<->|Islamic dietary laws
 Musso, War of, 1531-1532|<->|Musso war
 Mussel Slough Tragedy, 1880|=|Mussel Slough Tragedy
 Mustang Mountains (Ariz.)|=|Mustang Mountains
@@ -9932,6 +10212,7 @@ Nanaimo (B.C.)|=|Nanaimo
 Nanawa, Battle of, Paraguay, 1933 (January 20-24)|=|First Battle of Nanawa
 Nanawa, Battle of, Paraguay, 1933 (July 4-6)|=|Second Battle of Nanawa
 Nancy, Battle of, Nancy, France, 1477|=|Battle of Nancy
+Nangarh&amacr;r (Afghanistan)|<->|Nangarhar Province
 Nanjing (Jiangsu Sheng, China)|=|Nanjing
 Nanjing, Battle of Nanjing, Jiangsu Sheng, China, 1937|=|Battle of Nanking
 Nanking Massacre, Nanjing, Jiangsu Sheng, China, 1937|=|Nanking Massacre
@@ -10331,6 +10612,7 @@ Nile, Battle of the, Egypt, 1798|=|Battle of the Nile
 Nile River|=|Nile
 Nile River Valley|->|Nile
 Nilgiri Hills (India)|=|Nilgiri mountains
+N&imacr;mr&umacr;z (Afghanistan)|=|Nimruz Province
 Ninepipe National Wildlife Refuge (Mont.)|=|Ninepipe National Wildlife Refuge
 Nineteen eighties|=|1980s
 Nineteen fifties|=|1950s
@@ -10532,6 +10814,7 @@ Nuremberg (Germany) -- History -- Siege, 1632|=|Siege of Nuremberg
 Nuremberg Medical Trial, Nuremberg, Germany, 1946-1947|<->|Doctors' trial
 Nuremberg Trial of Major German War Criminals, Nuremberg, Germany, 1945-1946|=|Nuremberg trials
 Nuremberg War Crime Trials, Nuremberg, Germany, 1946-1949|=|Subsequent Nuremberg trials
+N&umacr;ist&amacr;n (Afghanistan : Province)|=|Nuristan Province
 Nurse practitioners|=|Nurse practitioner
 Nursery rhymes|=|Nursery rhyme
 Nursery schools|<->|Preschool
@@ -11102,6 +11385,8 @@ Pakistan Earthquake, 2005|=|2005 Kashmir earthquake
 Pakistan Earthquake, 2008|=|2008 Pakistan earthquake
 Pakos&lstrok;aw, Battle of, Pakos&lstrok;aw, Radom, Poland, 1915|=|Battle of Pakosław
 P&aacute;kozd, Battle of, Hungary, 1848|=|Battle of Pákozd
+Pakt&imacr;&amacr; (Afghanistan)|=|Paktia Province
+Pakt&imacr;k&amacr; (Afghanistan)|=|Paktika Province
 Palace Hotel (San Francisco, Calif.)|=|Palace Hotel, San Francisco
 Palace of Diocletian (Split, Croatia)|=|Diocletian's Palace
 Palace of Holyroodhouse (Edinburgh, Scotland)|=|Holyrood Palace
@@ -11180,6 +11465,8 @@ Panipat, Battle of, P&amacr;n&imacr;pat, India, 1526|=|First Battle of Panipat
 Panipat, Battle of, P&amacr;n&imacr;pat, India, 1556|=|Second Battle of Panipat
 Panipat, Battle of, P&amacr;n&imacr;pat, India, 1761|=|Third Battle of Panipat
 Panjabis (South Asian people)|=|Punjabis
+Panjshir (Afghanistan)|=|Panjshir River
+Panjshir (Afghanistan : Province)|=|Panjshir Province
 Panola Mountain (Ga.)|=|Panola Mountain
 Pansies|=|Pansy
 Pantano de Vargas, Battle of, Colombia, 1819|=|Vargas Swamp Battle
@@ -11260,6 +11547,7 @@ Partido Guatemalteco del Trabajo|=|Guatemalan Party of Labour
 Partido Obrero de Unificaci&oacute;n Marxista|=|POUM
 Parties|<->|Party
 Parts of speech|=|Part of speech
+Parv&amacr; (Afghanistan)|=|Parwan Province
 Pasiphae (Greek mythology)|=|Pasiphaë
 Passamaquoddy Indians|=|Passamaquoddy
 Passing (Identity)|<->|Passing (sociology)
@@ -12960,6 +13248,7 @@ Salvation outside the Catholic Church|<->|Extra Ecclesiam nulla salus
 Salvationists|->|The Salvation Army
 Salzburg (Austria)|=|Salzburg
 Salzburg (Austria : Land)|=|Salzburg (state)
+Samang&amacr;n (Afghanistan : Province)|=|Samangan Province
 Samma dynasty, ca. 1350-ca. 1520|=|Samma dynasty
 Samoa -- Religion|=|Religion in Samoa
 Sampoong Department Store Collapse, Seoul, Korea, 1995|=|Sampoong Department Store collapse
@@ -13111,6 +13400,8 @@ Sapir-Whorf hypothesis|<->|Linguistic relativity
 Sapphire Mountains (Mont.)|=|Sapphire Mountains
 Sapphires|=|Sapphire
 Sapporo-shi (Japan)|=|Sapporo
+Sar-e Pol (Afghanistan)|=|Sar-e Pol city
+Sar-e Pol (Afghanistan : Province)|=|Sar-e Pol Province
 Sarajevo (Bosnia and Hercegovina)|=|Sarajevo
 Sarajevo (Bosnia and Hercegovina) -- History|=|History of Sarajevo
 Sarajevo (Bosnia and Hercegovina) -- History -- Siege, 1992-1996|=|Siege of Sarajevo
@@ -13489,6 +13780,7 @@ Sherpa (Nepalese people)|=|Sherpa people
 Sherwood Forest (England)|=|Sherwood Forest
 Shetland (Scotland)|=|Shetland
 Sh&imacr;&#x02bb;ah|=|Shia Islam
+Shibarghan (Afghanistan)|=|Sheberghan
 Shift systems|<->|Shift work
 Shiites|->|Shia Islam
 Shiloh, Battle of, Tenn., 1862|=|Battle of Shiloh
@@ -14511,6 +14803,7 @@ Taiwan -- Relations -- China|->|Cross-Strait relations
 Tajikistan -- History -- Civil War, 1992-1994|<->|Tajikistani Civil War
 Tajikistan -- Politics and government|<->|Politics of Tajikistan
 Takatsuki-shi (Japan)|=|Takatsuki, Osaka
+Takh&amacr;r (Afghanistan)|=|Takhar Province
 Taku Forts (China)|=|Taku Forts
 Taku Forts (China) -- Bombardment, 1900|<->|Battle of Dagu Forts (1900)
 Taku Glacier (Alaska)|=|Taku Glacier
@@ -14636,6 +14929,7 @@ Teletype|->|Teleprinter
 Teletypewriters|<->|Teleprinter
 Television broadcasting|->|Broadcasting
 Television commercials|=|Television advertisement
+Television cooking shows|<->|Cooking show
 Television programs|=|Television program
 Television remakes|->|Remake
 Telugu (Indic people)|=|Telugu people
@@ -15225,6 +15519,8 @@ Uinta National Forest (Agency : U.S.)|->|Uinta National Forest
 Uinta National Forest (Utah)|=|Uinta National Forest
 Uinta-Wasatch-Cache National Forest|=|Wasatch-Cache National Forest
 Ukiyoe|=|Ukiyo-e
+Ukraine -- History -- Euromaidan Protests, 2013-2014|<->|Euromaidan
+Ukraine -- History -- Euromaidan Protests, 2013-2014|<-|2014 Ukrainian revolution
 Ukraine -- History -- Famine, 1932-1933|<->|Holodomor
 Ukraine -- History -- German occupation, 1941-1944|<->|Reichskommissariat Ukraine
 Ukraine -- History -- Independence proclamation, 1918 (January 22)|<->|Act Zluky
@@ -15612,6 +15908,7 @@ Uruguaiana (Rio Grande do Sul, Brazil)|=|Uruguaiana
 Uruguaiana, Battle of, Uruguaiana, Rio Grande do Sul, Brazil, 1865|<->|Siege of Uruguaiana
 Uruguay -- History -- Coup d'&eacute;tat, 1973|=|1973 Uruguayan coup d'état
 Uruguay -- Politics and government|<->|Politics of Uruguay
+Uruzg&amacr;n (Afghanistan)|=|Urozgan Province
 U.S. Army Medical Research Institute of Infectious Diseases|=|United States Army Medical Research Institute of Infectious Diseases
 U.S. Atomic Energy Commission|=|United States Atomic Energy Commission
 U.S. Citizenship and Immigration Services|=|United States Citizenship and Immigration Services
@@ -15703,6 +16000,7 @@ Vancouver Island (B.C.)|=|Vancouver Island
 Vane, Harriet (Fictitious character)|=|Harriet Vane
 V&auml;nern (Sweden)|=|Vänern
 Vapor density|=|Vapour density
+Vardak (Afghanistan)|<->|Maidan Wardak Province
 Variable stars|=|Variable star
 Variation (Biology)|<->|Variation
 Variations|<->|Variation (music)
@@ -16742,6 +17040,8 @@ Yushu Earthquake, China, 2010|=|2010 Yushu earthquake
 Ywain (Legendary character)|=|Ywain
 Z (Computer program language)|=|Z notation
 Z transformation|=|Z-transform
+Z&amacr;bul (Afghanistan)|=|Zabul Province
+Z&amacr;bul (Iran)|=|Zabol
 Zabern Affair, 1913|=|Saverne Affair
 Zacatecas (Mexico : State)|=|Zacatecas
 Zacatecas (Zacatecas, Mexico)|=|Zacatecas City
