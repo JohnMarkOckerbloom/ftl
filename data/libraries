@@ -5847,6 +5847,14 @@ STATE PA
 CATTYPE vufindgeneral
 BASEURL https://library.villanova.edu/Find/Combined/Results
 
+ID OCLC-PRPRU
+NAME Universidad de Puerto Rico
+LOCATION San Juan and other campuses
+STATE PR
+CATTYPE ipac20
+BASEURL http://uprhip.upr.edu:85
+SINDEX .SW
+
 # Brown now has a custom search; not clear if you can limit to fields
 ID OCLC-RBN
 NAME Brown University Library
@@ -6679,6 +6687,13 @@ STATE VA
 CATTYPE summon
 BASEURL http://wlu.summon.serialssolutions.com
 
+ID OCLC-VZD
+NAME University of the Virgin Islands
+LOCATION St. Thomas and St. Croix
+STATE VI
+CATTYPE sirsient-old
+BASEURL http://uvi.ent.sirsi.net
+
 ID OCLC-BNT
 NAME Bennington College
 LOCATION Bennington
@@ -6956,6 +6971,14 @@ STATE WA
 BASEURL http://catalog.yvl.org/polaris
 CATTYPE polaris
 
+ID OCLC-WBL
+NAME Bluefield State College, Wendell G. Hardway Library
+LOCATION Bluefield
+STATE WV
+BASEURL http://catalog1.mln.lib.wv.us
+CATTYPE iii-consortium-member
+LCODE 6
+
 ID OCLC-9WV
 NAME Kanawha County Public Library
 LOCATION Charleston and vicinity
@@ -6977,6 +7000,14 @@ STATE WV
 BASEURL http://aca.iii.com/
 CATTYPE iii-consortium-member
 LCODE 60
+
+ID OCLC-WV8
+NAME West Virginia State University
+LOCATION Institute
+STATE WV 
+BASEURL http://library.wvstateu.edu:8080
+CATTYPE chamo
+FILTERS S
 
 ID OCLC-WVU
 NAME West Virginia University
