@@ -139,6 +139,14 @@ TITURL ${BASEURL}/search/query?field_1=t&term_1=${ARG}
 ATIURL ${BASEURL}/search/query?field_1=a&term_1=${AUTHOR}&field_2=t&term_2=${TITLE}
 KEYURL ${BASEURL}/search/query?term_1=${ARG}
 
+# Destiny sites hosted by Follett need a CONTEXT argument
+# non-hosted sites might use different syntax; see Springshare guide
+CATTYPE destinyhosted
+SUBURL ${BASEURL}/cataloging/servlet/handlebasicsearchform.do?searchType=subject&redisplay=false&includeLibrary=true&siteTypeID=-2&keywordText=${ARG}&site=${LCODE}&context=${CONTEXT}&redisplay=false
+AUTURL ${BASEURL}/cataloging/servlet/handlebasicsearchform.do?searchType=author&redisplay=false&includeLibrary=true&siteTypeID=-2&keywordText=${ARG}&site=${LCODE}&context=${CONTEXT}&redisplay=false
+TITURL ${BASEURL}/cataloging/servlet/handlebasicsearchform.do?searchType=title&redisplay=false&includeLibrary=true&siteTypeID=-2&keywordText=${ARG}&site=${LCODE}&context=${CONTEXT}&redisplay=false
+KEYURL ${BASEURL}/cataloging/servlet/handlebasicsearchform.do?searchType=keyword&redisplay=false&includeLibrary=true&siteTypeID=-2&keywordText=${ARG}&site=${LCODE}&context=${CONTEXT}&redisplay=false
+
 # this doesn't seem to work on the ILS I tried it on
 CATTYPE dra
 KEYURL ${BASEURL}/tramp2.exe/do_keyword_search/guest&query={${ARG}}

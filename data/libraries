@@ -3421,12 +3421,28 @@ CATTYPE sirsient
 LCODE crpl
 BASEURL http://crpl.ent.sirsi.net
 
+ID OCLC-IWB
+NAME Council Bluffs Public Library
+LOCATION Council Bluffs
+STATE IA
+BASEURL http://encore.cbpl.lib.ia.us/iii/encore
+CATTYPE encore
+
 ID OCLC-IOS
 NAME Davenport Public Library
 LOCATION Davenport
 STATE IA
 BASEURL http://rivershare.polarislibrary.com
 CATTYPE polaris
+
+ID OCLC-LD-SHARP
+NAME Drake Public Library
+LOCATION Centerville
+STATE IA
+CATTYPE destinyhosted
+BASEURL https://drakelibrary.follettdestiny.com
+LCODE 100
+CONTEXT saas05_1401642
 
 ID OCLC-IWA
 NAME Iowa State University
@@ -3479,6 +3495,14 @@ LOCATION Cedar Falls
 STATE IA
 CATTYPE eds
 LCODE s8904665
+
+ID OCLC-IWV
+NAME Waterloo Public Library
+LOCATION Waterloo
+STATE IA
+CATTYPE iii-consortium-member
+BASEURL http://unistar.uni.edu
+LCODE 7
 
 ID OCLC-IMF
 NAME Allen County Public Library
