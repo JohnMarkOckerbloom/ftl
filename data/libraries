@@ -330,6 +330,13 @@ PROVINCE AB
 CATTYPE bibliocommons
 BASEURL http://epl.bibliocommons.com
 
+ID OCLC-CNLET
+NAME Lethbridge Public Library
+LOCATION Lethbridge
+PROVINCE AB
+CATTYPE bibliocommons
+BASEURL http://lethlib.bibliocommons.com
+
 ID CA-AMP
 NAME Medicine Hat Public Library
 LOCATION Medicine Hat
@@ -371,6 +378,14 @@ LOCATION Lethbridge
 PROVINCE AB
 CATTYPE summon
 BASEURL http://uleth.summon.serialssolutions.com
+
+ID OCLC-CN5O8
+NAME Wood Buffalo Regional Library
+LOCATION Fort McMurray
+PROVINCE AB
+BASEURL http://hip.wbrl.ca:8080
+CATTYPE ipac20
+PROFILE main
 
 ID OCLC-BURPL
 NAME Burnaby Public Library
@@ -831,6 +846,14 @@ LOCATION Public libraries across the province
 PROVINCE PE
 CATTYPE sirsi
 BASEURL http://24.224.240.218/uhtbin/cgisirsi.exe
+
+# Looks like they have a custom "everything" search, keyword-only
+ID OCLC-B2Q
+NAME Biblioth&egrave;que et Archives Nationales du Qu&eacute;bec
+LOCATION Montreal and other facilities
+PROVINCE PQ
+BASEURL http://www.banq.qc.ca/techno/recherche/rms.html
+KEYURL ${BASEURL}?keyword=${ARG}&Recherche=tout&fonction=chercher&afficherPortail=checked&afficherIris=checked&afficherPistard=checked&afficherColNum=checked
 
 # no overall ID found; arbitarily picking Outremont branch's code
 ID CA-QMBO
