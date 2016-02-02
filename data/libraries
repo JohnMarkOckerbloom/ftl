@@ -6551,6 +6551,13 @@ CATTYPE sirsient
 LCODE pl
 BASEURL http://provo.ent.sirsi.net
 
+ID OCLC-UTT
+NAME Salt Lake Community College
+LOCATION Salt Lake City and vicinity
+STATE UT
+CATTYPE sirsi
+BASEURL http://libcat.slcc.edu/uhtbin/cgisirsi
+
 ID OCLC-UUM
 NAME University of Utah
 LOCATION Salt Lake City
@@ -6562,12 +6569,26 @@ LCODE UUU
 LOC adaptor,scope:(uu),primo_central_multiple_fe
 DEFAULT http://www.lib.utah.edu/
 
+ID OCLC-UUS
+NAME Utah State University
+LOCATION Logan and other campuses
+STATE UT
+CATTYPE encore
+BASEURL http://discover.lib.usu.edu/iii/encore
+
 ID OCLC-UV-DOLLAR
 NAME Utah Valley University
 LOCATION Orem
 STATE UT
 CATTYPE eds
 LCODE s9010408
+
+ID OCLC-UWB
+NAME Washington County Library System
+LOCATION St. George and vicinity
+STATE UT
+CATTYPE sirsient
+BASEURL http://folio.washco.utah.gov
 
 ID OCLC-UTW
 NAME Weber County Library
