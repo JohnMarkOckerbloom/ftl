@@ -2718,6 +2718,13 @@ STATE DE
 BASEURL http://delcat.worldcat.org/search
 CATTYPE worldcat
 
+ID OCLC-WMG
+NAME Wilmington University Library
+LOCATION New Castle
+STATE DE
+BASEURL http://wilmu.worldcat.org/search
+CATTYPE worldcat
+
 ID OCLC-EAU
 NAME American University
 LOCATION Washington
@@ -3893,6 +3900,13 @@ STATE MD
 CATTYPE sirsient
 BASEURL http://ceco.ent.sirsi.net
 
+ID OCLC-CHESA
+NAME Chesapeake College
+LOCATION Wye Mills and Cambridge
+STATE MD
+CATTYPE eds
+LCODE s8994322
+
 ID OCLC-MDB
 NAME Enoch Pratt Free Library
 LOCATION Baltimore
@@ -3900,6 +3914,14 @@ STATE MD
 BASEURL http://catalog.prattlibrary.org
 CATTYPE sirsient
 LCODE en_US/default
+
+ID OCLC-FZL
+NAME Frederick County Public Libraries
+LOCATION Frederick and vicinity
+STATE MD
+CATTYPE sirsient
+LCODE en_US/default
+BASEURL https://fcpl.ent.sirsi.net
 
 ID OCLC-HRF
 NAME Harford County Public Library
