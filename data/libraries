@@ -4911,6 +4911,13 @@ STATE NY
 BASEURL http://catalog.flls.org/polaris
 CATTYPE polaris
 
+ID OCLC-VDP
+NAME Finkelstein Memorial Library
+LOCATION Spring Valley
+STATE NY
+BASEURL http://millennium.finkelsteinlibrary.org
+CATTYPE innopac
+
 ID OCLC-VYF
 NAME Fordham University
 LOCATION New York
@@ -4946,6 +4953,13 @@ STATE NY
 CATTYPE iii-consortium-member
 BASEURL http://midhudsonlibraries.org
 LCODE 1
+
+ID MIDYORK
+NAME Mid York Library System
+LOCATION Herkimer, Madison, and Oneida Counties
+STATE NY
+CATTYPE sirsient
+BASEURL http://myls.ent.sirsi.net
 
 # ID is for Mohawk system
 ID OCLC-VML
@@ -5041,6 +5055,14 @@ LOCATION Rochester
 STATE NY
 CATTYPE summon
 BASEURL http://rit.summon.serialssolutions.com
+
+ID OCLC-ZSA
+NAME Southern Tier Library System
+LOCATION Allegany, Chemung, Schuyler, Steuben and Yates Counties
+STATE NY
+CATTYPE sirsient
+BASEURL http://enterprise.stls.org
+LCODE en_US/default
 
 ID OCLC-VZF
 NAME St. Francis College
