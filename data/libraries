@@ -3291,6 +3291,13 @@ STATE IL
 BASEURL http://chipublib.bibliocommons.com
 CATTYPE bibliocommons
 
+ID OCLC-IAA
+NAME Chicago State University
+LOCATION Chicago
+STATE IL
+BASEURL https://i-share.carli.illinois.edu/csu/cgi-bin/Pwebrecon.cgi
+CATTYPE voyager
+
 ID OCLC-CODUP
 NAME College of DuPage
 LOCATION Glen Ellyn
@@ -3421,12 +3428,27 @@ STATE IL
 BASEURL http://www.pritzkermilitary.org/explore/library/online-catalog
 KEYURL ${BASEURL}/search#q=${ARG}
 
+ID OCLC-IHG
+NAME Skokie Public Library
+LOCATION Skokie
+STATE IL
+BASEURL http://encore.skokielibrary.info/iii/encore
+CATTYPE encore
+
 ID OCLCC-GP4
 NAME Waukegan Public Library
 LOCATION Waukegan
 STATE IL
 BASEURL http://catalog.waukeganpl.org
 CATTYPE innopac
+
+# ID is for Malpass library, though the search is for all WIU libraries
+ID OCLC-IAZ
+NAME Western Illinois University
+LOCATION Macomb and Quad Cities
+STATE IL
+BASEURL https://i-share.carli.illinois.edu/wiu/cgi-bin/Pwebrecon.cgi
+CATTYPE voyager
 
 ID OCLC-B3D
 NAME Bondurant Community Library
