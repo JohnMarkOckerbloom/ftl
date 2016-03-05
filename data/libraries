@@ -5739,12 +5739,27 @@ CATTYPE aquabrowser
 BASEURL http://catalog.berks.lib.pa.us
 SINDEX subject
 
+ID OCLC-DPB
+NAME Bucks County Library System
+LOCATION Public libraries in Bucks County
+STATE PA
+BASEURL http://unicorn.buckslib.org/uhtbin/cgisirsi
+CATTYPE sirsi
+
 ID OCLC-PMC
 NAME Carnegie Mellon University
 LOCATION Pittsburgh
 STATE PA
 CATTYPE vufind
 BASEURL http://vufind.library.cmu.edu/vufind
+
+# didn't find ID for CCLS as a whole; using West Chester as ID
+ID OCLC-PAWCP
+NAME Chester County Library System
+LOCATION Public libraries in Chester County
+STATE PA
+BASEURL http://catalog.ccls.org
+CATTYPE innopac
 
 ID OCLC-PCH
 NAME Cheyney University Library
@@ -5775,6 +5790,13 @@ STATE PA
 CATTYPE encore
 BASEURL http://dcls-mt.iii.com/iii/encore
 
+ID OCLC-DEL
+NAME Delaware County Library System
+LOCATION Public libraries in Delaware County
+STATE PA
+BASEURL http://charlotte.delco.lib.pa.us
+CATTYPE innopac
+
 ID OCLC-DXU
 NAME Drexel University Libraries
 LOCATION Philadelphia
@@ -5795,6 +5817,13 @@ LOCATION Beaver Falls
 STATE PA
 BASEURL http://pilot.passhe.edu:8007/cgi-bin/Pwebrecon.cgi
 CATTYPE voyager
+
+ID OCLC-QQR
+NAME Historical Society of Pennsylvania
+LOCATION Philadelphia
+STATE PA
+CATTYPE vufind
+BASEURL http://discover.hsp.org
 
 ID OCLC-HFC
 NAME Holy Family University
