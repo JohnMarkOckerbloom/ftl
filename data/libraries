@@ -3348,6 +3348,14 @@ STATE IL
 CATTYPE eds
 LCODE joliet
 
+ID OCLC-ON8
+NAME Joliet Public Library, Main Library
+LOCATION Joliet
+STATE IL
+CATTYPE polaris-context
+BASEURL http://pinnacle.polarislibrary.com/polaris
+CONTEXT 6.1033.0.0.6
+
 ID OCLC-ILM
 NAME Lincoln Library
 LOCATION Springfield
@@ -3420,6 +3428,14 @@ VID NULV
 LCODE NULV
 LOC adaptor,scope:(Wton+),scope:(Primo+Central),scope:(NUL),scope:(libguides),scope:(Afri_Poster),scope:(NINT),scope:(EAD),primo_central_multiple_fe
 DEFAULT DOMAIN
+
+ID OCLC-OY4
+NAME Plainfield Public Library District
+LOCATION Plainfield
+STATE IL
+CATTYPE polaris-context
+BASEURL http://pinnacle.polarislibrary.com/polaris
+CONTEXT 11.1033.0.0.6
 
 ID OCLC-ILPML
 NAME Pritzker Military Museum and Library

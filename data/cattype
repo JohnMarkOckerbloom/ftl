@@ -324,6 +324,13 @@ AUTURL ${BASEURL}/view.aspx?author=${ARG}
 TITURL ${BASEURL}/view.aspx?title=${ARG}
 KEYURL ${BASEURL}/view.aspx?keyword=${ARG}
 
+# Polaris with context; useful when 1 server handles multiple libraries
+CATTYPE polaris-context
+SUBURL ${BASEURL}/view.aspx?ctx=${CONTEXT}&subject=${ARG}
+AUTURL ${BASEURL}/view.aspx?ctx=${CONTEXT}&author=${ARG}
+TITURL ${BASEURL}/view.aspx?ctx=${CONTEXT}&title=${ARG}
+KEYURL ${BASEURL}/view.aspx?ctx=${CONTEXT}&keyword=${ARG}
+
 # Primo-syntax searches where we need to provide otherr args in baseurl
 CATTYPE primo-justquery
 SUBURL ${BASEURL}query=sub,contains,${ARG:NK}
