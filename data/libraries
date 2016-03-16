@@ -4252,6 +4252,28 @@ STATE MI
 BASEURL http://catalog.fpl.info
 CATTYPE polaris
 
+ID OCLC-EXR
+NAME Grand Rapids Public Library
+LOCATION Grand Rapids
+STATE MI
+BASEURL https://catalog.grpl.org/eg/opac
+CATTYPE evergreen-dynamic
+
+ID OCLC-EXG
+NAME Grand Valley State University
+LOCATION Allendale
+STATE MI
+CATTYPE summon
+BASEURL http://gvsu.summon.serialssolutions.com
+
+ID OCLC-EXZ
+NAME Kalamazoo Public Library
+LOCATION Kalamazoo
+STATE MI
+CATTYPE sirsient
+BASEURL http://kzpl.ent.sirsi.net
+LCODE en_US/KPL
+
 ID OCLC-LKR
 NAME Lakenet: Lakeland Library Cooperative
 LOCATION 70+ public libraries in West Michigan
@@ -4303,6 +4325,16 @@ LOCATION Ann Arbor
 STATE MI
 BASEURL http://mirlyn.lib.umich.edu
 CATTYPE vufindrc1
+
+ID OCLC-EXW
+NAME Western Michigan University
+LOCATION Kalamazoo
+STATE MI
+BASEURL http://primo-pmtna01.hosted.exlibrisgroup.com
+CATTYPE primodl-scope
+VID 01WMU
+LCODE 01WMU
+SCOPE EVERYTHING
 
 ID OCLC-DUD
 NAME Duluth Public Library

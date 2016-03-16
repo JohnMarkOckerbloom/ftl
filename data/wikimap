@@ -9,7 +9,7 @@
 #   or lexical analysis (such as many geographical locations)
 #   are not included in this file.
 # See docs file for documentation
-# Last updated 2016-03-15
+# Last updated 2016-03-16
 16th Street Baptist Church Bombing, Birmingham, Ala., 1963|=|16th Street Baptist Church bombing
 24 Heures du Mans (Automobile race)|=|24 Hours of Le Mans
 3-D films|=|3D film
@@ -2277,6 +2277,7 @@ Bunker Hill, Battle of, Boston, Mass., 1775|=|Battle of Bunker Hill
 Bunyan, Paul (Legendary character)|=|Paul Bunyan
 Bunyaviruses|=|Bunyaviridae
 Buraku people|<->|Burakumin
+Burden of proof|<-|Legal burden of proof
 Burgas (Bulgaria)|=|Burgas
 Burgenland (Austria)|=|Burgenland
 Burglar alarms|<->|Security alarm
@@ -3547,6 +3548,7 @@ Confederate States of America. Army|=|Confederate States Army
 Confederate States of America. Marine Corps|=|Confederate States Marine Corps
 Confederate States of America. Navy|=|Confederate States Navy
 Conf&eacute;d&eacute;ration g&eacute;n&eacute;rale du travail|=|General Confederation of Labour (France)
+Confidential communications|<->|Confidentiality
 Conflict diamonds|=|Blood diamond
 Conflict of generations|<->|Generation gap
 Conflict of interests|=|Conflict of interest
@@ -5308,7 +5310,11 @@ Everglades National Park (Agency : U.S.)|->|Everglades National Park
 Everglades National Park  (Fla.)|=|Everglades National Park
 Everts, Mount (Wyo.)|=|Mount Everts
 Evesham, Battle of, Evesham, England, 1265|=|Battle of Evesham
+Evidence, Circumstantial|=|Circumstantial evidence
+Evidence, Documentary|=|Documentary evidence
 Evidence, Expert|<->|Expert witness
+Evidence, Hearsay|<->|Hearsay
+Evidence, Hearsay -- United States|<->|Hearsay in United States law
 Evolutionary genetics|->|Modern evolutionary synthesis
 Evolution|<->|Evolution (term)
 Evolution (Biology)|=|Evolution
