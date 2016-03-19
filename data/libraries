@@ -4087,6 +4087,13 @@ BASEURL http://library.clamsnet.org/
 CATTYPE iii-consortium-member
 LCODE 1
 
+ID OCLC-HCD
+NAME College of the Holy Cross
+LOCATION Worcester
+STATE MA
+CATTYPE eds
+LCODE s8898500
+
 ID OCLC-FLF
 NAME Fenway Libraries Online
 LOCATION Museums and small colleges in Boston and vicinity
@@ -5002,6 +5009,13 @@ STATE NY
 CATTYPE ids
 LCODE VXV
 
+ID OCLC-VXI
+NAME Iona College
+LOCATION New Rochelle
+STATE NY
+BASEURL https://iona.on.worldcat.org/external-search?queryString
+CATTYPE worldcat-config
+
 ID OCLC-ZMC
 NAME Manhattan College
 LOCATION New York
@@ -5232,8 +5246,9 @@ ID OCLC-NJD
 NAME Appalachian State University, Belk Library
 LOCATION Boone
 STATE NC
-BASEURL http://appencore.wncln.org/iii/encore
-CATTYPE encore
+CATTYPE iii-consortium-member
+BASEURL http://wncln.wncln.org
+LCODE 2
 
 ID OCLC-BEN
 NAME Bennett College
@@ -5246,8 +5261,8 @@ ID OCLC-NPC
 NAME Charlotte Mecklenburg Library
 LOCATION Charlotte and vicinity
 STATE NC
-CATTYPE aquabrowser
-BASEURL http://catalog.cmlibrary.org
+CATTYPE bibliocommons
+BASEURL http://cmlibrary.bibliocommons.com
 
 ID OCLC-NNM
 NAME Davidson College
@@ -5315,6 +5330,14 @@ CATTYPE tlc
 LCODE rutherford
 BASEURL http://www.cmclibraries.org/
 
+ID OCLC-NIM
+NAME University of North Carolina (UNC) Asheville
+LOCATION Asheville
+STATE NC
+CATTYPE iii-consortium-member
+BASEURL http://wncln.wncln.org
+LCODE 3
+
 ID OCLC-NOC
 NAME University of North Carolina (UNC) Chapel Hill
 LOCATION Chapel Hill
@@ -5322,8 +5345,15 @@ STATE NC
 BASEURL http://library.unc.edu/find/combinedresults/
 CATTYPE endeca
 
+ID OCLC-NXW
+NAME University of North Carolina (UNC) Wilmington
+LOCATION Wilmington
+STATE NC
+BASEURL http://library.uncw.edu/search_randall
+KEYURL ${BASEURL}/${ARG:SNK}
+
 ID OCLC-1NG
-NAME University of North Carolina Greensboro
+NAME University of North Carolina (UNC) Greensboro
 LOCATION Greensboro
 STATE NC
 BASEURL http://uncg.worldcat.org/search
@@ -6210,6 +6240,13 @@ STATE TN
 CATTYPE atriuum
 BASEURL http://abcnash.booksys.net/opac/abcnash/index.html#search:
 
+ID OCLC-TPA
+NAME Austin Peay State University
+LOCATION Clarksville
+STATE TN
+BASEURL http://iiiserver.lib.apsu.edu
+CATTYPE innopac
+
 ID OCLC-TBC
 NAME Belmont University
 LOCATION Nashville
@@ -6739,6 +6776,13 @@ LOCATION Ogden and vicinity
 STATE UT
 CATTYPE encore
 BASEURL http://encore.weberpl.lib.ut.us/iii/encore
+
+ID OCLC-UUO
+NAME Weber State University, Stewart Library
+LOCATION Ogden
+STATE UT
+CATTYPE summon
+BASEURL http://weber.summon.serialssolutions.com
 
 ID OCLC-VAX
 NAME Alexandria Library
