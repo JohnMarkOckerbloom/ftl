@@ -2017,6 +2017,21 @@ STATE CA
 BASEURL http://find.lib.calpoly.edu/articles
 CATTYPE xerxes
 
+ID OCLC-CSH
+NAME California State University, East Bay
+LOCATION Hayward and Concord
+STATE CA
+BASEURL http://xerxes.calstate.edu/eastbay/combined
+CATTYPE xerxes
+FILTERS S
+
+ID OCLC-CFS
+NAME California State University, Fresno (Fresno State)
+LOCATION Fresno
+STATE CA
+BASEURL https://xerxes.calstate.edu/fresno/books
+CATTYPE xerxes
+
 ID OCLC-CNO
 NAME California State University, Northridge (CSUN)
 LOCATION Northridge
@@ -2103,6 +2118,14 @@ STATE CA
 BASEURL http://libcat.co.humboldt.ca.us
 CATTYPE iii-consortium-member
 LCODE 13
+
+ID OCLC-CHU
+NAME Humboldt State University
+LOCATION Arcata
+STATE CA
+BASEURL http://library.calstate.edu/humboldt/articles
+CATTYPE xerxes
+FILTERS S
 
 ID OCLC-KLC
 NAME Kern County Library
