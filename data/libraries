@@ -2943,6 +2943,13 @@ STATE FL
 BASEURL http://lcpl.sirsi.net/uhtbin/cgisirsi
 CATTYPE sirsi
 
+ID OCLC-FLJ
+NAME Marion County Public Library System
+LOCATION Ocala and vicinity
+STATE FL
+CATTYPE eds
+LCODE ns102466
+
 ID OCLC-FYM
 NAME Miami Dade College
 LOCATION Miami and other campuses
@@ -2960,6 +2967,13 @@ STATE FL
 BASEURL http://catalog.mdpls.org
 CATTYPE polaris
 
+ID OCLC-N-DOLLAR-S
+NAME Nassau County Public Library System
+LOCATION Nassau County
+STATE FL
+BASEURL http://sirsi.nassau.lib.fl.us/uhtbin/cgisirsi.exe
+CATTYPE sirsi
+
 ID OCLC-ORL
 NAME Orange County Library System
 LOCATION Orlando and vicinity
@@ -2974,6 +2988,13 @@ STATE FL
 CATTYPE sirsient
 LCODE en_US/pbcls
 BASEURL http://pbcls.ent.sirsi.net/
+
+ID OCLC-FLY
+NAME Pasco County Libraries
+LOCATION Pasco County
+STATE FL
+BASEURL http://pasco.bywatersolutions.com
+CATTYPE koha
 
 ID OCLC-FLX
 NAME Pinellas Automated Library System
@@ -3017,7 +3038,7 @@ ID OCLC-FLR
 NAME St. Lucie County Library System
 LOCATION St. Lucie County
 STATE FL
-BASEURL http://lib.co.st-lucie.fl.us/uhtbin/cgisirsi
+BASEURL http://stlu.sirsi.net/uhtbin/cgisirsi
 CATTYPE sirsi
 
 # Don't see an ID for this new system, so using ID for the main Live Oak lib
