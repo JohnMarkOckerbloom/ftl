@@ -4541,6 +4541,13 @@ BASEURL http://bridges.searchmobius.org/
 CATTYPE iii-consortium-member
 LCODE 3
 
+ID OCLC-MQY
+NAME Joplin Public Library
+LOCATION Joplin
+STATE MO
+BASEURL http://catalog.joplinpubliclibrary.org/polaris
+CATTYPE polaris
+
 ID OCLC-KCP
 NAME Kansas City Public Library
 LOCATION Kansas City
@@ -4548,6 +4555,24 @@ STATE MO
 CATTYPE sirsient
 BASEURL http://catalog.kclibrary.org
 LCODE kclibrary
+
+ID OCLC-LIU
+NAME Lincoln University
+LOCATION Jefferson City
+STATE MO
+BASEURL http://arthur.searchmobius.org/
+CATTYPE iii-consortium-member
+LCODE 1
+
+ID OCLC-LHL
+NAME Linda Hall Library
+LOCATION Kansas City
+STATE MO
+BASEURL http://primo.lindahall.hosted.exlibrisgroup.com
+CATTYPE primodl-loc
+VID LHL
+LCODE LHL
+LOC local,scope:(LHL)
 
 ID OCLC-CMI
 NAME Mid-Continent Public Library
