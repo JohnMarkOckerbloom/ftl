@@ -957,12 +957,34 @@ COUNTRY HK
 BASEURL http://encore.lib.cityu.edu.hk/iii/encore
 CATTYPE encore
 
+ID OCLC-DBX
+NAME Dublin Institute of Technology
+LOCATION Dublin
+COUNTRY IE
+BASEURL http://library.dit.ie
+CATTYPE webpacpro
+FILTERS N
+
 ID OCLC-T9E
 NAME Institute of Technology Tallaght
 LOCATION Dublin
 COUNTRY IE
 BASEURL http://0-ittdublin.summon.serialssolutions.com.millennium.it-tallaght.ie
 CATTYPE summon
+
+ID LIBRARIESIRELAND
+NAME Libraries Ireland
+LOCATION Shared catalog for Ireland public libraries
+COUNTRY IE
+BASEURL http://librariesireland.iii.com/iii/encore
+CATTYPE encore
+
+ID OCLC-N6I
+NAME National Library of Ireland
+LOCATION Dublin
+COUNTRY IE
+BASEURL http://catalogue.nli.ie
+CATTYPE vufind
 
 ID OCLC-ERD
 NAME Trinity College Dublin
