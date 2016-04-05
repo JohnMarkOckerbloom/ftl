@@ -1307,13 +1307,12 @@ LCODE APU
 SCOPE ALL
 DEFAULT http://libweb.anglia.ac.uk/
 
-# getting "our apologies" messages; overloaded or link problems?
-# ID OCLC-UKBLS
-# NAME Blackburn with Darwen Libraries
-# LOCATION Blackburn, Darwen, and vicinity, England
-# COUNTRY UK
-# BASEURL http://viewpoint.blackburn.gov.uk/
-# CATTYPE viewpoint
+ID OCLC-UKBLS
+NAME Blackburn with Darwen Libraries
+LOCATION Blackburn, Darwen, and vicinity, England
+COUNTRY UK
+CATTYPE spydus
+BASEURL https://bwdlibraries.spydus.co.uk
 
 ID OCLC-UKBHC
 NAME Brighton and Hove Libraries
@@ -1420,21 +1419,23 @@ NAME Edinburgh City Libraries
 LOCATION Edinburgh, Scotland
 COUNTRY UK
 CATTYPE prismhosted
-BASEURL http://prism.talis.com/edinburgh
+BASEURL http://capitadiscovery.co.uk/edinburgh
+FILTERS S
 
 ID OCLC-UKFIF
 NAME Fife Library Catalogue
 LOCATION Public libraries in Fife, Scotland
 COUNTRY UK
 CATTYPE prismhosted
-BASEURL http://prism.talis.com/fife
+BASEURL http://capitadiscovery.co.uk/fife
+FILTERS S
 
 ID OCLC-UKGCL
 NAME Glasgow Libraries
 LOCATION Glasgow, Scotland
 COUNTRY UK
-BASEURL http://libcat.csglasgow.org/
-CATTYPE viewpoint
+BASEURL http://libcat.csglasgow.org/web/arena
+CATTYPE arena
 
 ID OCLC-GSM
 NAME Goldsmiths, University of London
@@ -1448,8 +1449,10 @@ ID UK-NIBAL
 NAME Libraries NI
 LOCATION Public libraries in Northern Ireland
 COUNTRY UK
-BASEURL https://opac.librariesni.org.uk/
-CATTYPE viewpoint
+CATTYPE sirsient
+BASEURL http://lni.ent.sirsidynix.net.uk
+LCODE en_GB/default
+FILTERS S
 
 ID OCLC-UKGRP
 NAME LibrariesWest
@@ -1504,15 +1507,15 @@ ID OCLC-UKLTN
 NAME Luton Culture
 LOCATION Bedford Borough, Central Bedfordshire and Luton Libraries, England
 COUNTRY UK
-BASEURL https://vpoint.culturalservices.net/Bedford/
-CATTYPE viewpoint
+BASEURL https://arena.yourlondonlibrary.net/web/luton
+CATTYPE arena
 
 ID OCLC-UKMAN
 NAME Manchester city libraries
 LOCATION Manchester, England
 COUNTRY UK
-BASEURL https://librarycatalogue.manchester.gov.uk/
-CATTYPE viewpoint
+CATTYPE spydus
+BASEURL http://manchester.spydus.co.uk
 
 ID OCLC-NLW
 NAME National Library of Wales
@@ -1624,6 +1627,17 @@ LOCATION Leicester, England
 COUNTRY UK
 CATTYPE summon
 BASEURL http://le.summon.serialssolutions.com
+
+ID OCLC-EUM
+NAME University of Manchester
+LOCATION Manchester, England
+COUNTRY UK
+CATTYPE primodl-loc
+BASEURL http://man-fe.hosted.exlibrisgroup.com
+VID MU_VU1
+LCODE 44MAN
+LOC local,scope:(44MAN),primo_central_multiple_fe
+DEFAULT http://www.library.manchester.ac.uk/
 
 ID OCLC-EQO
 NAME University of Oxford
