@@ -1445,6 +1445,14 @@ BASEURL http://libra.gold.ac.uk
 CATTYPE aleph1
 TINDEX WTI
 
+ID OCLC-UKLMB
+NAME Lambeth Libraries
+LOCATION London Borough of Lambeth, England
+COUNTRY UK
+CATTYPE prismhosted
+BASEURL http://capitadiscovery.co.uk/lambeth
+FILTERS S
+
 ID UK-NIBAL
 NAME Libraries NI
 LOCATION Public libraries in Northern Ireland
@@ -1550,8 +1558,8 @@ ID OCLC-UKNFK
 NAME Norfolk Libraries
 LOCATION Norfolk County, England
 COUNTRY UK
-BASEURL http://norlink.norfolk.gov.uk/
-CATTYPE viewpoint
+CATTYPE spydus
+BASEURL https://norfolk.spydus.co.uk
 
 ID OCLC-UKBRW
 NAME Rochdale Libraries
@@ -1669,11 +1677,11 @@ ID OCLC-U9X
 NAME University of Sussex
 LOCATION Brighton, England
 COUNTRY UK
-CATTYPE primodl-scope
-BASEURL http://sus-primo.hosted.exlibrisgroup.com
-VID CJKVIEW
-LCODE SUSSEX
-SCOPE EVERYTHING
+CATTYPE primodl-loc
+BASEURL http://sussex-primo.hosted.exlibrisgroup.com
+VID 44SUS_VU1
+LCODE 44SUS
+LOC adaptor,scope:(44SUS_ALMA),scope:(44SUS_EPR_DS),primo_central_multiple_fe
 DEFAULT http://www.sussex.ac.uk/library/
 
 ID OCLC-UKUAL
