@@ -6615,7 +6615,7 @@ ID OCLC-M-DOLLAR-K
 NAME McKinney Public Library System
 LOCATION McKinney
 STATE TX
-BASEURL http://ipac.mckinneytexas.org/Polaris
+BASEURL http://ipac.mckinneytexas.org/polaris
 CATTYPE polaris
 
 ID OCLC-QS2
@@ -6668,10 +6668,8 @@ ID OCLC-QT4
 NAME Round Rock Public Library
 LOCATION Round Rock
 STATE TX
-BASEURL http://cat.round-rock.tx.us:8080
-CATTYPE ipac20
-AINDEX PAUTH
-TINDEX ALLTITL
+BASEURL http://catalog.roundrocktexas.gov
+CATTYPE koha
 
 ID OCLC-SAP
 NAME San Antonio Public Library
