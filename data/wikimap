@@ -9,7 +9,7 @@
 #   or lexical analysis (such as many geographical locations)
 #   are not included in this file.
 # See docs file for documentation
-# Last updated 2016-04-09
+# Last updated 2016-04-16
 16th Street Baptist Church Bombing, Birmingham, Ala., 1963|=|16th Street Baptist Church bombing
 20th Century Limited (Express train)|=|20th Century Limited
 24 Heures du Mans (Automobile race)|=|24 Hours of Le Mans
@@ -96,6 +96,7 @@ Abu Ageila, Battle of, Ab&umacr; &#x02bb;Ujaylah, Egypt, 1967|=|Battle of Abu-Ag
 Abu Musa Island|=|Abu Musa
 Ab&umacr; Sunbul (Egypt)|<->|Abu Simbel temples
 Abydos (Egypt : Extinct city)|<->|Abydos, Egypt
+Abyssinian Expedition (1867-1868)|=|British Expedition to Abyssinia
 Academic costume|=|Academic dress
 Academic libraries|=|Academic library
 Acad&eacute;mie des sciences (France)|=|French Academy of Sciences
@@ -526,6 +527,7 @@ Amateurism|<->|Amateur
 Amateur theater|=|Amateur theatre
 Amazon River Region|<->|Amazon basin
 Amazonas (Brazil)|=|Amazonas (Brazilian state)
+Ambassador Bridge (Detroit, Mich., and Windsor, Ont.)|=|Ambassador Bridge
 Ambassadors|=|Ambassador
 Ambulance service|->|Ambulance
 Ambulances|<->|Ambulance
@@ -553,7 +555,7 @@ American Party|<->|Know Nothing
 American Revolution Bicentennial, 1976|<->|United States Bicentennial
 American Society for Information Science and Technology|<->|Association for Information Science and Technology
 American Society of Agricultural Engineers|->|American Society of Agricultural and Biological Engineers
-American Sunday School Union|->|American Missionary Fellowship
+American Sunday School Union|->|InFaith
 American Turtle (Submarine)|=|Turtle (submersible)
 American wildcelery|<->|Vallisneria americana
 American wit and humor|<->|American humor
@@ -1450,7 +1452,7 @@ Bartram's Garden (Philadelphia, Pa.)|=|Bartram's Garden
 Bas-relief|->|Relief
 Basal cell nevus syndrome|<->|Nevoid basal-cell carcinoma syndrome
 Basant Festival|=|Basant Kite Festival (Punjab)
-Base running (Baseball)|=|Baserunning
+Base running (Baseball)|=|Base running
 Baseball players|->|Baseball
 Baseball Strike, 1994-1995|=|1994–95 Major League Baseball strike
 Baseball umpires|=|Umpire (baseball)
@@ -2094,6 +2096,7 @@ Books|=|Book
 Books of hours|=|Book of hours
 Booksellers and bookselling|<->|Bookselling
 Boop, Betty (Fictitious character)|=|Betty Boop
+Boosting (Algorithms)|<->|Boosting (machine learning)
 Bootstrap (Statistics)|<->|Bootstrapping (statistics)
 Bophuthatswana (South Africa)|=|Bophuthatswana
 Boquer&oacute;n, Battle of, Paraguay, 1932|=|Battle of Boquerón (1932)
@@ -2265,12 +2268,17 @@ Bristol Bay (Alaska)|=|Bristol Bay
 Bristol Bridge Massacre, Bristol, England, 1793|->|Bristol riots
 Britain, Battle of, Great Britain, 1940|=|Battle of Britain
 British|=|British people
+British Antarctic Expedition (1898-1900)|=|Southern Cross Expedition
+British Antarctic Expedition (1907-1909)|=|Nimrod Expedition
 British Antarctic ("Terra Nova") Expedition (1910-1913)|=|Terra Nova Expedition
 British Association for the Advancement of Science|->|British Science Association
+British, Australian, and New Zealand Antarctic Research Expedition (1929-1931)|=|British Australian and New Zealand Antarctic Research Expedition
 British Block Cairn Site (Alta.)|<->|British Block Cairn
 British Columbia -- Politics and government|<->|Politics of British Columbia
 British Columbia Provincial Museum|->|Royal British Columbia Museum
 British European Airways Flight 609 Crash, Munich, Germany, 1958|=|Munich air disaster
+British Graham Land Expedition (1934-1937)|=|British Graham Land Expedition
+British National Antarctic Expedition (1901-1904)|=|Discovery Expedition
 British newspapers|<->|List of newspapers in the United Kingdom
 British Red Cross Society|=|British Red Cross
 British settlers of 1820 (South Africa)|<->|1820 Settlers
@@ -2425,6 +2433,7 @@ Burglars|->|Burglary
 Burgoyne's Invasion, 1777|->|Saratoga campaign
 Burholme Park (Philadelphia, Pa.)|=|Burholme Park
 Buriats|=|Buryats
+Burke and Wills Expedition (1860-1861)|=|Burke and Wills expedition
 Burlesques|<->|Burlesque
 Burley tobacco|=|Burley (tobacco)
 Burlington Zephyr (Express train)|<->|Pioneer Zephyr
@@ -2623,6 +2632,7 @@ Canada. Personal Information Protection and Electronic Documents Act|=|Personal 
 Canada -- Politics and government|<->|Politics of Canada
 Canada -- Politics and government|<-|Government of Canada
 Canada, Western|=|Western Canada
+Canadian Arctic Expedition (1913-1918)|<->|Canadian Arctic Expedition 1913–16
 Canadian (Express train)|=|Canadian (train)
 Canadian horseweed|=|Conyza canadensis
 Canadian Invasion, 1775-1776|<->|Invasion of Canada (1775)
@@ -2695,6 +2705,7 @@ Capitulations|=|Capitulation (treaty)
 Caporetto, Battle of, Kobarid, Slovenia, 1917|=|Battle of Caporetto
 Capri (Italy)|=|Capri, Campania
 Capri Island (Italy)|=|Capri
+CAPTCHA (Challenge-response test)|=|CAPTCHA
 Capua (Italy)|=|Capua
 Capuchins|=|Capuchin
 Car sharing|=|Carsharing
@@ -2997,6 +3008,7 @@ Chalk Bluff, Battle of, 1863|=|Battle of Chalk Bluff
 Chalk-talks|=|Chalk talk
 Challenger, Mount (Wash.)|=|Mount Challenger (Washington)
 Challenger, Professor (Fictitious character)|=|Professor Challenger
+Challenger Expedition (1872-1876)|=|Challenger expedition
 Ch&acirc;lons-sur-Marne, Battle of, France, 451|=|Battle of the Catalaunian Plains
 Cham (Dance)|=|Cham dance
 Cham (Southeast Asian people)|=|Chams
@@ -3109,6 +3121,7 @@ Cherokee Indians -- Wars, 1759-1761|<->|Anglo-Cherokee War
 Cherokee National Forest (Agency : U.S.)|->|Cherokee National Forest
 Cherokee National Forest (Tenn.)|=|Cherokee National Forest
 Cherry Mine Disaster, Cherry, Ill., 1909|=|1909 Cherry Mine disaster
+Cherry pickers (Machines)|=|Cherry picker
 Chesapeake, Battle of the, Va., 1781|=|Battle of the Chesapeake
 Chesapeake and Ohio Canal (Md. and Washington, D.C.)|=|Chesapeake and Ohio Canal
 Chesapeake Bay (Md. and Va.)|=|Chesapeake Bay
@@ -3286,6 +3299,7 @@ China -- Politics and government -- 1912-1928|<->|Beiyang government
 China -- Relations -- Taiwan|<->|Cross-Strait relations
 China -- Religion|=|Religion in China
 China Inland Mission|->|OMF International
+China Relief Expedition (1900-1901)|<->|China Relief Expedition
 China Sea|<->|China Seas
 Chinati Mountains (Tex.)|=|Chinati Mountains
 Chincha Islands (Peru)|=|Chincha Islands
@@ -3497,6 +3511,7 @@ Clarence Strait (Alaska)|=|Clarence Strait
 Clarington (Ont.)|=|Clarington
 Clark, Lake (Alaska)|=|Lake Clark (Alaska)
 Clark's Expedition against Detroit, 1781|<->|Lochry's Defeat
+Clark's Expedition to the Illinois (1778-1779)|<->|Illinois campaign
 Clark's Mill, Battle of, Vera Cruz, Mo., 1862|=|Battle of Clark's Mill
 Claros Site (Turkey)|<->|Claros
 Class 17 (Diesel locomotives)|=|British Rail Class 17
@@ -3547,6 +3562,7 @@ Climbing plants|=|Vine
 Clinch Mountain (Tenn. and Va.)|=|Clinch Mountain
 Clingmans Dome (N.C. and Tenn.)|=|Clingmans Dome
 Clinical medicine -- Research|<->|Clinical research
+Clinical pastoral education (Movement)|<->|Clinical pastoral education
 Clinical trials|=|Clinical trial
 Clinton, Bill, 1946- -- Impeachment|<->|Impeachment and acquittal of Bill Clinton
 Clippings (Books, newspapers, etc.)|<->|Clipping (publications)
@@ -3690,6 +3706,7 @@ Comb Ridge (Ariz. and Utah)|=|Comb Ridge
 Combatants and noncombatants (International law)|<->|Non-combatant
 Combinatorial analysis|=|Combinatorics
 Combinatorial geometry|->|Discrete geometry
+Combines (Agricultural machinery)|=|Combine harvester
 Comets|=|Comet
 Coming out (Sexual orientation)|<->|Coming out
 Commercial correspondence|<->|Business correspondence
@@ -4343,6 +4360,7 @@ Crna ruka|=|Black Hand (Serbia)
 Croatia -- History -- Peasant Uprising, 1573|<->|Croatian–Slovene Peasant Revolt
 Croato-Hungarian Compromise, 1868|=|Croatian–Hungarian Settlement
 Crocheting|=|Crochet
+Crocker Land Expedition (1913-1917)|=|Crocker Land Expedition
 Crocodilians|=|Crocodilia
 Crofters|->|Croft (land)
 Crofts|=|Croft (land)
@@ -4574,6 +4592,7 @@ Davenport, Lucas (Fictitious character)|=|Lucas Davenport
 David Thompson Highway (Alta.)|<->|Alberta Highway 11
 Davidson, Mount (Nev.)|=|Mount Davidson (Nevada)
 Davis Mountains (Tex.)|=|Davis Mountains
+Dawn chorus (Radio meteorology)|=|Dawn chorus (electromagnetic)
 Day|<->|Daytime
 Day fines|=|Day-fine
 Dayak (Indonesian people)|=|Dayak people
@@ -4909,6 +4928,7 @@ Dollywood (Pigeon Forge, Tenn.)|=|Dollywood
 Dolomite Alps (Italy)|=|Dolomites
 Dome Peak (Skagit County, Wash.)|=|Dome Peak
 Domestic animals|<->|List of domesticated animals
+Dom&iacute;nguez-Escalante Expedition (1776)|=|Dominguez–Escalante Expedition
 Dominican-Haitian Conflict, 1937|<->|Parsley Massacre
 Dominican Republic -- History -- American occupation, 1916-1924|<->|United States occupation of the Dominican Republic (1916–24)
 Dominican Republic -- History -- Revolution, 1965|<->|Dominican Civil War
@@ -5369,6 +5389,7 @@ Emigration and immigration law|<->|Immigration law
 Emilia (Italy)|=|Emilia (region of Italy)
 Emilia-Romagna (Italy)|=|Emilia-Romagna
 Emily, Mount (Or.)|=|Mount Emily
+Emin Pasha Relief Expedition (1887-1889)|=|Emin Pasha Relief Expedition
 Emmons, Mount (Colo.)|=|Mount Emmons (Colorado)
 Emo (Music)|=|Emo
 Emotions|=|Emotion
@@ -5676,6 +5697,7 @@ Exile (Punishment)|=|Exile
 Exiles|->|Exile
 Exmoor (England)|=|Exmoor
 Exobiology|=|Astrobiology
+Exp&eacute;dition antarctique belge (1897-1899)|=|Belgian Antarctic Expedition
 Expedition of the Thousand, Italy, 1860|=|Expedition of the Thousand
 Experience (Religion)|=|Religious experience
 Experimental design|=|Design of experiments
@@ -5721,6 +5743,7 @@ Extrajudicial executions|=|Extrajudicial killing
 Extras (Actors)|<->|Extra (acting)
 Extrasolar planets|=|Exoplanet
 Extraterrestrial beings|->|Extraterrestrial life
+Extravehicular activity (Manned space flight)|=|Extravehicular activity
 Extreme unction|<->|Anointing of the Sick
 Extremists|->|Extremism
 Exxon Corporation|->|ExxonMobil
@@ -5838,6 +5861,7 @@ Federal Road (Ala. and Ga.)|<->|Federal Road (Creek lands)
 Federalist|<->|The Federalist Papers
 Federally recognized Indian tribes|<->|List of federally recognized tribes
 Federated searching|=|Federated search
+Feeding of the five thousand (Miracle)|<->|Feeding the multitude
 Feeds|=|Fodder
 Fehmarn (Germany)|=|Fehmarn
 Fehmarn, Battle of, 1644|=|Battle of Fehmarn (1644)
@@ -6234,6 +6258,7 @@ Fra Mauro Crater (Moon)|=|Fra Mauro (crater)
 Fractions|<->|Fraction (mathematics)
 Fractures|<->|Bone fracture
 FRAD (Conceptual model)|=|Functional Requirements for Authority Data
+"Fram" Expedition (1893-1896)|=|Nansen's Fram expedition
 France. Assembl&eacute;e nationale constituante (1789-1791)|=|National Constituent Assembly
 France. Assembl&eacute;e nationale l&eacute;gislative (1791-1792)|=|Legislative Assembly (France)
 France. Code civil|<->|Napoleonic Code
@@ -6304,6 +6329,7 @@ Frankfurter Buchmesse|=|Frankfurt Book Fair
 Franking privilege|<->|Franking
 Franklin, Battle of, Franklin, Tenn., 1864|=|Battle of Franklin (1864)
 Franklin Court (Philadelphia, Pa.)|<->|Franklin Court
+Franklin Expedition (1845)|<->|Franklin's lost expedition
 Franklin Mountains (Tex. and N.M.)|<->|Franklin Mountains (Texas)
 Franz Ferdinand, Archduke of Austria, 1863-1914 -- Assassination|=|Assassination of Archduke Franz Ferdinand of Austria
 Fraternal organizations|<->|List of general fraternities
@@ -6610,7 +6636,9 @@ Geometric probabilities|<->|Geometric probability
 Geometry, Analytic|<->|Analytic geometry
 Geophagy|=|Geophagia
 George, Lake (N.Y. : Lake)|=|Lake George (New York)
+George A. Parks Highway (Alaska)|=|George Parks Highway
 George C. Marshall Space Flight Center|=|Marshall Space Flight Center
+George Inlet (Alaska)|=|George Inlet
 George Rogers Clark National Historical Park (Vincennes, Ind.)|=|George Rogers Clark National Historical Park
 George W. Andrews Lake (Ala.)|=|George W. Andrews Lake
 George Washington Masonic National Memorial (Alexandria, Va.)|=|George Washington Masonic National Memorial
@@ -6638,6 +6666,7 @@ German language -- Middle High German, 1050-1500|<->|Middle High German
 German language -- Old High German, 750-1050|<->|Old High German
 German poetry|->|German literature
 German states|<->|States of Germany
+German Tibet Expedition (1938-1939)|=|1938–39 German expedition to Tibet
 German wit and humor|<->|German humour
 Germantown (Philadelphia, Pa.)|=|Germantown, Philadelphia
 Germantown, Battle of, Philadelphia, Pa., 1777|=|Battle of Germantown
@@ -6831,6 +6860,7 @@ Goose Green (Falkland Islands) -- History -- Siege, 1982|<->|Battle of Goose Gre
 Gooseberries|=|Gooseberry
 Gorani (European people)|=|Gorani people
 Gordon, Flash (Fictitious character)|=|Flash Gordon
+Gordon Relief Expedition (1884-1885)|=|Nile Expedition
 Gordon Riots, 1780|=|Gordon Riots
 Gore Range (Colo.)|=|Gore Range
 Gorgons (Greek mythology)|=|Gorgon
@@ -6880,6 +6910,8 @@ Grand Calumet River (Ind. and Ill.)|=|Grand Calumet River
 Grand Canyon (Ariz.)|=|Grand Canyon
 Grand Canyon National Park (Agency : U.S.)|->|Grand Canyon National Park
 Grand Canyon National Park (Ariz.)|=|Grand Canyon National Park
+Grand Central River (Alaska)|=|Grand Central River
+Grand Central Terminal (New York, N.Y.)|=|Grand Central Terminal
 Grand Port, Battle of, Mauritius, 1810|=|Battle of Grand Port
 Grand Remonstrance, 1641|=|Grand Remonstrance
 Grand Teton (Wyo.)|=|Grand Teton
@@ -6917,6 +6949,7 @@ Gravelly Run, Battle of, Va., 1865|<->|Battle of White Oak Road
 Gravelotte, Battle of, France, 1870|=|Battle of Gravelotte
 Gravina Island (Ketchikan Gateway Borough, Alaska)|=|Gravina Island
 Gravina Islands (Alaska)|=|Gravina Islands
+Gravity assist (Astrodynamics)|=|Gravity assist
 Gray|=|Grey
 Gray-cheeked mangabey|=|Grey-cheeked mangabey
 Gray-cheeked parakeet|=|Grey-cheeked parakeet
@@ -7117,6 +7150,7 @@ Guatemala -- History -- Revolution, 1954|<->|1954 Guatemalan coup d'état
 Guatemala -- Politics and government|<->|Politics of Guatemala
 Guayaquil (Ecuador)|=|Guayaquil
 Guayaquil Interview, Guayaquil, Ecuador, 1822|=|Guayaquil Conference
+Gubik Formation (Alaska)|=|Gubik Formation
 Guelfs and Ghibellines|=|Guelphs and Ghibellines
 Guelph (Ont.)|=|Guelph
 Guenevere, Queen (Legendary character)|=|Guinevere
@@ -7144,6 +7178,8 @@ Gulf Coast (U.S.)|=|Gulf Coast of the United States
 Gulf Islands National Seashore (Agency : U.S.)|->|Gulf Islands National Seashore
 Gulf Islands National Seashore (Fla. and Miss.)|=|Gulf Islands National Seashore
 Gulf States|->|Gulf Coast of the United States
+Gulkana Glacier (Alaska)|=|Gulkana Glacier
+Gulkana River (Alaska)|=|Gulkana River
 Gullahs|<->|Gullah
 Gulliver, Lemuel (Fictitious character)|=|Lemuel Gulliver
 Gulls|=|Gull
@@ -7295,6 +7331,7 @@ Harpers Ferry National Historical Park (Agency : U.S.)|->|Harpers Ferry National
 Harpers Ferry National Historical Park|=|Harpers Ferry National Historical Park
 Harquahala Mountains (Ariz.)|=|Harquahala Mountains
 Harrier (Dog breed)|=|Harrier (dog)
+Harriman Alaska Expedition (1899)|=|Harriman Alaska Expedition
 Harrington, Honor (Fictitious character)|=|Honor Harrington
 Harris, Lake (Lake County, Fla.)|=|Lake Harris (Florida)
 Harrisburg Capital Beltway (Pa.)|=|Capital Beltway (Harrisburg)
@@ -7356,6 +7393,16 @@ Hazardous wastes|=|Hazardous waste
 Head-Smashed-In Buffalo Jump National Historic Site (Alta.)|<->|Head-Smashed-In Buffalo Jump
 Heads of state|=|Head of state
 Healers|->|Alternative medicine
+Healing of Peter's mother-in-law (Miracle)|=|Healing the mother of Peter's wife
+Healing of the centurion's servant (Miracle)|=|Healing the centurion's servant
+Healing of the epileptic boy (Miracle)|=|Exorcising a boy possessed by a demon
+Healing of the Gerasene demoniac (Miracle)|=|Exorcism of the Gerasene demoniac
+Healing of the leper (Miracle)|=|Jesus cleansing a leper
+Healing of the man born blind (Miracle)|=|Healing the man blind from birth
+Healing of the nobleman's son (Miracle)|=|Healing the royal official's son
+Healing of the paralytic (Miracle)|=|Healing the paralytic at Capernaum
+Healing of the ten lepers (Miracle)|=|Cleansing ten lepers
+Healing of the woman with the flow of blood (Miracle)|=|Jesus healing the bleeding woman
 Health and race|=|Race and health
 Health behavior|->|Self care
 Health boards|=|Health board
@@ -7414,6 +7461,7 @@ Helsingborgs kommun (Sweden)|=|Helsingborg Municipality
 Helsinki (Finland)|=|Helsinki
 Helsinki (Finland) -- History|=|History of Helsinki
 Hematopoietic stem cells|=|Hematopoietic stem cell
+Hemenway Southwestern Archaeological Expedition (1886-1894)|=|Hemenway Southwestern Archaeological Expedition
 Hemorrhage|<->|Bleeding
 HemisFair (1968 : San Antonio, Tex.)|=|HemisFair '68
 Hemophilia|=|Haemophilia
@@ -7482,7 +7530,7 @@ High pressure (Technology)|->|High pressure
 High River (Alta.)|=|High River
 High Rock Canyon Wilderness (Nev.)|=|High Rock Canyon Wilderness
 High Rock Lake Wilderness (Nev.)|=|High Rock Lake Wilderness
-High schools|=|High school
+High schools|<->|Secondary school
 High technology|=|High tech
 High temperature superconductivity|=|High-temperature superconductivity
 High temperature superconductors|->|High-temperature superconductivity
@@ -7531,6 +7579,7 @@ Hiroshima-ken (Japan)|=|Hiroshima Prefecture
 Hiroshima-shi (Japan)|=|Hiroshima
 Hiroshima-shi (Japan) -- History -- Bombardment, 1945|<->|Atomic bombings of Hiroshima and Nagasaki
 Hispanic Americans|=|Hispanic and Latino Americans
+Hiss (Radio meteorology)|=|Hiss (electromagnetic)
 Historians|=|Historian
 Historic buildings|->|Historic preservation
 Historic sites|=|Historic site
@@ -7560,6 +7609,7 @@ Hochkirch, Battle of, Hochkirch, Germany, 1758|=|Battle of Hochkirch
 Hocking Hills (Ohio)|<->|Hocking Hills
 Hocking Hills State Park (Ohio)|=|Hocking Hills State Park
 Hodgkin's disease|=|Hodgkin's lymphoma
+Hodzana River (Alaska)|=|Hodzana River
 Hogback Summit (Utah)|=|Hogback Summit
 Hohenfriedberg, Battle of, Poland, 1745|=|Battle of Hohenfriedberg
 Hohenlinden (Germany)|=|Hohenlinden
@@ -7569,6 +7619,8 @@ Hohokam culture|=|Hohokam
 Hokkaido (Japan)|=|Hokkaido
 Holidays|=|Holiday
 Holiness churches|->|Holiness movement
+Holitna River (Alaska)|=|Holitna River
+Holkham Bay (Alaska)|=|Holkham Bay
 Hollabrunn (Austria : Politischer Bezirk)|=|Hollabrunn District
 Hollabrunn (Hollabrunn, Austria)|=|Hollabrunn
 Hollabrunn, Battle of, Hollabrunn, Hollabrunn, Austria, 1805|=|Battle of Schöngrabern
@@ -7979,6 +8031,7 @@ Immunization of children -- United States|<->|Childhood immunizations in the Uni
 Imo Incident, Korea, 1882|=|Imo Incident
 Impeachments|=|Impeachment
 Imperial automobile|=|Imperial (automobile)
+Imperial Trans-Antarctic Expedition (1914-1917)|=|Imperial Trans-Antarctic Expedition
 Impersonation|<->|Impersonator
 Imph&amacr;l (India)|=|Imphal
 Imphal, Battle of, Imph&amacr;l, India, 1944|=|Battle of Imphal
@@ -8049,6 +8102,7 @@ Indian Battle Park (Lethbridge, Alta.)|=|Indian Battle Park
 Indian code talkers|<->|Code talker
 Indian country (United States law)|<->|Indian country
 Indian dance|->|Indigenous music of North America
+Indian Expedition to Antarctica|<->|Indian Antarctic Program
 Indian Island (Calif.)|=|Indian Island (Humboldt Bay)
 Indian Island Massacre, Calif., 1860|=|1860 Wiyot massacre
 Indian Ocean Tsunami, 2004|<->|2004 Indian Ocean earthquake and tsunami
@@ -8595,6 +8649,7 @@ Java Sea, Battle of the, Indonesia, 1942|<->|Battle of the Java Sea
 JavaScript (Computer program language)|=|JavaScript
 Javelin throwing|=|Javelin throw
 Javert (Fictitious character)|=|Javert
+Jeannette Expedition (1879-1881)|=|Jeannette Expedition
 Jedburgh (Scotland)|=|Jedburgh
 Jedburgh Abbey (Jedburgh, Scotland)|=|Jedburgh Abbey
 Jeeves (Fictitious character)|=|Jeeves
@@ -8618,8 +8673,10 @@ Jerusalem -- History -- Siege, 1948|->|Battle for Jerusalem (1948)
 Jerusalem -- History -- Siege, 586 B.C.|=|Siege of Jerusalem (587 BC)
 Jerusalem -- History -- Siege, 70 A.D.|=|Siege of Jerusalem (70 CE)
 Jerusalem -- History -- Siege, 701 B.C.|=|Assyrian Siege of Jerusalem
+Jervis Bay (Australia : Bay)|=|Jervis Bay
 Jesuits|=|Society of Jesus
 Jesuits -- History -- Suppression, 1773-1814|<->|Suppression of the Society of Jesus
+Jesup North Pacific Expedition (1897-1902)|=|Jesup North Pacific Expedition
 Jesus Christ|=|Jesus
 Jesus Christ -- Appearances|=|Resurrection appearances of Jesus
 Jesus Christ -- Art|<->|Depiction of Jesus
@@ -8651,6 +8708,7 @@ Jesus Christ -- Seven last words|<->|Sayings of Jesus on the cross
 Jesus Christ -- Temple visit at age twelve|<->|Finding in the Temple
 Jesus Christ -- Temptation|=|Temptation of Christ
 Jesus Christ -- Transfiguration|=|Transfiguration of Jesus
+Jesus walking on the water (Miracle)|=|Jesus walking on water
 Jet planes|=|Jet aircraft
 Jewel Cave National Monument (Agency : U.S.)|->|Jewel Cave National Monument
 Jewel Cave National Monument (S.D.)|=|Jewel Cave National Monument
@@ -9317,6 +9375,7 @@ Ladies-in-waiting|=|Lady-in-waiting
 Ladin dialect|<->|Ladin language
 Ladoga Lake (Russia)|=|Lake Ladoga
 Ladron Peak (N.M.)|=|Ladron Peak
+Lady Franklin Bay Expedition (1881-1884)|=|Lady Franklin Bay Expedition
 Lady of the Lake (Legendary character)|=|Lady of the Lake
 Ladybugs|=|Coccinellidae
 Ladysmith (South Africa)|=|Ladysmith, KwaZulu-Natal
@@ -9632,6 +9691,7 @@ Levirate|<->|Levirate marriage
 Lewes, Battle of, Lewes, England, 1264|=|Battle of Lewes
 Lewis, Mount (Nev.)|=|Mount Lewis (Nevada)
 Lewis and Clark Bicycle Trail|=|Lewis & Clark Trail Bicycle Route
+Lewis and Clark Expedition (1804-1806)|=|Lewis and Clark Expedition
 Lewis and Clark National and State Historical Parks (Or. and Wash.)|=|Lewis and Clark National and State Historical Parks
 Lewis and Clark National Forest (Agency : U.S.)|->|Lewis and Clark National Forest
 Lewis and Clark National Forest (Mont.)|=|Lewis and Clark National Forest
@@ -9832,6 +9892,7 @@ Lodi dynasty, 1451-1526|=|Lodi dynasty
 &Lstrok;&oacute;d&zacute; (Poland)|=|Łódź
 &Lstrok;&oacute;d&zacute;, Battle of, &Lstrok;&oacute;d&zacute;, Poland, 1914|=|Battle of Łódź (1914)
 Log cabins|=|Log cabin
+Log splitters (Machines)|=|Log splitter
 Logan Martin Lake (Ala.)|=|Logan Martin Lake
 Logan, Mount (Wash.)|=|Mount Logan (Washington)
 Logan Square (Philadelphia, Pa.)|<->|Logan Circle (Philadelphia)
@@ -10221,6 +10282,7 @@ Manipulators (Mechanism)|<->|Manipulator
 Manipur (India)|=|Manipur
 Manitoba -- Politics and government|<->|Politics of Manitoba
 Mann Gulch Fire, Mont., 1949|=|Mann Gulch fire
+Manned maneuvering units (Space flight)|<->|Manned Maneuvering Unit
 Manned space flight|=|Human spaceflight
 Mannerism (Art)|=|Mannerism
 Manors|=|Manor
@@ -10404,6 +10466,7 @@ Mastodons|=|Mastodon
 Masurian Lakes, Battles of the, Poland, 1914-1915|<->|Battle of the Masurian Lakes
 Mataco Indians|=|Wichí people
 Matagalpa (Nicaragua : Department)|=|Matagalpa Department
+Matamoros Expedition (1835-1836)|=|Matamoros Expedition
 Mate plant|=|Yerba mate
 Mate selection|=|Mate choice
 Mate (Tea)|=|Mate (beverage)
@@ -10536,6 +10599,7 @@ Medusa (Greek mythology)|=|Medusa
 Meerut Communist Conspiracy Trial, Meerut, India, 1929-1933|=|Meerut Conspiracy Case
 Meetings|=|Meeting
 Megalithic monuments|<->|Megalith
+Megastructures|<->|Megastructures (architecture)
 Meghalaya (India)|=|Meghalaya
 Megiddo (Extinct city)|<->|Tel Megiddo
 Megiddo, Battle of, Israel, 1918|=|Battle of Megiddo (1918)
@@ -10619,6 +10683,7 @@ Mesolongion (Greece) -- History -- Siege, 1825-1826|=|Third Siege of Missolonghi
 Messengers|=|Messenger
 Messines, Battle of, Belgium, 1917|=|Battle of Messines (1917)
 Mestas, Mount (Colo.)|=|Mount Mestas
+Metabolism in architecture (Movement)|=|Metabolism (architecture)
 Metaethics|=|Meta-ethics
 Metal foams|=|Metal foam
 Metallurgists|->|Metallurgy
@@ -10827,6 +10892,7 @@ MIPS R4000 (Microprocessor)|=|R4000
 MIPS-X (Microprocessor)|=|MIPS-X
 Miquelon Lake Provincial Park (Alta.)|=|Miquelon Lake Provincial Park
 Miracles|=|Miracle
+Miraculous draught of fishes (Miracle)|=|Miraculous catch of fish
 Miraflores, Battle of, Lima, Peru, 1881|=|Battle of Miraflores
 Mirage (Fighter planes)|=|Dassault Mirage
 Mirages|=|Mirage
@@ -10858,6 +10924,7 @@ Missouri -- History -- Civil War, 1861-1865|=|Missouri in the American Civil War
 Missouri -- Politics and government|<->|Government of Missouri
 Missouri Coteau (S.D. and N.D.)|<->|Coteau du Missouri
 Mistresses|=|Mistress (lover)
+Misty Fiords National Monument (Alaska)|=|Misty Fiords National Monument
 Mitaka-shi (Japan)|=|Mitaka, Tokyo
 Mitchel Range (Calif.)|=|Mitchel Range
 Mitchell, Mount (N.C. : Mountain)|=|Mount Mitchell
@@ -11155,6 +11222,12 @@ Mount Baker (Seattle, Wash.)|=|Mount Baker, Seattle
 Mount Baker Ridge Tunnel (Seattle, Wash.)|=|Mount Baker Tunnel
 Mount Baker-Snoqualmie National Forest (Wash.)|=|Mount Baker-Snoqualmie National Forest
 Mount Desert Island (Me.)|=|Mount Desert Island
+Mount Everest Expedition (1921)|=|1921 British Mount Everest reconnaissance expedition
+Mount Everest Expedition (1922)|=|1922 British Mount Everest expedition
+Mount Everest Expedition (1924)|=|1924 British Mount Everest expedition
+Mount Everest Expedition (1933)|=|1933 British Mount Everest expedition
+Mount Everest Expedition (1935)|=|1935 British Mount Everest reconnaissance expedition
+Mount Everest Expedition (1953)|=|1953 British Mount Everest expedition
 Mount Irish Range (Nev.)|=|Mount Irish Range
 Mount Isa (Qld.)|=|Mount Isa
 Mount Isa Mines, ltd. Strike, 1964-1965|=|1964 Mount Isa Mines strike
@@ -11356,6 +11429,7 @@ Napoleon I, Emperor of the French, 1769-1821 -- Military leadership|=|Military c
 Napoleon I, Emperor of the French, 1769-1821 -- Relations with Jews|<->|Napoleon and the Jews
 Napoleonic Wars, 1800-1815|<->|Napoleonic Wars
 Napoleonic Wars, 1800-1815 -- Campaigns -- Russia|<->|French invasion of Russia
+Naps (Sleep)|=|Nap
 Nara-ken (Japan)|=|Nara Prefecture
 Nara-shi (Japan)|=|Nara, Nara
 Narcissus (Greek mythology)|=|Narcissus (mythology)
@@ -11546,8 +11620,9 @@ Nepal -- Politics and government|<->|Politics of Nepal
 Nepal -- Politics and government|<-|Government of Nepal
 Nepalese War, 1814-1816|=|Anglo-Nepalese War
 Nephanalysis (Meteorology)|=|Nephanalysis
-Nephews|->|Nephew and niece
+Nephews|=|Nephew
 Nepoviruses|=|Nepovirus
+NEPSY (Neuropsychological test)|<->|NEPSY
 Neptune (Planet)|=|Neptune
 Neptune (Planet) -- Satellites|=|Moons of Neptune
 Nera River (Italy)|=|Nera (Italy)
@@ -11735,11 +11810,12 @@ Nicobarese (Indic people)|=|Nicobarese people
 Nicopolis, Battle of, Nikopol, Bulgaria, 1396|=|Battle of Nicopolis
 Nicotine addiction|->|Nicotine
 Nidwalden (Switzerland)|=|Nidwalden
-Nieces|->|Nephew and niece
+Nieces|=|Niece
 Niemcza (Poland) -- History -- Siege, 1017|=|Siege of Niemcza
 Nieuwpoort, Battle of, Belgium, 1600|=|Battle of Nieuwpoort
 Niger -- History -- Coup d'&eacute;tat, 1974|=|1974 Nigerien coup d'état
 Niger -- History -- Coup d'&eacute;tat, 2010|=|2010 Nigerien coup d'état
+Niger Expedition (1841-1842)|=|Niger expedition of 1841
 Nigeria -- History -- Coup d'&eacute;tat, 1966 (January 15)|=|1966 Nigerian coup d'état
 Nigeria -- History -- Coup d'&eacute;tat, 1966 (July 29)|=|1966 Nigerian counter-coup
 Nigeria -- History -- Coup d'&eacute;tat, 1983|=|1983 Nigerian coup d'état
@@ -11919,6 +11995,7 @@ Notting Hill Riots, London, England, 1958|=|1958 Notting Hill race riots
 Nottingham (England)|=|Nottingham
 Nottingham (England) -- History|=|History of Nottingham
 Nottinghamshire (England)|=|Nottinghamshire
+Noucentisme (Movement)|=|Noucentisme
 Nouvelle th&eacute;ologie (Catholic theology)|=|Nouvelle Théologie
 Nova Cygni 1975|=|V1500 Cygni
 Nova Persei 1901|=|GK Persei
@@ -11995,6 +12072,9 @@ Nursing -- Study and teaching|<->|Nurse education
 Nursing -- United States -- History|=|History of nursing in the United States
 Nursing homes|->|Nursing home care
 Nursing schools|=|Nursing school
+Nushagak Bay (Alaska)|=|Nushagak Bay
+Nushagak Peninsula (Alaska)|=|Nushagak Peninsula
+Nushagak River (Alaska)|=|Nushagak River
 Nuts|=|Nut
 Nuwaubian movement|<->|Nuwaubian Nation
 Nyarubuye Massacre, Nyarubuye, Rwanda, 1994|=|Nyarubuye massacre
@@ -12240,6 +12320,7 @@ Open Document Architecture (Computer network standard)|=|Open Document Architect
 Open Shortest Path First (Computer network protocol)|=|Open Shortest Path First
 Open source intelligence|=|Open-source intelligence
 Open source software|=|Open-source software
+Opening of the eyes of one blind at Bethsaida (Miracle)|<->|Blind man of Bethsaida
 Operaci&oacute;n C&oacute;ndor (South American countersubversion association)|<->|Operation Condor
 Operas|->|Opera
 Operating systems (Computers)|=|Operating system
@@ -12426,6 +12507,8 @@ Oranik, Battle of, Macedonia, 1448|=|Battle of Oranik (1448)
 Orators|=|Orator
 Orbetello (Italy)|=|Orbetello
 Orbetello, Battle of, Orbetello, Italy, 1646|=|Battle of Orbetello
+Orbital rendezvous (Space flight)|<->|Space rendezvous
+Orbital transfer (Space flight)|<->|Orbital maneuver
 Orbits|=|Orbit
 Orbiviruses|=|Orbivirus
 Orchids|=|Orchidaceae
@@ -12466,6 +12549,7 @@ Orl&eacute;ans (France) -- History -- Siege, 1428-1429|=|Siege of Orléans
 Orl&eacute;ans, Battle of, Orl&eacute;ans, France, 1870|=|Second Battle of Orléans (1870)
 Ornithologists|<->|List of ornithologists
 Orphan drugs|=|Orphan drug
+Orphan works (Copyright)|=|Orphan works
 Orphanages|=|Orphanage
 Orphans|=|Orphan
 Orpheus (Greek mythological character)|=|Orpheus
@@ -12715,6 +12799,7 @@ Paracuellos Massacre, Spain, 1936|<->|Paracuellos massacres
 Paraguay -- History -- Revolution, 1947|=|Paraguayan Civil War (1947)
 Paraguay -- History -- Revolution of the Comuneros, 1721-1735|=|Revolt of the Comuneros (Paraguay)
 Paraguay -- History -- To 1811|=|History of Paraguay (to 1811)
+Paraguay Expedition (1858-1859)|=|Paraguay expedition
 Paraguayan literature|->|Paraguay
 Paraguayan War, 1865-1870|<->|Paraguayan War
 Para&iacute;ba (Brazil : State)|=|Paraíba
@@ -13187,6 +13272,7 @@ Plant layout|<->|Plant layout study
 Plant morphogenesis|->|Plant morphology
 Plant viruses|=|Plant virus
 Plantagenet, House of|<->|House of Plantagenet
+Planters (Agricultural machinery)|=|Planter (farm implement)
 Plants|=|Plant
 Plants, Edible|<->|List of leaf vegetables
 Plants, Ornamental|=|Ornamental plant
@@ -13276,6 +13362,8 @@ Poland -- History -- Third partition, 1795|=|Third Partition of Poland
 Poland -- History -- Uprising, 1956|<->|Polish October
 Poland -- History -- Uprising of Kostka Napierski, 1651|=|Kostka-Napierski Uprising
 Poland -- Politics and government|<->|Politics of Poland
+Polar Bear Expedition (1918-1919)|=|Polar Bear Expedition
+Polar Bridge Expedition (1988)|=|Soviet–Canadian 1988 Polar Bridge Expedition
 Polar Express (Motion picture)|=|The Polar Express (film)
 Polar regions|=|Polar regions of Earth
 Polaris (Ship)|=|USS Periwinkle (1864)
@@ -13327,6 +13415,7 @@ Pondo (African people)|=|Pondo people
 Ponds|=|Pond
 Ponies|=|Pony
 Pons, Solar (Fictitious character)|=|Solar Pons
+Pont-Aven school of art (Movement)|=|Pont-Aven School
 Pontcallec Conspiracy, France, 1718-1720|=|Pontcallec Conspiracy
 Pontiac automobile|=|Pontiac
 Pontiac's Conspiracy, 1763-1765|<->|Pontiac's War
@@ -13410,6 +13499,7 @@ Postsecondary education|->|Higher education
 Poststructuralism|=|Post-structuralism
 Postville (Inuit community)|=|Postville, Newfoundland and Labrador
 Postville Immigration Raid, Postville, Iowa, 2008|=|Postville Raid
+Potato planters (Machines)|=|Potato planter
 Potatoes|=|Potato
 Potchefstroom (South Africa)|=|Potchefstroom
 Potholes|<->|Pothole (landform)
@@ -13962,6 +14052,8 @@ Rainfall probabilities|<->|Probability of precipitation
 Rainiai Massacre, Lithuania, 1941|=|Rainiai massacre
 Rainier, Mount (Wash.)|=|Mount Rainier
 Raipur (India)|=|Raipur
+Raising of Jairus' daughter (Miracle)|=|Raising of Jairus' daughter
+Raising of Lazarus (Miracle)|=|Raising of Lazarus
 Rajasthan (India)|=|Rajasthan
 Rajput (Indic people)|<->|Rajput
 Rakovica Rebellion, Croatia, 1871|=|Rakovica Revolt
@@ -14307,6 +14399,7 @@ Rochefort (France)|=|Rochefort, Charente-Maritime
 Rochefort Expedition, 1757|<->|Raid on Rochefort
 Rochester (N.Y.) -- History|=|History of Rochester, New York
 Rochester Race Riot, Rochester, N.Y., 1964|=|1964 Rochester race riot
+Rock splitters (Machines)|<->|Hydraulic splitter
 Rock Springs Massacre, Rock Springs, Wyo., 1885|=|Rock Springs massacre
 Rockabilly music|=|Rockabilly
 Rocket (Steam locomotive)|=|Stephenson's Rocket
@@ -14388,12 +14481,14 @@ Romney Marsh (England : Marsh)|<->|Romney Marsh
 Roncesvalles, Battle of, Spain, 778|=|Battle of Roncevaux Pass
 Ronchamp (France)|=|Ronchamp
 Rond&ocirc;nia (Brazil : State)|=|Rondônia
+Ronne Antarctic Research Expedition (1946-1948)|<->|Ronne Antarctic Research Expedition
 Roof gardening|<->|Roof garden
 Rookie of the Year Award (Baseball)|<->|Major League Baseball Rookie of the Year Award
 Roosebeke, Battle of, Rozebeke, Belgium, 1382|=|Battle of Roosebeke
 Roosendaal (Netherlands)|<->|Roosendaal
 Roosendaal en Nispen (Netherlands)|=|Roosendaal en Nispen
 Roosevelt River (Brazil)|=|Roosevelt River
+Roosevelt-Rondon Scientific Expedition (1913-1914)|=|Roosevelt–Rondon Scientific Expedition
 Rootkits (Computer software)|=|Rootkit
 Roots (Botany)|=|Root
 Roquefort cheese|=|Roquefort
@@ -14865,6 +14960,7 @@ Saturn (Planet) -- Satellites|=|Moons of Saturn
 Saturn launch vehicles|<->|Saturn (rocket family)
 Sauk Indians|<->|Sauk people
 Saule, Battle of, Lithuania, 1236|=|Battle of Saule
+Sault Sainte Marie International Bridge (Sault Sainte Marie, Mich., and Sault Ste. Marie, Ont.)|=|Sault Ste. Marie International Bridge
 Saumur, Battle of, Saumur, France, 1940|=|Battle of Saumur (1940)
 Saumur (France)|=|Saumur
 Savage, Doc (Fictitious character)|=|Doc Savage
@@ -15592,6 +15688,7 @@ Smith Mine Disaster, Mont., 1943|=|Smith Mine disaster
 Smith Rock State Park (Or.)|=|Smith Rock State Park
 Smith River National Recreation Area (Agency : U.S.)|->|Smith River National Recreation Area
 Smith River National Recreation Area (Calif.)|=|Smith River National Recreation Area
+Smithsonian African Expedition (1909)|<->|Smithsonian–Roosevelt African Expedition
 Smithsonian Institution Building (Washington, D.C.)|=|Smithsonian Institution Building
 Smoky Hills (Kan.)|<->|Smoky Hills
 Smoky Lake (Alta.)|=|Smoky Lake
@@ -15615,6 +15712,8 @@ Snettisham (England)|=|Snettisham
 Snettisham, Port (Alaska)|=|Port Snettisham
 Snipers|=|Sniper
 Snoopy (Fictitious character)|=|Snoopy
+Snoqualmie Falls (Wash. : Waterfall)|=|Snoqualmie Falls
+Snoqualmie Indians|->|Snoqualmie Indian Tribe
 Snow, Mount (Vt.)|<->|Mount Snow
 Snow Hill Island (Antarctica)|=|Snow Hill Island
 Snowdon (Wales)|=|Snowdon
@@ -15811,6 +15910,7 @@ Southwest, New|->|Southwestern United States
 Southwest, Old|=|Old Southwest
 Southwestern States|=|Southwestern United States
 Southwold Bay, Battle of, England, 1672|=|Battle of Solebay
+Soviet Antarctic Expedition (3rd : 1957-1959)|=|3rd Soviet Antarctic Expedition
 Soviet Union -- Foreign relations|=|Foreign relations of the Soviet Union
 Soviet Union -- History -- Allied intervention, 1918-1920|<->|Allied intervention in the Russian Civil War
 Soviet Union -- History -- Attempted coup, 1991|=|1991 Soviet coup d'état attempt
@@ -15925,6 +16025,7 @@ Spithead Mutiny, 1797|<->|Spithead and Nore mutinies
 Spitz dogs|=|Spitz
 Spock (Fictitious character)|=|Spock
 Spoilers (Airplanes)|<->|Spoiler (aeronautics)
+Spokane Falls (Wash. : Waterfall)|<->|Spokane Falls
 Spoken Proficiency English Assessment Kit|=|SPEAK (test)
 Sports|=|Sport
 Sports injuries|=|Sports injury
@@ -15977,6 +16078,7 @@ St. Paul's Cathedral (London, England)|=|St Paul's Cathedral
 St. Paul's Cathedral (Melbourne, Vic.)|=|St Paul's Cathedral, Melbourne
 Staff rides|=|Staff ride
 Staffordshire (England)|=|Staffordshire
+Staging (Space flight)|<->|Multistage rocket
 Stakhanov movement|=|Stakhanovite movement
 Stalingrad, Battle of, Volgograd, Russia, 1942-1943|=|Battle of Stalingrad
 Stalkers|->|Stalking
@@ -16049,6 +16151,7 @@ Stigma (Social psychology)|<->|Social stigma
 Stigmatization|<->|Stigmata
 Stikine River (B.C. and Alaska)|=|Stikine River
 Stiklestad, Battle of, Stiklestad, Norway, 1030|=|Battle of Stiklestad
+Stilling of the storm (Miracle)|=|Calming the storm
 Stillwater Range (Nev.)|=|Stillwater Range
 Stimulants|=|Stimulant
 Stirlingshire (Scotland)|=|Stirlingshire
@@ -16110,6 +16213,7 @@ Stringers (Journalists)|=|Stringer (journalism)
 Strip mining|<->|Surface mining
 Strongest, Battle of, Paraguay, 1934|=|Battle of Cañada Strongest
 Strontium -- Isotopes|=|Isotopes of strontium
+Structural adjustment (Economic policy)|<->|Structural adjustment
 Structural analysis (Engineering)|=|Structural analysis
 Structural design|->|Structural engineering
 Struthof (Concentration camp)|<->|Natzweiler-Struthof
@@ -16164,6 +16268,7 @@ Sudan -- History -- Civil War, 1955-1972|=|First Sudanese Civil War
 Sudan -- History -- Civil War, 1983-2005|=|Second Sudanese Civil War
 Sudan -- History -- Darfur Conflict, 2003-|=|War in Darfur
 Sudan -- Politics and government|<->|Politics of Sudan
+Sue (Tyrannosaurus rex)|=|Sue (dinosaur)
 Suffolk (Va.) -- History|=|History of Suffolk, Virginia
 Suffolk (Va.) -- History -- Siege, 1863|=|Siege of Suffolk
 Suffragists|=|Suffragette
@@ -16225,6 +16330,7 @@ Supernovae|=|Supernova
 Supersonic transport planes|=|Supersonic transport
 Superstition Hills (Calif.)|=|Superstition Hills
 Superstition Mountains (Ariz.)|=|Superstition Mountains
+Supervised learning (Machine learning)|=|Supervised learning
 Supervolcanoes|=|Supervolcano
 Supplemental Nutrition Assistance Program (U.S.)|=|Supplemental Nutrition Assistance Program
 Supreme War Council (1939-1940)|=|Anglo-French Supreme War Council
@@ -16605,6 +16711,7 @@ Teton Dam Failure, Idaho, 1976|->|Teton Dam
 Teton Range (Wyo. and Idaho)|=|Teton Range
 Teutonic race|=|Nordic race
 Tewkesbury, Battle of, Tewkesbury, England, 1471|=|Battle of Tewkesbury
+Texan Mier Expedition (1842-1844)|<->|Mier Expedition
 Texan Santa F&eacute; Expedition, 1841|=|Texan Santa Fe Expedition
 Texas -- Annexation to the United States|=|Texas annexation
 Texas -- History -- Civil War, 1861-1865|=|Texas in the American Civil War
@@ -16892,6 +16999,7 @@ Toys|=|Toy
 Track and field athletes|->|Track and field
 Track system (Education)|=|Tracking (education)
 Tractor pulling (Motorsports)|=|Tractor pulling
+Tracy Arm (Alaska)|=|Tracy Arm
 Trade secrets|=|Trade secret
 Trading posts|=|Trading post
 Traditional farming|->|Agriculture
@@ -16913,6 +17021,8 @@ Tramps|=|Tramp
 Trance (Underground dance music)|<->|Trance music
 Trancoso, Battle of, Portugal, 1385|=|Battle of Trancoso
 Tranquility Base (Moon)|=|Tranquility Base
+Trans-Alaska Pipeline (Alaska)|<->|Trans-Alaska Pipeline System
+Trans-Antarctic Expedition (1955-1958)|=|Commonwealth Trans-Antarctic Expedition
 Trans Europ Express (Express train)|<->|Trans Europ Express
 Transaction systems (Computer systems)|<->|Transaction processing
 Transantarctic Mountains (Antarctica)|=|Transantarctic Mountains
@@ -16925,6 +17035,7 @@ Transference (Psychology)|=|Transference
 Transfinite numbers|=|Transfinite number
 Transgenderism|<->|Transgender
 Transgenic plants|<->|Genetically modified crops
+Transglobe Expedition (1979-1982)|=|Transglobe Expedition
 Transkei (South Africa)|=|Transkei
 Translating and interpreting|<->|Translation
 Transparencies|=|Transparency (projection)
@@ -17109,6 +17220,7 @@ Turnbull National Wildlife Refuge (Wash.)|=|Turnbull National Wildlife Refuge
 Turner's syndrome|=|Turner syndrome
 Turner Valley (Alta.)|=|Turner Valley
 Turning (Lathe work)|<->|Turning
+Turning water into wine at the wedding at Cana (Miracle)|<->|Marriage at Cana
 Turnov (Czech Republic)|=|Turnov
 Turtle Mountain (Alta.)|=|Turtle Mountain (Alberta)
 Turtle Mountain Provincial Park (Man.)|=|Turtle Mountain Provincial Park
@@ -17537,6 +17649,7 @@ United States. National Park Service|=|National Park Service
 United States. National Park Service -- History|=|History of the National Park Service
 United States. Natural Resources Conservation Service|=|Natural Resources Conservation Service
 United States. National Security Agency|=|National Security Agency
+United States Naval Expedition to Japan (1852-1854)|<->|Perry Expedition
 United States. Navy|=|United States Navy
 United States. Navy -- History|=|History of the United States Navy
 United States. Navy -- History -- Civil War, 1861-1865|<->|Union Navy
@@ -17633,6 +17746,7 @@ Ut pictura poesis (Aesthetics)|<->|Ut pictura poesis
 UTA Flight 772 Bombing Incident, 1989|<->|UTA Flight 772
 Utah -- History -- Civil War, 1861-1865|=|Utah in the American Civil War
 Utah -- Politics and government|<->|Government of Utah
+Utah Expedition (1857-1858)|=|Utah War
 Utah Jazz (Basketball team)|=|Utah Jazz
 Ute Indians|=|Ute people
 Ute Indians -- Wars, 1879|<->|White River War
@@ -17703,6 +17817,7 @@ Van Rensselaer family|<->|Van Rensselaer (surname)
 Vance, Philo (Fictitious character)|=|Philo Vance
 Vancouver (B.C.)|=|Vancouver
 Vancouver Canucks (Hockey team)|=|Vancouver Canucks
+Vancouver Expedition (1791-1795)|=|Vancouver Expedition
 Vancouver Island (B.C.)|=|Vancouver Island
 Vane, Harriet (Fictitious character)|=|Harriet Vane
 V&auml;nern (Sweden)|=|Vänern
@@ -18211,6 +18326,7 @@ Western Dvina River|=|Daugava (river)
 Western Morava River (Serbia)|=|West Morava
 Western ribbonsnake|=|Western ribbon snake
 Western Sahara -- Politics and government|<->|Politics of Western Sahara
+Western Union Telegraph Expedition (1865-1867)|<->|Russian–American Telegraph
 Western Wall (Jerusalem)|=|Western Wall
 Westerpark (Amsterdam, Netherlands)|=|Westerpark (park)
 Westerplatte, Battle of, Poland, 1939|=|Battle of Westerplatte
@@ -18243,6 +18359,7 @@ Whiskey|=|Whisky
 Whiskey Rebellion, Pa., 1794|<->|Whiskey Rebellion
 Whistle blowing|<->|Whistleblower
 Whistler Mountain (B.C.)|=|Whistler Mountain
+Whistlers (Radio meteorology)|=|Whistler (radio)
 Whitby (England)|=|Whitby
 White Clay Creek (Pa. and Del.)|=|White Clay Creek
 White Clay Creek Preserve (Del. and Pa.)|<->|White Clay Creek Preserve
@@ -18385,6 +18502,7 @@ Wishes|=|Wish
 Wissahickon Creek (Pa.)|=|Wissahickon Creek
 Wissahickon Valley Park (Philadelphia, Pa.)|=|Wissahickon Valley Park
 Wissembourg, Battle of, Wissembourg, France, 1870|=|Battle of Wissembourg (1870)
+Wissenschaft des Judentums (Movement)|=|Wissenschaft des Judentums
 Witch hunting|<->|Witch-hunt
 Witches|->|Witchcraft
 Witnesses|=|Witness
@@ -18895,6 +19013,7 @@ Zeus (Greek deity)|=|Zeus
 Zgoda (Concentration camp)|=|Zgoda labour camp
 Zhongguo guan (Expo, International Exhibitions Bureau, 2010, Shanghai, China)|=|China pavilion at Expo 2010
 Z&#xfe20;h&#xfe21;ovti Vody, Battle of, Ukraine, 1648|=|Battle of Zhovti Vody
+Ziegler Polar Expedition (1903-1905)|=|Ziegler Polar Expedition
 Zilog Z-80 (Microprocessor)|=|Zilog Z80
 Zilog Z8000 (Microprocessor)|=|Zilog Z8000
 Zimbabwe -- History -- Chimurenga War, 1896-1897|<->|Second Matabele War

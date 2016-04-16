@@ -23,7 +23,7 @@ ID OCLC-WCDGL
 NAME Worldcat.org
 COUNTRY 00
 LOCATION Union catalog of more than 10,000 libraries worldwide
-BASEURL http://www.worldcat.org/search
+BASEURL https://www.worldcat.org/search
 CATTYPE worldcat
 
 ID WKPD
