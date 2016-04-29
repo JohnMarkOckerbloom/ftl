@@ -3452,6 +3452,13 @@ CATTYPE sirsient
 LCODE en_US/public
 BASEURL http://lincolnlibrary.sdp.sirsi.net
 
+ID OCLC-JFN
+NAME Naperville Public Library
+LOCATION Naperville
+STATE IL
+BASEURL http://encore.naperville-lib.org/iii/encore
+CATTYPE encore
+
 ID OCLC-OX2
 NAME Oswego Public Library District
 LOCATION Oswego and Montgomery
@@ -3460,6 +3467,13 @@ CATTYPE sirsient
 BASEURL http://osw.ent.sirsi.net
 LCODE en_US/default
 
+ID OCLC-IEL
+NAME Parlin-Ingersoll Public Library
+LOCATION Canton
+STATE IL
+BASEURL http://catalog.parliningersoll.org/polaris
+CATTYPE polaris
+
 ID OCLC-IHX
 NAME Resource Sharing Alliance (RSA)
 LOCATION Libraries in west central Illinois
@@ -3467,6 +3481,14 @@ STATE IL
 CATTYPE sirsient
 LCODE en_US/RSA
 BASEURL https://alsi.sdp.sirsi.net
+
+ID OCLC-JBO
+NAME Rockford Public Library
+LOCATION Rockford
+STATE IL
+CATTYPE sirsient
+LCODE en_US/default
+BASEURL https://rfpl.ent.sirsi.net
 
 ID OCLC-JDP
 NAME SWAN: System Wide Automated Network
