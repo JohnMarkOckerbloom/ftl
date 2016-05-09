@@ -2671,6 +2671,14 @@ BASEURL http://www.darienlibrary.org/catalog
 CATTYPE sopac
 FILTERS NK
 
+ID OCLC-THS
+NAME Edsel Ford Memorial Library, Hotchkiss School
+LOCATION Lakeville
+STATE CT
+BASEURL http://bearcat.hotchkiss.org
+CATTYPE koha
+FILTERS N
+
 ID OCLC-FEM
 NAME The Ferguson Library
 LOCATION Stamford
@@ -3754,6 +3762,14 @@ STATE KS
 CATTYPE bibliocommons
 BASEURL http://jocolibrary.bibliocommons.com
 
+ID OCLC-KCK
+NAME Kansas City, Kansas Public Library
+LOCATION Kansas City
+STATE KS
+CATTYPE sirsient
+BASEURL http://kckl.ent.sirsi.net
+LCODE en_US/home
+
 ID OCLC-KKS
 NAME Kansas State University
 LOCATION Manhattan
@@ -3787,6 +3803,13 @@ CATTYPE primodl-scope
 VID KU
 LCODE KU
 SCOPE QUICK
+
+ID OCLC-KFW
+NAME Wichita Public Library
+LOCATION Wichita
+STATE KS
+BASEURL http://catalog.wichita.lib.ks.us/polaris
+CATTYPE polaris
 
 ID OCLC-KSW
 NAME Wichita State University
