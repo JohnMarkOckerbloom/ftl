@@ -3291,6 +3291,15 @@ LCODE OUZ
 SCOPE OUZ_ALL
 DEFAULT http://manoa.hawaii.edu/libraries/
 
+ID OCLC-BLFPL
+NAME Blackfoot Public Library
+LOCATION Blackfoot
+STATE ID
+CATTYPE destinyhosted
+BASEURL https://blackfootlibrary.follettdestiny.com
+LCODE 100
+CONTEXT saas35_1100472
+
 ID OCLC-1OE
 NAME Boise Public Library
 LOCATION Boise
@@ -3327,6 +3336,21 @@ STATE ID
 BASEURL http://catalog.ifpl.org
 CATTYPE ipac20
 PROFILE ifl
+
+ID OCLC-ONB
+NAME Idaho State University
+LOCATION Pocatello
+STATE ID
+CATTYPE eds
+LCODE s6406031
+
+ID OCLC-Q6J
+NAME Marshall Public Library
+LOCATION Pocatello
+STATE ID
+CATTYPE polaris-context
+BASEURL http://lcei.polarislibrary.com/polaris
+CONTEXT 22.1033.0.0.3
 
 ID OCLC-ZPJ
 NAME Meridian Library District
@@ -7120,6 +7144,14 @@ BASEURL http://catalog.brookslibraryvt.org
 CATTYPE koha-group
 LCODE BROOKSBRAT
 
+ID OCLC-VTESS
+NAME Essex Free Library
+LOCATION Essex
+STATE VT
+BASEURL http://essexfreelibrary.kohavt.org
+CATTYPE koha-group
+LCODE VSQ7
+
 ID OCLC-F3L
 NAME Fletcher Free Library
 LOCATION Burlington
@@ -7140,6 +7172,16 @@ LOCATION Rutland
 STATE VT
 BASEURL http://catalog.rutlandfree.org
 CATTYPE koha
+
+ID OCLC-VTU
+NAME University of Vermont
+LOCATION Burlington
+STATE VT
+CATTYPE primodl-scope
+BASEURL http://primo.uvm.edu
+LCODE und
+VID UVM
+SCOPE Everything
 
 ID OCLC-BLP
 NAME Bellingham Public Library
