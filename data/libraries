@@ -6451,6 +6451,28 @@ BASEURL http://libraries.etsu.edu
 CATTYPE iii-consortium-member
 LCODE 12
 
+ID OCLC-FSK
+NAME Fisk University
+LOCATION Nashville
+STATE TN
+BASEURL http://library.fisk.edu
+CATTYPE webpacpro
+
+ID OCLC-TKL
+NAME Knox County Public Library
+LOCATION Knoxville and vicinity
+STATE TN
+BASEURL https://cat.knoxlib.org/uhtbin/cgisirsi
+CATTYPE sirsiid
+USER USER
+
+ID OCLC-LOC
+NAME LeMoyne-Owen College
+LOCATION Memphis
+STATE TN
+CATTYPE summon
+BASEURL http://loc.summon.serialssolutions.com
+
 ID OCLC-TMN
 NAME Memphis Public Library and Information Center
 LOCATION Memphis
@@ -6534,6 +6556,17 @@ LOCATION Chattanooga
 STATE TN
 BASEURL http://utc.worldcat.org/search
 CATTYPE worldcat
+
+ID OCLC-TJC
+NAME Vanderbilt University
+LOCATION Nashville
+STATE TN
+CATTYPE primodl-loc
+BASEURL http://discoverlibrary.vanderbilt.edu
+VID VANDERBILT
+LCODE VAN
+LOC adaptor,scope:(GMA),scope:(tvnews),scope:(vanunicorn),scope:(usserial),scope:(ACT),scope:(discoverarchive),scope:(vuojs),primo_central_multiple_fe
+DEFAULT http://discoverlibrary.vanderbilt.edu/
 
 ID OCLC-ALAMO
 NAME Alamo Colleges Libraries
