@@ -4228,6 +4228,13 @@ VID BRAND
 LCODE 01BRAND
 SCOPE ALMA
 
+ID OCLC-BDR
+NAME Bridgewater State University, Maxwell Library
+LOCATION Bridgewater
+STATE MA
+CATTYPE voyager-vwebv
+BASEURL http://webster.bridgew.edu/vwebv/search
+
 ID OCLC-CWJ
 NAME C/W MARS
 LOCATION Public and small academic libraries in central and western MA
@@ -4272,6 +4279,14 @@ LOCATION Cambridge
 STATE MA
 CATTYPE aquabrowser
 BASEURL http://hollis.harvard.edu
+
+ID OCLC-QWQ
+NAME J. V. Fletcher Library
+LOCATION Westford
+STATE MA
+BASEURL https://westford.mvlc.org/eg/opac
+CATTYPE evergreen-dynamic
+LCODE 77
 
 ID OCLC-MRQ
 NAME Merrimack Valley Library Consortium
@@ -4370,6 +4385,15 @@ STATE MA
 BASEURL http://francis.williams.edu
 CATTYPE webpacpro
 FILTERS N
+
+ID OCLC-WZW
+NAME Worcester Public Library
+LOCATION Worcester
+STATE MA
+BASEURL http://worp-main.cwmars.org/eg/opac
+CATTYPE evergreen-dynamic
+FILTERS N
+LCODE 142
 
 ID OCLC-EYH
 NAME Ann Arbor District Library
