@@ -918,6 +918,14 @@ CATTYPE tlc
 LCODE ysm
 BASEURL http://yclibw.yukoncollege.yk.ca/
 
+# This is a SIRSI catalog, but forcing keyword search due to limited results
+ID OCLC-BNM
+NAME Biblioteca Nacional de Espa&ntilde;a
+LOCATION Madrid; English search terms may give limited results
+COUNTRY ES
+BASEURL http://catalogo.bne.es/uhtbin/cgisirsi
+KEYURL ${BASEURL}/x/0/0/5?searchdata1=${ARG:NK}
+
 ID ADDISABABAUNIV
 NAME Addis Ababa University
 LOCATION Addis Ababa
@@ -4336,6 +4344,14 @@ BASEURL https://catalog.ocln.org
 CATTYPE sirsient
 LCODE en_US/default
 
+ID OCLC-S6L
+NAME SAILS Library Network
+LOCATION New Bedford, Fall River, Taunton, and vicinity
+STATE MA
+BASEURL https://sails.ent.sirsi.net
+CATTYPE sirsient
+LCODE en_US/fullsite
+
 ID OCLC-1SC
 NAME Simmons College
 LOCATION Boston
@@ -4866,6 +4882,13 @@ LOCATION Las Vegas and vicinity
 STATE NV
 CATTYPE summon
 BASEURL http://csn.summon.serialssolutions.com
+
+ID OCLC-NVC
+NAME Las Vegas-Clark County Library District
+LOCATION Las Vegas and vicinity
+STATE NV
+BASEURL http://ilsweb.lvccld.org
+CATTYPE innopac
 
 ID OLB-WASHOE
 NAME Washoe County Library System
