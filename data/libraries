@@ -3469,6 +3469,14 @@ STATE IL
 BASEURL https://search.illinoisheartland.org
 CATTYPE polaris
 
+ID OCLC-JAG
+NAME Indian Trails Library District
+LOCATION Buffalo Grove, Wheeling, Prospect Heights, and vicinity
+STATE IL
+CATTYPE sirsient
+LCODE en_US/default
+BASEURL http://itpld.ent.sirsi.net
+
 ID OCLC-AP8
 NAME Joliet Junior College
 LOCATION Joliet
@@ -4854,6 +4862,20 @@ BASEURL http://montana-primo.hosted.exlibrisgroup.com
 VID UMMISS
 LCODE UMMISS
 SCOPE UMMISS_PLUS
+
+ID OCLC-BLL
+NAME Bellevue Public Library
+LOCATION Bellevue
+STATE NE
+BASEURL http://belvu.sirsi.net/uhtbin/cgisirsi
+CATTYPE sirsi
+
+ID OCLC-OCA
+NAME Creighton University
+LOCATION Omaha
+STATE NE
+CATTYPE summon
+BASEURL http://creighton.summon.serialssolutions.com
 
 ID OCLC-NLN
 NAME Lincoln City Libraries
