@@ -168,8 +168,9 @@ ID AU-XNLS
 NAME Northern Territory Library
 LOCATION Darwin, Northern Territory
 COUNTRY AU
-BASEURL http://libraries.nt.gov.au/cgi-bin/chameleon
-CATTYPE chameleon
+BASEURL http://libraries.nt.gov.au
+CATTYPE chamo
+FILTERS S
 
 ID AU-QUT
 NAME Queensland University of Technology
@@ -177,6 +178,15 @@ LOCATION Brisbane and other campuses, Queensland
 COUNTRY AU
 CATTYPE summon
 BASEURL http://qut.summon.serialssolutions.com
+
+ID OCLC-RM0
+NAME RMIT University
+LOCATION Melbourne, Victoria, and other campuses
+COUNTRY AU
+CATTYPE primodl-loc
+BASEURL http://primo-direct-apac.hosted.exlibrisgroup.com
+VID RMITU
+LOC adaptor,scope:(RMIT_SubjectGuides),scope:(RMIPE),scope:(eReserve),scope:(RMIT_Architecture_Slides),scope:(RMIT_ThirdPartyVideo),scope:(RMITHistoricalImages),scope:(RMITImages),scope:(RMITU),scope:(RMIT_RESEARCH),primo_central_multiple_fe
 
 ID AU-SRGS
 NAME Royal Geographical Society of South Australia
@@ -194,10 +204,13 @@ ID AU-NSL
 NAME State Library of New South Wales
 LOCATION Sydney, New South Wales
 COUNTRY AU
-CATTYPE 360search
-BASEURL http://ch2bx2ke8t.cs.serialssolutions.com
-LCODE CH2BX2KE8T
-DBID F78%2CF79
+CATTYPE webpacpro
+BASEURL http://library.sl.nsw.gov.au
+# new catalog doesn't yet handle dated authors well
+# CATTYPE primodl-loc
+# BASEURL http://primo-slnsw-sb.hosted.exlibrisgroup.com
+# VID SLNSW
+# LOC adaptor,scope:(ADLIB),scope:(SLNSW_ALMA)
 
 ID AU-QSL
 NAME State Library of Queensland
