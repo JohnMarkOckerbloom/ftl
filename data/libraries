@@ -931,6 +931,16 @@ CATTYPE tlc
 LCODE ysm
 BASEURL http://yclibw.yukoncollege.yk.ca/
 
+ID DE-11
+NAME Humboldt-Universit&auml;t zu Berlin
+LOCATION Berlin; English search terms may give limited results
+COUNTRY DE
+CATTYPE primodl-scope
+BASEURL http://primo.kobv.de
+VID hub_ub
+LCODE HUB
+SCOPE HUB_ALL
+
 # This is a SIRSI catalog, but forcing keyword search due to limited results
 ID OCLC-BNM
 NAME Biblioteca Nacional de Espa&ntilde;a
@@ -5637,6 +5647,14 @@ STATE NC
 CATTYPE summon
 BASEURL http://wfu.summon.serialssolutions.com
 
+ID OCLC-BPL
+NAME Bismarck Veterans Memorial Public Library
+LOCATION Bismarck
+STATE ND
+CATTYPE ipac20
+BASEURL http://ipac.infolynx.org
+PROFILE maincentral
+
 ID OCLC-NFG
 NAME Fargo Public Library
 LOCATION Fargo
@@ -5661,6 +5679,16 @@ BASEURL http://odin-primo.hosted.exlibrisgroup.com/
 VID ndsu
 LCODE NDSU
 SCOPE NDSU_ALL
+
+ID OCLC-4ZG
+NAME University of North Dakota
+LOCATION Grand Forks
+STATE ND
+CATTYPE primodl-scope
+BASEURL http://odin-primo.hosted.exlibrisgroup.com/
+VID und
+LCODE und
+SCOPE all
 
 ID OCLC-APL
 NAME Akron-Summit County Public Library
