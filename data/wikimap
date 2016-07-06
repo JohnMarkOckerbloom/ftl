@@ -9,7 +9,7 @@
 #   or lexical analysis (such as many geographical locations)
 #   are not included in this file.
 # See docs file for documentation
-# Last updated 2016-07-01
+# Last updated 2016-07-05
 # Did LCSH 2016 update lists 1-5
 16th Street Baptist Church Bombing, Birmingham, Ala., 1963|=|16th Street Baptist Church bombing
 20th Century Limited (Express train)|=|20th Century Limited
@@ -149,7 +149,7 @@ Acute phase proteins|=|Acute-phase protein
 Acute phase reaction|->|Acute-phase protein
 Ada (Computer program language)|=|Ada (programming language)
 Ada 95 (Computer program language)|->|Ada (programming language)
-Adad (Assyro-Babylonian deity)|=|Adad
+Adad (Assyro-Babylonian deity)|=|Hadad
 Adak Island (Alaska)|=|Adak Island
 Adams family|<->|Adams (surname)
 Adams, Mount (Wash.)|=|Mount Adams (Washington)
@@ -1531,7 +1531,7 @@ Barrackpore (India : Subdivision)|=|Barrackpore subdivision
 Barren fig tree (Parable)|=|Parable of the barren fig tree
 Barrhead County No. 11 (Alta.)|=|County of Barrhead No. 11
 Barrie (Ont.)|=|Barrie
-Barrier Forts, Battle of the, China, 1856|=|Battle of the Pearl River Forts
+Barrier Forts, Battle of the, China, 1856|=|Battle of the Barrier Forts
 Barro Colorado Island (Panama)|=|Barro Colorado Island
 Barrosa, Battle of, Spain, 1811|=|Battle of Barrosa
 Barrow, Point (Alaska)|=|Point Barrow
@@ -1820,7 +1820,7 @@ Bhutto, Benazir, 1953-2007 -- Assassination|=|Assassination of Benazir Bhutto
 Biak Island (Indonesia)|=|Biak
 Biak Island, Battle of, Indonesia, 1944|<->|Battle of Biak
 Bia&lstrok;ystok (Poland)|=|Białystok
-Bia&lstrok;ystok (Poland) -- History -- Bia&lstrok;ystok Ghetto Uprising, 1943|=|Białystok Ghetto Uprising
+Bia&lstrok;ystok (Poland) -- History -- Bia&lstrok;ystok Ghetto Uprising, 1943|=|Białystok Ghetto uprising
 BIBFRAME (Conceptual model)|=|BIBFRAME
 Bible. Acts|=|Acts of the Apostles
 Bible. Amos|=|Book of Amos
@@ -2652,7 +2652,7 @@ Cabot Strait (N.L. and N.S.)|=|Cabot Strait
 Cache-sexes|=|Cache-sexe
 Cach&iacute;, Nevado de (Argentina)|=|Nevado de Cachi
 Caddo Lake (La. and Tex.)|=|Caddo Lake
-Cade's Rebellion, 1450|->|Jack Cade
+Cade's Rebellion, 1450|=|Jack Cade's Rebellion
 Cadfael, Brother (Fictitious character)|=|Cadfael
 Cadiz, Battle of, 1656|=|Battle of Cádiz (1656)
 C&aacute;diz Expedition, 1587|<->|Singeing the King of Spain's Beard
@@ -3138,7 +3138,7 @@ Cessna 150 (Private plane)|=|Cessna 150
 Cessna 152 (Private plane)|=|Cessna 152
 Cessna 172 (Private plane)|=|Cessna 172
 Cessna 180 (Private plane)|=|Cessna 180
-Cessna 182 (Private plane)|=|Cessna 182
+Cessna 182 (Private plane)|<->|Cessna 182 Skylane
 Cessna 185 (Private plane)|=|Cessna 185
 Cessna 206 (Private plane)|<->|Cessna 206
 Cessna 208 (Turboprop transport)|<->|Cessna 208 Caravan
@@ -3293,7 +3293,7 @@ Cherry Mine Disaster, Cherry, Ill., 1909|=|1909 Cherry Mine disaster
 Cherry pickers (Machines)|=|Cherry picker
 Cherwell, River (England)|=|River Cherwell
 Chesapeake, Battle of the, Va., 1781|=|Battle of the Chesapeake
-Chesapeake and Delaware Canal (Del. and Md.)|=|Chesapeake and Delaware Canal
+Chesapeake and Delaware Canal (Del. and Md.)|=|Chesapeake & Delaware Canal
 Chesapeake and Ohio Canal (Md. and Washington, D.C.)|=|Chesapeake and Ohio Canal
 Chesapeake Bay (Md. and Va.)|=|Chesapeake Bay
 Chesapeake Bay Region (Md. and Va.)|->|Chesapeake Bay
@@ -3752,7 +3752,7 @@ Clingmans Dome (N.C. and Tenn.)|=|Clingmans Dome
 Clinical medicine -- Research|<->|Clinical research
 Clinical pastoral education (Movement)|<->|Clinical pastoral education
 Clinical trials|=|Clinical trial
-Clinton, Bill, 1946- -- Impeachment|<->|Impeachment and acquittal of Bill Clinton
+Clinton, Bill, 1946- -- Impeachment|=|Impeachment of Bill Clinton
 Clippings (Books, newspapers, etc.)|<->|Clipping (publications)
 Clocks and watches|<->|Clock
 Clocks and watches|<-|Watch
@@ -7933,6 +7933,8 @@ Highland Mountains (Mont.)|=|Highland Mountains
 Highlands (Scotland)|=|Scottish Highlands
 Highway 22 (Alta.)|=|Alberta Highway 22
 Highway 407 (Ont.)|=|Ontario Highway 407
+Highway 93 (Alta. and B.C.)|<-|Alberta Highway 93
+Highway 93 (Alta. and B.C.)|<-|British Columbia Highway 93
 Highway 95 (B.C.)|=|British Columbia Highway 95
 Highwood River (Alta.)|=|Highwood River
 Hijab (Islamic clothing)|=|Hijab
@@ -8396,7 +8398,7 @@ Ice caps|=|Ice cap
 Ice carving|<->|Ice sculpture
 Ice shelves|=|Ice shelf
 Iceboating|->|Ice boat
-Icefields Parkway (Alta.)|=|Icefields Parkway
+Icefields Parkway (Alta.)|->|Alberta Highway 93
 Icelandic poetry|->|Icelandic literature
 Ichthyosauria|<->|Ichthyosaur
 Ichthyosaurus|->|Ichthyosaur
@@ -9125,7 +9127,7 @@ Jesuits|=|Society of Jesus
 Jesuits -- History -- Suppression, 1773-1814|<->|Suppression of the Society of Jesus
 Jesup North Pacific Expedition (1897-1902)|=|Jesup North Pacific Expedition
 Jesus Christ|=|Jesus
-Jesus Christ -- Appearances|=|Resurrection appearances of Jesus
+Jesus Christ -- Appearances|=|Post-Resurrection appearances of Jesus
 Jesus Christ -- Art|<->|Depiction of Jesus
 Jesus Christ -- Ascension|=|Ascension of Jesus
 Jesus Christ -- Baptism|=|Baptism of Jesus
@@ -9223,8 +9225,8 @@ Jews -- South Africa -- History|<->|History of the Jews in South Africa
 Jews -- Soviet Union -- History|<->|History of the Jews in the Soviet Union
 Jews -- Spain -- History|<->|History of the Jews in Spain
 Jews -- Spain -- History -- Expulsion, 1492|<->|Alhambra Decree
-Jews -- Turkey|<->|Jews in Turkey
-Jews -- Turkey -- History|->|Jews in Turkey
+Jews -- Turkey|->|History of the Jews in Turkey
+Jews -- Turkey -- History|<->|History of the Jews in Turkey
 Jews -- Ukraine -- History|<->|History of the Jews in Ukraine
 Jews -- United States|<->|American Jews
 Jews -- United States -- History|<->|History of the Jews in the United States
@@ -9252,7 +9254,7 @@ John F. Kennedy Space Center|=|Kennedy Space Center
 John Henry (Legendary character)|=|John Henry (folklore)
 John Henry (Race horse)|=|John Henry (horse)
 John Paul II, Pope, 1920-2005 -- Assassination attempt, 1981|=|Pope John Paul II assassination attempt
-Johnson, Andrew, 1808-1875 -- Impeachment|<->|Impeachment and acquittal of Andrew Johnson
+Johnson, Andrew, 1808-1875 -- Impeachment|=|Impeachment of Andrew Johnson
 Johnson County War, 1892|=|Johnson County War
 Johnsonville, Battle of, Johnsonville, Tenn., 1864|=|Battle of Johnsonville
 Johor (Malaysia)|=|Johor
@@ -9278,7 +9280,7 @@ Jualpa Mine Camp (Alaska)|<->|Last Chance Mining Museum
 Juane&ntilde;o Indians|=|Juaneño
 Judaculla Rock (N.C.)|=|Judaculla Rock
 Judaea (Region)|<->|Judea
-Judaism -- History -- Medieval and early modern period, 425-1789|<->|Jews in the Middle Ages
+Judaism -- History -- Medieval and early modern period, 425-1789|<->|History of the Jews in the Middle Ages
 Judaism -- History -- Post-exilic period, 586 B.C.-210 A.D.|<->|Second Temple Judaism
 Judas burning (Social custom)|=|Burning of Judas
 Judean Hills|=|Judaean Mountains
@@ -9696,7 +9698,7 @@ Kootznahoo Inlet (Alaska)|=|Kootznahoo Inlet
 Kootznoowoo Wilderness (Alaska)|=|Kootznoowoo Wilderness
 Korangal Valley (Afghanistan)|=|Korangal Valley
 Korea -- History -- Allied occupation, 1945-1948|<->|United States Army Military Government in Korea
-Korea -- History -- Chejudo Rebellion, 1948|=|Jeju Uprising
+Korea -- History -- Chejudo Rebellion, 1948|=|Jeju uprising
 Korea -- History -- Chos&#x014f;n dynasty, 1392-1910|<->|Joseon
 Korea -- History -- Independence movement, 1919|<->|March 1st Movement
 Korea -- History -- Japanese Invasions, 1592-1598|=|Japanese invasions of Korea (1592–98)
@@ -10942,7 +10944,7 @@ Mark Twain House (Hartford, Conn.)|<->|Mark Twain House
 Mark V (Tank)|=|Mark V tank
 Markedness (Linguistics)|<->|Markedness
 Markerville (Alta.)|=|Markerville
-Market East Station (Philadelphia, Pa.)|<->|Jefferson Station (Philadelphia)
+Market East Station (Philadelphia, Pa.)|<->|Jefferson Station (SEPTA)
 Marketing -- Management|=|Marketing management
 Markets|<->|Market (place)
 Market surveys|<->|Market research
@@ -10980,7 +10982,7 @@ Martha's Vineyard (Mass.)|=|Martha's Vineyard
 Martians|=|Martian
 Mart&iacute;n Garc&iacute;a, Battle of, Argentina, 1814|=|Battle of Martín García (1814)
 Martin Luther King, Jr., Memorial (Washington, D.C.)|=|Martin Luther King, Jr. Memorial
-Martin Luther King, Jr., National Historic Site (Atlanta, Ga.)|=|Martin Luther King, Jr. National Historic Site
+Martin Luther King, Jr., National Historic Site (Atlanta, Ga.)|=|Martin Luther King, Jr., National Historic Site
 Martin, Lake (Ala.)|=|Lake Martin
 Martin Storm, 1999|->|Cyclone Lothar and Martin
 Martinsville Seven Trial, Martinsville, Va., 1949|<->|Martinsville Seven
@@ -11569,11 +11571,11 @@ Mobile-Tensaw Delta (Ala.)|=|Mobile-Tensaw River Delta
 Mod culture (Subculture)|=|Mod (subculture)
 Modality (Logic)|<->|Modal logic
 Modeling|->|Physical model
-Models (Persons)|=|Model (people)
+Models (Persons)|=|Model (person)
 Models and modelmaking|<->|Physical model
 Modern family (Television program)|=|Modern Family
 Modernism (Aesthetics)|<->|Modernism
-Modernism (Christian theology) -- Catholic Church|=|Modernism (Roman Catholicism)
+Modernism (Christian theology) -- Catholic Church|=|Modernism in the Catholic Church
 Modernism (Literature)|<->|Literary modernism
 Modernist-fundamentalist controversy|=|Fundamentalist–Modernist Controversy
 Modern Language Association of America|=|Modern Language Association
@@ -12252,7 +12254,7 @@ Nebraska National Forest (Agency : U.S.)|->|Nebraska National Forest
 Nebraska National Forest (Neb. and S.D.)|<->|Nebraska National Forest
 Nebulae|=|Nebula
 Nederlandse Hervormde Kerk|<->|Dutch Reformed Church
-Nederlandse Hervormde Kerk -- History -- Secession, 1834|=|Secession of 1834
+Nederlandse Hervormde Kerk -- History -- Secession, 1834|=|1834 Dutch Reformed Church split
 Needle exchange programs|=|Needle exchange programme
 Needle Mountains (Colo.)|=|Needle Mountains
 Needles, The (S.D. : Pillar)|<->|Needles (Black Hills)
@@ -12287,7 +12289,7 @@ Nepal -- Politics and government|<->|Politics of Nepal
 Nepal -- Politics and government|<-|Government of Nepal
 Nepalese War, 1814-1816|=|Anglo-Nepalese War
 Nephanalysis (Meteorology)|=|Nephanalysis
-Nephews|=|Nephew
+Nephews|->|Nephew and niece
 Nepoviruses|=|Nepovirus
 NEPSY (Neuropsychological test)|<->|NEPSY
 Neptune (Planet)|=|Neptune
@@ -12332,7 +12334,7 @@ Neurotoxic agents|=|Neurotoxin
 Neurotoxicology|->|Neurotoxin
 Neurotransmitters|=|Neurotransmitter
 Neutral Nation Indians|=|Neutral Nation
-Neutrality|<->|Country neutrality (international relations)
+Neutrality|<->|Neutral country
 Neuve-Chapelle (France)|=|Neuve-Chapelle
 Neuve-Chapelle, Battle of, Neuve-Chapelle, France, 1915|=|Battle of Neuve Chapelle
 Nevada -- History -- Civil War, 1861-1865|=|Nevada in the American Civil War
@@ -12406,7 +12408,6 @@ New York (N.Y.) -- History -- Conspiracy of 1741|=|New York Conspiracy of 1741
 New York (N.Y.) -- Population|=|Demographics of New York City
 New York (N.Y.) -- Politics and government|<->|Government of New York City
 New York Rangers (Hockey team)|=|New York Rangers
-New York (State)|=|New York
 New York (State) -- History|=|History of New York
 New York (State) -- History -- Civil War, 1861-1865|=|New York in the American Civil War
 New York (State) -- History -- Civil War, 1861-1865 -- Regimental histories|<->|List of New York Civil War regiments
@@ -12488,7 +12489,7 @@ Nicobarese (Indic people)|=|Nicobarese people
 Nicopolis, Battle of, Nikopol, Bulgaria, 1396|=|Battle of Nicopolis
 Nicotine addiction|->|Nicotine
 Nidwalden (Switzerland)|=|Nidwalden
-Nieces|=|Niece
+Nieces|->|Nephew and niece
 Niemcza (Poland) -- History -- Siege, 1017|=|Siege of Niemcza
 Nieuwpoort, Battle of, Belgium, 1600|=|Battle of Nieuwpoort
 Niger -- History -- Coup d'&eacute;tat, 1974|=|1974 Nigerien coup d'état
@@ -12686,7 +12687,7 @@ Northwest Territories -- Politics and government|<->|Politics of the Northwest T
 Northwestern Band of Shoshoni Nation of Utah (Washakie)|=|Northwestern Band of the Shoshone Nation
 Norton Bay (Alaska)|=|Norton Bay
 Norton Sound (Alaska)|=|Norton Sound
-Norwalk (Conn.) -- History -- Burning by the British, 1779|<->|Battle of Norwalk
+Norwalk (Conn.) -- History|=|History of Norwalk, Connecticut
 Norway -- History -- German occupation, 1940-1945|=|German occupation of Norway
 Norway -- History -- Hannibal's War, 1644-1645|->|Torstenson War
 Norway -- History -- Separation from Sweden, 1905|=|Dissolution of the union between Norway and Sweden
@@ -13570,7 +13571,7 @@ Paris (France)|=|Paris
 Paris (France) -- History|=|History of Paris
 Paris (France) -- History -- Capitulation, 1814|<->|Battle of Paris (1814)
 Paris (France) -- History -- Commune, 1871|<->|Paris Commune
-Paris (France) -- History -- June Days, 1848|<->|June Days Uprising
+Paris (France) -- History -- June Days, 1848|<->|June Days uprising
 Paris (France) -- History -- Siege, 1590|=|Siege of Paris (1590)
 Paris (France) -- History -- Siege, 1870-1871|<->|Siege of Paris (1870–71)
 Paris (France) -- History -- Siege, 885-887|<->|Siege of Paris (885–86)
@@ -14198,7 +14199,7 @@ Ponds|=|Pond
 Ponies|=|Pony
 Pons, Solar (Fictitious character)|=|Solar Pons
 Pont-Aven school of art (Movement)|=|Pont-Aven School
-Pontcallec Conspiracy, France, 1718-1720|=|Pontcallec Conspiracy
+Pontcallec Conspiracy, France, 1718-1720|=|Pontcallec conspiracy
 Ponte di Augusto (Narni, Italy)|=|Ponte d'Augusto (Narni)
 Ponte di Rialto (Venice, Italy)|=|Rialto Bridge
 Pontiac automobile|=|Pontiac
@@ -14210,7 +14211,7 @@ Pool (Game)|=|Pool (cue sports)
 Poor laws|->|Poor relief
 Popes|=|Pope
 Popes -- Infallibility|=|Papal infallibility
-Popes -- Primacy|=|Primacy of the Bishop of Rome
+Popes -- Primacy|=|Papal primacy
 Popes -- Temporal power|=|Temporal power (papal)
 Popeye (Fictitious character)|=|Popeye
 Popish Plot, 1678|<->|Popish Plot
@@ -14251,7 +14252,7 @@ Portugal -- Colonies|<->|Portuguese Empire
 Portugal -- History -- 1974-|<->|Third Portuguese Republic
 Portugal -- History -- Civil War, 1846-1847|=|Patuleia
 Portugal -- History -- Coup d'&eacute;tat, 1975|<->|Coup of 25 November 1975
-Portugal -- History -- Interregnum, 1383-1385|<->|1383–85 Portuguese Interregnum
+Portugal -- History -- Interregnum, 1383-1385|<->|1383–85 Portuguese interregnum
 Portugal -- History -- Period of discoveries, 1385-1580|<->|Portuguese discoveries
 Portugal -- History -- Revolution, 1640|<->|Portuguese Restoration War
 Portugal -- History -- Revolution, 1820|<->|Liberal Revolution of 1820
@@ -14340,7 +14341,7 @@ Prairie school (Architecture)|=|Prairie School
 Prairie Type (Steam locomotives)|<->|2-6-2
 Prairies|=|Prairie
 Prakrit languages|=|Prakrit
-Prayer -- Catholic Church|<->|Roman Catholic prayer
+Prayer -- Catholic Church|<->|Prayer in the Catholic Church
 Prayer -- Christianity|<->|Christian prayer
 Prayer -- Hinduism|=|Prayer in Hinduism
 Prayer -- Islam|<->|Dua
@@ -16124,7 +16125,7 @@ Seward Highway (Alaska)|=|Seward Highway
 Sewee Indians|=|Sewee
 Sex -- Religious aspects|<->|Religion and sexuality
 Sex -- Religious aspects -- Buddhism|<->|Buddhism and sexuality
-Sex -- Religious aspects -- Catholic Church|<->|Catholic teachings on sexual morality
+Sex -- Religious aspects -- Catholic Church|<->|Catholic theology of sexuality
 Sex -- Religious aspects -- Islam|<->|Islamic sexual jurisprudence
 Sex -- Religious aspects -- Judaism|<->|Judaism and sexuality
 Sex addiction|=|Sexual addiction
@@ -16833,7 +16834,7 @@ Soviet Antarctic Expedition (3rd : 1957-1959)|=|3rd Soviet Antarctic Expedition
 Soviet Union -- Foreign relations|=|Foreign relations of the Soviet Union
 Soviet Union -- History -- Allied intervention, 1918-1920|<->|Allied intervention in the Russian Civil War
 Soviet Union -- History -- Attempted coup, 1991|=|1991 Soviet coup d'état attempt
-Soviet Union -- History -- Famine, 1921-1922|<->|Russian famine of 1921-1922
+Soviet Union -- History -- Famine, 1921-1922|<->|Russian famine of 1921–22
 Soviet Union -- History -- Izhevsk-Votkinsk Revolt, 1918|=|Izhevsk–Votkinsk Uprising
 Soviet Union -- History -- Revolution, 1917-1921|<->|Russian Revolution
 Soviet Union -- Politics and government|<->|Politics of the Soviet Union
@@ -17172,7 +17173,7 @@ Sturgeon Lake (Sask.)|=|Sturgeon Lake (Saskatchewan)
 Stuttgart (Germany)|=|Stuttgart
 Stutthof (Concentration camp)|=|Stutthof concentration camp
 Styka, Jan, 1858-1925. Panorama of the Battle of Rac&lstrok;awice|=|Racławice Panorama
-Style, Literary|<->|Style (literature)
+Style, Literary|<->|Writing style
 Styria (Austria)|=|Styria
 Styria (Austria) -- History|<->|History of Styria
 Subconsciousness|=|Subconscious
@@ -17388,7 +17389,7 @@ Synthesizer (Musical instrument)|=|Synthesizer
 Synthetic fuels|=|Synthetic fuel
 Synthpop (Music)|=|Synthpop
 Syracuse (Italy)|=|Syracuse, Sicily
-Syria -- History -- Civil War, 2011-|<->|Syrian Civil War
+Syria -- History -- Civil War, 2011-|<->|Syrian civil war
 Syria -- History -- Insurrection, 1925-1927|=|Great Syrian Revolt
 Syria -- Religion|=|Religion in Syria
 Syrian Orthodox Church|=|Syriac Orthodox Church
@@ -18919,7 +18920,7 @@ Velha Goa (India)|=|Old Goa
 Veliko T&ubreve;rnovo (Bulgaria)|=|Veliko Tarnovo
 Velletri (Italy)|=|Velletri
 Velletri, Battle of, Velletri, Italy, 1744|=|Battle of Velletri (1744)
-Vellore Mutiny, Vellore, India, 1806|=|Vellore Mutiny
+Vellore Mutiny, Vellore, India, 1806|=|Vellore mutiny
 Veluwe (Netherlands)|=|Veluwe
 Vend&eacute;e (France)|<->|Vendée
 Veneto (Italy)|=|Veneto
@@ -19097,7 +19098,7 @@ Virtual pets|<->|Digital pet
 Virtues|->|Virtue
 Virus diseases|=|Viral disease
 Viruses|=|Virus
-Visas|=|Visa (document)
+Visas|=|Travel visa
 Visby, Battle of, Visby, Sweden, 1361|=|Battle of Visby
 Visby (Sweden)|=|Visby
 Vision disorders|=|Vision disorder
@@ -19306,7 +19307,7 @@ Water hyacinth|<->|Eichhornia crassipes
 Water-meters|<->|Water metering
 Water mills|=|Watermill
 Water penny beetles|=|Water-penny beetle
-Water-pipes|=|Water pipe
+Water-pipes|->|Plumbing
 Water-power|=|Hydropower
 Water reuse|=|Reclaimed water
 Water rights|=|Water right
@@ -19415,7 +19416,7 @@ Western Australia -- Politics and government|<->|Politics of Western Australia
 Western Australia -- Politics and government|<-|Government of Western Australia
 Western Canada Sedimentary Basin|=|Western Canadian Sedimentary Basin
 Western Class (Diesel locomotives)|<->|British Rail Class 52
-Western Dvina River|=|Daugava (river)
+Western Dvina River|=|Daugava
 Western Morava River (Serbia)|=|West Morava
 Western ribbonsnake|=|Western ribbon snake
 Western Sahara -- Politics and government|<->|Politics of Western Sahara
