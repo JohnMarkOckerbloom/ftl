@@ -2168,6 +2168,13 @@ STATE CA
 CATTYPE voyager-vwebv
 BASEURL http://cyclib.nocccd.edu/vwebv/search
 
+ID OCLC-DAC
+NAME De Anza College
+LOCATION Cupertino
+STATE CA
+BASEURL http://deanza.worldcat.org/search
+CATTYPE worldcat
+
 ID OCLC-JQR
 NAME Fresno County Public Library
 LOCATION Fresno and vicinity
@@ -2177,6 +2184,13 @@ CATTYPE ipac20
 PROFILE fhq
 AINDEX .AW
 TINDEX ALLTITL
+
+ID OCLC-CGN
+NAME Glendale Community College
+LOCATION Glendale
+STATE CA
+CATTYPE voyager-vwebv
+BASEURL http://genesis.glendale.edu/vwebv/search
 
 ID OCLC-HN-SHARP
 WCRID 283
@@ -2427,6 +2441,13 @@ LOCATION Parts of Santa Clara County
 STATE CA
 CATTYPE bibliocommons
 BASEURL http://sccl.bibliocommons.com
+
+ID OCLC-SMX
+NAME Santa Monica College Library
+LOCATION Santa Monica
+STATE CA
+BASEURL http://sirsi.smc.edu/uhtbin/cgisirsi
+CATTYPE sirsi
 
 ID OCLC-SMP
 NAME Santa Monica Public Library
