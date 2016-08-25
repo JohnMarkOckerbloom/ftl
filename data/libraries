@@ -5888,6 +5888,22 @@ CATTYPE ipac20
 BASEURL http://ipac.eodls.lib.ok.us
 PROFILE eodls
 
+ID OCLC-OEG
+NAME Enid Public Library
+LOCATION Enid
+STATE OK
+CATTYPE apollo
+BASEURL http://enid.biblionix.com/
+FILTERS S
+
+ID OCLC-LPL
+NAME Lawton Public Library
+LOCATION Lawton
+STATE OK
+CATTYPE apollo
+BASEURL http://lawton.biblionix.com/
+FILTERS S
+
 ID OCLC-3OK
 NAME Metropolitan Library System
 LOCATION Oklahoma City and vicinity
@@ -5933,6 +5949,14 @@ STATE OK
 CATTYPE sirsient
 BASEURL http://spls.ent.sirsi.net
 FILTERS S
+
+ID OCLC-STW
+NAME Stillwater Public Library
+LOCATION Stillwater
+STATE OK 
+CATTYPE sirsient
+LCODE en_US/default
+BASEURL http://stwr.ent.sirsi.net
 
 ID OCLC-TUL
 NAME Tulsa City-County Library
@@ -6408,9 +6432,8 @@ ID OCLC-RIOSL
 NAME Ocean State Libraries
 LOCATION Public libraries across the state
 STATE RI
-BASEURL http://catalog.oslri.net/
-CATTYPE iii-consortium-member
-LCODE 1
+BASEURL http://encore.oslri.net/iii/encore
+CATTYPE encore
 
 ID OCLC-PRC
 NAME Providence College
