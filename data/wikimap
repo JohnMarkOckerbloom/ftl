@@ -9,7 +9,7 @@
 #   or lexical analysis (such as many geographical locations)
 #   are not included in this file.
 # See docs file for documentation
-# Last updated 2016-08-24
+# Last updated 2016-08-25
 # Did LCSH 2016 update lists 1-7
 16th Street Baptist Church Bombing, Birmingham, Ala., 1963|=|16th Street Baptist Church bombing
 20th Century Limited (Express train)|=|20th Century Limited
@@ -23,6 +23,7 @@
 403(b) plans|<->|403(b)
 527 groups|=|527 organization
 6502 (Microprocessor)|=|MOS Technology 6502
+65816 (Microprocessor)|<->|WDC 65816/65802
 7 World Trade Center (New York, N.Y.)|=|7 World Trade Center
 73 Easting, Battle of, Iraq, 1991|=|Battle of 73 Easting
 A-10 (Jet attack plane)|=|Fairchild Republic A-10 Thunderbolt II
@@ -2369,6 +2370,7 @@ Bowness (Calgary, Alta.)|=|Bowness, Calgary
 Box-Jenkins forecasting|<->|Box–Jenkins
 Boxer (Dog breed)|=|Boxer (dog)
 Boxes|=|Box
+Boy with leaking boot (Statue)|=|The Boy with the Leaking Boot
 Boyac&aacute;, Battle of, Boyac&aacute;, Boyac&aacute;, Colombia, 1819|=|Battle of Boyacá
 Boyac&aacute; (Colombia : Department)|=|Boyacá Department
 Boycotts|=|Boycott
@@ -2456,6 +2458,7 @@ Bribri Indians|=|Bribri people
 BRIC countries|<->|BRIC
 Brice's Crossroads, Battle of, Miss., 1864|=|Battle of Brice's Crossroads
 Bridger Range (Mont.)|=|Bridger Mountains (Montana)
+Bridges (Dentistry)|=|Bridge (dentistry)
 Bridges, Roman|=|Roman bridge
 Bridled nail-tailed wallaby|=|Bridled nail-tail wallaby
 Brie cheese|=|Brie
@@ -2721,6 +2724,7 @@ Byzantine revival (Architecture)|<->|Byzantine Revival architecture
 Bzura River, Battle of, Poland, 1939|=|Battle of the Bzura
 C (Computer program language)|=|C (programming language)
 C++ (Computer program language)|=|C++
+CA-Clipper|<->|Clipper (programming language)
 Caaguaz&uacute;, Battle of, Argentina, 1841|=|Battle of Caaguazú
 Caballo Mountains (N.M.)|=|Caballo Mountains
 Caballo Reservoir (N.M.)|=|Caballo Lake
@@ -3849,6 +3853,7 @@ Clinical medicine -- Research|<->|Clinical research
 Clinical pastoral education (Movement)|<->|Clinical pastoral education
 Clinical trials|=|Clinical trial
 Clinton, Bill, 1946- -- Impeachment|=|Impeachment of Bill Clinton
+CLIPPER (Microprocessor)|<->|Clipper architecture
 Clippings (Books, newspapers, etc.)|<->|Clipping (publications)
 Clocks and watches|<->|Clock
 Clocks and watches|<-|Watch
@@ -4189,6 +4194,7 @@ Contraception|->|Birth control
 Contraceptives|->|Birth control
 Contracting out|=|Outsourcing
 Contracts|=|Contract
+Contrast sensitivity (Vision)|<->|Contrast (vision)
 Controller Area Network (Computer network)|<->|CAN bus
 Convair 880 (Jet transport)|=|Convair 880
 Convair 990 (Jet transport)|<->|Convair 990 Coronado
@@ -4699,6 +4705,7 @@ Crowley's Ridge (Ark. and Mo.)|=|Crowley's Ridge
 Crown Fountain (Chicago, Ill.)|=|Crown Fountain
 Crown jewels -- Great Britain|<->|Crown Jewels of the United Kingdom
 Crown lands|=|Crown land
+Crowns (Dentistry)|<->|Crown (dentistry)
 Crowsnest Pass (Alta. and B.C.)|=|Crowsnest Pass
 Crowsnest River (B.C. and Alta.)|<->|Crowsnest River
 Crozier, Cape (Antarctica)|=|Cape Crozier
@@ -4880,6 +4887,7 @@ Damascus (Syria)|=|Damascus
 Damietta (Egypt)|=|Damietta
 Damietta (Egypt) -- History -- Siege, 1218-1219|=|Siege of Damietta (1218–19)
 Damping (Mechanics)|<->|Damping
+Dams (Dentistry)|<->|Dental dam
 Dan (Tribe of Israel)|=|Tribe of Dan
 Dan Patch (Race horse)|=|Dan Patch
 Danaus, King of Argos (Mythological character)|=|Danaus
@@ -5178,6 +5186,7 @@ Diamonds|=|Diamond
 Diana camera|=|Diana (camera)
 Diaries|=|Diary
 Diarists|->|Diary
+Diastema (Teeth)|=|Diastema
 Dictators|=|Dictator
 Didactic literature|<->|Didacticism
 Didgori, Battle of, Georgia, 1121|=|Battle of Didgori
@@ -5794,6 +5803,7 @@ Emblem books|=|Emblem book
 Emblems|=|Emblem
 Embryonic stem cells|=|Embryonic stem cell
 Emden (Lower Saxony, Germany)|=|Emden
+Emerald Buddha (Statue)|=|Emerald Buddha
 Emergency contraceptives|<->|Emergency contraception
 Emerson, Radcliffe (Fictitious character)|=|Radcliffe Emerson
 Emigration and immigration|<-|Emigration
@@ -6379,6 +6389,7 @@ Filibusters|=|Filibuster (military)
 Filibusters (Political science)|=|Filibuster
 Filipinos -- Foreign countries|<->|Overseas Filipinos
 Filles du roi|=|King's Daughters
+Fillings (Dentistry)|<->|Dental restoration
 Film critics|->|Film criticism
 Film remakes|<->|Remake
 Finance, Personal|=|Personal finance
@@ -7219,6 +7230,7 @@ Gerona (Spain : Province)|=|Province of Girona
 GERT (Network analysis)|=|Graphical Evaluation and Review Technique
 Gertrude, Queen of Denmark (Fictitious character)|=|Gertrude (Hamlet)
 Gething Formation (B.C. and Alta.)|=|Gething Formation
+Getty kouros (Statue)|=|Getty kouros
 Gettysburg, Battle of, Gettysburg, Pa., 1863|=|Battle of Gettysburg
 Gettysburg Campaign, 1863|=|Gettysburg Campaign
 Gettysburg National Military Park (Agency : U.S.)|->|Gettysburg National Military Park
@@ -8171,6 +8183,7 @@ Hitler, Adolf, 1889-1945 -- Assassination attempts|=|Assassination attempts on A
 Hitler-Jugend|=|Hitler Youth
 HIV (Viruses)|=|HIV
 HIV infections|->|HIV
+HIV-positive persons|=|HIV-positive people
 Hiva Oa (French Polynesia)|<->|Hiva Oa
 Hizb al-Tahrir|=|Hizb ut-Tahrir
 Hizballah (Lebanon)|<->|Hezbollah
@@ -8820,6 +8833,7 @@ Inheritance and succession|<->|Inheritance
 Injections, Intramuscular|=|Intramuscular injection
 Inkerman, Battle of, Ukraine, 1854|=|Battle of Inkerman
 Inland Sea (Japan)|=|Seto Inland Sea
+Inlays (Dentistry)|<->|Inlays and onlays
 Inn River|=|Inn (river)
 Inner cities|=|Inner city
 Inner Hebrides (Scotland)|=|Inner Hebrides
@@ -8852,17 +8866,33 @@ Intabulations|=|Intabulation
 Integrals|<->|Integral
 Integrated circuits|=|Integrated circuit
 Integrated library systems (Computer systems)|=|Integrated library system
+Intel 432 (Microprocessor)|<->|Intel iAPX 432
 Intel 80286 (Microprocessor)|=|Intel 80286
+Intel 80287 (Microprocessor)|->|X87
 Intel 80386 (Microprocessor)|=|Intel 80386
+Intel 80386DX (Microprocessor)|->|Intel 80386
+Intel 80386SX (Microprocessor)|->|Intel 80386
+Intel 80387 (Microprocessor)|->|X87
 Intel 80486 (Microprocessor)|=|Intel 80486
+Intel 80487 (Microprocessor)|<->|Intel 80487SX
 Intel 8080 (Microprocessor)|=|Intel 8080
+Intel 8080A (Microprocessor)|->|Intel 8080
 Intel 8085 (Microprocessor)|=|Intel 8085
+Intel 8085A (Microprocessor)|->|Intel 8085
 Intel 8086 (Microprocessor)|=|Intel 8086
 Intel 8087 (Microprocessor)|=|Intel 8087
 Intel 8088 (Microprocessor)|=|Intel 8088
 Intel 8089 (Microprocessor)|=|Intel 8089
+Intel 8096 (Microprocessor)|->|Intel MCS-96
+Intel 80960 (Microprocessor)|->|Intel i960
 Intel 80x86 series microprocessors|<->|X86
+Intel i386SL (Microprocessor)|->|Intel 80386
+Intel i750 (Microprocessor)|=|Intel i750
+Intel i860 (Microprocessor)|=|Intel i860
+Intel i960 (Microprocessor)|=|Intel i960
 Intel microprocessors|<->|List of Intel microprocessors
+Intel SDK-85 (Microprocessor)|->|Intel System Development Kit
+Intel SDK-86 (Microprocessor)|->|Intel System Development Kit
 Intelink (Computer network)|=|Intelink
 Intellectuals|=|Intellectual
 Intelligence officers|=|Intelligence officer
@@ -9480,6 +9510,7 @@ Joshua Tree National Park (Calif.)|=|Joshua Tree National Park
 Journalistic ethics|<->|Journalism ethics and standards
 Journalists|=|Journalist
 Jowzj&amacr;n (Afghanistan)|=|Jowzjan Province
+JPEG (Image coding standard)|=|JPEG
 Jualpa Mine Camp (Alaska)|<->|Last Chance Mining Museum
 Juane&ntilde;o Indians|=|Juaneño
 Judaculla Rock (N.C.)|=|Judaculla Rock
@@ -10895,6 +10926,8 @@ M3 light tank|<->|M3 Stuart
 M5 light tank|->|M3 Stuart
 M5 Motorway (England)|=|M5 motorway
 M60 (Tank)|=|M60 Patton
+M81 (Galaxy)|=|Messier 81
+M87 (Galaxy)|=|Messier 87
 Maanyan language|=|Ma'anyan language
 Maasai (African people)|=|Maasai people
 Macap&aacute; (Amap&aacute;, Brazil)|=|Macapá
@@ -11623,6 +11656,7 @@ Microchemistry|<->|Microscale chemistry
 Microcomputers|=|Microcomputer
 Microcosm and macrocosm|=|Macrocosm and microcosm
 Microelectrodes|<->|Microneurography
+Microfilm readers|=|Microfilm reader
 Microgrids (Smart power grids)|=|Microgrid
 Micrometers (Instruments)|=|Micrometer
 Micronesia (Federated States)|=|Federated States of Micronesia
@@ -12089,6 +12123,7 @@ Mothers and daughters|=|Mothers & Daughters
 Mothers|=|Mother
 Mothra (Fictitious character)|=|Mothra
 Moths|=|Moth
+Motion perception (Vision)|<->|Motion perception
 Motion picture film|<->|Film stock
 Motion picture industry|=|Film industry
 Motion pictures|=|Film
@@ -12105,6 +12140,7 @@ Motorola 6800 (Microprocessor)|=|Motorola 6800
 Motorola 68000 (Microprocessor)|=|Motorola 68000
 Motorola 68000 series microprocessors|=|Motorola 68000 series
 Motorola 68010 (Microprocessor)|=|Motorola 68010
+Motorola 6802 (Microprocessor)|->|Motorola 6800
 Motorola 68020 (Microprocessor)|=|Motorola 68020
 Motorola 68030 (Microprocessor)|=|Motorola 68030
 Motorola 68851 (Microprocessor)|=|Motorola 68851
@@ -12112,6 +12148,9 @@ Motorola 68881 (Microprocessor)|<->|Motorola 68881
 Motorola 68882 (Microprocessor)|->|Motorola 68881
 Motorola 68HC11 (Microprocessor)|<->|Freescale 68HC11
 Motorola 88000 (Microprocessor)|=|Motorola 88000
+Motorola 88100 (Microprocessor)|=|MC88100
+Motorola 88110 (Microprocessor)|=|MC88110
+Motorola DSP56002 (Microprocessor)|<->|Motorola 56000
 Mottoes|=|Motto
 Mound-builders|=|Mound Builders
 Mounds|=|Mound
@@ -12752,6 +12791,7 @@ Nez Perc&eacute; Indians -- Wars, 1877|<->|Nez Perce War
 Nezperce National Forest (Agency : U.S.)|->|Nez Perce National Forest
 Nezperce National Forest (Idaho)|=|Nez Perce National Forest
 Nez Perce National Historical Trail|=|Nez Perce National Historic Trail
+NGC 300 (Galaxy)|=|NGC 300
 Ngok Tavak, Battle of, Vietnam, 1968|<->|Battle of Kham Duc
 Niagara Falls (N.Y. and Ont.)|=|Niagara Falls
 Niagara Frontier (N.Y.)|<->|Niagara Frontier
@@ -13019,6 +13059,7 @@ Noyes Slough (Alaska)|=|Noyes Slough
 Noyon (France)|=|Noyon
 NP-complete problems|<->|List of NP-complete problems
 NP-complete problems|<-|NP-completeness
+NS32000 series (Microprocessors)|<->|NS320xx
 NSFNET (Computer network)|<->|National Science Foundation Network
 Ntlakyapamuk Indians|=|Nlaka'pamux
 Ntlakyapamuk language|<->|Thompson language
@@ -14339,6 +14380,7 @@ Pisagua, Battle of, Pisagua, Chile, 1879|=|Battle of Pisagua
 Pisgah Crater (Calif.)|=|Pisgah Crater
 Pisgah National Forest (N.C.)|=|Pisgah National Forest
 Pistons|<->|Piston
+Pit and fissure sealants (Dentistry)|<->|Dental sealant
 Pit bull terriers|=|Pit bull
 Pita bread|=|Pita
 Pitch|=|Pitch (resin)
@@ -14887,6 +14929,7 @@ Promises|=|Promise
 Promotions|=|Promotion (rank)
 Proms|=|Prom
 Propaganda, Communist|=|Communist propaganda
+Propeller (Microprocessor)|<->|Parallax Propeller
 Property|<-|Property law
 Prophecies|->|Prophecy
 Prophets (Mormon theology)|<->|Prophet, seer, and revelator
@@ -15118,6 +15161,7 @@ Rabat (Morocco)|=|Rabat
 Rabbinical courts|<->|Beth din
 Rabbinical literature|=|Rabbinic literature
 Rabbis|=|Rabbi
+Rabbit 3000 (Microprocessor)|<->|Rabbit 2000
 Rabbits|=|Rabbit
 Rabin, Yitzhak, 1922-1995 -- Assassination|=|Assassination of Yitzhak Rabin
 Race|<->|Race (human categorization)
@@ -16214,6 +16258,7 @@ Sayama-shi (Japan)|=|Sayama, Saitama
 Sayyid dynasty, 1414-1451|=|Sayyid dynasty
 Scafati (Italy)|=|Scafati
 Scala (Computer program language)|=|Scala (programming language)
+Scalers (Dentistry)|<->|Periodontal scaler
 Scales (Fishes)|=|Fish scale
 Scales (Reptiles)|=|Reptile scale
 Scales (Weighing instruments)|=|Weighing scale
@@ -19805,6 +19850,7 @@ Wayne National Forest (Agency : U.S.)|->|Wayne National Forest
 Wayne National Forest (Ohio)|=|Wayne National Forest
 Wayne's Campaign, 1794|->|Northwest Indian War
 Waynesboro, Battle of, Waynesboro, Va., 1865|=|Battle of Waynesboro, Virginia
+WE 32000 (Microprocessor)|<->|Bellmac 32
 Wea Indians|=|Wea
 Weapons of mass destruction|=|Weapon of mass destruction
 Weapons industry|=|Arms industry

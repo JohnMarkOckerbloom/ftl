@@ -1497,8 +1497,9 @@ ID OCLC-UKGRP
 NAME LibrariesWest
 LOCATION Bath, Bristol, Somerset, and S. Gloucester areas, England
 COUNTRY UK
-BASEURL http://www.librarieswest.org.uk/
-CATTYPE viewpoint
+CATTYPE sirsient
+LCODE en_GB/default
+BASEURL https://www.librarieswest.org.uk
 
 ID UK-UKB
 NAME Library of Birmingham
@@ -1592,6 +1593,14 @@ COUNTRY UK
 CATTYPE spydus
 BASEURL https://norfolk.spydus.co.uk
 
+ID OCLC-NOTCL
+NAME Nottingham City and Nottinghamshire County Libraries
+LOCATION Nottingham and vicinity, England
+COUNTRY UK
+CATTYPE sirsient
+BASEURL http://emlib.ent.sirsidynix.net.uk
+LCODE en_GB/nottcity
+
 ID OCLC-UKBRW
 NAME Rochdale Libraries
 LOCATION Rochdale Metropolitan Borough, England
@@ -1606,6 +1615,13 @@ COUNTRY UK
 CATTYPE iii-consortium-member
 BASEURL http://catalogue.ulrls.lon.ac.uk
 LCODE 24
+
+ID OCLC-UKSLA
+NAME Sheffield Libraries, Archives and Information
+LOCATION Sheffield and vicinity, England
+COUNTRY UK
+CATTYPE sirsi
+BASEURL http://library.sheffield.gov.uk/uhtbin/cgisirsi
 
 ID OCLC-UKSOU
 NAME Southwark Libraries
@@ -1744,6 +1760,13 @@ CATTYPE primodl
 BASEURL http://library-collections-search.westminster.ac.uk
 VID WST_VU1
 LCODE WST_VU1
+
+ID OCLC-EMW
+NAME Wellcome Library
+LOCATION London, England
+COUNTRY UK
+CATTYPE encore
+BASEURL http://search.wellcomelibrary.org/iii/encore
 
 ID OCLC-W4S
 NAME Westminster Libraries
