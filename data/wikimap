@@ -9,7 +9,7 @@
 #   or lexical analysis (such as many geographical locations)
 #   are not included in this file.
 # See docs file for documentation
-# Last updated 2016-08-25
+# Last updated 2016-09-02
 # Did LCSH 2016 update lists 1-7
 16th Street Baptist Church Bombing, Birmingham, Ala., 1963|=|16th Street Baptist Church bombing
 20th Century Limited (Express train)|=|20th Century Limited
@@ -212,9 +212,9 @@ Aeta (Philippine people)|=|Aeta people
 Affective disorders|<->|Mood disorder
 Affinity labeling|<->|Affinity label
 Affirmed (Race horse)|=|Affirmed
-Afghan War, 2001-|<->|War in Afghanistan (2001–14)
-Afghan War, 2001- -- Campaigns|<->|List of military operations in the war in Afghanistan (2001–14)
-Afghan War, 2001- -- Protest movements|<->|Protests against the war in Afghanistan (2001–14)
+Afghan War, 2001-|<->|War in Afghanistan (2001–2014)
+Afghan War, 2001- -- Campaigns|<->|List of military operations in the war in Afghanistan (2001–2014)
+Afghan War, 2001- -- Protest movements|<->|Protests against the war in Afghanistan (2001–2014)
 Afghan Wars|=|Anglo-Afghan War
 Afghanistan -- Armed Forces|<->|Afghan Armed Forces
 Afghanistan -- Economic conditions|<->|Economy of Afghanistan
@@ -408,6 +408,8 @@ Albania -- History -- 1501-1912|<->|Ottoman Albania
 Albania -- History -- 1878-1912|<->|Albanian National Awakening
 Albania -- History -- 1944-1990|<->|People's Socialist Republic of Albania
 Albania -- History -- 1990-|<->|History of post-Communist Albania
+Albania -- History -- Axis occupation, 1939-1944|<->|Albanian Kingdom (1939–43)
+Albania -- History -- Axis occupation, 1939-1944|<-|Albanian Kingdom (1943–44)
 Albania -- History -- June Revolution, 1924|=|June Revolution
 Albania -- History -- Peasant Uprising, 1914-1915|<->|Peasant Revolt in Albania
 Albania -- History -- Uprising, 1912|<->|Albanian Revolt of 1912
@@ -429,9 +431,9 @@ Alc&aacute;zar (Toledo, Spain) -- Siege, 1936|=|Siege of the Alcázar
 Alcazarquivir, Battle of, Qa&#x1e63;r al-Kab&imacr;r, Larache, Morocco, 1578|=|Battle of Alcácer Quibir
 Alcestis, Queen, consort of Admetus, King of Pherae|=|Alcestis
 Alchemists|->|Alchemy
-Alcohol|->|Alcoholic beverage
 Alcohol -- Law and legislation|=|Alcohol law
 Alcohol -- Law and legislation -- United States|=|Alcohol laws of the United States
+Alcoholic beverages|=|Alcoholic drink
 Alcoholics|->|Alcoholism
 Alcomdale (Alta.)|=|Alcomdale
 Alcott family|<->|Alcott
@@ -598,7 +600,7 @@ American Chestnut Foundation|=|The American Chestnut Foundation
 American drama|->|Theater of the United States
 American fiction|->|American literature
 American Field Service|->|AFS Intercultural Programs
-American Gold Star Mothers, Inc.|=|Gold Star Mothers Club
+American Gold Star Mothers, Inc.|=|American Gold Star Mothers
 American Home Economics Association|->|American Association of Family and Consumer Sciences
 American literature -- African American authors|<->|African-American literature
 American loyalists|=|Loyalist (American Revolution)
@@ -1388,6 +1390,7 @@ Bachelor of arts degree|=|Bachelor of Arts
 Bachelor parties|=|Bachelor party
 Bachelorette parties|=|Bachelorette party
 Bachelors|=|Bachelor
+Bacillus (Bacteria)|=|Bacillus
 Back|<->|Human back
 Back Bay (Boston, Mass.)|=|Back Bay, Boston
 Back to Africa movement|=|Back-to-Africa movement
@@ -1447,6 +1450,7 @@ Bako National Park (Sarawak, Malaysia)|=|Bako National Park
 B&amacr;lab&amacr;n|=|Balaban (instrument)
 Balaklava (Ukraine)|=|Balaklava
 Balaklava, Battle of, Balaklava, Ukraine, 1854|=|Battle of Balaclava
+Balanced scorecard (Management)|=|Balanced scorecard
 Balaur|->|Balaur bondoc
 Balconies|=|Balcony
 Bald Eagle Mountain (Pa.)|=|Bald Eagle Mountain
@@ -1785,6 +1789,7 @@ Bemas (Architecture)|=|Bema
 Ben Het, Battle of, Vietnam, 1969|<->|Ben Het Camp
 Bena language (Nigeria)|=|Bena language (Adamawa)
 Benburb, Battle of, Ireland, 1646|=|Battle of Benburb
+Benchmarking (Management)|=|Benchmarking
 Bendeleben Mountains (Alaska)|=|Bendeleben Mountains
 Benedictine nuns|->|Order of Saint Benedict
 Benedictines|=|Order of Saint Benedict
@@ -1809,6 +1814,7 @@ Bentonville, Battle of, Bentonville, N.C., 1865|=|Battle of Bentonville
 Beothuk Indians|=|Beothuk
 Beowulf, King of the Geats|=|Beowulf (hero)
 Beowulf clusters (Computer systems)|=|Beowulf cluster
+Berat (Albania)|=|Berat
 Bereavement|->|Grief
 Berestechko (Ukraine)|=|Berestechko
 Beresteczko, Battle of, Berestechko, Ukraine, 1651|=|Battle of Berestechko
@@ -2311,7 +2317,7 @@ Boreal Plains Ecozone|=|Boreal Plains Ecozone (CEC)
 Borgia family|<->|House of Borgia
 Borinage (Belgium)|=|Borinage
 Boring|->|Bore
-Borna disease virus|=|Bornavirus
+Borna disease virus|<->|Bornaviridae
 Borodino, Battle of, Borodino, Mozha&#x012d;ski&#x012d; ra&#x012d;on, Russia, 1812|<->|Battle of Borodino
 Boron -- Isotopes|=|Isotopes of boron
 Boroughs|=|Borough
@@ -2895,7 +2901,7 @@ Canberra (A.C.T.)|=|Canberra
 Cancer -- Alternative treatment|=|Alternative cancer treatments
 Cancer -- Epidemiology|=|Epidemiology of cancer
 Cancer -- Research|=|Cancer research
-Cancer -- Treatment|<->|Management of cancer
+Cancer -- Treatment|<->|Treatment of cancer
 Cancer (Crustacea)|=|Cancer (genus)
 Cancer in children|=|Childhood cancer
 Canc&uacute;n (Mexico)|=|Cancún
@@ -4581,6 +4587,7 @@ Countertransference (Psychology)|=|Countertransference
 Country dancing|<->|Country dance
 Country homes|->|English country house
 Country homes -- England|=|English country house
+Couplers (Railroad cars)|<->|Railway coupling
 Coups d'&eacute;tat|=|Coup d'état
 Courcelles Massacre, Belgium, 1944|=|Courcelles massacre
 Court Street (Boston, Mass.)|=|Court Street (Boston)
@@ -4694,6 +4701,7 @@ Crooked Billet, Battle of, Hatboro, Pa., 1778|=|Battle of Crooked Billet
 Crops|<->|Crop
 Cross Keys, Battle of, Cross Keys, Rockingham County, Va., 1862|=|Battle of Cross Keys
 Cross-layer designs (Telecommunications)|<->|Cross-layer optimization
+Cross references (Information retrieval)|<->|Cross-reference
 Cross Sound (Alaska)|=|Cross Sound
 Cross-staffs (Navigation instruments)|<->|Jacob's staff
 Crossword puzzles|=|Crossword
@@ -5489,6 +5497,7 @@ Durazzo, Battle of, Durr&euml;s, Albania, 1918|=|Battle of Durazzo (1918)
 D&uuml;rnstein (Austria)|=|Dürnstein
 D&uuml;rnstein, Battle of, D&uuml;rnstein, Austria, 1805|=|Battle of Dürenstein
 Durr&euml;s (Albania)|=|Durrës
+Durr&euml;s (Albania : Rrethi)|=|Durrës District
 Durum wheat|=|Durum
 D&uuml;sseldorf (Germany)|=|Düsseldorf
 Dust Bowl Era, 1931-1939|<->|Dust Bowl
@@ -5558,7 +5567,7 @@ Eastern and Oriental Express (Express train)|=|Eastern and Oriental Express
 Eastern Cape (South Africa)|=|Eastern Cape
 Eastern churches|<->|Eastern Christianity
 Eastern Indians, Wars with, 1722-1726|<->|Dummer's War
-Eastern ribbonsnake|=|Eastern Ribbon Snake
+Eastern ribbonsnake|=|Thamnophis sauritus sauritus
 Eastern Rumelia -- History -- Union with Bulgaria, 1885|<->|Bulgarian unification
 Eastern Townships (Qu&eacute;bec)|=|Eastern Townships
 Ebelsberg, Battle of, Linz, Austria, 1809|=|Battle of Ebelsberg
@@ -5717,6 +5726,8 @@ Elandslaagte, Battle of, Elandslaagte, South Africa, 1899|=|Battle of Elandslaag
 Elastic waves|->|Linear elasticity
 Elasticity|<-|Linear elasticity
 Elba (Italy)|=|Elba
+Elbasan (Albania)|=|Elbasan
+Elbasan (Albania : Rrethi)|=|Elbasan District
 Elbow River (Alta.)|=|Elbow River
 Elche (Spain)|=|Elche
 Elchingen (Germany)|=|Elchingen
@@ -5766,7 +5777,7 @@ Elephant seals|=|Elephant seal
 Elephants|=|Elephant
 Elevators (Airplanes)|=|Elevator (aeronautics)
 Eleven (The number)|=|11 (number)
-Eleven-plus (Educational test)|=|Eleven-Plus exam
+Eleven-plus (Educational test)|=|Eleven-plus
 Eleventh century|=|11th century
 Eleventh grade (Education)|=|Eleventh grade
 ELF electromagnetic fields|<->|Extremely low frequency
@@ -6378,6 +6389,8 @@ Fiction -- Authorship|<->|Fiction writing
 Field emission|=|Field electron emission
 Field of Cloth of Gold, France, 1520|<->|Field of the Cloth of Gold
 Field theory (Physics)|<->|Field (physics)
+Fier (Albania)|=|Fier
+Fier (Albania : Rrethi)|=|Fier District
 Fifteen Years' War, 1591-1606|<->|Long Turkish War
 Fifteenth century|=|15th century
 Fifth grade (Education)|=|Fifth grade
@@ -6491,6 +6504,7 @@ Flaps (Surgery)|=|Flap (surgery)
 Flash (Computer file)|<->|Adobe Flash
 Flash (Fictitious character)|=|Flash (comics)
 Flash memories (Computers)|=|Flash memory
+Flash point (Thermodynamics)|=|Flash point
 Flashman, Harry Paget (Fictitious character)|=|Harry Flashman
 Flask (Software framework)|=|Flask (web framework)
 Flat panel displays|=|Flat panel display
@@ -7562,7 +7576,7 @@ Great Brook Farm State Park (Carlisle, Mass.)|=|Great Brook Farm State Park
 Great Commission (Bible)|=|Great Commission
 Great Dunmow (England)|=|Great Dunmow
 Great Exhibition (1851 : London, England)|=|The Great Exhibition
-Great Fire, Boston, Mass., 1872|=|Great Boston Fire of 1872
+Great Fire, Boston, Mass., 1872|=|Great Boston fire of 1872
 Great Fire, Chicago, Ill., 1871|=|Great Chicago Fire
 Great Fire, London, England, 1666|=|Great Fire of London
 Great Fire, Maine, 1947|<->|Great Fires of 1947
@@ -7622,6 +7636,7 @@ Greek revival (Architecture)|<->|Greek Revival architecture
 Green Arrow (Fictitious character)|=|Green Arrow
 Green Bay Packers (Football team)|=|Green Bay Packers
 Green cards|<->|Permanent residence (United States)
+Green children of Woolpit (Legendary characters)|=|Green children of Woolpit
 Green Lantern (Fictitious character)|=|Green Lantern
 Green Mountains (Vt.)|=|Green Mountains
 Green roofs (Gardening)|=|Green roof
@@ -7778,7 +7793,7 @@ Habitat (Ecology)|=|Habitat
 Hachi&omacr;ji-shi (Japan)|=|Hachiōji, Tokyo
 Hackensack Indians|=|Hackensack tribe
 Hackensack Meadowlands (N.J.)|=|New Jersey Meadowlands
-Hackers|<->|Hacker (expert)
+Hackers|<->|Hacker
 Hadamar Trial, Wiesbaden, Germany, 1945|<->|Hadamar Euthanasia Centre
 Haddo House (Scotland)|=|Haddo House
 Haddon Hall (England)|=|Haddon Hall
@@ -7892,7 +7907,7 @@ Harlem Heights, Battle of, N.Y., 1776|=|Battle of Harlem Heights
 Harlequin (Fictitious character)|=|Harlequin
 Harmar's Expedition, 1790|<->|Harmar Campaign
 Harmondsworth Barn (Hillingdon, London, England)|=|Harmondsworth Great Barn
-Harney Peak (S.D.)|=|Harney Peak
+Harney Peak (S.D.)|=|Black Elk Peak
 Harpers Ferry, Battle of, Harpers Ferry, W. Va., 1862|=|Battle of Harpers Ferry
 Harpers Ferry (W. Va.) -- History -- John Brown's Raid, 1859|=|John Brown's raid on Harpers Ferry
 Harpers Ferry (W. Va.) -- History -- Siege, 1862|->|Battle of Harpers Ferry
@@ -7981,7 +7996,7 @@ Healing of the paralytic (Miracle)|=|Healing the paralytic at Capernaum
 Healing of the ten lepers (Miracle)|=|Cleansing ten lepers
 Healing of the woman with the flow of blood (Miracle)|=|Jesus healing the bleeding woman
 Health and race|=|Race and health
-Health behavior|->|Self care
+Health behavior|->|Self-care
 Health boards|=|Health board
 Health facilities|<->|Health facility
 Health status indicators|=|Health indicator
@@ -8318,6 +8333,7 @@ Hopewell Furnace National Historic Site (Pa.)|=|Hopewell Furnace National Histor
 Hopf algebras|=|Hopf algebra
 Hopi Indians|=|Hopi
 Horace Bushnell Memorial Hall (Hartford, Conn.)|<->|The Bushnell Center for the Performing Arts
+Horatii (Legendary characters)|=|Horatii
 Hordaland fylke (Norway)|=|Hordaland
 Horizontal branch stars|<->|Horizontal branch
 Hormones|=|Hormone
@@ -8588,6 +8604,7 @@ Ibani (African people)|<->|Ibani tribe
 Ibar River|=|Ibar (river)
 IBEX 35 (Stock price index)|=|IBEX 35
 Ibibio (African people)|=|Ibibio people
+IBM Displaywriter (Word processor)|=|IBM Displaywriter System
 IBM Personal Computer AT|=|IBM Personal Computer/AT
 IBM ThinkPad (Computer)|<->|ThinkPad
 IBM Token-Ring Network (Local area network system)|<->|Token ring
@@ -9378,7 +9395,7 @@ Jesus Christ -- Jewish interpretations|=|Judaism's view of Jesus
 Jesus Christ -- Miracles|<->|Miracles of Jesus
 Jesus Christ -- Nativity|=|Nativity of Jesus
 Jesus Christ -- Parables|=|Parables of Jesus
-Jesus Christ -- Passion|=|Passion (Christianity)
+Jesus Christ -- Passion|=|Passion of Jesus
 Jesus Christ -- Physical appearance|<->|Race and appearance of Jesus
 Jesus Christ -- Prayer in Gethsemane|<->|Agony in the Garden
 Jesus Christ -- Pre-existence|=|Pre-existence of Christ
@@ -9692,6 +9709,7 @@ Kauto Star (Race horse)|=|Kauto Star
 Kawanakajima War, 1553-1564|<->|Battles of Kawanakajima
 Kawartha Lakes (Ont. : Lakes)|=|Kawartha Lakes (Ontario)
 Kay, Battle of, Poland, 1759|=|Battle of Kay
+Kay&amacr;nids (Legendary characters)|=|Kayanian dynasty
 Kazakhstan -- History -- Revolution, 1917-1921|<->|Alash Autonomy
 Kazakhstan -- Politics and government|<->|Politics of Kazakhstan
 Kazakhstan -- Politics and government|<-|Government of Kazakhstan
@@ -11129,6 +11147,7 @@ Mangrove swamps|->|Mangrove
 Manhattan (New York, N.Y.)|=|Manhattan
 Manhattan Project (U.S.)|=|Manhattan Project
 Manic-depressive illness|<->|Bipolar disorder
+Manic-depressive illness -- Treatment|<->|Treatment of bipolar disorder
 Manifolds (Mathematics)|=|Manifold
 Manila (Philippines)|=|Manila
 Manila Bay (Philippines)|=|Manila Bay
@@ -11214,7 +11233,6 @@ Marine biodiversity|->|Biodiversity
 Marine ecology|=|Marine ecosystem
 Marine nurseries|<->|Nursery habitat
 Marine One (Presidential aircraft)|=|Marine One
-Marine resources conservation|=|Marine conservation
 Marine sciences|->|Oceanography
 Marine sediments|<->|Pelagic sediment
 Maritime law|->|Admiralty law
@@ -12553,7 +12571,7 @@ Nayarit (Mexico)|=|Nayarit
 Nazarenes (German painters)|<->|Nazarene movement
 Nazareth Speedway (Pa.)|=|Nazareth Speedway
 Nazca (Peru)|=|Nazca
-Nazca (Peru : Province)|=|Nazca Province
+Nazca (Peru : Province)|=|Nasca Province
 Nazca Lines Site (Peru)|<->|Nazca Lines
 Nazi Saboteurs Trial, Washington, D.C., 1942|<->|Operation Pastorius
 Nazis|->|Nazism
@@ -13080,7 +13098,7 @@ Nucleic acids|=|Nucleic acid
 Nucleotide sequence|=|Nucleic acid sequence
 Nudibranchia|=|Nudibranch
 Nudism|=|Naturism
-Nudist camps|<->|Nudist community
+Nudist camps|<->|Nude recreation
 Nueces River (Tex.)|=|Nueces River
 Nueces River Affair, Tex., 1862|=|Nueces massacre
 Nuevo Le&oacute;n (Mexico : State)|=|Nuevo León
@@ -13371,6 +13389,7 @@ Ontake Mountain (Japan)|=|Mount Ontake
 Ontario -- Politics and government|<->|Politics of Ontario
 Ontario -- Politics and government|<-|Government of Ontario
 Ontario, Lake (N.Y. and Ont.)|=|Lake Ontario
+Ontologies (Information retrieval)|<->|Ontology (information science)
 Oowekeeno Indians|=|Wuikinuxv
 Opals|=|Opal
 Op&eacute;ra de Paris|=|Paris Opera
@@ -14288,7 +14307,7 @@ Piankashaw Indians|=|Piankeshaw
 Piano music|->|Piano
 Pianola|->|Player piano
 Piau&iacute; (Brazil)|=|Piauí
-Piave, 2nd Battle of the, Italy, 1918|=|Battle of the Piave River
+Piave, 2nd Battle of the, Italy, 1918|=|Second Battle of the Piave River
 Piave River (Italy)|<->|Piave (river)
 Piazza Fontana Bombing, Milan, Italy, 1969|=|Piazza Fontana bombing
 Piazza San Pietro (Vatican City)|=|St. Peter's Square
@@ -14379,6 +14398,7 @@ Piriy&amacr;patna (India)|=|Periyapatna
 Pisagua, Battle of, Pisagua, Chile, 1879|=|Battle of Pisagua
 Pisgah Crater (Calif.)|=|Pisgah Crater
 Pisgah National Forest (N.C.)|=|Pisgah National Forest
+P&imacr;shd&amacr;dids (Legendary characters)|=|Pishdadian dynasty
 Pistons|<->|Piston
 Pit and fissure sealants (Dentistry)|<->|Dental sealant
 Pit bull terriers|=|Pit bull
@@ -14950,6 +14970,8 @@ Protestant churches|->|Protestantism
 Protestant Reformed Churches of America|=|Protestant Reformed Churches in America
 Protestants|->|Protestantism
 Protest movements|<->|Protest
+Proteus (Bacteria)|=|Proteus (bacterium)
+Proteus (Greek deity)|=|Proteus
 Protheses (Architecture)|<->|Prothesis (altar)
 Proto-Slavic language|=|Proto-Slavic
 Protocols of the wise men of Zion|=|The Protocols of the Elders of Zion
@@ -15046,6 +15068,7 @@ Pumping machinery|=|Pump
 Punch (London, England)|=|Punch (magazine)
 Punches (Beverages)|=|Punch (drink)
 Punchinello (Fictitious character)|<->|Pulcinella
+Pungency (Chemical senses)|<->|Pungency
 Punic War, 1st, 264-241 B.C.|=|First Punic War
 Punic War, 2nd, 218-201 B.C.|=|Second Punic War
 Punishment in crime deterrence|<->|Deterrence (legal)
@@ -15389,7 +15412,7 @@ Reference books|->|Reference work
 Reference values (Medicine)|<->|Reference range
 Reference works|=|Reference work
 Reflection (Optics)|<->|Reflection (physics)
-Reflection (Philosophy)|<->|Human self-reflection
+Reflection (Philosophy)|<->|Self-reflection
 Reflexes|=|Reflex
 Reformation|=|Protestant Reformation
 Reformation -- Scotland|=|Scottish Reformation
@@ -15450,7 +15473,6 @@ Reorganized Church of Jesus Christ of Latter Day Saints|->|Community of Christ
 Reoviruses|=|Reoviridae
 Repairing|->|Maintenance, repair, and operations
 Reparation (Criminal justice)|<->|Reparation (legal)
-Repatriation|=|Repatriation (humans)
 Repertory theater|=|Repertory theatre
 Representational State Transfer (Software architecture)|<->|Representational state transfer
 Representations of Lie groups|=|Representation of a Lie group
@@ -16420,7 +16442,7 @@ Seldon, Hari (Fictitious character)|=|Hari Seldon
 Selenite|<->|Selenite (mineral)
 Selenium (Software framework)|=|Selenium (software)
 Self-actualization (Psychology)|<->|Self-actualization
-Self-care, Health|=|Self care
+Self-care, Health|=|Self-care
 Self-culture|<->|Autodidacticism
 Self-employed|<->|Self-employment
 Self-hate (Psychology)|=|Self-hatred
@@ -16616,6 +16638,7 @@ Shaoxing (China)|=|Shaoxing
 Shape memory polymers|=|Shape-memory polymer
 Shape theory (Topology)|=|Shape theory (mathematics)
 Shard, The (London, England)|=|The Shard
+Shared services (Management)|=|Shared services
 Shareware (Computer software)|=|Shareware
 Shark Bay (W.A.)|=|Shark Bay
 Sharks|=|Shark
@@ -18210,6 +18233,7 @@ Theological anthropology|<->|Christian anthropology
 Theological libraries|<->|Christian library
 Theological seminaries|=|Seminary
 Theophanies|=|Theophany
+Theory of constraints (Management)|=|Theory of constraints
 Theosophists|->|Theosophy
 Therapeutic alliance|=|Therapeutic relationship
 Therapeutics|=|Therapy
@@ -18577,7 +18601,7 @@ Treaty on Conventional Armed Forces in Europe (1990 November 19)|=|Treaty on Con
 Treaty on European Union (1992 February 7)|=|Maastricht Treaty
 Treaty on Open Skies (1992 March 24)|=|Treaty on Open Skies
 Treaty on Stability, Coordination and Governance in the Economic and Monetary Union (2012 March 2)|=|European Fiscal Compact
-Treaty on the Final Settlement with Respect to Germany (1990)|=|Treaty on the Final Settlement with Respect to Germany
+Treaty on the Final Settlement with Respect to Germany (1990)|=|Treaty on the Final Settlement with Respect to Germany (Two-Plus-Four Treaty)
 Treaty on the Non-proliferation of Nuclear Weapons (1968 June 12)|=|Treaty on the Non-Proliferation of Nuclear Weapons
 Treaty on the Prohibition of the Emplacement of Nuclear Weapons and Other Weapons of Mass Destruction on the Seabed and the Ocean Floor and in the Subsoil Thereof (1971 February 11)|=|Seabed Arms Control Treaty
 Treaty on the Protection of Artistic and Scientific Institutions and Historic Monuments (1935)|=|Roerich Pact
@@ -19167,7 +19191,7 @@ United States -- History -- Revolution, 1775-1783 -- Committees of correspondenc
 United States -- History -- Revolution, 1775-1783 -- Committees of safety|=|Committees of safety (American Revolution)
 United States -- History -- Revolution, 1775-1783 -- Economic aspects|<->|Financial costs of the American Revolutionary War
 United States -- History -- Revolution, 1775-1783 -- Finance|->|Financial costs of the American Revolutionary War
-United States -- History -- Revolution, 1775-1783 -- Naval operations|=|Naval operations in the American Revolutionary War
+United States -- History -- Revolution, 1775-1783 -- Naval operations|<->|Naval battles of the American Revolutionary War
 United States -- History -- Revolution, 1775-1783 -- Participation, African American|<->|African Americans in the Revolutionary War
 United States -- History -- Revolution, 1775-1783 -- Participation, French|<->|France in the American Revolutionary War
 United States -- History -- Revolution, 1775-1783 -- Participation, German|<->|Germans in the American Revolution
@@ -19563,7 +19587,7 @@ Vigo (Spain)|=|Vigo
 Vigo Bay, Battle of, Spain, 1702|=|Battle of Vigo Bay
 Vijos&euml; River (Greece and Albania)|=|Aoös
 Viking Mars Program (U.S.)|=|Viking program
-Vilcanota, Cordillera (Peru)|=|Willkanuta mountain range
+Vilcanota, Cordillera (Peru)|=|Cordillera Vilcanota
 Villa Celimontana (Rome, Italy)|=|Villa Celimontana
 Villa Clara (Cuba)|=|Villa Clara Province
 Villa Mondragone (Monte Porzio Catone, Italy)|=|Villa Mondragone
@@ -20430,7 +20454,7 @@ World War, 1939-1945 -- Sweden|=|Sweden during World War II
 World War, 1939-1945 -- Switzerland|->|Switzerland during the World Wars
 World War, 1939-1945 -- Tank warfare|<->|Tanks in World War II
 World War, 1939-1945 -- Technology|<->|Technology during World War II
-World War, 1939-1945 -- Territorial questions -- Germany|<->|Territorial changes of Germany after World War II
+World War, 1939-1945 -- Territorial questions -- Germany|<->|Former eastern territories of Germany
 World War, 1939-1945 -- Territorial questions -- Poland|<->|Territorial changes of Poland immediately after World War II
 World War, 1939-1945 -- Thailand|=|Thailand in World War II
 World War, 1939-1945 -- Underground movements|<->|Resistance during World War II
@@ -20704,7 +20728,7 @@ Zimovia Strait (Alaska)|=|Zimovia Strait
 Zinc -- Isotopes|=|Isotopes of zinc
 Zion (Mormon Church)|=|Zion (Latter Day Saints)
 Zionists|->|Zionism
-Zip codes|=|ZIP code
+Zip codes|=|ZIP Code
 Zip to Zap Riot, Zap, N.D., 1969|=|Zip to Zap
 Zirconium -- Isotopes|=|Isotopes of zirconium
 Zire (Computer)|=|Zire Handheld
