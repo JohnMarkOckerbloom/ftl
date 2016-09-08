@@ -1375,6 +1375,13 @@ COUNTRY UK
 CATTYPE spydus
 BASEURL http://camden.spydus.co.uk
 
+ID OCLC-UKCAR
+NAME Cardiff Libraries
+LOCATION Cardiff, Wales
+COUNTRY UK
+CATTYPE sirsi
+BASEURL http://ibistro.cardiff.gov.uk/uhtbin/cgisirsi
+
 ID OCLC-RDF
 NAME Cardiff University and NHS Wales Libraries
 LOCATION Cardiff and elsewhere in Wales
@@ -1483,6 +1490,13 @@ COUNTRY UK
 CATTYPE prismhosted
 BASEURL http://capitadiscovery.co.uk/lambeth
 FILTERS S
+
+ID LEEDS
+NAME Leeds Library and Information Service
+LOCATION Leeds, England
+COUNTRY UK
+CATTYPE prismhosted
+BASEURL http://capitadiscovery.co.uk/leeds
 
 ID UK-NIBAL
 NAME Libraries NI
@@ -1600,6 +1614,15 @@ COUNTRY UK
 CATTYPE sirsient
 BASEURL http://emlib.ent.sirsidynix.net.uk
 LCODE en_GB/nottcity
+
+ID OCLC-REABC
+NAME Reading Borough Libraries
+LOCATION Reading, England
+COUNTRY UK
+BASEURL http://reading-hip.epixtech.co.uk
+CATTYPE ipac20
+PROFILE rea--1
+FILTERS S
 
 ID OCLC-UKBRW
 NAME Rochdale Libraries
