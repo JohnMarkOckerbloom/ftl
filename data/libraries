@@ -1118,6 +1118,15 @@ COUNTRY NZ
 CATTYPE voyager-vwebv
 BASEURL http://nzlc.natlib.govt.nz/vwebv/search
 
+ID BIBSYSORIA
+NAME BibSys Oria
+LOCATION Many research libraries in Norway
+COUNTRY NO
+CATTYPE primodl-loc
+BASEURL http://bibsys-almaprimo.hosted.exlibrisgroup.com
+VID BIBSYS
+LOC adaptor,scope:(BIBSYS_ILS),scope:(SC_OPEN_ACCESS),scope:("BIBSYS"),primo_central_multiple_fe
+
 ID SARGODHA
 NAME University of Sargodha, Central Library
 LOCATION Sargodha; English search terms may give limited results
@@ -7769,12 +7778,29 @@ BASEURL http://catalog.winnefox.org
 CATTYPE vufind
 FILTERS S
 
+ID OCLC-W8A
+NAME Albany County Public Library
+LOCATION Laramie and vicinity
+STATE WY
+CATTYPE sirsient
+LCODE en_US/albany
+BASEURL http://wyld.sdp.sirsi.net
+
 ID OCLC-WYL
 NAME Laramie County Library
 LOCATION Cheyenne
 STATE WY
-BASEURL http://wyld.state.wy.us/uhtbin/cgisirsi
-CATTYPE sirsi
+CATTYPE sirsient
+LCODE en_US/larm
+BASEURL http://wyld.sdp.sirsi.net
+
+ID OCLC-CWF
+NAME Natrona County Public Library
+LOCATION Casper and vicinity
+STATE WY
+CATTYPE sirsient
+LCODE en_US/natr
+BASEURL http://wyld.sdp.sirsi.net
 
 ID OCLC-4JI
 NAME University of Wyoming
