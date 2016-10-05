@@ -6216,6 +6216,13 @@ STATE PA
 BASEURL http://unicorn.buckslib.org/uhtbin/cgisirsi
 CATTYPE sirsi
 
+ID OCLC-JOC
+NAME Cambria County Library
+LOCATION Johnstown
+STATE PA
+CATTYPE evergreen-dynamic
+BASEURL http://cambria.sparkpa.org/eg/opac
+
 ID OCLC-PMC
 NAME Carnegie Mellon University
 LOCATION Pittsburgh
@@ -6280,6 +6287,13 @@ LOCATION Carnegie Library of Pittsburgh, and Allegheny County libraries
 STATE PA
 BASEURL http://catalog.einetwork.net
 CATTYPE innopac
+
+ID OCLC-EPL
+NAME Erie County Public Library
+LOCATION Erie and vicinity
+STATE PA
+CATTYPE sirsient
+BASEURL http://ecls.ent.sirsi.net
 
 ID OCLC-PGC
 NAME Geneva College
@@ -6444,6 +6458,13 @@ LOCATION Pittsburgh and other campuses
 STATE PA
 CATTYPE summon
 BASEURL http://pitt.summon.serialssolutions.com
+
+ID OCLC-SRU
+NAME University of Scranton, Weinberg Memorial Library
+LOCATION Scranton
+STATE PA
+CATTYPE encore
+BASEURL http://encore.scranton.edu/iii/encore
 
 ID OCLC-PLF
 NAME Free Library of Philadelphia
