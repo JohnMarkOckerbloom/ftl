@@ -6194,6 +6194,13 @@ BASEURL http://205.247.101.11
 CATTYPE iii-consortium-member
 LCODE NaN
 
+ID OCLC-BEA
+NAME Arcadia University, Landman Library
+LOCATION Glenside
+STATE PA
+BASEURL http://koha.arcadia.edu
+CATTYPE koha
+
 ID OCLC-BFJ
 NAME Beaver County Library System
 LOCATION Public and community college libraries in Beaver County
@@ -6316,6 +6323,13 @@ STATE PA
 BASEURL http://holy.sirsi.net/uhtbin/cgisirsi
 CATTYPE sirsi
 
+ID OCLC-KOL
+NAME King's College
+LOCATION Wilkes-Barre
+STATE PA
+BASEURL http://pac.kings.edu/polaris
+CATTYPE polaris
+
 # using the main Scranton library's ID for this
 ID OCLC-SCR
 NAME Lackawanna County Library System
@@ -6330,6 +6344,13 @@ LOCATION Easton
 STATE PA
 BASEURL http://libcat.lafayette.edu
 CATTYPE innopac
+
+ID OCLC-LAS
+NAME La Salle University, Connelly Library
+LOCATION Philadelphia
+STATE PA
+CATTYPE summon
+BASEURL http://lasalle.summon.serialssolutions.com
 
 ID OCLC-AOX
 NAME Library Company of Philadelphia
@@ -6346,6 +6367,13 @@ STATE PA
 BASEURL http://catalog.lancasterlibraries.org
 CATTYPE iii-consortium-member
 LCODE 1
+
+ID OCLC-LCLXP
+NAME Luzerne County Library System
+LOCATION Wilkes-Barre, Hazleton, and vicinity
+STATE PA
+CATTYPE sirsient
+BASEURL http://luzerne.ent.sirsi.net
 
 # ID is for Norristown
 ID OCLC-MNL
