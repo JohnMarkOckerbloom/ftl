@@ -10,8 +10,12 @@
 #   are not included in this file.
 # See docs file for documentation
 # Last updated 2016-10-08
-# Did LCSH 2015 update lists 1-2, 3 (A-H), 2016 update lists 1-8
+# Did LCSH 2015 update lists 1-2, 3 (A-O), 2016 update lists 1-8
 1066 Country Walk (England)|=|1066 Country Walk
+1361 K4 (Steam locomotive)|=|PRR 1361
+1366 Class (Steam locomotives)|=|GWR 1366 Class
+141 R (Steam locomotive)|<->|SNCF Class 141R
+1600 Class (Steam locomotives)|=|GWR 1600 Class
 16th Street Baptist Church Bombing, Birmingham, Ala., 1963|=|16th Street Baptist Church bombing
 1998 KY26 (Asteroid)|=|1998 KY26
 20th Century Limited (Express train)|=|20th Century Limited
@@ -25,6 +29,11 @@
 401(k) plans|<->|401(k)
 403(b) plans|<->|403(b)
 527 groups|=|527 organization
+5400 Class (Steam locomotives)|=|GWR 5400 Class
+5700 Class (Steam locomotives)|=|GWR 5700 Class
+6400 Class (Steam locomotives)|=|GWR 6400 Class
+7400 Class (Steam locomotives)|->|GWR 6400 Class
+61572 (Steam locomotive)|->|GER Class S69
 6502 (Microprocessor)|=|MOS Technology 6502
 65816 (Microprocessor)|<->|WDC 65816/65802
 7 World Trade Center (New York, N.Y.)|=|7 World Trade Center
@@ -613,6 +622,7 @@ Alta Toquima Wilderness (Nev.)|=|Alta Toquima Wilderness
 Alta&#x012d; Uriankha&#x012d; (Mongolian people)|=|Altai Uriankhai
 Altario (Alta.)|=|Altario
 Altars|=|Altar
+Altas (Musical groups)|<->|Alta cappella
 Altered states of consciousness|=|Altered state of consciousness
 Altermodern (Art)|=|Altermodern
 Alternative histories (Fiction)|<->|Alternate history
@@ -1356,6 +1366,7 @@ Atlantic Intracoastal Waterway|<->|Intracoastal Waterway
 Atlantic monthly|=|The Atlantic
 Atlantic Peak (Wyo.)|=|Atlantic Peak
 Atlantic Provinces|=|Atlantic Canada
+Atlantic Type (Steam locomotives)|<->|4-4-2 (locomotive)
 Atlantis (Legendary place)|=|Atlantis
 Atlas (Missile)|<->|SM-65 Atlas
 Atlas (Vertebra)|=|Atlas (anatomy)
@@ -1546,6 +1557,9 @@ B-47 bomber|=|Boeing B-47 Stratojet
 B-52 bomber|=|Boeing B-52 Stratofortress
 B-58 bomber|=|Convair B-58 Hustler
 B. Everett Jordan Lake (N.C.)|=|Jordan Lake
+B12 (Steam locomotives)|<->|GER Class S69
+B17 (Steam locomotive)|=|LNER Class B17
+B2 (Steam locomotive)|=|LNER Thompson Class B2
 Ba gua jiao (Cult)|<->|Bagua
 Baade 152 (Transport plane)|=|Baade 152
 Baamba (African people)|=|Amba people
@@ -1770,6 +1784,8 @@ Barbastro (Spain)|=|Barbastro
 Barbastro (Spain) -- History -- Siege, 1064|<->|Crusade of Barbastro
 Barber family|->|Barber (disambiguation)
 Barbers|=|Barber
+Barbershop quartets (Musical groups)|=|Barbershop quartet
+Barbershop singing|=|Barbershop music
 Barcelona Disputation, Barcelona, Spain, 1263|=|Disputation of Barcelona
 Barcelona (Spain)|=|Barcelona
 Barcelona (Spain) -- History|=|History of Barcelona
@@ -2090,6 +2106,7 @@ Bering Land Bridge|<->|Beringia
 Bering Land Bridge National Preserve (Alaska)|=|Bering Land Bridge National Preserve
 Berkeley Hills (Calif.)|=|Berkeley Hills
 Berkshire Hills (Mass.)|<->|The Berkshires
+Berkshire Type (Steam locomotives)|<->|2-8-4
 Berlin (Germany)|=|Berlin
 Berlin (Germany) -- History|=|History of Berlin
 Berlin (Germany) -- History -- Blockade, 1948-1949|=|Berlin Blockade
@@ -2242,6 +2259,7 @@ Big Ben (Tower clock)|<->|Big Ben
 Big Bethel, Battle of, Va., 1861|=|Battle of Big Bethel
 Big Bird (Fictitious character)|=|Big Bird
 Big Blue, Battle of the, Mo., 1864|<->|Battle of Byram's Ford
+Big Boys (Steam locomotives)|=|Union Pacific Big Boy
 Big brother (Television program : Australia)|=|Big Brother Australia
 Big brother (Television program : Germany)|<->|Big Brother Germany
 Big brother (Television program : Great Britain)|<->|Big Brother (UK TV series)
@@ -2392,6 +2410,7 @@ Black Country (England)|<->|Black Country
 Black Diamond (Express train)|=|Black Diamond (train)
 Black Diamond Mines Regional Preserve (Calif.)|=|Black Diamond Mines Regional Preserve
 Black English|<->|African American Vernacular English
+Black Five (Steam locomotives)|=|LMS Stanier Class 5 4-6-0
 Black Forest (Germany)|=|Black Forest
 Black Hawk (Military transport helicopter)|<->|Sikorsky UH-60 Black Hawk
 Black Hawk Friendly Fire Incident, Iraq, 1994|=|1994 Black Hawk shootdown incident
@@ -3454,6 +3473,8 @@ Castiglione delle Stiviere (Italy)|=|Castiglione delle Stiviere
 Castile (Spain)|=|Castile (historical region)
 Castile (Spain) -- History -- Uprising, 1520-1521|=|Revolt of the Comuneros
 Castillo de Tur&eacute;gano (Tur&eacute;gano, Spain)|=|Castle of Turégano
+Castle Class (Corvettes)|=|Castle-class corvette
+Castle Class (Steam locomotives)|=|GWR 4073 Class
 Castle Dome Mountains (Ariz.)|=|Castle Dome Mountains
 Castle Mountains (Calif. and Nev.)|<->|Castle Mountains (California)
 Castle of Good Hope (Cape Town, South Africa)|=|Castle of Good Hope
@@ -3671,6 +3692,7 @@ Challah (Bread)|=|Challah
 Challenger, Mount (Wash.)|=|Mount Challenger (Washington)
 Challenger, Professor (Fictitious character)|=|Professor Challenger
 Challenger Expedition (1872-1876)|=|Challenger expedition
+Challenger Type (Steam locomotives)|<->|4-6-6-4
 Ch&acirc;lons-sur-Marne, Battle of, France, 451|=|Battle of the Catalaunian Plains
 Cham (Dance)|=|Cham dance
 Cham (Southeast Asian people)|=|Chams
@@ -4191,7 +4213,9 @@ Citizens' Councils of America|<->|Citizens' Councils
 Citrus mealybug|=|Planococcus citri
 City and Country School (New York, N.Y.)|=|City and Country School
 City and town life|<->|Urban culture
+City Class (Steam locomotives)|=|GWR 3700 Class
 City Hall (Philadelphia, Pa.)|=|Philadelphia City Hall
+City of Truro (Steam locomotive)|=|GWR 3700 Class 3440 City of Truro
 City planners|<->|Urban planner
 City planning|<->|Urban planning
 City planning -- History|<->|History of urban planning
@@ -4223,6 +4247,7 @@ Clark's Expedition against Detroit, 1781|<->|Lochry's Defeat
 Clark's Expedition to the Illinois (1778-1779)|<->|Illinois campaign
 Clark's Mill, Battle of, Vera Cruz, Mo., 1862|=|Battle of Clark's Mill
 Claros Site (Turkey)|<->|Claros
+Class 4 (Steam locomotives)|<->|BR Standard Class 4 4-6-0
 Class 17 (Diesel locomotives)|=|British Rail Class 17
 Class 20 (Diesel locomotives)|=|British Rail Class 20
 Class 24 (Diesel locomotives)|=|British Rail Class 24
@@ -4238,6 +4263,13 @@ Class 58 (Diesel locomotives)|=|British Rail Class 58
 Class 60 (Diesel locomotives)|=|British Rail Class 60
 Class 73 (Electro-diesel locomotives)|=|British Rail Class 73
 Class 74 (Electro-diesel locomotives)|=|British Rail Class 74
+Class A1 (Steam locomotives)|<->|LNER Class A1
+Class A1 (Steam locomotives)|<-|LNER Peppercorn Class A1
+Class A2 (Steam locomotives)|<->|LNER Peppercorn Class A2
+Class A3 (Steam locomotives)|<->|LNER Gresley Classes A1 and A3
+Class A4 (Steam locomotives)|=|LNER Class A4
+Class V (Steam locomotives)|<->|GNRI Class V
+Class V2 (Steam locomotives)|<->|LNER Class V2
 Classical geography|->|History of geography
 Classical literature|->|Classics
 Classical philology|->|Classics
@@ -4246,6 +4278,7 @@ Classicists|->|Classics
 Clathrate compounds|=|Clathrate compound
 Claude glasses|=|Claude glass
 Claudius, King of Denmark (Fictitious character)|=|King Claudius
+Claughton Class (Steam locomotives)|=|LNWR Claughton Class
 Clausholm Slot (Denmark)|=|Clausholm Castle
 Clean rooms|=|Cleanroom
 Clearwater National Forest (Agency : U.S.)|->|Clearwater National Forest
@@ -5045,6 +5078,8 @@ Countertransference (Psychology)|=|Countertransference
 Country dancing|<->|Country dance
 Country homes|->|English country house
 Country homes -- England|=|English country house
+County Class (Cruisers)|=|County-class cruiser
+County Class (Steam locomotives)|=|GWR 1000 Class
 Couplers (Railroad cars)|<->|Railway coupling
 Coups d'&eacute;tat|=|Coup d'état
 Courcelles Massacre, Belgium, 1944|=|Courcelles massacre
@@ -5482,6 +5517,7 @@ Debts, Public -- United States -- History|=|History of the United States public 
 Debutantes|=|Debutante
 DEC Professional 300 series (Computers)|<->|DEC Professional (computer)
 Decade to Overcome Violence, 2001-2010|<->|Decade to Overcome Violence
+Decapod Type (Steam locomotives)|<->|2-10-0
 Decapoda (Crustacea)|=|Decapoda
 Decay schemes (Radioactivity)|=|Decay scheme
 Decembrists|->|Decembrist revolt
@@ -5990,6 +6026,7 @@ Dublin (Ireland : County)|=|County Dublin
 Dublin Lockout, Dublin, Ireland, 1913|=|Dublin lock-out
 Dubrovnik (Croatia)|=|Dubrovnik
 Dubrovnik (Croatia) -- History -- Siege, 1991-1992|=|Siege of Dubrovnik
+Duchess Class (Steam locomotives)|<->|LMS Coronation Class
 Duchies|=|Duchy
 Ducks|=|Duck
 Dude ranches|=|Guest ranch
@@ -6723,6 +6760,7 @@ Evolution (Biology)|=|Evolution
 Evolution Series (Diesel locomotives)|=|GE Evolution Series
 Evolve (Game)|=|Evolve (video game)
 Evolve (Television program)|=|Evolve (TV series)
+&Eacute;vora (Portugal)|=|Évora
 Ewe (African people)|=|Ewe people
 Examinations|=|Test (assessment)
 Excavations (Archaeology)|=|Excavation (archaeology)
@@ -7799,6 +7837,7 @@ General Strike, Sweden, 1909|=|Swedish general strike
 General Strike, Uruguay, 1973|=|1973 Uruguayan general strike
 General Strike, Winnipeg, Man., 1919|=|Winnipeg general strike
 General strikes|=|General strike
+General, The (Steam locomotive)|=|The General (locomotive)
 General Transport Strike, Liverpool, England, 1911|=|1911 Liverpool general transport strike
 Generals|=|General officer
 Generating functions|=|Generating function
@@ -7952,6 +7991,7 @@ Gifts|=|Gift
 Gifts, Spiritual|=|Spiritual gift
 Gifts -- Taxation|<->|Gift tax
 Gifts -- Taxation -- United States|<->|Gift tax in the United States
+Giggleswick (England)|=|Giggleswick
 Gila Bend Mountains (Ariz.)|=|Gila Bend Mountains
 Gila Cliff Dwellings National Monument (N.M.)|=|Gila Cliff Dwellings National Monument
 Gila (Fish)|=|Gila (genus)
@@ -7962,6 +8002,7 @@ Gingerbread men|=|Gingerbread man
 Gippsland (Vic.)|=|Gippsland
 Giralda (Seville, Spain)|=|Giralda
 Giralda Farms (Madison, N.J.)|=|Giralda Farms
+Girl groups (Musical groups)|=|Girl group
 Girl Scouts|->|Girl Guides
 Girl Scouts of the United States of America|<->|Girl Scouts of the USA
 Girls|=|Girl
@@ -8194,6 +8235,7 @@ Grandfather Mountain (N.C.)|<->|Grandfather Mountain
 Grandfathers|->|Grandparent
 Grandmothers|->|Grandparent
 Grandparents|=|Grandparent
+Grange Class (Steam locomotives)|<->|GWR 6800 Class
 Granger, Hermione (Fictitious character)|=|Hermione Granger
 Granicus, Battle of the, Turkey, 334 B.C.|=|Battle of the Granicus
 Granite Mountain Speculator Mine Disaster, Mont., 1917|=|Speculator Mine disaster
@@ -8354,6 +8396,7 @@ Greek language, Modern -- Grammar|=|Modern Greek grammar
 Greek poetry|->|Greek literature
 Greek revival (Architecture)|<->|Greek Revival architecture
 Green Arrow (Fictitious character)|=|Green Arrow
+Green Arrow (Steam locomotive)|=|LNER Class V2 4771 Green Arrow
 Green Bay Packers (Football team)|=|Green Bay Packers
 Green cards|<->|Permanent residence (United States)
 Green children of Woolpit (Legendary characters)|=|Green children of Woolpit
@@ -8524,6 +8567,7 @@ Guttiferae|=|Clusiaceae
 Guyana -- Politics and government|<->|Politics of Guyana
 Guy Fawkes Day|<->|Guy Fawkes Night
 Guz&oacute;w, Battle of, Guz&oacute;w, Wojew&oacute;dztwo Mazowieckie, Poland, 1607|=|Battle of Guzów
+GWR 1500 Class (Steam locomotives)|=|GWR 1500 Class
 Gymnosomata|=|Sea angel
 Gynecologists|->|Gynaecology
 Gynecology|=|Gynaecology
@@ -8533,6 +8577,8 @@ H.263 (Video coding standard)|=|H.263
 H-43 (Military transport helicopter)|<->|Kaman HH-43 Huskie
 H. Neely Henry Lake (Ala.)|=|Neely Henry Lake
 H Street (Washington, D.C.)|=|H Street
+H15 Class (Steam locomotives)|<->|LSWR H15 class
+H1N1 influenza|<->|Influenza A virus subtype H1N1
 Ha (African people)|=|Ha people
 Haarlem (Netherlands)|=|Haarlem
 Habad|=|Chabad
@@ -9278,6 +9324,7 @@ Hudson River (N.Y. and N.J.)|=|Hudson River
 Hudson River school of landscape painting|<->|Hudson River School
 Hudson River Valley (N.Y. and N.J.)|=|Hudson Valley
 Hudson Street (Manhattan, New York, N.Y.)|=|Hudson Street (Manhattan)
+Hudson Type (Steam locomotives)|<->|4-6-4
 Hue, Battle of, Hu&#x1ebf;, Vietnam, 1968|=|Battle of Huế
 Hueco Mountains (Tex. and N.M.)|=|Hueco Mountains
 Huey (Fictitious character : Disney)|->|Huey, Dewey, and Louie
@@ -10201,6 +10248,7 @@ Janeway, Kathryn (Fictitious character)|=|Kathryn Janeway
 Janizaries|=|Janissaries
 Jankau, Battle of, Jankov, St&rcaron;edo&ccaron;esk&yacute; kraj, Czech Republic, 1645|=|Battle of Jankau
 Jansenists|=|Jansenism
+Japan -- Civilization -- Korean influences|<->|Korean influence on Japanese culture
 Japan -- Foreign relations|<->|Foreign relations of Japan
 Japan -- History -- Ak&omacr; Vendetta, 1703|->|Forty-seven Ronin
 Japan -- History -- Allied occupation, 1945-1952|=|Occupation of Japan
@@ -10436,6 +10484,8 @@ Job stress|=|Occupational stress
 Johannesburg (South Africa)|=|Johannesburg
 Johannesburg Mountain (Wash.)|=|Johannesburg Mountain
 John (Name)|<->|John (given name)
+John Bull (Steam locomotive)|=|John Bull (locomotive)
+John Bull (Symbolic character)|=|John Bull
 John Day Fossil Beds National Monument (Agency : U.S.)|->|John Day Fossil Beds National Monument
 John Day Fossil Beds National Monument (Or.)|=|John Day Fossil Beds National Monument
 John F. Kennedy Space Center|=|Kennedy Space Center
@@ -10452,12 +10502,14 @@ Joint Information Systems Committee|=|Jisc
 Joint ventures|=|Joint venture
 Jointer (Woodworking machine)|=|Jointer
 Joker (Fictitious character)|=|Joker (comics)
+J&ouml;kulfir&eth;ir (Iceland)|=|Jökulfirðir
 Jones, Bridget (Fictitious character)|<->|Bridget Jones
 Jones, Indiana (Fictitious character)|=|Indiana Jones
 Jones family|<->|Jones (surname)
 Jonestown Mass Suicide, Jonestown, Guyana, 1978|<->|Jonestown
 Jonkonnu (Festival)|=|Junkanoo
 Joomla! (Computer file)|=|Joomla
+Jopadhola (African people)|=|Adhola people
 Jordan -- Politics and government|<->|Politics of Jordan
 Joseph (Son of Jacob)|=|Joseph (Genesis)
 Joseph M. Farley Nuclear Plant (Ala.)|=|Joseph M. Farley Nuclear Generating Station
@@ -10469,6 +10521,7 @@ Jowzj&amacr;n (Afghanistan)|=|Jowzjan Province
 JPEG (Image coding standard)|=|JPEG
 Jualpa Mine Camp (Alaska)|<->|Last Chance Mining Museum
 Juane&ntilde;o Indians|=|Juaneño
+Jubilee Class (Steam locomotives)|<->|LMS Jubilee Class
 Judaculla Rock (N.C.)|=|Judaculla Rock
 Judaea (Region)|<->|Judea
 Judaism -- History -- Medieval and early modern period, 425-1789|<->|History of the Jews in the Middle Ages
@@ -10524,6 +10577,7 @@ Juno (Roman deity)|=|Juno (mythology)
 Jupiter (Planet)|=|Jupiter
 Jupiter (Planet) -- Satellites|=|Moons of Jupiter
 Jupiter (Roman deity)|=|Jupiter (mythology)
+Jupiter (Steam locomotive)|=|Jupiter (locomotive)
 Jura (Switzerland)|=|Canton of Jura
 Jurong (Singapore)|=|Jurong
 Jus primae noctis|<->|Droit du seigneur
@@ -10579,6 +10633,7 @@ Kakwa Wildland Park (Alta.)|=|Kakwa Wildland Park
 KAL Flight 858 Bombing Incident, 1987|<->|Korean Air Flight 858
 Kalabari (African people)|=|Kalabari tribe
 Kalamai (Greece)|=|Kalamata
+Kalanga (African people)|=|Kalanga people
 Kalash (Pakistani people)|=|Kalash people
 Kalenjin (African people)|=|Kalenjin people
 K&amacr;l&imacr; (Hindu deity)|=|Kali
@@ -10605,6 +10660,7 @@ Kamishak Bay (Alaska)|=|Kamishak Bay
 Kamloops (B.C.)|=|Kamloops
 Kamov Ka-27 (Antisubmarine helicopter)|=|Kamov Ka-27
 Kampala (Uganda)|=|Kampala
+Kamwe (African people)|<->|Higgi
 Kanagawa-ken (Japan)|=|Kanagawa Prefecture
 Kananaskis Country (Alta.)|=|Kananaskis Country
 Kanarese (Indic people)|<->|Kannada people
@@ -10755,6 +10811,7 @@ KFOR (Organization)|=|Kosovo Force
 Kgalagadi Transfrontier Park (Agency)|->|Kgalagadi Transfrontier Park
 Kgalagadi Transfrontier Park (Botswana and South Africa)|=|Kgalagadi Transfrontier Park
 Khafji, Battle of, Ra&#x02be;s al-Khafj&imacr;, Saudi Arabia, 1991|=|Battle of Khafji
+Khalils (South Asian people)|=|Khalil (Pashtun tribe)
 Khalkhin Gol, Battle of, Mongolia, 1939|<->|Battles of Khalkhin Gol
 Kh&amacr;n Maysal&umacr;n, Battle of, Kh&amacr;n Maysal&umacr;n, Syria, 1920|=|Battle of Maysalun
 Khanasor, Battle of, Turkey, 1897|<->|Khanasor Expedition
@@ -10817,7 +10874,10 @@ Kinetic theory of gases|=|Kinetic theory
 Kinetograph|->|Kinetoscope
 Kinetophone|->|Kinetoscope
 King, Martin Luther, Jr., 1929-1968 -- Assassination|=|Assassination of Martin Luther King Jr.
+King Arthur Class (Steam locomotives)|<->|LSWR N15 class
+King Class (Steam locomotives)|<->|GWR 6000 Class
 King George Island (Antarctica)|=|King George Island (South Shetland Islands)
+King George V (Steam locomotive)|=|GWR 6000 Class 6000 King George V
 King George VI and Queen Elizabeth Diamond Stakes|=|King George VI and Queen Elizabeth Stakes
 King John's Castle (Limerick, Limerick, Ireland)|=|King John's Castle (Limerick)
 King John's Castle (Limerick, Limerick, Ireland) -- Siege, 1642|<->|Siege of Limerick (1642)
@@ -11095,6 +11155,7 @@ Kulu (India)|=|Kullu
 Kumabito (Japanese people)|=|Kumabito
 Kuman language (Papua New Guinea)|=|Kuman language (New Guinea)
 Kumanovo, Battle of, Kumanovo, Macedonia, 1912|=|Battle of Kumanovo
+Kumina (Cult)|=|Kumina
 Kunama (African people)|=|Kunama people
 Kunar (Afghanistan : Province)|=|Kunar Province
 Kunar River (Pakistan and Afghanistan)|=|Kunar River
@@ -11452,6 +11513,7 @@ Le Paradis Massacre, 1940|=|Le Paradis massacre
 Le Portel (France)|=|Le Portel
 Lead -- Isotopes|=|Isotopes of lead
 Lead-acid batteries|=|Lead–acid battery
+Leader Class (Steam locomotives)|<->|SR Leader class
 Leading ladies (Actresses)|=|Leading lady
 Leading men (Actors)|=|Leading man
 Leafminers|<->|Leaf miner
@@ -11481,6 +11543,7 @@ LeConte, Mount (Tenn.)|=|Mount Le Conte (Tennessee)
 Lecter, Hannibal (Fictitious character)|=|Hannibal Lecter
 Lectionaries|=|Lectionary
 Lecturers|=|Lecturer
+LED lighting|->|LED lamp
 Leda (Greek mythology)|=|Leda (mythology)
 Leduc (Alta. : County)|=|Leduc County
 Lee-Enfield rifle|=|Lee–Enfield
@@ -11635,6 +11698,7 @@ Life on other planets|=|Extraterrestrial life
 Life support systems (Critical care)|<->|Advanced cardiac life support
 Life support systems (Space environment)|=|Life support system
 Light-bulb jokes|=|Lightbulb joke
+Light emitting diodes|=|Light-emitting diode
 Light water reactors|=|Light-water reactor
 Lightermen|=|Lighterman
 Lighthouses|=|Lighthouse
@@ -11699,6 +11763,7 @@ Linguists|->|Linguistics
 Linkers (Computer programs)|=|Linker (computing)
 Linlithgow (Scotland)|=|Linlithgow
 Linz (Austria)|=|Linz
+Lion (Steam locomotive)|=|The Lion (locomotive)
 Lion House (Salt Lake City, Utah)|=|Lion House (Salt Lake City)
 Lipany, Battle of, Czech Republic, 1434|=|Battle of Lipany
 Lipidoses|=|Lipid storage disorder
@@ -11771,6 +11836,7 @@ Lloydminster (Sask. and Alta.)|=|Lloydminster
 Llullaillaco Volcano (Chile)|=|Llullaillaco
 Llyfnant Valley (Wales)|<->|Cwm Llyfnant
 Llys Helig (Legendary place)|<->|Llys Helig
+LMS 6399 Fury (Steam locomotive)|=|LMS 6399 Fury
 Lo-fi (Rock music)|<->|Lo-fi music
 Loaders (Computer programs)|=|Loader (computing)
 Loaders (Machines)|=|Loader (equipment)
@@ -11789,6 +11855,7 @@ Locks (Hydraulic engineering)|<->|Lock (water navigation)
 Locks and keys|<->|Lock (security device)
 Locksmithing|->|Lock (security device)
 Locksmiths|->|Lock (security device)
+Locomotion (Steam locomotive)|<->|Locomotion No. 1
 Locomotive engineers|=|Railroad engineer
 Locomotive firemen|<->|Fireman (steam engine)
 Locomotives|=|Locomotive
@@ -11811,6 +11878,8 @@ Logarithms|=|Logarithm
 Loggers|=|Lumberjack
 Loglan (Artificial language)|=|Loglan
 LOGO (Computer program language)|=|Logo (programming language)
+Logooli (African people)|=|Maragoli tribe (Luhya)
+Logooli language|=|Logoli language
 Logos (Christian theology)|=|Logos (Christianity)
 Logos (Symbols)|<->|Logo
 Logro&ntilde;o (Spain)|=|Logroño
@@ -11874,6 +11943,7 @@ Loos, Battle of, Loos-en-Gohelle, France, 1915|=|Battle of Loos
 Loos-en-Gohelle (France)|=|Loos-en-Gohelle
 Loray Mill Strike, 1929|=|Loray Mill strike
 Lord Dunmore's War, 1774|=|Lord Dunmore's War
+Lord Nelson Class (Steam locomotives)|<->|SR Lord Nelson class
 Lord of the Rings roleplaying game|=|The Lord of the Rings Roleplaying Game
 Lord of the Rings Strategy Battle Game|=|The Lord of the Rings Strategy Battle Game
 Lord's Supper|<->|Eucharist
@@ -12026,6 +12096,7 @@ Luxembourg (Luxembourg) -- History -- Siege, 1684|=|Siege of Luxembourg (1684)
 Lwoo (African people)|=|Luo peoples
 Lwow, Battle of, L&#x02b9;viv, Ukraine, 1920|<->|Battle of Lwów (1920)
 Lyapunov functions|=|Lyapunov function
+Lyd (Steam locomotive)|=|Lyd (locomotive)
 Lymphatics|=|Lymphatic system
 Lynceus (Greek mythology)|=|Lynceus
 Lynchburg, Battle of, Lynchburg, Va., 1864|=|Battle of Lynchburg
@@ -12095,6 +12166,7 @@ Mackenzie Highway (Alta. and N.W.T.)|=|Mackenzie Highway
 Mackenzie River (N.W.T.)|=|Mackenzie River
 Mackinac Island (Mich. : Island)|=|Mackinac Island
 Macon (Airship)|=|USS Macon (ZRS-5)
+Macumba (Cult)|=|Macumba
 Madagascar -- History -- 1992-2010|<->|Third Republic of Madagascar
 Madagascar -- History -- Coup d'&eacute;tat, 2009|<->|2009 Malagasy political crisis
 Madagascar -- History -- French invasion, 1895|<->|Second Madagascar expedition
@@ -12153,6 +12225,7 @@ Magnetic memory (Computers)|<->|Magnetic storage
 Magnetic permeability|<->|Permeability (electromagnetism)
 Magpies|=|Magpie
 Magrath (Alta.)|=|Magrath
+Maguzawa (African people)|=|Maguzawa Hausa people
 Mah jong|=|Mahjong
 Mahafaly (Malagasy people)|=|Mahafaly
 Maharashtra (India)|=|Maharashtra
@@ -12180,6 +12253,7 @@ Maine (Battleship)|=|USS Maine (ACR-1)
 Maine coon cat|=|Maine Coon
 Maine, Gulf of|=|Gulf of Maine
 Maintenance|<->|Maintenance, repair, and operations
+Maintenance and champerty|=|Champerty and maintenance
 Mainz (Rhineland-Palatinate, Germany)|=|Mainz
 Mainz (Rhineland-Palatinate, Germany) -- History -- Siege, 1793|=|Siege of Mainz (1793)
 Maip&uacute;, Battle of, Chile, 1818|=|Battle of Maipú
@@ -12244,6 +12318,7 @@ Malines Conversations, 1921-1925|<->|Malines Conversations
 M&amacr;list&amacr;n (Afghanistan)|=|Malestan
 Mall, The (Washington, D.C.)|=|National Mall
 Mallakast&euml;r (Albania : Rrethi)|=|Mallakastër District
+Mallard (Steam locomotive)|=|LNER Class A4 4468 Mallard
 Malleus (Ear)|=|Malleus
 Malmedy Massacre, 1944-1945|=|Malmedy massacre
 Malmedy Trial, Dachau, Germany, 1946|=|Malmedy massacre trial
@@ -12768,6 +12843,7 @@ Mercenary troops|<->|Mercenary
 Merchant marine|<->|Merchant navy
 Merchant Marine Strike, Australia, 1890|<->|1890 Australian maritime dispute
 Merchant mariners|->|Sailor
+Merchant Navy Class (Steam locomotives)|<->|SR Merchant Navy class
 Merchant ships|=|Merchant vessel
 Merchants|=|Merchant
 Mercury|=|Mercury (element)
@@ -12947,6 +13023,7 @@ Midsummer (Festival)|<->|Midsummer
 Midway, Battle of, 1942|=|Battle of Midway
 Midway Islands|<->|Midway Atoll
 Midwives|->|Midwifery
+Miffy (Fictitious character)|=|Miffy
 MiG (Fighter planes)|<->|Mikoyan
 MiG-AT (Training plane)|=|Mikoyan MiG-AT
 Mighty Mouse (Fictitious character)|=|Mighty Mouse
@@ -13531,6 +13608,7 @@ Multi-user dungeons|=|MUD
 Mumbai (India)|=|Mumbai
 Mumbai (India) -- History|=|History of Mumbai
 Mumbai Terrorist Attacks, Mumbai, India, 2008|=|2008 Mumbai attacks
+Mumbo (Cult)|=|Mumboism
 Mummies|=|Mummy
 Mumming plays|=|Mummers play
 Mummy Range (Colo.)|=|Mummy Range
@@ -13555,6 +13633,7 @@ Murder for hire|=|Contract killing
 Murderers|->|Murder
 Muret, Battle of, Muret, Haute-Garonne, France, 1213|=|Battle of Muret
 Murgab River (Afghanistan and Turkmenistan)|<->|Murghab River
+Murgas (Musical groups)|<->|Murga
 Murle (African people)|=|Murle people
 Murray River (N.S.W.-S.A.)|=|Murray River
 Musa Dagh, Defense of, Turkey, 1915|<->|Musa Dagh
@@ -14134,6 +14213,7 @@ Niagara Falls (N.Y. and Ont.)|=|Niagara Falls
 Niagara Frontier (N.Y.)|<->|Niagara Frontier
 Niagara Peninsula (Ont.)|=|Niagara Peninsula
 Niagara River (N.Y. and Ont.)|=|Niagara River
+Niah Caves (Sarawak, Malaysia)|<->|Niah National Park
 Nias Island (Indonesia)|<->|Nias
 Nibelungen|<->|Nibelung
 Nicaragua -- History -- 1979-1990|=|History of Nicaragua (1979–90)
@@ -14187,6 +14267,7 @@ Nimitz Class (Aircraft carriers)|=|Nimitz-class aircraft carrier
 N&imacr;mr&umacr;z (Afghanistan)|=|Nimruz Province
 Nine (The number)|=|9 (number)
 Nine Days (Jewish mourning custom)|=|The Nine Days
+Nine Emperor Gods (Cult)|<->|Nine Emperor Gods Festival
 Ninepipe National Wildlife Refuge (Mont.)|=|Ninepipe National Wildlife Refuge
 Nineteen (The number)|=|19 (number)
 Nineteen eighties|=|1980s
@@ -14596,6 +14677,7 @@ Official secrets|->|Classified information
 Offshore structures|=|Offshore structure
 Oganesson|=|Ununoctium
 Ogasa-gun (Japan)|=|Ogasa District, Shizuoka
+Ogboni (Cult)|<->|Ogboni
 Oglala Indians|=|Oglala Lakota
 Ogoni (African people)|=|Ogoni people
 Ohaton (Alta.)|=|Ohaton
@@ -15155,6 +15237,7 @@ Pachar&aacute;n|=|Patxaran
 Pachuca (Mexico)|=|Pachuca
 Pacific Coast (U.S.)|=|West Coast of the United States
 Pacific salmon|->|Salmon
+Pacific Type (Steam locomotives)|<->|4-6-2
 Pacifists|->|Pacifism
 Packet switching (Data transmission)|=|Packet switching
 Packets|<->|Packet boat
@@ -15201,6 +15284,7 @@ Palace of Diocletian (Split, Croatia)|=|Diocletian's Palace
 Palace of Holyroodhouse (Edinburgh, Scotland)|=|Holyrood Palace
 Palace of Nestor (Pylos, Greece)|=|Palace of Nestor
 Palaces|=|Palace
+Pal&aacute;cio de Dom Manuel (&Eacute;vora, Portugal)|=|Royal Palace of Évora
 Palacio de Justicia (Bogot&aacute;, Colombia) -- Siege, 1985|=|Palace of Justice siege
 Palacio de Justicia (Peru)|=|Palace of Justice, Lima
 Palacio Presidencial (Havana, Cuba)|<->|Museum of the Revolution (Cuba)
@@ -15304,6 +15388,8 @@ Panther Incident, Itaja&iacute;, Santa Catarina, Brazil, 1905-1906|<->|SMS Panth
 Panthers|=|Panther
 Pantomimes|->|Pantomime
 Panza, Sancho (Fictitious character)|=|Sancho Panza
+Panzerf&auml;uste|=|Panzerfaust
+Panzerschrecke|=|Panzerschreck
 Panz&oacute;s (Guatemala)|=|Panzós
 Paoli Massacre, 1777|=|Battle of Paoli
 Papacy|->|Pope
@@ -15448,6 +15534,7 @@ Patna City (India)|=|Patna City
 Patriarchs and patriarchate|<->|Patriarch
 Patriarchal blessings (Mormon Church)|=|Patriarchal blessing
 Patriarchs (Mormon theology)|=|Patriarch (Latter Day Saints)
+Patriot Class (Steam locomotives)|<->|LMS Patriot Class
 Patriot missile|=|MIM-104 Patriot
 Paulus Hook, Battle of, N.J., 1779|=|Battle of Paulus Hook
 Pave Hawk (Search and rescue helicopter)|=|Sikorsky HH-60 Pave Hawk
@@ -15584,10 +15671,12 @@ Pequot War, 1636-1638|<->|Pequot War
 Perak (Malaysia)|=|Perak
 Perception (Philosophy)|<->|Philosophy of perception
 Perceval (Legendary character)|=|Percival
+Percussion ensembles (Musical groups)|<->|Percussion ensemble
 Perdana Putra (Putrajaya, Malaysia)|=|Perdana Putra
 Perdido Bay (Ala. and Fla.)|=|Perdido Bay
 Perdido Pass (Ala.)|=|Perdido Pass
 Perdido River (Fla. and Ala.)|=|Perdido River
+Pere Marquette 1225 (Steam locomotive)|=|Pere Marquette 1225
 Perennials|=|Perennial plant
 Perfect games (Baseball)|=|Perfect game
 Perfectly matched layers (Mathematical physics)|=|Perfectly matched layer
@@ -15760,6 +15849,8 @@ Piana degli Albanesi (Italy)|=|Piana degli Albanesi
 Pianists|=|Pianist
 Piankashaw Indians|=|Piankeshaw
 Piano music|->|Piano
+Piano trios|<->|Piano trio
+Piano trios (Musical groups)|->|Piano trio
 Pianola|->|Player piano
 Piau&iacute; (Brazil)|=|Piauí
 Piave, 2nd Battle of the, Italy, 1918|=|Second Battle of the Piave River
@@ -16377,6 +16468,7 @@ Prince of Wales, Cape (Alaska)|=|Cape Prince of Wales
 Prince William Sound (Alaska)|=|Prince William Sound
 Princes|=|Prince
 Princess Ozma (Fictitious character)|=|Princess Ozma
+Princess Royal Class (Steam locomotives)|=|LMS Princess Royal Class
 Princesses|=|Princess
 Princesses of Wales|=|Princess of Wales
 Princeton, Battle of, Princeton, N.J., 1777|=|Battle of Princeton
@@ -16912,6 +17004,7 @@ Red Cloud's War, 1866-1867|<->|Red Cloud's War
 Red Cross and Red Crescent|<->|International Red Cross and Red Crescent Movement
 Red Deer (Alta. : County)|=|Red Deer County
 Red Deer River (Alta. and Sask.)|=|Red Deer River
+Red Devil (Steam locomotive)|=|South African Class 26 4-8-4
 Red Dog Mine (Alaska)|<->|Red Dog mine
 Red Dot Design Award|=|Red Dot
 Red Earth Cree Nation|=|Red Earth First Nation
@@ -17470,6 +17563,7 @@ Rzhev, Battle of, Rzhev, Russia, 1942-1943|<->|Battles of Rzhev
 S-75 Dvina (Missile)|=|S-75 Dvina
 's-Hertogenbosch (Netherlands)|=|'s-Hertogenbosch
 's Hertogenbosch (Netherlands) -- History -- Siege, 1629|=|Siege of 's-Hertogenbosch
+S15 Class (Steam locomotives)|=|LSWR S15 class
 Saar River (France and Germany)|=|Saar (river)
 Saarbr&uuml;cken (Germany)|=|Saarbrücken
 Saaremaa Island (Estonia)|=|Saaremaa
@@ -17783,6 +17877,7 @@ Santiago de Cuba (Cuba)|=|Santiago de Cuba
 Santiago de Cuba (Cuba : Province)|=|Santiago de Cuba Province
 Santiago de los Caballeros (Dominican Republic)|=|Santiago de los Caballeros
 Santiago Expedition, 1741|<->|Invasion of Cuba (1741)
+Santo Daime (Cult)|=|Santo Daime
 Santo Domingo (Dominican Republic)|=|Santo Domingo
 Santo Domingo (Dominican Republic) -- History -- Siege, 1808-1809|<->|Spanish reconquest of Santo Domingo
 Santos (Art)|=|Santo (art)
@@ -17914,6 +18009,7 @@ School phobia|<->|School refusal
 School principals|<->|Head teacher
 SchoolNet (Computer network)|<->|SchoolNet
 Schools|=|School
+Schools Class (Steam locomotives)|<->|SR V Schools class
 Schools of economics|=|Schools of economic thought
 School year|<->|Academic term
 Schooneveld, Battle of, 1673|=|Battle of Schooneveld
@@ -18473,6 +18569,7 @@ Silver, Maud (Fictitious character)|=|Miss Silver
 Silver Bow Basin (Alaska)|=|Silver Bow Basin
 Silver mines and mining|<->|Silver mining
 Silver Surfer (Fictitious character)|=|Silver Surfer
+Silverpoint drawing|=|Silverpoint
 Silvio Conte National Fish and Wildlife Refuge|=|Silvio O. Conte National Fish and Wildlife Refuge
 Silvio O. Conte National Fish and Wildlife Refuge (Agency : U.S.)|->|Silvio O. Conte National Fish and Wildlife Refuge
 Simancas (Spain)|=|Simancas
@@ -19303,6 +19400,7 @@ Stormberg, Battle of, South Africa, 1899|=|Battle of Stormberg
 Stormberg Range (South Africa)|<->|Stormberg Mountains
 Storms|=|Storm
 Storytellers|=|Storyteller
+Stourbridge Lion (Steam locomotive)|=|Stourbridge Lion
 Straight-edge culture|=|Straight edge
 Straight-edge (Music)|->|Straight edge
 Strand, The (London, England)|=|Strand, London
@@ -19495,7 +19593,6 @@ Susquehanna River Valley|<->|Susquehanna Valley
 Sussex (England)|=|Sussex
 Sussex (England) -- History|=|History of Sussex
 Sustainable buildings|<->|Green building
-Sustainable energy|<->|Clean energy
 Sustainable fisheries|=|Sustainable fishery
 Susu (African people)|=|Susu people
 Sutlej River|=|Sutlej
@@ -19975,6 +20072,7 @@ Texas Hill Country (Tex.)|=|Texas Hill Country
 Texas Panhandle (Tex.)|=|Texas Panhandle
 Texas Rangers (Baseball team)|=|Texas Rangers (baseball)
 Texas, South|=|South Texas
+Texas, The (Steam locomotive)|=|The Texas (locomotive)
 Texas Type (Steam locomotives)|<->|2-10-4
 Texel, Battle of the, Netherlands, 1673|=|Battle of Texel
 Text editors (Computer programs)|=|Text editor
@@ -20041,6 +20139,7 @@ Thin layer chromatography|=|Thin-layer chromatography
 Third Coalition, War of the, 1805|<->|War of the Third Coalition
 Third grade (Education)|=|Third grade
 Third parties (United States politics)|=|Third party (United States)
+Third party litigation funding|<->|Legal financing
 Thirteen (The number)|=|13 (number)
 Thirteen Years' War, 1454-1466|=|Thirteen Years' War (1454–66)
 Thirteenth century|=|13th century
@@ -20290,6 +20389,7 @@ Torfou (Pays de la Loire, France)|=|Torfou, Maine-et-Loire
 Torfou, Battle of, Torfou, Pays de la Loire, France, 1793|=|Battle of Tiffauges
 Torgau, Battle of, Torgau, Germany, 1760|=|Battle of Torgau
 Tornado (Jet bomber)|=|North American B-45 Tornado
+Tornado (Steam locomotive)|=|LNER Peppercorn Class A1 60163 Tornado
 Tornadoes|=|Tornado
 Tornavento, Battle of, Tornavento, Italy, 1646|=|Battle of Tornavento
 Toronto Blue Jays (Baseball team)|=|Toronto Blue Jays
@@ -20490,6 +20590,7 @@ Triangle Shirtwaist Company|<->|Triangle Shirtwaist Factory fire
 Triangles (Interpersonal relations)|<->|Love triangle
 Tribes|=|Tribe
 Tribulation (Christian eschatology)|=|Great Tribulation
+Tribute bands (Musical groups)|<->|Tribute act
 Tricksters|=|Trickster
 Trident (Jet transport)|=|Hawker Siddeley Trident
 Trieste (Free Territory)|=|Free Territory of Trieste
@@ -20606,6 +20707,7 @@ Tumbuka (African people)|=|Tumbuka people
 Tumor markers|=|Tumor marker
 Tumors|=|Neoplasm
 Tuna fisheries|->|Tuna
+Tunas (Musical groups)|=|Tuna (music)
 Tunbridge Wells (England)|<->|Royal Tunbridge Wells
 Tunceli (Turkey)|=|Tunceli
 Tunceli &Idot;li (Turkey)|=|Tunceli Province
@@ -20897,6 +20999,7 @@ Unimak Island (Alaska)|=|Unimak Island
 Union Carbide Corporation|=|Union Carbide
 Union Carbide Ltd. (India)|=|Union Carbide India Limited
 Union catalogs|=|Union catalog
+Union Pacific 9000 Class (Steam locomotives)|<->|4-12-2
 Union Pacific Railroad Company|=|Union Pacific Railroad
 Union Pacific Railway Company|->|Union Pacific Railroad
 Union security|<->|Union security agreement
@@ -21778,8 +21881,8 @@ Warship Class (Diesel locomotives)|<->|British Rail Warship Class
 Warships|=|Warship
 Warships -- Camouflage|<->|Ship camouflage
 War songs|=|War song
-Warwickshire (England)|=|Warwickshire
 War wounds|->|Wounded in action
+Warwickshire (England)|=|Warwickshire
 Wasatch-Cache National Forest (Agency : U.S.)|->|Wasatch-Cache National Forest
 Wasatch Range (Utah and Idaho)|=|Wasatch Range
 Washburn, Mount (Wyo.)|=|Mount Washburn
@@ -21860,6 +21963,7 @@ Wayne National Forest (Agency : U.S.)|->|Wayne National Forest
 Wayne National Forest (Ohio)|=|Wayne National Forest
 Wayne's Campaign, 1794|->|Northwest Indian War
 Waynesboro, Battle of, Waynesboro, Va., 1865|=|Battle of Waynesboro, Virginia
+WD Austerity (Steam locomotives)|<->|WD Austerity 2-8-0
 WE 32000 (Microprocessor)|<->|Bellmac 32
 Wea Indians|=|Wea
 Weapons of mass destruction|=|Weapon of mass destruction
@@ -22092,6 +22196,7 @@ William (Name)|=|William (given name)
 William A. Switzer Provincial Park (Alta.)|=|William A. Switzer Provincial Park
 William B. Bankhead National Forest (Ala.)|=|William B. Bankhead National Forest
 William "Bill" Dannelly Reservoir (Ala.)|=|William "Bill" Dannelly Reservoir
+William Crooks (Steam locomotive)|=|William Crooks (locomotive)
 William H. Gray, III, 30th Street Station (Philadelphia, Pa.)|=|30th Street Station
 William Howard Taft National Historic Site (Cincinnati, Ohio)|=|William Howard Taft National Historic Site
 William Neal Reynolds Coliseum (Raleigh, N.C.)|=|Reynolds Coliseum

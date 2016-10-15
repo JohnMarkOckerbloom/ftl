@@ -30,20 +30,20 @@ ID WKPD
 NAME Wikipedia
 COUNTRY SUPPRESS
 SOURCE wikipedia.org
-DEFAULT http://en.wikipedia.org/
-FORWARDER http://tools.wmflabs.org/ftl/cgi-bin/ftl
+DEFAULT https://en.wikipedia.org/
+FORWARDER https://tools.wmflabs.org/ftl/cgi-bin/ftl
 
 ID DPLA
 NAME Digital Public Library of America
 LOCATION Millions of free online cultural resources from American institutions
 COUNTRY 00
-KEYURL http://dp.la/search?q=${ARG}
+KEYURL https://dp.la/search?q=${ARG}
 
 ID EUROPEANA
 NAME Europeana Portal
 COUNTRY 00
 LOCATION Millions of free online cultural resources from European institutions
-BASEURL http://www.europeana.eu/portal
+BASEURL https://www.europeana.eu/portal
 AUTURL ${BASEURL}/search.html?query=who:${ARG:S}
 KEYURL ${BASEURL}/search.html?query=${ARG:NK}
 
@@ -327,35 +327,58 @@ NAME Calgary Public Library
 LOCATION Calgary
 PROVINCE AB
 CATTYPE bibliocommons
-BASEURL http://calgary.bibliocommons.com
+BASEURL https://calgary.bibliocommons.com
 
 ID OCLC-CNCAR
 NAME Chinook Arch Regional Library System
 LOCATION South central and southwest Alberta libraries
 PROVINCE AB
 CATTYPE bibliocommons
-BASEURL http://chinookarch.bibliocommons.com
+BASEURL https://chinookarch.bibliocommons.com
 
 ID OCLC-CNEDM
 NAME Edmonton Public Library
 LOCATION Edmonton
 PROVINCE AB
 CATTYPE bibliocommons
-BASEURL http://epl.bibliocommons.com
+BASEURL https://epl.bibliocommons.com
+
+ID FIRSTNATIONS 
+NAME First Nations Information Connection
+LOCATION First Nations library consortium based in Edmonton
+PROVINCE AB
+CATTYPE sirsient
+LCODE en_US/fnic
+BASEURL http://lois.ent.sirsidynix.net
+
+ID OCLC-CNFSP
+NAME Fort Saskatchewan Public Library
+LOCATION Fort Saskatchewan
+PROVINCE AB
+CATTYPE bibliocommons
+BASEURL https://fspl.bibliocommons.com
 
 ID OCLC-CNLET
 NAME Lethbridge Public Library
 LOCATION Lethbridge
 PROVINCE AB
 CATTYPE bibliocommons
-BASEURL http://lethlib.bibliocommons.com
+BASEURL https://lethlib.bibliocommons.com
 
 ID CA-AMP
 NAME Medicine Hat Public Library
 LOCATION Medicine Hat
 PROVINCE AB
 CATTYPE bibliocommons
-BASEURL http://mhpl.bibliocommons.com
+BASEURL https://mhpl.bibliocommons.com
+
+ID OCLC-CNPAR
+NAME Parkland Regional Library
+LOCATION Public library consortium south of Edmonton
+PROVINCE AB
+CATTYPE sirsient
+LCODE en_US/prl
+BASEURL http://search.prl.ab.ca
 
 ID OCLC-1AV
 NAME Red Deer Public Library
@@ -569,7 +592,7 @@ ID OCLC-UNBCA
 NAME University of New Brunswick
 LOCATION Fredericton and Saint John
 PROVINCE NB
-BASEURL http://unb.worldcat.org/search
+BASEURL https://unb.worldcat.org/search
 CATTYPE worldcat
 
 ID OCLC-CNNLP
@@ -887,7 +910,7 @@ ID OCLC-LGG
 NAME McGill University Library
 LOCATION Montreal
 PROVINCE PQ
-BASEURL http://mcgill.worldcat.org/search
+BASEURL https://mcgill.worldcat.org/search
 CATTYPE worldcat
 
 ID OCLC-CNSIL
@@ -1274,7 +1297,7 @@ WCRID 87534
 NAME University of the Witwatersrand (Wits)
 LOCATION Johannesburg
 COUNTRY ZA
-BASEURL http://wits.worldcat.org/search
+BASEURL https://wits.worldcat.org/search
 CATTYPE worldcat
 
 ID OCLC-OM@
@@ -1774,7 +1797,7 @@ ID OCLC-UKTBL
 NAME University of Wales Trinity Saint David
 LOCATION Carmarthen, Wales, and other campuses
 COUNTRY UK
-BASEURL http://tsd-c.worldcat.org/search
+BASEURL https://tsd-c.worldcat.org/search
 CATTYPE worldcat
 
 ID OCLC-U3W
@@ -1827,7 +1850,7 @@ ID OCLC-AMU
 NAME Alabama State University
 LOCATION Montgomery
 STATE AL
-BASEURL http://alasu.worldcat.org/search
+BASEURL https://alasu.worldcat.org/search
 CATTYPE worldcat
 
 ID OCLC-AAA
@@ -1897,7 +1920,7 @@ ID OCLC-ABC
 NAME University of Alabama at Birmingham Libraries
 LOCATION Birmingham
 STATE AL
-BASEURL http://uab.worldcat.org/search
+BASEURL https://uab.worldcat.org/search
 CATTYPE worldcat
 
 ID OCLC-H-DOLLAR-A
@@ -2056,8 +2079,8 @@ ID OCLC-AZU
 NAME University of Arizona Libraries
 LOCATION Tucson
 STATE AZ
-BASEURL http://universityofarizona.worldcat.org.ezproxy1.library.arizona.edu/search
-CATTYPE worldcat
+CATTYPE summon
+BASEURL https://arizona.summon.serialssolutions.com
 
 ID OCLC-AJE
 NAME Bentonville Public Library
@@ -2137,7 +2160,7 @@ ID OCLC-CCT
 NAME California Lutheran University
 LOCATION Thousand Oaks
 STATE CA
-BASEURL http://callutheran.worldcat.org/search
+BASEURL https://callutheran.worldcat.org/search
 CATTYPE worldcat
 
 ID OCLC-CPS
@@ -2227,7 +2250,7 @@ ID OCLC-DAC
 NAME De Anza College
 LOCATION Cupertino
 STATE CA
-BASEURL http://deanza.worldcat.org/search
+BASEURL https://deanza.worldcat.org/search
 CATTYPE worldcat
 
 ID OCLC-JQR
@@ -2252,7 +2275,7 @@ WCRID 283
 NAME Holy Names University
 LOCATION Oakland
 STATE CA
-BASEURL http://hnulibrary.worldcat.org/search
+BASEURL https://hnulibrary.worldcat.org/search
 CATTYPE worldcat
 
 ID OCLC-EHU
@@ -2571,7 +2594,7 @@ ID OCLC-CLU
 NAME UCLA: University of California Los Angeles
 LOCATION Los Angeles
 STATE CA
-BASEURL http://ucla.worldcat.org/search
+BASEURL https://ucla.worldcat.org/search
 CATTYPE worldcat
 
 ID OCLC-CUS
@@ -2606,7 +2629,7 @@ ID OCLC-FSHHH
 NAME University of California Libraries
 LOCATION All 10 UC campuses
 STATE CA
-BASEURL http://melvyl.worldcat.org/search
+BASEURL https://melvyl.worldcat.org/search
 CATTYPE worldcat
 
 ID OCLC-CRU
