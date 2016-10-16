@@ -4,7 +4,7 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2015-07-15
+# Last updated 2016-10-16
 
 ID OLBP
 NAME The Online Books Page
@@ -385,7 +385,7 @@ NAME Red Deer Public Library
 LOCATION Red Deer
 PROVINCE AB
 CATTYPE bibliocommons
-BASEURL http://rdpl.bibliocommons.com
+BASEURL https://rdpl.bibliocommons.com
 
 ID OCLC-TRACS
 NAME TRAC: The Regional Automation Consortium
@@ -428,7 +428,7 @@ NAME Burnaby Public Library
 LOCATION Burnaby
 PROVINCE BC
 CATTYPE bibliocommons
-BASEURL http://burnaby.bibliocommons.com
+BASEURL https://burnaby.bibliocommons.com
 
 ID OCLC-CNCOQ
 NAME Coquitlam Public Library
@@ -493,7 +493,7 @@ NAME Surrey Libraries
 LOCATION Surrey
 PROVINCE BC
 CATTYPE bibliocommons
-BASEURL http://surrey.bibliocommons.com
+BASEURL https://surrey.bibliocommons.com
 
 ID OCLC-CN5CF
 NAME Thompson Rivers University
@@ -536,7 +536,7 @@ NAME Vancouver Public Library
 LOCATION Vancouver
 PROVINCE BC
 CATTYPE bibliocommons
-BASEURL http://vpl.bibliocommons.com
+BASEURL https://vpl.bibliocommons.com
 
 ID OCLC-WVAML
 NAME West Vancouver Memorial Library
@@ -585,8 +585,9 @@ ID OCLC-CNNEW
 NAME New Brunswick Public Library Service
 LOCATION Public libraries across New Brunswick
 PROVINCE NB
-CATTYPE bibliocommons
-BASEURL http://vision.bibliocommons.com
+CATTYPE sirsient
+BASEURL http://nbpl.ent.sirsidynix.net
+LCODE en_US/default
 
 ID OCLC-UNBCA
 NAME University of New Brunswick
@@ -678,7 +679,7 @@ NAME Hamilton Public Library
 LOCATION Hamilton
 PROVINCE ON
 CATTYPE bibliocommons
-BASEURL http://hpl.bibliocommons.com
+BASEURL https://hpl.bibliocommons.com
 
 ID CA-OHAN
 NAME Hanover Public Library
@@ -715,7 +716,7 @@ NAME Markham Public Library
 LOCATION Markham
 PROVINCE ON
 CATTYPE bibliocommons
-BASEURL http://markham.bibliocommons.com
+BASEURL https://markham.bibliocommons.com
 
 ID OCLC-MUH
 NAME McMaster University
@@ -744,7 +745,7 @@ NAME Ottawa Public Library
 LOCATION Ottawa
 PROVINCE ON
 CATTYPE bibliocommons
-BASEURL http://ottawa.bibliocommons.com
+BASEURL https://ottawa.bibliocommons.com
 
 ID OCLC-Q2U
 NAME Queen's University
@@ -773,7 +774,7 @@ NAME Stratford Public Library
 LOCATION Stratford
 PROVINCE ON
 CATTYPE bibliocommons
-BASEURL http://spl.bibliocommons.com
+BASEURL https://spl.bibliocommons.com
 
 ID OCLC-THUND
 NAME Thunder Bay Public Library
@@ -867,7 +868,7 @@ NAME Windsor Public Library
 LOCATION Windsor
 PROVINCE ON
 CATTYPE bibliocommons
-BASEURL http://windsor.bibliocommons.com
+BASEURL https://windsor.bibliocommons.com
 
 ID OCLC-YOU
 NAME York University Libraries
@@ -2518,7 +2519,7 @@ NAME Santa Clara County Library District
 LOCATION Parts of Santa Clara County
 STATE CA
 CATTYPE bibliocommons
-BASEURL http://sccl.bibliocommons.com
+BASEURL https://sccl.bibliocommons.com
 
 ID OCLC-SMX
 NAME Santa Monica College Library
@@ -2532,7 +2533,7 @@ NAME Santa Monica Public Library
 LOCATION Santa Monica
 STATE CA
 CATTYPE bibliocommons
-BASEURL http://smpl.bibliocommons.com
+BASEURL https://smpl.bibliocommons.com
 
 ID OCLC-JDTBL
 NAME SNAP: Solano, Napa and Partners Library Consortium
@@ -2820,7 +2821,7 @@ ID OCLC-GRN
 NAME Greenwich Library
 LOCATION Greenwich
 STATE CT
-BASEURL http://greenwichlibrary.bibliocommons.com
+BASEURL https://greenwichlibrary.bibliocommons.com
 CATTYPE bibliocommons
 
 ID OCLC-HPJ
@@ -2920,14 +2921,14 @@ ID OCLC-NO5
 NAME University of Delaware Library
 LOCATION Newark
 STATE DE
-BASEURL http://delcat.worldcat.org/search
+BASEURL https://delcat.worldcat.org/search
 CATTYPE worldcat
 
 ID OCLC-WMG
 NAME Wilmington University Library
 LOCATION New Castle
 STATE DE
-BASEURL http://wilmu.worldcat.org/search
+BASEURL https://wilmu.worldcat.org/search
 CATTYPE worldcat
 
 ID OCLC-EAU
@@ -3294,14 +3295,14 @@ ID OCLC-AUU
 NAME Atlanta University Center
 LOCATION Clark Atlanta, Interdenominational Theological Center, Morehouse, Spelman
 STATE GA
-BASEURL http://auctr.worldcat.org/search
+BASEURL https://auctr.worldcat.org/search
 CATTYPE worldcat
 
 ID OCLC-GBT
 NAME Brenau University
 LOCATION Gainesville
 STATE GA
-BASEURL http://brenau.worldcat.org/search
+BASEURL https://brenau.worldcat.org/search
 CATTYPE worldcat
 
 ID OCLC-GCV
@@ -3442,7 +3443,7 @@ ID OCLC-OIP
 NAME Boise State University, Albertsons Library
 LOCATION Boise
 STATE ID
-BASEURL http://boisestate.worldcat.org/search
+BASEURL https://boisestate.worldcat.org/search
 CATTYPE worldcat
 
 ID OCLC-ZVR
@@ -3502,7 +3503,7 @@ ID OCLC-NTD
 NAME University of Idaho Library
 LOCATION Moscow, and other campuses
 STATE ID
-BASEURL http://uidaho.worldcat.org/search
+BASEURL https://uidaho.worldcat.org/search
 CATTYPE worldcat
 
 ID OCLC-JBL
@@ -3538,7 +3539,7 @@ ID OCLC-CGP
 NAME Chicago Public Library
 LOCATION Chicago
 STATE IL
-BASEURL http://chipublib.bibliocommons.com
+BASEURL https://chipublib.bibliocommons.com
 CATTYPE bibliocommons
 
 ID OCLC-IAA
@@ -3567,7 +3568,7 @@ ID OCLC-IAC
 NAME DePaul University
 LOCATION Chicago
 STATE IL
-BASEURL http://depaul.worldcat.org/search
+BASEURL https://depaul.worldcat.org/search
 CATTYPE worldcat
 
 ID OCLC-IBE
@@ -3581,8 +3582,9 @@ ID OCLC-IHE
 NAME Evanston Public Library
 LOCATION Evanston
 STATE IL
-CATTYPE bibliocommons
-BASEURL http://evanston.bibliocommons.com
+CATTYPE sirsient
+LCODE en_US/evk
+BASEURL http://ccsp.ent.sirsi.net
 
 ID OCLC-LQC
 NAME Illinois Heartland Library System (SHARE)
@@ -3863,7 +3865,7 @@ ID OCLC-IIB
 NAME Butler University
 LOCATION Indianapolis
 STATE IN
-BASEURL http://butler.worldcat.org/search
+BASEURL https://butler.worldcat.org/search
 CATTYPE worldcat
 
 ID OCLC-IND
@@ -3922,7 +3924,7 @@ NAME Johnson County Library
 LOCATION Overland Park and vicinity
 STATE KS
 CATTYPE bibliocommons
-BASEURL http://jocolibrary.bibliocommons.com
+BASEURL https://jocolibrary.bibliocommons.com
 
 ID OCLC-KCK
 NAME Kansas City, Kansas Public Library
@@ -4029,7 +4031,7 @@ ID OCLC-KHN
 NAME Northern Kentucky University
 LOCATION Highland Heights
 STATE KY
-BASEURL http://northernkentuckyuniversity.on.worldcat.org/external-search?queryString
+BASEURL https://northernkentuckyuniversity.on.worldcat.org/external-search?queryString
 CATTYPE worldcat-config
 
 ID OCLC-KN4
@@ -4058,7 +4060,7 @@ ID OCLC-KLG
 NAME University of Louisville
 LOCATION Louisville
 STATE KY
-BASEURL http://uofl.worldcat.org/search
+BASEURL https://uofl.worldcat.org/search
 CATTYPE worldcat
 
 ID OCLC-9KN
@@ -4312,14 +4314,14 @@ ID OCLC-MUB
 NAME University of Maryland Baltimore County
 LOCATION Baltimore
 STATE MD
-BASEURL http://umbc.worldcat.org/search
+BASEURL https://umbc.worldcat.org/search
 CATTYPE worldcat
 
 ID OCLC-UMC
 NAME University of Maryland Libraries
 LOCATION College Park
 STATE MD
-BASEURL http://umaryland.worldcat.org/search
+BASEURL https://umaryland.worldcat.org/search
 CATTYPE worldcat
 
 ID OCLC-RT9
@@ -4345,7 +4347,7 @@ NAME Boston Public Library
 LOCATION Boston
 STATE MA
 CATTYPE bibliocommons
-BASEURL http://bpl.bibliocommons.com
+BASEURL https://bpl.bibliocommons.com
 
 ID OCLC-BOS
 NAME Boston University Libraries
@@ -4500,14 +4502,14 @@ ID OCLC-AUM
 NAME University of Massachusetts Amherst
 LOCATION Amherst
 STATE MA
-BASEURL http://umass.worldcat.org/search
+BASEURL https://umass.worldcat.org/search
 CATTYPE worldcat
 
 ID OCLC-ULN
 NAME University of Massachusetts Lowell
 LOCATION Lowell
 STATE MA
-BASEURL http://uml.worldcat.org/search
+BASEURL https://uml.worldcat.org/search
 CATTYPE worldcat
 
 ID OCLC-WEL
@@ -4651,7 +4653,7 @@ NAME Petoskey District Library
 LOCATION Petoskey
 STATE MI
 CATTYPE bibliocommons
-BASEURL http://petoskey.bibliocommons.com
+BASEURL https://petoskey.bibliocommons.com
 
 ID OCLC-ELM
 NAME University of Michigan Library
@@ -4681,7 +4683,7 @@ ID OCLC-MHA
 NAME Hamline University
 LOCATION St. Paul
 STATE MN
-BASEURL http://hamline.worldcat.org/search
+BASEURL https://hamline.worldcat.org/search
 CATTYPE worldcat
 
 # Hennepin now seems to have a custom search 
@@ -4783,7 +4785,7 @@ ID OCLC-TGC
 NAME Tougaloo College
 LOCATION Tougaloo
 STATE MS
-BASEURL http://tougaloo.worldcat.org/search
+BASEURL https://tougaloo.worldcat.org/search
 CATTYPE worldcat
 
 ID OCLC-MUM
@@ -4806,7 +4808,7 @@ NAME Daniel Boone Regional Library
 LOCATION Columbia and vicinity
 STATE MO
 CATTYPE bibliocommons
-BASEURL http://dbrl.bibliocommons.com
+BASEURL https://dbrl.bibliocommons.com
 
 # using the OCLC ID of the MPL consortium based in Ferguson
 ID OCLC-MR9
@@ -5010,7 +5012,7 @@ ID OCLC-NBO
 NAME Omaha Public Library
 LOCATION Omaha
 STATE NE
-BASEURL http://omaha.bibliocommons.com
+BASEURL https://omaha.bibliocommons.com
 CATTYPE bibliocommons
 
 ID OCLC-LDL
@@ -5080,7 +5082,7 @@ ID OCLC-2NH
 NAME University of New Hampshire
 LOCATION Durham and Manchester
 STATE NH
-BASEURL http://unhlibrary.worldcat.org/search
+BASEURL https://unhlibrary.worldcat.org/search
 CATTYPE worldcat
 
 ID OCLC-ACP
@@ -5176,7 +5178,7 @@ ID OCLC-PPR
 NAME Princeton Public Library
 LOCATION Princeton
 STATE NJ
-BASEURL http://princetonlibrary.bibliocommons.com
+BASEURL https://princetonlibrary.bibliocommons.com
 CATTYPE bibliocommons
 
 ID OCLC-PTS
@@ -5217,7 +5219,7 @@ ID OCLC-STH
 NAME Seton Hall University
 LOCATION South Orange
 STATE NJ
-BASEURL http://setonhall.worldcat.org/search
+BASEURL https://setonhall.worldcat.org/search
 CATTYPE worldcat
 
 ID OCLC-SOM
@@ -5289,7 +5291,7 @@ ID OCLC-IQU
 NAME University of New Mexico Libraries
 LOCATION Albuquerque
 STATE NM
-BASEURL http://unm.worldcat.org/search
+BASEURL https://unm.worldcat.org/search
 CATTYPE worldcat
 
 ID OCLC-BNG
@@ -5307,7 +5309,7 @@ NAME Brooklyn Public Library
 LOCATION Brooklyn
 STATE NY
 CATTYPE bibliocommons
-BASEURL http://brooklyn.bibliocommons.com
+BASEURL https://brooklyn.bibliocommons.com
 
 ID OCLC-9VX
 NAME Chautauqua-Cattaraugus Library System
@@ -5343,7 +5345,7 @@ ID OCLC-COO
 NAME Cornell University Library
 LOCATION Ithaca
 STATE NY
-BASEURL http://cornell.worldcat.org/search
+BASEURL https://cornell.worldcat.org/search
 CATTYPE worldcat
 
 ID OCLC-ZCY
@@ -5464,8 +5466,8 @@ ID OCLC-WDTNY
 NAME New York Public Library
 LOCATION New York
 STATE NY
-CATTYPE bibliocommons
-BASEURL http://nypl.bibliocommons.com
+BASEURL http://browse.nypl.org/iii/encore
+CATTYPE encore
 
 ID OCLC-1NY
 NAME New York State Library, Archives, and Museum
@@ -5627,7 +5629,7 @@ ID OCLC-BEN
 NAME Bennett College
 LOCATION Greensboro
 STATE NC
-BASEURL http://bennett.worldcat.org/search
+BASEURL https://bennett.worldcat.org/search
 CATTYPE worldcat
 
 ID OCLC-NPC
@@ -5635,13 +5637,13 @@ NAME Charlotte Mecklenburg Library
 LOCATION Charlotte and vicinity
 STATE NC
 CATTYPE bibliocommons
-BASEURL http://cmlibrary.bibliocommons.com
+BASEURL https://cmlibrary.bibliocommons.com
 
 ID OCLC-NNM
 NAME Davidson College
 LOCATION Davidson
 STATE NC
-BASEURL http://davidson.worldcat.org/search
+BASEURL https://davidson.worldcat.org/search
 CATTYPE worldcat
 
 ID OCLC-NDD
@@ -5662,7 +5664,7 @@ ID OCLC-NFS
 NAME Fayetteville State University
 LOCATION Fayetteville
 STATE NC
-BASEURL http://uncfsu.worldcat.org/search
+BASEURL https://uncfsu.worldcat.org/search
 CATTYPE worldcat
 
 ID OCLC-UZZ
@@ -5729,7 +5731,7 @@ ID OCLC-1NG
 NAME University of North Carolina (UNC) Greensboro
 LOCATION Greensboro
 STATE NC
-BASEURL http://uncg.worldcat.org/search
+BASEURL https://uncg.worldcat.org/search
 CATTYPE worldcat
 
 ID OCLC-8NX
@@ -5814,8 +5816,9 @@ ID OCLC-CLE
 NAME Cleveland Public Library
 LOCATION Cleveland
 STATE OH
-CATTYPE bibliocommons
-BASEURL http://cpl.bibliocommons.com
+CATTYPE sirsient
+LCODE en_US/cpl-main
+BASEURL https://search.clevnet.org
 
 ID OCLC-WOO
 NAME College of Wooster
@@ -5866,14 +5869,15 @@ ID OCLC-LXP
 NAME Lorain Public Library System
 LOCATION Lorain and vicinity
 STATE OH
-CATTYPE bibliocommons
-BASEURL http://lorain.bibliocommons.com
+CATTYPE sirsient
+LCODE en_US/lor-main
+BASEURL https://search.clevnet.org
 
 ID OCLC-OSU
 NAME Ohio State University
 LOCATION Columbus
 STATE OH
-BASEURL http://osu.worldcat.org/search
+BASEURL https://osu.worldcat.org/search
 CATTYPE worldcat
 
 ID OCLC-OUN
@@ -6041,7 +6045,7 @@ NAME Tulsa City-County Library
 LOCATION Tulsa
 STATE OK
 CATTYPE bibliocommons
-BASEURL http://tccl.bibliocommons.com
+BASEURL https://tccl.bibliocommons.com
 
 ID OCLC-OKUBL
 NAME University of Oklahoma
@@ -6142,7 +6146,7 @@ NAME Multnomah County Library
 LOCATION Portland
 STATE OR
 CATTYPE bibliocommons
-BASEURL http://multcolib.bibliocommons.com
+BASEURL https://multcolib.bibliocommons.com
 
 # Orbis Cascade appears to no longer have a unified catalog;
 # add the individual member libraries as time permits
@@ -6179,7 +6183,7 @@ ID OCLC-UMQ
 NAME Umpqua Community College
 LOCATION Roseburg
 STATE OR
-BASEURL http://umpqua.worldcat.org/search
+BASEURL https://umpqua.worldcat.org/search
 CATTYPE worldcat
 
 ID OCLC-ORU
@@ -6417,7 +6421,7 @@ ID OCLC-EVI
 NAME Muhlenberg College, Trexler Library
 LOCATION Allentown
 STATE PA
-BASEURL http://muhlenberg.worldcat.org/search
+BASEURL https://muhlenberg.worldcat.org/search
 CATTYPE worldcat
 
 ID OCLC-C8F
@@ -6790,7 +6794,7 @@ NAME Rhodes College
 LOCATION Memphis
 STATE TN
 CATTYPE worldcat
-BASEURL http://rhodescollege.worldcat.org/search
+BASEURL https://rhodescollege.worldcat.org/search
 
 ID OCLC-BLUEG
 NAME Tennessee State Library and Archives
@@ -6835,7 +6839,7 @@ ID OCLC-TUC
 NAME University of Tennessee Chattanooga
 LOCATION Chattanooga
 STATE TN
-BASEURL http://utc.worldcat.org/search
+BASEURL https://utc.worldcat.org/search
 CATTYPE worldcat
 
 ID OCLC-TJC
@@ -6869,7 +6873,7 @@ NAME Austin Public Library
 LOCATION Austin
 STATE TX
 CATTYPE bibliocommons
-BASEURL http://austin.bibliocommons.com
+BASEURL https://austin.bibliocommons.com
 
 ID OCLC-IYU
 NAME Baylor University
@@ -7198,8 +7202,8 @@ ID OCLC-UUP
 NAME The City Library
 LOCATION Salt Lake City
 STATE UT
-CATTYPE bibliocommons
-BASEURL http://slcpl.bibliocommons.com
+BASEURL http://catalog.slcpl.org
+CATTYPE polaris
 
 ID OCLC-UTD
 NAME Davis County Library
@@ -7298,7 +7302,7 @@ NAME Central Rappahannock Regional Library
 LOCATION Fredericksburg and vicinity; Westmoreland county
 STATE VA
 CATTYPE bibliocommons
-BASEURL http://librarypoint.bibliocommons.com
+BASEURL https://librarypoint.bibliocommons.com
 
 ID OCLC-PCX
 NAME Chesterfield County Public Library
@@ -7502,7 +7506,7 @@ NAME Bellingham Public Library
 LOCATION Bellingham
 STATE WA
 CATTYPE bibliocommons
-BASEURL http://bellingham.bibliocommons.com
+BASEURL https://bellingham.bibliocommons.com
 
 ID OCLC-BGTON
 NAME Burlington Public Library
@@ -7563,7 +7567,7 @@ ID OCLC-FSKGL
 NAME Fiske Genealogical Library
 LOCATION Seattle
 STATE WA
-BASEURL http://fiske.on.worldcat.org/external-search?queryString
+BASEURL https://fiske.on.worldcat.org/external-search?queryString
 CATTYPE worldcat-config
 
 ID OCLC-0YE
@@ -7587,7 +7591,7 @@ ID OCLC-HNW
 NAME Hurst Library, Northwest University
 LOCATION Kirkland
 STATE WA
-BASEURL http://nu.worldcat.org/search
+BASEURL https://nu.worldcat.org/search
 CATTYPE worldcat
 
 # arbitrarily chose ID of Renton (a KCLS library; no overall ID found)
@@ -7596,7 +7600,7 @@ NAME King County Library System
 LOCATION Libraries near Seattle
 STATE WA
 CATTYPE bibliocommons
-BASEURL http://kcls.bibliocommons.com
+BASEURL https://kcls.bibliocommons.com
 
 ID OCLC-YEQ
 NAME Kitsap Regional Library
@@ -7649,7 +7653,7 @@ ID OCLC-OPV
 NAME Pacific Lutheran University
 LOCATION Tacoma
 STATE WA
-BASEURL http://plu.worldcat.org/search
+BASEURL https://plu.worldcat.org/search
 CATTYPE worldcat
 
 ID OCLC-UOK
@@ -7657,7 +7661,7 @@ NAME Seattle Public Library
 LOCATION Seattle
 STATE WA
 CATTYPE bibliocommons
-BASEURL http://seattle.bibliocommons.com
+BASEURL https://seattle.bibliocommons.com
 
 ID OCLC-OEM
 NAME Sno-Isle Libraries
@@ -7701,7 +7705,7 @@ ID OCLC-WAU
 NAME University of Washington
 LOCATION Seattle
 STATE WA
-BASEURL http://uwashington.worldcat.org/search
+BASEURL https://uwashington.worldcat.org/search
 CATTYPE worldcat
 
 ID OCLC-WSUBL

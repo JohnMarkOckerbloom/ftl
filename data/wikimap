@@ -9,8 +9,8 @@
 #   or lexical analysis (such as many geographical locations)
 #   are not included in this file.
 # See docs file for documentation
-# Last updated 2016-10-08
-# Did LCSH 2015 update lists 1-2, 3 (A-O), 2016 update lists 1-8
+# Last updated 2016-10-16
+# Did LCSH 2015 update lists 1-3, 2016 update lists 1-8
 1066 Country Walk (England)|=|1066 Country Walk
 1361 K4 (Steam locomotive)|=|PRR 1361
 1366 Class (Steam locomotives)|=|GWR 1366 Class
@@ -32,12 +32,13 @@
 5400 Class (Steam locomotives)|=|GWR 5400 Class
 5700 Class (Steam locomotives)|=|GWR 5700 Class
 6400 Class (Steam locomotives)|=|GWR 6400 Class
-7400 Class (Steam locomotives)|->|GWR 6400 Class
 61572 (Steam locomotive)|->|GER Class S69
 6502 (Microprocessor)|=|MOS Technology 6502
 65816 (Microprocessor)|<->|WDC 65816/65802
 7 World Trade Center (New York, N.Y.)|=|7 World Trade Center
 73 Easting, Battle of, Iraq, 1991|=|Battle of 73 Easting
+7400 Class (Steam locomotives)|->|GWR 6400 Class
+7TP (Tank)|=|7TP
 9969 Braille (Asteroid)|=|9969 Braille
 A-10 (Jet attack plane)|=|Fairchild Republic A-10 Thunderbolt II
 A-12 (Jet attack plane)|=|McDonnell Douglas A-12 Avenger II
@@ -744,6 +745,7 @@ Amusement parks|=|Amusement park
 Amusement rides|<->|List of amusement rides
 Amusements|<->|Entertainment
 Amuzgo Indians|=|Amuzgo people
+AMX-30 (Tank)|=|AMX-30
 An Loc, Battle of, An L&ocirc;&#x0323;c, Vietnam, 1972|=|Battle of An Lộc
 Anaheim Ducks (Hockey Team)|=|Anaheim Ducks
 Analgesia|->|Analgesic
@@ -2919,6 +2921,7 @@ Brutalism (Architecture)|=|Brutalist architecture
 Brutus the Trojan (Legendary character)|=|Brutus of Troy
 Bryant-Denny Stadium (Tuscaloosa, Ala.)|=|Bryant–Denny Stadium
 Bryce Canyon National Park (Utah)|=|Bryce Canyon National Park
+BT-5 (Tank)|->|BT tank
 B&umacr; Sa&#x02bb;&imacr;d dynasty, 1749-|<->|Al Said
 Bubaque Island (Guinea-Bissau)|<->|Bubaque
 Bubi (African people)|=|Bubi people
@@ -3030,6 +3033,7 @@ Bunyan, Paul (Legendary character)|=|Paul Bunyan
 Bunyaviruses|=|Bunyaviridae
 Buraku people|<->|Burakumin
 Burden of proof|<-|Legal burden of proof
+Burford (Oxfordshire, England)|=|Burford
 Burford family|<->|Burford (surname)
 Burgas (Bulgaria)|=|Burgas
 Burgenland (Austria)|=|Burgenland
@@ -3297,6 +3301,7 @@ Cancer -- Treatment|<->|Treatment of cancer
 Cancer (Crustacea)|=|Cancer (genus)
 Cancer in children|=|Childhood cancer
 Canc&uacute;n (Mexico)|=|Cancún
+Candelaria River (Guatemala and Mexico)|<->|Candelaria River
 Candle Demonstration, Bratislava, Slovakia, 1988|=|Candle demonstration in Bratislava
 Candlemas|->|Presentation of Jesus at the Temple
 Candles|=|Candle
@@ -3496,6 +3501,7 @@ Catalonia (Spain)|=|Catalonia
 Catalonia (Spain) -- History|=|History of Catalonia
 Catalonia (Spain) -- History -- Civil War, 1462-1472|=|Catalonian Civil War
 Catalonia (Spain) -- History -- Reapers' War, 1640-1659|=|Catalan Revolt
+Catalonia (Spain) -- Politics and government|<->|Politics of Catalonia
 Catania (Italy)|=|Catania
 Catania (Italy : Province)|=|Province of Catania
 Catawba River (N.C. and S.C.)|=|Catawba River
@@ -3675,6 +3681,7 @@ Chad -- History -- Civil War, 1965-|<-|Chadian Civil War (1965–79)
 Chad -- History -- Civil War, 1965-|<-|Chadian Civil War (2005–10)
 Chad -- History -- Coup d'&eacute;tat, 1975|=|1975 Chadian coup d'état
 Chaeronea, Battle of, Greece, 338 B.C.|=|Battle of Chaeronea (338 BC)
+Chaffee (Tank)|=|M24 Chaffee
 Chaga (African people)|=|Chaga people
 Chagas' disease|=|Chagas disease
 Chagulak Island (Alaska)|=|Chagulak Island
@@ -3689,6 +3696,7 @@ Chalfant Valley Earthquake, Calif., 1986 (July 21)|=|1986 Chalfant Valley earthq
 Chalk Bluff, Battle of, 1863|=|Battle of Chalk Bluff
 Chalk-talks|=|Chalk talk
 Challah (Bread)|=|Challah
+Challenger (Tank)|<->|Challenger 1
 Challenger, Mount (Wash.)|=|Mount Challenger (Washington)
 Challenger, Professor (Fictitious character)|=|Professor Challenger
 Challenger Expedition (1872-1876)|=|Challenger expedition
@@ -3728,6 +3736,7 @@ Chapbooks|=|Chapbook
 Chapels|=|Chapel
 Chappaquiddick Island (Mass.)|=|Chappaquiddick Island
 Chapultepec, Battle of, Mexico City, Mexico, 1847|=|Battle of Chapultepec
+Char B1 (Tank)|=|Char B1
 Charca Indians|=|Charca people
 Charente River (France)|=|Charente (river)
 Charge coupled devices|=|Charge-coupled device
@@ -3785,6 +3794,7 @@ Chelan Mountains (Wash.)|=|Chelan Mountains
 Chelmno (Concentration camp)|=|Chełmno extermination camp
 Chelsea Creek, Battle of, Mass., 1775|=|Battle of Chelsea Creek
 Chemical bonds|=|Chemical bond
+Chemical carriers (Tankers)|=|Chemical tanker
 Chemical elements|=|Chemical element
 Chemicals|=|Chemical substance
 Chemical weapons|=|Chemical weapon
@@ -4049,6 +4059,7 @@ Chiropractors|->|Chiropractic
 Chisos Mountains (Tex.)|=|Chisos Mountains
 Chiwaukum Mountains (Wash.)|=|Chiwaukum Mountains
 Chiwawa River (Wash.)|=|Chiwawa River
+Chixoy River (Guatemala and Mexico)|=|Chixoy River
 Chlef (Algeria)|=|Chlef
 Chlordan|=|Chlordane
 Chlorofluorocarbons|=|Chlorofluorocarbon
@@ -4167,6 +4178,7 @@ Church schools|<->|Christian school
 Church schools|<-|Parochial school
 Church Slavic language|=|Church Slavonic language
 Church year|=|Liturgical year
+Churchill (Tank)|<->|Churchill tank
 Churchill, Mount (Alaska)|=|Mount Churchill
 Churchill Mountains (Antarctica)|=|Churchill Mountains
 Churubusco (Distrito Federal, Mexico)|=|Churubusco
@@ -5134,6 +5146,7 @@ Crazy quilts|<->|Crazy quilting
 Creationism (Literary movement)|=|Creacionismo
 Creative ability|<->|Creativity
 Creative thinking|->|Creativity
+Cr&egrace;ches (Nativity scenes)|<->|Nativity scene
 Cr&eacute;cy, Battle of, Cr&eacute;cy-en-Ponthieu, France, 1346|=|Battle of Crécy
 Crecy engine|=|Rolls-Royce Crecy
 Credibility theory (Insurance)|=|Credibility theory
@@ -5195,6 +5208,7 @@ Cromarty (Scotland)|=|Cromarty
 Cromford (England)|=|Cromford
 Cromford Canal (England)|=|Cromford Canal
 Cromford Station (Cromford, England)|=|Cromford railway station
+Cromwell (Tank)|=|Cromwell tank
 Crooked Billet, Battle of, Hatboro, Pa., 1778|=|Battle of Crooked Billet
 Crops|<->|Crop
 Cross-cousin marriage|<->|Cousin marriage
@@ -5491,6 +5505,7 @@ Deacons|=|Deacon
 Dead|->|Death
 Dead loads (Mechanics)|->|Structural load
 Deadheads (Music fans)|=|Deadhead
+Deadly sins|<->|Seven deadly sins
 Deaf|<->|List of deaf people
 Deafness|<->|Hearing loss
 Dean E. Smith Student Activities Center (Chapel Hill, N.C.)|=|Dean Smith Center
@@ -7599,6 +7614,7 @@ Fronts (Meteorology)|=|Weather front
 FRSAD (Conceptual model)|=|FRSAD
 Fruit of the Spirit|=|Fruit of the Holy Spirit
 FT (Diesel locomotive)|<->|EMD FT
+FT-17 (Tank)|=|Renault FT
 Fu Manchu, Doctor (Fictitious character)|=|Fu Manchu
 Fuel cells|=|Fuel cell
 Fuentes de O&ntilde;oro (Spain)|=|Fuentes de Oñoro
@@ -7918,6 +7934,7 @@ Germantown (Philadelphia, Pa.)|=|Germantown, Philadelphia
 Germantown, Battle of, Philadelphia, Pa., 1777|=|Battle of Germantown
 Germany -- Armed Forces -- History -- World War, 1939-1945|->|Wehrmacht
 Germany -- Foreign relations|=|Foreign relations of Germany
+Germany -- Historiography|=|Historiography of Germany
 Germany -- History -- 18th century|=|18th-century history of Germany
 Germany -- History -- 1933-1945|=|Nazi Germany
 Germany -- History -- 1945-1990|=|History of Germany (1945–90)
@@ -9148,6 +9165,7 @@ Homestead law|<->|Homestead principle
 Homestead Strike, Homestead, Pa., 1892|=|Homestead Strike
 Hominids|=|Hominidae
 Homology theory|<->|Homology (mathematics)
+Homosexuality -- Religious aspects|<->|Homosexuality and religion
 Homosexuality -- Religious aspects -- Catholic Church|<->|Homosexuality and Roman Catholicism
 Homosexuality -- Religious aspects -- Christianity|<->|Christianity and homosexuality
 Homosexuality -- Religious aspects -- Judaism|<->|Homosexuality and Judaism
@@ -10076,8 +10094,10 @@ Irrawaddy River (Burma)|=|Irrawaddy River
 Irreducibility (Philosophy)|=|Irreducibility
 Irritation (Pathology)|<->|Irritation
 Irving (Night fighter plane)|<->|Nakajima J1N
+IS-2 (Tank)|->|IS tank family
 IS-IS (Computer network protocol)|=|IS-IS
 IS-LM model (Macroeconomics)|=|IS–LM model
+IS (Tanks)|=|IS tank family
 Isabella grape|=|Isabella (grape)
 Isandlwana, Battle of, South Africa, 1879|=|Battle of Isandlwana
 Isanotski Strait (Alaska)|=|Isanotski Strait
@@ -10194,6 +10214,7 @@ Ivatan (Philippine people)|=|Ivatan people
 iWeb (Web site development tool)|=|IWeb
 Iwo Jima (Volcano Islands, Japan)|=|Iwo Jima
 Iwo Jima, Battle of, Japan, 1945|=|Battle of Iwo Jima
+Ixc&aacute;n River (Guatemala and Mexico)|=|Ixcán River
 Ixlu Site (Guatemala)|=|Ixlu
 Iyyar|=|Iyar
 Izembek National Wildlife Refuge (Alaska)|=|Izembek National Wildlife Refuge
@@ -11185,6 +11206,8 @@ Kuskokwim Bay (Alaska)|=|Kuskokwim Bay
 Kuskokwim Mountains (Alaska)|=|Kuskokwim Mountains
 Kuskokwim River (Alaska)|=|Kuskokwim River
 Kuta (Bali, Indonesia)|=|Kuta
+KV-1 (Tank)|->|Kliment Voroshilov tank
+KV-1S (Tank)|->|Kliment Voroshilov tank
 Kvichak Bay (Alaska)|=|Kvichak Bay
 Kvichak River (Alaska)|=|Kvichak River
 Kwajalein Atoll (Marshall Islands)|=|Kwajalein Atoll
@@ -11261,6 +11284,7 @@ Labrador (N.L.)|=|Labrador
 Labyrinth (Ear)|<->|Bony labyrinth
 Lac-M&eacute;gantic Derailment, Lac-M&eacute;gantic, Qu&eacute;bec, 2013|=|Lac-Mégantic rail disaster
 Lac Ste. Anne (Alta. : County)|=|Lac Ste. Anne County
+Lacant&uacute;n River (Guatemala and Mexico)|=|Lacantún River
 Lace and lace making|<->|Lace
 Lachine Canal (Montr&eacute;al, Qu&eacute;bec)|=|Lachine Canal
 Lacombe (Alta. : County)|=|Lacombe County
@@ -11282,6 +11306,7 @@ Lager beer|=|Lager
 Laghman&amacr;n (Afghanistan)|<->|Laghman Province
 Laghouat (Algeria : Province)|=|Laghouat Province
 Laika (Dog)|=|Laika
+Lainate (Italy)|=|Lainate
 Lake Champlain, Battle of, N.Y., 1609|<->|Iroquois War (1609)
 Lake Champlain, Battle of, N.Y., 1814|->|Battle of Plattsburgh
 Lake Champlain Bridge (N.Y. and Vt. : 1929-2009)|=|Champlain Bridge (United States)
@@ -11601,6 +11626,8 @@ Lenses|<->|Lens (optics)
 Lentz family|<->|Lentz
 Le&oacute;n (Guanajuato, Mexico)|=|León, Guanajuato
 Leopard (Tank)|<->|Leopard tank
+Leopard 2 (Tank)|=|Leopard 2
+Leopard attacks|=|Leopard attack
 Lepanto, Battle of, Greece, 1571|=|Battle of Lepanto
 Leppy Hills (Nev.)|=|Leppy Hills
 Leptons (Nuclear physics)|=|Lepton
@@ -12122,9 +12149,14 @@ M109 Paladin (Howitzer)|<->|M109 howitzer
 M113 (Armored personnel carrier)|=|M113 armored personnel carrier
 M18 Motorway (England)|=|M18 motorway (Great Britain)
 M18 (Tank destroyer)|=|M18 Hellcat
+M26 (Tank)|=|M26 Pershing
 M27 Motorway (England)|=|M27 motorway
 M3 Half-track (Armored personnel carrier)|=|M3 Half-track
 M3 light tank|<->|M3 Stuart
+M41 (Tank)|=|M41 Walker Bulldog
+M46 (Tank)|=|M46 Patton
+M47 (Tank)|=|M47 Patton
+M48 (Tank)|=|M48 Patton
 M5 light tank|->|M3 Stuart
 M5 Motorway (England)|=|M5 motorway
 M60 (Tank)|=|M60 Patton
@@ -12481,6 +12513,7 @@ Maritime law|->|Admiralty law
 Maritime Provinces|=|The Maritimes
 Maritsa River|=|Maritsa
 M&amacr;rjah (Afghanistan)|=|Marjah
+Mark A Whippet (Tank)|=|Medium Mark A Whippet
 Mark I (Calculator)|=|Harvard Mark I
 Mark IV (Tank)|=|Mark IV tank
 Mark Twain House (Hartford, Conn.)|<->|Mark Twain House
@@ -12684,6 +12717,7 @@ Mbole (African people)|=|Mbole people
 Mbosi (African people)|=|Mbochi people
 Mbugwe (African people)|=|Mbugwe people
 Mbunda (African people)|=|Mbunda people
+Mbundu (African people)|<->|Mbundu
 Mbuti (African people)|=|Mbuti people
 McCauley Mountain (N.Y.)|=|McCauley Mountain
 McClellan Butte (Wash.)|=|McClellan Butte
@@ -13570,6 +13604,7 @@ MPEG (Video coding standard)|<->|Moving Picture Experts Group
 MPEG-4 AAC (Audio coding standard)|<->|Advanced Audio Coding
 Mpongwe (African people)|=|Mpongwe people
 Mr. Prospector (Race horse)|=|Mr. Prospector
+MS-1 (Tank)|=|T-18 tank
 MSH (Hormone)|=|Melanocyte-stimulating hormone
 Mt. Baker-Snoqualmie National Forest (Agency : U.S.)|->|Mount Baker-Snoqualmie National Forest
 Mt. Hood National Forest (Agency : U.S.)|->|Mount Hood National Forest
@@ -15733,6 +15768,7 @@ Peru -- Politics and government|<-|Government of Peru
 Peru (Viceroyalty)|=|Viceroyalty of Peru
 Peru-Bolivian Confederation, War against the, 1837-1839|=|War of the Confederation
 Peru Earthquake, Peru, 2007|=|2007 Peru earthquake
+Pescia (Italy)|=|Pescia
 Pesticides|=|Pesticide
 Pests|=|Pest (organism)
 Pests -- Biological control|<->|Biological pest control
@@ -15907,6 +15943,7 @@ Pilot Knob, Battle of, Pilot Knob, Mo., 1864|=|Battle of Fort Davidson
 Pilot Mountain (Surry County, N.C.)|=|Pilot Mountain (North Carolina)
 Pilot Mountain State Park (N.C.)|=|Pilot Mountain State Park
 Pilot Peak (Elko County, Nev.)|=|Pilot Peak (Nevada)
+Pima cotton|->|Gossypium barbadense
 Pima Indians|=|Pima people
 Pimlico (London, England)|=|Pimlico
 Pinaleno Mountains (Ariz.)|=|Pinaleno Mountains
@@ -16441,6 +16478,7 @@ Pressurized water reactors|=|Pressurized water reactor
 Prester John (Legendary character)|=|Prester John
 Preston (Lancashire, England)|=|Preston, Lancashire
 Preston, Battle of, Preston, Lancashire, England, 1648|=|Battle of Preston (1648)
+Preston Bus Station (Preston, Lancashire, England)|=|Preston bus station
 Prestonpans, Battle of, Prestonpans, Scotland, 1745|=|Battle of Prestonpans
 Preteens|<->|Preadolescence
 Pretoria (South Africa)|=|Pretoria
@@ -16703,6 +16741,10 @@ Pyrethrum (Plant)|<->|Pyrethrum
 Python (Computer program language)|=|Python (programming language)
 PzKpfw 35(t) (Tank)|=|Panzer 35(t)
 PzKpfw 38(t) (Tank)|=|Panzer 38(t)
+PzKpfw I (Tank)|=|Panzer I
+PzKpfw II (Tank)|=|Panzer II
+PzKpfw III (Tank)|=|Panzer III
+PzKpfw IV (Tank)|=|Panzer IV
 Q (Fictitious character)|=|Q (Star Trek)
 Q Class (Destroyers)|<->|Q and R-class destroyer
 Q hypothesis (Synoptics criticism)|<->|Q source
@@ -16859,6 +16901,7 @@ Raft River Mountains (Box Elder County, Utah)|=|Raft River Mountains
 Rafting (Sports)|=|Rafting
 Ragga (Music)|=|Ragga
 Raggedy Ann (Fictitious character)|=|Raggedy Ann
+Raggi family|<->|Raggi
 Ragpickers|=|Ragpicker
 Ragtime music|=|Ragtime
 Raguel (Archangel)|=|Raguel (angel)
@@ -17191,6 +17234,8 @@ Rhodes (Greece)|=|Rhodes (city)
 Rhodes (Greece) -- History -- Siege, 1480|=|Siege of Rhodes (1480)
 Rhodes (Greece : Island)|=|Rhodes
 Rhodes (Greece : Island) -- History -- Siege, 1522|=|Siege of Rhodes (1522)
+Rhondda River (Wales)|=|River Rhondda
+Rhondda Valley (Wales)|<->|Rhondda
 Rh&ocirc;ne River (Switzerland and France)|=|Rhône
 Rhum, Isle of (Scotland)|=|Rùm
 Rhythm and blues music|=|Rhythm and blues
@@ -17208,6 +17253,7 @@ Richardson Highway (Alaska)|=|Richardson Highway
 Richland Creek Wilderness (Ark.)|=|Richland Creek Wilderness
 Richmond, Battle of, Richmond, Ky., 1862|=|Battle of Richmond
 Richmond National Battlefield Park (Va.)|=|Richmond National Battlefield Park
+Richmond Park (London, England)|=|Richmond Park
 Richmond (Va.) -- History|=|History of Richmond, Virginia
 Richmond (Va.) -- History -- Civil War, 1861-1865|=|Richmond in the American Civil War
 Richter scale|=|Richter magnitude scale
@@ -17580,6 +17626,7 @@ Sabine Pass, Battle of, Tex., 1863|=|Second Battle of Sabine Pass
 Sabra and Shatila Massacre, Lebanon, 1982|=|Sabra and Shatila massacre
 Sabrina the Teenage Witch (Fictitious character)|=|Sabrina Spellman
 Sacaba (Bolivia)|=|Sacaba
+Sacapulteco language|=|Sakapultek language
 Sacco-Vanzetti Trial, Dedham, Mass., 1921|<->|Sacco and Vanzetti
 Sackets Harbor, Battle of, Sackets Harbor, N.Y., 1813|=|Second Battle of Sacket's Harbor
 Sackett family (Fictitious characters)|=|Sackett
@@ -17673,6 +17720,7 @@ Saipan (Northern Mariana Islands)|=|Saipan
 Saipan, Battle of, Northern Mariana Islands, 1944|=|Battle of Saipan
 &Sacute;aivism|=|Shaivism
 Sakalava (Malagasy people)|=|Sakalava people
+Sakapulteko Indians|=|Sakapultek people
 Sakarya, Battle of, Turkey, 1921|=|Battle of Sakarya
 &Sacute;akuntal&amacr; (Hindu mythology)|=|Shakuntala
 Salad dressing|->|Salad
@@ -17883,6 +17931,8 @@ Santo Domingo (Dominican Republic) -- History -- Siege, 1808-1809|<->|Spanish re
 Santos (Art)|=|Santo (art)
 Santu Antine Site (Italy)|<->|Nuraghe Santu Antine
 Santuario de la Virgen de la Cabeza (And&uacute;jar, Spain) -- Siege, 1936-1937|=|Siege of Santuario de Nuestra Señora de la Cabeza
+Santuario Nacional Ampay (Peru)|=|Ampay National Sanctuary
+Santuario Nacional de Huayllay (Peru)|=|Huayllay National Sanctuary
 S&atilde;o Lu&iacute;s do Maranh&atilde;o (Brazil)|=|São Luís, Maranhão
 S&atilde;o Mamede, Battle of, Portugal, 1128|=|Battle of São Mamede
 S&atilde;o Paulo (Brazil)|=|São Paulo
@@ -17964,6 +18014,7 @@ Saxon emigration, 1838-1839|<->|Saxon Lutheran immigration of 1838–39
 Saxony (Germany)|=|Saxony
 Saxony (Germany) -- History|=|History of Saxony
 Saxony-Anhalt (Germany)|=|Saxony-Anhalt
+Saxwe Gbe language|=|Saxwe language
 Sayama-shi (Japan)|=|Sayama, Saitama
 Sayyid dynasty, 1414-1451|=|Sayyid dynasty
 Scafati (Italy)|=|Scafati
@@ -18000,6 +18051,7 @@ Schleswig-Holstein War, 1848-1850|<->|First Schleswig War
 Schleswig-Holstein War, 1864|=|Second Schleswig War
 Schmalkaldic League, 1530-1547|=|Schmalkaldic League
 Schmalkaldic War, 1546-1547|=|Schmalkaldic War
+Schnitzler family|<->|Schnitzler
 Schoharie Reservoir (N.Y.)|=|Schoharie Reservoir
 Scholarly publishing|=|Academic publishing
 Scholars|->|Scholarly method
@@ -18014,6 +18066,7 @@ Schools of economics|=|Schools of economic thought
 School year|<->|Academic term
 Schooneveld, Battle of, 1673|=|Battle of Schooneveld
 Schr&ouml;dinger Crater (Moon)|=|Schrödinger (crater)
+Sch&uuml;tzenpanzer HS 30 (Tank)|=|Schützenpanzer Lang HS.30
 Schutzhund (Dog sport)|=|Schutzhund
 Schuylkill River (Pa.)|=|Schuylkill River
 Schuylkill River Park (Philadelphia, Pa.)|<->|Schuylkill River Park
@@ -18078,6 +18131,7 @@ SdKfz 253 (Half-track)|=|SdKfz 253
 Sea birds|=|Seabird
 Sea hares (Mollusks)|=|Aplysiomorpha
 Sea horses|=|Seahorse
+Sea Island cotton|<->|Gossypium barbadense
 Sea Islands Creole dialect|=|Gullah language
 Sea King (Helicopter)|<->|Sikorsky SH-3 Sea King
 Sea Knight (Military transport helicopter)|=|Boeing Vertol CH-46 Sea Knight
@@ -18384,6 +18438,8 @@ Sheep-shearing|=|Sheep shearing
 Sheep Wars, 1873-1921|=|Sheep Wars
 Sheepherding|->|Shepherd
 Sheeprock Mountains (Utah)|=|Sheeprock Mountains
+Sheepshead Bay (New York, N.Y.)|<->|Sheepshead Bay, Brooklyn
+Sheepshead Bay Race Track (New York, N.Y.)|=|Sheepshead Bay Race Track
 Sheffield (England)|=|Sheffield
 Sheffield (England) -- History|=|History of Sheffield
 Shelby's Great Raid, 1863|=|Shelby's Raid (1863)
@@ -18402,6 +18458,7 @@ Sherbro (African people)|=|Sherbro people
 Sherbro Island (Sierra Leone)|=|Sherbro Island
 Sherbrooke (Qu&eacute;bec)|=|Sherbrooke
 Shergar (Race horse)|=|Shergar
+Sheridan (Tank)|=|M551 Sheridan
 Sheriffmuir, Battle of, Scotland, 1715|=|Battle of Sheriffmuir
 Sheriffs|=|Sheriff
 Sherman silver law, 1890|=|Sherman Silver Purchase Act
@@ -18466,6 +18523,7 @@ Shop stewards|=|Union representative
 Shopkins toys|=|Shopkins
 Shor (Turkic people)|=|Shors
 Shore, Jemima (Fictitious character)|=|Jemima Shore
+Short sales (Real estate)|=|Short sale (real estate)
 Short selling (Securities)|=|Short (finance)
 Short woollyheads (Plant)|=|Psilocarphus brevissimus
 Shortleaf pine|<->|Pinus echinata
@@ -18582,11 +18640,14 @@ Simple Object Access Protocol (Computer network protocol)|=|SOAP
 Simpson, Bart (Fictitious character)|=|Bart Simpson
 Simpson, Homer (Fictitious character)|=|Homer Simpson
 Simpsons (Fictitious characters)|=|Simpson family
+Sin -- Buddhism|=|Buddhist views on sin
 Sin -- Christianity|=|Christian views on sin
 Sin -- Islam|=|Islamic views on sin
 Sin -- Judaism|=|Jewish views on sin
+Sin, Mortal|=|Mortal sin
 Sin, Original|=|Original sin
 Sin, Unpardonable|=|Eternal sin
+Sin, Venial|=|Venial sin
 Sinai (Egypt)|=|Sinai Peninsula
 Sinai, Mount (Egypt)|=|Mount Sinai
 Sinaloa (Mexico : State)|=|Sinaloa
@@ -18629,6 +18690,8 @@ Sint Eustatius -- History -- Capture by the British, 1781|=|Capture of Sint Eust
 Sintra (Portugal)|=|Sintra
 Sinus Medii (Moon)|=|Sinus Medii
 Sinusoidal projection (Cartography)|=|Sinusoidal projection
+Sipakapense Indians|=|Sipakapense people
+Sipakapense language|<->|Sipakapa language
 Sipsey Wilderness (Ala.)|=|Sipsey Wilderness
 Sira (African people)|=|Shira people
 Sirens (Mythology)|=|Siren (mythology)
@@ -18945,6 +19008,7 @@ Somme, 1st Battle of the, France, 1916|<->|Battle of the Somme
 Somme, 2nd Battle of the, France, 1918|=|Second Battle of the Somme (1918)
 Somme River (France)|=|Somme (river)
 Somosierra, Battle of, Spain, 1808|=|Battle of Somosierra
+Somua S 35 (Tank)|=|SOMUA S35
 Sona (Artificial language)|=|Sona language (artificial)
 Sonars (Indic people)|=|Sunar
 SONET (Data transmission)|<->|Synchronous optical networking
@@ -19394,6 +19458,7 @@ Stop and frisk (Law enforcement)|<->|Terry stop
 Stop and frisk (Law enforcement) -- New York (State) -- New York|=|Stop-and-frisk in New York City
 Storage batteries|=|Rechargeable battery
 Storage tanks|=|Storage tank
+Storeb&aelig;ltsforbindelsen (Denmark)|=|Great Belt Fixed Link
 Storm King, Mount (Wash.)|=|Mount Storm King
 Storm sewers|=|Storm drain
 Stormberg, Battle of, South Africa, 1899|=|Battle of Stormberg
@@ -19625,6 +19690,8 @@ Swansea (Wales) -- History|=|History of Swansea
 Swaps (Finance)|=|Swap (finance)
 Swaps (Race horse)|=|Swaps (horse)
 Swastikas|=|Swastika
+Sw&amacr;t District (Pakistan)|<->|Swat District
+Sw&amacr;t River (Pakistan)|=|Swat River
 Swazi (African people)|=|Swazi people
 Swaziland -- Politics and government|<->|Politics of Swaziland
 Swearing|=|Profanity
@@ -19851,6 +19918,7 @@ Tank Mountains (Ariz.)|=|Tank Mountains
 Tankers|=|Tanker
 Tanks|<->|Tank (disambiguation)
 Tanks (Military science)|=|Tank
+Tanks (Military science) -- History|=|History of the tank
 Tannehill Historical State Park (Ala.)|<->|Tannehill Ironworks
 Tannenberg, Battle of, Poland, 1410|=|Battle of Grunwald
 Tannenberg, Battle of, St&eogon;bark, Poland, 1914|=|Battle of Tannenberg
@@ -20236,6 +20304,9 @@ Tide mills|=|Tide mill
 Tides|=|Tide
 Tierra Caliente (Mexico : Region)|=|Tierra Caliente (Mexico)
 Tiger (Attack helicopter)|=|Eurocopter Tiger
+Tiger (Tank)|<->|Tiger I
+Tiger II (Jet fighter plane)|->|Northrop F-5
+Tiger II (Tank)|=|Tiger II
 Tiger Moth (Training plane)|<->|De Havilland Tiger Moth
 Tiger Mountain (Wash.)|=|Tiger Mountain
 Tigger (Fictitious character)|=|Tigger
@@ -20488,6 +20559,8 @@ Transfer payments|=|Transfer payment
 Transference (Psychology)|=|Transference
 Transfinite numbers|=|Transfinite number
 Transgenderism|<->|Transgender
+Transgenderism -- Religious aspects|<->|Transgender people and religion
+Transgenderism -- Religious aspects -- Christianity|<->|Christianity and transgender
 Transgenic plants|<->|Genetically modified crops
 Transglobe Expedition (1979-1982)|=|Transglobe Expedition
 Transkei (South Africa)|=|Transkei
@@ -20663,6 +20736,7 @@ Trutnov (Czech Republic : Okres)|=|Trutnov District
 Trypho|<->|Tryphon (disambiguation)
 TS-8 Bies (Training plane)|=|PZL TS-8 Bies
 Tsaritsyn, Battle of, Volgograd, Russia, 1918-1919|<->|Battle of Tsaritsyn
+Tsikimba language|=|Kimba language
 Tsimihety (Malagasy people)|=|Tsimihety people
 Tsimshian Indians|=|Tsimshian
 Tsimshian language|->|Tsimshianic languages
@@ -20844,6 +20918,7 @@ Tympana (Architecture)|=|Tympanum (architecture)
 Tyonek Formation (Alaska)|=|Tyonek Formation
 Type 42 (Destroyers)|=|Type 42 destroyer
 Type 45 (Destroyers)|=|Type 45 destroyer
+Type 97 (Tank)|<->|Type 97 Chi-Ha
 Type specimens (Natural history)|<->|Type (biology)
 Typewriting|<->|Typing
 Typhoon Chata'an, 2002|=|Typhoon Chataan
@@ -21364,6 +21439,7 @@ Usonian houses|<->|Usonia
 &Uacute;st&iacute; nad Labem (Czech Republic)|=|Ústí nad Labem
 &Uacute;st&iacute; nad Labem Massacre, &Uacute;st&iacute; nad Labem, Czech Republic, 1945|=|Ústí massacre
 Usu Mountain (Japan)|=|Mount Usu
+Usumacinta River (Guatemala and Mexico)|=|Usumacinta River
 Usun (Central Asian people)|->|Zhuz
 Ut pictura poesis (Aesthetics)|<->|Ut pictura poesis
 UTA Flight 772 Bombing Incident, 1989|<->|UTA Flight 772
@@ -21547,6 +21623,7 @@ Vermont -- Politics and government|<-|Government of Vermont
 Verona (Italy)|=|Verona
 Verona (Italy) -- History -- Pasque veronesi, 1797|=|Veronese Easter
 Verona Trial, Verona, Italy, 1943-1944|=|Verona trial
+Versa automobile|<->|Nissan Versa
 Verse drama|<->|Verse drama and dramatic verse
 Vertebrae|=|Vertebra
 Vertebrates|=|Vertebrate
@@ -21555,6 +21632,7 @@ Vertigo (Mollusks)|=|Vertigo (gastropod)
 Vervins, Peace of, 1598|=|Peace of Vervins
 Very Long Baseline Array (Telescopes)|=|Very Long Baseline Array
 Vesara style (Architecture)|<->|Vesara
+Vescovato (Italy)|=|Vescovato, Lombardy
 Vest-Agder fylke (Norway)|=|Vest-Agder
 Vesta (Asteroid)|=|4 Vesta
 Vesta (Roman deity)|=|Vesta (mythology)
@@ -21853,6 +21931,7 @@ War (Philosophy)|<->|Philosophy of war
 War poetry|<->|War poet
 Warblington (Havant, England)|=|Warblington
 Warbonnet Creek, Battle of, Neb., 1876|=|Battle of Warbonnet Creek
+Warbstow (England)|=|Warbstow
 Ward Cove (Alaska : Bay)|=|Ward Cove
 Ware Mutiny, Ware, Hertfordshire, England, 1647|=|Corkbush Field mutiny
 Warka (Poland)|=|Warka
@@ -22250,6 +22329,8 @@ WinSock (Computer network protocol)|<->|Winsock
 Winter Garden Theatre (New York, N.Y. : 1634 Broadway)|=|Winter Garden Theatre
 Winter Garden Theatre (New York, N.Y. : 624 Broadway)|=|Winter Garden Theatre (1850)
 Winter Olympics|=|Winter Olympic Games
+Winterthur (Switzerland)|=|Winterthur
+Winti (Cult)|=|Winti
 Wintun languages|=|Wintuan languages
 Wire bonding (Electronic packaging)|=|Wire bonding
 Wiregrass Country (Ala.)|<->|Wiregrass Region
@@ -22647,6 +22728,7 @@ X Window System (Computer system)|=|X Window System
 X3D (Standard)|=|X3D
 X10 (Power line control protocol)|=|X10 (industry standard)
 Xalapa (Mexico)|=|Xalapa
+Xang&ocirc; (Afro-Brazilian deity)|=|Shango
 Xanten (Germany)|=|Xanten
 Xbox 360 (Video game console)|=|Xbox 360
 Xbox One (Video game console)|=|Xbox One
