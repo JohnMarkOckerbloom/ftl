@@ -4882,6 +4882,21 @@ BASEURL http://swan.searchmobius.org/
 CATTYPE iii-consortium-member
 LCODE 6
 
+ID OCLC-UMR
+NAME Missouri University of Science and Technology
+LOCATION Rolla
+STATE MO
+CATTYPE summon
+BASEURL http://mst.summon.serialssolutions.com
+
+ID OCLC-TLO
+NAME Ozarks Technical Community College
+LOCATION Springfield and other campuses
+STATE MO
+BASEURL http://swan.searchmobius.org/
+CATTYPE iii-consortium-member
+LCODE 4
+
 ID OCLC-MTF
 NAME Poplar Bluff Municipal Library
 LOCATION Poplar Bluff
@@ -4889,6 +4904,14 @@ STATE MO
 BASEURL http://poplarbluff.missourievergreen.org/eg/opac
 CATTYPE evergreen-dynamic
 LCODE 2
+
+ID OCLC-SEM
+NAME Southeast Missouri State University
+LOCATION Cape Girardeau
+STATE MO
+BASEURL http://galahad.searchmobius.org/
+CATTYPE iii-consortium-member
+LCODE 3
 
 ID OCLC-MOS
 NAME Springfield-Greene County Library District
