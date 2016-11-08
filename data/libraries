@@ -2225,6 +2225,13 @@ STATE CA
 BASEURL http://diego.ccsf.edu
 CATTYPE innopac
 
+ID OCLC-HDC
+NAME Claremont Colleges Library
+LOCATION Claremont
+STATE CA
+BASEURL https://ccl.on.worldcat.org/external-search?queryString
+CATTYPE worldcat-config
+
 ID OCLC-JQJ 
 NAME Contra Costa Library
 LOCATION Contra Costa County
@@ -3794,6 +3801,13 @@ BASEURL https://drakelibrary.follettdestiny.com
 LCODE 100
 CONTEXT saas05_1401642
 
+ID OCLC-IOG
+NAME Grinnell College
+LOCATION Grinnell
+STATE IA
+CATTYPE vufind
+BASEURL https://libweb.grinnell.edu/vufind
+
 ID OCLC-IWA
 NAME Iowa State University
 LOCATION Ames
@@ -3867,6 +3881,13 @@ LOCATION Indianapolis
 STATE IN
 BASEURL https://butler.worldcat.org/search
 CATTYPE worldcat
+
+ID OCLC-IDU
+NAME DePauw University
+LOCATION Greencastle
+STATE IN
+BASEURL https://940.on.worldcat.org/external-search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-IND
 NAME Hesburgh Libraries, University of Notre Dame
@@ -4711,6 +4732,16 @@ LOCATION St. Paul
 STATE MN
 BASEURL http://alpha.sppl.org
 CATTYPE innopac
+
+ID OCLC-MNO
+NAME St. Olaf College
+LOCATION Northfield
+STATE MN
+CATTYPE primodl-scope
+BASEURL http://stolaf-primo.hosted.exlibrisgroup.com
+VID 01BRC_SOC
+LCODE 01BRC_SOC
+SCOPE Everything
 
 ID OCLC-MNU
 NAME University of Minnesota Libraries
@@ -5887,6 +5918,13 @@ LOCATION Kent and other campuses
 STATE OH
 CATTYPE innopac
 BASEURL http://kentlink.kent.edu
+
+ID OCLC-KEN
+NAME Kenyon College
+LOCATION Gambier
+STATE OH
+CATTYPE summon
+BASEURL http://kenyon.summon.serialssolutions.com
 
 ID OCLC-LXP
 NAME Lorain Public Library System
@@ -7825,6 +7863,13 @@ STATE WI
 BASEURL http://vcat.wvls.org
 CATTYPE iii-consortium-member
 LCODE 51
+
+ID OCLC-GZQ
+NAME Marquette University Libraries
+LOCATION Milwaukee
+STATE WI
+BASEURL http://libus.csd.mu.edu
+CATTYPE webpacpro
 
 ID OCLC-GZD
 NAME Milwaukee County Federated Library System
