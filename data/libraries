@@ -4572,6 +4572,13 @@ BASEURL http://www.aadl.org/catalog
 CATTYPE sopac
 FILTERS NK
 
+ID OCLC-EHI
+NAME Canton Public Library
+LOCATION Canton
+STATE MI
+BASEURL http://catalog.cantonpl.org
+CATTYPE innopac
+
 ID OCLC-E9L
 NAME Capital Area District Libraries
 LOCATION Lansing and Ingham County
@@ -4676,12 +4683,28 @@ STATE MI
 CATTYPE bibliocommons
 BASEURL https://petoskey.bibliocommons.com
 
+ID OCLC-EHJ
+NAME Plymouth District Library
+LOCATION Plymouth
+STATE MI
+CATTYPE sirsient
+BASEURL http://plym.ent.sirsi.net
+LCODE en_US/default
+
 ID OCLC-ELM
 NAME University of Michigan Library
 LOCATION Ann Arbor
 STATE MI
 BASEURL http://mirlyn.lib.umich.edu
 CATTYPE vufindrc1
+
+ID OCLC-ZB8
+NAME Warren Public Library
+LOCATION Warren
+STATE MI
+CATTYPE sirsient
+BASEURL http://sbrb.ent.sirsi.net
+LCODE en_US/wcv
 
 ID OCLC-EXW
 NAME Western Michigan University
