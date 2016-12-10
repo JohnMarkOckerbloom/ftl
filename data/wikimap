@@ -9,8 +9,8 @@
 #   or lexical analysis (such as many geographical locations)
 #   are not included in this file.
 # See docs file for documentation
-# Last updated 2016-12-07
-# Did LCSH 2015 update lists 1-6, 7 (A-G only), 2016 update lists 1-10
+# Last updated 2016-12-09
+# Did LCSH 2015 update lists 1-6, 7 (A-J only), 2016 update lists 1-10
 1066 Country Walk (England)|=|1066 Country Walk
 119 (Locomotive)|=|Union Pacific No. 119
 1361 K4 (Steam locomotive)|=|PRR 1361
@@ -380,7 +380,6 @@ Agricultural experiment stations|=|Agricultural experiment station
 Agricultural subsidies|=|Agricultural subsidy
 Agricultural systems|->|Agriculture
 Agriculturists|->|Agricultural science
-Goldspotted oak borer|<->|Agrilus auroguttatus
 Agris (France)|=|Agris
 Agrobiodiversity|=|Agricultural biodiversity
 Agroterrorism|=|Agro-terrorism
@@ -1202,6 +1201,7 @@ Argonne (France)|<->|Forest of Argonne
 Argonne, Battle of the, France, 1918|<->|Meuse-Argonne Offensive
 Argos (Greek mythology)|=|Argus Panoptes
 Argus Range (Calif.)|=|Argus Range
+Arhuaco Indians|=|Arhuaco people
 Ariaal (African people)|=|Ariaal people
 Arica, Battle of, Arica, Chile, 1880|=|Battle of Arica
 Arid regions agriculture|<->|Dryland farming
@@ -4210,6 +4210,7 @@ Chi-square test|<->|Chi-squared test
 Chianti wine|=|Chianti
 Chiapas (Mexico)|=|Chiapas
 Chiapas (Mexico) -- History -- Peasant Uprising, 1994-|<->|Chiapas conflict
+Chibcha Indians|<->|Muisca people
 Chibok Local Government Area (Nigeria)|=|Chibok
 Chicago and North Western Railway Company|->|Chicago and North Western Transportation Company
 Chicago Bears (Football team)|=|Chicago Bears
@@ -4291,6 +4292,7 @@ Chimane Indians|=|Tsimané people
 Chimanimani (Zimbabwe)|=|Chimanimani
 Chimariko Indians|=|Chimariko people
 Chimborazo (Ecuador : Mountain)|=|Chimborazo
+Chimila Indians|=|Chimila people
 Chimney Rock (Kittitas County, Wash.)|=|Chimney Rock (Washington)
 Chimney Rock National Historic Site (Neb.)|=|Chimney Rock National Historic Site
 Chimney Rock National Monument (Colo.)|=|Chimney Rock National Monument
@@ -4369,6 +4371,7 @@ China -- Politics and government|<-|Government of China
 China -- Politics and government -- 1912-1928|<->|Beiyang government
 China -- Relations -- Taiwan|<->|Cross-Strait relations
 China -- Religion|=|Religion in China
+China Clipper (Airplane)|=|China Clipper
 China Inland Mission|->|OMF International
 China Relief Expedition (1900-1901)|<->|China Relief Expedition
 China Sea|<->|China Seas
@@ -7163,6 +7166,7 @@ Environmental impact analysis|=|Environmental impact assessment
 Environmental indicators|=|Environmental indicator
 Environmentalists|=|Environmentalist
 Environmental management|=|Environmental resource management
+Environmental policy -- United States|<->|Environmental policy of the United States
 Environmental responsibility|->|Environmental ethics
 Environmental sciences|=|Environmental science
 Enzheim, Battle of, Entzheim, France, 1674|=|Battle of Entzheim
@@ -7922,6 +7926,7 @@ Flying lemurs|=|Colugo
 Flying squirrels|=|Flying squirrel
 FMA I.A.58 (Attack plane)|=|FMA IA 58 Pucará
 Foam rollers (Exercise equipment)|<->|Foam rolling
+Focke-Wulf Fw 200 (Airplane)|=|Focke-Wulf Fw 200 Condor
 F&ouml;hn|=|Foehn wind
 F&ouml;hr (Germany)|=|Föhr
 Foinavon (Race horse)|=|Foinavon
@@ -8007,6 +8012,7 @@ Fornovo, Battle of, Fornovo di Taro, Italy, 1495|=|Battle of Fornovo
 Forrest Theatre (Philadelphia, Pa.)|=|Forrest Theatre
 Forrestal Class (Aircraft carriers)|=|Forrestal-class aircraft carrier
 Fort Beaus&eacute;jour, Siege of, N.B., 1755|<->|Battle of Fort Beauséjour
+Fort Bedford (Bedford, Pa.)|=|Fort Bedford
 Fort Boise Wildlife Management Area (Idaho)|=|Fort Boise Wildlife Management Area
 Fort Charlotte (Mobile, Ala.)|<->|Fort Conde
 Fort Chipewyan (Alta.)|=|Fort Chipewyan
@@ -8905,10 +8911,13 @@ Golden Rose (Papal award)|=|Golden Rose
 Golden State Warriors (Basketball team)|=|Golden State Warriors
 Goldfield Mountains (Ariz.)|=|Goldfield Mountains
 Goldsmiths|=|Goldsmith
+Goldspotted oak borer|<->|Agrilus auroguttatus
 Golevka (Asteroid)|=|6489 Golevka
 Golf clubs (Sporting goods)|=|Golf club
 Golfers|<->|Lists of golfers
 Goliad Massacre, Goliad, Tex., 1836|=|Goliad massacre
+Goliath (Airplane)|<->|Farman F.60 Goliath
+Goliath (Biblical giant)|=|Goliath
 Goliards|=|Goliard
 Golloborda (Albania)|=|Gollobordë
 Gollum (Fictitious character)|=|Gollum
@@ -9329,6 +9338,7 @@ Guatemala -- Politics and government|<->|Politics of Guatemala
 Guayaki language|=|Aché language
 Guayaquil (Ecuador)|=|Guayaquil
 Guayaquil Interview, Guayaquil, Ecuador, 1822|=|Guayaquil Conference
+Guaymi Indians|<->|Ngäbe
 Guayule|=|Parthenium argentatum
 Gubik Formation (Alaska)|=|Gubik Formation
 Guelfs and Ghibellines|=|Guelphs and Ghibellines
@@ -9510,6 +9520,7 @@ Hampton National Historic Site (Agency : U.S.)|->|Hampton National Historic Site
 Hampton National Historic Site (Md.)|=|Hampton National Historic Site
 Hampton Roads, Battle of, Va., 1862|=|Battle of Hampton Roads
 Hampton University (Va.)|=|Hampton University
+Hamsterley Forest (England)|=|Hamsterley Forest
 Hanau (Germany)|=|Hanau
 Hanau, Battle of, Hanau, Germany, 1813|=|Battle of Hanau
 Hanaud, Inspector (Fictitious character)|=|Inspector Hanaud
@@ -9518,6 +9529,8 @@ Hand-railing|<->|Handrail
 Hand-to-hand fighting|<->|Hand-to-hand combat
 Handfishes|=|Handfish
 Handley Page 115 (Supersonic plane)|=|Handley Page HP.115
+Hanford Site (Wash.)|<->|Hanford Site
+Hanford Works|->|Hanford Site
 Hanging Rock State Park (N.C.)|=|Hanging Rock State Park
 Hanko (Finland)|=|Hanko
 Hannay, Richard (Fictitious character)|=|Richard Hannay
@@ -9644,6 +9657,7 @@ Hazarajat (Afghanistan)|=|Hazarajat
 Hazard Analysis and Critical Control Point (Food safety system)|=|Hazard analysis and critical control points
 Hazardous substances|=|Dangerous goods
 Hazardous wastes|=|Hazardous waste
+Hazardous wastes -- United States|=|Hazardous waste in the United States
 Head-Smashed-In Buffalo Jump National Historic Site (Alta.)|<->|Head-Smashed-In Buffalo Jump
 Heads of state|=|Head of state
 Headwaters Forest Reserve (Calif.)|=|Headwaters Forest Reserve
@@ -9697,8 +9711,14 @@ Heilbronn (Germany)|=|Heilbronn
 Heilbronn, Union of, 1633|<->|Heilbronn League
 Heiligerlee, Battle of, Netherlands, 1568|=|Battle of Heiligerlee (1568)
 Heimlich maneuver|=|Abdominal thrusts
+Heinkel 100 (Fighter plane)|=|Heinkel He 100
+Heinkel 111 (Bomber)|=|Heinkel He 111
+Heinkel 112 (Fighter plane)|=|Heinkel He 112
+Heinkel 162 (Jet fighter plane)|=|Heinkel He 162
+Heinkel 177 (Bomber)|=|Heinkel He 177
 Heinkel 219 (Night fighter plane)|=|Heinkel He 219
 Heinkel 60 (Reconnaissance aircraft)|=|Heinkel He 60
+Heinkel He 70 (Airplane)|=|Heinkel He 70
 Heirloom varieties (Plants)|=|Heirloom plant
 Heisenberg uncertainty principle|=|Uncertainty principle
 Hejaz (Saudi Arabia)|=|Hejaz
@@ -9997,6 +10017,7 @@ Holy Year|<->|Jubilee (Christianity)
 Holyoke, Mount (Mass.)|=|Mount Holyoke
 Holyoke Range (Mass.)|=|Holyoke Range
 Holyoke Range State Park (Mass.)|<->|Mount Holyoke Range State Park
+Home Building Association Bank (Newark, Ohio : Building)|=|Home Building Association Bank
 Home care services|<->|Home care
 Home ownership|<->|Owner-occupancy
 Home rule -- Ireland|<->|Irish Home Rule movement
@@ -10177,6 +10198,7 @@ HTLV-II (Virus)|=|Human T-lymphotropic virus 2
 HTML (Document markup language)|=|HTML
 HTML (Document markup language)|<-|HTML5
 HTTP (Computer network protocol)|=|Hypertext Transfer Protocol
+Hua, Mulan (Legendary character)|=|Hua Mulan
 Huaca Prieta Site (Peru)|<->|Huaca Prieta
 Huachuca Mountains (Ariz.)|=|Huachuca Mountains
 Hualalai Volcano (Hawaii)|=|Hualālai
@@ -10215,6 +10237,7 @@ Human anatomy|->|Anatomy
 Human-animal relationships|<->|Anthrozoology
 Human beings|=|Human
 Human biology|->|Human
+Human body -- Composition|=|Composition of the human body
 Human chromosome 12|=|Chromosome 12 (human)
 Human chromosome 15|=|Chromosome 15 (human)
 Human chromosome 2|=|Chromosome 2 (human)
@@ -10230,6 +10253,7 @@ Humanitarian law|=|International humanitarian law
 Humber light reconnaissance car (Armored car)|=|Humber Light Reconnaissance Car
 Humbug Mountain (Or.)|=|Humbug Mountain
 Humification|->|Humus
+H&uacute;na Bay (Iceland)|=|Húnaflói
 Hunan Sheng (China)|=|Hunan
 Hundred (The number)|=|100 (number)
 Hundred Years' War, 1339-1453|<->|Hundred Years' War
@@ -10430,16 +10454,21 @@ Ifugao (Philippine people)|->|Igorot people
 Iganie, Battle of, Iganie, Poland, 1831|=|Battle of Iganie
 Igala (African people)|=|Igala people
 Igbo (African people)|=|Igbo people
+Igede (African people)|=|Igede
 Ightenhill (Burnley, England)|=|Ightenhill
 Igman Mountain (Bosnia and Herzegovina)|<->|Igman
 Igorot (Philippine people)|=|Igorot people
 Ii, Naosuke, 1815-1860 -- Assassination|<->|Sakuradamon Incident (1860)
+Ijebu (African people)|<->|Ijebu Kingdom
+Ijesa (African people)|=|Ijesha
 Ijo (African people)|<->|Ijaw people
 Ijo language|<->|Ijaw languages
 Ik (African people)|=|Ik people
+Ika (African people)|=|Ika people
 Ikeya-Seki comet|=|Comet Ikeya–Seki
 Ikwere (African people)|=|Ikwerre people
 Ikwere language|=|Ikwerre language
+Ila (African people)|=|Ila people
 &Icirc;les du Vent (French Polynesia)|=|Windward Islands (Society Islands)
 Iliamna Lake (Alaska)|=|Iliamna Lake
 Iliamna Volcano (Alaska)|=|Mount Iliamna
@@ -10472,6 +10501,7 @@ Imaginary companions|<->|Imaginary friend
 Imaginary histories|<->|Counterfactual history
 Imams (Mosque officers)|<->|Imam
 Imams (Shiites)|<->|Imamah (Shia doctrine)
+Imbangala (African people)|<->|Imbangala
 Imia Islands (Greece)|<->|Imia/Kardak
 Imjin River (Korea)|=|Imjin River
 Imjin River, Battle of the, Korea, 1951|=|Battle of the Imjin River
@@ -10676,6 +10706,8 @@ Infrared cirrus (Astronomy)|<->|Infrared cirrus
 Infrared radiation|<->|Infrared
 Infrastructure (Economics)|<->|Infrastructure
 Infundibulum (Brain)|<->|Pituitary stalk
+Ingassana (African people)|=|Ingessana people
+Ingassana language|=|Ingessana language
 Ingavi, Battle of, Bolivia, 1841|=|Battle of Ingavi
 Ingilois (South Caucasian people)|=|Ingiloy people
 Inheritance and succession|<->|Inheritance
@@ -11124,6 +11156,7 @@ Izembek National Wildlife Refuge (Alaska)|=|Izembek National Wildlife Refuge
 &Idot;zmit Earthquake, Turkey, 1999|=|1999 İzmit earthquake
 J Class (Destroyers)|->|J-, K- and N-class destroyer
 J document (Biblical criticism)|=|Jahwist
+J.N. "Ding" Darling National Wildlife Refuge (Fla.)|=|J. N. "Ding" Darling National Wildlife Refuge
 Jabber (Computer network protocol)|<->|XMPP
 Jabo (African people)|=|Jabo people
 Jaca (Spain)|=|Jaca
@@ -11511,6 +11544,7 @@ Jungian psychology|=|Analytical psychology
 Jungle (Music)|<->|Oldschool jungle
 Jungles|=|Jungle
 Junin, Battle of, Peru, 1824|=|Battle of Junín
+Juniper Dunes Wilderness (Wash.)|=|Juniper Dunes Wilderness
 Juniper Hall (England)|=|Juniper Hall
 Junkers 290 (Transport plane)|<->|Junkers Ju 290
 Junkers A 50 (Airplane)|=|Junkers A50
@@ -11640,6 +11674,7 @@ Kangaroo grass|=|Themeda triandra
 Kango (African people)|=|Kango people
 Kanizsa, Battle of, Nagykanizsa, Hungary, 1601|<->|Siege of Nagykanizsa
 Kankanay (Philippine people)|=|Kankanaey people
+Kankuamo Indians|=|Kankuamo people
 Kannada language|=|Kannada
 K&amacr;npur (India)|=|Kanpur
 K&amacr;npur (India) -- History -- Siege, 1857|=|Siege of Cawnpore
@@ -14019,7 +14054,15 @@ Mesolithic period|=|Mesolithic
 Mesolongion (Greece)|=|Missolonghi
 Mesolongion (Greece) -- History -- Siege, 1825-1826|=|Third Siege of Missolonghi
 Messengers|=|Messenger
+Messerschmitt 108 (Airplane)|<->|Messerschmitt Bf 108
+Messerschmitt 163 (Fighter plane)|=|Messerschmitt Me 163 Komet
+Messerschmitt 209 V1 (Airplane)|<->|Messerschmitt Me 209
+Messerschmitt 210 (Fighter plane)|=|Messerschmitt Me 210
+Messerschmitt 262 (Jet fighter plane)|=|Messerschmitt Me 262
+Messerschmitt 264 (Bomber)|=|Messerschmitt Me 264
 Messerschmitt 321 (Glider)|<->|Messerschmitt Me 321
+Messerschmitt 323 (Transport plane)|=|Messerschmitt Me 323
+Messerschmitt 410 (Military aircraft)|=|Messerschmitt Me 410
 Messianic secret (Bible)|=|Messianic Secret
 Messines, Battle of, Belgium, 1917|=|Battle of Messines (1917)
 Mestas, Mount (Colo.)|=|Mount Mestas
@@ -14190,6 +14233,7 @@ Migrant labor|<->|Migrant worker
 Mijas (Spain)|=|Mijas
 Mijikenda (African people)|=|Mijikenda peoples
 Mijikenda languages|=|Mijikenda language
+Mijnsheerenland (Netherlands)|=|Mijnsheerenland
 Mikado Type (Steam locomotives)|<->|2-8-2
 Mikatagahara, Battle of, Japan, 1572|<->|Battle of Mikatagahara
 Mikea (Malagasy people)|=|Mikea people
@@ -14887,6 +14931,7 @@ Mutation (Biology)|<->|Mutation
 Mutts (Dogs)|<->|Mongrel
 Mutual security program, 1951-|<->|Mutual Security Act
 Muzaffarabad (Azad Kashmir, Pakistan)|=|Muzaffarabad
+Muzo Indians|=|Muzo people
 Muzzles (Firearms)|=|Muzzle (firearms)
 Mwera (African people)|=|Mwera people
 My Lai Massacre, Vietnam, 1968|=|My Lai Massacre
@@ -15181,6 +15226,7 @@ Navarino, Battle of, Pylos, Greece, 1827|=|Battle of Navarino
 Navies|=|Navy
 Navigation (Aeronautics)|=|Air navigation
 Navigation acts, 1649-1696|<->|Navigation Acts
+Navion (Airplane)|<->|Ryan Navion
 Nawr&umacr;z (Festival)|<->|Nowruz
 Naxos Island (Greece)|=|Naxos
 Nayak dynasty of Madurai, 1529-1739|=|Madurai Nayak dynasty
@@ -16046,6 +16092,7 @@ Oil wells|=|Oil well
 Ojibwa Indians|=|Ojibwe
 Ojibwa language|=|Ojibwe language
 Ojibwa language -- Grammar|=|Ojibwe grammar
+&Omacr;ka (Airplane)|<->|Yokosuka MXY7 Ohka
 Okanogan National Forest (Agency : U.S.)|->|Okanogan National Forest
 Okanogan National Forest (Wash.)|=|Okanogan National Forest
 Okeechobee, Battle of, Fla., 1837|=|Battle of Lake Okeechobee
@@ -19213,6 +19260,7 @@ Rutherford's Farm, Battle of, Va., 1864|=|Battle of Rutherford's Farm
 Rwanda -- History -- Civil War, 1990-1993|<->|Rwandan Civil War
 Rwanda -- History -- Civil War, 1994 -- Atrocities|<->|Rwandan genocide
 Rwanda -- Politics and government|<->|Politics of Rwanda
+Ryan Brougham (Airplane)|=|Ryan Brougham
 Rye House Plot, 1683|=|Rye House Plot
 Rzhev, Battle of, Rzhev, Russia, 1942-1943|<->|Battles of Rzhev
 S-75 Dvina (Missile)|=|S-75 Dvina
@@ -21387,6 +21435,7 @@ Super Bowl (43rd : 2009 : Tampa, Fla.)|=|Super Bowl XLIII
 Super Bowl (48th : 2014 : East Rutherford, N.J.)|=|Super Bowl XLVIII
 Super Bowl (49th : 2015 : Glendale, Ariz.)|=|Super Bowl XLIX
 Super Chief (Express train)|=|Super Chief
+Super Solution (Airplane)|<->|Laird Super Solution
 Super Typhoon Pongsona, 2002|=|Typhoon Pongsona
 Supercomputers|=|Supercomputer
 Supergirl (Fictitious character)|=|Supergirl
@@ -23162,6 +23211,9 @@ United States. Federal Communications Commission|=|Federal Communications Commis
 United States. Federal Election Commission|=|Federal Election Commission
 United States -- Foreign relations|<->|Foreign policy of the United States
 United States -- Foreign relations|<-|Foreign relations of the United States
+United States -- Foreign relations -- 1981-1989|<->|Foreign policy of the Ronald Reagan administration
+United States -- Foreign relations -- 1993-2001|<->|Foreign policy of the Bill Clinton administration
+United States -- Foreign relations -- 2001-2009|<->|Foreign policy of the George W. Bush administration
 United States -- Foreign relations -- Haiti|<->|Haiti–United States relations
 United States. Forest Service|=|United States Forest Service
 United States. Fugitive slave law (1793)|=|Fugitive Slave Act of 1793
@@ -23779,6 +23831,7 @@ Voskhod (Manned satellite)|<->|Voskhod (spacecraft)
 Vostok, Lake (Antarctica)|=|Lake Vostok
 Voting advice applications (Application software)|=|Voting advice application
 Vouill&eacute;, Battle of, Vouill&eacute;-les-Marais, France, 507|=|Battle of Vouillé
+Voyager (Airplane)|<->|Rutan Voyager
 Voyager Project|=|Voyager program
 Voyages around the world|<->|Circumnavigation
 Voyages, Imaginary|=|Imaginary voyage
@@ -24684,6 +24737,7 @@ Wrangell Narrows (Alaska)|=|Wrangell Narrows
 Wrangell-Saint Elias National Park and Preserve (Agency : U.S.)|->|Wrangell–St. Elias National Park and Preserve
 Wrangell-Saint Elias National Park and Preserve (Alaska)|=|Wrangell–St. Elias National Park and Preserve
 Wright Brothers National Memorial (N.C.)|=|Wright Brothers National Memorial
+Wright Flyer (Airplane)|=|Wright Flyer
 Writers Guild of America Strike, Calif., 2007-2008|=|2007–08 Writers Guild of America strike
 Writing centers|=|Writing center
 Writing-on-Stone Provincial Park (Alta.)|=|Writing-on-Stone Provincial Park
