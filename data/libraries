@@ -965,6 +965,14 @@ VID hub_ub
 LCODE HUB
 SCOPE HUB_ALL
 
+# We'll use the Odense Central Library's ID for this consortial OPAC
+ID DK-746100
+NAME Odense Bibliotekerne
+LOCATION Odense; English search terms may give limited or imprecise results
+COUNTRY DK
+CATTYPE tingdk
+BASEURL https://www.odensebib.dk
+
 # This is a SIRSI catalog, but forcing keyword search due to limited results
 ID OCLC-BNM
 NAME Biblioteca Nacional de Espa&ntilde;a
@@ -5037,6 +5045,14 @@ STATE MT
 BASEURL http://catalogue.buttepubliclibrary.info
 CATTYPE koha
 
+ID OCLC-MTSCT
+NAME Montana Shared Catalog
+LOCATION 150+ libraries across Montana
+STATE MT
+CATTYPE sirsient
+LCODE en_US/default
+BASEURL http://mtsc.sdp.sirsi.net
+
 ID OCLC-MZF
 NAME Montana State University Library
 LOCATION Bozeman
@@ -6100,6 +6116,14 @@ STATE OK
 CATTYPE sirsient
 LCODE MAIN
 BASEURL http://pion.sdp.sirsi.net
+
+ID QUAPAW
+NAME Quapaw Tribal Library
+LOCATION Quapaw
+STATE OK
+CATTYPE apollo
+BASEURL http://quapaw.biblionix.com/
+FILTERS S
 
 ID OCLC-OKI
 NAME Southeastern Public Library System of Oklahoma

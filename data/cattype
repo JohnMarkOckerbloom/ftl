@@ -460,6 +460,12 @@ TITURL ${BASEURL}/search?q=TitleCombined:(${ARG})
 ATIURL ${BASEURL}/search?q=AuthorCombined:(${AUTHOR})+AND+TitleCombined:(${TITLE})
 KEYURL ${BASEURL}/search?q=${ARG}
 
+# A Danish library catalog effort
+# Because most Danish libraries don't appear to catalog in English,
+#  we'll use a keyword search to get better results
+CATTYPE tingdk
+KEYURL ${BASEURL}/search/ting/${ARG:NK}
+
 # for TLC libraries where this doesn't work, try ls2pac or ls2pac-config
 CATTYPE tlc
 BRANCH ,1,
