@@ -6998,6 +6998,21 @@ STATE TX
 CATTYPE summon
 BASEURL http://baylor.summon.serialssolutions.com
 
+ID OCLC-TXLAP
+NAME Belton Lena Armstrong Public Library
+LOCATION Belton
+STATE TX
+CATTYPE apollo
+BASEURL http://belton.biblionix.com/
+FILTERS S
+
+ID OCLC-CCA
+NAME Corpus Christi Public Libraries
+LOCATION Corpus Christi
+STATE TX
+BASEURL http://elibrary.cclibraries.com
+CATTYPE koha
+
 ID OCLC-IGA
 NAME Dallas Public Library
 LOCATION Dallas
@@ -7131,6 +7146,14 @@ PROFILE mcml
 AINDEX .AN
 TINDEX ALTITLN
 KINDEX .GN
+
+ID OCLC-NM-DOLLAR
+NAME Nicholson Memorial Library System
+LOCATION Garland
+STATE TX
+CATTYPE sirsient
+LCODE en_US/default
+BASEURL http://nm.ent.sirsi.net
 
 ID OCLC-TXPAL
 NAME Palacios Library
