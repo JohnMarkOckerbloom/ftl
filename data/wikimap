@@ -9,8 +9,8 @@
 #   or lexical analysis (such as many geographical locations)
 #   are not included in this file.
 # See docs file for documentation
-# Last updated 2017-01-04
-# Did LCSH 2015 update lists 1-7, 8 (A-H only), 2016 update lists 1-11
+# Last updated 2017-01-10
+# Did LCSH 2015 update lists 1-8, 2016 update lists 1-11
 1066 Country Walk (England)|=|1066 Country Walk
 119 (Locomotive)|=|Union Pacific No. 119
 1361 K4 (Steam locomotive)|=|PRR 1361
@@ -88,6 +88,7 @@ Abe language|=|Abé language
 Abecedariuses|=|Abecedarius
 Abelian categories|=|Abelian category
 Abelian varieties|=|Abelian variety
+Abell family|<->|Abell (surname)
 Abenaki Indians|=|Abenaki
 Abeokuta (Nigeria)|=|Abeokuta
 Aberdeen (Scotland)|=|Aberdeen
@@ -222,6 +223,7 @@ Acura TSX automobile|=|Acura TSX
 Acura ZDX automobile|=|Acura ZDX
 Acute phase proteins|=|Acute-phase protein
 Acute phase reaction|->|Acute-phase protein
+AD Flying Boat (Seaplane)|=|AD Flying Boat
 Ad hominem arguments|<->|Ad hominem
 Ada (Computer program language)|=|Ada (programming language)
 Ada 95 (Computer program language)|->|Ada (programming language)
@@ -1862,6 +1864,7 @@ Bakhtiari (Iranian people)|=|Bakhtiari
 Bako National Park (Sarawak, Malaysia)|=|Bako National Park
 Baku (Azerbaijan)|=|Baku
 Baku Archipelago (Azerbaijan)|=|Baku Archipelago
+Bakumpai dialect|=|Bakumpai language
 B&amacr;lab&amacr;n|=|Balaban (instrument)
 Balaklava (Ukraine)|=|Balaklava
 Balaklava, Battle of, Balaklava, Ukraine, 1854|=|Battle of Balaclava
@@ -2888,6 +2891,8 @@ Bodie Island Lighthouse (N.C.)|=|Bodie Island Lighthouse
 Bod&oslash; (Norway)|<->|Bodø
 Bod&oslash; (Norway : Kommmune)|->|Bodø
 Body temperature -- Regulation|<->|Thermoregulation
+Boeing 314 (Seaplane)|=|Boeing 314 Clipper
+Boeing 377 (Transport plane)|=|Boeing 377 Stratocruiser
 Boeing 707 (Jet transports)|=|Boeing 707
 Boeing 717 (Jet transport)|=|Boeing 717
 Boeing 720 (Jet transport)|=|Boeing 720
@@ -3556,6 +3561,7 @@ Calcium -- Metabolism|=|Calcium metabolism
 Calculators|=|Calculator
 Calculi|=|Calculus (medicine)
 Calculus, Integral|->|Integral
+Calcutta (Seaplane)|<->|Short S.8 Calcutta
 Calderdale (England)|=|Calderdale
 Caledon River (South Africa)|=|Caledon River
 Calendars|->|Calendar
@@ -3754,6 +3760,7 @@ Capital losses|=|Capital loss
 Capitalist realism (Art)|<->|Capitalist realism
 Capitals (Architecture)|=|Capital (architecture)
 Capitals (Cities)|=|Capital city
+Capitol Cinema (Cardiff, Wales)|=|Capitol Theatre, Cardiff
 Capitol Limited (Express train)|<->|Capitol Limited (Amtrak train)
 Capitol Limited (Express train)|<-|Capitol Limited (B&O train)
 Capitol Reef National Park (Utah)|=|Capitol Reef National Park
@@ -3771,6 +3778,7 @@ Capuchins|=|Capuchin
 Car sharing|=|Carsharing
 Carabobo, Battle of, Venezuela, 1821|=|Battle of Carabobo
 Caracas (Venezuela)|=|Caracas
+Carambolo Site (Spain)|<->|Treasure of El Carambolo
 Carapintada Uprising, Argentina, 1990|<->|Carapintadas
 Carat (Unit of weight)|=|Carat (mass)
 Caravelle (Jet transports)|<->|Sud Aviation Caravelle
@@ -3789,6 +3797,8 @@ Cardiac pacemakers|<->|Artificial cardiac pacemaker
 Cardiff (Wales)|=|Cardiff
 Cardiff (Wales) -- History|=|History of Cardiff
 Cardiff (Wales) -- Politics and government|<->|Politics in Cardiff
+Cardiff Arms Park (Cardiff, Wales)|=|Cardiff Arms Park
+Cardiff Castle (Cardiff, Wales)|=|Cardiff Castle
 Cardigan (Wales)|=|Cardigan, Ceredigion
 Cardigan Castle (Cardigan, Wales)|=|Cardigan Castle
 Cardinal River (Alta.)|=|Cardinal River
@@ -3927,6 +3937,7 @@ Casummit Lake (Ont. : Lake)|=|Casummit Lake (Ontario)
 Cat breeds|<->|List of cat breeds
 Cat litter boxes|=|Litter box
 Cataclysmic variable stars|=|Cataclysmic variable star
+Catalina (Seaplane)|=|Consolidated PBY Catalina
 Catalonia (Spain)|=|Catalonia
 Catalonia (Spain) -- History|=|History of Catalonia
 Catalonia (Spain) -- History -- Civil War, 1462-1472|=|Catalonian Civil War
@@ -4251,6 +4262,7 @@ Cheapside (London, England)|=|Cheapside
 Cheapside Street Fire, Glasgow, Scotland, 1960|=|Cheapside Street whisky bond fire
 Cheat Mountain (W. Va.)|=|Cheat Mountain
 Cheat Mountain, Battle of, W. Va., 1861|=|Battle of Cheat Mountain
+Cheat River (W. Va. and Pa.)|=|Cheat River
 Cheatgrass brome|=|Bromus tectorum
 Chechnia (Russia)|=|Chechnya
 Chechnia (Russia) -- History|<->|History of Chechnya
@@ -5615,6 +5627,7 @@ Cornish pasties|<->|Pasty
 Cornish Riviera Express (Express train)|=|Cornish Riviera Express
 Cornjum (Netherlands)|=|Cornjum
 Cornwall (England : County)|=|Cornwall
+Coronado (Seaplane)|=|Consolidated PB2Y Coronado
 Coronado National Forest (Agency : U.S.)|->|Coronado National Forest
 Coronado National Forest (Ariz. and N.M.)|=|Coronado National Forest
 Coronado National Memorial (Agency : U.S.)|->|Coronado National Memorial
@@ -6658,6 +6671,8 @@ Dormice|=|Dormouse
 Dormitories|=|Dormitory
 Dornach, Battle of, Dornach, Switzerland, 1499|=|Battle of Dornach
 Dorney Park and Wildwater Kingdom (Allentown, Pa.)|=|Dorney Park & Wildwater Kingdom
+Dornier Do X (Seaplane)|=|Dornier Do X
+Dornier Wal (Seaplane)|=|Dornier Do J
 Dorobo (African people)|=|Dorobo peoples
 Dorper sheep|=|Dorper
 Dorr Rebellion, 1842|<->|Dorr Rebellion
@@ -7185,6 +7200,7 @@ Electronic funds transfers|=|Electronic funds transfer
 Electronic games|=|Electronic game
 Electronic information resources -- Management|<->|Electronic resource management
 Electronic intelligence|->|Signals intelligence
+Electronic newspapers|<->|Online newspaper
 Electronic program guides (Television)|<->|Electronic program guide
 Electronic records|->|Records management
 Electronic surveillance|->|Surveillance
@@ -7271,6 +7287,7 @@ Emmons, Mount (Colo.)|=|Mount Emmons (Colorado)
 Emo (Music)|=|Emo
 Emotions|=|Emotion
 Emperors|=|Emperor
+Empire (Seaplane)|<->|Short Empire
 Empire State Express (Express train)|=|Empire State Express
 Empire Theatre (New York, N.Y.)|=|Empire Theatre (41st Street)
 Employee motivation|=|Work motivation
@@ -7857,6 +7874,7 @@ Faunus (Roman deity)|=|Faunus
 Favorites, Royal|<->|Favourite
 F&amacr;w, Battle of, F&amacr;w, Iraq, 1988|<->|Second Battle of al-Faw
 Faxa Bay (Iceland)|=|Faxa Bay
+FBA Type H (Seaplane)|=|FBA Type H
 Fear of blood|=|Blood phobia
 Fear of contamination|<->|Mysophobia
 Fear of death|<->|Death anxiety (psychology)
@@ -7888,6 +7906,7 @@ Fehrbellin, Battle of, Fehrbellin, Germany, 1675|=|Battle of Fehrbellin
 Feira de Santana (Brazil)|=|Feira de Santana
 Feldkirch (Austria)|=|Feldkirch, Vorarlberg
 Felix the Cat (Fictitious character)|=|Felix the Cat
+Felixstowe F.2 (Seaplane)|=|Felixstowe F.2
 Fell, Gideon (Fictitious character)|=|Gideon Fell
 Female circumcision|<->|Female genital mutilation
 Female impersonators|<->|Drag queen
@@ -8532,6 +8551,8 @@ Fribourg (Switzerland : Canton)|=|Canton of Fribourg
 Friday the 13th films|<->|Friday the 13th (franchise)
 Friday the thirteenth|=|Friday the 13th
 Friedland, Battle of, Pravdinsk, Kaliningradskai&#xfe20;a&#xfe21; oblast&#x02b9;, Russia, 1807|=|Battle of Friedland
+Friedrichshafen FF.33 (Seaplane)|=|Friedrichshafen FF.33
+Friedrichshafen G.III (Bomber)|=|Friedrichshafen G.III
 Friend family|<->|Friend (surname)
 Friend at midnight (Parable)|=|Parable of the Friend at Night
 Friendly fire (Military science)|=|Friendly fire
@@ -9744,6 +9765,7 @@ Halabjah (Iraq) -- History -- Bombardment, 1988|<->|Halabja chemical attack
 Halbe, Battle of, Germany, 1945|=|Battle of Halbe
 Halda River (Bangladesh)|=|Halda River
 Hale-Bopp comet|=|Comet Hale–Bopp
+Hale family|<->|Hale (surname)
 Haleakala (Hawaii)|=|Haleakalā
 Haleakala National Park (Hawaii)|=|Haleakalā National Park
 Half-dime|=|Half dime
@@ -9807,6 +9829,11 @@ Hanoi (Vietnam)|=|Hanoi
 Hanoi (Vietnam) -- History -- Bombardment, 1972|->|Operation Linebacker II
 Hanover, Battle of, Hanover, York County, Pa., 1863|=|Battle of Hanover
 Hanover Court House, Battle of, Hanover, Va., 1862|=|Battle of Hanover Court House
+Hansa Brandenburg C.I (Reconnaissance aircraft)|=|Hansa-Brandenburg C.I
+Hansa Brandenburg D.I (Fighter plane)|=|Hansa-Brandenburg D.I
+Hansa Brandenburg W.12 (Military aircraft)|=|Hansa-Brandenburg W.12
+Hansa Brandenburg W.13 (Seaplane)|=|Hansa-Brandenburg W.13
+Hansa Brandenburg W.29 (Military aircraft)|=|Hansa-Brandenburg W.29
 Hantaviruses|=|Hantavirus
 Hanun&oacute;o (Philippine people)|->|Mangyan peoples
 Happenings (Art)|<->|Happening
@@ -10729,10 +10756,12 @@ Ichthyosauria|<->|Ichthyosaur
 Ichthyosaurus|->|Ichthyosaur
 Icicle Works (Musical group)|=|The Icicle Works
 Icing (Meteorology)|<->|Atmospheric icing
+Icon (Computer program language)|=|Icon (programming language)
 Icons (Computer graphics)|=|Icon (computing)
 Icosahedra|=|Icosahedron
 Icy Strait (Alaska)|=|Icy Strait
 Ida (Asteroid)|=|243 Ida
+Ida, Mount (Turkey)|=|Mount Ida (Turkey)
 Idaho fescue|=|Festuca idahoensis
 Ideals (Algebra)|=|Ideal (ring theory)
 Identification cards|<->|Identity document
@@ -10780,6 +10809,7 @@ Ili&#xfe20;u&#xfe21;shin Il-18 (Turboprop transport)|=|Ilyushin Il-18
 Ili&#xfe20;u&#xfe21;shin Il-2 (Attack plane)|=|Ilyushin Il-2
 Ili&#xfe20;u&#xfe21;shin Il-28 Beagle (Bomber)|=|Ilyushin Il-28
 Ili&#xfe20;u&#xfe21;shin Il-4 (Bomber)|=|Ilyushin Il-4
+Illawarra Shorthorn cattle|=|Illawarra cattle
 Illegal aliens|->|Alien (law)
 Illegitimacy|<->|Legitimacy (family law)
 Illegitimate children|->|Legitimacy (family law)
@@ -10800,6 +10830,7 @@ Ilova&#x012d;s'k (Ukraine)|=|Ilovaisk
 Ilovaisk, Battle of, Ilova&#x012d;s'k, Ukraine, 2014|=|Battle of Ilovaisk
 Imaginary companions|<->|Imaginary friend
 Imaginary histories|<->|Counterfactual history
+Imaginary space vehicles|<->|List of fictional spacecraft
 Imams (Mosque officers)|<->|Imam
 Imams (Shiites)|<->|Imamah (Shia doctrine)
 Imbangala (African people)|<->|Imbangala
@@ -11007,6 +11038,8 @@ Information storage and retrieval systems|->|Information retrieval
 Information technology -- Management|=|Information technology management
 Informers|=|Informant
 Informers (Jewish law)|<->|Mesirah
+INFORMIX-4GL (Computer program language)|=|IBM Informix-4GL
+INFORMIX Dynamic server|=|IBM Informix Dynamic Server
 Infrared cirrus (Astronomy)|<->|Infrared cirrus
 Infrared radiation|<->|Infrared
 Infrastructure (Economics)|<->|Infrastructure
@@ -11163,6 +11196,7 @@ Internet pharmacies|<->|Online pharmacy
 Internet telephony|<->|Voice over IP
 Internet videos|=|Internet video
 Interpersonal relations|=|Interpersonal relationship
+Interpress (Computer program language)|=|Interpress
 Interpretation of cultural and natural resources|<->|Heritage interpretation
 Interpreters (Computer programs)|=|Interpreter (computing)
 Interrupts (Computer systems)|=|Interrupt
@@ -11325,6 +11359,7 @@ Iron deficiency anemia|=|Iron-deficiency anemia
 Iron founding|->|Casting (metalworking)
 Iron Man (Fictitious character)|=|Iron Man
 Iron ores|=|Iron ore
+IronRuby (Computer program language)|=|IronRuby
 Iroquois Indians|=|Iroquois
 Irrational numbers|=|Irrational number
 Irrawaddy River (Burma)|=|Irrawaddy River
@@ -11341,6 +11376,7 @@ Isanotski Strait (Alaska)|=|Isanotski Strait
 Isanzu (African people)|=|Isanzu people
 iSCSI (Computer network protocol)|=|ISCSI
 Isel Mountain (Austria)|=|Bergisel
+ISETL (Computer program language)|->|SETL
 Ishibashiyama, Battle of, Japan, 1180|=|Battle of Ishibashiyama
 Ishiyama, Battle of, Japan, 1570-1580|=|Ishiyama Hongan-ji War
 Ishtar (Assyro-Babylonian deity)|=|Ishtar
@@ -11817,6 +11853,7 @@ Jordan Lake (Elmore County, Ala.)|=|Jordan Lake (Alabama)
 Jordan Lake Educational State Forest (N.C.)|=|Jordan Lake Educational State Forest
 Jord&atilde;o River (Acre, Brazil)|=|Jordão River (Acre)
 Joseph (Son of Jacob)|=|Joseph (Genesis)
+Joseph F. Weis, Jr. United States Courthouse (Pittsburgh, Pa.)|<->|United States Post Office and Courthouse (Pittsburgh, Pennsylvania)
 Joseph M. Farley Nuclear Plant (Ala.)|=|Joseph M. Farley Nuclear Generating Station
 Joshua Tree National Park (Agency : U.S.)|->|Joshua Tree National Park
 Joshua Tree National Park (Calif.)|=|Joshua Tree National Park
@@ -12048,6 +12085,7 @@ Karpathos (Greece : Municipality)|->|Karpathos
 Kars (Turkey)|=|Kars
 Kars (Turkey) -- History -- Siege, 1855|=|Siege of Kars
 Kars Castle (Kars, Turkey)|=|Castle of Kars
+Karsilamas (Dance)|=|Karsilamas
 Kartid dynasty, 1245-1389|<->|Kurt dynasty
 Karting|<->|Kart racing
 Kasaan Peninsula (Alaska)|=|Kasaan Peninsula
@@ -12171,6 +12209,7 @@ Kharijites|=|Khawarij
 Kharkov, Battle of, Kharkiv, Ukraine, 1942|=|Second Battle of Kharkov
 Khartoum (Sudan)|=|Khartoum
 Khartoum (Sudan) -- History -- Siege, 1884-1885|=|Siege of Khartoum
+Kharwar (Indic people)|=|Kharwar
 Khaybar, Battle of, Khaybar, Saudi Arabia, 628|=|Battle of Khaybar
 Khe Sanh, Battle of, Vietnam, 1968|=|Battle of Khe Sanh
 Khiamnungan (Indic people)|=|Khiamniungan people
@@ -12335,6 +12374,7 @@ Kodiak Archipelago (Alaska)|=|Kodiak Archipelago
 Kodiak Archipelago (Alaska)|<-|Tugidak Island
 Kodiak Island (Alaska)|=|Kodiak Island
 Kodiak National Wildlife Refuge (Alaska)|=|Kodiak National Wildlife Refuge
+Kodu (Computer program language)|<->|Kodu Game Lab
 Kodungall&umacr;r (India)|=|Kodungallur
 Kofa Mountains (Ariz.)|=|Kofa Mountains
 Kofa National Wildlife Refuge (Ariz.)|=|Kofa National Wildlife Refuge
@@ -12379,6 +12419,7 @@ Kommunistische Partei Deutschlands|=|Communist Party of Germany
 K&#x014f;mundo Incident, Korea, 1885-1887|=|Port Hamilton incident
 Kon-Tiki ekspedisjonen (1947)|=|Kon-Tiki expedition
 Kon Tum (Vietnam)|=|Kon Tum
+Kondapalli Fort (India)|=|Kondapalli Fort
 Kondoz (Afghanistan : Province)|=|Kunduz Province
 K&ouml;nig Class (Battleships)|=|König-class battleship
 K&ouml;niggr&auml;tz, Battle of, Sadov&aacute;, Czech Republic, 1866|=|Battle of Königgrätz
@@ -12680,6 +12721,8 @@ L&amacr;h&umacr;n (Egypt)|<->|El Lahun
 Laika (Dog)|=|Laika
 Lainate (Italy)|=|Lainate
 Lak (Kurdish people)|<->|Laks (Iran)
+Lak language (Russia)|=|Lak language
+Laka language (Central Sudanic)|=|Laka language
 Lake Champlain, Battle of, N.Y., 1609|<->|Iroquois War (1609)
 Lake Champlain, Battle of, N.Y., 1814|->|Battle of Plattsburgh
 Lake Champlain Bridge (N.Y. and Vt. : 1929-2009)|=|Champlain Bridge (United States)
@@ -12820,6 +12863,7 @@ Lassie (Fictitious character)|=|Lassie
 Last in, first out (Accounting)|<->|FIFO and LIFO accounting
 Latah (Disease)|=|Latah
 Latecoere 290 (Torpedo bomber)|=|Latécoère 290
+Latecoere 298 (Seaplane)|=|Latécoère 298
 Latin America -- History -- Wars of Independence, 1806-1830|<->|Spanish American wars of independence
 Latin Empire, 1204-1261|=|Latin Empire
 Latin language|=|Latin
@@ -13455,6 +13499,7 @@ L&ouml;tschberg-Basistunnel (Frutigen and Raron, Switzerland)|=|Lötschberg Base
 L&ouml;tschberg-Tunnel (Goppenstein and Kandersteg, Switzerland)|=|Lötschberg Tunnel
 Lotteries|=|Lottery
 Lotuko (African people)|=|Lotuko people
+LotusScript (Computer program language)|=|LotusScript
 Louie (Fictitious character : Disney)|->|Huey, Dewey, and Louie
 Louis (Name)|<->|Louis (given name)
 Louis XVI, King of France, 1754-1793 -- Death and burial|<->|Execution of Louis XVI
@@ -13595,6 +13640,7 @@ Lys, Battle of the, 1918|<->|Battle of the Lys (1918)
 Lysander (Combat liaison airplane)|=|Westland Lysander
 Lysithea (Satellite)|=|Lysithea (moon)
 Lysosomal storage diseases|=|Lysosomal storage disease
+Lyttelton Harbour/Whakaraup&omacr; (N.Z.)|=|Lyttelton Harbour
 M-16 rifle|=|M16 rifle
 M-346 (Training plane)|=|Alenia Aermacchi M-346 Master
 M-4 carbine|=|M4 carbine
@@ -13659,6 +13705,8 @@ Mackenzie Highway (Alta. and N.W.T.)|=|Mackenzie Highway
 Mackenzie River (N.W.T.)|=|Mackenzie River
 Mackinac Island (Mich. : Island)|=|Mackinac Island
 Macon (Airship)|=|USS Macon (ZRS-5)
+MACRO-10 (Computer program language)|=|MACRO-10
+MACRO-11 (Computer program language)|=|MACRO-11
 Macumba (Cult)|=|Macumba
 Madagascar -- History -- 1992-2010|<->|Third Republic of Madagascar
 Madagascar -- History -- Coup d'&eacute;tat, 2009|<->|2009 Malagasy political crisis
@@ -14171,6 +14219,7 @@ Matrilineal kinship|<->|Matrilineality
 Matroids|=|Matroid
 Matsukawa Railroad Accident, 1949|=|Matsukawa derailment
 Mattabesset River (Hartford County and Middlesex County, Conn.)|=|Mattabesset River
+Mattamuskeet, Lake (N.C.)|=|Lake Mattamuskeet
 Mattamuskeet National Wildlife Refuge (N.C.)|=|Mattamuskeet National Wildlife Refuge
 Mattes|=|Matte (metallurgy)
 Maturin, Stephen (Fictitious character)|=|Stephen Maturin
@@ -14187,6 +14236,7 @@ Mauthausen Trial, Dachau, Germany, 1946|<->|Mauthausen-Gusen camp trials
 Maverick (Air-to-surface missile)|=|AGM-65 Maverick
 Mawddach, River (Wales)|=|Afon Mawddach
 Mawlam (Music)|=|Mor lam
+Mawri (African people)|=|Maouri people
 Maxamad Cabdulle Xasan's Rebellion, Somalia, 1900-1920|<->|Somaliland Campaign
 Maxims|<->|Maxim (philosophy)
 Maximum entropy method|<->|Principle of maximum entropy
@@ -14673,6 +14723,7 @@ Militia movements -- United States|<->|Militia organizations in the United State
 Milk Creek, Battle of, Colo., 1879|=|Battle of Milk Creek
 Milk River (Mont. and Alta.)|=|Milk River (Alberta–Montana)
 Milk thistle|=|Silybum marianum
+Milking Shorthorn cattle|=|Milking Shorthorn
 Milkmaids (Plant)|=|Cardamine californica
 Mill Bluff State Park (Wis.)|=|Mill Bluff State Park
 Mill River (Hampshire County, Mass.)|=|Mill River (Northampton, Massachusetts)
@@ -14681,6 +14732,7 @@ Millefiori glass|<->|Millefiori
 Millennium Bridge (London, England)|=|Millennium Bridge, London
 Millennium celebrations (Year 2000)|=|Millennium celebrations
 Millennium Park (Chicago, Ill.)|=|Millennium Park
+Millennium Stadium (Cardiff, Wales)|=|Millennium Stadium
 Miller family|<->|List of people with surname Miller
 Millerite movement|=|Millerism
 Millets|=|Millet
@@ -14956,6 +15008,7 @@ Monongahela River (W. Va. and Pa.)|=|Monongahela River
 Monophysites|=|Monophysitism
 Monopolies|=|Monopoly
 Monopsonies|=|Monopsony
+Monotype (Engraving)|<->|Monotyping
 Monroe's Crossroads, Battle of, N.C., 1865|=|Battle of Monroe's Crossroads
 Mons (Belgium)|=|Mons
 Mons, 1st Battle of, Mons, Belgium, 1914|<->|Battle of Mons
@@ -16135,6 +16188,7 @@ Nineteenth century|=|19th century
 Ninety Six (S.C.) -- History -- Siege, 1781|=|Siege of Ninety-Six
 Nineveh (Extinct city)|=|Nineveh
 Ninhursag (Sumerian deity)|=|Ninhursag
+Ninian Park (Cardiff, Wales)|=|Ninian Park
 Ninigret National Wildlife Refuge (R.I.)|=|Ninigret National Wildlife Refuge
 Ninth century|=|9th century
 Ninth grade (Education)|=|Ninth grade
@@ -16148,6 +16202,7 @@ Nisqually Glacier (Wash.)|=|Nisqually Glacier
 Nisqually Indians|<->|Nisqually people
 Nisqually River (Wash.)|=|Nisqually River
 Nisyros (Greece)|=|Nisyros
+Niter&oacute;i (Rio de Janeiro, Brazil)|=|Niterói
 Nith, River (Scotland)|=|River Nith
 Nitidulidae|=|Sap beetle
 Nitrides|=|Nitride
@@ -16501,6 +16556,7 @@ Occupational diseases|=|Occupational disease
 Occupational therapists|=|Occupational therapist
 Occupations|<->|Job
 Occupy Wall Street (Movement)|<->|Occupy Wall Street
+Ocean bottles|<->|Message in a bottle
 Ocean bottom|=|Seabed
 Ocean circulation|->|Ocean current
 Ocean currents|=|Ocean current
@@ -16696,6 +16752,7 @@ OMDoc (Document markup language)|=|OMDoc
 Omdurman (Sudan)|=|Omdurman
 Omdurman, Battle of, Omdurman, Sudan, 1898|=|Battle of Omdurman
 Omens|=|Omen
+OmniMark (Computer program language)|=|OmniMark
 Omniscience (Theory of knowledge)|=|Omniscience
 Oncogenic viruses|=|Oncovirus
 One (The number)|<->|1 (number)
@@ -17129,6 +17186,8 @@ Pachuca (Mexico)|=|Pachuca
 Pacific Coast (U.S.)|=|West Coast of the United States
 Pacific salmon|->|Salmon
 Pacific treefrog|=|Pacific tree frog
+Pacific Tsunami Warning and Mitigation System|->|Tsunami warning system
+Pacific Tsunami Warning and Mitigation System|<-|Pacific Tsunami Warning Center
 Pacific Type (Steam locomotives)|<->|4-6-2
 Pacifists|->|Pacifism
 Packet switching (Data transmission)|=|Packet switching
@@ -17158,6 +17217,7 @@ Painters Eleven (Group of painters)|=|Painters Eleven
 Painting, Chinese -- Tang-Five dynasties, 618-960|<->|Tang dynasty painting
 Painting, Flemish|=|Flemish painting
 Pairs figure skating|<->|Pair skating
+Paisley Caves (Or.)|=|Paisley Caves
 Paite (Asian people)|=|Paite people
 Paiute Indians|=|Paiute
 Paiute Indians -- Wars, 1860|<->|Paiute War
@@ -17194,9 +17254,11 @@ Palatul Elisabeta (Bucharest, Romania)|=|Elisabeta Palace
 Palatul Parlamentului (Bucharest, Romania)|=|Palace of the Parliament
 Palawan (Philippine people)|<->|Peoples of Palawan
 Palawan Massacre, Philippines, 1944|=|Palawan massacre
+Palazzo Capponi Covoni (Florence, Italy)|=|Palazzo Capponi-Covoni, Florence
 Palazzo del Bo (Padua, Italy)|=|Bo Palace
 Palazzo ducale (Urbino, Italy)|=|Palazzo Ducale, Urbino
 Palazzo Fava (Bologna, Italy)|=|Palazzo Ghisilardi Fava
+Palazzo Orsini Pio Righetti (Rome, Italy)|=|Palazzo Orsini Pio Righetti
 Palazzo Pazzi (Florence, Italy)|=|Palazzo Pazzi
 Palazzo Pretorio (Lucca, Italy)|=|Palazzo Pretorio, Lucca
 Palcazu River (Peru)|=|Palcazu River
@@ -17391,6 +17453,7 @@ Park Range (Colo. and Wyo.)|<->|Park Range (Colorado)
 Park rangers|=|Park ranger
 Park Theatre (New York, N.Y. : Park Row)|=|Park Theatre (Manhattan)
 Park Top (Race horse)|=|Park Top
+Park und Villa Haas (Sinn, Germany)|<->|Villa Haas
 Parkdale (Toronto, Ont.)|=|Parkdale, Toronto
 Parker, Penny (Fictitious character)|<->|Penny Parker
 Parker River National Wildlife Refuge (Mass.)|=|Parker River National Wildlife Refuge
@@ -17859,6 +17922,7 @@ Photocopying machines|=|Photocopier
 Photographers|=|Photographer
 Photographs|=|Photograph
 Photography -- Law and legislation|<->|Photography and the law
+Photonic sintering|<->|Photonic curing
 Phrygian caps|=|Phrygian cap
 Phrynosoma modestum|=|Roundtail horned lizard
 Physical anthropology|=|Biological anthropology
@@ -17914,6 +17978,7 @@ Piedmont, Battle of, Piedmont, Va., 1864|=|Battle of Piedmont
 Piedmont Airlines Flight 22 Crash, N.C., 1967|<->|Piedmont Airlines Flight 22
 Pieds-Noirs|<->|Pied-Noir
 Piercefield Estate (Wales)|<->|Piercefield House
+Pierhead Building (Cardiff, Wales)|=|Pierhead Building
 Pierrot (Fictitious character)|=|Pierrot
 Piestewa Peak (Ariz.)|=|Piestewa Peak
 Pig War, Wash., 1859|=|Pig War
@@ -19104,6 +19169,7 @@ Raszyn (Poland)|=|Raszyn
 Raszyn, Battle of, Raszyn, Poland, 1809|=|Battle of Raszyn (1809)
 Rat Islands (Alaska)|=|Rat Islands
 Rate distortion theory|=|Rate–distortion theory
+Ratha-y&amacr;tra (Hindu festival)|=|Ratha-Yatra
 Ration cards|<->|Ration stamp
 Rational expectations (Economic theory)|=|Rational expectations
 Rationalists|->|Rationalism
@@ -19112,6 +19178,7 @@ Rats as laboratory animals|=|Laboratory rat
 Rats as pets|<->|Fancy rat
 Rattus norvegicus|=|Brown rat
 Rattus rattus|=|Black rat
+Raul Hector Castro Port of Entry (Douglas, Ariz.)|=|Douglas Arizona Port of Entry
 Raura, Cordillera (Peru)|=|Raura mountain range
 Ravenna, Battle of, Ravenna, Italy, 1512|=|Battle of Ravenna (1512)
 Raves (Parties)|=|Rave
@@ -19505,8 +19572,11 @@ Rivers -- Malaysia|<->|List of rivers of Malaysia
 Rivers -- Maryland|<->|List of rivers of Maryland
 Rivers -- Massachusetts|<->|List of rivers of Massachusetts
 Rivers -- North Carolina|<->|List of rivers of North Carolina
+Rivers -- Nova Scotia|<->|List of rivers of Nova Scotia
 Rivers -- Oregon|<->|List of rivers of Oregon
 Rivers -- Pennsylvania|<->|List of rivers of Pennsylvania
+Rivers -- Tanzania|<->|List of rivers of Tanzania
+Rivers -- Tennessee|<->|List of rivers of Tennessee
 Rivers -- United States|<->|List of rivers of the United States
 Rivers -- Virginia|<->|List of rivers of Virginia
 Rivers -- Wales|<->|List of rivers of Wales
@@ -19535,6 +19605,7 @@ Roasts (Public speaking)|=|Roast (comedy)
 Robert Boochever United States Courthouse (Juneau, Alaska)|->|Hurff Ackerman Saunders Federal Building and Robert Boochever US Courthouse
 Robert S. Vance Federal Building and United States Courthouse (Birmingham, Ala.)|=|Robert S. Vance Federal Building and United States Courthouse
 Roberts Mountains (Nev.)|=|Roberts Mountains
+Robertson family|<->|Robertson (surname)
 Robin Hood (Legendary character)|=|Robin Hood
 Robin, the Boy Wonder (Fictitious character)|=|Robin (comics)
 Robinson R22 (Helicopter)|=|Robinson R22
@@ -19773,6 +19844,8 @@ Rumpole, Horace (Fictitious character)|<->|Rumpole of the Bailey
 Runaway children|=|Runaway (dependent)
 Rungus (Malaysian people)|=|Rungus people
 Running backs (Football)|=|Running back
+Runsa borg (Sweden)|->|Runsa
+Runsa Site (Sweden)|<->|Runsa
 Rupee, Indian|<->|Rupee
 Rupununi (Guyana)|<->|Rupununi
 Rupununi (Guyana) -- History -- Uprising, 1969|=|Rupununi Uprising
@@ -19866,6 +19939,7 @@ Safaris|=|Safari
 Safeco Field (Seattle, Wash.)|=|Safeco Field
 Safety regulations|->|Safety
 Saffron crocus|=|Crocus sativus
+Safi (South Asian people)|=|Safi (Pashtun tribe)
 Safwa (African people)|=|Safwa people
 Saga Rebellion, 1874|=|Saga Rebellion
 Sagamok Anishnawbek|<->|Sagamok Anishnawbek First Nation
@@ -19929,10 +20003,15 @@ Saint Martin (Collectivity)|=|Collectivity of Saint Martin
 Saint Martin (West Indies)|=|Saint Martin
 Saint Martin's Day|=|St. Martin's Day
 Saint Mary River (Mont. and Alta.)|=|St. Mary River (Alberta–Montana)
+Saint Marys River (Ga. and Fla.)|=|St. Marys River (Florida–Georgia)
+Saint Marys River (Mich. and Ont.)|=|St. Marys River (Michigan–Ontario)
+Saint Marys River (N.S. : River)|=|St. Mary's River (Nova Scotia)
+Saint Marys River (Ohio and Ind.)|=|St. Marys River (Indiana and Ohio)
 Saint Matthew Island (Alaska)|=|St. Matthew Island
 Saint-Mihiel, Battle of, Saint-Mihiel, France, 1918|=|Battle of Saint-Mihiel
 Saint-Nazaire (France)|=|Saint-Nazaire
 Saint Nazaire Raid, 1942|=|St Nazaire Raid
+Saint Nicholas' Day|=|Saint Nicholas Day
 Saint Paul (Minn.) -- History|=|History of Saint Paul, Minnesota
 Saint Peter Sandstone|=|St. Peter Sandstone
 Saint Petersburg (Russia)|=|Saint Petersburg
@@ -19979,6 +20058,7 @@ Salisbury Sound (Alaska)|=|Salisbury Sound
 Salish language|->|Salishan languages
 Salish Sea (B.C. and Wash.)|=|Salish Sea
 Saliva language|=|Saliba language
+Salmo-Priest Wilderness (Wash.)|=|Salmo-Priest Wilderness
 Salmon canneries|=|Salmon cannery
 Salmon River (Prince of Wales-Outer Ketchikan Census Area, Alaska)|=|Salmon River (Portland Canal)
 Salon international de l'a&eacute;ronautique et de l'espace (Le Bourget, France)|<->|Paris Air Show
@@ -20103,6 +20183,7 @@ Sanctuary doctrine (Seventh-Day Adventists)|<->|Heavenly sanctuary
 Sand Creek Massacre, Colo., 1864|=|Sand Creek massacre
 Sand Creek Massacre National Historic Site (Colo.)|=|Sand Creek Massacre National Historic Site
 Sand darters|=|Ammocrypta
+Sand dunes|=|Dune
 Sand Island (Oahu, Hawaii)|=|Sand Island (Hawaii)
 Sandawe (African people)|=|Sandawe people
 Sandbowl snail|=|Catinella arenaria
@@ -20291,6 +20372,7 @@ Scandals|=|Scandal
 Scanian War, 1675-1679|=|Scanian War
 Scannagallo, Battle of, Italy, 1554|=|Battle of Marciano
 SCAP (Computer network protocol)|=|Security Content Automation Protocol
+Scapa (Seaplane)|=|Supermarine Scapa
 Scapa Flow Scuttling, Scotland, 1919|=|Scuttling of the German fleet in Scapa Flow
 Scarabs|=|Scarabaeidae
 Scarborough (England)|=|Scarborough, North Yorkshire
@@ -20555,6 +20637,7 @@ Sempach, Battle of, Switzerland, 1386|=|Battle of Sempach
 Sena (African people)|=|Sena people
 Seneca Indians|=|Seneca people
 Seneca Lake (N.Y.)|=|Seneca Lake (New York)
+Senedd (Cardiff, Wales)|=|Senedd
 Seneffe, Battle of, Seneffe, Belgium, 1674|=|Battle of Seneffe
 Senile dementia|->|Dementia
 Senior leadership teams|<->|Senior management
@@ -20637,6 +20720,7 @@ SET (Computer network protocol)|=|Secure Electronic Transaction
 Set&amacr;r (Iranian musical instrument)|=|Setar
 S&eacute;tif (Algeria)|=|Sétif
 S&eacute;tif (Algeria : Province)|=|Sétif Province
+SETL (Computer program language)|=|SETL
 Setters (Dogs)|=|Setter
 Setting (Literature)|=|Setting (narrative)
 Settle and Carlisle Railway|<->|Settle–Carlisle line
@@ -20681,6 +20765,7 @@ Sex addiction|=|Sexual addiction
 Sex and law|=|Sex and the law
 Sex change|<->|Sex reassignment therapy
 Sex differences|<->|Sex differences in humans
+Sex differences (Psychology)|=|Sex differences in psychology
 Sex discrimination|->|Sexism
 Sex in video games|<->|Sex and nudity in video games
 Sex instruction|=|Sex education
@@ -20865,10 +20950,12 @@ Shop stewards|=|Union representative
 Shopkins toys|=|Shopkins
 Shor (Turkic people)|=|Shors
 Shore, Jemima (Fictitious character)|=|Jemima Shore
+Short 184 (Seaplane)|=|Short Type 184
 Short sales (Real estate)|=|Short sale (real estate)
 Short selling (Securities)|=|Short (finance)
 Short woollyheads (Plant)|=|Psilocarphus brevissimus
 Shortfin mako|=|Shortfin mako shark
+Shorthorn cattle|=|Shorthorn
 Shortleaf pine|<->|Pinus echinata
 Shortstop (Baseball)|=|Shortstop
 Shoshonean languages|->|Uto-Aztecan languages
@@ -21031,6 +21118,7 @@ Singleleaf pinyon|=|Pinus monophylla
 Singularities (Mathematics)|=|Singularity (mathematics)
 Sinhalese (Sri Lankan people)|=|Sinhalese people
 Sinks (Plumbing fixtures)|=|Sink
+Sinn (Germany)|=|Sinn, Hesse
 Sino-French War, 1884-1885|=|Sino-French War
 Sino-Indian Border Dispute, 1957-|<->|Sino-Indian border dispute
 Sino-Indian Border Dispute, 1957-|<-|Sino-Indian War
@@ -21115,6 +21203,7 @@ Skin-grafting|=|Skin grafting
 Skinheads|=|Skinhead
 Skinks|=|Skink
 Skinner Butte (Or.)|=|Skinner Butte
+Skinner family|<->|Skinner (surname)
 Skj&aacute;lfandi Bay (Iceland)|=|Skjálfandi
 Skoki Lodge (Alta.)|=|Skoki Ski Lodge
 Skolt Sami dialect|=|Skolt Sami language
@@ -21508,6 +21597,7 @@ South Shetland Islands (Antarctica)|=|South Shetland Islands
 South Shore (Mass. : Coast)|<->|South Shore (Massachusetts)
 South Street (Philadelphia, Pa.)|=|South Street (Philadelphia)
 South Teton (Wyo.)|=|South Teton
+Southampton (Seaplane)|=|Supermarine Southampton
 Southampton Insurrection, 1831|=|Nat Turner's slave rebellion
 Southeast Development Region (Romania)|=|Sud-Est (development region)
 Southeast Freeway (Washington, D.C.)|=|Interstate 695 (District of Columbia)
@@ -21632,6 +21722,7 @@ Special teams (Football)|->|American football positions
 Specialists|=|Specialist
 Special libraries|=|Special library
 Special relativity (Physics)|=|Special relativity
+Spectacular, The|<->|Spectacle
 Spectacular Bid (Race horse)|=|Spectacular Bid
 Spectral theory (Mathematics)|=|Spectral theory
 Spectre (Gunship)|=|Lockheed AC-130
@@ -21902,6 +21993,8 @@ Stourbridge Lion (Steam locomotive)|=|Stourbridge Lion
 Straight-edge culture|=|Straight edge
 Straight-edge (Music)|->|Straight edge
 Strand, The (London, England)|=|Strand, London
+Stranraer (Scotland)|=|Stranraer
+Stranraer (Seaplane)|=|Supermarine Stranraer
 Strasbourg (France)|=|Strasbourg
 Strasbourg (France) -- History -- Siege, 1870|=|Siege of Strasbourg
 Stratford (London) Station (London, England)|=|Stratford station
@@ -22007,6 +22100,7 @@ Sukhoi Su-47 (Jet fighter plane)|=|Sukhoi Su-47
 Sukhoi Superjet 100 (Jet transport)|=|Sukhoi Superjet 100
 Sukhorukov family|<->|Sukhorukov
 Suicidal behavior|<->|Suicide crisis
+Suicide -- Law and legislation|=|Suicide legislation
 Suicide -- Prevention|=|Suicide prevention
 Suicide bombings|<->|Suicide attack
 Suipacha, Battle of, Bolivia, 1810|=|Battle of Suipacha
@@ -22066,6 +22160,7 @@ Superior National Forest (Agency : U.S.)|->|Superior National Forest
 Superior National Forest (Minn.)|=|Superior National Forest
 Superman (Fictitious character)|=|Superman
 Superman (Philosophical concept)|<->|Übermensch
+Supermarine Channel|->|AD Flying Boat
 Supermarkets|=|Supermarket
 Supernova 1054|=|SN 1054
 Supernova 1987A|=|SN 1987A
@@ -22073,6 +22168,7 @@ Supernovae|=|Supernova
 Supersonic transport planes|=|Supersonic transport
 Superstition Hills (Calif.)|=|Superstition Hills
 Superstition Mountains (Ariz.)|=|Superstition Mountains
+SuperTalk (Computer program language)|=|SuperTalk
 Supervised learning (Machine learning)|=|Supervised learning
 Supervisory control systems|<->|Supervisory control
 Supervolcanoes|=|Supervolcano
@@ -22123,6 +22219,7 @@ Sutton family|<->|Sutton (surname)
 Suture zones (Structural geology)|<->|Suture (geology)
 Sutures|<->|Surgical suture
 Sutwik Island (Alaska)|=|Sutwik Island
+Suwannee River (Ga. and Fla.)|=|Suwannee River
 Suw&obreve;n-si (Korea)|=|Suwon
 SV40 (Virus)|=|SV40
 Svalbard (Norway)|=|Svalbard
@@ -22175,6 +22272,7 @@ Sweet vernal grass|=|Anthoxanthum odoratum
 Sweetness (Taste)|=|Sweetness
 Sweetwater Mountains (Calif. and Nev.)|=|Sweetwater Mountains
 &Sacute;widermajer (Architecture)|=|Świdermajer
+Swift (Computer program language)|=|Swift (programming language)
 Swift (Private plane)|=|Globe Swift
 Swift, Tom (Fictitious character)|=|Tom Swift
 Swimming -- Breaststroke|=|Breaststroke
@@ -22236,6 +22334,7 @@ Syria -- Religion|=|Religion in Syria
 Syrian Orthodox Church|=|Syriac Orthodox Church
 Syrian War, 1839-1840|<->|Egyptian–Ottoman War (1839–41)
 Syro-Ephraimitic War, ca. 734 B.C.|=|Syro-Ephraimite War
+Syrtos (Dance)|=|Syrtos
 System analysis|=|Systems analysis
 System design|=|Systems design
 System theory|=|Systems theory
@@ -22298,6 +22397,7 @@ Tactics|=|Tactic
 Tadworth (England)|=|Tadworth
 Tadworth Station (Tadworth, England)|=|Tadworth railway station
 Tae kwon do|=|Taekwondo
+Taehangno (Seoul, Korea)|=|Daehangno
 Taensa Indians|=|Taensa
 Tagalog (Philippine people)|=|Tagalog people
 Tagbanua (Philippine people)|=|Tagbanwa people
@@ -22493,6 +22593,7 @@ Taxation|=|Tax
 Tax collection|<->|Tax collector
 Tax credits|=|Tax credit
 Taxicabs|=|Taxicab
+T&agrave;y (Northern Vietnamese people)|=|Tay people
 Tay, Firth of (Scotland)|=|Firth of Tay
 Tay Bridge (Dundee, Scotland : Railroad bridge)|=|Tay Rail Bridge
 Tay Bridge Disaster, Dundee, Scotland, 1879|=|Tay Bridge disaster
@@ -22759,6 +22860,7 @@ Thirteen Years' War, 1454-1466|=|Thirteen Years' War (1454–66)
 Thirteenth century|=|13th century
 Thirteenth grade (Education)|=|Thirteenth grade
 Thirty Years' War, 1618-1648|=|Thirty Years' War
+Th&#x1ed5; (Vietnamese people : Ngh&#x1ec7; An)|=|Thổ people
 Thomas A. Edison, Inc.|<->|Edison Studios
 Thomas Bay (Alaska)|=|Thomas Bay
 Thomas Circle (Washington, D.C.)|=|Thomas Circle
@@ -23229,6 +23331,7 @@ Tree kangaroos|=|Tree-kangaroo
 Tree trunks|=|Trunk (botany)
 Trees|=|Tree
 Treibball (Dog sport)|=|Treibball
+Trellick Tower (London, England)|=|Trellick Tower
 Trempealeau National Wildlife Refuge (Agency : U.S.)|->|Trempealeau National Wildlife Refuge
 Trempealeau National Wildlife Refuge (Wis.)|=|Trempealeau National Wildlife Refuge
 Trengwainton Garden (Madron, England)|=|Trengwainton Garden
@@ -23330,6 +23433,7 @@ Trutnov (Czech Republic)|=|Trutnov
 Trutnov (Czech Republic : Okres)|=|Trutnov District
 Trypho|<->|Tryphon (disambiguation)
 TS-8 Bies (Training plane)|=|PZL TS-8 Bies
+Tsakhurs|=|Tsakhur people
 Tsaritsyn, Battle of, Volgograd, Russia, 1918-1919|<->|Battle of Tsaritsyn
 Tsikimba language|=|Kimba language
 Tsimihety (Malagasy people)|=|Tsimihety people
@@ -23413,6 +23517,7 @@ Turia River (Spain)|=|Turia (river)
 Turin (Italy)|=|Turin
 Turin (Italy) -- History -- Siege, 1640|=|Siege of Turin (1640)
 Turin (Italy) -- History -- Siege, 1706|=|Siege of Turin
+Turing (Computer program language)|=|Turing (programming language)
 Turka (African people)|=|Turka people
 Turkana (African people)|=|Turkana people
 Turkey -- History -- 1288-1453|<->|Rise of the Ottoman Empire
@@ -24313,6 +24418,9 @@ Veterinarians|=|Veterinary physician
 Veterinary drugs|<->|List of veterinary drugs
 Vezo (Malagasy people)|=|Vezo people
 VHDL (Computer hardware description language)|=|VHDL
+Via Cavour (Florence, Italy)|=|Via Camillo Cavour
+Via Cavour (Rome, Italy)|=|Via Cavour, Rome
+Via Dolorosa (Jerusalem)|<->|Via Dolorosa
 Via Rasella Attack, Rome, Italy, 1944|->|Ardeatine massacre
 Vice-Presidents|=|Vice president
 Vicenza (Italy)|=|Vicenza
@@ -24389,6 +24497,7 @@ Vietnamese provinces|=|Provinces of Vietnam
 Vigilante (Fictitious character : DC Comics, Inc.)|<->|Vigilante (comics)
 Vigilantes|=|Vigilante
 Vigiles (Roman officials)|=|Vigiles
+Vignale Monferrato (Italy)|=|Vignale Monferrato
 Vigo (Spain)|=|Vigo
 Vigo Bay, Battle of, Spain, 1702|=|Battle of Vigo Bay
 Vigor automobile|<->|Honda Vigor
@@ -24540,6 +24649,7 @@ Wadern (Germany)|=|Wadern
 Wagalla Massacre, Wagalla, Kenya, 1984|=|Wagalla massacre
 Wager of battle|=|Trial by combat
 Wages|=|Wage
+Wagner family|<->|Wagner (surname)
 Wagon Box Fight, Wyo., 1867|=|Wagon Box Fight
 Wagram, Battle of, Deutsch-Wagram, Austria, 1809|=|Battle of Wagram
 Wah Wah Mountains (Utah)|=|Wah Wah Mountains
@@ -24586,6 +24696,7 @@ Wallowa-Whitman National Forest (Agency : U.S.)|->|Wallowa–Whitman National Fo
 Wallowa-Whitman National Forest (Or.)|=|Wallowa–Whitman National Forest
 Wallula, Lake (Or. and Wash.)|=|Lake Wallula
 Walnut Street Theatre (Philadelphia, Pa.)|=|Walnut Street Theatre
+Walrus (Seaplane)|=|Supermarine Walrus
 Walrus Islands (Alaska)|=|Walrus Islands
 Walt Disney World (Fla.)|=|Walt Disney World
 Walter F. George Reservoir (Ala. and Ga.)|=|Walter F. George Lake
@@ -24934,6 +25045,7 @@ White Tower (Thessalonik&emacr;, Greece)|=|White Tower of Thessaloniki
 White-water canoeing|=|Whitewater canoeing
 White whale|=|Beluga whale
 Whitebark pine|=|Pinus albicaulis
+Whitebred Shorthorn cattle|=|Whitebred Shorthorn
 Whitechapel (London, England)|=|Whitechapel
 Whitecourt (Alta.)|=|Whitecourt
 Whiteface Mountain (N.Y.)|=|Whiteface Mountain
@@ -24952,6 +25064,7 @@ Whitney, Mount (Calif.)|=|Mount Whitney
 Whittier Narrows Earthquake, Calif., 1987|=|1987 Whittier Narrows earthquake
 Whittlesea (South Africa)|=|Whittlesea, Eastern Cape
 Whittlesey Creek National Wildlife Refuge (Wis.)|=|Whittlesey Creek National Wildlife Refuge
+WHOIS (Computer network protocol)|=|WHOIS
 Whooping cough|=|Pertussis
 Wichita Indians|=|Wichita people
 Wichita Mountains (Okla.)|=|Wichita Mountains
@@ -24969,6 +25082,7 @@ Wielkopolska (Poland)|<->|Greater Poland
 Wielkopolska (Poland) -- History -- Uprising, 1918-1919|<->|Greater Poland Uprising (1918–19)
 Wielu&nacute; (&Lstrok;&oacute;d&zacute;, Poland)|=|Wieluń
 Wielu&nacute; (&Lstrok;&oacute;d&zacute;, Poland) -- History -- Bombardment, 1939|=|Bombing of Wieluń
+Wiener family|<->|Weiner
 Wiesbaden (Germany)|=|Wiesbaden
 Wife abuse|->|Domestic violence
 Wikis (Computer science)|=|Wiki
@@ -25689,6 +25803,7 @@ Z39.50 (Standard)|=|Z39.50
 Z&amacr;bul (Afghanistan)|=|Zabul Province
 Z&amacr;bul (Iran)|=|Zabol
 Zabern Affair, 1913|=|Zabern Affair
+Zab&imacr;d (Yemen)|=|Zabid
 Zacatecas (Mexico : State)|=|Zacatecas
 Zacatecas (Zacatecas, Mexico)|=|Zacatecas City
 Zacatecas, Battle of, Zacatecas, Zacatecas, Mexico, 1914|=|Battle of Zacatecas (1914)
@@ -25724,12 +25839,14 @@ Zayyanid dynasty, 1235-1559|<->|Zayyanid dynasty
 Zbaraz&#xfe20;h&#xfe21; (Ternopil&#x02b9;s&#x02b9;ka oblast&#x02b9;, Ukraine) -- History -- Siege, 1649|=|Siege of Zbarazh
 Zboriv, Battle of, Zboriv, Ukraine, 1649|=|Battle of Zboriv (1649)
 Zborov, Battle of, Zboriv, Ukraine, 1917|=|Battle of Zborov (1917)
+Zborowski family|<->|Zborowski
 Zealots (Jewish party)|=|Zealots (Judea)
 Zebulun (Tribe of Israel)|=|Tribe of Zebulun
 Zeebrugge-Ostend Raids, 1918|<-|First Ostend Raid
 Zeebrugge-Ostend Raids, 1918|<-|Second Ostend Raid
 Zeebrugge-Ostend Raids, 1918|<->|Zeebrugge Raid
 Zeeland (Netherlands : Province)|=|Zeeland
+Zeibekikos (Dance)|=|Zeibekiko
 Zeme (Indic people)|=|Zeme Naga
 Zemun (Concentration camp)|=|Sajmište concentration camp
 Zen Buddhism|=|Zen
