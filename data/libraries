@@ -1550,6 +1550,14 @@ CATTYPE sirsient
 BASEURL http://wales.ent.sirsidynix.net.uk
 LCODE en_GB/gwynedd_en
 
+ID OCLC-UKLMB
+NAME Lambeth Libraries
+LOCATION London Borough of Lambeth, England
+COUNTRY UK
+CATTYPE prismhosted
+BASEURL http://capitadiscovery.co.uk/lambeth
+FILTERS S
+
 ID LEEDS
 NAME Leeds Library and Information Service
 LOCATION Leeds, England
