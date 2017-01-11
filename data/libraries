@@ -1387,6 +1387,16 @@ LCODE APU
 SCOPE ALL
 DEFAULT http://libweb.anglia.ac.uk/
 
+ID OCLC-EQF
+NAME Bangor University
+LOCATION Bangor, Wales
+COUNTRY UK
+VID 44WHELF_BANG_VU2
+LCODE 44WHELF_BANG
+CATTYPE primodl-loc
+BASEURL http://whel-primo.hosted.exlibrisgroup.com
+LOC adaptor,scope:(44WHELF_BANG),44WHELF_BANG_Ebsco,primo_central_multiple_fe
+
 ID OCLC-UKBLS
 NAME Blackburn with Darwen Libraries
 LOCATION Blackburn, Darwen, and vicinity, England
@@ -1532,13 +1542,13 @@ BASEURL http://libra.gold.ac.uk
 CATTYPE aleph1
 TINDEX WTI
 
-ID OCLC-UKLMB
-NAME Lambeth Libraries
-LOCATION London Borough of Lambeth, England
+ID OCLC-UKGWL
+NAME Gwynedd Libraries
+LOCATION Gwynedd, Wales
 COUNTRY UK
-CATTYPE prismhosted
-BASEURL http://capitadiscovery.co.uk/lambeth
-FILTERS S
+CATTYPE sirsient
+BASEURL http://wales.ent.sirsidynix.net.uk
+LCODE en_GB/gwynedd_en
 
 ID LEEDS
 NAME Leeds Library and Information Service
@@ -1716,6 +1726,14 @@ COUNTRY UK
 BASEURL https://vufind-st.sedar.org.uk/vufind-st
 CATTYPE vufind
 FILTERS S
+
+ID OCLC-UKSWN
+NAME Swansea Libraries
+LOCATION Swansea, Wales
+COUNTRY UK
+CATTYPE sirsient
+BASEURL http://swan.ent.sirsidynix.net.uk
+LCODE en_GB/default
 
 ID OCLC-LUN
 NAME University College London
