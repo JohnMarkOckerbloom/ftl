@@ -6870,6 +6870,14 @@ STATE TN
 BASEURL http://catalog.lib.chattanooga.gov/polaris
 CATTYPE polaris
 
+ID OCLC-CMCPL
+NAME Clarksville-Montgomery County Public Library
+LOCATION Clarksville and vicinity
+STATE TN
+CATTYPE ls2pac
+BASEURL http://cmc-websvr.clarksville.org:8080/
+FILTERS S
+
 ID OCLC-TET
 NAME East Tennessee State University
 LOCATION Johnson City
@@ -6885,6 +6893,13 @@ STATE TN
 BASEURL http://library.fisk.edu
 CATTYPE webpacpro
 
+ID OCLC-TNHRD
+NAME Hardin County Public Library
+LOCATION Savannah
+STATE TN
+CATTYPE verso
+BASEURL http://tenv-verso.auto-graphics.com
+
 ID OCLC-TKL
 NAME Knox County Public Library
 LOCATION Knoxville and vicinity
@@ -6899,6 +6914,13 @@ LOCATION Memphis
 STATE TN
 CATTYPE summon
 BASEURL http://loc.summon.serialssolutions.com
+
+ID OCLC-TNLPL
+NAME Linebaugh Public Library System
+LOCATION Murfreesboro and vicinity
+STATE TN
+BASEURL http://72.243.210.108/uhtbin/cgisirsi
+CATTYPE sirsi
 
 ID OCLC-TMN
 NAME Memphis Public Library and Information Center
