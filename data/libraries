@@ -1682,6 +1682,16 @@ CATTYPE sirsient
 BASEURL http://emlib.ent.sirsidynix.net.uk
 LCODE en_GB/nottcity
 
+ID OCLC-UKPYM
+NAME Plymouth University
+LOCATION Plymouth, England
+COUNTRY UK
+VID PLY_VU1
+LCODE 44PLY
+CATTYPE primodl-loc
+LOC adaptor,scope:(44PLY),primo_central_multiple_fe
+BASEURL http://primo.plymouth.ac.uk
+
 ID OCLC-REABC
 NAME Reading Borough Libraries
 LOCATION Reading, England
@@ -3824,7 +3834,7 @@ ID OCLC-IWB
 NAME Council Bluffs Public Library
 LOCATION Council Bluffs
 STATE IA
-BASEURL http://encore.cbpl.lib.ia.us/iii/encore
+BASEURL http://encore.councilbluffslibrary.org/iii/encore
 CATTYPE encore
 
 ID OCLC-IOS
@@ -3850,15 +3860,23 @@ STATE IA
 CATTYPE vufind
 BASEURL https://libweb.grinnell.edu/vufind
 
+ID OCLC-LDW
+NAME Harlan Community Library
+LOCATION Harlan
+STATE IA
+BASEURL http://harlanlib.goalexandria.com/researcher#_?
+CATTYPE alexandria
+FILTERS S
+
 ID OCLC-IWA
 NAME Iowa State University
 LOCATION Ames
 STATE IA
 CATTYPE primodl-loc
-BASEURL http://mars.lib.iastate.edu:1701
-VID ISU0
-LCODE ISU
-LOC adaptor,scope:(ISU),primo_central_multiple_fe
+BASEURL http://iowa-primo.hosted.exlibrisgroup.com
+VID 01IASU
+LCODE 01IASU
+LOC adaptor,scope:(01IASU),primo_central_multiple_fe
 
 ID OCLC-IM9
 NAME Marion Public Library
@@ -3886,6 +3904,13 @@ CATTYPE ipac20
 PROFILE ce
 AINDEX PZAUTH
 TINDEX PALLTI
+
+ID OCLC-LXY
+NAME Iowa City Public Library
+LOCATION Iowa City
+STATE IA
+BASEURL http://catpro.icpl.org/iii/encore
+CATTYPE encore
 
 ID OCLC-IWP
 NAME Sioux City Public Library
@@ -6592,7 +6617,7 @@ ID OCLC-PAFSS
 NAME Friends Select School Library
 LOCATION Philadelphia
 STATE PA
-BASEURL http://fss.goalexandria.com/?
+BASEURL http://fss.goalexandria.com/search#?
 CATTYPE alexandria
 
 ID OCLC-LYU
