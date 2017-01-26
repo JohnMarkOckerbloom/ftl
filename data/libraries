@@ -1547,7 +1547,7 @@ NAME Gwynedd Libraries
 LOCATION Gwynedd, Wales
 COUNTRY UK
 CATTYPE sirsient
-BASEURL http://wales.ent.sirsidynix.net.uk
+BASEURL https://wales.ent.sirsidynix.net.uk
 LCODE en_GB/gwynedd_en
 
 ID OCLC-UKLMB
@@ -1637,6 +1637,13 @@ LOCATION Manchester, England
 COUNTRY UK
 CATTYPE spydus
 BASEURL http://manchester.spydus.co.uk
+
+ID OCLC-UKMPL
+NAME Medway Libraries
+LOCATION Medway, England
+COUNTRY UK
+CATTYPE spydus
+BASEURL https://medway.spydus.co.uk
 
 ID OCLC-NLW
 NAME National Library of Wales
@@ -7968,6 +7975,14 @@ LOCATION Charleston and vicinity
 STATE WV
 BASEURL http://kcpl.kanawha.lib.wv.us/uhtbin/cgisirsi
 CATTYPE sirsi
+
+ID OCLC-OC2
+NAME Ohio County Public Library
+LOCATION Wheeling
+STATE WV
+CATTYPE ls2pac
+BASEURL http://tlc.ohiocountylibrary.org:8080
+FILTERS SNK
 
 ID OCLC-WVS
 NAME Scarborough Library, Shepherd University
