@@ -4,7 +4,7 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2016-10-16
+# Last updated 2017-02-07
 
 ID OLBP
 NAME The Online Books Page
@@ -3711,6 +3711,13 @@ LOCATION Canton
 STATE IL
 BASEURL http://catalog.parliningersoll.org/polaris
 CATTYPE polaris
+
+ID OCLC-A-DOLLAR-I
+NAME PrairieCat
+LOCATION Libraries in the RAILS cooperative of northern Illinois
+STATE IL
+BASEURL http://search.prairiecat.info/iii/encore
+CATTYPE encore
 
 ID OCLC-IHX
 NAME Resource Sharing Alliance (RSA)
