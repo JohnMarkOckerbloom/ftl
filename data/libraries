@@ -444,6 +444,13 @@ PROVINCE BC
 CATTYPE eds
 LCODE s5672421
 
+ID OCLC-CNFVR
+NAME Fraser Valley Regional Library
+LOCATION Abbotsford, Chilliwack, Langley, and other Valley locations
+PROVINCE BC
+CATTYPE bibliocommons
+BASEURL https://fvrl.bibliocommons.com
+
 ID OCLC-4C3
 NAME Greater Victoria Public Library
 LOCATION Victoria and vicinity
@@ -480,6 +487,14 @@ PROVINCE BC
 BASEURL http://ipac.orl.bc.ca/polaris
 CATTYPE polaris
 
+ID OCLC-CNPGL
+NAME Prince George Public Library
+LOCATION Prince George
+PROVINCE BC
+CATTYPE sirsient
+LCODE en_US/default
+BASEURL http://catalogue.lib.pg.bc.ca:8080
+
 # Looks like SFU has its own custom search
 ID OCLC-SFB
 NAME Simon Fraser University
@@ -501,6 +516,13 @@ LOCATION Kamloops and other campuses
 PROVINCE BC
 CATTYPE eds
 LCODE s5672243
+
+ID OCLC-TWV
+NAME Trinity Western University
+LOCATION Langley and other campuses
+PROVINCE BC
+CATTYPE sirsi
+BASEURL http://library.twu.ca/uhtbin/cgisirsi.exe
 
 ID OCLC-8UB
 NAME University of British Columbia Library
