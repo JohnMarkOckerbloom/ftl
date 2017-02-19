@@ -4456,6 +4456,14 @@ BASEURL http://heron.wico.lib.md.us
 CATTYPE iii-consortium-member
 LCODE 3
 
+ID OCLC-QWR
+NAME Beverly Public Library
+LOCATION Beverly
+STATE MA
+BASEURL https://evergreen.noblenet.org/eg/opac
+CATTYPE evergreen-dynamic
+LCODE 2
+
 ID OCLC-BXM
 NAME Boston College
 LOCATION Boston
@@ -4619,8 +4627,15 @@ ID OCLC-NKT
 NAME Springfield College
 LOCATION Springfield
 STATE MA
-CATTYPE voyager-vwebv
-BASEURL http://jtbowne.springfieldcollege.edu/vwebv/search
+BASEURL https://springfieldcollege.on.worldcat.org/external-search?queryString
+CATTYPE worldcat-config
+
+ID OCLC-TFW
+NAME Tufts University
+LOCATION Medford
+STATE MA
+CATTYPE summon
+BASEURL http://tufts.summon.serialssolutions.com
 
 ID OCLC-AUM
 NAME University of Massachusetts Amherst
@@ -4654,9 +4669,11 @@ ID OCLC-WCM
 NAME Williams College
 LOCATION Williamstown
 STATE MA
-BASEURL http://francis.williams.edu
-CATTYPE webpacpro
-FILTERS N
+BASEURL http://librarysearch.williams.edu
+CATTYPE primodl-scope
+VID 01WIL
+LCODE 01WIL
+SCOPE everything_scope
 
 ID OCLC-WZW
 NAME Worcester Public Library

@@ -9,8 +9,8 @@
 #   or lexical analysis (such as many geographical locations)
 #   are not included in this file.
 # See docs file for documentation
-# Last updated 2017-02-17
-# Did LCSH 2015 update lists 1-11, 2016 lists 1-12, 2017 list 1
+# Last updated 2017-02-18
+# Did LCSH 2015 update lists 1-11, 12 (A only), 2016 lists 1-12, 2017 list 1
 1066 Country Walk (England)|=|1066 Country Walk
 119 (Locomotive)|=|Union Pacific No. 119
 1361 K4 (Steam locomotive)|=|PRR 1361
@@ -340,15 +340,20 @@ Africa, Portuguese-speaking|=|Portuguese-speaking African countries
 Africa, Southern|=|Southern Africa
 Africa, Sub-Saharan|=|Sub-Saharan Africa
 Africa, West|=|West Africa
+African American abolitionists|<->|List of African-American abolitionists
+African American actors|<->|List of African-American actors
 African American art|=|African-American art
+African American astronauts|<->|List of black astronauts
 African American churches|<->|Black church
 African American cooking|<->|Soul food
 African American dance|=|African-American dance
 African American Greek letter societies|<->|List of African-American Greek and fraternal organizations
 African American inventors|->|List of African-American inventors and scientists
+African American mathematicians|<->|List of African-American mathematicians
 African American neighborhoods|=|African-American neighborhood
 African American newspapers|=|African-American newspapers
 African American scientists|<->|List of African-American inventors and scientists
+African American singers|<->|List of African-American singers
 African American universities and colleges|<->|Historically black colleges and universities
 African Americans -- History|<->|African-American history
 African Americans -- History -- Chronology|<->|Timeline of African-American history
@@ -358,6 +363,7 @@ African Americans -- Relations with Jews|=|African American–Jewish relations
 African gray parrot|=|African grey parrot
 Africanists|->|African studies
 Africanized honeybee|<->|Africanized bee
+Africans -- Germany|<->|Afro-Germans
 Afrihili (Artificial language)|=|Afrihili
 Afrikaans language|=|Afrikaans
 Afsluitdijk (Netherlands)|=|Afsluitdijk
@@ -374,6 +380,7 @@ Agattu Island (Alaska)|=|Agattu
 Agave (Greek mythology)|=|Agave (mythology)
 Age discrimination|->|Ageism
 Agency (Law)|=|Law of agency
+Agenesis of corpus callosum|=|Agenesis of the corpus callosum
 Agent (Philosophy)|<->|Agency (philosophy)
 Agents provocateurs|=|Agent provocateur
 Aggada|=|Aggadah
@@ -1255,6 +1262,7 @@ Arduino (Programmable controller)|<->|Arduino
 &Aacute;rea Natural de Manejo Integrado Nacional Apolobamba (Bolivia)|=|Apolobamba Integrated Management Natural Area
 Arena do Gr&ecirc;mio (Porto Alegre, Rio Grande do Sul, Brazil)|=|Arena do Grêmio
 Arena theater|=|Theatre in the round
+Arenas|=|Arena
 Arendal (Norway)|=|Arendal
 Ares Vallis (Mars)|=|Ares Vallis
 ARexx (Computer program language)|=|ARexx
@@ -1466,6 +1474,7 @@ Asia, Central|=|Central Asia
 Asian American theater|=|Asian-American theatre
 Asian longhorned beetle|=|Asian long-horned beetle
 Asians|=|Asian people
+Asians -- Canada|<->|Asian Canadians
 Asiatic elephant|=|Asian elephant
 Asiatic Russia|=|North Asia
 Asklepios (Greek deity)|=|Asclepius
@@ -1755,6 +1764,7 @@ Ave Maria Grotto (Cullman, Ala.)|=|Ave Maria Grotto
 Avebury (England)|<->|Avebury
 Avebury (England)|<-|Avebury, Wiltshire
 Avengers (Fictitious characters)|=|Avengers (comics)
+Avenue of the Americas (New York, N.Y.)|<->|Sixth Avenue (Manhattan)
 Averasboro, Battle of, N.C., 1865|=|Battle of Averasborough
 Aviaries|=|Aviary
 Aviatik C.I (Reconnaissance aircraft)|=|Aviatik C.I
@@ -1787,6 +1797,7 @@ Aymara Indians|=|Aymara people
 Ayn Jalut, Battle of, Israel, 1260|=|Battle of Ain Jalut
 Azanian People's Organization|=|Azanian People's Organisation
 Azerbaijan -- Politics and government|<->|Politics of Azerbaijan
+Azerbaijanis -- Georgia (Republic)|=|Azerbaijanis in Georgia
 Azov, Sea of (Ukraine and Russia)|=|Sea of Azov
 AZT (Drug)|=|Zidovudine
 Aztec C (Computer program language)|<->|Aztec C
@@ -4404,6 +4415,7 @@ Charlestown (Boston, Mass.)|=|Charlestown, Boston
 Charley Wild River (Alaska)|<->|Charley River
 Charlie Hebdo Attack, Paris, France, 2015|=|Charlie Hebdo shooting
 Charlotte Hornets (Basketball team : 2014- )|<->|Charlotte Hornets
+Charm++ (Computer program language)|=|Charm++
 Charms|<->|Charm
 Charon (Satellite)|=|Charon (moon)
 Charrua Indians|=|Charrúa
@@ -4963,6 +4975,7 @@ Clare family|<->|Clare (surname)
 Claresholm (Alta.)|=|Claresholm
 Clarence Strait (Alaska)|=|Clarence Strait
 Clarington (Ont.)|=|Clarington
+Clarion for Windows (Computer program language)|<->|Clarion (programming language)
 Clark, Lake (Alaska)|=|Lake Clark (Alaska)
 Clark's Expedition against Detroit, 1781|<->|Lochry's Defeat
 Clark's Expedition to the Illinois (1778-1779)|<->|Illinois campaign
@@ -5315,6 +5328,7 @@ Compton effect|<->|Compton scattering
 Compulsive eaters|->|Food addiction
 Compulsive eating|<->|Food addiction
 Compulsive gambling|=|Problem gambling
+Compulsive skin picking|=|Excoriation disorder
 Computational grids (Computer systems)|<->|Grid computing
 Computer adventure games|<->|Adventure game
 Computer algorithms|->|Algorithm
@@ -5367,6 +5381,7 @@ Concord, Battle of, Concord, Mass., 1775|->|Battles of Lexington and Concord
 Concord River (Mass.)|=|Concord River
 Concordato fra la S. Sede e l'Italia (1929 February 11)|<->|Lateran Treaty
 Concorde (Jet transports)|=|Concorde
+Concurrent Euclid (Computer program language)|=|Concurrent Euclid
 Concurrent Pascal (Computer program language)|=|Concurrent Pascal
 Condensed matter|<->|Condensed matter physics
 Condiments|=|Condiment
@@ -6145,6 +6160,8 @@ Crystal Palace (Sydenham, London, England)|->|The Crystal Palace
 Crystal Palace (London, England)|=|Crystal Palace, London
 Crystal Palace (New York, N.Y.)|=|New York Crystal Palace
 Crystals|=|Crystal
+CSound (Computer program language)|=|Csound
+CSP (Computer program language)|<->|IBM Cross System Product
 Ctesiphon, Battle of, Iraq, 1915|=|Battle of Ctesiphon (1915)
 Cthulhu (Fictitious character)|=|Cthulhu
 Cu ju|=|Cuju
@@ -6417,6 +6434,7 @@ Databases|=|Database
 Date Creek Mountains (Ariz.)|=|Date Creek Mountains
 Dates (Fruit)|->|Date palm
 Dating (Social customs)|=|Dating
+Dating shows (Television programs)|=|Dating game show
 Datooga (African people)|=|Datooga people
 Datun Volcanoes (Taiwan)|=|Tatun Volcano Group
 Daughters|=|Daughter
@@ -7088,6 +7106,7 @@ Dudley Indians|<->|Chaubunagungamaug Nipmuck
 Duduk (Oboe)|<->|Duduk
 Dueling|<->|Duel
 Due process of law|=|Due process
+Duffy's Cut Site (Malvern, Pa.)|=|Duffy's Cut
 Dugger Mountain Wilderness (Ala.)|=|Dugger Mountain Wilderness
 Dugi Island (Croatia)|=|Dugi Otok
 Dugout canoes|=|Dugout canoe
@@ -8667,6 +8686,7 @@ Fort Knox (Me.)|<->|Fort Knox (Maine)
 Fort Knox Mine (Alaska)|=|Fort Knox Gold Mine
 Fort Laramie, Treaty of, 1851|=|Treaty of Fort Laramie (1851)
 Fort Laramie National Historic Site (Wyo.)|=|Fort Laramie National Historic Site
+Fort Leavenworth (Kan.)|=|Fort Leavenworth
 Fort Mackinac (Mackinac Island, Mich.)|=|Fort Mackinac
 Fort Macleod (Alta.)|=|Fort Macleod
 Fort Macon (N.C.)|->|Fort Macon State Park
@@ -14152,6 +14172,8 @@ Lord Dunmore's War, 1774|=|Lord Dunmore's War
 Lord Nelson Class (Steam locomotives)|<->|SR Lord Nelson class
 Lord of the Rings roleplaying game|=|The Lord of the Rings Roleplaying Game
 Lord of the Rings Strategy Battle Game|=|The Lord of the Rings Strategy Battle Game
+Lord's Cricket Ground (London, England)|<->|Lord's
+Lord's Media Centre (Lord's Cricket Ground, London, England)|=|Lord's Media Centre
 Lord's Supper|<->|Eucharist
 Lord's Supper -- Catholic Church|=|Eucharist in the Catholic Church
 Lord's Supper -- Real presence|=|Real presence of Christ in the Eucharist
@@ -14554,6 +14576,7 @@ Malaysia Airlines Flight 370 Incident, 2014|<->|Malaysia Airlines Flight 370
 Malbec (Wine)|<->|Malbec
 Malbone Street Wreck, New York, N.Y., 1918|=|Malbone Street Wreck
 Malcolm's Mills, Battle of, Ont., 1814|=|Battle of Malcolm's Mills
+Malcolm X Boulevard (New York, N.Y.)|<->|Lenox Avenue
 Maldon, Battle of, England, 991|=|Battle of Maldon
 Male (African people)|=|Maale people
 Male friendship|<->|Male bonding
@@ -14597,6 +14620,7 @@ Malvern Hills (England : Mountains)|=|Malvern Hills
 Malwa (Madhya Pradesh and Rajasthan, India)|<->|Malwa
 Malware (Computer software)|=|Malware
 Maly Trostinec (Concentration camp)|=|Maly Trostenets extermination camp
+Mamara language|=|Minyanka language
 Mambae (East Timorese people)|=|Mambai
 Mambai language (Cameroon and Chad)|=|Mangbai language
 Mambila (African people)|=|Mambila
@@ -15486,6 +15510,8 @@ Milwaukee (Wis.) -- Politics and government|<->|Government of Milwaukee
 Mimas (Satellite)|=|Mimas (moon)
 Mimidae|=|Mimid
 Mimosaceae|<->|Mimosoideae
+Mina (Indic people)|=|Meena
+Mina language (Cameroon)|=|Hina language
 Minangkabau (Indonesian people)|=|Minangkabau people
 Minas (N.S.) Expedition, 1747|<->|Battle of Grand Pré
 Minas Gerais (Brazil)|=|Minas Gerais
@@ -15549,6 +15575,7 @@ Miranda (Venezuela : State)|=|Miranda (state)
 Mirandese dialect|=|Mirandese language
 Mirdasid dynasty, 1023-1080|=|Mirdasid dynasty
 Mirdit&euml; (Albania)|<->|Mirditë District
+Miri (Indic people)|=|Mishing people
 Miri&ntilde;ay River (Argentina)|<->|Miriñay River
 Mirna River (Croatia)|=|Mirna (Croatia)
 Mirror Lake State Park (Wis.)|=|Mirror Lake State Park
@@ -15620,6 +15647,7 @@ Mnazi Bay Ruvuma Estuary Marine Park (Tanzania)|=|Mnazi Bay-Ruvuma Estuary Marin
 Mnemonics|=|Mnemonic
 Mnemosyne (Asteroid)|=|57 Mnemosyne
 Mo language (C&ocirc;te d'Ivoire and Ghana)|=|Deg language
+Moba (African people)|<->|Bimoba people
 Mobile (Ala.) -- History|=|History of Mobile, Alabama
 Mobile (Ala.) -- History -- Civil War, 1861-1865|=|Mobile, Alabama in the American Civil War
 Mobile (Ala.) -- History -- Siege, 1780|<->|Battle of Fort Charlotte
@@ -15733,6 +15761,7 @@ Monitor National Marine Sanctuary (Agency : U.S.)|->|Monitor National Marine San
 Monitor National Marine Sanctuary (N.C.)|=|Monitor National Marine Sanctuary
 Monitor Range (Nev.)|=|Monitor Range
 Monitorial system of education|=|Monitorial System
+Monjombo language|<->|Monzombo language
 Monkeys|=|Monkey
 Monks|=|Monk
 Monksfield (Race horse)|=|Monksfield
@@ -16087,6 +16116,7 @@ Murgab River (Afghanistan and Turkmenistan)|<->|Murghab River
 Murgas (Musical groups)|<->|Murga
 Murle (African people)|=|Murle people
 Murray River (N.S.W.-S.A.)|=|Murray River
+Murzu (African people)|=|Mursi people
 Musa Dagh, Defense of, Turkey, 1915|<->|Musa Dagh
 M&umacr;s&aacute; Qal'eh (Afghanistan)|=|Musa Qala
 Musa Qala, Battle of, M&umacr;s&aacute; Qal'eh, Afghanistan, 2007|=|Battle of Musa Qala
@@ -17321,6 +17351,7 @@ Object-oriented programming (Computer science)|=|Object-oriented programming
 Object-oriented programming languages|<->|List of object-oriented programming languages
 Objections (Evidence)|<->|Objection (law)
 Objective-C (Computer program language)|=|Objective-C
+ObjectPAL (Computer program language)|=|ObjectPAL
 Obligado, Battle of, Argentina, 1845|=|Battle of Vuelta de Obligado
 Obodrites|=|Obotrites
 Obolo (African people)|=|Obolo people
@@ -17765,9 +17796,11 @@ Ophelia (Fictitious character)|=|Ophelia
 Ophthalmic lenses|<->|Corrective lens
 Opium abuse|->|Opium
 Opium trade|->|Opium
+OPL (Computer program language)|=|Optimization Programming Language
 Oppland fylke (Norway)|=|Oppland
 Opportunity costs|=|Opportunity cost
 Opposition (Political science)|=|Opposition (politics)
+OPS5 (Computer program language)|=|OPS5
 Optical communications|=|Optical communication
 Optical illusions|=|Optical illusion
 Optical instruments|=|Optical instrument
@@ -18291,6 +18324,7 @@ Parkesia|=|Waterthrush
 Parkland (Alta. : County)|=|Parkland County
 Parks|=|Park
 Parliamentary practice|=|Parliamentary procedure
+PARLOG (Computer program language)|=|Parlog
 Parma (Italy)|=|Parma
 Parma and Piacenza (Duchy)|<->|Duchy of Parma
 Parmigiano Reggiano cheese|=|Parmigiano-Reggiano
@@ -22134,6 +22168,7 @@ Sitka spruce|=|Picea sitchensis
 Sitkinak Island (Alaska)|=|Sitkinak Island
 Sitotroga cerealella|=|Angoumois grain moth
 Sittang River, Battle of the, Burma, 1945|<->|Battle of the Sittang Bend
+Situation comedies (Television programs)|<->|Sitcom
 Situational awareness|=|Situation awareness
 Situation ethics|=|Situational ethics
 Situk River (Alaska)|=|Situk River
@@ -23930,6 +23965,7 @@ Threespine stickleback|<->|Three-spined stickleback
 Thresher (Submarine : SS-200)|=|USS Thresher (SS-200)
 Thresher (Submarine : SSN-593)|=|USS Thresher (SSN-593)
 Threshold limit values (Industrial toxicology)|=|Threshold limit value
+Thrillers (Motion pictures)|=|Thriller film
 Throat-ogre (Crustacea)|<->|Lernaeocera branchialis
 Thrush (Mouth disease)|<->|Oral candidiasis
 Thugga (Extinct city)|=|Dougga
@@ -25372,6 +25408,8 @@ Variation (Biology)|<->|Variation
 Variations|<->|Variation (music)
 Variegated Glacier (Alaska)|=|Variegated Glacier
 Varietal wines|=|Varietal
+Variety shows (Radio programs)|->|Variety show
+Variety shows (Television programs)|<->|Variety show
 Varna (Bulgaria)|=|Varna
 Varna, Battle of, Varna, Bulgaria, 1444|=|Battle of Varna
 Varnsdorf (Czech Republic)|=|Varnsdorf
