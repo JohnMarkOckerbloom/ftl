@@ -2236,7 +2236,7 @@ NAME Butte County Library
 LOCATION Butte County
 STATE CA
 CATTYPE koha
-BASEURL http://library.buttecounty.net/
+BASEURL http://butte.bywatersolutions.com/
 
 ID OCLC-CCT
 NAME California Lutheran University
@@ -2430,12 +2430,13 @@ STATE CA
 CATTYPE eds
 LCODE loyola
 
+# record duplicated for Sausalito
 ID OCLC-MARIN
 NAME MARINet
 LOCATION Public libraries in Marin County
 STATE CA
-BASEURL http://discovery.marinet.lib.ca.us/iii/encore
-CATTYPE encore
+CATTYPE bibliocommons
+BASEURL https://marinet.bibliocommons.com
 
 ID OCLC-JRD
 NAME Monterey Public Library
@@ -2515,7 +2516,7 @@ NAME Riverside Public Library
 LOCATION Riverside
 STATE CA
 BASEURL http://read.riversideca.gov
-CATTYPE webpacpro
+CATTYPE polaris
 
 ID OCLC-RSV
 NAME Roseville Public Library
@@ -2623,6 +2624,14 @@ STATE CA
 CATTYPE bibliocommons
 BASEURL https://smpl.bibliocommons.com
 
+# duplicate of MARINet record
+ID OCLC-JRU
+NAME Sausalito Public Library
+LOCATION Sausalito; member of MARINet
+STATE CA
+CATTYPE bibliocommons
+BASEURL https://marinet.bibliocommons.com
+
 ID OCLC-JDTBL
 NAME SNAP: Solano, Napa and Partners Library Consortium
 LOCATION Solano and Napa counties
@@ -2704,8 +2713,11 @@ ID OCLC-CUV
 NAME University of California Davis
 LOCATION Davis
 STATE CA
-BASEURL http://harvest.lib.ucdavis.edu
-CATTYPE aleph1
+CATTYPE primodl-loc
+VID O1UCD_V1
+BASEURL http://search.library.ucdavis.edu
+LCODE 01UCD
+LOC adaptor,scope:("01UCD"),primo_central_multiple_fe
 
 ID OCLC-CUI
 NAME University of California Irvine
@@ -8164,6 +8176,13 @@ LOCATION Laramie
 STATE WY
 CATTYPE summon
 BASEURL http://uwyo.summon.serialssolutions.com
+
+ID UZAMBIALIB
+NAME University of Zambia
+LOCATION Lusaka
+COUNTRY ZM
+CATTYPE sirsi
+BASEURL http://e-library.unza.zm/uhtbin/cgisirsi.exe
 
 ID OCLC-W8I
 NAME University of Zimbabwe
