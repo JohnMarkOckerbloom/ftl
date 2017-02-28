@@ -3132,15 +3132,16 @@ ID OCLC-FMP
 NAME Columbia County Public Library
 LOCATION Lake City
 STATE FL
-BASEURL http://www.ccpl.sirsi.net
-CATTYPE rooms
+BASEURL http://ccpl.ent.sirsi.net
+CATTYPE sirsient
+LCODE en_US/default
 
 ID OCLC-FJE
 NAME Edward Waters College
 LOCATION Jacksonville
 STATE FL
-BASEURL http://ewc.sirsi.net/uhtbin/cgisirsi
-CATTYPE sirsi
+BASEURL https://edwardwaterscollegelibrary.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-GF7
 NAME Flagler County Public Library System
@@ -3167,8 +3168,8 @@ ID OCLC-FMC
 NAME Florida Memorial University
 LOCATION Miami Gardens
 STATE FL
-BASEURL http://encore.fmuniv.edu/iii/encore
-CATTYPE encore
+BASEURL https://floridamemorialuniversity.on.worldcat.org/external-search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-FDA
 NAME Florida State University
@@ -3279,12 +3280,21 @@ STATE FL
 BASEURL http://pasco.bywatersolutions.com
 CATTYPE koha
 
+# here temporarily (but suppressed in list) for back-compatibility (Feb 2017)
+# expecting Pinellas Co. users to shift over to OCLC-PI8
 ID OCLC-FLX
 NAME Pinellas Automated Library System
 LOCATION Clearwater, St. Petersburg and Pinellas County
+COUNTRY SUPPRESS
+CATTYPE sirsient
+BASEURL https://pplc.ent.sirsi.net
+
+ID OCLC-PI8
+NAME Pinellas Public Library Cooperative
+LOCATION Clearwater, St. Petersburg and Pinellas County
 STATE FL
-BASEURL https://pals.polarislibrary.com/polaris
-CATTYPE polaris
+CATTYPE sirsient
+BASEURL https://pplc.ent.sirsi.net
 
 ID OCLC-FSA
 NAME Saint Leo University
@@ -3304,7 +3314,7 @@ ID OCLC-FCS
 NAME Seminole County Public Library
 LOCATION Seminole County
 STATE FL
-BASEURL http://elibrary.seminolecountyfl.gov/uhtbin/cgisirsi.exe
+BASEURL https://semc.sirsi.net/uhtbin/cgisirsi
 CATTYPE sirsi
 
 ID OCLC-FSS
@@ -3346,12 +3356,16 @@ STATE FL
 CATTYPE summon
 BASEURL http://ufl.summon.serialssolutions.com
 
+# http://miami-primo.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do;jsessionid=8C75498961E6DC3B377433ADA7FB11AB?fn=search&ct=search&initialSearch=true&mode=Basic&tab=everything&indx=1&dum=true&srt=rank&vid=uml&frbg=&tb=t&vl%28freeText0%29=wuthering+heights&scp.scps=scope%3A%2801UOML_DIGITALCOMMONS%29%2Cscope%3A%2801UOML_CONTENTDM%29%2Cscope%3A%28%2201UOML%22%29%2Cscope%3A%2801UOML_ALMA%29%2Cprimo_central_multiple_fe&vl%28984357461UI1%29=all_items&vl%281UIStartWith0%29=contains&vl%28672718000UI0%29=any&vl%28672718000UI0%29=title&vl%28672718000UI0%29=any
 ID OCLC-FNM
 NAME University of Miami Libraries
 LOCATION Coral Gables
 STATE FL
-CATTYPE summon
-BASEURL http://miami.summon.serialssolutions.com
+BASEURL http://miami-primo.hosted.exlibrisgroup.com
+CATTYPE primodl-loc
+VID uml
+LCODE 01UOML
+LOC adaptor,scope:(01UOML_DIGITALCOMMONS),scope:(01UOML_CONTENTDM),scope:("01UOML"),scope:(01UOML_ALMA),primo_central_multiple_fe
 
 ID OCLC-FNP
 NAME University of North Florida
@@ -3368,6 +3382,16 @@ LOCATION Tampa
 STATE FL
 BASEURL http://usf.catalog.fcla.edu/sf.jsp
 CATTYPE fcla
+
+ID OCLC-FDB
+NAME Volusia County Public Library
+LOCATION Daytona Beach, Deltona, and vicinity
+STATE FL
+BASEURL http://catalog.volusialibrary.org/vcplvw
+CATTYPE vubislink
+AINDEX 1*authbibnew
+SINDEX 1*subjbibnew
+FILTERS NK
 
 ID OCLC-ALQ
 NAME Albany State University

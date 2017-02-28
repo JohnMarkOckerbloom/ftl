@@ -517,7 +517,6 @@ AUTURL ${BASEURL}?searchArg=${ARG:S}&searchCode=NKEY*&searchType=1&limitTo=${LCO
 TITURL ${BASEURL}?searchArg=${ARG:A}&searchCode=TALL&searchType=1&limitTo=${LCODE}
 KEYURL ${BASEURL}?searchArg=${ARG}&searchCode=GKEY^*&searchType=1&limitTo=${LCODE}
 
-
 CATTYPE vubis
 DBID 1
 KINDEX 1*Keywordsbib
@@ -529,6 +528,20 @@ SUBURL ${BASEURL}/List.csp?Database=${DBID}&OpacLanguage=eng&SearchMethod=Find_1
 AUTURL ${BASEURL}/List.csp?Database=${DBID}&OpacLanguage=eng&SearchMethod=Find_1&NumberToRetrieve=50&Profile=${PROFILE}&PreviousList=Start&PageType=Start&WebPageNr=1&WebAction=NewSearch&StartValue=1&RowRepeat=0&Index1=${AINDEX}&SearchT1=${ARG}
 TITURL ${BASEURL}/List.csp?Database=${DBID}&OpacLanguage=eng&SearchMethod=Find_1&NumberToRetrieve=50&Profile=${PROFILE}&PreviousList=Start&PageType=Start&WebPageNr=1&WebAction=NewSearch&StartValue=1&RowRepeat=0&Index1=${TINDEX}&SearchT1=${ARG}
 KEYURL ${BASEURL}/List.csp?Database=${DBID}&OpacLanguage=eng&SearchMethod=Find_1&NumberToRetrieve=50&Profile=${PROFILE}&PreviousList=Start&PageType=Start&WebPageNr=1&WebAction=NewSearch&StartValue=1&RowRepeat=0&Index1=${KINDEX}&SearchT1=${ARG}
+
+# This is the syntax used by Volusia (might work better than above)
+CATTYPE vubislink
+DBID 1
+KINDEX 1*Keywordsbib
+SINDEX 1*subjbibnew
+AINDEX 1*authbibnew
+TINDEX 1*Titlebib
+PROFILE Default
+METHOD Find_2
+SUBURL ${BASEURL}/LinkToVubis.csp?Profile=${PROFILE}&Database=${DBID}&Language=eng&SearchMethod=${METHOD}&Index=${SINDEX}&SearchTerm=${ARG}
+AUTURL ${BASEURL}/LinkToVubis.csp?Profile=${PROFILE}&Database=${DBID}&Language=eng&SearchMethod=${METHOD}&Index=${AINDEX}&SearchTerm=${ARG}
+TITURL ${BASEURL}/LinkToVubis.csp?Profile=${PROFILE}&Database=${DBID}&Language=eng&SearchMethod=${METHOD}&Index=${TINDEX}&SearchTerm=${ARG}
+KEYURL ${BASEURL}/LinkToVubis.csp?Profile=${PROFILE}&Database=${DBID}&Language=eng&SearchMethod=${METHOD}&Index=${KINDEX}&SearchTerm=${ARG}
 
 CATTYPE vufind
 TINDEX Title
