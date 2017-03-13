@@ -168,9 +168,8 @@ ID AU-XNLS
 NAME Northern Territory Library
 LOCATION Darwin, Northern Territory
 COUNTRY AU
-BASEURL http://libraries.nt.gov.au
-CATTYPE chamo
-FILTERS S
+BASEURL https://ntl.on.worldcat.org/external-search?queryString
+CATTYPE worldcat-config
 
 ID AU-QUT
 NAME Queensland University of Technology
@@ -405,7 +404,7 @@ ID OCLC-UAU
 NAME University of Calgary
 LOCATION Calgary
 PROVINCE AB
-BASEURL http://webapps2.ucalgary.ca/~lcrtest
+BASEURL http://itlibsearchp01.ucalgary.ca
 KEYURL ${BASEURL}/search/index.php?q=${ARG}
 
 ID OCLC-CN4UL
@@ -598,10 +597,9 @@ ID OCLC-CNWIN
 NAME Winnipeg Public Library
 LOCATION Winnipeg
 PROVINCE MB
-BASEURL http://wpl-pac.winnipeg.ca
-CATTYPE ipac20
-PROFILE wpl
-SINDEX .SW
+CATTYPE sirsient
+BASEURL http://winca.ent.sirsidynix.net
+LCODE en_US/default
 
 ID OCLC-CNNEW
 NAME New Brunswick Public Library Service
@@ -686,14 +684,14 @@ ID OCLC-WDTGS
 NAME Greater Sudbury Public Library
 LOCATION Sudbury and vicinity
 PROVINCE ON
-CATTYPE encore
-BASEURL http://encore.sudbury.library.on.ca/iii/encore
+CATTYPE bibliocommons
+BASEURL https://gspl.bibliocommons.com
 
 ID OCLC-CNGUP
 NAME Guelph Public Library
 LOCATION Guelph
 PROVINCE ON
-BASEURL http://catalog.library.guelph.on.ca/polaris
+BASEURL http://catalog.guelphpl.ca/polaris
 CATTYPE polaris
 
 ID OCLC-CNHML
@@ -828,11 +826,11 @@ ID OCLC-OTZ
 NAME University of Ottawa
 LOCATION Ottawa
 PROVINCE ON
-BASEURL http://catalogue.bib.uottawa.ca/html/results.jsp?language=en&loc=0
-SUBURL ${BASEURL}&whr=5&trms=${ARG}
-AUTURL ${BASEURL}&whr=2&trms=${ARG}
-TITURL ${BASEURL}&whr=3&trms=${ARG}
-KEYURL ${BASEURL}&whr=1&trms=${ARG}
+CATTYPE primodl-scope
+BASEURL http://uottawa-primo.hosted.exlibrisgroup.com
+VID UOTTAWA
+LCODE UOTTAWA
+SCOPE default
 
 ID OCLC-UTM
 NAME University of Toronto
@@ -860,12 +858,16 @@ PROVINCE ON
 BASEURL http://uwo.summon.serialssolutions.com
 CATTYPE summon
 
+# http://primo-pmtna01.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=UWINDSOR&frbg=&tb=t&vl%28freeText0%29=wuthering+heights&scp.scps=scope%3A%28UWINDSOR_COURSE%29%2Cscope%3A%28%22UWINDSOR%22%29%2Cscope%3A%28UWINDSOR_DIGITALCOMMONS%29%2Cprimo_central_multiple_fe
 ID OCLC-CWI
 NAME University of Windsor, Leddy Library
 LOCATION Windsor
 PROVINCE ON
-BASEURL http://windsor.concat.ca/eg/opac
-CATTYPE evergreen-dynamic
+CATTYPE primodl-loc
+BASEURL http://primo-pmtna01.hosted.exlibrisgroup.com
+VID UWINDSOR
+LCODE UWINDSOR
+LOC adaptor,scope:(UWINDSOR_COURSE),scope:("UWINDSOR"),scope:(UWINDSOR_DIGITALCOMMONS),primo_central_multiple_fe
 
 ID OCLC-CNWLU
 NAME Waterloo Public Library
@@ -1392,7 +1394,7 @@ ID OCLC-UGUCU
 NAME Uganda Christian University
 LOCATION Mukono
 COUNTRY UG
-BASEURL http://library.ucu.ac.ug
+BASEURL http://catalogue.library.ucu.ac.ug
 CATTYPE koha
 FILTERS S
 
