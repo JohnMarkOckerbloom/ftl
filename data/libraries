@@ -4,7 +4,7 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2017-02-07
+# Last updated 2017-03-13
 
 ID OLBP
 NAME The Online Books Page
@@ -858,7 +858,6 @@ PROVINCE ON
 BASEURL http://uwo.summon.serialssolutions.com
 CATTYPE summon
 
-# http://primo-pmtna01.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=UWINDSOR&frbg=&tb=t&vl%28freeText0%29=wuthering+heights&scp.scps=scope%3A%28UWINDSOR_COURSE%29%2Cscope%3A%28%22UWINDSOR%22%29%2Cscope%3A%28UWINDSOR_DIGITALCOMMONS%29%2Cprimo_central_multiple_fe
 ID OCLC-CWI
 NAME University of Windsor, Leddy Library
 LOCATION Windsor
@@ -906,7 +905,7 @@ NAME Prince Edward Island Public Library Service
 LOCATION Public libraries across the province
 PROVINCE PE
 CATTYPE sirsi
-BASEURL http://24.224.240.218/uhtbin/cgisirsi.exe
+BASEURL http://catalogue.library.pe.ca/uhtbin/cgisirsi.exe
 
 # Looks like they have a custom "everything" search, keyword-only
 ID OCLC-B2Q
@@ -942,8 +941,8 @@ ID OCLC-CNSIL
 NAME Saskatchewan Information and Library Services Consortium
 LOCATION Public libraries across the province
 PROVINCE SK
-CATTYPE encore
-BASEURL http://encore.sasklibraries.ca/iii/encore
+BASEURL http://catalogue.sasklibraries.ca
+CATTYPE polaris
 
 # Uses Ariane catalog (custom?)
 # searches via this method tend to skew English, but have decent hit counts
@@ -979,15 +978,16 @@ CATTYPE tlc
 LCODE ysm
 BASEURL http://yclibw.yukoncollege.yk.ca/
 
+# http://hu-berlin.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?fn=search&ct=search&vl(freeText0)=Shakespeare+William+1564+1616&fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=hub_ub&frbg=
 ID DE-11
 NAME Humboldt-Universit&auml;t zu Berlin
 LOCATION Berlin; English search terms may give limited results
 COUNTRY DE
-CATTYPE primodl-scope
-BASEURL http://primo.kobv.de
+CATTYPE primodl-loc
+BASEURL http://hu-berlin.hosted.exlibrisgroup.com
 VID hub_ub
 LCODE HUB
-SCOPE HUB_ALL
+LOC adaptor,scope:(HUB_UB_ALMA),primo_central_multiple_fe
 
 # We'll use the Odense Central Library's ID for this consortial OPAC
 ID DK-746100
