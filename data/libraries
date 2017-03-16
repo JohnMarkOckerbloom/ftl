@@ -1995,7 +1995,7 @@ ID OCLC-TUS
 NAME Tuskegee University Libraries
 LOCATION Tuskegee Institute
 STATE AL
-BASEURL http://shbfuni.tuskegee.edu/uhtbin/cgisirsi.exe
+BASEURL http://tusk.sirsi.net/uhtbin/cgisirsi
 CATTYPE sirsi
 
 ID OCLC-ALM
@@ -2012,13 +2012,12 @@ STATE AL
 BASEURL https://uab.worldcat.org/search
 CATTYPE worldcat
 
-ID OCLC-H-DOLLAR-A
-WCRID 5738
-NAME Alaska Medical Library
-LOCATION Anchorage and online member access
+ID OCLC-ALKLC
+NAME Consortium Library: University of Alaska Anchorage, Alaska Pacific University
+LOCATION Anchorage
 STATE AK
-BASEURL http://amlmultisearch.deepwebaccess.com/amlmultisearch
-CATTYPE explorit
+CATTYPE summon
+BASEURL http://uaa.summon.serialssolutions.com
 
 ID OCLC-XYV
 NAME Alaska State Court Law Library
@@ -2062,12 +2061,12 @@ BASEURL http://catalog.firstcitylibraries.org/uhtbin/cgisirsi.exe
 CATTYPE sirsi
 
 ID OCLC-H8N
-NAME Haines Cooperative Libraries
+NAME Haines Borough Public Library
 LOCATION Haines Borough
 STATE AK
-BASEURL http://haines.evergreencatalog.com/eg/opac
-CATTYPE evergreen-dynamic
-FILTERS N
+CATTYPE sirsient
+LCODE haines
+BASEURL http://jlc-web.uaa.alaska.edu
 
 ID OCLC-Q2L
 NAME Juneau Public Libraries
@@ -6066,6 +6065,15 @@ LOCATION Cleveland
 STATE OH
 CATTYPE sirsient
 LCODE en_US/cpl-main
+BASEURL https://search.clevnet.org
+
+# Doesn't appear to have an OCLC ID of its own
+ID CLEVNET
+NAME CLEVNET
+LOCATION 43 library systems in northeast Ohio
+STATE OH
+CATTYPE sirsient
+LCODE en_US/clevnet
 BASEURL https://search.clevnet.org
 
 ID OCLC-WOO
