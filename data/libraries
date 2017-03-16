@@ -978,7 +978,6 @@ CATTYPE tlc
 LCODE ysm
 BASEURL http://yclibw.yukoncollege.yk.ca/
 
-# http://hu-berlin.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?fn=search&ct=search&vl(freeText0)=Shakespeare+William+1564+1616&fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=hub_ub&frbg=
 ID DE-11
 NAME Humboldt-Universit&auml;t zu Berlin
 LOCATION Berlin; English search terms may give limited results
@@ -1152,8 +1151,8 @@ ID OCLC-NRAMU
 NAME American University of Nigeria
 LOCATION Yola
 COUNTRY NG
-CATTYPE innopac
-BASEURL http://library.aun.edu.ng
+BASEURL http://libcat.aun.edu.ng
+CATTYPE koha
 
 ID OCLC-NRUNN
 NAME University of Nigeria, Nnamdi Azikiwe Library
@@ -1176,11 +1175,11 @@ LOC adaptor,scope:%28UBL_SFX%29%2Cscope%3A%28UBL_METALIB%29%2Cscope%3A%28UBL_DTL
 # ID a bit arbitrary here (for Infoserve service)
 ID OCLC-NZ@
 WCRID 110928
-NAME New Zealand Libraries' Catalogue
-LOCATION Union catalog of 280 libraries nationwide
+NAME Te Puna
+LOCATION Combined catalogue of New Zealand libraries
 COUNTRY NZ
-CATTYPE voyager-vwebv
-BASEURL http://nzlc.natlib.govt.nz/vwebv/search
+BASEURL https://tepuna.on.worldcat.org/external-search?queryString
+CATTYPE worldcat-config
 
 ID BIBSYSORIA
 NAME BibSys Oria
@@ -1221,8 +1220,8 @@ ID OCLC-SINTU
 NAME Nanyang Technological University
 LOCATION Singapore
 COUNTRY SG
-CATTYPE sirsi
-BASEURL http://opac3.ntu.edu.sg/uhtbin/cgisirsi
+CATTYPE eds
+LCODE s1140755
 
 ID OCLC-7F1
 NAME National Library Board (OneSearch)
@@ -1246,15 +1245,21 @@ ID OCLC-SISIM
 NAME Singapore Institute of Management
 LOCATION Singapore
 COUNTRY SG
-CATTYPE spydus
-BASEURL http://aries.sim.edu.sg
+CATTYPE primodl-scope
+BASEURL http://primo-direct-apac.hosted.exlibrisgroup.com
+VID 65SIM
+LCODE 65SIM
+SCOPE Everything
 
 ID OCLC-SISMU
 NAME Singapore Management University
 LOCATION Singapore
 COUNTRY SG
-BASEURL http://catalogue.library.smu.edu.sg
-CATTYPE webpacpro
+CATTYPE primodl-scope
+BASEURL http://search.library.smu.edu.sg
+VID SMU
+LCODE 65SMU
+SCOPE Everything
 
 ID OCLC-SGSUT
 NAME Singapore University of Technology and Design
@@ -1269,11 +1274,8 @@ LOC adaptor,scope:(65SUTD),primo_central_multiple_fe
 ID SWISSBIB
 NAME Swissbib
 LOCATION Union catalog of Swiss libraries; English search coverage may vary
-BASEURL http://www.swissbib.ch/TouchPoint/search.do
-SUBURL ${BASEURL}?methodToCall=submitButtonCall&methodToCallParameter=submitSearch&searchCategories[0]=600&searchString[0]=${ARG}&submitButtonCall_submitSearch=Search
-AUTURL ${BASEURL}?methodToCall=submitButtonCall&methodToCallParameter=submitSearch&searchCategories[0]=700&searchString[0]=${ARG}&submitButtonCall_submitSearch=Search
-TITURL ${BASEURL}?methodToCall=submitButtonCall&methodToCallParameter=submitSearch&searchCategories[0]=245&searchString[0]=${ARG}&submitButtonCall_submitSearch=Search
-KEYURL ${BASEURL}?methodToCall=submitButtonCall&methodToCallParameter=submitSearch&searchCategories[0]=-1&searchString[0]=${ARG}&submitButtonCall_submitSearch=Search
+BASEURL https://www.swissbib.ch
+CATTYPE vufind
 DEFAULT DOMAIN
 COUNTRY CH
 
@@ -1819,8 +1821,11 @@ ID OCLC-LTU
 NAME University of Leicester
 LOCATION Leicester, England
 COUNTRY UK
-CATTYPE summon
-BASEURL http://le.summon.serialssolutions.com
+CATTYPE primodl-loc
+BASEURL http://librarysearch.le.ac.uk
+VID 44UOLE_VU1
+LCODE 44UOLE
+LOC adaptor,scope:(44UOLE_DISSERTATIONS),scope:(44UOLE_DSPACE),scope:(44UOLE_CALM),scope:(44UOLE_ALMA),scope:(44UOLE_EXAM),scope:(44UOLE_CONTENTDM),primo_central_multiple_fe
 
 ID OCLC-EUM
 NAME University of Manchester
