@@ -2182,8 +2182,8 @@ ID OCLC-8AK
 NAME Central Arkansas Library System
 LOCATION Little Rock; Pulaski and Perry counties
 STATE AR
-BASEURL http://encore.cals.lib.ar.us/iii/encore
-CATTYPE encore
+CATTYPE bibliocommons
+BASEURL https://cals.bibliocommons.com
 
 ID OCLC-FAYTV
 NAME Fayetteville Public Library
@@ -6488,9 +6488,8 @@ ID OCLC-PGA
 NAME ACCESS Pennsylvania
 LOCATION Libraries across the state
 STATE PA
-BASEURL http://205.247.101.11
-CATTYPE iii-consortium-member
-LCODE NaN
+CATTYPE verso
+BASEURL https://accesspa.powerlibrary.org
 
 ID OCLC-BEA
 NAME Arcadia University, Landman Library
@@ -6594,11 +6593,11 @@ BASEURL http://catalog.einetwork.net
 CATTYPE innopac
 
 ID OCLC-EPL
-NAME Erie County Public Library
+NAME Erie County public libraries
 LOCATION Erie and vicinity
 STATE PA
-CATTYPE sirsient
-BASEURL http://ecls.ent.sirsi.net
+BASEURL http://catalog.erielibrary.org/polaris
+CATTYPE polaris
 
 ID OCLC-PGC
 NAME Geneva College
@@ -6618,8 +6617,8 @@ ID OCLC-HFC
 NAME Holy Family University
 LOCATION Philadelphia, Newtown, and Bensalem
 STATE PA
-BASEURL http://holy.sirsi.net/uhtbin/cgisirsi
-CATTYPE sirsi
+BASEURL https://holyfamily.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-KOL
 NAME King's College
@@ -6678,7 +6677,7 @@ ID OCLC-MNL
 NAME MCLINC
 LOCATION Montgomery County public libraries
 STATE PA
-BASEURL http://spica.mclinc.org/polaris
+BASEURL http://mclinc.polarislibrary.com/polaris
 CATTYPE polaris
 
 ID OCLC-CMZ
@@ -7852,6 +7851,13 @@ LCODE CC
 VID CC
 SCOPE cc_alma
 
+ID OCLC-XTQ
+NAME Columbia Basin College
+LOCATION Pasco
+STATE WA
+BASEURL http://libcat.columbiabasin.edu
+CATTYPE koha
+
 ID OCLC-WEA
 NAME Eastern Washington University
 LOCATION Cheney and Spokane
@@ -7946,7 +7952,7 @@ ID OCLC-AA5
 NAME Mount Vernon City Library
 LOCATION Mount Vernon
 STATE WA
-BASEURL http://library.mountvernonwa.org
+BASEURL https://mvern.ipac.sirsidynix.net
 CATTYPE ipac20
 PROFILE mv2
 
@@ -7997,8 +8003,8 @@ ID OCLC-TAW
 NAME Tacoma Public Library
 LOCATION Tacoma
 STATE WA
-CATTYPE encore
-BASEURL http://encore.tplonline.org/iii/encore
+CATTYPE bibliocommons
+BASEURL https://tacoma.bibliocommons.com
 
 ID OCLC-UOJ
 NAME Timberland Regional Library
