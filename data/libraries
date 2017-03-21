@@ -2856,12 +2856,11 @@ BASEURL http://afac.sirsi.net/uhtbin/cgisirsi
 CATTYPE sirsi
 
 ID OCLC-COD
-NAME University of Colorado at Boulder
+NAME University of Colorado Boulder
 LOCATION Boulder
 STATE CO
-CATTYPE encore
-SKIN cobalt
-BASEURL http://encore.colorado.edu/iii/encore
+CATTYPE summon
+BASEURL http://ucblibraries.summon.serialssolutions.com
 
 ID OCLC-BPT
 NAME Bridgeport Library
@@ -2904,15 +2903,15 @@ ID OCLC-GKX
 NAME Darien Library
 LOCATION Darien
 STATE CT
-BASEURL http://www.darienlibrary.org/catalog
-CATTYPE sopac
+BASEURL https://www.darienlibrary.org/catalog
+CATTYPE sopacnewer
 FILTERS NK
 
 ID OCLC-THS
 NAME Edsel Ford Memorial Library, Hotchkiss School
 LOCATION Lakeville
 STATE CT
-BASEURL http://bearcat.hotchkiss.org
+BASEURL https://bearcat.hotchkiss.org
 CATTYPE koha
 FILTERS N
 
@@ -3138,7 +3137,7 @@ ID OCLC-FMP
 NAME Columbia County Public Library
 LOCATION Lake City
 STATE FL
-BASEURL http://ccpl.ent.sirsi.net
+BASEURL https://ccpl.ent.sirsi.net
 CATTYPE sirsient
 LCODE en_US/default
 
@@ -3565,9 +3564,9 @@ ID OCLC-1OE
 NAME Boise Public Library
 LOCATION Boise
 STATE ID
-CATTYPE sirsient
-LCODE boise
-BASEURL http://lynx.ent.sirsi.net
+CATTYPE polaris-context
+BASEURL http://catalog.idaho-lynx.org/polaris
+CONTEXT 17.1033.0.0.5
 
 ID OCLC-OIP
 NAME Boise State University, Albertsons Library
@@ -3617,17 +3616,17 @@ ID OCLC-ZPJ
 NAME Meridian Library District
 LOCATION Meridian
 STATE ID
-CATTYPE sirsient
-LCODE mld
-BASEURL http://lynx.ent.sirsi.net
+CATTYPE polaris-context
+BASEURL http://catalog.idaho-lynx.org/polaris
+CONTEXT 31.1033.0.0.5
 
 ID OCLC-ZPP
 NAME Nampa Public Library
 LOCATION Nampa
 STATE ID
-CATTYPE sirsient
-LCODE npl
-BASEURL http://lynx.ent.sirsi.net
+CATTYPE polaris-context
+BASEURL http://catalog.idaho-lynx.org/polaris
+CONTEXT 37.1033.0.0.5
 
 ID OCLC-NTD
 NAME University of Idaho Library

@@ -443,6 +443,13 @@ TITURL ${BASEURL}/search/title/${ARG}
 AUTURL ${BASEURL}/search/author/${ARG}
 KEYURL ${BASEURL}/search/keyword/${ARG}
 
+# Some SOPAC sites now seem to prefer this syntax
+CATTYPE sopacnewer
+SUBURL ${BASEURL}/search/subject?search=${ARG}
+TITURL ${BASEURL}/search/title?search=${ARG}
+AUTURL ${BASEURL}/search/author?search=${ARG}
+KEYURL ${BASEURL}/search/keyword?search=${ARG}
+
 CATTYPE spydus
 SUBURL ${BASEURL}/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?ENTRY_NAME=SU&&ENTRY=${ARG:N}
 AUTURL ${BASEURL}/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?ENTRY_NAME=AU&&ENTRY=${ARG:N}
