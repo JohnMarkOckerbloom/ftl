@@ -1055,7 +1055,7 @@ ID OCLC-T9E
 NAME Institute of Technology Tallaght
 LOCATION Dublin
 COUNTRY IE
-BASEURL http://0-ittdublin.summon.serialssolutions.com.millennium.it-tallaght.ie
+BASEURL http://ittdublin.summon.serialssolutions.com
 CATTYPE summon
 
 ID LIBRARIESIRELAND
@@ -3899,6 +3899,14 @@ STATE IA
 BASEURL https://catalog.dubuque.lib.ia.us
 CATTYPE koha
 
+ID OCLC-LJW
+NAME Cedar Falls Public Library
+LOCATION Cedar Falls
+STATE IA
+CATTYPE sirsient
+BASEURL http://wcfpl.ent.sirsi.net
+LCODE en_US/cfpl
+
 ID OCLC-IWR
 NAME Cedar Rapids Public Library
 LOCATION Cedar Rapids
@@ -3968,9 +3976,9 @@ NAME University of Iowa Libraries
 LOCATION Iowa City
 STATE IA
 CATTYPE primodl
-BASEURL http://smartsearch.uiowa.edu
-VID uiowa
-LCODE uiowa
+BASEURL http://search.lib.uiowa.edu
+VID 01IOWA
+LCODE 01IOWA
 
 ID OCLC-IOU
 NAME Des Moines Public Library
@@ -4008,9 +4016,9 @@ ID OCLC-IWV
 NAME Waterloo Public Library
 LOCATION Waterloo
 STATE IA
-CATTYPE iii-consortium-member
-BASEURL http://unistar.uni.edu
-LCODE 7
+CATTYPE sirsient
+BASEURL http://wcfpl.ent.sirsi.net
+LCODE en_US/wpl
 
 ID OCLC-IMF
 NAME Allen County Public Library
