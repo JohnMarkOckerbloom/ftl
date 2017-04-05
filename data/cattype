@@ -158,13 +158,14 @@ KEYURL ${BASEURL}/tramp2.exe/do_keyword_search/guest&query={${ARG}}
 #  collection; I have not yet been able to verify if this overrides
 #  routing to local collection search at libraries that already have EDS)
 CATTYPE eds
-BASEURL http://search.ebscohost.com/login.aspx?direct=true&authtype=ip,guest
+BASEURL http://search.ebscohost.com/login.aspx?direct=true
 GID main
 PROFILE eds
-SUBURL ${BASEURL}&custid=${LCODE}&groupid=${GID}&profile=${PROFILE}&bquery=SU%20(${ARG})
-AUTURL ${BASEURL}&custid=${LCODE}&groupid=${GID}&profile=${PROFILE}&bquery=AU%20(${ARG:S})
-TITURL ${BASEURL}&custid=${LCODE}&groupid=${GID}&profile=${PROFILE}&bquery=TI%20(${ARG})
-KEYURL ${BASEURL}&custid=${LCODE}&groupid=${GID}&profile=${PROFILE}&bquery=(${ARG})
+AUTHTYPE ip,guest
+SUBURL ${BASEURL}&authtype=${AUTHTYPE}&custid=${LCODE}&groupid=${GID}&profile=${PROFILE}&bquery=SU%20(${ARG})
+AUTURL ${BASEURL}&authtype=${AUTHTYPE}&custid=${LCODE}&groupid=${GID}&profile=${PROFILE}&bquery=AU%20(${ARG:S})
+TITURL ${BASEURL}&authtype=${AUTHTYPE}&custid=${LCODE}&groupid=${GID}&profile=${PROFILE}&bquery=TI%20(${ARG})
+KEYURL ${BASEURL}&authtype=${AUTHTYPE}&custid=${LCODE}&groupid=${GID}&profile=${PROFILE}&bquery=(${ARG})
 
 CATTYPE encore
 SUBURL ${BASEURL}/search/C__Sd%3A%28${ARG}%29__Orightresult__U1?lang=eng&suite=${SKIN}

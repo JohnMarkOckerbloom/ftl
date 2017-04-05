@@ -1053,10 +1053,13 @@ FILTERS N
 
 ID OCLC-T9E
 NAME Institute of Technology Tallaght
-LOCATION Dublin
+LOCATION Dublin; local access only
 COUNTRY IE
-BASEURL http://ittdublin.summon.serialssolutions.com
-CATTYPE summon
+#BASEURL http://ittdublin.summon.serialssolutions.com
+#CATTYPE summon
+CATTYPE eds
+LCODE s3369085
+AUTHTYPE ip,uid
 
 ID LIBRARIESIRELAND
 NAME Libraries Ireland
@@ -4128,8 +4131,8 @@ ID OCLC-KTP
 NAME Topeka and Shawnee County Public Library
 LOCATION Topeka
 STATE KS
-BASEURL http://catalog.tscpl.org
-CATTYPE polaris
+CATTYPE bibliocommons
+BASEURL https://tscpl.bibliocommons.com
 
 ID OCLC-KKU
 NAME University of Kansas Libraries
@@ -4222,12 +4225,16 @@ CATTYPE voyager-vwebv-member
 BASEURL http://kctcs.kyvl.org/vwebv/search
 LCODE LOCA=Somerset+CC:+All
 
+# http://saa-primo.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?institution=UKY&vid=UKY&search_scope=default_scope&mode=Basic&displayMode=full&bulkSize=10&highlight=true&dum=true&query=any%2Ccontains%2Cwuthering+heights&displayField=all&pcAvailabiltyMode=false
 ID OCLC-KUK
 NAME University of Kentucky
 LOCATION Lexington
 STATE KY
-CATTYPE voyager-vwebv
-BASEURL http://infokat.uky.edu/vwebv/search
+CATTYPE primodl-scope
+BASEURL http://saa-primo.hosted.exlibrisgroup.com
+VID UKY
+LCODE UKY
+SCOPE default_scope
 
 ID OCLC-KLG
 NAME University of Louisville
