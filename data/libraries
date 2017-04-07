@@ -3364,7 +3364,6 @@ STATE FL
 CATTYPE summon
 BASEURL http://ufl.summon.serialssolutions.com
 
-# http://miami-primo.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do;jsessionid=8C75498961E6DC3B377433ADA7FB11AB?fn=search&ct=search&initialSearch=true&mode=Basic&tab=everything&indx=1&dum=true&srt=rank&vid=uml&frbg=&tb=t&vl%28freeText0%29=wuthering+heights&scp.scps=scope%3A%2801UOML_DIGITALCOMMONS%29%2Cscope%3A%2801UOML_CONTENTDM%29%2Cscope%3A%28%2201UOML%22%29%2Cscope%3A%2801UOML_ALMA%29%2Cprimo_central_multiple_fe&vl%28984357461UI1%29=all_items&vl%281UIStartWith0%29=contains&vl%28672718000UI0%29=any&vl%28672718000UI0%29=title&vl%28672718000UI0%29=any
 ID OCLC-FNM
 NAME University of Miami Libraries
 LOCATION Coral Gables
@@ -4225,7 +4224,6 @@ CATTYPE voyager-vwebv-member
 BASEURL http://kctcs.kyvl.org/vwebv/search
 LCODE LOCA=Somerset+CC:+All
 
-# http://saa-primo.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?institution=UKY&vid=UKY&search_scope=default_scope&mode=Basic&displayMode=full&bulkSize=10&highlight=true&dum=true&query=any%2Ccontains%2Cwuthering+heights&displayField=all&pcAvailabiltyMode=false
 ID OCLC-KUK
 NAME University of Kentucky
 LOCATION Lexington
