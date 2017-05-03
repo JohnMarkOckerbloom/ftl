@@ -9,7 +9,7 @@
 #   or lexical analysis (such as many geographical locations)
 #   are not included in this file.
 # See docs file for documentation
-# Last updated 2017-04-30
+# Last updated 2017-05-02
 # Did LCSH 2015 and 2016 update lists, 2017 lists 1-3
 1066 Country Walk (England)|=|1066 Country Walk
 119 (Locomotive)|=|Union Pacific No. 119
@@ -164,7 +164,6 @@ Acadia sport utility vehicle|=|GMC Acadia
 Acadia Valley (Alta.)|<->|Acadia Valley
 Acadians -- Nova Scotia -- History -- Expulsion, 1755|<->|Expulsion of the Acadians
 Acanthasteridae|->|Acanthaster
-Acanthopagrus butcheri|=|Southern black bream
 Acanthopanax|<->|Eleutherococcus
 Acanthopanax senticosus|=|Eleutherococcus senticosus
 Acapulco (Mexico)|=|Acapulco
@@ -1365,7 +1364,7 @@ Argonne, Battle of the, France, 1918|<->|Meuse-Argonne Offensive
 Argos (Greek mythology)|=|Argus Panoptes
 Argus Range (Calif.)|=|Argus Range
 Argyre Planitia (Mars)|=|Argyre Planitia
-Arhuaco Indians|=|Arhuaco people
+Arhuaco Indians|=|Arhuaco
 Ariaal (African people)|=|Ariaal people
 Arica, Battle of, Arica, Chile, 1880|=|Battle of Arica
 Arid regions agriculture|<->|Dryland farming
@@ -1728,6 +1727,7 @@ Atreus, King of Mycenae (Mythological character)|=|Atreus
 Atrix (Smartphone)|=|Motorola Atrix 4G
 Atrocities|=|Atrocity
 Attention-deficit hyperactivity disorder|=|Attention deficit hyperactivity disorder
+Attenuation (Physics)|=|Attenuation
 Attie (African people)|=|Attie
 Attie language|=|Attié language
 Attorneys general|=|Attorney general
@@ -3448,7 +3448,6 @@ Brahui (Pakistani people)|=|Brahui people
 Braich Goch Slate Mine (Wales)|=|Braichgoch slate mine
 Brain stem|=|Brainstem
 Brainerd International Raceway (Brainerd, Minn.)|=|Brainerd International Raceway
-Brainwashing|=|Mind control
 Brampton (Ont.)|=|Brampton
 Brampton (Ont.) -- History|=|History of Brampton
 Branching fractions (Nuclear physics)|->|Branching fraction
@@ -4093,7 +4092,7 @@ Canada. Canadian Forces Base (Suffield, Alta.)|=|CFB Suffield
 Canada -- Economic conditions|<->|Economy of Canada
 Canada -- History -- Confederation, 1867|=|Canadian Confederation
 Canada -- History -- Fenian Invasions, 1866-1870|=|Fenian raids
-Canada -- History -- Rebellion, 1837-1838|=|Rebellions of 1837
+Canada -- History -- Rebellion, 1837-1838|<->|Rebellions of 1837–1838
 Canada -- History -- Rebellion, 1837-1838|<-|Patriot War
 Canada -- History -- To 1763 (New France)|->|New France
 Canada -- History, Military|=|Military history of Canada
@@ -4893,7 +4892,7 @@ Chiang family|<->|Jiang (surname)
 Chianti wine|=|Chianti
 Chiapas (Mexico)|=|Chiapas
 Chiapas (Mexico) -- History -- Peasant Uprising, 1994-|<->|Chiapas conflict
-Chibcha Indians|<->|Muisca people
+Chibcha Indians|<->|Muisca
 Chibok Local Government Area (Nigeria)|=|Chibok
 Chicago and North Western Railway Company|->|Chicago and North Western Transportation Company
 Chicago Bears (Football team)|=|Chicago Bears
@@ -4980,7 +4979,7 @@ Chimanimani (Zimbabwe)|=|Chimanimani
 Chimanimani District (Zimbabwe)|=|Chimanimani District
 Chimariko Indians|=|Chimariko
 Chimborazo (Ecuador : Mountain)|=|Chimborazo
-Chimila Indians|=|Chimila people
+Chimila Indians|=|Chimila
 Chimney Rock (Kittitas County, Wash.)|=|Chimney Rock (Washington)
 Chimney Rock National Historic Site (Neb.)|=|Chimney Rock National Historic Site
 Chimney Rock National Monument (Colo.)|=|Chimney Rock National Monument
@@ -5312,7 +5311,6 @@ Cinco de Mayo (Mexican holiday)|<->|Cinco de Mayo
 Cinque Ports (England)|=|Cinque Ports
 Ciompi, Revolt of the, 1378|<->|Ciompi Revolt
 Ciphers|=|Cipher
-Circassian languages|<->|Circassian language
 Circassians|<->|Adyghe people
 Circle in the Square Theatre (Paramount Plaza : New York, N.Y.)|=|Circle in the Square Theatre
 Circle-squaring|=|Squaring the circle
@@ -9513,7 +9511,7 @@ France. D&eacute;claration des droits de l'homme et du citoyen|<->|Declaration o
 France. &Eacute;tats g&eacute;n&eacute;raux|=|Estates General (France)
 France -- Foreign relations|=|Foreign relations of France
 France -- History -- Bombardment, 1944|<->|Bombing of France during World War II
-France -- History -- Cabochien Uprising, 1413|=|Cabochien Revolt
+France -- History -- Cabochien Uprising, 1413|=|Cabochien revolt
 France -- History -- Coup d'&eacute;tat, 1797|=|Coup of 18 Fructidor
 France -- History -- Coup d'&eacute;tat, 1799|=|Coup of 18 Brumaire
 France -- History -- Coup d'&eacute;tat, 1851|=|French coup d'état of 1851
@@ -10080,7 +10078,7 @@ Germany -- Politics and government|<->|Politics of Germany
 Germany -- Religion|=|Religion in Germany
 Germany (East)|=|East Germany
 Germany (East) -- History -- Uprising, 1953|=|Uprising of 1953 in East Germany
-Germany. Reichsarbeitsdienst|=|Reichsarbeitsdienst
+Germany. Reichsarbeitsdienst|=|Reich Labour Service
 Germany (Territory under Allied occupation, 1945-1955). Control Council|=|Allied Control Council
 Germany. Treaties, etc. Soviet Union, 1922 April 16|<->|Treaty of Rapallo (1922)
 Germany. Treaties, etc. Soviet Union, 1939 August 23|=|Molotov–Ribbentrop Pact
@@ -11638,7 +11636,7 @@ Homestead Strike, Homestead, Pa., 1892|=|Homestead Strike
 Hominids|=|Hominidae
 Homology theory|<->|Homology (mathematics)
 Homosexuality -- Religious aspects|<->|Homosexuality and religion
-Homosexuality -- Religious aspects -- Catholic Church|<->|Homosexuality and Roman Catholicism
+Homosexuality -- Religious aspects -- Catholic Church|<->|Homosexuality and the Catholic Church
 Homosexuality -- Religious aspects -- Christianity|<->|Christianity and homosexuality
 Homosexuality -- Religious aspects -- Judaism|<->|Homosexuality and Judaism
 Homosexuality in animals|<->|Homosexual behavior in animals
@@ -12190,6 +12188,7 @@ Immunization of children -- United States|<->|Childhood immunizations in the Uni
 Immunoinformatics|<->|Computational immunology
 Imo Incident, Korea, 1882|=|Imo Incident
 Impeachments|=|Impeachment
+Impedance (Electricity)|=|Electrical impedance
 Imperator (Roman title)|=|Imperator
 Imperial automobile|=|Imperial (automobile)
 Imperial National Wildlife Refuge (Ariz. and Calif.)|=|Imperial National Wildlife Refuge
@@ -12492,7 +12491,7 @@ Intelligence officers|=|Intelligence officer
 Intelligence service|=|Intelligence agency
 Intelligent agents (Computer software)|=|Intelligent agent
 Intelligent design (Teleology)|=|Intelligent design
-Intelligent personal assistants (Computer software)|=|Intelligent personal assistant
+Intelligent personal assistants (Computer software)|<->|Virtual assistant (artificial intelligence)
 Intensive care units|=|Intensive care unit
 Inter-American Treaty of Reciprocal Assistance (1947 September 2)|=|Inter-American Treaty of Reciprocal Assistance
 InterCity 125 (Diesel locomotives)|<->|British Rail Class 43 (HST)
@@ -13352,7 +13351,7 @@ John F. Kennedy Space Center|=|Kennedy Space Center
 John H. Kerr Dam (Va.)|=|John H. Kerr Dam
 John H. Kerr Reservoir (Va. and N.C.)|=|Kerr Lake
 John Hancock Center (Chicago, Ill.)|=|John Hancock Center
-John Hancock Tower (Boston, Mass.)|=|200 Clarendon Street
+John Hancock Tower (Boston, Mass.)|=|John Hancock Tower
 John Henry (Legendary character)|=|John Henry (folklore)
 John Henry (Race horse)|=|John Henry (horse)
 John H. Chafee National Wildlife Refuge (R.I.)|=|John H. Chafee National Wildlife Refuge
@@ -13582,7 +13581,7 @@ Kangaroo grass|=|Themeda triandra
 Kango (African people)|=|Kango people
 Kanizsa, Battle of, Nagykanizsa, Hungary, 1601|<->|Siege of Nagykanizsa
 Kankanay (Philippine people)|=|Kankanaey people
-Kankuamo Indians|=|Kankuamo people
+Kankuamo Indians|=|Kankuamo
 Kannada language|=|Kannada
 K&amacr;npur (India)|=|Kanpur
 K&amacr;npur (India) -- History -- Siege, 1857|=|Siege of Cawnpore
@@ -15085,7 +15084,6 @@ Loglan (Artificial language)|=|Loglan
 Lognormal distribution|=|Log-normal distribution
 LOGO (Computer program language)|=|Logo (programming language)
 Logooli (African people)|=|Maragoli tribe (Luhya)
-Logooli language|=|Logoli language
 Logos (Christian theology)|=|Logos (Christianity)
 Logos (Symbols)|<->|Logo
 Logrolling (Aquatic sports)|=|Logrolling (sport)
@@ -15165,7 +15163,7 @@ Loons|=|Loon
 Loop 101 (Ariz.)|=|Arizona State Route 101
 Loop 202 (Ariz.)|=|Arizona State Route 202
 Loop 303 (Ariz.)|=|Arizona State Route 303
-Loop tiling (Computer science)|=|Loop tiling
+Loop tiling (Computer science)|<->|Loop nest optimization
 Loos, Battle of, Loos-en-Gohelle, France, 1915|=|Battle of Loos
 Loos-en-Gohelle (France)|=|Loos-en-Gohelle
 Loray Mill Strike, 1929|=|Loray Mill strike
@@ -15560,7 +15558,7 @@ Maine (Battleship)|=|USS Maine (ACR-1)
 Maine coon cat|=|Maine Coon
 Maine, Gulf of|=|Gulf of Maine
 Mainstreaming in education|=|Mainstreaming (education)
-Maintenance|<->|Maintenance, repair, and operations
+Maintenance|<->|Maintenance, repair and operations
 Maintenance and champerty|=|Champerty and maintenance
 Mainz (Rhineland-Palatinate, Germany)|=|Mainz
 Mainz (Rhineland-Palatinate, Germany) -- History -- Siege, 1793|=|Siege of Mainz (1793)
@@ -15992,7 +15990,7 @@ Masturbation -- Religious aspects -- Islam|=|Islam and masturbation
 Masturbation -- Religious aspects -- Judaism|=|Judaism and masturbation
 Masurian Lakes, Battles of the, Poland, 1914-1915|<->|Battle of the Masurian Lakes
 Mata Atl&acirc;ntica|=|Atlantic Forest
-Mata'Utu (Wallis and Futuna)|=|Mata-Utu
+Mata'Utu (Wallis and Futuna)|=|Mata Utu
 Mataco Indians|=|Wichí
 Mataco languages|=|Matacoan languages
 Matagalpa (Nicaragua : Department)|=|Matagalpa Department
@@ -16616,7 +16614,7 @@ Millets|=|Millet
 Millhone, Kinsey (Fictitious character)|=|Kinsey Millhone
 Milliken's Bend, Battle of, La., 1863|=|Battle of Milliken's Bend
 Millinery|<->|Hatmaking
-Million (The number)|=|Million
+Million (The number)|=|1,000,000
 Million Man March (1995 : Washington, D.C.)|=|Million Man March
 Millionaires|=|Millionaire
 Millmoor (Rotherham, England)|<->|Millmoor
@@ -16827,8 +16825,8 @@ Mohawk (Reconnaissance aircraft)|=|Grumman OV-1 Mohawk
 Mohawk River (N.Y.)|=|Mohawk River
 Mohawk River Valley (N.Y.)|=|Mohawk Valley
 Mohawk State Forest (Conn.)|=|Mohawk State Forest
-Mohegan Indian Tribe of Connecticut|=|Mohegan Indian Tribe
-Mohegan Indians|<->|Mohegan people
+Mohegan Indian Tribe of Connecticut|=|Mohegan Tribe
+Mohegan Indians|<->|Mohegan
 Moira Sound (Alaska)|=|Moira Sound
 Mojave National Preserve (Agency : U.S.)|->|Mojave National Preserve
 Mojave National Preserve (Calif.)|=|Mojave National Preserve
@@ -17091,7 +17089,7 @@ Mothers|=|Mother
 Mothra (Fictitious character)|=|Mothra
 Moths|=|Moth
 Motif description (Movement notation)|=|Motif description
-Motilon Indians|=|Motilon people
+Motilon Indians|=|Motilon
 Motion perception (Vision)|<->|Motion perception
 Motion picture authorship|<->|Screenwriting
 Motion picture film|<->|Film stock
@@ -17536,7 +17534,7 @@ National Sorry Day, Australia, 1998|<->|National Sorry Day
 National Student Educational Fund (U.S.)|=|National Student Educational Fund
 National Women's Trade Union League of America|=|Women's Trade Union League
 Nationalism -- Africa|<->|African nationalism
-Nationalism -- Albania|<->|Albanian nationalism
+Nationalism -- Albania|<->|Albanian nationalism in Albania
 Nationalism -- Algeria|<->|Algerian nationalism
 Nationalism -- Argentina|<->|Argentine nationalism
 Nationalism -- Austria|<->|Austrian nationalism
@@ -17804,6 +17802,7 @@ Neurotoxic agents|=|Neurotoxin
 Neurotoxicology|->|Neurotoxin
 Neurotransmitters|=|Neurotransmitter
 Neuse River (N.C.)|=|Neuse River
+Neutral density filters|=|Neutral-density filter
 Neutral Nation Indians|=|Neutral Nation
 Neutrality|<->|Neutral country
 Neuve-Chapelle (France)|=|Neuve-Chapelle
@@ -18457,7 +18456,7 @@ Nueces River Affair, Tex., 1862|=|Nueces massacre
 Nuer (African people)|=|Nuer people
 Nuevo Le&oacute;n (Mexico : State)|=|Nuevo León
 Nui Vu Hill, Battle of, Vietnam, 1966|=|Battle of Hill 488
-Nukak Indians|=|Nukak people
+Nukak Indians|=|Nukak
 Nullification (States' rights)|<->|Nullification (U.S. Constitution)
 Number 1 (Royal Crescent, Bath, England)|=|No. 1 Royal Crescent
 Number 10 Downing Street (London, England)|=|10 Downing Street
@@ -18675,12 +18674,12 @@ Okolona, Battle of, Miss., 1864|=|Battle of Okolona
 Okotoks (Alta.)|=|Okotoks
 Okrika (Nigeria)|<->|Okrika
 Oksywie Hill, Battle of, Poland, 1939|=|Battle of Kępa Oksywska
-Oktoberfest Bombing, Munich, Germany, 1980|=|Oktoberfest terror attack
+Oktoberfest Bombing, Munich, Germany, 1980|=|Oktoberfest bombing
 Okun (African people)|=|Okun people
 Olancha Peak (Calif.)|=|Olancha Peak
 OLAP technology|<->|Online analytical processing
 Olbia (Italy)|=|Olbia
-Olbia (Ukraine : Extinct city)|<->|Pontic Olbia (archaeological site)
+Olbia (Ukraine : Extinct city)|<->|Olbia (archaeological site)
 Old age pensions|->|Pension
 Old City (Philadelphia, Pa.)|=|Old City, Philadelphia
 Old City Hall (Boston, Mass.)|=|Old City Hall (Boston)
@@ -19368,7 +19367,7 @@ Paleolithic period|=|Paleolithic
 Palermo (Italy)|=|Palermo
 Palermo (Italy) -- History|=|History of Palermo
 Palermo, Battle of, Italy, 1676|=|Battle of Palermo
-Palestine -- History -- Arab rebellion, 1936-1939|=|1936–39 Arab revolt in Palestine
+Palestine -- History -- Arab rebellion, 1936-1939|=|1936–1939 Arab revolt in Palestine
 Palestine -- History -- Arab riots, 1920|<->|1920 Nebi Musa riots
 Palestine -- History -- Arab riots, 1929|<->|1929 Palestine riots
 Palestine -- History -- Partition, 1947|<->|United Nations Partition Plan for Palestine
@@ -19902,7 +19901,7 @@ Peqin (Albania : Rrethi)|=|Peqin District
 Pequannock (N.J.)|=|Pequannock Township, New Jersey
 Pequawket Indians|=|Pequawket
 Pequop Mountains (Nev.)|=|Pequop Mountains
-Pequot Indians|<->|Pequot people
+Pequot Indians|<->|Pequot
 Pequot War, 1636-1638|<->|Pequot War
 Perak (Malaysia)|=|Perak
 Perception (Philosophy)|<->|Philosophy of perception
@@ -19926,7 +19925,7 @@ Perfumes|=|Perfume
 Peri River (Turkey)|=|Peri River
 Pericu Indians|=|Pericúes
 Peril Strait (Alaska)|=|Peril Strait
-Perimyotis|->|Eastern pipistrelle
+Perimyotis|->|Tricolored bat
 Period (Punctuation)|=|Full stop
 Periodic table of the elements|=|Periodic table
 Periodicals|=|Periodical literature
@@ -20283,7 +20282,7 @@ Pit bull terriers|=|Pit bull
 Pita bread|=|Pita
 Pitcairn Islands -- Languages|=|Languages of the Pitcairn Islands
 Pitcairn-Norfolk language|<-|Norfuk language
-Pitcairn-Norfolk language|<->|Pitkern (language)
+Pitcairn-Norfolk language|<->|Pitkern language
 Pitch|=|Pitch (resin)
 Pitch pine|=|Pinus rigida
 Pitchers|=|Pitcher (container)
@@ -20458,7 +20457,7 @@ Poland -- History -- Revolution of 1848|<->|Greater Poland Uprising (1848)
 Poland -- History -- Second partition, 1793|=|Second Partition of Poland
 Poland -- History -- Third partition, 1795|=|Third Partition of Poland
 Poland -- History -- Uprising, 1956|<->|Polish October
-Poland -- History -- Uprising of Kostka Napierski, 1651|=|Kostka-Napierski Uprising
+Poland -- History -- Uprising of Kostka Napierski, 1651|=|Kostka-Napierski uprising
 Poland -- Politics and government|<->|Politics of Poland
 Polar Bear Expedition (1918-1919)|=|Polar Bear Expedition
 Polar Bridge Expedition (1988)|=|Soviet–Canadian 1988 Polar Bridge Expedition
@@ -20759,7 +20758,7 @@ Predicate (Logic)|<->|Predicate (mathematical logic)
 Preeclampsia|=|Pre-eclampsia
 Preemptive attack (Military science)|<->|Preemptive war
 Prefect, Ford|=|Ford Prefect (character)
-Preferential ballot|<->|Ranked voting system
+Preferential ballot|<->|Ranked voting
 Preferred provider organizations (Medical care)|=|Preferred provider organization
 Pregnancy, Unwanted|<->|Unintended pregnancy
 Pregnancy -- Complications|<->|Complications of pregnancy
@@ -21539,6 +21538,7 @@ RDX (Cyclonite)|=|RDX
 R&eacute; Expedition, 1627|<->|Siege of Saint-Martin-de-Ré (1627)
 Readability (Literary style)|<->|Readability
 Reacher, Jack (Fictitious character)|=|Jack Reacher
+Reactance (Electricity)|=|Electrical reactance
 Reaction mechanisms (Chemistry)|=|Reaction mechanism
 Readers|<->|Basal reader
 Readers' theater|=|Reader's theatre
@@ -21710,7 +21710,7 @@ Renovation (Architecture)|<->|Renovation
 Rent seeking|=|Rent-seeking
 Reorganized Church of Jesus Christ of Latter Day Saints|->|Community of Christ
 Reoviruses|=|Reoviridae
-Repairing|->|Maintenance, repair, and operations
+Repairing|->|Maintenance, repair and operations
 Reparation (Criminal justice)|<->|Reparation (legal)
 Repertory theater|=|Repertory theatre
 Replication (Experimental design)|<->|Reproducibility
@@ -24151,6 +24151,7 @@ Sound -- Recording and reproducing|=|Sound recording and reproduction
 Sound, Battle of the, 1658|=|Battle of the Sound
 Sound recordings|->|Sound recording and reproduction
 Sound recordings -- Album covers|<->|Album cover
+Sound-waves -- Attenuation|<->|Acoustic attenuation
 Sounding rockets|=|Sounding rocket
 Sounds|->|Sound
 Sour cherry|=|Prunus cerasus
@@ -24359,7 +24360,7 @@ Spectacular, The|<->|Spectacle
 Spectacular Bid (Race horse)|=|Spectacular Bid
 Spectral theory (Mathematics)|=|Spectral theory
 Spectre (Gunship)|=|Lockheed AC-130
-Spectre, The (Fictitious character)|=|Spectre (comics)
+Spectre, The (Fictitious character)|=|Spectre (character)
 Spectrum analysis|<->|Spectroscopy
 Speech acts (Linguistics)|=|Speech act
 Speech anxiety|<->|Glossophobia
@@ -26097,7 +26098,7 @@ Transverse Mercator projection (Cartography)|=|Transverse Mercator projection
 Transverse Ranges (Calif.)|=|Transverse Ranges
 Transylvania (Romania)|=|Transylvania
 Transylvania (Romania) -- History|=|History of Transylvania
-Transylvania (Romania) -- History -- Peasant Uprising, 1437-1438|<->|Peasant Revolt of Babolna
+Transylvania (Romania) -- History -- Peasant Uprising, 1437-1438|<->|Peasant revolt of Babolna
 Transylvania (Romania) -- History -- Peasant Uprising, 1784|<->|Revolt of Horea, Cloșca and Crișan
 Trappers|=|Trapper
 Trapshooting|=|Trap shooting
@@ -26181,7 +26182,7 @@ Treshnish Isles (Scotland)|=|Treshnish Isles
 Trevilian Station, Battle of, Va., 1864|=|Battle of Trevilian Station
 Treviso (Italy)|=|Treviso
 Treviso (Italy) -- History -- Bombardment, 1944|=|Bombing of Treviso in World War II
-Tri-colored bat|=|Eastern pipistrelle
+Tri-colored bat|=|Tricolored bat
 Triads (Organized crime)|<->|Triad (organized crime)
 Triads (Sociology)|<->|Triad (sociology)
 Triage (Medicine)|=|Triage
@@ -27008,7 +27009,7 @@ United States. Voting Rights Act of 1965|=|Voting Rights Act of 1965
 United States. White House Office|=|White House Office
 Unity School of Christianity|<->|Unity Church
 Universal carrier (Armored military vehicle)|=|Universal Carrier
-Universal Mobile Telecommunications System|=|UMTS (telecommunication)
+Universal Mobile Telecommunications System|=|UMTS
 Universal Negro Improvement Association|=|Universal Negro Improvement Association and African Communities League
 Universal Studios Florida (Orlando, Fla. : Amusement park)|=|Universal Studios Florida
 Universal Studios Hollywood (Los Angeles, Calif.)|<->|Universal Studios Hollywood
@@ -27429,7 +27430,7 @@ Vietnam War, 1961-1975 -- Campaigns -- Cambodia|<->|Cambodian Campaign
 Vietnam War, 1961-1975 -- Casualties|<->|Vietnam War casualties
 Vietnam War, 1961-1975 -- Missing in action|<->|Vietnam War POW/MIA issue
 Vietnam War, 1961-1975 -- Motion pictures and the war|<->|Vietnam War in film
-Vietnam War, 1961-1975 -- Protest movements|<->|Protests against the Vietnam War
+Vietnam War, 1961-1975 -- Protest movements|<->|Lists of protests against the Vietnam War
 Vietnam War, 1961-1975 -- Protest movements -- United States|<->|Opposition to United States involvement in the Vietnam War
 Vietnam War, 1961-1975 -- Songs and music|<->|List of songs about the Vietnam War
 Vietnam War, 1961-1975 -- United States|<->|Role of the United States in the Vietnam War
@@ -27667,7 +27668,7 @@ Walrus Islands (Alaska)|=|Walrus Islands
 Walt Disney World (Fla.)|=|Walt Disney World
 Walter F. George Reservoir (Ala. and Ga.)|=|Walter F. George Lake
 Walter Sisulu University for Technology &amp; Science|=|Walter Sisulu University
-Wampanoag Indians|=|Wampanoag people
+Wampanoag Indians|=|Wampanoag
 Wanat, Battle of, Afghanistan, 2008|=|Battle of Wanat
 Wancho (Indic people)|=|Wancho people
 Wanetsi dialect|=|Wanetsi
