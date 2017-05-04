@@ -357,6 +357,13 @@ PROVINCE AB
 CATTYPE bibliocommons
 BASEURL https://fspl.bibliocommons.com
 
+ID OCLC-GPRCL
+NAME Grande Prairie Regional College
+LOCATION Grande Prairie and other northwestern Alberta campuses
+PROVINCE AB
+CATTYPE eds
+LCODE s8416556
+
 ID OCLC-CNLET
 NAME Lethbridge Public Library
 LOCATION Lethbridge
@@ -3906,7 +3913,7 @@ NAME Cedar Falls Public Library
 LOCATION Cedar Falls
 STATE IA
 CATTYPE sirsient
-BASEURL http://wcfpl.ent.sirsi.net
+BASEURL https://wcfpl.ent.sirsi.net
 LCODE en_US/cfpl
 
 ID OCLC-IWR
@@ -4019,7 +4026,7 @@ NAME Waterloo Public Library
 LOCATION Waterloo
 STATE IA
 CATTYPE sirsient
-BASEURL http://wcfpl.ent.sirsi.net
+BASEURL https://wcfpl.ent.sirsi.net
 LCODE en_US/wpl
 
 ID OCLC-IMF
@@ -4287,7 +4294,7 @@ ID OCLC-LAZ
 NAME LSU Alexandria, Bolton Library
 LOCATION Alexandria
 STATE LA
-BASEURL https://lsua.louislibraries.org:6903/uhtbin/cgisirsi
+BASEURL https://lsua.louislibraries.org/uhtbin/cgisirsi
 CATTYPE sirsi
 
 ID OCLC-LNC
@@ -4311,15 +4318,16 @@ STATE LA
 BASEURL http://unicorn.shreve-lib.org/uhtbin/cgisirsi
 CATTYPE sirsi
 
+# http://tulprimo.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?institution=TUL&vid=tref&onCampus=true&group=GUEST&higlight=true&dym=true&bulkSize=20&mode=Basic&query=any,contains,wuthering%20heights&search_scope=books%2b
 ID OCLC-RQH
 NAME Tulane University
 LOCATION New Orleans
 STATE LA
-BASEURL http://tulprimo.hosted.exlibrisgroup.com:1701
-CATTYPE primodl-loc
+BASEURL http://tulprimo.hosted.exlibrisgroup.com
+CATTYPE primodl-scope
 VID tref
 LCODE TUL
-LOC local,scope:(TUL_VOYAGER)
+SCOPE books%2b
 
 ID OCLC-WFPLA
 NAME West Feliciana Parish Library
@@ -4333,14 +4341,14 @@ ID OCLC-LNU
 NAME University of New Orleans, Long Library
 LOCATION New Orleans
 STATE LA
-BASEURL https://uno.louislibraries.org:5503/uhtbin/cgisirsi
-CATTYPE sirsi
+CATTYPE eds
+LCODE s8872037
 
 ID OCLC-LNX
 NAME Xavier University of Louisiana
 LOCATION New Orleans
 STATE LA
-BASEURL https://xavier.louislibraries.org:8603/uhtbin/cgisirsi
+BASEURL https://xavier.louislibraries.org/uhtbin/cgisirsi
 CATTYPE sirsi
 
 ID OCLC-9BY
