@@ -4318,7 +4318,6 @@ STATE LA
 BASEURL http://unicorn.shreve-lib.org/uhtbin/cgisirsi
 CATTYPE sirsi
 
-# http://tulprimo.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?institution=TUL&vid=tref&onCampus=true&group=GUEST&higlight=true&dym=true&bulkSize=20&mode=Basic&query=any,contains,wuthering%20heights&search_scope=books%2b
 ID OCLC-RQH
 NAME Tulane University
 LOCATION New Orleans
