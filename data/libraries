@@ -1796,6 +1796,17 @@ CATTYPE sirsient
 BASEURL http://swan.ent.sirsidynix.net.uk
 LCODE en_GB/default
 
+# http://whel-primo.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do;jsessionid=F5DF1FA2A87D950ED1E0CA04191C6FB0?fn=search&ct=search&initialSearch=true&mode=Basic&tab=tab1&indx=1&dum=true&srt=rank&vid=44WHELF_SWA_VU1&frbg=&tb=t&vl%28freeText0%29=wuthering+heights&scp.scps=scope%3A%2844WHELF_SWA_ALMA_DS%29&vl%28119149442UI0%29=any&vl%28119149442UI0%29=title&vl%28119149442UI0%29=any&Submit=Apply+Search+Limits
+ID OCLC-SNU
+NAME Swansea University Libraries
+LOCATION Swansea, Wales
+COUNTRY UK
+CATTYPE primodl-loc
+BASEURL http://whel-primo.hosted.exlibrisgroup.com
+VID 44WHELF_SWA_VU1
+LCODE 44WHELF_SWA
+LOC local,scope:(44WHELF_SWA_ALMA_DS)
+
 ID OCLC-LUN
 NAME University College London
 LOCATION London, England
@@ -4911,17 +4922,12 @@ STATE MN
 BASEURL https://hamline.worldcat.org/search
 CATTYPE worldcat
 
-# Hennepin now seems to have a custom search 
 ID OCLC-HCO
 NAME Hennepin County Library
 LOCATION Minneapolis and vicinity
 STATE MN
-BASEURL https://apps.hclib.org/catalog/results.cfm
-SUBURL ${BASEURL}?subject=${ARG}
-AUTURL ${BASEURL}?author=${ARG}
-TITURL ${BASEURL}?title=${ARG}
-ATIURL ${BASEURL}?author=${AUTHOR}&title=${TITLE}
-KEYURL ${BASEURL}?all=${ARG}
+CATTYPE bibliocommons
+BASEURL https://hclib.bibliocommons.com
 
 ID OCLC-MNM
 NAME Minnesota State University
@@ -5072,9 +5078,8 @@ ID OCLC-KCP
 NAME Kansas City Public Library
 LOCATION Kansas City
 STATE MO
-CATTYPE sirsient
-BASEURL http://catalog.kclibrary.org
-LCODE kclibrary
+BASEURL https://kclibrary.bibliocommons.com
+CATTYPE bibliocommons
 
 ID OCLC-LIU
 NAME Lincoln University
@@ -5201,8 +5206,8 @@ ID OCLC-MUU
 NAME University of Missouri Libraries
 LOCATION Columbia
 STATE MO
-CATTYPE summon
-BASEURL http://missouri.summon.serialssolutions.com
+CATTYPE eds
+LCODE s8436643
 
 ID OCLC-WTU
 NAME Washington University Libraries
