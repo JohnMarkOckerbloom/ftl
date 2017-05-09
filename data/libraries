@@ -4794,7 +4794,7 @@ ID OCLC-EZH
 NAME Flint Public Library
 LOCATION Flint
 STATE MI
-BASEURL http://catalog.fpl.info
+BASEURL http://fplcatalog.polarislibrary.com/polaris
 CATTYPE polaris
 
 ID OCLC-EXR
@@ -4853,9 +4853,10 @@ NAME Oakland Community College
 LOCATION various Oakland County campuses
 STATE MI
 BASEURL http://catalog.dalnet.lib.mi.us
-CATTYPE ipac20
-PROFILE occ
-SINDEX .SW
+CATTYPE primodl
+BASEURL http://dalnet-primo.hosted.exlibrisgroup.com
+VID 01DAL_OCC
+LCODE 01DAL_OCC
 
 ID OCLC-ENZ
 NAME Petoskey District Library
@@ -7263,6 +7264,13 @@ AINDEX .AH
 KINDEX .GH
 TINDEX .TH
 PROFILE webcat
+
+ID OCLC-T7L
+NAME Helen Hall Library
+LOCATION League City
+STATE TX
+BASEURL http://catalog.leaguecitylibrary.org/uhtbin/cgisirsi
+CATTYPE sirsi
 
 ID OCLC-TXN 
 NAME Houston Public Library
