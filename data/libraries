@@ -4,7 +4,7 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2017-03-13
+# Last updated 2017-05-11
 
 ID OLBP
 NAME The Online Books Page
@@ -1796,7 +1796,6 @@ CATTYPE sirsient
 BASEURL http://swan.ent.sirsidynix.net.uk
 LCODE en_GB/default
 
-# http://whel-primo.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do;jsessionid=F5DF1FA2A87D950ED1E0CA04191C6FB0?fn=search&ct=search&initialSearch=true&mode=Basic&tab=tab1&indx=1&dum=true&srt=rank&vid=44WHELF_SWA_VU1&frbg=&tb=t&vl%28freeText0%29=wuthering+heights&scp.scps=scope%3A%2844WHELF_SWA_ALMA_DS%29&vl%28119149442UI0%29=any&vl%28119149442UI0%29=title&vl%28119149442UI0%29=any&Submit=Apply+Search+Limits
 ID OCLC-SNU
 NAME Swansea University Libraries
 LOCATION Swansea, Wales
@@ -5231,12 +5230,15 @@ CATTYPE sirsient
 LCODE en_US/default
 BASEURL http://mtsc.sdp.sirsi.net
 
+# http://msu-primo.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?fn=search&vid=01TRAILS_MSU&vl%28freeText0%29=wuthering+heights
 ID OCLC-MZF
 NAME Montana State University Library
 LOCATION Bozeman
 STATE MT
-CATTYPE summon
-BASEURL http://montana.summon.serialssolutions.com
+CATTYPE primodl
+BASEURL http://msu-primo.hosted.exlibrisgroup.com
+VID 01TRAILS_MSU
+LCODE 01TRAILS_MSU
 
 ID OCLC-MZJ
 NAME Montana Tech of the University of Montana
@@ -5372,12 +5374,13 @@ BASEURL https://catalog.bccls.org/polaris
 CATTYPE polaris
 
 ID OCLC-BUN
-NAME Burlington County College
-LOCATION Pemberton and Mount Laurel
+NAME Rowan College at Burlington County
+LOCATION Mount Laurel and other campuses
 STATE NJ
 CATTYPE sirsient
-LCODE bcc
-BASEURL http://catalog.bcc.edu
+CATTYPE polaris-context
+BASEURL http://bcls.polarislibrary.com/polaris
+CONTEXT 24.1033.0.0.6
 
 ID OCLC-BUL
 NAME Burlington County Library System
@@ -5390,8 +5393,8 @@ ID OCLC-NCL
 NAME CamCat
 LOCATION Camden County Library System, and Camden County College
 STATE NJ
-BASEURL http://iii.camden.lib.nj.us
-CATTYPE innopac
+BASEURL http://camden.bywatersolutions.com
+CATTYPE koha
 
 ID OCLC-HUN
 NAME Hunterdon County Library
