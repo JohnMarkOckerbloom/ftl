@@ -8,6 +8,7 @@
 #  correspondences that are auto-derived from IDs (such as names)
 #   or lexical analysis (such as many geographical locations)
 #   are not included in this file.
+# Manual title and name-title correspondences have been moved to wikiworksmap.
 # See docs file for documentation
 # Last updated 2017-05-11
 # Did LCSH 2015 and 2016 update lists, 2017 lists 1-3
@@ -1984,7 +1985,6 @@ Babungo (African people)|=|Vengo people
 Babungo language|=|Vengo language
 Baby boom generation|=|Baby boomers
 Babylon (Extinct city)|<->|Babylon
-Babylon 5 (Television program)|<->|Babylon 5
 BAC Jet Provost (Training plane)|=|BAC Jet Provost
 BAC One-Eleven (Jet transports)|=|BAC One-Eleven
 BAC TSR 2 (Jet attack plane)|=|BAC TSR-2
@@ -2005,10 +2005,7 @@ Back Bay (Boston, Mass.)|=|Back Bay, Boston
 Back Bay National Wildlife Refuge (Va.)|=|Back Bay National Wildlife Refuge
 Back propagation (Artificial intelligence)|=|Backpropagation
 Back to Africa movement|=|Back-to-Africa movement
-Back to the future (Motion picture)|=|Back to the Future
 Back to the Future films|<->|Back to the Future (franchise)
-Back to the future part II (Motion picture)|=|Back to the Future Part II
-Back to the future part III (Motion picture)|=|Back to the Future Part III
 Backache|<->|Back pain
 Backache|<-|Low back pain
 Backfield play (Football)|<->|Offensive backfield
@@ -2357,9 +2354,6 @@ Battleford (Sask.)|=|Battleford
 Battles|=|Battle
 Battleship (Race horse)|=|Battleship (horse)
 Battleships|=|Battleship
-Battlestar Galactica (Television program : 1978-1979)|=|Battlestar Galactica (1978 TV series)
-Battlestar Galactica (Television program : 2003)|=|Battlestar Galactica (miniseries)
-Battlestar Galactica (Television program : 2004-2009)|=|Battlestar Galactica (2004 TV series)
 Batu Caves (Selangor, Malaysia)|=|Batu Caves
 Batuque (Cult)|->|Candomblé
 Baturyn (Ukraine)|=|Baturyn
@@ -2414,7 +2408,6 @@ Bear Butte (S.D. : Mountain)|=|Bear Butte
 Bear Creek (Jackson County, Or.)|=|Bear Creek (Rogue River)
 Bear Creek Reservoir (Ala.)|=|Bear Creek Reservoir
 Bear Flag Revolt, 1846|<->|California Republic
-Bear in the Big Blue House (Television program)|=|Bear in the Big Blue House
 Bear Lake National Wildlife Refuge (Agency : U.S.)|->|Bear Lake National Wildlife Refuge
 Bear Lake National Wildlife Refuge (Idaho)|=|Bear Lake National Wildlife Refuge
 Bear Lodge Mountains (Wyo.)|=|Bear Lodge Mountains
@@ -2707,82 +2700,7 @@ Bia&lstrok;ystok (Poland)|=|Białystok
 Bia&lstrok;ystok (Poland) -- History -- Bia&lstrok;ystok Ghetto Uprising, 1943|=|Białystok Ghetto uprising
 Bibendum (Advertising character)|=|Michelin Man
 BIBFRAME (Conceptual model)|=|BIBFRAME
-Bible. Acts|=|Acts of the Apostles
-Bible. Amos|=|Book of Amos
-Bible. Apocrypha. Baruch|<->|Book of Baruch
-Bible. Apocrypha. Ecclesiasticus|=|Sirach
-Bible. Apocrypha. Epistle of Jeremiah|<->|Letter of Jeremiah
-Bible. Apocrypha. Judith|=|Book of Judith
-Bible. Apocrypha. Maccabees, 1st|=|1 Maccabees
-Bible. Apocrypha. Maccabees, 2nd|=|2 Maccabees
-Bible. Apocrypha. Tobit|=|Book of Tobit
-Bible. Apocrypha. Wisdom of Solomon|=|Book of Wisdom
-Bible. Chronicles|=|Books of Chronicles
-Bible. Colossians|=|Epistle to the Colossians
-Bible. Corinthians, 1st|=|First Epistle to the Corinthians
-Bible. Corinthians, 2nd|=|Second Epistle to the Corinthians
-Bible. Daniel|=|Book of Daniel
-Bible. Deuteronomy|=|Book of Deuteronomy
-Bible. Ecclesiastes|=|Ecclesiastes
-Bible. Ephesians|=|Epistle to the Ephesians
-Bible. Epistle of John, 1st|=|First Epistle of John
-Bible. Epistle of John, 2nd|=|Second Epistle of John
-Bible. Epistle of John, 3rd|=|Third Epistle of John
-Bible. Esther|=|Book of Esther
-Bible. Exodus|=|Book of Exodus
-Bible. Ezekiel|=|Book of Ezekiel
-Bible. Ezra|=|Book of Ezra
-Bible. Galatians|=|Epistle to the Galatians
-Bible. Genesis|=|Book of Genesis
-Bible. Habakkuk|=|Book of Habakkuk
-Bible. Haggai|=|Book of Haggai
-Bible. Hebrews|=|Epistle to the Hebrews
-Bible. Hosea|=|Book of Hosea
-Bible. Isaiah|=|Book of Isaiah
-Bible. James|=|Epistle of James
-Bible. Jeremiah|=|Book of Jeremiah
-Bible. Job|=|Book of Job
-Bible. Joel|=|Book of Joel
-Bible. John|=|Gospel of John
-Bible. Jonah|=|Book of Jonah
-Bible. Joshua|=|Book of Joshua
-Bible. Jude|=|Epistle of Jude
-Bible. Judges|=|Book of Judges
-Bible. Kings|=|Books of Kings
-Bible. Lamentations|=|Book of Lamentations
-Bible. Leviticus|=|Book of Leviticus
-Bible. Luke|=|Gospel of Luke
-Bible. Malachi|=|Book of Malachi
-Bible. Mark|=|Gospel of Mark
-Bible. Matthew|=|Gospel of Matthew
-Bible. Micah|=|Book of Micah
-Bible. Nahum|=|Book of Nahum
-Bible. Nehemiah|=|Book of Nehemiah
-Bible. New Testament|=|New Testament
-Bible. Numbers|=|Book of Numbers
-Bible. Obadiah|=|Book of Obadiah
-Bible. Old Testament|<->|Old Testament
-Bible. Old Testament|<-|Hebrew Bible
-Bible. Old Testament|<-|Tanakh
-Bible. Peter, 1st|=|First Epistle of Peter
-Bible. Peter, 2nd|=|Second Epistle of Peter
-Bible. Philemon|=|Epistle to Philemon
-Bible. Philippians|=|Epistle to the Philippians
 Bible -- Prophecies|=|Bible prophecy
-Bible. Proverbs|=|Book of Proverbs
-Bible. Psalms|=|Psalms
-Bible. Revelation|=|Book of Revelation
-Bible. Romans|=|Epistle to the Romans
-Bible. Ruth|=|Book of Ruth
-Bible. Samuel|=|Books of Samuel
-Bible. Song of Solomon|=|Song of Songs
-Bible. Thessalonians, 1st|=|First Epistle to the Thessalonians
-Bible. Thessalonians, 2nd|=|Second Epistle to the Thessalonians
-Bible. Timothy, 1st|=|First Epistle to Timothy
-Bible. Timothy, 2nd|=|Second Epistle to Timothy
-Bible. Titus|=|Epistle to Titus
-Bible. Zechariah|=|Book of Zechariah
-Bible. Zephaniah|=|Book of Zephaniah
 Bible and homosexuality|=|The Bible and homosexuality
 Bible and science|->|Relationship between religion and science
 Bible stories|=|Bible story
@@ -2812,13 +2730,6 @@ Big Bird (Fictitious character)|=|Big Bird
 Big Blowup, 1910|=|Great Fire of 1910
 Big Blue, Battle of the, Mo., 1864|<->|Battle of Byram's Ford
 Big Boys (Steam locomotives)|=|Union Pacific Big Boy
-Big brother (Television program : Australia)|<->|Big Brother (Australian TV series)
-Big brother (Television program : Germany)|<->|Big Brother Germany
-Big brother (Television program : Great Britain)|<->|Big Brother (UK TV series)
-Big brother (Television program : Netherlands)|<->|Big Brother (Dutch TV series)
-Big brother (Television program : Poland)|<->|Big Brother (Polish TV series)
-Big brother (Television program : South Africa)|<->|Big Brother (South African TV series)
-Big brother Brasil (Television program)|=|Big Brother Brasil
 Big Brother television programs|<->|Big Brother (franchise)
 Big Burro Mountains (N.M.)|=|Big Burro Mountains
 Big Creek (Forsyth County and Fulton County, Ga.)|=|Vickery Creek
@@ -3292,7 +3203,6 @@ Bon (Tibetan religion)|=|Bon
 Bon Secour National Wildlife Refuge (Ala.)|=|Bon Secour National Wildlife Refuge
 Bonanno family|<->|Bonanno
 Bonanza (Private planes)|=|Beechcraft Bonanza
-Bonanza (Television program)|=|Bonanza
 Bonaparte family|<->|House of Bonaparte
 Bond, James (Fictitious character)|<->|James Bond (literary character)
 Bondage (Sexual behavior)|=|Bondage (BDSM)
@@ -3508,7 +3418,6 @@ Brazilian states|=|States of Brazil
 Breadcrumb sponge|=|Halichondria panicea
 Breadfield, Battle of, Romania, 1479|=|Battle of Breadfield
 Break-even analysis|<->|Break-even (economics)
-Breaking bad (Television program : 2008-2013 )|=|Breaking Bad
 Breaks Interstate Park (Va. and Ky.)|=|Breaks Interstate Park
 Breakwaters|=|Breakwater (structure)
 Breast -- Cancer|=|Breast cancer
@@ -3606,8 +3515,6 @@ Broadway Theatre (New York, N.Y. : 1445 Broadway)|=|Broadway Theatre (41st Stree
 Broadway Theatre (New York, N.Y. : 1681 Broadway)|=|Broadway Theatre (53rd Street)
 Brodnicki Park Krajobrazowy (Poland)|=|Brodnica Landscape Park
 Broken Age (Game)|=|Broken Age
-Broken arrow (Motion picture : 1950)|=|Broken Arrow (1950 film)
-Broken arrow (Motion picture : 1996)|=|Broken Arrow (1996 film)
 Br&ouml;msebro, Treaty of, 1645|=|Second Treaty of Brömsebro (1645)
 Bronco (Reconnaissance aircraft)|=|North American Rockwell OV-10 Bronco
 Broneirion (Wales)|=|Broneirion
@@ -3735,8 +3642,6 @@ Buffalo Sabres (Hockey team)|=|Buffalo Sabres
 Buffelgrass|=|Cenchrus ciliaris
 Buffets (Cooking)|=|Buffet
 Buffy the Vampire Slayer (Fictitious character)|=|Buffy Summers
-Buffy, the vampire slayer (Motion picture)|=|Buffy the Vampire Slayer (film)
-Buffy, the vampire slayer (Television program)|=|Buffy the Vampire Slayer
 Bugaboo Scrub Fire, 2007|=|Bugaboo Scrub Fire
 Bugaboos (B.C.)|=|The Bugaboos
 Buglere language|=|Buglere
@@ -4360,7 +4265,6 @@ Casa Malpais Ruins (Ariz.)|=|Casa Malpaís
 Casa Serra (Barcelona, Spain)|=|Casa Serra
 Casablanca (Morocco)|=|Casablanca
 Casablanca (Morocco) -- History|=|History of Casablanca
-Casablanca (Motion picture)|=|Casablanca (film)
 Casadepaga River (Alaska)|=|Casadepaga River
 Casas Viejas Massacre, Benalup de Sidonia, Spain, 1933|<->|Casas Viejas massacre
 Cascade Creek (Teton County, Wyo.)|=|Cascade Creek (Grand Teton National Park)
@@ -5616,14 +5520,12 @@ Cola drinks|=|Cola
 Colchester (England) -- History -- Siege, 1648|=|Siege of Colchester
 Cold (Disease)|=|Common cold
 Cold agglutinin syndrome|=|Cold agglutinin disease
-Cold case (Television program)|=|Cold Case
 Cold cases (Criminal investigation)|=|Cold case
 Cold Harbor, Battle of, Va., 1864|=|Battle of Cold Harbor
 Cold Lake (Alta.)|=|Cold Lake, Alberta
 Cold Lake (Alta. : Lake)|<->|Cold Lake (Alberta)
 Cold Lake Air Weapons Range (Alta. and Sask.)|<->|CFB Cold Lake
 Cold Mountain (Haywood County, N.C.)|=|Cold Mountain (North Carolina)
-Cold Mountain (Motion picture)|=|Cold Mountain (film)
 Cold waves (Meteorology)|=|Cold wave
 Colditz (Germany)|=|Colditz
 Cole (Ship)|<->|USS Cole (DDG-67)
@@ -6891,7 +6793,6 @@ Dakota War, Minnesota, 1862|=|Dakota War of 1862
 Dale (Fictitious character : Disney)|->|Chip 'n' Dale
 Dalgliesh, Adam (Fictitious character)|=|Adam Dalgliesh
 Dall Island (Alaska)|=|Dall Island
-Dallas (Television program)|=|Dallas (1978 TV series)
 Dallas (Tex.)|=|Dallas
 Dallas Cowboys (Football team)|=|Dallas Cowboys
 Dallas Mavericks (Basketball team)|=|Dallas Mavericks
@@ -6926,7 +6827,6 @@ Dance schools|=|Dance studio
 Dancehall (Music)|=|Dancehall
 Dancer's Image (Race horse)|=|Dancer's Image
 Dancers|->|Dance
-Dancing with the stars (Television program)|<->|Dancing with the Stars
 Dandakaranya (India)|=|Dandakaranya
 Dandies|=|Dandy
 Daniel, Mount (Wash.)|=|Mount Daniel
@@ -6959,7 +6859,6 @@ Dart Herald (Transport planes)|=|Handley Page Dart Herald
 Dart River/Te Awa Whakatipu (N.Z.)|=|Dart River (Otago)
 Darters (Fishes)|=|Darter (fish)
 Dartmoor (England)|<->|Dartmoor
-Darwin, Charles, 1809-1882. On the origin of species|=|On the Origin of Species
 Darwin (N.T.) -- History|=|History of Darwin
 Darwin (N.T.) -- History -- Bombardment, 1942|=|Bombing of Darwin
 Darwin Mountains (Antarctica)|=|Darwin Mountains
@@ -7707,7 +7606,6 @@ Duchess Class (Steam locomotives)|<->|LMS Coronation Class
 Duchies|=|Duchy
 Ducie Atoll (Pitcairn Islands)|=|Ducie Island
 Duck, Donald (Fictitious character)|=|Donald Duck
-Duck dynasty (Television program)|=|Duck Dynasty
 Ducks|=|Duck
 Dude ranches|=|Guest ranch
 Dudley (England)|=|Dudley
@@ -8709,7 +8607,6 @@ Evolution|<->|Evolution (term)
 Evolution (Biology)|=|Evolution
 Evolution Series (Diesel locomotives)|=|GE Evolution Series
 Evolve (Game)|=|Evolve (video game)
-Evolve (Television program)|=|Evolve (TV series)
 &Eacute;vora (Portugal)|=|Évora
 Ewe (African people)|=|Ewe people
 Examinations|=|Test (assessment)
@@ -9113,7 +9010,6 @@ Firearms -- Law and legislation -- Mexico|<->|Gun laws in Mexico
 Firearms -- Law and legislation -- South Africa|<->|Firearm legislation in South Africa
 Firearms -- Law and legislation -- United States|<->|Gun law in the United States
 Firebird automobile|=|Pontiac Firebird
-Fireman Sam (Television program)|=|Fireman Sam
 Fireplaces|=|Fireplace
 Fires|->|Fire
 Fireships|=|Fire ship
@@ -9845,7 +9741,6 @@ Gagauz (Turkic people)|=|Gagauz people
 Gagu language|=|Gban language
 Gaines' Mill, Battle of, Va., 1862|=|Battle of Gaines's Mill
 Gainesville Lake (Ala.)|=|Gainesville Lake (Alabama)
-Galactica 1980 (Television program)|=|Galactica 1980
 Galaxies|=|Galaxy
 Galaxy (Jet transport)|=|Lockheed C-5 Galaxy
 Gale, Dorothy (Fictitious character)|=|Dorothy Gale
@@ -10409,7 +10304,6 @@ Golconda (India)|=|Golkonda
 Golconda (India) -- History -- Siege, 1687|=|Siege of Golconda
 Gold King Mine (San Juan County, Colo.)|<->|2015 Gold King Mine waste water spill
 Gold mines and mining|<->|Gold mining
-Gold rush Alaska (Television program)|=|Gold Rush (TV series)
 Goldbach conjecture|=|Goldbach's conjecture
 Golden Bay (Tasman District, N.Z.)|=|Golden Bay
 Golden calf (Bible)|=|Golden calf
@@ -10880,7 +10774,6 @@ Grover (Fictitious character : Henson)|=|Grover
 Growler Valley (Ariz.)|=|Growler Valley
 Growlers (Electrical engineering)|=|Growler (electrical device)
 Growth factors|=|Growth factor
-Gruber, Franz Xaver, 1787-1863. Stille Nacht, heilige Nacht|=|Silent Night
 Grumman Avenger (Torpedo bomber)|=|Grumman TBF Avenger
 Grumman Mallard (Amphibian plane)|=|Grumman G-73 Mallard
 Grumman Tracker (Antisubmarine aircraft)|=|Grumman S-2 Tracker
@@ -11349,8 +11242,6 @@ Heat waves (Meteorology)|=|Heat wave
 Heathcliff (Fictitious character : Bront&euml;)|=|Heathcliff (Wuthering Heights)
 Heathkit H-8 (Computer)|=|Heathkit H8
 Heaven's Gate (Organization)|=|Heaven's Gate (religious group)
-Heaven's gate (Motion picture)|=|Heaven's Gate (film)
-Heavy metal (Motion picture)|=|Heavy Metal (film)
 Heavy metal (Music)|=|Heavy metal music
 Heavy metals|<->|Toxic heavy metal
 Heber Valley Railroad|<->|Heber Valley Historic Railroad
@@ -11982,7 +11873,6 @@ Hubbardton, Battle of, Hubbardton, Vt., 1777|=|Battle of Hubbardton
 Hubbell Trading Post National Historic Site (Ganado, Ariz.)|=|Hubbell Trading Post National Historic Site
 Hubert H. Humphrey Metrodome (Minneapolis, Minn.)|=|Hubert H. Humphrey Metrodome
 Huckleberry Hound (Fictitious character)|=|Huckleberry Hound
-Huckleberry Hound (Television program)|=|The Huckleberry Hound Show
 Hudson-Fulton Celebration, 1909|=|Hudson-Fulton Celebration
 Hudson River (N.Y. and N.J.)|=|Hudson River
 Hudson River school of landscape painting|<->|Hudson River School
@@ -12774,7 +12664,6 @@ Intestine, Small|=|Small intestine
 Intha (Burmese people)|=|Intha people
 Intifada, 1987-1993|=|First Intifada
 Intimate partner violence|->|Domestic violence
-Intolerance (Motion picture)|=|Intolerance (film)
 Intonation (Musical pitch)|=|Intonation (music)
 Intonation (Phonetics)|<->|Intonation (linguistics)
 Intranets (Computer networks)|=|Intranet
@@ -13332,7 +13221,6 @@ Jedburgh Abbey (Jedburgh, Scotland)|=|Jedburgh Abbey
 Jedi (Fictitious characters)|<->|Jedi
 Jeeves (Fictitious character)|=|Jeeves
 Jefferson, Thomas, 1743-1826 -- Bibliography|<->|Bibliography of Thomas Jefferson
-Jefferson, Thomas, 1743-1826. Notes on the state of Virginia|=|Notes on the State of Virginia
 Jefferson, Thomas, 1743-1826 -- Religion|<->|Religious views of Thomas Jefferson
 Jehovah's Witnesses -- Nazi persecution|<->|Persecution of Jehovah's Witnesses in Nazi Germany
 Jehovah's Witnesses -- Persecutions|=|Persecution of Jehovah's Witnesses
@@ -15077,11 +14965,9 @@ Limulus polyphemus|=|Atlantic horseshoe crab
 Lincoln, Abraham, 1809-1865 -- Assassination|=|Assassination of Abraham Lincoln
 Lincoln, Abraham, 1809-1865 -- Bibliography|<->|Bibliography of Abraham Lincoln
 Lincoln, Abraham, 1809-1865 -- Childhood and youth|<->|Early life and career of Abraham Lincoln
-Lincoln, Abraham, 1809-1865. Cooper Institute speech|=|Cooper Union speech
 Lincoln, Abraham, 1809-1865 -- Death and burial|<->|Funeral and burial of Abraham Lincoln
 Lincoln, Abraham, 1809-1865 -- Family|<->|Lincoln family
 Lincoln, Abraham, 1809-1865 -- Funeral journey to Springfield|->|Funeral and burial of Abraham Lincoln
-Lincoln, Abraham, 1809-1865. Gettysburg address|=|Gettysburg Address
 Lincoln, Abraham, 1809-1865 -- Health|<->|Medical and mental health of Abraham Lincoln
 Lincoln, Abraham, 1809-1865 -- Inauguration, 1861|=|First inauguration of Abraham Lincoln
 Lincoln, Abraham, 1809-1865 -- Inauguration, 1865|=|Second inauguration of Abraham Lincoln
@@ -15190,7 +15076,6 @@ Livonian War, 1557-1582|<->|Livonian War
 Livorno (Italy)|=|Livorno
 Liyutan Dam (Taiwan)|=|Liyutan Dam
 Lizards|=|Lizard
-Lizzie McGuire (Television program)|=|Lizzie McGuire
 Llanbradach (Wales)|=|Llanbradach
 Llanelli (Wales)|=|Llanelli
 Llanelly House (Llanelli, Wales)|=|Llanelly House
@@ -15378,7 +15263,6 @@ Lost Creek Mine (Legendary place)|=|Pitt Lake's lost gold mine
 Lost Lemon Mine (Legendary place)|=|Lost Lemon Mine
 Lost River Range (Idaho)|=|Lost River Range
 Lost sheep (Parable)|=|Parable of the Lost Sheep
-Lost (Television program)|=|Lost (TV series)
 Lost tribes of Israel|=|Ten Lost Tribes
 Lost works of art|=|Lost artworks
 Lotha (Indic people)|=|Lotha Naga
@@ -16969,7 +16853,6 @@ Modality (Logic)|<->|Modal logic
 Modeling|->|Physical model
 Models (Persons)|=|Model (person)
 Models and modelmaking|<->|Physical model
-Modern family (Television program)|=|Modern Family
 Modernism (Aesthetics)|<->|Modernism
 Modernism (Christian theology) -- Catholic Church|=|Modernism in the Catholic Church
 Modernism (Literature)|<->|Literary modernism
@@ -17186,7 +17069,6 @@ Morean War, 1684-1699|=|Morean War
 Morelia (Michoac&aacute;n de Ocampo, Mexico)|=|Morelia
 Morella, Battle of, Spain, 1084|=|Battle of Morella
 Morelos (Mexico : State)|=|Morelos
-Moretti, Giuseppe, 1857 or 1859-1935. Vulcan|<->|Vulcan statue
 Morgan Hill Earthquake, Calif., 1984|=|1984 Morgan Hill earthquake
 Morgan le Fay (Legendary character)|=|Morgan le Fay
 Morgan's Ohio Raid, 1863|=|Morgan's Raid
@@ -17506,7 +17388,6 @@ Mustela nivalis|=|Least weasel
 Mustelus|=|Smooth-hound
 Mustelus schmitti|=|Narrownose smooth-hound
 Mutant Chronicles (Game)|=|Mutant Chronicles
-Mutant chronicles (Motion picture)|=|Mutant Chronicles (film)
 Mutation (Biology)|<->|Mutation
 Mutations (Algebra)|=|Mutation (algebra)
 Mutts (Dogs)|<->|Mongrel
@@ -18522,7 +18403,6 @@ Northeastern States|=|Northeastern United States
 Northeast Passage|=|Northern Sea Route
 Northern Avenue Bridge (Boston, Mass.)|=|Northern Avenue Bridge
 Northern Dancer (Race horse)|=|Northern Dancer
-Northern exposure (Television program)|=|Northern Exposure
 Northern Ireland -- Politics and government|<->|Politics of Northern Ireland
 Northern Ireland -- Politics and government|<-|Government of Northern Ireland
 Northern Irish|<->|People of Northern Ireland
@@ -20333,7 +20213,6 @@ Piazza Vittorio Veneto (Turin, Italy)|=|Piazza Vittorio Veneto, Turin
 Pica (Pathology)|=|Pica (disorder)
 Picard, Jean-Luc, 2305-|=|Jean-Luc Picard
 Picaresque literature|<->|Picaresque novel
-Picasso, Pablo, 1881-1973. Guernica|=|Guernica (Picasso)
 Picenes (Italic people)|=|Picentes
 Pichincha, Battle of, Ecuador, 1822|=|Battle of Pichincha
 Pick (Computer file)|<->|Pick operating system
@@ -20613,11 +20492,8 @@ Poisons|=|Poison
 Poitiers, Battle of, France, 1356|=|Battle of Poitiers
 Pok&eacute;mon (Fictitious characters)|<->|Pokémon
 Pok&eacute;mon (Game)|<->|Pokémon (video game series)
-Pok&eacute;mon (Television program)|<->|Pokémon (anime)
 Pok&eacute;mon Go (Game)|=|Pokémon Go
 Pok&eacute;mon Stadium (Game)|=|Pokémon Stadium
-Pok&eacute;mon: the first movie (Motion picture)|=|Pokémon: The First Movie
-Pok&eacute;mon: the movie 2000 (Motion picture)|=|Pokémon: The Movie 2000
 Pok&eacute;mon Yellow (Game)|=|Pokémon Yellow
 Pokomo (African people)|=|Pokomo people
 Poland -- History -- 1945-1980|<->|History of Poland (1945–1989)
@@ -20644,7 +20520,6 @@ Poland -- History -- Uprising of Kostka Napierski, 1651|=|Kostka-Napierski upris
 Poland -- Politics and government|<->|Politics of Poland
 Polar Bear Expedition (1918-1919)|=|Polar Bear Expedition
 Polar Bridge Expedition (1988)|=|Soviet–Canadian 1988 Polar Bridge Expedition
-Polar Express (Motion picture)|=|The Polar Express (film)
 Polar regions|=|Polar regions of Earth
 Polaris (Missile)|=|UGM-27 Polaris
 Polaris (Ship)|=|USS Periwinkle (1864)
@@ -21707,7 +21582,6 @@ Raw file formats (Digital photography)|<->|Raw image format
 Raw materials|=|Raw material
 Rawang (Burmese people)|<->|Nung Rawang
 Rawang (Selangor, Malaysia)|<->|Rawang, Selangor
-Rawhide (Television program)|=|Rawhide (TV series)
 Rawhide Mountains (Ariz.)|=|Rawhide Mountains
 Ray family|<->|Ray (surname)
 Ray Hubbard Lake (Tex.)|=|Lake Ray Hubbard
@@ -22355,7 +22229,6 @@ Rotors (Helicopters)|<->|Helicopter rotor
 Rotterdam (Netherlands)|=|Rotterdam
 Rotterdam (Netherlands) -- History -- Bombardment, 1940|=|Rotterdam Blitz
 Rottnest Island (W.A.)|<->|Rottnest Island
-Rouget de Lisle, Claude Joseph, 1760-1836. Marseillaise|=|La Marseillaise
 Rough fescue|=|Festuca scabrella
 Rough-legged hawk|=|Rough-legged buzzard
 Rough Rider Monument (Prescott, Ariz.)|=|Bucky O'Neill Monument
@@ -22592,7 +22465,6 @@ Saint-Eustache, Battle of, Saint-Eustache, Qu&eacute;bec, 1837|=|Battle of Saint
 Saint Fagans, Battle of, St. Fagans, Wales, 1648|=|Battle of St Fagans
 Saint Gall (Switzerland)|=|St. Gallen
 Saint Gall (Switzerland : Canton)|=|Canton of St. Gallen
-Saint-Gaudens, Augustus, 1848-1907. Robert Gould Shaw memorial (Bronze sculpture)|=|Robert Gould Shaw Memorial
 Saint George's Cay (Belize)|=|St. George's Caye
 Saint George's Caye, Battle of, Belize, 1798|=|Battle of St. George's Caye
 Saint Gotthard, Battle of, 1664|=|Battle of Saint Gotthard (1664)
@@ -23402,7 +23274,6 @@ ServiceNow (Computing platform)|<->|ServiceNow
 Servlets|<->|Java servlet
 Servomechanisms|=|Servomechanism
 SERVQUAL (Service quality framework)|=|SERVQUAL
-Sesame Street (Television program)|=|Sesame Street
 Session Initiation Protocol (Computer network protocol)|=|Session Initiation Protocol
 SET (Computer network protocol)|=|Secure Electronic Transaction
 Set&amacr;r (Iranian musical instrument)|=|Setar
@@ -23517,52 +23388,6 @@ Shakespeare, William, 1564-1616 -- Spurious and doubtful works|<->|Shakespeare A
 Shakespeare, William, 1564-1616 -- Stage history|<->|Shakespeare in performance
 Shakespeare, William, 1564-1616 -- Tragedies|<->|Shakespearean tragedy
 Shakespeare, William, 1564-1616 -- Will|=|Shakespeare's will
-Shakespeare, William, 1564-1616. All's well that ends well|=|All's Well That Ends Well
-Shakespeare, William, 1564-1616. Antony and Cleopatra|=|Antony and Cleopatra
-Shakespeare, William, 1564-1616. As you like it|=|As You Like It
-Shakespeare, William, 1564-1616. BBC TV Shakespeare (London, England)|=|BBC Television Shakespeare
-Shakespeare, William, 1564-1616. Comedy of errors|=|The Comedy of Errors
-Shakespeare, William, 1564-1616. Coriolanus|=|Coriolanus
-Shakespeare, William, 1564-1616. Cymbeline|=|Cymbeline
-Shakespeare, William, 1564-1616. Hamlet|=|Hamlet
-Shakespeare, William, 1564-1616. Hamlet -- Sources|=|Sources of Hamlet
-Shakespeare, William, 1564-1616. Henry V|=|Henry V (play)
-Shakespeare, William, 1564-1616. Julius Caesar|=|Julius Caesar (play)
-Shakespeare, William, 1564-1616. King Henry IV. Part 1|=|Henry IV, Part 1
-Shakespeare, William, 1564-1616. King Henry IV. Part 2|=|Henry IV, Part 2
-Shakespeare, William, 1564-1616. King Henry VI|=|Henry VI (play)
-Shakespeare, William, 1564-1616. King Henry VI. Part 1|=|Henry VI, Part 1
-Shakespeare, William, 1564-1616. King Henry VI. Part 2|=|Henry VI, Part 2
-Shakespeare, William, 1564-1616. King Henry VI. Part 3|=|Henry VI, Part 3
-Shakespeare, William, 1564-1616. King Henry VIII|=|Henry VIII (play)
-Shakespeare, William, 1564-1616. King John|=|King John (play)
-Shakespeare, William, 1564-1616. King Lear|=|King Lear
-Shakespeare, William, 1564-1616. King Richard II|=|Richard II (play)
-Shakespeare, William, 1564-1616. King Richard III|=|Richard III (play)
-Shakespeare, William, 1564-1616. Love's labour's lost|=|Love's Labour's Lost
-Shakespeare, William, 1564-1616. Lover's complaint|=|A Lover's Complaint
-Shakespeare, William, 1564-1616. Macbeth|=|Macbeth
-Shakespeare, William, 1564-1616. Measure for measure|=|Measure for Measure
-Shakespeare, William, 1564-1616. Merchant of Venice|=|The Merchant of Venice
-Shakespeare, William, 1564-1616. Merry wives of Windsor|=|The Merry Wives of Windsor
-Shakespeare, William, 1564-1616. Midsummer night's dream|=|A Midsummer Night's Dream
-Shakespeare, William, 1564-1616. Much ado about nothing|=|Much Ado About Nothing
-Shakespeare, William, 1564-1616. Othello|=|Othello
-Shakespeare, William, 1564-1616. Pericles|=|Pericles, Prince of Tyre
-Shakespeare, William, 1564-1616. Plays|=|Shakespeare's plays
-Shakespeare, William, 1564-1616. Rape of Lucrece|=|The Rape of Lucrece
-Shakespeare, William, 1564-1616. Romeo and Juliet|=|Romeo and Juliet
-Shakespeare, William, 1564-1616. Sonnets|=|Shakespeare's sonnets
-Shakespeare, William, 1564-1616. Taming of the shrew|=|The Taming of the Shrew
-Shakespeare, William, 1564-1616. Tempest|=|The Tempest
-Shakespeare, William, 1564-1616. Timon of Athens|=|Timon of Athens
-Shakespeare, William, 1564-1616. Titus Andronicus|=|Titus Andronicus
-Shakespeare, William, 1564-1616. Troilus and Cressida|=|Troilus and Cressida
-Shakespeare, William, 1564-1616. Twelfth night|=|Twelfth Night
-Shakespeare, William, 1564-1616. Two gentlemen of Verona|=|The Two Gentlemen of Verona
-Shakespeare, William, 1564-1616. When in disgrace with fortune and men's eyes|=|Sonnet 29
-Shakespeare, William, 1564-1616. Winter's tale|=|The Winter's Tale
-Shakespeare, William, 1564-1616. Works|=|Complete Works of Shakespeare
 Shaksgam River (Pakistan and China)|=|Shaksgam River
 Shaksgam Valley (Pakistan and China)|<->|Trans-Karakoram Tract
 Shallotte River (N.C.)|=|Shallotte River
@@ -24090,7 +23915,6 @@ Sleeptalking|=|Somniloquy
 Sleepwear|<->|Nightwear
 Sleepy Lagoon Trial, Los Angeles, Calif., 1942-1943|<->|Sleepy Lagoon murder
 Slick, Sam (Fictitious character)|=|Sam Slick
-Sliders (Television program)|=|Sliders
 Sligo (Ireland : County)|=|County Sligo
 Slim Buttes (S.D.)|<->|Slim Buttes Formation
 Slim Buttes, Battle of, S.D., 1876|=|Battle of Slim Buttes
@@ -24349,22 +24173,6 @@ Source reduction (Waste management)|<->|Source reduction
 Source separation (Signal processing)|=|Source separation
 Sourdough Mountain (Whatcom County, Wash.)|<->|Sourdough Mountains
 Sourland Mountain (N.J.)|=|Sourland Mountain
-Sousa, John Philip, 1854-1932. Capitan (Operetta)|=|El Capitan (operetta)
-Sousa, John Philip, 1854-1932. D&eacute;sir&eacute;e|=|Désirée
-Sousa, John Philip, 1854-1932. Fairest of the fair|=|The Fairest of the Fair
-Sousa, John Philip, 1854-1932. Gallant Seventh|=|The Gallant Seventh
-Sousa, John Philip, 1854-1932. Gladiator|=|The Gladiator March
-Sousa, John Philip, 1854-1932. Hands across the sea|=|Hands Across the Sea
-Sousa, John Philip, 1854-1932. High school cadets|=|High School Cadets
-Sousa, John Philip, 1854-1932. King Cotton|=|King Cotton (march)
-Sousa, John Philip, 1854-1932. Liberty Bell|=|The Liberty Bell (march)
-Sousa, John Philip, 1854-1932. Manhattan Beach|=|Manhattan Beach (march)
-Sousa, John Philip, 1854-1932. Minnesota march|=|Minnesota March
-Sousa, John Philip, 1854-1932. Semper fidelis|=|Semper Fidelis (march)
-Sousa, John Philip, 1854-1932. Stars and stripes forever|<->|The Stars and Stripes Forever
-Sousa, John Philip, 1854-1932. Thunderer|=|The Thunderer
-Sousa, John Philip, 1854-1932. U.S. Field Artillery|=|U.S. Field Artillery March
-Sousa, John Philip, 1854-1932. Washington Post|=|The Washington Post (march)
 South Africa. Army|=|South African Army
 South Africa -- History -- Great Trek, 1836-1840|<->|Great Trek
 South Africa -- History -- Rebellion, 1914-1915|=|Maritz rebellion
@@ -24596,7 +24404,6 @@ Spoken Proficiency English Assessment Kit|=|SPEAK (test)
 Spokil (Artificial language)|=|Spokil
 Spondylidae (Mollusks)|->|Spondylus
 SpongeBob SquarePants (Fictitious character)|=|SpongeBob SquarePants (character)
-SpongeBob SquarePants (Television program)|=|SpongeBob SquarePants
 Sponges -- Gemmules|<->|Gemmule
 Sports|=|Sport
 Sports facilities|<->|Sport venue
@@ -24815,7 +24622,6 @@ Stojanovi&cacute; family|<->|Stojanović
 &Scaron;tokavian dialect|=|Shtokavian
 Stoke, Battle of, England, 1487|=|Battle of Stoke Field
 Stoke-on-Trent (England)|=|Stoke-on-Trent
-Stoker, Bram, 1847-1912. Dracula|=|Dracula
 Stolbovo, Treaty of, 1617|=|Treaty of Stolbovo
 Stomata|=|Stoma
 Stone, Jesse (Fictitious character)|=|Jesse Stone (character)
@@ -24908,7 +24714,6 @@ Sturm (Wine)|<->|Federweisser
 Sturnus vulgaris|=|Common starling
 Stuttgart (Germany)|=|Stuttgart
 Stutthof (Concentration camp)|=|Stutthof concentration camp
-Styka, Jan, 1858-1925. Panorama of the Battle of Rac&lstrok;awice|=|Racławice Panorama
 Style, Literary|<->|Writing style
 Stymphalian birds (Greek mythology)|=|Stymphalian birds
 Stymphalos (Extinct city)|<->|Stymfalia
@@ -25837,7 +25642,6 @@ Thompson, Mercy (Fictitious character)|=|Mercy Thompson
 Thompson Pass (Alaska)|=|Thompson Pass
 Thompson's Station, Battle of, Thompson's Station, Tenn., 1863|=|Battle of Thompson's Station
 Thor (Missile)|=|PGM-17 Thor
-Thor (Motion picture)|=|Thor (film)
 Thor (Norse deity)|=|Thor
 Thoris, Dejah (Fictitious character)|=|Dejah Thoris
 Thorium -- Isotopes|=|Isotopes of thorium
@@ -26913,8 +26717,6 @@ United States. Administration for Children and Families|=|Administration for Chi
 United States. Air Force|=|United States Air Force
 United States. Air Force. Strategic Air Command|=|Strategic Air Command
 United States. Air Mobility Command|=|Air Mobility Command
-United States. Airline Deregulation Act of 1978|<->|Airline Deregulation Act
-United States. American Recovery and Reinvestment Act of 2009|=|American Recovery and Reinvestment Act of 2009
 United States -- Armed Forces|=|United States Armed Forces
 United States. Army|=|United States Army
 United States. Army -- History|=|History of the United States Army
@@ -26930,8 +26732,6 @@ United States. Army. Indiana Infantry Regiment, 86th (1862-1865)|=|86th Indiana 
 United States. Army. Kansas Cavalry Regiment, 2nd (1862-1865)|<->|2nd Regiment Kansas Volunteer Cavalry
 United States. Army. Massachusetts Infantry Regiment, 21st (1861-1865)|<->|21st Regiment Massachusetts Volunteer Infantry
 United States. Army. Volunteer Cavalry, 1st|=|Rough Riders
-United States. Articles of Confederation|=|Articles of Confederation
-United States. Bank Secrecy Act|=|Bank Secrecy Act
 United States. Bureau of Justice Statistics|=|Bureau of Justice Statistics
 United States. Bureau of Mines|=|United States Bureau of Mines
 United States. Bureau of Refugees, Freedmen, and Abandoned Lands|=|Freedmen's Bureau
@@ -26965,10 +26765,6 @@ United States -- Census, 1990|=|1990 United States Census
 United States -- Census, 2000|=|2000 United States Census
 United States -- Census, 2010|=|2010 United States Census
 United States. Central Intelligence Agency|=|Central Intelligence Agency
-United States. Civil Rights Act of 1866|=|Civil Rights Act of 1866
-United States. Civil Rights Act of 1957|=|Civil Rights Act of 1957
-United States. Civil Rights Act of 1964|=|Civil Rights Act of 1964
-United States. Civil Rights Act of 1991|=|Civil Rights Act of 1991
 United States. Coast Guard|=|United States Coast Guard
 United States. Commission on Government Security|=|Wright Commission on Government Security
 United States. Commission on Protecting and Reducing Government Secrecy|=|Moynihan Commission on Government Secrecy
@@ -26983,33 +26779,6 @@ United States. Congress. House. Special Committee on Un-American Activities (193
 United States. Congress. Office of Technology Assessment|=|Office of Technology Assessment
 United States. Congress. Senate|=|United States Senate
 United States. Congress. Senate -- Presiding officers|=|Presiding Officer of the United States Senate
-United States. Constitution|=|United States Constitution
-United States. Constitution. 1st-10th Amendments|=|United States Bill of Rights
-United States. Constitution. 1st Amendment|=|First Amendment to the United States Constitution
-United States. Constitution. 2nd Amendment|=|Second Amendment to the United States Constitution
-United States. Constitution. 3rd Amendment|=|Third Amendment to the United States Constitution
-United States. Constitution. 4th Amendment|=|Fourth Amendment to the United States Constitution
-United States. Constitution. 5th Amendment|=|Fifth Amendment to the United States Constitution
-United States. Constitution. 6th Amendment|=|Sixth Amendment to the United States Constitution
-United States. Constitution. 7th Amendment|=|Seventh Amendment to the United States Constitution
-United States. Constitution. 8th Amendment|=|Eighth Amendment to the United States Constitution
-United States. Constitution. 9th Amendment|=|Ninth Amendment to the United States Constitution
-United States. Constitution. 10th Amendment|=|Tenth Amendment to the United States Constitution
-United States. Constitution. 11th Amendment|=|Eleventh Amendment to the United States Constitution
-United States. Constitution. 12th Amendment|=|Twelfth Amendment to the United States Constitution
-United States. Constitution. 13th Amendment|=|Thirteenth Amendment to the United States Constitution
-United States. Constitution. 14th Amendment|=|Fourteenth Amendment to the United States Constitution
-United States. Constitution. 15th Amendment|=|Fifteenth Amendment to the United States Constitution
-United States. Constitution. 16th Amendment|=|Sixteenth Amendment to the United States Constitution
-United States. Constitution. 17th Amendment|=|Seventeenth Amendment to the United States Constitution
-United States. Constitution. 18th Amendment|=|Eighteenth Amendment to the United States Constitution
-United States. Constitution. 19th Amendment|=|Nineteenth Amendment to the United States Constitution
-United States. Constitution. 21st Amendment|=|Twenty-first Amendment to the United States Constitution
-United States. Constitution. 22nd Amendment|=|Twenty-second Amendment to the United States Constitution
-United States. Constitution. 23rd Amendment|=|Twenty-third Amendment to the United States Constitution
-United States. Constitution. 24th Amendment|=|Twenty-fourth Amendment to the United States Constitution
-United States. Constitution. 25th Amendment|=|Twenty-fifth Amendment to the United States Constitution
-United States. Constitution. 26th Amendment|=|Twenty-sixth Amendment to the United States Constitution
 United States. Constitution -- Contract clause|<->|Contract Clause
 United States. Constitution -- Emoluments clause|<->|Title of Nobility Clause
 United States. Constitution -- Signers|<->|Signing of the United States Constitution
@@ -27030,7 +26799,6 @@ United States. Court of Appeals (10th Circuit)|=|United States Court of Appeals 
 United States. Court of Appeals (11th Circuit)|=|United States Court of Appeals for the Eleventh Circuit
 United States. Court of Appeals (District of Columbia Circuit)|=|United States Court of Appeals for the District of Columbia Circuit
 United States. Court of Appeals (Federal Circuit)|=|United States Court of Appeals for the Federal Circuit
-United States. Declaration of Independence|=|United States Declaration of Independence
 United States. Declaration of Independence -- Signers|<->|Signing of the United States Declaration of Independence
 United States. Defense Mapping Agency|->|National Geospatial-Intelligence Agency
 United States. Department of Agriculture|=|United States Department of Agriculture
@@ -27049,14 +26817,11 @@ United States. District Court (District of Columbia)|=|United States District Co
 United States Embassy Attack, Isl&amacr;m&amacr;b&amacr;d, Pakistan, 1979|=|1979 U.S. embassy burning in Islamabad
 United States Embassy Bombing, Dar es Salaam, Tanzania, 1998|->|1998 United States embassy bombings
 United States Embassy Bombing, Nairobi, Kenya, 1998|->|1998 United States embassy bombings
-United States. Emergency Economic Stabilization Act of 2008|<->|Emergency Economic Stabilization Act of 2008
 United States -- Emigration and immigration|<->|Immigration to the United States
 United States -- Emigration and immigration|<-|Emigration from the United States
 United States. Energy Research and Development Administration|=|Energy Research and Development Administration
 United States. Environmental Protection Agency|=|United States Environmental Protection Agency
 United States Exploring Expedition (1838-1842)|=|United States Exploring Expedition
-United States. Fair Housing Act|=|Fair Housing Act
-United States. Fair Labor Standards Act of 1938|=|Fair Labor Standards Act
 United States. Federal Aviation Administration|=|Federal Aviation Administration
 United States. Federal Bureau of Investigation|=|Federal Bureau of Investigation
 United States. Federal Communications Commission|=|Federal Communications Commission
@@ -27068,10 +26833,7 @@ United States -- Foreign relations -- 1993-2001|<->|Foreign policy of the Bill C
 United States -- Foreign relations -- 2001-2009|<->|Foreign policy of the George W. Bush administration
 United States -- Foreign relations -- Haiti|<->|Haiti–United States relations
 United States. Forest Service|=|United States Forest Service
-United States. Fugitive slave law (1793)|=|Fugitive Slave Act of 1793
-United States. Fugitive slave law (1850)|=|Fugitive Slave Act of 1850
 United States -- Geography|=|Geography of the United States
-United States. Goldwater-Nichols Department of Defense Reorganization Act of 1986|=|Goldwater–Nichols Act
 United States. Government Printing Office|->|United States Government Publishing Office
 United States. Government Publishing Office|=|United States Government Publishing Office
 United States Highway 113 (Del. and Md.)|=|U.S. Route 113
@@ -27139,12 +26901,8 @@ United States -- History -- War of 1812 -- Naval operations|<->|List of naval ba
 United States -- History -- War with Algeria, 1815|=|Second Barbary War
 United States -- History, Military|=|Military history of the United States
 United States. Immigration and Naturalization Service|=|Immigration and Naturalization Service
-United States. Indian Removal Act of 1830|=|Indian Removal Act
-United States. Indian Reorganization Act|=|Indian Reorganization Act
 United States Information Service|->|United States Information Agency
 United States. Inquiry|=|The Inquiry
-United States. Kansas-Nebraska Act|=|Kansas–Nebraska Act
-United States. Labor management relations act. 1947|=|Labor Management Relations Act of 1947
 United States. Life-Saving Service|=|United States Life-Saving Service
 United States magistrates|<->|United States magistrate judge
 United States Marine Compound Bombing, Beirut, Lebanon, 1983|<->|1983 Beirut barracks bombings
@@ -27157,7 +26915,6 @@ United States. National Aeronautics and Space Administration|=|NASA
 United States. National Geospatial-Intelligence Agency|=|National Geospatial-Intelligence Agency
 United States -- National Guard|=|National Guard of the United States
 United States. National Imagery and Mapping Agency|->|National Geospatial-Intelligence Agency
-United States. National Industrial Recovery Act of 1933|=|National Industrial Recovery Act
 United States. National Oceanic and Atmospheric Administration|=|National Oceanic and Atmospheric Administration
 United States. National Park Service|=|National Park Service
 United States. National Park Service -- History|=|History of the National Park Service
@@ -27170,26 +26927,21 @@ United States. Navy -- History|=|History of the United States Navy
 United States. Navy -- History -- Civil War, 1861-1865|<->|Union Navy
 United States. Navy -- History -- World War, 1939-1945|=|United States Navy in World War II
 United States. Navy. SEALs|=|United States Navy SEALs
-United States. No Child Left Behind Act of 2001|=|No Child Left Behind Act
 United States. Occupational Safety and Health Administration|=|Occupational Safety and Health Administration
 United States. Office of Homeland Security|->|United States Department of Homeland Security
 United States. Office of Naval Research|=|Office of Naval Research
 United States. Office of Price Administration|=|Office of Price Administration
-United States. Ordinance of 1787|=|Northwest Ordinance
 United States. Patent and Trademark Office|=|United States Patent and Trademark Office
-United States. Patient Protection and Affordable Care Act|=|Patient Protection and Affordable Care Act
 United States Penitentiary, Alcatraz Island, California|=|Alcatraz Federal Penitentiary
 United States. Philippine Commission (1899-1900)|=|Schurman Commission
 United States. Philippine Commission (1900-1916)|=|Taft Commission
 United States -- Politics and government|<->|Politics of the United States
 United States -- Politics and government|<-|Federal government of the United States
 United States. Post Office Department|->|United States Postal Service
-United States. President (1861-1865 : Lincoln). Emancipation Proclamation|=|Emancipation Proclamation
 United States. Public Health Service|=|United States Public Health Service
 United States. Railroad Retirement Board|=|Railroad Retirement Board
 United States -- Religion|=|Religion in the United States
 United States. Revenue-Cutter Service|=|United States Revenue Cutter Service
-United States. Right to Financial Privacy Act of 1978|=|Right to Financial Privacy Act
 United States. Secret Service|=|United States Secret Service
 United States. Shipping Board|=|United States Shipping Board
 United States -- Social life and customs|<->|Culture of the United States
@@ -27199,8 +26951,6 @@ United States. Supreme Court|=|Supreme Court of the United States
 United States. Supreme Court -- History|=|History of the Supreme Court of the United States
 United States -- Territorial expansion|<->|Territorial evolution of the United States
 United States -- Territorial expansion|<-|United States territorial acquisitions
-United States. Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001|=|Patriot Act
-United States. Voting Rights Act of 1965|=|Voting Rights Act of 1965
 United States. White House Office|=|White House Office
 Unity School of Christianity|<->|Unity Church
 Universal carrier (Armored military vehicle)|=|Universal Carrier
@@ -27425,15 +27175,6 @@ Vatican Council (2nd : 1962-1965 : Basilica di San Pietro in Vaticano)|=|Second 
 Vatican Palace (Vatican City)|=|Apostolic Palace
 Vaud (Switzerland)|=|Vaud
 Vaughan (Ont.)|=|Vaughan
-Vaughan Williams, Ralph, 1872-1958. Symphonies, no. 1|=|A Sea Symphony
-Vaughan Williams, Ralph, 1872-1958. Symphonies, no. 2, G major|=|A London Symphony
-Vaughan Williams, Ralph, 1872-1958. Symphonies, no. 3|=|A Pastoral Symphony
-Vaughan Williams, Ralph, 1872-1958. Symphonies, no. 4, F minor|=|Symphony No. 4 (Vaughan Williams)
-Vaughan Williams, Ralph, 1872-1958. Symphonies, no. 5, D major|=|Symphony No. 5 (Vaughan Williams)
-Vaughan Williams, Ralph, 1872-1958. Symphonies, no. 6, E minor|=|Symphony No. 6 (Vaughan Williams)
-Vaughan Williams, Ralph, 1872-1958. Symphonies, no. 7|=|Sinfonia antartica
-Vaughan Williams, Ralph, 1872-1958. Symphonies, no. 8, D minor|=|Symphony No. 8 (Vaughan Williams)
-Vaughan Williams, Ralph, 1872-1958. Symphonies, no. 9, E minor|=|Symphony No. 9 (Vaughan Williams)
 Vaults (Architecture)|=|Vault (architecture)
 V&amacr;yu (Hindu deity)|=|Vayu
 Vayu (Zoroastrian deity)|=|Vayu-Vata
@@ -27945,7 +27686,6 @@ Washington (D.C.) -- History|=|History of Washington, D.C.
 Washington (D.C.) -- History -- Capture by the British, 1814|<->|Burning of Washington
 Washington (D.C.) -- History -- Civil War, 1861-1865|=|Washington, D.C., in the American Civil War
 Washington (D.C.) -- Politics and government|<->|Government of the District of Columbia
-Washington, George, 1732-1799. Farewell address|<->|George Washington's Farewell Address
 Washington, George, 1732-1799 -- Inauguration, 1789|=|First inauguration of George Washington
 Washington, George, 1732-1799 -- Inauguration, 1793|=|Second inauguration of George Washington
 Washington, George, 1732-1799 -- Library|<->|Fred W. Smith National Library for the Study of George Washington
@@ -28451,7 +28191,6 @@ Wittstock, Battle of, Germany, 1636|=|Battle of Wittstock
 Wives|=|Wife
 Wiyot Indians|=|Wiyot
 Wizard, of Oz (Fictitious character)|=|Wizard of Oz (character)
-Wizard of Oz (Motion picture : 1939)|=|The Wizard of Oz (1939 film)
 Wizards|=|Wizard
 WML (Document markup language)|=|Wireless Markup Language
 WMLScript (Computer program language)|=|WMLScript
@@ -28844,7 +28583,6 @@ X-Factor (Fictitious characters)|<->|X-Factor (comics)
 X-linked mental retardation|<->|X-linked intellectual disability
 X-Men (Fictitious characters)|<->|X-Men
 X-Men films|<->|X-Men (film series)
-X-Men (Motion picture)|=|X-Men (film)
 X-ray binaries|=|X-ray binary
 X-rays|=|X-ray
 X Window System (Computer system)|=|X Window System
@@ -28860,7 +28598,6 @@ Xbox 360 (Video game console)|=|Xbox 360
 Xbox One (Video game console)|=|Xbox One
 XBRL (Document markup language)|=|XBRL
 Xena, Warrior Princess (Fictitious character)|=|Xena
-Xena, warrior princess (Television program)|=|Xena: Warrior Princess
 Xenobiotics|=|Xenobiotic
 Xenografts|=|Xenotransplantation
 Xhosa (African people)|=|Xhosa people
