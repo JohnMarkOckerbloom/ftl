@@ -10,10 +10,11 @@
 #   are not included in this file.
 # Manual title and name-title correspondences have been moved to wikiworksmap.
 # See docs file for documentation
-# Last updated 2017-05-11
-# Did LCSH 2015 and 2016 update lists, 2017 lists 1-3
+# Last updated 2017-05-17
+# Did LCSH 2015 and 2016 update lists, 2017 lists 1-3, 4 (A-C only)
 1066 Country Walk (England)|=|1066 Country Walk
 119 (Locomotive)|=|Union Pacific No. 119
+13+ Common Entrance Examination|->|Common Entrance Examination
 1361 K4 (Steam locomotive)|=|PRR 1361
 1366 Class (Steam locomotives)|=|GWR 1366 Class
 141 R (Steam locomotive)|<->|SNCF Class 141R
@@ -260,6 +261,7 @@ Adele language (Kwa)|=|Adele language
 Ad&eacute;lie Coast (Antarctica)|<->|Adélie Land
 Adelphi Theatre (London, England)|=|Adelphi Theatre
 Aden (Yemen)|=|Aden
+Adeno-associated virus 2|->|Adeno-associated virus
 Adhesives|=|Adhesive
 Adirondack Mountains (N.Y.)|=|Adirondack Mountains
 Adjustable rate mortgages|=|Adjustable-rate mortgage
@@ -352,6 +354,7 @@ Africa, Southern -- History -- Mfecane period, 1816-ca. 1840|=|Mfecane
 Africa, Northeast|->|East Africa
 Africa, North|=|North Africa
 Africa, North -- History|=|History of North Africa
+Africa, Northwest|<->|Maghreb
 Africa, Portuguese-speaking|=|Portuguese-speaking African countries
 Africa, Southern|=|Southern Africa
 Africa, Sub-Saharan|=|Sub-Saharan Africa
@@ -376,6 +379,7 @@ African Americans -- History -- Chronology|<->|Timeline of African-American hist
 African Americans -- Music|<->|African-American music
 African Americans -- Religion|<->|Religion in Black America
 African Americans -- Relations with Jews|=|African American–Jewish relations
+African Americans -- Study and teaching|<->|African-American studies
 African Cup of Nations|=|Africa Cup of Nations
 African gray parrot|=|African grey parrot
 Africanists|->|African studies
@@ -406,6 +410,7 @@ Aggregation (Chemistry)|<->|Particle aggregation
 Aggressiveness|=|Aggression
 Agincourt, Battle of, Agincourt, France, 1415|=|Battle of Agincourt
 Aging|=|Ageing
+Agler family|<->|Agler
 Agnew family|<->|Agnew (surname)
 Agora (Athens, Greece)|<->|Ancient Agora of Athens
 Agra (India)|=|Agra
@@ -1489,6 +1494,7 @@ Arripis georgianus|=|Australian herring
 Arronches (Portugal)|=|Arronches
 Arrow Canyon Range (Nev.)|=|Arrow Canyon Range
 Arrowhead Trails Highway (Calif.-Utah)|=|Arrowhead Trail (auto trail)
+Arrowroot powder|<->|Arrowroot
 Arroyo Grande, Battle of, Argentina, 1842|=|Battle of Arroyo Grande
 Arrhythmia|<->|Cardiac arrhythmia
 Ars Fennica (Award)|=|Ars Fennica Award
@@ -1887,6 +1893,7 @@ Automobile ownership|=|Car ownership
 Automobile racing|=|Auto racing
 Automobiles|<->|Car
 Automobiles -- History|=|History of the automobile
+Automobiles -- Motors -- Exhaust gas -- Measurement|<->|Exhaust gas analyzer
 Autonomous robots|=|Autonomous robot
 Autos-da-f&eacute;|=|Auto-da-fé
 AV Foundation (Software framework)|=|AVFoundation
@@ -2426,6 +2433,7 @@ Beast of the Apocalypse|<->|The Beast (Revelation)
 Beatles. Revolver|=|Revolver (Beatles album)
 Beatragus|->|Hirola
 Beatragus hunteri|=|Hirola
+Beatrice (Name)|<->|Beatrice (given name)
 Beaufort, Cape (Alaska)|=|Cape Beaufort
 Beaufort Island (Antarctica)|=|Beaufort Island
 Beaujolais (France)|=|Beaujolais (province)
@@ -2700,9 +2708,20 @@ Bia&lstrok;ystok (Poland)|=|Białystok
 Bia&lstrok;ystok (Poland) -- History -- Bia&lstrok;ystok Ghetto Uprising, 1943|=|Białystok Ghetto uprising
 Bibendum (Advertising character)|=|Michelin Man
 BIBFRAME (Conceptual model)|=|BIBFRAME
+Bibiheyb&auml;t ziyar&auml;tgah&inodot; (Bibiheyb&auml;t, Azerbaijan)|<->|Bibi-Heybat Mosque
+Bible -- Canon|<->|Christian biblical canons
+Bible -- Canonical criticism|=|Canonical criticism
+Bible -- Chronology|<->|Chronology of the Bible
+Bible -- Commentaries|<->|List of biblical commentaries
+Bible -- Concordances|=|Bible concordance
+Bible -- Controversial literature|<->|Criticism of the Bible
+Bible -- Criticism, Form|<->|Form criticism
+Bible -- Criticism, interpretation, etc.|<->|Biblical criticism
+Bible -- Criticism, Redaction|<->|Redaction criticism
 Bible -- Prophecies|=|Bible prophecy
 Bible and homosexuality|=|The Bible and homosexuality
 Bible and science|->|Relationship between religion and science
+Bible. New Testament -- Criticism, Textual|=|Textual criticism of the New Testament
 Bible stories|=|Bible story
 Bibliographical citations|<->|Citation
 Biblioteca apostolica vaticana|=|Vatican Library
@@ -3175,6 +3194,7 @@ Bohemia (Czech Republic)|=|Bohemia
 Bohemia (Czech Republic) -- History -- Hussite Wars, 1419-1436|<->|Hussite Wars
 Bohemian Brethren|->|Moravian Church
 Boiling water reactors|=|Boiling water reactor
+Boiling water reactors -- Loss of coolant|->|Loss-of-coolant accident
 Bol'sheokhtinski&#x012d; most (Saint Petersburg, Russia)|=|Bolsheokhtinsky Bridge
 Bolak|=|Bolak language
 Bolama Island (Guinea-Bissau)|<->|Bolama
@@ -3560,6 +3580,7 @@ Bruch, Battles of the, Spain, 1808|=|Combat of El Bruc
 Br&uuml;hl (Rhein-Erft-Kreis, Germany)|=|Brühl (Rhineland)
 Brunanburh, Battle of, 937|=|Battle of Brunanburh
 Brundage Mountain (Idaho)|<->|Brundage Mountain
+Brunel Awards|=|Brunel Award
 Brunet Island State Park (Wis.)|=|Brunet Island State Park
 Brunete (Spain)|=|Brunete
 Brunete, Battle of, Brunete, Spain, 1937|=|Battle of Brunete
@@ -3966,12 +3987,16 @@ Cambrai, Battle of, Cambrai, France, 1917|=|Battle of Cambrai (1917)
 Cambrai, Battle of, Cambrai, France, 1918|=|Battle of Cambrai (1918)
 Cambrai, League of, 1508|<->|War of the League of Cambrai
 Cambridge (England)|=|Cambridge
+Cambridge English: First for Schools (Educational test)|<->|Cambridge English: First
+Cambridge English: Key for Schools (Educational test)|<->|Cambridge English: Key
+Cambridge English: Preliminary (Educational test)|=|Cambridge English: Preliminary
 Camden, Battle of, Camden, S.C., 1780|=|Battle of Camden
 Camden Post Office (Camden, N.J.)|<->|United States Post Office and Courthouse (Camden, New Jersey)
 Camel, Battle of the, Iraq, 656|=|Battle of the Camel
 Camelback (Pa.)|<->|Camelback Mountain Resort
 Camelback East Village (Phoenix, Ariz.)|=|Camelback East, Phoenix
 Camelback Mountain (Maricopa County, Ariz.)|=|Camelback Mountain
+Camelidae|=|Camelid
 Camelot (Legendary place)|=|Camelot
 Camembert cheese|=|Camembert
 Camerata (Group of music theorists)|=|Florentine Camerata
@@ -4149,6 +4174,8 @@ Caporetto, Battle of, Kobarid, Slovenia, 1917|=|Battle of Caporetto
 Capri (Italy)|=|Capri, Campania
 Capri Island (Italy)|=|Capri
 Caps (Headgear)|=|Cap
+Capsid proteins|->|Capsid
+Capsids (Virology)|=|Capsid
 Captain America (Fictitious character)|=|Captain America
 Captain Christy (Race horse)|=|Captain Christy
 Captain Class (Frigates)|=|Captain-class frigate
@@ -4525,6 +4552,7 @@ Central African Republic -- History -- Coup d'&eacute;tat, 2003|=|2003 Central A
 Central Arizona Project Aqueduct (Ariz.)|->|Central Arizona Project
 Central Avenue (Phoenix, Ariz.)|<->|Central Avenue Corridor
 Central Chernozem Region (Russia)|=|Central Black Earth Region
+Central Karakoram National Park (Pakistan)|=|Central Karakoram National Park
 Central Pacific Railroad Company|<->|Central Pacific Railroad
 Central pain|<->|Central pain syndrome
 Central Park (New York, N.Y.)|=|Central Park
@@ -5223,8 +5251,8 @@ Churchill (Tank)|<->|Churchill tank
 Churchill, Mount (Alaska)|=|Mount Churchill
 Churchill Mountains (Antarctica)|=|Churchill Mountains
 Churg-Strauss syndrome|<->|Eosinophilic granulomatosis with polyangiitis
-Churubusco (Distrito Federal, Mexico)|=|Churubusco
-Churubusco, Battle of, Churubusco, Distrito Federal, Mexico, 1847|=|Battle of Churubusco
+Churubusco (Mexico City, Mexico)|=|Churubusco
+Churubusco, Battle of, Mexico City, Mexico, 1847|=|Battle of Churubusco
 Chuska Mountains (Ariz. and N.M.)|=|Chuska Mountains
 Ch&#x1ee9;t (Vietnamese people)|=|Chứt people
 Chutney (Music)|=|Chutney music
@@ -6344,6 +6372,7 @@ Cougar Mountain (King County, Wash.)|=|Cougar Mountain
 Cougar Mountain Regional Wildland Park (Wash.)|=|Cougar Mountain Regional Wildland Park
 Coendou|=|Prehensile-tailed porcupine
 Coendou prehensilis|=|Brazilian porcupine
+Coul&eacute;e verte Ren&eacute;-Dumont (Paris, France)|=|Coulée verte René-Dumont
 Coulmiers, Battle of, Coulmiers, France, 1870|=|Battle of Coulmiers
 Council Grounds State Park (Wis.)|=|Council Grounds State Park
 Counseling|<->|List of counseling topics
@@ -6495,6 +6524,7 @@ Crisis intervention (Mental health services)|=|Crisis intervention
 Cristero Rebellion, 1926-1929|<->|Cristero War
 Critical care medicine|=|Intensive care medicine
 Critical path analysis|<->|Critical path method
+Criticism, Textual|=|Textual criticism
 Critics|=|Critic
 Crna ruka|=|Black Hand (Serbia)
 Croatia -- History -- Peasant Uprising, 1573|<->|Croatian–Slovene Peasant Revolt
@@ -6566,6 +6596,7 @@ Crust vegetation|<->|Biological soil crust
 Crustacea|=|Crustacean
 Cruz del Eje (Argentina)|=|Cruz del Eje
 Crypto-Jews|<->|Crypto-Judaism
+Cryptoexplosion structures|<->|Cryptoexplosion
 Crystal detectors|=|Cat's-whisker detector
 Crystal Palace (Great Exhibition, 1851, London, England)|<->|The Crystal Palace
 Crystal Palace (Sydenham, London, England)|->|The Crystal Palace
@@ -7122,6 +7153,7 @@ Denver Nuggets (Basketball team)|=|Denver Nuggets
 Department stores|=|Department store
 Depayin Massacre, Burma, 2003|=|Depayin massacre
 Dependence (Statistics)|->|Correlation and dependence
+Dependoviruses|<->|Dependoparvovirus
 Depression, Mental|<->|Major depressive disorder
 Depression, Mental -- Animal models|=|Animal models of depression
 Depression in adolescence|<->|Depression in childhood and adolescence
@@ -10241,6 +10273,7 @@ Gloucestershire (England)|=|Gloucestershire
 Gloves|=|Glove
 Gl&uuml;ckstadt (Germany)|=|Glückstadt
 Glue|->|Adhesive
+Glycocalyces|=|Glycocalyx
 Glycoproteins|=|Glycoprotein
 Glycosidases|=|Glycoside hydrolase
 GMC Duck (Military truck)|=|DUKW
@@ -13659,7 +13692,7 @@ Kanuri (African people)|=|Kanuri people
 Kanuti National Wildlife Refuge (Alaska)|=|Kanuti National Wildlife Refuge
 Kanuti River (Alaska)|=|Kanuti River
 Kao family|<->|Gao (surname)
-Kao-hsiung (Taiwan)|=|Kaohsiung
+Kaohsiung City (Taiwan)|=|Kaohsiung
 K&amacr;p&imacr;s&amacr; (Afghanistan)|=|Kapisa Province
 Kapisa (Extinct city)|<->|Ancient Kapisa
 Kappa (Japanese water goblin)|=|Kappa (folklore)
@@ -20927,6 +20960,7 @@ Press secretaries|=|Press secretary
 Pressburg, Battle of, Bratislava, Slovakia, 907|=|Battle of Pressburg
 Pressure groups|=|Advocacy group
 Pressurized water reactors|=|Pressurized water reactor
+Pressurized water reactors -- Loss of coolant|->|Loss-of-coolant accident
 Prester John (Legendary character)|=|Prester John
 Preston (Lancashire, England)|=|Preston, Lancashire
 Preston, Battle of, Preston, Lancashire, England, 1648|=|Battle of Preston (1648)
@@ -27318,6 +27352,7 @@ Victoria -- Politics and government|<-|Government of Victoria
 Victoria Class (Submarines)|<->|Upholder/Victoria-class submarine
 Victoria Land (Antarctica)|=|Victoria Land
 Victorio Peak (N.M.)|=|Victorio Peak
+Vicugna (Genus)|=|Vicugna
 Video games|=|Video game
 Video games -- Design|<->|Video game design
 Video games industry|=|Video game industry
@@ -27717,6 +27752,7 @@ Water -- Fluoridation|=|Water fluoridation
 Water -- Pollution|=|Water pollution
 Water -- Purification|=|Water purification
 Water buffalo meat|<->|Buffalo meat
+Water cooled reactors -- Loss of coolant|->|Loss-of-coolant accident
 Water dragons (Reptiles)|=|Physignathus
 Water-electrolyte imbalances|=|Water–electrolyte imbalance
 Water hyacinth|<->|Eichhornia crassipes
