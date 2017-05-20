@@ -211,6 +211,7 @@ Gruber, Franz Xaver, 1787-1863. Stille Nacht, heilige Nacht|=|Silent Night
 Heaven's gate (Motion picture)|=|Heaven's Gate (film)
 Heavy metal (Motion picture)|=|Heavy Metal (film)
 Huckleberry Hound (Television program)|=|The Huckleberry Hound Show
+Inspector George Gently (Television program)|=|Inspector George Gently
 Intolerance (Motion picture)|=|Intolerance (film)
 Ishtar (Motion picture)|=|Ishtar (film)
 Jefferson, Thomas, 1743-1826. Life and morals of Jesus of Nazareth|<->|Jefferson Bible
@@ -225,6 +226,7 @@ Modern family (Television program)|=|Modern Family
 Moretti, Giuseppe, 1857 or 1859-1935. Vulcan|<->|Vulcan statue
 Mutant chronicles (Motion picture)|=|Mutant Chronicles (film)
 Northern exposure (Television program)|=|Northern Exposure
+Obama, Barack. Dreams from my father|=|Dreams from My Father
 Picasso, Pablo, 1881-1973. Demoiselles d'Avignon|=|Les Demoiselles d'Avignon
 Picasso, Pablo, 1881-1973. Family of Saltimbanques|=|Family of Saltimbanques
 Picasso, Pablo, 1881-1973. Gertrude Stein|=|Portrait of Gertrude Stein
@@ -287,6 +289,8 @@ Shakespeare, William, 1564-1616. Two gentlemen of Verona|=|The Two Gentlemen of 
 Shakespeare, William, 1564-1616. When in disgrace with fortune and men's eyes|=|Sonnet 29
 Shakespeare, William, 1564-1616. Winter's tale|=|The Winter's Tale
 Shakespeare, William, 1564-1616. Works|=|Complete Works of Shakespeare
+Shaun the Sheep (Television program)|=|Shaun the Sheep
+Shaun the Sheep movie (Motion picture)|=|Shaun the Sheep Movie
 Sliders (Television program)|=|Sliders
 Sousa, John Philip, 1854-1932. Capitan (Operetta)|=|El Capitan (operetta)
 Sousa, John Philip, 1854-1932. D&eacute;sir&eacute;e|=|Désirée
@@ -314,8 +318,20 @@ Thor (Motion picture)|=|Thor (film)
 United Nations. Charter|=|United Nations Charter
 United States. Airline Deregulation Act of 1978|<->|Airline Deregulation Act
 United States. American Recovery and Reinvestment Act of 2009|=|American Recovery and Reinvestment Act of 2009
+United States. American Taxpayer Relief Act of 2012|=|American Taxpayer Relief Act of 2012
 United States. Articles of Confederation|=|Articles of Confederation
 United States. Bank Secrecy Act|=|Bank Secrecy Act
+United States. Banking Act of 1933|=|1933 Banking Act
+United States. Banking Act of 1935|=|Banking Act of 1935
+United States. Bankruptcy|<->|Title 11 of the United States Code
+United States. Bankruptcy. Chapter 11, Reorganization|=|Chapter 11, Title 11, United States Code
+United States. Bankruptcy. Chapter 12 , Adjustment of debts of a family farmer or fisherman with regular annual income|=|Chapter 12, Title 11, United States Code
+United States. Bankruptcy. Chapter 13, Adjustment of debts of an individual with regular income|=|Chapter 13, Title 11, United States Code
+United States. Bankruptcy. Chapter 15, Ancillary and other cross-border cases|=|Chapter 15, Title 11, United States Code
+United States. Bankruptcy. Chapter 7, Liquidation|=|Chapter 7, Title 11, United States Code
+United States. Bankruptcy. Chapter 9, Adjustment of debts of a municipality|=|Chapter 9, Title 11, United States Code
+United States. Bankruptcy Abuse Prevention and Consumer Protection Act of 2005|=|Bankruptcy Abuse Prevention and Consumer Protection Act
+United States. Bankruptcy Act of 1898|=|Bankruptcy Act of 1898
 United States. Civil Rights Act of 1866|=|Civil Rights Act of 1866
 United States. Civil Rights Act of 1957|=|Civil Rights Act of 1957
 United States. Civil Rights Act of 1964|=|Civil Rights Act of 1964
@@ -351,24 +367,58 @@ United States. Declaration of Independence|=|United States Declaration of Indepe
 United States. Emergency Economic Stabilization Act of 2008|<->|Emergency Economic Stabilization Act of 2008
 United States. Fair Housing Act|=|Fair Housing Act
 United States. Fair Labor Standards Act of 1938|=|Fair Labor Standards Act
+United States. Federal Reserve Act|=|Federal Reserve Act
 United States. Federal Rules of Evidence|=|Federal Rules of Evidence
+United States. Foreign Intelligence Surveillance Act of 1978|=|Foreign Intelligence Surveillance Act
 United States. Fugitive slave law (1793)|=|Fugitive Slave Act of 1793
 United States. Fugitive slave law (1850)|=|Fugitive Slave Act of 1850
 United States. Goldwater-Nichols Department of Defense Reorganization Act of 1986|=|Goldwater–Nichols Act
 United States. Indian Removal Act of 1830|=|Indian Removal Act
 United States. Indian Reorganization Act|=|Indian Reorganization Act
+United States. Intelligence Reform and Terrorism Prevention Act of 2004|=|Intelligence Reform and Terrorism Prevention Act
 United States. Kansas-Nebraska Act|=|Kansas–Nebraska Act
 United States. Labor management relations act, 1947|=|Labor Management Relations Act of 1947
 United States. Military Commissions Act of 2006|=|Military Commissions Act of 2006
 United States. Military Commissions Act of 2009|=|Military Commissions Act of 2009
+United States. Military Selective Service Act|->|Military Selective Service Act
 United States. National Industrial Recovery Act of 1933|=|National Industrial Recovery Act
+United States. National Security Act of 1947|=|National Security Act of 1947
 United States. No Child Left Behind Act of 2001|=|No Child Left Behind Act
 United States. Ordinance of 1787|=|Northwest Ordinance
 United States. Patient Protection and Affordable Care Act|=|Patient Protection and Affordable Care Act
 United States. President (1861-1865 : Lincoln). Emancipation Proclamation|=|Emancipation Proclamation
+United States. Protect America Act of 2007|=|Protect America Act of 2007
+United States. Revenue Act of 1921|=|Revenue Act of 1921
+United States. Revenue Act of 1924|=|Revenue Act of 1924
+United States. Revenue Act of 1926|=|Revenue Act of 1926
+United States. Revenue Act of 1928|=|Revenue Act of 1928
+United States. Revenue Act of 1932|=|Revenue Act of 1932
+United States. Revenue Act of 1934|=|Revenue Act of 1934
+United States. Revenue Act of 1935|=|Revenue Act of 1935
+United States. Revenue Act of 1936|=|Revenue Act of 1936
+United States. Revenue Act of 1941|=|Revenue Act of 1941
+United States. Revenue Act of 1942|=|Revenue Act of 1942
+United States. Revenue Act of 1943|=|Revenue Act of 1943
+United States. Revenue Act of 1945|=|Revenue Act of 1945
+United States. Revenue Act of 1948|=|Revenue Act of 1948
+United States. Revenue Act of 1950|=|Revenue Act of 1950
+United States. Revenue Act of 1951|=|Revenue Act of 1951
+United States. Revenue Act of 1962|=|Revenue Act of 1962
+United States. Revenue Act of 1964|=|Revenue Act of 1964
+United States. Revenue Act of 1971|=|Revenue Act of 1971
+United States. Revenue Act of 1978|=|Revenue Act of 1978
 United States. Right to Financial Privacy Act of 1978|=|Right to Financial Privacy Act
+United States. Selective Service Act of 1948|<->|Military Selective Service Act
+United States. Selective Training and Service Act of 1940|=|Selective Training and Service Act of 1940
+United States. Social Security Act|=|Social Security Act
+United States. Social Security Amendments of 1965|=|Social Security Amendments of 1965
+United States. Tax Reform Act of 1969|=|Tax Reform Act of 1969
+United States. Tax Reform Act of 1976|=|Tax Reform Act of 1976
+United States. Tax Reform Act of 1984|<->|Deficit Reduction Act of 1984
+United States. Tax Reform Act of 1986|=|Tax Reform Act of 1986
 United States. Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001|=|Patriot Act
 United States. Voting Rights Act of 1965|=|Voting Rights Act of 1965
+United States. War Powers Resolution|<->|War Powers Resolution
 Vaughan Williams, Ralph, 1872-1958. Blake songs|=|Ten Blake Songs
 Vaughan Williams, Ralph, 1872-1958. Concerto grosso, string orchestra|=|Concerto Grosso (Vaughan Williams)
 Vaughan Williams, Ralph, 1872-1958. Concertos, oboe, string orchestra|<->|Oboe Concerto (Vaughan Williams)
