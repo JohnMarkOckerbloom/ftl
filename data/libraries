@@ -1280,6 +1280,14 @@ BASEURL http://primo-direct-apac.hosted.exlibrisgroup.com
 VID 65SUTD
 LOC adaptor,scope:(65SUTD),primo_central_multiple_fe
 
+# Haven't gotten this Mandarin 5 library search working yet
+# ID OCLC-CHLAS
+# NAME Leysin American School
+# LOCATION Leysin
+# COUNTRY CH
+# BASEURL http://leysin.mlasolutions.com/m5/catalog
+# KEYURL ${BASEURL}/Default.aspx?command=urlcommand&urlcommand=search&installation=Default&query1=${ARG}
+
 # Don't know the ISIL if any for SWISSBIB
 ID SWISSBIB
 NAME Swissbib
@@ -5625,9 +5633,11 @@ ID OCLC-ZCY
 NAME City University of New York (CUNY)
 LOCATION New York
 STATE NY
-CATTYPE alephcuny
-BASEURL http://apps.appl.cuny.edu:83
-LCODE U-CUN01
+CATTYPE primodl-scope
+BASEURL http://onesearch.cuny.edu
+VID CUNY
+LCODE CEN
+SCOPE everything
 
 ID OCLC-VYG
 NAME Finger Lakes Library System
@@ -6068,8 +6078,8 @@ ID OCLC-APL
 NAME Akron-Summit County Public Library
 LOCATION Akron and vicinity
 STATE OH
-BASEURL http://encore.akronlibrary.org/iii/encore
-CATTYPE encore
+BASEURL http://catalog.akronlibrary.org
+CATTYPE webpacpro
 
 ID OCLC-CWR
 NAME Case Western Reserve University
@@ -6318,8 +6328,9 @@ ID OCLC-OKI
 NAME Southeastern Public Library System of Oklahoma
 LOCATION 7 counties in southeast Oklahoma
 STATE OK 
-BASEURL http://unicorn.oklibrary.net/uhtbin/cgisirsi
-CATTYPE sirsi
+CATTYPE sirsient
+LCODE en_US/default
+BASEURL http://sepl.ent.sirsi.net
 
 ID OCLC-OKP
 NAME Southern Prairie Library System
