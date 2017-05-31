@@ -73,6 +73,7 @@ AUTURL ${BASEURL}/?c_profile=${LCODE}&q=author:"${ARG}"+
 ATIURL ${BASEURL}/?c_profile=${LCODE}&q=${TINDEX}:"${TITLE}"+author:"${AUTHOR}"+
 KEYURL ${BASEURL}/?c_profile=${LCODE}&q=${ARG}+
 
+# This doesn't seem to be working cold with current Arena installations
 CATTYPE arena
 SUBURL ${BASEURL}/search?p_p_state=normal&p_p_lifecycle=1&p_p_action=1&p_p_id=searchResult_WAR_arenaportlets&&p_p_mode=view&search_item_no=0&search_type=solr&search_query=subject:(${ARG})
 AUTURL ${BASEURL}/search?p_p_state=normal&p_p_lifecycle=1&p_p_action=1&p_p_id=searchResult_WAR_arenaportlets&&p_p_mode=view&search_item_no=0&search_type=solr&search_query=author:(${ARG})

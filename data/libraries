@@ -1555,6 +1555,13 @@ COUNTRY UK
 CATTYPE prismhosted
 BASEURL http://capitadiscovery.co.uk/cornwall
 
+ID OCLC-UKSUS
+NAME East Sussex Libraries
+LOCATION 25 libraries in East Sussex, England
+COUNTRY UK
+CATTYPE spydus
+BASEURL https://e-library.eastsussex.gov.uk
+
 ID OCLC-EDJ
 NAME Edinburgh City Libraries
 LOCATION Edinburgh, Scotland
@@ -1747,9 +1754,8 @@ ID OCLC-REABC
 NAME Reading Borough Libraries
 LOCATION Reading, England
 COUNTRY UK
-BASEURL http://reading-hip.epixtech.co.uk
-CATTYPE ipac20
-PROFILE rea--1
+CATTYPE spydus
+BASEURL https://library.reading.gov.uk
 FILTERS S
 
 ID OCLC-UKBRW
