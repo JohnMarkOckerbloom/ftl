@@ -6,7 +6,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation
-# Last updated 2017-06-09
+# Last updated 2017-06-17
+# Now working on: Electronic resource, D-Z; Bach works
 4chan (Electronic resource)|=|4chan
 Abaqus (Electronic resource)|=|Abaqus
 Adobe InDesign (Electronic resource)|=|Adobe InDesign
@@ -81,6 +82,7 @@ Augustine, Saint, Bishop of Hippo. Soliloquia|=|Soliloquies of Augustine
 Autodesk Inventor (Electronic resource)|=|Autodesk Inventor
 Autotools (Electronic resource)|<->|GNU Build System
 Aviary (Electronic resource)|<->|Aviary (application suite)
+Babble (Electronic resource)|=|Babble.com
 Babylon 5 (Television program)|<->|Babylon 5
 Bach, Johann Sebastian, 1685-1750. Ach Gott vom Himmel sieh' darein (Cantata)|=|Ach Gott, vom Himmel sieh darein, BWV 2
 Bach, Johann Sebastian, 1685-1750. Ach Gott, wie manches Herzeleid (Cantata), BWV 3|=|Ach Gott, wie manches Herzeleid, BWV 3
@@ -251,13 +253,84 @@ Bach, Johann Sebastian, 1685-1750. Lass, F&uuml;rstin, lass noch einen Strahl|=|
 Bach, Johann Sebastian, 1685-1750. Leichtgesinnte Flattergeister|=|Leichtgesinnte Flattergeister, BWV 181
 Bach, Johann Sebastian, 1685-1750. Liebster Gott, wenn werd ich sterben|=|Liebster Gott, wenn werd ich sterben? BWV 8
 Bach, Johann Sebastian, 1685-1750. Liebster Immanuel, Herzog der Frommen (Cantata)|=|Liebster Immanuel, Herzog der Frommen, BWV 123
+Bach, Johann Sebastian, 1685-1750. Liebster Jesu, mein Verlangen|=|Liebster Jesu, mein Verlangen, BWV 32
+Bach, Johann Sebastian, 1685-1750. Lobe den Herren, den m&auml;chtigen K&ouml;nig der Ehren|=|Lobe den Herren, den mächtigen König der Ehren, BWV 137
+Bach, Johann Sebastian, 1685-1750. Lobe den Herrn, meine Seele, BWV 143|=|Lobe den Herrn, meine Seele, BWV 143
+Bach, Johann Sebastian, 1685-1750. Lobe den Herrn, meine Seele, BWV 69|=|Lobe den Herrn, meine Seele, BWV 69
+Bach, Johann Sebastian, 1685-1750. Lobe den Herrn, meine Seele, BWV 69a|=|Lobe den Herrn, meine Seele, BWV 69a
+Bach, Johann Sebastian, 1685-1750. Lobet den Herrn, alle Heiden|=|Lobet den Herrn, alle Heiden, BWV 230
+Bach, Johann Sebastian, 1685-1750. Lobet Gott in seinen Reichen|=|Lobet Gott in seinen Reichen, BWV 11
+Bach, Johann Sebastian, 1685-1750. Mache dich, mein Geist, bereit|=|Mache dich, mein Geist, bereit, BWV 115
+Bach, Johann Sebastian, 1685-1750. Magnificats, BWV 243, D major|=|Magnificat (Bach)
+Bach, Johann Sebastian, 1685-1750. Magnificats, BWV 243a, E&flat; major|=|Magnificat in E-flat major, BWV 243a
+Bach, Johann Sebastian, 1685-1750. Man singet mit Freuden vom Sieg|=|Man singet mit Freuden vom Sieg, BWV 149
+Bach, Johann Sebastian, 1685-1750. Markuspassion|=|St Mark Passion, BWV 247
+Bach, Johann Sebastian, 1685-1750. Masses, BWV 232, B minor|=|Mass in B minor
+Bach, Johann Sebastian, 1685-1750. Matth&auml;uspassion|=|St Matthew Passion
+Bach, Johann Sebastian, 1685-1750. Mein Gott, wie lang', ach lange|=|Mein Gott, wie lang, ach lange? BWV 155
+Bach, Johann Sebastian, 1685-1750. Mein Herze schwimmt im Blut|=|Mein Herze schwimmt im Blut, BWV 199
+Bach, Johann Sebastian, 1685-1750. Mein liebster Jesus ist verloren|=|Mein liebster Jesus ist verloren, BWV 154
+Bach, Johann Sebastian, 1685-1750. Meine Seel erhebt den Herren|=|Meine Seel erhebt den Herren, BWV 10
+Bach, Johann Sebastian, 1685-1750. Meine Seufzer, meine Tr&auml;nen|=|Meine Seufzer, meine Tränen, BWV 13
+Bach, Johann Sebastian, 1685-1750. Meinen Jesum lass ich nicht (Cantata)|=|Meinen Jesum laß ich nicht, BWV 124
+Bach, Johann Sebastian, 1685-1750. Mit Fried' und Freud' ich fahr' dahin (Cantata)|=|Mit Fried und Freud ich fahr dahin, BWV 125
+Bach, Johann Sebastian, 1685-1750. Motets|<->|List of motets by Johann Sebastian Bach
+Bach, Johann Sebastian, 1685-1750. Musikalisches Opfer|=|The Musical Offering
+Bach, Johann Sebastian, 1685-1750. Nach dir, Herr, verlanget mich|=|Nach dir, Herr, verlanget mich, BWV 150
+Bach, Johann Sebastian, 1685-1750. Neugebor'ne Kindelein|=|Das neugeborne Kindelein, BWV 122
+Bach, Johann Sebastian, 1685-1750. Nimm von uns, Herr, du treuer Gott|=|Nimm von uns, Herr, du treuer Gott, BWV 101
+Bach, Johann Sebastian, 1685-1750. Nimm, was dein ist, und gehe hin|=|Nimm, was dein ist, und gehe hin, BWV 144
+Bach, Johann Sebastian, 1685-1750. Non sa che sia dolore|=|Non sa che sia dolore, BWV 209
+Bach, Johann Sebastian, 1685-1750. Nun danket alle Gott (Cantata)|=|Nun danket alle Gott, BWV 192
+Bach, Johann Sebastian, 1685-1750. Nun ist das Heil und die Kraft|=|Nun ist das Heil und die Kraft, BWV 50
+Bach, Johann Sebastian, 1685-1750. Nun komm, der Heiden Heiland (Cantata), BWV 61|=|Nun komm, der Heiden Heiland, BWV 61
+Bach, Johann Sebastian, 1685-1750. Nun komm, der Heiden Heiland (Cantata), BWV 62|=|Nun komm, der Heiden Heiland, BWV 62
+Bach, Johann Sebastian, 1685-1750. Nur jedem das Seine|=|Nur jedem das Seine, BWV 163
+Bach, Johann Sebastian, 1685-1750. O angenehme Melodei|=|O angenehme Melodei, BWV 210a
+Bach, Johann Sebastian, 1685-1750. O ewiges Feuer, o Ursprung der Liebe, BWV 34|=|O ewiges Feuer, o Ursprung der Liebe, BWV 34
+Bach, Johann Sebastian, 1685-1750. O ewiges Feuer, o Ursprung der Liebe, BWV 34a|=|O ewiges Feuer, o Ursprung der Liebe, BWV 34a
+Bach, Johann Sebastian, 1685-1750. O Ewigkeit, du Donnerwort (Cantata), BWV 20|=|O Ewigkeit, du Donnerwort, BWV 20
+Bach, Johann Sebastian, 1685-1750. O Ewigkeit, du Donnerwort (Cantata), BWV 60|=|O Ewigkeit, du Donnerwort, BWV 60
+Bach, Johann Sebastian, 1685-1750. O heilges Geist- und Wasserbad|=|O heilges Geist- und Wasserbad, BWV 165
+Bach, Johann Sebastian, 1685-1750. O holder Tag, erw&uuml;nschte Zeit|=|O holder Tag, erwünschte Zeit, BWV 210
+Bach, Johann Sebastian, 1685-1750. O Jesu Christ, mein's Lebens Licht|=|O Jesu Christ, meins Lebens Licht, BWV 118
+Bach, Johann Sebastian, 1685-1750. Orchestra music|<->|List of orchestral works by Johann Sebastian Bach
+Bach, Johann Sebastian, 1685-1750. Organ music|<->|List of organ compositions by Johann Sebastian Bach
+Bach, Johann Sebastian, 1685-1750. Orgelb&uuml;chlein|=|Orgelbüchlein
+Bach, Johann Sebastian, 1685-1750. Oster-Oratorium|=|Easter Oratorio
+Bach, Johann Sebastian, 1685-1750. Partitas, flute, BWV 1013, A minor|=|Partita in A minor for solo flute (Bach)
+Bach, Johann Sebastian, 1685-1750. Partitas, harpsichord, BWV 825-830|=|Partitas for keyboard (Bach)
+Bach, Johann Sebastian, 1685-1750. Partitas, harpsichord, BWV 828, D major|=|Partita for keyboard No. 4 (Bach)
+Bach, Johann Sebastian, 1685-1750. Partitas, harpsichord, BWV 830, E minor|=|Partita for keyboard No. 6 (Bach)
+Bach, Johann Sebastian, 1685-1750. Passacaglia, organ, BWV 582, C minor|=|Passacaglia and Fugue in C minor, BWV 582
+Bach, Johann Sebastian, 1685-1750. Passions|<->|Passions (Bach)
+Bach, Johann Sebastian, 1685-1750. Pr&auml;ludium, Fuge und Allegro, lute, BWV 998, E&flat; major|=|Prelude, Fugue and Allegro in E-flat major, BWV 998
+Bach, Johann Sebastian, 1685-1750. Pr&auml;ludium und Fuge, organ, BWV 532, D major|=|Prelude and Fugue in D major, BWV 532
+Bach, Johann Sebastian, 1685-1750. Pr&auml;ludium und Fuge, organ, BWV 543, A minor|=|Prelude and Fugue in A minor, BWV 543
+Bach, Johann Sebastian, 1685-1750. Pr&auml;ludium und Fuge, organ, BWV 548, E minor|=|Prelude and Fugue in E minor, BWV 548
+Bach, Johann Sebastian, 1685-1750. Preise dein Gl&uuml;cke, gesegnetes Sachsen|=|Preise dein Glücke, gesegnetes Sachsen, BWV 215
+Bach, Johann Sebastian, 1685-1750. Preise, Jerusalem, den Herrn|=|Preise, Jerusalem, den Herrn, BWV 119
+Bach, Johann Sebastian, 1685-1750. Preludes, lute, BWV 999, C minor|=|Prelude in C minor, BWV 999
+Bach, Johann Sebastian, 1685-1750. Quodlibet, mixed voices, continuo, BWV 524, F major|=|Quodlibet, BWV 524
+Bach, Johann Sebastian, 1685-1750. Schau, lieber Gott, wie meine Feind'|=|Schau, lieber Gott, wie meine Feind, BWV 153
+Bach, Johann Sebastian, 1685-1750. Schauet doch und sehet, ob irgend ein Schmerz sei|=|Schauet doch und sehet, ob irgend ein Schmerz sei, BWV 46
+Bach, Johann Sebastian, 1685-1750. Schleicht, spielende Wellen|=|Schleicht, spielende Wellen, BWV 206
+Bach, Johann Sebastian, 1685-1750. Schm&uuml;cke dich, O liebe Seele (Cantata)|=|Schmücke dich, o liebe Seele, BWV 180
+Bach, Johann Sebastian, 1685-1750. Schwingt freudig euch empor, BWV 36|=|Schwingt freudig euch empor, BWV 36
+Bach, Johann Sebastian, 1685-1750. Schwingt freudig euch empor, BWV 36c|=|Schwingt freudig euch empor, BWV 36c
+Bach, Johann Sebastian, 1685-1750. Sehet, welch eine Liebe hat uns der Vater erzeiget|=|Sehet, welch eine Liebe hat uns der Vater erzeiget, BWV 64
+Bach, Johann Sebastian, 1685-1750. Sehet, wir geh'n hinauf gen Jerusalem|=|Sehet, wir gehn hinauf gen Jerusalem, BWV 159
+Bach, Johann Sebastian, 1685-1750. Sei Lob und Ehr dem h&ouml;chsten Gut (Cantata)|=|Sei Lob und Ehr dem höchsten Gut, BWV 117
+Bach, Johann Sebastian, 1685-1750. Selig ist der Mann|=|Selig ist der Mann, BWV 57
 Back to the future (Motion picture)|=|Back to the Future
 Back to the future part II (Motion picture)|=|Back to the Future Part II
 Back to the future part III (Motion picture)|=|Back to the Future Part III
+Bada (Electronic resource)|<->|Bada
 Battlestar Galactica (Television program : 1978-1979)|=|Battlestar Galactica (1978 TV series)
 Battlestar Galactica (Television program : 2003)|=|Battlestar Galactica (miniseries)
 Battlestar Galactica (Television program : 2004-2009)|=|Battlestar Galactica (2004 TV series)
 Bear in the Big Blue House (Television program)|=|Bear in the Big Blue House
+Bento (Electronic resource)|<->|Bento (database)
 Bible. Acts|=|Acts of the Apostles
 Bible. Amos|=|Book of Amos
 Bible. Apocrypha|<->|Deuterocanonical books
@@ -346,6 +419,7 @@ Big brother (Television program : South Africa)|<->|Big Brother (South African T
 Big brother Brasil (Television program)|=|Big Brother Brasil
 Birth of a nation (Motion picture : 1915)|=|The Birth of a Nation
 Birth of a nation (Motion picture : 2016)|=|The Birth of a Nation (2016 film)
+BLAST (Electronic resource)|<->|BLAST
 Bonanza (Television program)|=|Bonanza
 Book of Mormon. Alma|=|Book of Alma
 Book of Mormon. Enos|=|Book of Enos
@@ -375,6 +449,7 @@ Broken arrow (Motion picture : 1950)|=|Broken Arrow (1950 film)
 Broken arrow (Motion picture : 1996)|=|Broken Arrow (1996 film)
 Buffy, the vampire slayer (Motion picture)|=|Buffy the Vampire Slayer (film)
 Buffy, the vampire slayer (Television program)|=|Buffy the Vampire Slayer
+Captivate (Electronic resource)|=|Adobe Captivate
 Carroll, Lewis, 1832-1898. Alice's adventures in Wonderland|=|Alice's Adventures in Wonderland
 Carroll, Lewis, 1832-1898. Eight or nine wise words about letter-writing|=|Eight or Nine Wise Words about Letter-Writing
 Carroll, Lewis, 1832-1898. Hunting of the snark|=|The Hunting of the Snark
@@ -385,9 +460,17 @@ Carroll, Lewis, 1832-1898. Walrus and the carpenter|=|The Walrus and the Carpent
 Carson, Rachel, 1907-1964. Silent spring|=|Silent Spring
 Casablanca (Motion picture)|=|Casablanca (film)
 Christmas story (Motion picture)|=|A Christmas Story
+ClickOnce (Electronic resource)|=|ClickOnce
+Cocoon (Electronic resource)|<->|Apache Cocoon
+Cocoon (Motion picture : 1985)|=|Cocoon (film)
+Cocoon: the return (Motion picture)|=|Cocoon: The Return
 Cold case (Television program)|=|Cold Case
 Cold Mountain (Motion picture)|=|Cold Mountain (film)
+Cookin' with Coolio (Electronic resource)|=|Cookin' with Coolio
+Coq (Electronic resource)|=|Coq
+Creo (Electronic resource)|<->|PTC Creo
 Crossfire (Motion picture : 1947)|=|Crossfire (film)
+Crystal reports (Electronic resource)|=|Crystal Reports
 Dallas (Television program)|=|Dallas (1978 TV series)
 Dancing with the stars (Television program)|<->|Dancing with the Stars
 Darwin, Charles, 1809-1882. Autobiography|<->|The Autobiography of Charles Darwin
@@ -454,6 +537,7 @@ Pok&eacute;mon: the first movie (Motion picture)|=|Pokémon: The First Movie
 Pok&eacute;mon: the movie 2000 (Motion picture)|=|Pokémon: The Movie 2000
 Polar Express (Motion picture)|=|The Polar Express (film)
 Rawhide (Television program)|=|Rawhide (TV series)
+Red River Valley|=|Red River Valley (song)
 Rouget de Lisle, Claude Joseph, 1760-1836. Marseillaise|=|La Marseillaise
 Ruby on rails (Electronic resource)|=|Ruby on Rails
 Saint-Gaudens, Augustus, 1848-1907. Robert Gould Shaw memorial (Bronze sculpture)|=|Robert Gould Shaw Memorial
@@ -522,6 +606,7 @@ Sousa, John Philip, 1854-1932. Stars and stripes forever|<->|The Stars and Strip
 Sousa, John Philip, 1854-1932. Thunderer|=|The Thunderer
 Sousa, John Philip, 1854-1932. U.S. Field Artillery|=|U.S. Field Artillery March
 Sousa, John Philip, 1854-1932. Washington Post|=|The Washington Post (march)
+Splash (Motion picture)|=|Splash (film)
 SpongeBob SquarePants (Television program)|=|SpongeBob SquarePants
 Stoker, Bram, 1847-1912. Dracula|=|Dracula
 Stoker, Bram, 1847-1912. Lady of the shroud|=|The Lady of the Shroud
