@@ -280,6 +280,13 @@ COUNTRY AU
 CATTYPE primo-justquery
 BASEURL http://search.library.unisa.edu.au/?
 
+ID OCLC-T4Z
+NAME University of Tasmania
+LOCATION Hobart and other campuses, Tasmania
+COUNTRY AU
+CATTYPE eds
+LCODE s3690071
+
 ID AU-WU
 NAME University of Western Australia
 LOCATION Perth, Western Australia
@@ -6139,6 +6146,7 @@ STATE OH
 BASEURL http://encore.cuyahoga.lib.oh.us/iii/encore
 CATTYPE encore
 
+# TODO: Check to see if search error is only transient
 ID OCLC-7DM
 NAME Dayton Metro Library
 LOCATION Dayton and vicinity
