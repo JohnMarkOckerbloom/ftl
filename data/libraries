@@ -6146,7 +6146,6 @@ STATE OH
 BASEURL http://encore.cuyahoga.lib.oh.us/iii/encore
 CATTYPE encore
 
-# TODO: Check to see if search error is only transient
 ID OCLC-7DM
 NAME Dayton Metro Library
 LOCATION Dayton and vicinity

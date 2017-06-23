@@ -10,7 +10,7 @@
 #   are not included in this file.
 # Manual title and name-title correspondences have been moved to wikiworksmap.
 # See docs file for documentation
-# Last updated 2017-06-17
+# Last updated 2017-06-23
 # Did LCSH 2015 and 2016 update lists, 2017 lists 1-5
 1066 Country Walk (England)|=|1066 Country Walk
 119 (Locomotive)|=|Union Pacific No. 119
@@ -1410,7 +1410,7 @@ Arizona -- History -- Civil War, 1861-1865|->|New Mexico Territory in the Americ
 Arizona -- History -- Civil War, 1861-1865|<-|Confederate Arizona
 Arizona alder|=|Alnus oblongifolia
 Arizona (Battleship)|=|USS Arizona (BB-39)
-Arizona Canal (Ariz.)|=|From Wikipedia, the free encyclopedia
+Arizona Canal (Ariz.)|=|Arizona Canal
 Arizona Cardinals (Football team)|=|Arizona Cardinals
 Arizona cottontop|=|Digitaria californica
 Arizona Diamondbacks (Baseball team)|=|Arizona Diamondbacks
@@ -3282,8 +3282,8 @@ Book Cliffs (Utah and Colo.)|=|Book Cliffs
 Book clubs (Bookselling)|=|Book sales club
 Book clubs (Discussion groups)|=|Book discussion club
 Book collectors|->|Book collecting
-Book-making (Betting)|<->|Bookmaker
-Bookmakers (Gambling)|->|Bookmaker
+Book-making (Betting)|<->|Bookmaker (gambling)
+Bookmakers (Gambling)|<->|List of bookmakers
 Bookmarks|=|Bookmark
 Bookplates|=|Bookplate
 Books|=|Book
@@ -3385,7 +3385,6 @@ Bourgade Catholic High School (Phoenix, Ariz.)|=|Bourgade Catholic High School
 Bourne, Jason (Fictitious character)|=|Jason Bourne
 Bouyei (Chinese people)|=|Bouyei people
 Bouvines, Battle of, Bouvines, France, 1214|=|Battle of Bouvines
-Bovine viral diarrhea|=|Bovine virus diarrhea
 Bow Island (Alta.)|=|Bow Island
 Bow Lake (Alta.)|=|Bow Lake (Alberta)
 Bow River (Alta.)|=|Bow River
@@ -3777,6 +3776,7 @@ Bunger Hills (Antarctica)|=|Bunger Hills
 Bungu (African people)|=|Bungu people
 Bunker Hill, Battle of, Boston, Mass., 1775|=|Battle of Bunker Hill
 Bunkers (Fortification)|=|Bunker
+Buntings (Birds)|=|Bunting (bird)
 Bunyan, Paul (Legendary character)|=|Paul Bunyan
 Bunyaviruses|=|Bunyaviridae
 Bura-Pabir language|<->|Bura language
@@ -4270,6 +4270,7 @@ Cardigan (Wales)|=|Cardigan, Ceredigion
 Cardigan Castle (Cardigan, Wales)|=|Cardigan Castle
 Cardinal River (Alta.)|=|Cardinal River
 Cardinals|=|Cardinal (Catholic Church)
+Cardinals (Birds)|=|Cardinal (bird)
 Cardiologists|->|Cardiology
 Cardiovascular system|=|Circulatory system
 Cardiovascular system -- Diseases|<->|Cardiovascular disease
@@ -4349,7 +4350,7 @@ Casa Serra (Barcelona, Spain)|=|Casa Serra
 Casablanca (Morocco)|=|Casablanca
 Casablanca (Morocco) -- History|=|History of Casablanca
 Casadepaga River (Alaska)|=|Casadepaga River
-Casas Viejas Massacre, Benalup de Sidonia, Spain, 1933|<->|Casas Viejas massacre
+Casas Viejas Massacre, Benalup de Sidonia, Spain, 1933|<->|Casas Viejas incident
 Cascade Creek (Teton County, Wyo.)|=|Cascade Creek (Grand Teton National Park)
 Cascade impactors (Meteorological instruments)|=|Cascade impactor
 Cascade Park (New Castle, Pa.)|<->|Cascade Park (amusement park)
@@ -4435,7 +4436,7 @@ Catalina (Seaplane)|=|Consolidated PBY Catalina
 Catalina State Park (Ariz.)|=|Catalina State Park
 Catalonia (Spain)|=|Catalonia
 Catalonia (Spain) -- History|=|History of Catalonia
-Catalonia (Spain) -- History -- Civil War, 1462-1472|=|Catalonian Civil War
+Catalonia (Spain) -- History -- Civil War, 1462-1472|=|Catalan Civil War
 Catalonia (Spain) -- History -- Reapers' War, 1640-1659|=|Catalan revolt
 Catalonia (Spain) -- Politics and government|<->|Politics of Catalonia
 Catania (Italy)|=|Catania
@@ -5712,6 +5713,8 @@ Combined cycle power plants|<->|Combined cycle
 Combines (Agricultural machinery)|=|Combine harvester
 Comebacks|<-|Comeback (sports)
 Combustion gases|<->|Exhaust gas
+Combustion, Spontaneous|=|Spontaneous combustion
+Combustion, Spontaneous human|=|Spontaneous human combustion
 Comechingone Indians|=|Comechingón
 Comet (Jet transports)|<->|De Havilland Comet
 Comets|=|Comet
@@ -8183,7 +8186,7 @@ Electric multiple units (Railroad trains)|=|Electric multiple unit
 Electric power production|=|Electricity generation
 Electric power systems|=|Electric power system
 Electric utilities|=|Electric utility
-Electric vehicles -- Batteries|=|Electric vehicle battery
+Electric vehicles -- Batteries|=|Electric-vehicle battery
 Electric waves|->|Electromagnetism
 Electrical play (Sex)|<->|Erotic electrostimulation
 Electrodes|=|Electrode
@@ -9224,7 +9227,7 @@ Flashman, Harry Paget (Fictitious character)|=|Harry Flashman
 Flask (Software framework)|=|Flask (web framework)
 Flat panel displays|=|Flat panel display
 Flat-rate income tax|<->|Flat tax
-Flatterer (Race horse)|=|Flatterer (racehorse)
+Flatterer (Race horse)|=|Flatterer (horse)
 Flattery Rocks National Wildlife Refuge (Wash.)|=|Flattery Rocks National Wildlife Refuge
 Flattop Mountain Trail (Colo.)|=|Flattop Mountain Trail
 Flatvaer Islands (Antarctica)|=|Flatvaer Islands
@@ -12944,7 +12947,7 @@ Iraz&uacute; Volcano (Costa Rica)|=|Irazú Volcano
 Irb&iacute;l (Iraq)|=|Erbil
 Ireland -- History -- Civil War, 1922-1923|=|Irish Civil War
 Ireland -- History -- Easter Rising, 1916|=|Easter Rising
-Ireland -- History -- Emmet's Rebellion, 1803|=|Irish Rebellion of 1803
+Ireland -- History -- Emmet's Rebellion, 1803|=|Irish rebellion of 1803
 Ireland -- History -- English Conquest, 1166-1186|<->|Norman invasion of Ireland
 Ireland -- History -- Famine, 1845-1852|=|Great Famine (Ireland)
 Ireland -- History -- Partition, 1921|<->|Partition of Ireland
@@ -13717,7 +13720,7 @@ Jupiter (Steam locomotive)|=|Jupiter (locomotive)
 Jupiter Artland (Scotland)|=|Jupiter Artland
 Jura (Switzerland)|=|Canton of Jura
 Jurisdiction, Territorial|=|Territorial jurisdiction
-Juristic persons|->|Legal personality
+Juristic persons|<->|Juridical person
 Jurong (Singapore)|=|Jurong
 Jus primae noctis|<->|Droit du seigneur
 Just war doctrine|=|Just war theory
@@ -13912,7 +13915,7 @@ Kasserine Pass, Battle of, Tunisia, 1943|=|Battle of Kasserine Pass
 Kastrat (Albania)|<->|Kastrat
 Kasugai-shi (Japan)|=|Kasugai, Aichi
 Katab (African people)|<->|Atyap people
-Katab language|<->|Tyap Language
+Katab language|<->|Tyap language
 Katahdin, Mount (Me.)|=|Mount Katahdin
 Katana DA20 (Training plane)|<->|Diamond DA20
 Katanga (Congo)|=|Katanga Province
@@ -14734,7 +14737,7 @@ Landscape gardening|<->|English landscape garden
 Landscapes|=|Landscape
 Landuma (African people)|=|Landuma people
 Lane, Lois (Fictitious character)|=|Lois Lane
-Lang Vei, Battle of, Vietnam, 1968|=|Battle of Lang Vay
+Lang Vei, Battle of, Vietnam, 1968|=|Battle of Lang Vei
 Langat River (Selangor, Malaysia)|=|Langat River
 Langholm (Scotland)|=|Langholm
 Langhorne Speedway (Langhorne, Pa.)|=|Langhorne Speedway
@@ -15241,6 +15244,7 @@ Lipids|=|Lipid
 Lipids -- Metabolism|=|Lipid metabolism
 Lipizzaner horse|=|Lipizzan
 Lippe River (Germany)|=|Lippe (river)
+Lippia (Genus)|=|Lippia
 Liquid crystals|<->|Liquid crystal
 Liquids|=|Liquid
 Liquor laws|->|Alcohol law
@@ -18016,7 +18020,7 @@ Nchumburu language|<->|Nchumbulu language
 Ndau (African people)|=|Ndau people
 Ndebele (African people)|<->|Northern Ndebele people
 Ndebele language (South Africa)|=|Southern Ndebele language
-Ndebele language (Zimbabwe)|=|Zimbabwean Ndebele language
+Ndebele language (Zimbabwe)|=|Northern Ndebele language
 Ndendeule (African people)|=|Ndendeule people
 Ndondakusuka, Battle of, South Africa, 1856|=|Battle of Ndondakusuka
 Ndonga language|=|Ndonga dialect
@@ -20355,7 +20359,7 @@ Personal watercraft|<->|Personal water craft
 Personals|=|Personal advertisement
 Personnel management|=|Human resource management
 Persons|=|Person
-Persons (Law)|<->|Legal personality
+Persons (Law)|=|Legal person
 PERT (Network analysis)|<->|Program evaluation and review technique
 Perth, Battle of, Perth, Scotland, 1396|<->|Battle of the North Inch
 Perth (W.A.)|=|Perth
@@ -20610,7 +20614,7 @@ Pima Indians|=|Pima people
 Pimer&iacute;a Alta (Mexico and Ariz.)|=|Pimería Alta
 Pimlico (London, England)|=|Pimlico
 Pinal Mountains (Ariz.)|=|Pinal Mountains
-Pinaleno Mountains (Ariz.)|=|Pinaleno Mountains
+Pinaleno Mountains (Ariz.)|=|Pinaleño Mountains
 Pinang Island (Pulau Pinang, Malaysia)|=|Penang Island
 Pinatas|=|Piñata
 Pinatubo, Mount (Philippines)|=|Mount Pinatubo
@@ -21969,7 +21973,7 @@ Reading (England)|=|Reading, Berkshire
 Reading (England) -- History -- Siege, 1643|<->|Siege of Reading
 Reagan, Ronald -- Assassination attempt, 1981|=|Attempted assassination of Ronald Reagan
 Real-time clocks (Computers)|=|Real-time clock
-Real-time rendering (Computer graphics)|=|Real-time rendering
+Real-time rendering (Computer graphics)|<->|Real-time computer graphics
 Realism in art|=|Realism (arts)
 Realism in literature|=|Literary realism
 Reality television programs|=|Reality television
@@ -22112,7 +22116,7 @@ Reliquaries|=|Reliquary
 Reluctance motors|=|Reluctance motor
 Remainders (Bookselling)|=|Remaindered book
 Remedies (Law)|=|Legal remedy
-Remences, War of the, Spain, 1462-1486|<->|Remença
+Remences, War of the, Spain, 1462-1486|<->|Remensa
 Remixes|<->|Remix
 Remnant (Theology)|=|Remnant (Bible)
 Remora (Fish)|=|Remora
@@ -23312,9 +23316,18 @@ Scarlatti family|<->|Scarlatti
 Scarpetta, Kay (Fictitious character)|=|Kay Scarpetta
 Scars|=|Scar
 Scary Creek, Battle of, W. Va., 1861|=|Battle of Scary Creek
-Scenic byways -- Iowa|<->|Iowa Scenic Byways
-Scenic byways -- New Jersey|<->|New Jersey Scenic Byways
-Scenic byways -- New Mexico|<->|New Mexico Scenic and Historic Byway
+Scenic byways -- Arkansas|<->|Arkansas Scenic Byways
+Scenic byways -- California|<->|State Scenic Highway System (California)
+Scenic byways -- Colorado|<->|List of Colorado Scenic and Historic Byways
+Scenic byways -- Iowa|<->|List of Iowa Scenic Byways
+Scenic byways -- Nevada|<->|List of Nevada Scenic Byways
+Scenic byways -- New Jersey|<->|List of New Jersey Scenic Byways
+Scenic byways -- New Mexico|<->|List of New Mexico Scenic and Historic Byways
+Scenic byways -- North Carolina|<->|List of North Carolina Scenic Byways
+Scenic byways -- Pennsylvania|<->|List of Pennsylvania Scenic Byways
+Scenic byways -- South Carolina|<->|List of South Carolina Scenic Byways
+Scenic byways -- Utah|<->|List of Utah Scenic Byways
+Scenic byways -- Washington (State)|<->|List of Washington State Scenic and Recreational Highways
 Schaffhausen (Switzerland)|=|Schaffhausen
 Schaffhausen (Switzerland : Canton)|=|Canton of Schaffhausen
 Scheldt River|=|Scheldt
@@ -24015,6 +24028,7 @@ Siena (Italy) -- History -- Rule of the Nine, 1287-1355|<->|Noveschi
 Sierra Ancha (Ariz.)|=|Sierra Ancha
 Sierra Ancha Wilderness Area (Ariz.)|=|Sierra Ancha Wilderness
 Sierra Blanca Range (N.M.)|=|Sierra Blanca (New Mexico)
+Sierra Bonita Ranch (Ariz.)|=|Sierra Bonita Ranch
 Sierra Estrella (Ariz.)|=|Sierra Estrella
 Sierra Foothills American Viticultural Area (Calif.)|=|Sierra Foothills AVA
 Sierra Leone -- History -- Civil War, 1991-2002|=|Sierra Leone Civil War
@@ -24169,7 +24183,7 @@ Siskiyou Mountains (Calif. and Or.)|=|Siskiyou Mountains
 Sissach (Switzerland)|=|Sissach
 Sissala language|=|Sisaala language
 Sistan (Iran and Afghanistan)|=|Sistan
-Sister cities|<->|Twin towns and sister cities
+Sister cities|=|Sister city
 Sisterhoods|->|Nun
 Sisters of Saint Joseph|=|Sisters of St. Joseph
 Sisters of St. Joseph of Carondelet|->|Sisters of St. Joseph
@@ -24178,6 +24192,7 @@ Sisters|->|Sibling
 Sisyphus, King of Corinth (Mythological character)|=|Sisyphus
 Site index (Forestry)|=|Site index
 Site-specific installations (Art)|->|Site-specific art
+Sitgreaves National Forest (Ariz.)|=|Sitgreaves National Forest
 Sith (Fictitious characters)|=|Sith
 Sitka National Historical Park (Agency : U.S.)|->|Sitka National Historical Park
 Sitka National Historical Park (Sitka, Alaska)|=|Sitka National Historical Park
@@ -24329,6 +24344,7 @@ Sleeptalking|=|Somniloquy
 Sleepwear|<->|Nightwear
 Sleepy Lagoon Trial, Los Angeles, Calif., 1942-1943|<->|Sleepy Lagoon murder
 Slick, Sam (Fictitious character)|=|Sam Slick
+Slide Rock State Park (Ariz.)|=|Slide Rock State Park
 Sligo (Ireland : County)|=|County Sligo
 Slim Buttes (S.D.)|<->|Slim Buttes Formation
 Slim Buttes, Battle of, S.D., 1876|=|Battle of Slim Buttes
@@ -24396,6 +24412,7 @@ Snake River Plain Aquifer (Idaho)|=|Snake River Aquifer
 Snake River Plain (Idaho and Or.)|=|Snake River Plain
 Snake War, 1864-1868|=|Snake War
 Snakes|=|Snake
+Snaketown Site (Ariz.)|=|Snaketown
 SNePS (Computer program language)|<->|SNePS
 Snettisham (England)|=|Snettisham
 Snettisham, Port (Alaska)|=|Port Snettisham
@@ -24416,7 +24433,7 @@ Snowmass Mountain (Colo.)|=|Snowmass Mountain
 Snowmen|=|Snowman
 Snowy River (N.S.W. and Vic.)|=|Snowy River
 Snyderville Basin (Utah)|=|Snyderville Basin
-So language (Uganda)|=|Tepes language
+So language (Uganda)|=|Soo language
 Soapstone Ridge (Ga.)|=|Soapstone Ridge
 Soave (Italy)|=|Soave
 Soba (Noodles)|<->|Soba
@@ -24557,6 +24574,7 @@ Sonoma Mountain (Calif.)|=|Sonoma Mountain
 Sonoma Mountains (Calif.)|=|Sonoma Mountains
 Sonoma Range (Nev.)|=|Sonoma Range
 Sonora (Mexico : State)|=|Sonora
+Sonoran Desert National Monument (Ariz.)|=|Sonoran Desert National Monument
 Sonoyta River (Ariz. and Mexico)|=|Sonoyta River
 Sontay Raid, 1970|<->|Operation Ivory Coast
 Sony Cli&eacute; (Computer)|=|CLIÉ
@@ -24629,6 +24647,8 @@ South Mountain (Pa. and Md.)|=|South Mountain (Maryland and Pennsylvania)
 South Mountain, Battle of, Md., 1862|=|Battle of South Mountain
 South Mountain Freeway (Ariz.)|->|Arizona State Route 202
 South Mountain Reservation (N.J.)|=|South Mountain Reservation
+South Mountains (Ariz.)|=|South Mountains (Arizona)
+South Mountains State Park (N.C.)|=|South Mountains State Park
 South Napa Earthquake, Calif., 2014|=|2014 South Napa earthquake
 South Ossetia War, 2008|<->|Russo-Georgian War
 South Oyster Bay (N.Y. : Bay)|=|South Oyster Bay
@@ -25219,6 +25239,7 @@ Sullys Hill National Game Preserve (Agency: U.S.)|->|Sullys Hill National Game P
 Sullys Hill National Game Preserve (N.D.)|=|Sullys Hill National Game Preserve
 Sulman Prize|=|Sir John Sulman Prize
 Sulod (Philippine people)|<->|Suludnon
+Sulphur Springs Valley (Ariz.)|=|Sulphur Springs Valley
 Sultan Mountain (Colo.)|=|Sultan Mountain
 Sultanpur National Park (India)|=|Sultanpur National Park
 Sulu, Hikaru (Fictitious character)|=|Hikaru Sulu
@@ -25282,6 +25303,7 @@ Supernova 1987A|=|SN 1987A
 Supernovae|=|Supernova
 Superposition principle (Physics)|<->|Superposition principle
 Supersonic transport planes|=|Supersonic transport
+Superstition Freeway (Ariz.)|->|U.S. Route 60 in Arizona
 Superstition Hills (Calif.)|=|Superstition Hills
 Superstition Mountains (Ariz.)|=|Superstition Mountains
 SuperTalk (Computer program language)|=|SuperTalk
@@ -25426,6 +25448,7 @@ Swordfish (Torpedo bomber)|=|Fairey Swordfish
 Swordplay|<->|Swordsmanship
 Swords|=|Sword
 Swordsmen|->|Swordsmanship
+Sycamore Canyon Wilderness (Ariz.)|=|Sycamore Canyon Wilderness
 Sycamores|<->|Sycamore
 Syddanmark (Denmark)|=|Region of Southern Denmark
 Sydney (N.S.W.)|=|Sydney
@@ -29273,7 +29296,7 @@ Ytterbium -- Isotopes|=|Isotopes of ytterbium
 Yucat&aacute;n (Mexico : State)|=|Yucatán
 Yucat&aacute;n (Mexico : State) -- History -- Caste War, 1847-1855|<->|Caste War of Yucatán
 Yucca Mountain (Nev.)|=|Yucca Mountain
-Yuchi Indians|=|Yuchi
+Yuchi Indians|<->|Coyaha people
 Yugoslav War, 1991-1995|->|Yugoslav Wars
 Yugoslav War, 1991-1995 -- Bosnia and Herzegovina|<->|Bosnian War
 Yugoslav War, 1991-1995 -- Croatia|<->|Croatian War of Independence
