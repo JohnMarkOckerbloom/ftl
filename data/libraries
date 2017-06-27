@@ -4,7 +4,7 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2017-05-11
+# Last updated 2017-06-27
 
 ID OLBP
 NAME The Online Books Page
@@ -6811,21 +6811,19 @@ CATTYPE vufindgeneral
 BASEURL http://tripod.brynmawr.edu/find/Channels/Results
 FILTERS NK
 
-# For now, subject and keyword searches use Franklin-Summon discovery
-# and other searches use regular Franklin
+# Penn Libraries' search syntax is in flux with new system
+# For now, we'll cut back to keyword search only 
+#  and Blackligt catalog author search for author queries (SYNTAX MAY CHANGE)
+# Before (and in the future?), subject and keyword searches
+# used Franklin-Summon discovery and other searches used regular Franklin
 ID OCLC-PAU
 NAME University of Pennsylvania Libraries
 LOCATION Philadelphia
 STATE PA
 IPRANGE 128.91.0.0/16|130.91.0.0/16|158.130.0.0/16|165.123.0.0/16
-BASEURL http://dla.library.upenn.edu/dla/franklin
-# SUBURL ${BASEURL}/search.html?q=${ARG}&qt=dla-subject
-SUBURL ${BASEURL}/search.html?meta=t&qt=dla-subject&q=${ARG}
-AUTURL ${BASEURL}/search.html?q=${ARG}&qt=dla-author
-ATIURL ${BASEURL}/search.html?q=author("${AUTHOR}") AND title:("${TITLE:A}")&qt=dla-advanced
-TITURL ${BASEURL}/search.html?q=${ARG}&qt=dla-title
-# KEYURL ${BASEURL}/search.html?q=${ARG}&qt=dla-standard
-KEYURL ${BASEURL}/search.html?meta=t&q=${ARG}
+BASEURL https://franklin.library.upenn.edu
+AUTURL ${BASEURL}/catalog?search_field=author_search&q=${ARG}
+KEYURL ${BASEURL}/bento?q=${ARG}
 
 ID OCLC-PIT
 NAME University of Pittsburgh
