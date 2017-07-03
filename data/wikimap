@@ -10,12 +10,12 @@
 #   are not included in this file.
 # Manual title and name-title correspondences have been moved to wikiworksmap.
 # See docs file for documentation
-# Last updated 2017-06-23
+# Last updated 2017-07-03
 # Did LCSH 2015 and 2016 update lists, 2017 lists 1-5
 1066 Country Walk (England)|=|1066 Country Walk
 119 (Locomotive)|=|Union Pacific No. 119
 13+ Common Entrance Examination|->|Common Entrance Examination
-1361 K4 (Steam locomotive)|=|PRR 1361
+1361 K4 (Steam locomotive)|=|Pennsylvania Railroad 1361
 1366 Class (Steam locomotives)|=|GWR 1366 Class
 141 R (Steam locomotive)|<->|SNCF Class 141R
 1600 Class (Steam locomotives)|=|GWR 1600 Class
@@ -140,7 +140,7 @@ Absentee landlordism|<->|Absentee landlord
 Absentee voting|<->|Absentee ballot
 Absinth wormwood|=|Artemisia absinthium
 Absolute, The|<->|Absolute (philosophy)
-Absolute simultaneity|<->|Absolute time and space
+Absolute simultaneity|<->|Absolute space and time
 Absorption spectra|<->|Absorption spectroscopy
 Abstract data types (Computer science)|=|Abstract data type
 Abstracting|->|Abstract (summary)
@@ -332,8 +332,8 @@ Affirmative action programs -- Canada|<->|Employment equity (Canada)
 Affirmative action programs -- United States|<->|Affirmative action in the United States
 Affirmed (Race horse)|=|Affirmed
 Affricates (Phonetics)|=|Affricate consonant
-Afghan War, 2001-|<->|War in Afghanistan (2001–2014)
-Afghan War, 2001- -- Campaigns|<->|List of military operations in the war in Afghanistan (2001–2014)
+Afghan War, 2001-|<->|War in Afghanistan (2001–present)
+Afghan War, 2001- -- Campaigns|<->|List of military operations in the war in Afghanistan (2001–present)
 Afghan War, 2001- -- Protest movements|<->|Protests against the war in Afghanistan (2001–2014)
 Afghan Wars|=|Anglo-Afghan War
 Afghanistan -- Armed Forces|<->|Afghan Armed Forces
@@ -4053,7 +4053,7 @@ Camelidae|=|Camelid
 Camelot (Legendary place)|=|Camelot
 Camembert cheese|=|Camembert
 Camerata (Group of music theorists)|=|Florentine Camerata
-&Ccedil;am&euml;ria (Albania and Greece)|<->|Chameria
+&Ccedil;am&euml;ria (Albania and Greece)|<->|Chamëria
 Cameroon -- History -- Coup d'&eacute;tat, 1984|=|1984 Cameroonian coup attempt
 Cameroon -- Politics and government|<->|Politics of Cameroon
 Cameroon -- Politics and government|<-|Government of Cameroon
@@ -9862,7 +9862,7 @@ G.I. Joe figures|<->|G.I. Joe
 G spot|=|G-spot
 G/wi (African people)|->|San people
 G1 (Smartphone)|=|HTC Dream
-G5 (Locomotive)|<->|PRR G5
+G5 (Locomotive)|<->|Pennsylvania Railroad class G5
 G&atilde; (African people)|<->|Ga-Adangbe people
 Gabba (Music)|=|Gabber
 Gabbra (African people)|=|Gabra people
@@ -10235,7 +10235,7 @@ Gew&uuml;rztraminer (Wine)|<->|Gewürztraminer
 Geyer's sedge|=|Carex geyeri
 Geysers, The (Calif.)|=|The Geysers
 GFA BASIC (Computer program language)|=|GFA BASIC
-GG 1 (Electric locomotive)|=|PRR GG1
+GG 1 (Electric locomotive)|=|Pennsylvania Railroad class GG1
 Ghana -- Politics and government|<->|Politics of Ghana
 Ghana -- Politics and government|<-|Government of Ghana
 Ghardaia (Algeria)|=|Ghardaïa
@@ -11021,7 +11021,7 @@ Gujars|=|Gurjar
 Guji (African people)|=|Guji Oromo people
 Gujaratis (Indic people)|=|Gujarati people
 Gujuri language|=|Gujari language
-Gulang Yu (China)|=|Gulangyu Island
+Gulang Yu (China)|=|Gulangyu
 Gulf Coast (U.S.)|=|Gulf Coast of the United States
 Gulf Islands National Seashore (Agency : U.S.)|->|Gulf Islands National Seashore
 Gulf Islands National Seashore (Fla. and Miss.)|=|Gulf Islands National Seashore
@@ -12931,7 +12931,7 @@ Iraq -- History -- Civil War, 1991|<->|1991 uprisings in Iraq
 Iraq -- History -- Kurdish Uprising, 1991|->|1991 uprisings in Iraq
 Iraq -- History -- Hashemite Kingdom, 1921-1958|<->|Kingdom of Iraq
 Iraq -- History -- Revolt, 1920|<->|Iraqi revolt against the British
-Iraq -- History -- Revolution, 1958|<->|1958 Iraqi coup d'état
+Iraq -- History -- Revolution, 1958|<->|14 July Revolution
 Iraq -- History -- Revolution, 1963|<->|Ramadan Revolution
 Iraq -- History -- Revolution, 1979|<->|Iranian Revolution
 Iraq -- History -- Zanj Rebellion, 868-883|<->|Zanj Rebellion
@@ -15018,7 +15018,7 @@ Lemberg, Battle of, L&#x02b9;viv, Ukraine, 1914|<->|Battle of Galicia
 Lemhi Range (Idaho)|=|Lemhi Range
 Lemhi River (Idaho)|=|Lemhi River
 Lemmon, Mount (Ariz.)|=|Mount Lemmon
-Lemmon's needlegrass|=|Achnatherum lemmonii
+Lemmon's needlegrass|=|Stipa lemmonii
 Lemuria|=|Lemuria (continent)
 Lend-lease operations (1941-1945)|=|Lend-Lease
 Lender force-placed insurance|=|Collateral protection insurance
@@ -18787,7 +18787,7 @@ Nso (African people)|=|Nso people
 Ntlakyapamuk Indians|=|Nlaka'pamux
 Ntlakyapamuk language|<->|Thompson language
 Nu (The Greek letter)|=|Nu (letter)
-N&uuml; shu|<->|Nüshu script
+N&uuml; shu|<->|Nüshu
 Nu'uanu, Battle of, Oahu, Hawaii, 1795|=|Battle of Nuʻuanu
 Nuba (African people)|<->|Nuba peoples
 Nuba Mountains (Sudan)|=|Nuba Mountains
@@ -23923,7 +23923,7 @@ Shipbuilding Workers' Strike, Menstad, Norway, 1931|<-|Menstad conflict
 Shipka Pass (Bulgaria)|=|Shipka Pass
 Shipka Pass, Battle of, Bulgaria, 1877|<->|Battle of Shipka Pass
 Shipment of goods|<->|Freight transport
-Shipping|<->|Ship transport
+Shipping|<->|Maritime transport
 Ships|=|Ship
 Ships of the line|=|Ship of the line
 Shipwrecks|=|Shipwreck
@@ -24103,6 +24103,7 @@ Simpson, Homer (Fictitious character)|=|Homer Simpson
 Simpsons (Fictitious characters)|=|Simpson family
 SIMSCRIPT (Computer program language)|=|SIMSCRIPT
 SIMULA (Computer program language)|<->|Simula
+Simultaneity (Physics)|<->|Simultaneity
 Sin -- Buddhism|=|Buddhist views on sin
 Sin -- Christianity|=|Christian views on sin
 Sin -- Islam|=|Islamic views on sin
@@ -26551,7 +26552,7 @@ Transfinite numbers|=|Transfinite number
 Transformations (Mathematics)|<->|Transformation (function)
 Transgenderism|<->|Transgender
 Transgenderism -- Religious aspects|<->|Transgender people and religion
-Transgenderism -- Religious aspects -- Christianity|<->|Christianity and transgender
+Transgenderism -- Religious aspects -- Christianity|<->|Christianity and transgender people
 Transgenic plants|<->|Genetically modified crops
 Transglobe Expedition (1979-1982)|=|Transglobe Expedition
 Transkei (South Africa)|=|Transkei
@@ -27674,7 +27675,7 @@ Vedic literature|->|Vedic and Sanskrit literature
 Vegetables|=|Vegetable
 Vegreville (Alta.)|=|Vegreville
 Veils|=|Veil
-Velamas|=|Velama (caste)
+Velamas|=|Velama
 Vele&zcaron; Mountains (Bosnia and Herzegovina)|<->|Velež (Bosnia and Herzegovina)
 Velha Goa (India)|=|Old Goa
 Veliko T&ubreve;rnovo (Bulgaria)|=|Veliko Tarnovo
