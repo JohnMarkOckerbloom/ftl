@@ -2009,6 +2009,29 @@ BASEURL http://www.baldwincat.org:8080/
 CATTYPE ls2pac
 FILTERS S
 
+ID OCLC-MWM
+NAME Decatur Public Library
+LOCATION Decatur
+STATE AL
+BASEURL http://catalog.decatur.lib.al.us:8000/
+CATTYPE ls2pac
+FILTERS S
+
+ID OCLC-HL2
+NAME Dothan Houston County Library System
+LOCATION Dothan and vicinity
+STATE AL
+CATTYPE sirsient
+LCODE en_US/default
+BASEURL http://hlml.ent.sirsi.net
+
+ID OCLC-ALFLP
+NAME Florence-Lauderdale Public Library
+LOCATION Florence
+STATE AL
+BASEURL http://catalog.flpl.org/polaris
+CATTYPE polaris
+
 ID OCLC-MWD
 NAME Huntsville-Madison County Public Library
 LOCATION Huntsville and vicinity
