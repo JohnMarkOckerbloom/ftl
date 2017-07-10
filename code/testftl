@@ -24,7 +24,7 @@ $OLBP::SCRIPTNAME = "ftltest";
 }
 
 use lib "/websites/OnlineBooks/nonpublic/lib";
-use lib "/home/ockerblo/booksrc/nlib";
+use lib "/home/LIBRARY/ockerblo/booksrc/nlib";
 use lib "/data/project/ftl/lib";
 use OLBP;
 use FTLConfig;
