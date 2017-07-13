@@ -6659,6 +6659,13 @@ CATTYPE ls2pac-config
 LCODE Cranberry
 BASEURL http://opac.bcfls.org/
 
+ID OCLC-L@L
+NAME Cumberland County Library System
+LOCATION Cumberland County and Shippensburg Area School District
+STATE PA
+CATTYPE encore
+BASEURL http://catalog.cumberlandcountylibraries.org/iii/encore
+
 ID OCLC-HBP
 NAME Dauphin County Library System
 LOCATION Harrisburg and vicinity
@@ -6804,6 +6811,15 @@ STATE PA
 CATTYPE summon
 BASEURL http://psu.summon.serialssolutions.com
 
+# ID below is for Community Library of Western Perry County
+# (there doesn't appear to be one for the group as a whole)
+ID OCLC-PACWP
+NAME Public Libraries of Perry County
+LOCATION Perry County
+STATE PA
+BASEURL http://library.pecoinfo.org
+CATTYPE koha
+
 ID OCLC-PASGS
 NAME Springside Chestnut Hill Academy Libraries
 LOCATION Philadelphia
@@ -6897,6 +6913,13 @@ LOCATION Villanova
 STATE PA
 CATTYPE vufindgeneral
 BASEURL https://library.villanova.edu/Find/Combined/Results
+
+ID OCLC-PYLCO
+NAME York County Libraries
+LOCATION York and vicinity
+STATE PA
+CATTYPE evergreen-dynamic
+BASEURL http://york.sparkpa.org/eg/opac
 
 ID OCLC-PRPRU
 NAME Universidad de Puerto Rico

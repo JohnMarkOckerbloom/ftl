@@ -6,8 +6,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation
-# Last updated 2017-07-18
-# Now working on: Electronic resource, I-Z; Bach works
+# Last updated 2017-07-11
+# Now working on: Electronic resource, I-Z
 4chan (Electronic resource)|=|4chan
 Abaqus (Electronic resource)|=|Abaqus
 Adobe InDesign (Electronic resource)|=|Adobe InDesign
@@ -27,6 +27,9 @@ Angell, Norman, 1874-1967. Great illusion|=|The Great Illusion
 Anime studio (Electronic resource)|<->|Moho (Anime Studio)
 Apache Mesos (Electronic resource)|<->|Apache Mesos
 Apollonius, Rhodius. Argonautica|=|Argonautica
+Argentina. Constituci&oacute;n (1853)|=|Argentine Constitution of 1853
+Argentina. Constituci&oacute;n (1949)|=|Argentine Constitution of 1949
+Argentina. Constituci&oacute;n (1994)|<->|1994 amendment of the Constitution of Argentina
 Aristotle. Ath&emacr;nai&omacr;n politeia|=|Constitution of the Athenians (Aristotle)
 Aristotle. Categoriae|=|Categories (Aristotle)
 Aristotle. De anima|=|On the Soul
@@ -383,6 +386,31 @@ Bach, Johann Sebastian, 1685-1750. Weichet nur, betr&uuml;bte Schatten|=|Weichet
 Bach, Johann Sebastian, 1685-1750. Weihnachts-Oratorium|=|Christmas Oratorio
 Bach, Johann Sebastian, 1685-1750. Weinen, Klagen, Sorgen, Zagen|=|Weinen, Klagen, Sorgen, Zagen, BWV 12
 Bach, Johann Sebastian, 1685-1750. Wer da gl&auml;ubet und getauft wird|=|Wer da gläubet und getauft wird, BWV 37
+Bach, Johann Sebastian, 1685-1750. Wer Dank opfert, der preiset mich|=|Wer Dank opfert, der preiset mich, BWV 17
+Bach, Johann Sebastian, 1685-1750. Wer mich liebet, der wird mein Wort halten, BWV 59|=|Wer mich liebet, der wird mein Wort halten, BWV 59
+Bach, Johann Sebastian, 1685-1750. Wer mich liebet, der wird mein Wort halten, BWV 74|=|Wer mich liebet, der wird mein Wort halten, BWV 74
+Bach, Johann Sebastian, 1685-1750. Wer nur den lieben Gott l&auml;sst walten (Cantata)|=|Wer nur den lieben Gott läßt walten, BWV 93
+Bach, Johann Sebastian, 1685-1750. Wer sich selbst erh&ouml;het, der soll erniedriget werden|=|Wer sich selbst erhöhet, der soll erniedriget werden, BWV 47
+Bach, Johann Sebastian, 1685-1750. Wer weiss, wie nahe mir mein Ende (Cantata)|=|Wer weiß, wie nahe mir mein Ende? BWV 27
+Bach, Johann Sebastian, 1685-1750. Widerstehe doch der S&uuml;nde|=|Widerstehe doch der Sünde, BWV 54
+Bach, Johann Sebastian, 1685-1750. Wie sch&ouml;n leuchtet der Morgenstern (Cantata)|=|Wie schön leuchtet der Morgenstern, BWV 1
+Bach, Johann Sebastian, 1685-1750. Wir danken dir, Gott, wir danken dir|=|Wir danken dir, Gott, wir danken dir, BWV 29
+Bach, Johann Sebastian, 1685-1750. Wir m&uuml;ssen durch viel Tr&uuml;bsal in das Reich Gottes eingehen|=|Wir müssen durch viel Trübsal, BWV 146
+Bach, Johann Sebastian, 1685-1750. Wo gehest du hin|=|Wo gehest du hin? BWV 166
+Bach, Johann Sebastian, 1685-1750. Wo Gott, der Herr, nicht bei uns h&auml;lt (Cantata)|=|Wo Gott der Herr nicht bei uns hält, BWV 178
+Bach, Johann Sebastian, 1685-1750. Wo Gott, der Herr, nicht bei uns h&auml;lt (Organ work)|=|Wo Gott der Herr nicht bei uns hält, BWV 1128
+Bach, Johann Sebastian, 1685-1750. Wo soll ich fliehen hin (Cantata)|=|Wo soll ich fliehen hin, BWV 5
+Bach, Johann Sebastian, 1685-1750. Wohl dem, der sich auf seinen Gott|=|Wohl dem, der sich auf seinen Gott, BWV 139
+Bach, Johann Sebastian, 1685-1750. Wohltemperierte Klavier, 1. T.|<->|The Well-Tempered Clavier
+Bach, Johann Sebastian, 1685-1750. Wohltemperierte Klavier, 1. T. Nr. 1|=|Prelude and Fugue in C major, BWV 846
+Bach, Johann Sebastian, 1685-1750. Wohltemperierte Klavier, 1. T. Nr. 10a. Praeludium|<->|Prelude in E minor, BWV 855a
+Bach, Johann Sebastian, 1685-1750. Wohltemperierte Klavier, 1. T. Nr. 2|=|Prelude and Fugue in C minor, BWV 847
+Bach, Johann Sebastian, 1685-1750. Wohltemperierte Klavier, 1. T. Nr. 4|=|Prelude and Fugue in C-sharp minor, BWV 849
+Bach, Johann Sebastian, 1685-1750. Wohltemperierte Klavier, 2. T.|->|The Well-Tempered Clavier
+Bach, Johann Sebastian, 1685-1750. Wohltemperierte Klavier. 2. T. Nr. 1|=|Prelude and Fugue in C major, BWV 870
+Bach, Johann Sebastian, 1685-1750. Works|<->|List of compositions by Johann Sebastian Bach
+Bach, Johann Sebastian, 1685-1750. Zeit, die Tag und Jahre macht|=|Die Zeit, die Tag und Jahre macht, BWV 134a
+Bach, Johann Sebastian, 1685-1750. Zerreisset, zersprenget, zertr&uuml;mmert die Gruft|=|Zerreißet, zersprenget, zertrümmert die Gruft, BWV 205
 Back to the future (Motion picture)|=|Back to the Future
 Back to the future part II (Motion picture)|=|Back to the Future Part II
 Back to the future part III (Motion picture)|=|Back to the Future Part III
@@ -390,6 +418,10 @@ Bada (Electronic resource)|<->|Bada
 Battlestar Galactica (Television program : 1978-1979)|=|Battlestar Galactica (1978 TV series)
 Battlestar Galactica (Television program : 2003)|=|Battlestar Galactica (miniseries)
 Battlestar Galactica (Television program : 2004-2009)|=|Battlestar Galactica (2004 TV series)
+Beach Boys. 20/20|<->|20/20 (The Beach Boys album)
+Beach Boys. Pet sounds|=|Pet Sounds
+Beach Boys. Smile|<->|Smile (The Beach Boys album)
+Beach Boys. Wild honey|=|Wild Honey (album)
 Bear in the Big Blue House (Television program)|=|Bear in the Big Blue House
 Beatles. Abbey Road|=|Abbey Road
 Beatles. Beatles|=|The Beatles (album)
@@ -559,6 +591,8 @@ Darwin, Charles, 1809-1882. On the origin of species|=|On the Origin of Species
 Darwin, Charles, 1809-1882. On the tendency of species to form varieties|<->|On the Tendency of Species to form Varieties; and on the Perpetuation of Varieties and Species by Natural Means of Selection
 Disney Club Penguin (Electronic resource)|->|Club Penguin
 Django (Electronic resource)|<->|Django (web framework)
+Doom (Computer file)|<->|Doom (1993 video game)
+Doom (Computer file)|<-|Doom (series)
 DotNetNuke (Electronic resource)|=|DotNetNuke
 Duck dynasty (Television program)|=|Duck Dynasty
 Eclipse (Electronic resource)|<->|Eclipse (software)
@@ -575,6 +609,7 @@ Final draft (Electronic resource)|=|Final Draft (software)
 Fireman Sam (Television program)|=|Fireman Sam
 Flickr (Electronic resource)|=|Flickr
 Galactica 1980 (Television program)|=|Galactica 1980
+Genesis (Musical group). Lamb lies down on Broadway|<->|The Lamb Lies Down on Broadway
 Gmail (Electronic resource)|=|Gmail
 Gold rush Alaska (Television program)|=|Gold Rush (TV series)
 Google App Engine (Electronic resource)|=|Google App Engine
@@ -604,10 +639,37 @@ Kant, Immanuel, 1724-1804. Metaphysische Anfangsgr&uuml;nde der Naturwissenschaf
 Kant, Immanuel, 1724-1804. Prolegomena|=|Prolegomena to Any Future Metaphysics
 Kant, Immanuel, 1724-1804. Religion innerhalb der Grenzen der blossen Vernunft|=|Religion within the Bounds of Bare Reason
 Kant, Immanuel, 1724-1804. Was ist Aufkl&auml;rung?|=|Answering the Question: What is Enlightenment?
+Led Zeppelin (Musical group). Houses of the holy|=|Houses of the Holy
+Led Zeppelin (Musical group). Led Zeppelin|=|Led Zeppelin (album)
+Led Zeppelin (Musical group). Led Zeppelin II|=|Led Zeppelin II
+Led Zeppelin (Musical group). Led Zeppelin III|=|Led Zeppelin III
+Led Zeppelin (Musical group). Led Zeppelin IV|=|Led Zeppelin IV
+Lennon, John, 1940-1980. Because|=|Because (Beatles song)
+Lennon, John, 1940-1980. Day in the life|=|A Day in the Life
+Lennon, John, 1940-1980. Double fantasy|=|Double Fantasy
+Lennon, John, 1940-1980. Hard day's night|=|A Hard Day's Night (song)
+Lennon, John, 1940-1980. Hard day's night. And I love her|=|And I Love Her
+Lennon, John, 1940-1980. I am the walrus|=|I Am the Walrus
+Lennon, John, 1940-1980. Imagine|<->|Imagine (John Lennon song)
+Lennon, John, 1940-1980. In his own write|=|In His Own Write
+Lennon, John, 1940-1980. Lucy in the sky with diamonds|=|Lucy in the Sky with Diamonds
+Lennon, John, 1940-1980. When I'm sixty-four|<->|When I'm Sixty-Four
+Lennon, John, 1940-1980. Yellow submarine|<->|Yellow Submarine (song)
+Lennon, John, 1940-1980. Yesterday (1965)|<->|Yesterday (Beatles song)
 Lincoln, Abraham, 1809-1865. Cooper Institute speech|=|Cooper Union speech
 Lincoln, Abraham, 1809-1865. Gettysburg address|=|Gettysburg Address
 Lizzie McGuire (Television program)|=|Lizzie McGuire
 Lost (Television program)|=|Lost (TV series)
+McCartney, Paul. All you need is love|=|All You Need Is Love
+McCartney, Paul. Distractions|->|Flowers in the Dirt
+McCartney, Paul. Ecce cor meum|=|Ecce Cor Meum
+McCartney, Paul. Eleanor Rigby|=|Eleanor Rigby
+McCartney, Paul. Family way. Love in the open air|->|The Family Way (soundtrack)
+McCartney, Paul. Leaf|=|A Leaf
+McCartney, Paul. Liverpool oratorio|<->|Paul McCartney's Liverpool Oratorio
+McCartney, Paul. Ocean's kingdom|=|Ocean's Kingdom
+McCartney, Paul. Standing stone|=|Standing Stone (album)
+McCartney, Paul. Ticket to ride|<->|Ticket to Ride
 Metropolis (Motion picture : 1927)|=|Metropolis (1927 film)
 Modern family (Television program)|=|Modern Family
 Moretti, Giuseppe, 1857 or 1859-1935. Vulcan|<->|Vulcan statue
@@ -619,6 +681,8 @@ Obama, Barack. Dreams from my father|=|Dreams from My Father
 Orwell, George, 1903-1950. Animal farm|=|Animal Farm
 Orwell, George, 1903-1950. Nineteen eighty-four|=|Nineteen Eighty-Four
 Orwell, George, 1903-1950. Politics and the English language|=|Politics and the English Language
+Page, Jimmy. Kashmir|=|Kashmir (song)
+Page, Jimmy. Stairway to heaven|=|Stairway to Heaven
 Picasso, Pablo, 1881-1973. Demoiselles d'Avignon|=|Les Demoiselles d'Avignon
 Picasso, Pablo, 1881-1973. Family of Saltimbanques|=|Family of Saltimbanques
 Picasso, Pablo, 1881-1973. Gertrude Stein|=|Portrait of Gertrude Stein
@@ -707,6 +771,7 @@ Sousa, John Philip, 1854-1932. U.S. Field Artillery|=|U.S. Field Artillery March
 Sousa, John Philip, 1854-1932. Washington Post|=|The Washington Post (march)
 Splash (Motion picture)|=|Splash (film)
 SpongeBob SquarePants (Television program)|=|SpongeBob SquarePants
+Starr, Ringo. Octopus's garden|<->|Octopus's Garden
 Stoker, Bram, 1847-1912. Dracula|=|Dracula
 Stoker, Bram, 1847-1912. Lady of the shroud|=|The Lady of the Shroud
 Stoker, Bram, 1847-1912. Lair of the white worm|=|The Lair of the White Worm
@@ -872,7 +937,9 @@ Vaughan Williams, Ralph, 1872-1958. Wasps (Incidental music)|=|The Wasps (Vaugha
 Washington, George, 1732-1799. Farewell address|<->|George Washington's Farewell Address
 Washington, George, 1732-1799. Papers of George Washington|->|The Washington Papers
 Washington, George, 1732-1799. Rules of civility|<->|Rules of Civility and Decent Behaviour In Company and Conversation
+Who (Musical group). Who sell out|=|The Who Sell Out
 Wizard of Oz (Motion picture : 1939)|=|The Wizard of Oz (1939 film)
 X-Men (Motion picture)|=|X-Men (film)
 Xena, warrior princess (Television program)|=|Xena: Warrior Princess
+Yes (Musical group). Close to the edge|<->|Close to the Edge
 YouTube (Electronic resource)|=|YouTube
