@@ -6,8 +6,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation
-# Last updated 2017-07-11
-# Now working on: Electronic resource, I-Z
+# Last updated 2017-07-17
+# Now working on: Electronic resource, L-Z
 4chan (Electronic resource)|=|4chan
 Abaqus (Electronic resource)|=|Abaqus
 Adobe InDesign (Electronic resource)|=|Adobe InDesign
@@ -524,6 +524,7 @@ Big brother (Television program : South Africa)|<->|Big Brother (South African T
 Big brother Brasil (Television program)|=|Big Brother Brasil
 Birth of a nation (Motion picture : 1915)|=|The Birth of a Nation
 Birth of a nation (Motion picture : 2016)|=|The Birth of a Nation (2016 film)
+Black Beauty (Motion picture : 1994)|=|Black Beauty (1994 film)
 BLAST (Electronic resource)|<->|BLAST
 Bonanza (Television program)|=|Bonanza
 Book of Mormon. Alma|=|Book of Alma
@@ -619,14 +620,39 @@ Greenfoot (Electronic resource)|=|Greenfoot
 Gruber, Franz Xaver, 1787-1863. Stille Nacht, heilige Nacht|=|Silent Night
 Heaven's gate (Motion picture)|=|Heaven's Gate (film)
 Heavy metal (Motion picture)|=|Heavy Metal (film)
+Heinlein, Robert A. (Robert Anson), 1907-1988. All you zombies|=|All You Zombies
+Heinlein, Robert A. (Robert Anson), 1907-1988. By his bootstraps|=|By His Bootstraps
+Heinlein, Robert A. (Robert Anson), 1907-1988. Citizen of the galaxy|=|Citizen of the Galaxy
+Heinlein, Robert A. (Robert Anson), 1907-1988. Double star|=|Double Star
+Heinlein, Robert A. (Robert Anson), 1907-1988. Future history series|<->|Future History (Heinlein)
+Heinlein, Robert A. (Robert Anson), 1907-1988. Green hills of earth|=|The Green Hills of Earth
+Heinlein, Robert A. (Robert Anson), 1907-1988. Man who sold the moon|=|The Man Who Sold the Moon
+Heinlein, Robert A. (Robert Anson), 1907-1988. Methuselah's children|=|Methuselah's Children
+Heinlein, Robert A. (Robert Anson), 1907-1988. Orphans of the sky|=|Orphans of the Sky
+Heinlein, Robert A. (Robert Anson), 1907-1988. Past through tomorrow (Collection)|=|The Past Through Tomorrow
+Heinlein, Robert A. (Robert Anson), 1907-1988. Podkayne of Mars, her life and times|=|Podkayne of Mars
+Heinlein, Robert A. (Robert Anson), 1907-1988. Puppet masters|=|The Puppet Masters
+Heinlein, Robert A. (Robert Anson), 1907-1988. Sixth column|=|Sixth Column
+Heinlein, Robert A. (Robert Anson), 1907-1988. Space jockey|=|Space Jockey
+Heinlein, Robert A. (Robert Anson), 1907-1988. Starship troopers|=|Starship Troopers
+Heinlein, Robert A. (Robert Anson), 1907-1988. Stranger in a strange land|=|Stranger in a Strange Land
+Heinlein, Robert A. (Robert Anson), 1907-1988. Take back your government|=|Take Back Your Government
+Heinlein, Robert A. (Robert Anson), 1907-1988. Unpleasant profession of Jonathan Hoag|<->|The Unpleasant Profession of Jonathan Hoag (collection)
+Heinlein, Robert A. (Robert Anson), 1907-1988. Waldo|<->|Waldo (short story)
 Hibernate (Electronic resource)|<->|Hibernate (framework)
 HOBBIES (Electronic resource)|=|HOBBIES (electromagnetic solver)
 Houdini (Electronic resource)|=|Houdini (software)
 Huckleberry Hound (Television program)|=|The Huckleberry Hound Show
+IDA Pro (Electronic resource)|<->|Interactive Disassembler
+Indaba Music (Electronic resource)|<->|Indaba Music
 Inferno (Electronic resource)|<->|Inferno (operating system)
+Inkscape (Electronic resource)|=|Inkscape
 Inspector George Gently (Television program)|=|Inspector George Gently
+Interactive Data Language (Electronic resource)|<->|IDL (programming language)
 Intolerance (Motion picture)|=|Intolerance (film)
+iOS (Electronic resource)|=|IOS
 Ishtar (Motion picture)|=|Ishtar (film)
+JavaFX (Electronic resource)|=|JavaFX
 Jefferson, Thomas, 1743-1826. Life and morals of Jesus of Nazareth|<->|Jefferson Bible
 Jefferson, Thomas, 1743-1826. Notes on the state of Virginia|=|Notes on the State of Virginia
 Job, a masque for dancing (Choreographic work : Shawn)|=|Job: A Masque for Dancing
@@ -639,6 +665,8 @@ Kant, Immanuel, 1724-1804. Metaphysische Anfangsgr&uuml;nde der Naturwissenschaf
 Kant, Immanuel, 1724-1804. Prolegomena|=|Prolegomena to Any Future Metaphysics
 Kant, Immanuel, 1724-1804. Religion innerhalb der Grenzen der blossen Vernunft|=|Religion within the Bounds of Bare Reason
 Kant, Immanuel, 1724-1804. Was ist Aufkl&auml;rung?|=|Answering the Question: What is Enlightenment?
+Keynote (Electronic resource)|=|Keynote (presentation software)
+Kismet (Electronic resource)|=|Kismet (software)
 Led Zeppelin (Musical group). Houses of the holy|=|Houses of the Holy
 Led Zeppelin (Musical group). Led Zeppelin|=|Led Zeppelin (album)
 Led Zeppelin (Musical group). Led Zeppelin II|=|Led Zeppelin II
@@ -681,6 +709,7 @@ Obama, Barack. Dreams from my father|=|Dreams from My Father
 Orwell, George, 1903-1950. Animal farm|=|Animal Farm
 Orwell, George, 1903-1950. Nineteen eighty-four|=|Nineteen Eighty-Four
 Orwell, George, 1903-1950. Politics and the English language|=|Politics and the English Language
+Pac-Man and the ghostly adventures (Television program)|=|Pac-Man and the Ghostly Adventures
 Page, Jimmy. Kashmir|=|Kashmir (song)
 Page, Jimmy. Stairway to heaven|=|Stairway to Heaven
 Picasso, Pablo, 1881-1973. Demoiselles d'Avignon|=|Les Demoiselles d'Avignon
@@ -778,6 +807,12 @@ Stoker, Bram, 1847-1912. Lair of the white worm|=|The Lair of the White Worm
 Strunk, William, 1869-1946. Elements of style|=|The Elements of Style
 Styka, Jan, 1858-1925. Panorama of the Battle of Rac&lstrok;awice|=|Racławice Panorama
 Styka, Jan, 1858-1925. Panorama of the Battle of Sibiu|=|Transylvania Panorama
+Swing (Computer file)|=|Swing (Java)
+Terminator (Motion picture)|=|The Terminator
+Terminator 2 (Motion picture)|=|Terminator 2: Judgment Day
+Terminator 3 (Motion picture)|=|Terminator 3: Rise of the Machines
+Terminator salvation (Motion picture)|=|Terminator Salvation
+Terminfo (Computer file)|=|Terminfo
 Thor (Motion picture)|=|Thor (film)
 Tinker, tailor, soldier, spy (Motion picture)|=|Tinker Tailor Soldier Spy (film)
 Tumblr (Electronic resource)|=|Tumblr
