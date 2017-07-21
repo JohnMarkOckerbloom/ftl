@@ -10,7 +10,7 @@
 #   are not included in this file.
 # Manual title and name-title correspondences have been moved to wikiworksmap.
 # See docs file for documentation
-# Last updated 2017-07-17
+# Last updated 2017-07-21
 # Did LCSH 2015 and 2016 update lists, 2017 lists 1-6
 1066 Country Walk (England)|=|1066 Country Walk
 1080 Degree Snowboarding (Game)|=|1080° Snowboarding
@@ -423,7 +423,6 @@ Aging|=|Ageing
 Agler family|<->|Agler
 Agnew family|<->|Agnew (surname)
 Agora (Athens, Greece)|<->|Ancient Agora of Athens
-Agoutis|<->|Common agouti
 Agra (India)|=|Agra
 &Aacute;greda (Spain)|=|Ágreda
 Agreement Governing the Activities of States on the Moon and Other Celestial Bodies (1979)|=|Moon Treaty
@@ -1688,7 +1687,7 @@ Assaye, Battle of, Assaye, India, 1803|=|Battle of Assaye
 Assaye (India)|=|Assaye
 Assembly languages (Electronic computers)|=|Assembly language
 Asses|<->|Asinus
-Asset-liability management|=|Asset liability management
+Asset-liability management|<->|Asset and liability management
 Asset stripping (Corporations)|=|Asset stripping
 Assets (Accounting)|=|Asset
 Assietta, Battle of, Italy, 1747|=|Battle of Assietta
@@ -1814,6 +1813,7 @@ Attribute (Grammar)|<->|Grammatical modifier
 Attrition (Military science)|<->|Attrition warfare
 Attu, Battle of, Alaska, 1943|=|Battle of Attu
 Attu Island (Alaska)|=|Attu Island
+Atuel River (Argentina)|=|Atuel River
 Atuot (African people)|=|Atuot people
 Atyidae (Crustacea)|=|Atyidae
 Atyidae (Mollusks)|<->|Haminoeoidea
@@ -2100,6 +2100,7 @@ Baden-W&uuml;rttemberg (Germany)|=|Baden-Württemberg
 Bader family|<->|Bader
 B&amacr;dgh&imacr;s (Afghanistan)|=|Badghis Province
 Badlands National Park (S.D.)|=|Badlands National Park
+Badminton (Game)|=|Badminton
 Badr, Battle of, Badr &#x1e24;unayn, Saudi Arabia, 624|=|Battle of Badr
 BAe 146 (Jet transport)|=|British Aerospace 146
 BAe 748 (Turboprop transport)|=|Hawker Siddeley HS 748
@@ -2109,6 +2110,7 @@ Bafia language|=|Bafia language (Cameroon)
 Bafo (African people)|=|Bafaw people
 Bafokeng (African people)|<->|Royal Bafokeng Nation
 Baga (African people)|=|Baga people
+Bagatelle (Game)|<->|Bagatelle
 Baggara (African people)|=|Baggara
 Baggins, Bilbo|=|Bilbo Baggins
 Baggins, Frodo|=|Frodo Baggins
@@ -2165,6 +2167,7 @@ Bakumpai dialect|=|Bakumpai language
 B&amacr;lab&amacr;n|=|Balaban (instrument)
 Balaklava (Ukraine)|=|Balaklava
 Balaklava, Battle of, Balaklava, Ukraine, 1854|=|Battle of Balaclava
+Balance of Power (Game)|=|Balance of Power (video game)
 Balanced scorecard (Management)|=|Balanced scorecard
 Balangao (Philippine people)|=|Balangao people
 Balanta (African people)|=|Balanta people
@@ -2235,6 +2238,7 @@ Bamse (Dog)|=|Bamse (St. Bernard)
 B&amacr;my&amacr;n (Afghanistan)|=|Bamyan
 Banach spaces|=|Banach space
 Bananas|=|Banana
+Banco de Londres y Am&eacute;rica del Sud, Casa Central (Buenos Aires, Argentina)|=|Banco de Londres y América del Sur Headquarters
 Band saws|=|Bandsaw
 Banda (African people)|=|Banda people
 Banda language (Indonesia)|=|Banda language (Maluku)
@@ -3563,6 +3567,7 @@ Bridge of the Gods (Or. and Wash. : Natural bridge)|<->|Bridge of the Gods (land
 Bridger Range (Mont.)|=|Bridger Range
 Bridges -- Afghanistan|<->|List of bridges in Afghanistan
 Bridges (Dentistry)|=|Bridge (dentistry)
+Bridges (Graph theory)|=|Bridge (graph theory)
 Bridges, Roman|=|Roman bridge
 Bridled nail-tailed wallaby|=|Bridled nail-tail wallaby
 Brie cheese|=|Brie
@@ -4062,6 +4067,7 @@ Calla lilies|<->|Zantedeschia
 Callao (Callao, Peru)|=|Callao
 Callao, Battle of, Callao, Callao, Peru, 1866|=|Battle of Callao
 Calle del Obispo (Havana, Cuba)|<->|Bishop Street (Havana)
+Calle Florida (Buenos Aires, Argentina)|=|Florida Street
 Callery pear|=|Pyrus calleryana
 Calligraphers|->|Calligraphy
 Calling Lake (Alta. : Lake)|=|Calling Lake
@@ -4134,6 +4140,7 @@ Campania (Italy)|=|Campania
 Campbell's Station, Battle of, Tenn., 1863|=|Battle of Campbell's Station
 Campeche (Campeche, Mexico)|=|Campeche City
 Campeche (Mexico : State)|=|Campeche
+Campeonato Carioca (Soccer tournament)|=|Campeonato Carioca
 Camperdown, Battle of, 1797|=|Battle of Camperdown
 Campine chicken|=|Campine (chicken)
 Campion, Albert (Fictitious character)|=|Albert Campion
@@ -4399,6 +4406,7 @@ Casa Bellesguard (Barcelona, Spain)|=|Bellesguard
 Casa de la Vall (Andorra la Vella, Andorra)|=|Casa de la Vall
 Casa Grande Ruins National Monument (Ariz.)|=|Casa Grande Ruins National Monument
 Casa Malpais Ruins (Ariz.)|=|Casa Malpaís
+Casa Rosada (Buenos Aires, Argentina)|=|Casa Rosada
 Casa Serra (Barcelona, Spain)|=|Casa Serra
 Casablanca (Morocco)|=|Casablanca
 Casablanca (Morocco) -- History|=|History of Casablanca
@@ -4886,6 +4894,7 @@ Chatham Islands snipe|=|Chatham snipe
 Chatham-Kent (Ont.)|=|Chatham-Kent
 Chatham Strait (Alaska)|=|Chatham Strait
 Chattanooga Railroad Expedition, 1862|=|Great Locomotive Chase
+Chattooga River (N.C.-Ga. and S.C.)|=|Chattooga River
 Chautauquas|=|Chautauqua
 Cheaha Wilderness (Ala.)|=|Cheaha Wilderness
 Cheapside (London, England)|=|Cheapside
@@ -5316,6 +5325,7 @@ Christmas stories|->|Christmas
 Christmas Story House (Cleveland, Ohio)|=|A Christmas Story House
 Christmas television programs|<->|Lists of Christmas television episodes
 Christmas Truce, 1914|=|Christmas truce
+Christuss&auml;ule (Bronze sculpture)|=|Bernward Column
 Chromebook (Computer)|=|Chromebook
 Chromosome abnormalities|=|Chromosome abnormality
 Chromosomes|=|Chromosome
@@ -7068,6 +7078,7 @@ Data types (Computer science)|=|Data type
 Data dictionaries|=|Data dictionary
 Data protection|<-|Information privacy
 Data protection|->|Data security
+Data recovery (Computer science)|<->|Data recovery
 Data warehousing|=|Data warehouse
 Database management|->|Database
 Databases|=|Database
@@ -7626,8 +7637,8 @@ D&ouml;mbra (Two-stringed lute)|<->|Dombra
 Dome Peak (Skagit County, Wash.)|=|Dome Peak
 Domestic animals|<->|List of domesticated animals
 Domestiques (Bicycle racing)|=|Domestique
+Domination (Graph theory)|<->|Dominating set
 Dom&iacute;nguez-Escalante Expedition (1776)|=|Dominguez–Escalante expedition
-Dominican Americans|=|Dominican Americans (Dominican Republic)
 Dominican-Haitian Conflict, 1937|<->|Parsley massacre
 Dominican Republic -- History -- American occupation, 1916-1924|<->|United States occupation of the Dominican Republic (1916–24)
 Dominican Republic -- History -- English Invasion, 1655|<->|Siege of Santo Domingo (1655)
@@ -7727,7 +7738,7 @@ Dredd, Judge (Fictitious character)|=|Judge Dredd
 Dredging (Fisheries)|<->|Fishing dredge
 Drenthe (Netherlands)|=|Drenthe
 Dresden (Germany)|=|Dresden
-Dresden (Germany) -- History -- Bombardment, 1945|=|Bombing of Dresden
+Dresden (Germany) -- History -- Bombardment, 1945|=|Bombing of Dresden in World War II
 Dresden, Battle of, Dresden, Germany, 1813|=|Battle of Dresden
 Dresden, Harry (Fictitious character)|<->|Harry Dresden
 Dresden, Peace of, 1745|<->|Treaty of Dresden
@@ -8437,6 +8448,7 @@ Endless Mountains (Pa.)|=|Endless Mountains
 Endo language|<->|Markweta language
 Endocrine glands|=|Endocrine gland
 Endowments|<->|Financial endowment
+Ends and means|<->|Means to an end
 Endurance (Ship)|=|Endurance (1912 ship)
 Endymion (Greek mythology)|=|Endymion (mythology)
 Enemies|=|Enemy
@@ -12639,7 +12651,7 @@ India-Pakistan Conflict, 1965|=|Indo-Pakistani War of 1965
 India-Pakistan Conflict, 1971|=|Indo-Pakistani War of 1971
 India, South|=|South India
 Indian actors|<->|List of Native American actors
-Indian Air Flight IC814 Hijacking Incident, 1999|<->|Indian Airlines Flight 814
+Indian Air Flight IC814 Hijacking Incident, 1999|=|Indian Airlines flight 814 hijacking
 Indian art|<->|Visual arts by indigenous peoples of the Americas
 Indian arts|->|Visual arts by indigenous peoples of the Americas
 Indian Battle Park (Lethbridge, Alta.)|=|Indian Battle Park
@@ -12763,6 +12775,7 @@ Information scientists|=|Information scientist
 Information services|<->|Information broker
 Information storage and retrieval systems|->|Information retrieval
 Information technology -- Management|=|Information technology management
+Informed consent (Medical law)|<->|Informed consent
 Informers|=|Informant
 Informers (Jewish law)|<->|Mesirah
 INFORMIX-4GL (Computer program language)|=|IBM Informix-4GL
@@ -13858,6 +13871,7 @@ Jupiter (Steam locomotive)|=|Jupiter (locomotive)
 Jupiter Artland (Scotland)|=|Jupiter Artland
 Jura (Switzerland)|=|Canton of Jura
 Jurisdiction, Territorial|=|Territorial jurisdiction
+Juristic acts|<->|Legal transaction
 Juristic persons|<->|Juridical person
 Jurong (Singapore)|=|Jurong
 Jus primae noctis|<->|Droit du seigneur
@@ -14415,6 +14429,7 @@ Kolonj&euml; (Albania : Rrethi)|=|Kolonjë District
 Kolwezi (Congo)|=|Kolwezi
 Kolwezi Massacre, Kolwezi, Congo, 1978|<->|Battle of Kolwezi
 Kom (African people)|=|Kom people (Cameroon)
+Koma (Nigerian and Cameroonian people)|=|Koma in Adamawa
 Komaki Nagakute, Battle of, Japan, 1584|<->|Battle of Komaki and Nagakute
 Komandorski Islands, Battle of the, 1943|=|Battle of the Komandorski Islands
 Kom&aacute;rno (Z&aacute;padoslovensk&yacute; kraj, Slovakia)|=|Komárno
@@ -15253,6 +15268,7 @@ LFG Roland D.VI (Fighter plane)|=|LFG Roland D.VI
 Li'l Abner (Fictitious character)|<->|Li'l Abner
 Li language|<->|Hlai languages
 Liabilities (Accounting)|<->|Liability (financial accounting)
+Liability (Law)|<->|Legal liability
 Liangmai Naga (Indic people)|=|Liangmai Naga
 Liaoning Sheng (China)|=|Liaoning
 Liaoyang, Battle of, Liaoyang, China, 1904|=|Battle of Liaoyang
@@ -15774,7 +15790,7 @@ Lunar basins|<->|Lunar mare
 Lunar excursion module|=|Apollo Lunar Module
 Lunar geology|=|Geology of the Moon
 Lunar Orbiter (Artificial satellite)|<->|Lunar Orbiter program
-Lunchboxes|=|Lunch box
+Lunchboxes|=|Lunchbox
 Lund (Sweden)|=|Lund
 Lund, Battle of, Lund, Sweden, 1676|=|Battle of Lund
 Lunda Norte (Angola)|=|Lunda Norte Province
@@ -15834,6 +15850,7 @@ Lyndon B. Johnson National Historical Park (Agency : U.S.)|->|Lyndon B. Johnson 
 Lyndon B. Johnson National Historical Park (Tex.)|=|Lyndon B. Johnson National Historical Park
 Lynn Canal (Alaska)|=|Lynn Canal
 Lynx (Computer)|=|Camputers Lynx
+Lynx (Genus)|->|Lynx
 Lynx Lake (Ariz.)|=|Lynx Lake (Arizona)
 Lyon (France)|=|Lyon
 Lys, Battle of the, 1918|<->|Battle of the Lys (1918)
@@ -16126,7 +16143,7 @@ Maly Trostinec (Concentration camp)|=|Maly Trostenets extermination camp
 Mamara language|=|Minyanka language
 Mambae (East Timorese people)|=|Mambai
 Mambai language (Cameroon and Chad)|=|Mangbai language
-Mambila (African people)|=|Mambila
+Mambila (African people)|=|Mambila people
 Mambilla Plateau (Nigeria)|=|Mambilla Plateau
 Mambo (Web site development tool)|=|Mambo (software)
 Mambwe (African people)|=|Mambwe people
@@ -16209,9 +16226,12 @@ Mansfield, Mount (Vt.)|=|Mount Mansfield
 Mansfield Plantation (S.C.)|=|Mansfield Plantation
 Manshu Ki.79 (Training plane)|->|Nakajima Ki-27
 Mansurah, Battle of, Man&#x1e63;&umacr;rah, Egypt, 1250|=|Battle of Al Mansurah
+Manta (Genus)|<->|Manta ray
+Manta birostris|=|Giant oceanic manta ray
 Manti-La Sal National Forest (Agency : U.S.)|->|Manti-La Sal National Forest
 Manti-La Sal National Forest (Utah and Colo.)|=|Manti-La Sal National Forest
 Mantled howler monkey|=|Mantled howler
+Mantodea|=|Mantis
 Mantua (Italy)|=|Mantua
 Mantua (Italy : Province)|=|Province of Mantua
 Mantua (Italy) -- History -- Siege, 1796-1797|=|Siege of Mantua (1796–97)
@@ -16846,6 +16866,7 @@ Mesmerism|->|Animal magnetism
 Mesolithic period|=|Mesolithic
 Mesolongion (Greece)|=|Missolonghi
 Mesolongion (Greece) -- History -- Siege, 1825-1826|=|Third Siege of Missolonghi
+Mesomerism|<->|Resonance (chemistry)
 Messengers|=|Messenger
 Messerschmitt 108 (Airplane)|<->|Messerschmitt Bf 108
 Messerschmitt 163 (Fighter plane)|=|Messerschmitt Me 163 Komet
@@ -17205,6 +17226,7 @@ Mirror Lake State Park (Wis.)|=|Mirror Lake State Park
 Mirror-writing|=|Mirror writing
 Mirrors (Sailboats)|=|Mirror (dinghy)
 Mischlinge (Nuremberg Laws of 1935)|=|Mischling
+Misconduct in office|=|Malfeasance in office
 Misers|=|Miser
 Misiones (Argentina)|=|Misiones Province
 Miskito Indians|=|Miskito people
@@ -18886,7 +18908,6 @@ Northern Pacific Railroad Company|->|Northern Pacific Railway
 Northern Sami dialect|=|Northern Sami
 Northern Seven Years' War, 1563-1570|=|Northern Seven Years' War
 Northern sky (Astronomy)|<->|Northern Celestial Hemisphere
-Northern sunfish|=|Lepomis peltastes
 Northern Territory -- Politics and government|<->|Government of the Northern Territory
 Northern Tier (Pa.)|<->|Northern Tier (Pennsylvania)
 Northern tree shrew|=|Northern treeshrew
@@ -19100,6 +19121,7 @@ Objections (Evidence)|<->|Objection (law)
 Objective-C (Computer program language)|=|Objective-C
 ObjectPAL (Computer program language)|=|ObjectPAL
 Obligado, Battle of, Argentina, 1845|=|Battle of Vuelta de Obligado
+Obligations (Law)|<->|Law of obligations
 Obodrites|=|Obotrites
 Obolo (African people)|=|Obolo people
 Obscenity (Law)|<->|Obscenity
@@ -19333,7 +19355,7 @@ Olympos (Turkey : Extinct city)|=|Olympos (Lycia)
 Olympus Mons (Mars)|=|Olympus Mons
 Olympus, Mount (Greece)|=|Mount Olympus
 Olympus, Mount (Wash.)|=|Mount Olympus (Washington)
-Oman -- History -- Dhofar War, 1964-1976|<->|Dhofar Rebellion
+Oman -- History -- Dhofar War, 1964-1976|<->|Omani Civil War (1963-76)
 OMDoc (Document markup language)|=|OMDoc
 Omdurman (Sudan)|=|Omdurman
 Omdurman, Battle of, Omdurman, Sudan, 1898|=|Battle of Omdurman
@@ -19594,6 +19616,7 @@ Orbits|=|Orbit
 Orbiviruses|=|Orbivirus
 Orca Inlet (Alaska)|=|Orca Inlet
 Orcas Island (Wash.)|=|Orcas Island
+Orchid mantis|<->|Hymenopus coronatus
 Orchids|=|Orchidaceae
 Ord Mountain (Calif.)|<->|Ord Mountains
 Order of Apostles|=|Apostolic Brethren
@@ -20302,6 +20325,9 @@ Patera|=|Patera (gastropod)
 Paternity testing|<->|DNA paternity testing
 Pathological demand avoidance syndrome|=|Pathological demand avoidance
 Pathologists|<->|List of pathologists
+Paths and cycles (Graph theory)|<->|Path (graph theory)
+Paths and cycles (Graph theory)|<-|Cycle (graph theory)
+Patient refusal of treatment|<->|Refusal of medical assistance
 Patients|=|Patient
 Patmos (Greece)|->|Patmos
 Patmos (Greece : Municipality)|<->|Patmos
@@ -20412,6 +20438,7 @@ Peenem&uuml;nde (Germany) -- History -- Bombardment, 1943|<->|Bombing of Peenem�
 Peer-to-peer architecture (Computer networks)|<->|Peer-to-peer
 Pegasus (Greek mythology)|=|Pegasus
 Pegmatites|=|Pegmatite
+Pehuaj&oacute; (Argentina)|=|Pehuajó
 Pehuenche Pass (Argentina and Chile)|=|Paso Pehuenche
 Peipus, Lake (Estonia and Russia)|=|Lake Peipus
 Pelagic red crab|=|Pleuroncodes planipes
@@ -21361,6 +21388,7 @@ Prayer books|=|Prayer book
 Prayer in the public schools|<->|School prayer
 Prayers for the dead|=|Prayer for the dead
 Prayers|->|Prayer
+Praying mantis|<->|European mantis
 Pre-Raphaelites|->|Pre-Raphaelite Brotherhood
 Preaching|->|Sermon
 Prebiotics|=|Prebiotic (nutrition)
@@ -21873,6 +21901,7 @@ Quarterbacks (Football)|->|Quarterback
 Quartier latin (Paris, France)|=|Latin Quarter, Paris
 Quartz crystals|->|Quartz
 Quasars|=|Quasar
+Quasi contracts|=|Quasi-contract
 Quasimodo (Fictitious character)|=|Quasimodo
 Quatermain, Allan (Fictitious character)|=|Allan Quatermain
 Quaternions|=|Quaternion
@@ -22169,6 +22198,7 @@ Ray Hubbard Lake (Tex.)|=|Lake Ray Hubbard
 Ray Mountains (Alaska)|=|Ray Mountains
 Rayd&amacr;n&imacr;yah, Battle of, Rayd&amacr;n&imacr;yah, Egypt, 1517|<->|Battle of Ridaniya
 Raynaud's disease|=|Raynaud syndrome
+Rays (Graph theory)|->|End (graph theory)
 Razlovci (Macedonia) -- History -- Uprising, 1876|=|Razlovtsi insurrection
 Raznochintsy (Russian intellectuals)|<->|Raznochintsy
 RDF (Document markup language)|<->|Resource Description Framework
@@ -22204,6 +22234,7 @@ Reciprocity (Psychology)|=|Reciprocity (social psychology)
 Reclamation of land|<->|Land reclamation
 Recluses|=|Recluse
 Recommender systems (Information filtering)|=|Recommender system
+Reconstruction (Graph theory)|<->|Reconstruction conjecture
 Reconstruction (Linguistics)|<->|Linguistic reconstruction
 Reconstruction (U.S. history, 1865-1877)|=|Reconstruction Era
 Reconstruction (U.S. history, 1865-1877) -- Bibliography|<->|Bibliography of the Reconstruction Era
@@ -22372,6 +22403,7 @@ Republics|=|Republic
 Requests for proposals (Public contracts)|<->|Request for proposal
 Resaca, Battle of, Resaca, Ga., 1864|=|Battle of Resaca
 Resaca de la Palma, Battle of, Tex., 1846|=|Battle of Resaca de la Palma
+Rescission (Law)|<->|Rescission
 Research -- Methodology|->|Research
 Research aircraft|<->|Experimental aircraft
 Research grants|<->|Funding of science
@@ -22389,9 +22421,11 @@ R&eacute;serve naturelle de Tsingy du Namoroka (Madagascar)|=|Tsingy de Namoroka
 Reserves (Accounting)|<->|Reserve (accounting)
 Reservoirs|=|Reservoir
 Resilience (Ecology)|=|Ecological resilience
+Resistencia (Argentina)|=|Resistencia, Chaco
 Resisting an officer|<->|Resisting arrest
 Resolis (Scotland)|=|Resolis
 Resolution (Chemistry)|<->|Chiral resolution
+Resolutions, Legislative|<->|Resolution (law)
 Respect|<-|Deference
 Respirators (Medical equipment)|<->|Medical ventilator
 Respiratory distress syndrome, Adult|=|Acute respiratory distress syndrome
@@ -22699,6 +22733,7 @@ Rokoko-Theater (Schloss Schwetzingen, Schwetzingen, Germany)|=|Schlosstheater Sc
 Roland (Legendary character)|<->|Roland
 Role playing|=|Role-playing
 Roll forming (Metalwork)|=|Roll forming
+Rollback recovery (Computer science)|<->|Rollback (data management)
 Rolong (African people)|=|Rolong tribe
 Roman Baths Museum (Bath, England)|<->|Roman Baths (Bath)
 Roman charity (Legend)|=|Roman Charity
@@ -22821,7 +22856,7 @@ Rotoiti, Lake (Tasman District, N.Z.)|=|Lake Rotoiti (Tasman)
 Rotonda di Brescia (Church : Brescia, Italy)|=|Old Cathedral, Brescia
 Rotors (Helicopters)|<->|Helicopter rotor
 Rotterdam (Netherlands)|=|Rotterdam
-Rotterdam (Netherlands) -- History -- Bombardment, 1940|=|Rotterdam Blitz
+Rotterdam (Netherlands) -- History -- Bombardment, 1940|=|German bombing of Rotterdam
 Rottnest Island (W.A.)|<->|Rottnest Island
 Rough fescue|=|Festuca scabrella
 Rough-legged hawk|=|Rough-legged buzzard
@@ -24049,7 +24084,7 @@ Shakespeare, William, 1564-1616 -- Monuments|<->|Memorials to William Shakespear
 Shakespeare, William, 1564-1616 -- Portraits|=|Portraits of Shakespeare
 Shakespeare, William, 1564-1616 -- Religion|<->|Religious views of William Shakespeare
 Shakespeare, William, 1564-1616 -- Sexual behavior|<->|Sexuality of William Shakespeare
-Shakespeare, William, 1564-1616 -- Spurious and doubtful works|<->|Shakespeare Apocrypha
+Shakespeare, William, 1564-1616 -- Spurious and doubtful works|<->|Shakespeare apocrypha
 Shakespeare, William, 1564-1616 -- Stage history|<->|Shakespeare in performance
 Shakespeare, William, 1564-1616 -- Tragedies|<->|Shakespearean tragedy
 Shakespeare, William, 1564-1616 -- Will|=|Shakespeare's will
@@ -24991,7 +25026,7 @@ Spain -- History -- Carlist War, 1846-1849|=|Second Carlist War
 Spain -- History -- Carlist War, 1873-1876|<->|Third Carlist War
 Spain -- History -- Civil War, 1936-1939|=|Spanish Civil War
 Spain -- History -- Civil War, 1936-1939 -- Atrocities|<-|Red Terror (Spain)
-Spain -- History -- Civil War, 1936-1939 -- Atrocities|<-|Francoist Repression
+Spain -- History -- Civil War, 1936-1939 -- Atrocities|<-|White Terror (Spain)
 Spain -- History -- Civil War, 1936-1939 -- Biography|<->|List of people of the Spanish Civil War
 Spain -- History -- Civil War, 1936-1939 -- Causes|<->|Background of the Spanish Civil War
 Spain -- History -- Civil War, 1936-1939 -- Children|<-|Evacuation of children in the Spanish Civil War
@@ -25035,6 +25070,7 @@ Spanish Peaks (Colo.)|=|Spanish Peaks
 Spanish Peaks Wilderness (Colo.)|=|Spanish Peaks Wilderness
 Spanish-speaking countries|<->|List of countries where Spanish is an official language
 Spanish Succession, War of, 1701-1714|=|War of the Spanish Succession
+Spanning trees (Graph theory)|=|Spanning tree
 SPARK (Computer program language)|=|SPARK (programming language)
 SPARQL (Computer program language)|=|SPARQL
 Sparrow, Jack (Fictitious character)|=|Jack Sparrow
@@ -25406,7 +25442,8 @@ Stubble mulching|=|Stubble-mulching
 Stuckism (Art movement)|=|Stuckism
 Studebaker automobile|->|Studebaker
 Studebaker Corporation|<->|Studebaker
-Student aid -- United States|<->|Student financial aid in the United States
+Student aid|<->|Student financial aid
+Student aid -- United States|<->|Student financial aid (United States)
 Student Business Analyst (Calculator)|<->|Texas Instruments Business Analyst
 Student-centered learning|=|Student-centred learning
 Student government|<->|Students' union
@@ -25848,7 +25885,7 @@ Taimoro (Malagasy people)|=|Antemoro people
 Taino Indians|=|Taíno
 Taita (African people)|=|Taita people
 Taiwan -- History -- 1895-1945|=|Taiwan under Japanese rule
-Taiwan -- History -- 1945-|=|Taiwan after World War II
+Taiwan -- History -- 1945-|=|History of Taiwan since 1945
 Taiwan -- History -- Dutch rule, 1624-1661|<->|Dutch Formosa
 Taiwan -- History -- February Twenty Eighth Incident, 1947|=|February 28 Incident
 Taiwan -- History -- Kaohsiung Incident, 1979|=|Kaohsiung Incident
@@ -26086,6 +26123,7 @@ Teacups|=|Teacup
 Teapot Dome Scandal, 1921-1924|=|Teapot Dome scandal
 Teaseed oil|=|Tea seed oil
 Teatro comunale (Bologna, Italy)|=|Teatro Comunale di Bologna
+Teatro Espa&ntilde;ol (Madrid, Spain)|=|Teatro Español (Madrid)
 Technical analysis (Investment analysis)|=|Technical analysis
 Technical education|->|Vocational education
 Technical services (Libraries)|=|Library technical services
@@ -26351,7 +26389,7 @@ Th&emacr;rasia Island (Greece)|=|Therasia
 Therav&amacr;da Buddhism|=|Theravada
 Theresienstadt (Concentration camp)|=|Theresienstadt concentration camp
 Thermals (Meteorology)|=|Thermal
-Thermopolis, Mia (Fictitious character)|=|Mia Thermopolis
+Thermopolis, Mia (Fictitious character)|->|The Princess Diaries
 Thermopylae, Battle of, Greece, 480 B.C.|=|Battle of Thermopylae
 Thermoresponsive polymers|=|Temperature-responsive polymer
 Theseus, King of Athens|=|Theseus
@@ -26764,6 +26802,7 @@ Tourcoing (France)|=|Tourcoing
 Tourcoing, Battle of, Tourcoing, France, 1794|=|Battle of Tourcoing
 Tourism -- Korea (South)|=|Tourism in South Korea
 Tourists|->|Tourism
+Tournaments (Graph theory)|=|Tournament (graph theory)
 Tournaments, Medieval|=|Tournament (medieval)
 Tours, Battle of, France, 732|=|Battle of Tours
 Toutatis (Asteroid)|=|4179 Toutatis
@@ -26933,6 +26972,7 @@ Tredegar (Wales)|=|Tredegar
 Tree kangaroos|=|Tree-kangaroo
 Tree trunks|=|Trunk (botany)
 Trees|=|Tree
+Trees (Graph theory)|=|Tree (graph theory)
 Treibball (Dog sport)|=|Treibball
 Trellick Tower (London, England)|=|Trellick Tower
 Trempealeau National Wildlife Refuge (Agency : U.S.)|->|Trempealeau National Wildlife Refuge
@@ -27179,7 +27219,7 @@ Turkey -- History -- Shaykh Sa&#x02bb;&imacr;d Rebellion, 1925|=|Sheikh Said reb
 Turkey -- History -- Tanzimat, 1839-1876|<->|Tanzimat
 Turkey -- History -- Wars with Persia, 1576-1639|<->|Ottoman–Persian wars
 Turkey -- Politics and government|<->|Politics of Turkey
-Turkeys|<->|Domesticated turkey
+Turkeys|<->|Domestic turkey
 Turkish Angora cat|=|Turkish Angora
 Turkish Five (Group of composers)|=|Turkish Five
 Turkish language -- Grammar|=|Turkish grammar
