@@ -6,8 +6,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation
-# Last updated 2017-07-23
-# Now working on: Electronic resource, L-Z
+# Last updated 2017-08-03
+# Treaties partly moved over (still have to do A-S)
 4chan (Electronic resource)|=|4chan
 Abaqus (Electronic resource)|=|Abaqus
 Adobe InDesign (Electronic resource)|=|Adobe InDesign
@@ -778,16 +778,26 @@ Mudbox (Electronic resource)|=|Autodesk Mudbox
 Mutant chronicles (Motion picture)|=|Mutant Chronicles (film)
 MySpace.com|=|Myspace
 MySQL (Electronic resource)|=|MySQL
+Nero (Electronic resource)|<->|Nero Multimedia Suite
 Nineteen eighty-four (Motion picture : 1984)|=|Nineteen Eighty-Four (1984 film)
 Northern exposure (Television program)|=|Northern Exposure
+NS (Electronic resource)|<->|Ns (simulator)
+Nuke (Electronic resource)|=|Nuke (software)
 O'Connor, Jane. Fancy Nancy|=|Fancy Nancy
 Obama, Barack. Dreams from my father|=|Dreams from My Father
+OpenBSD (Electronic resource)|=|OpenBSD
+OpenOffice.org (Electronic resource)|=|OpenOffice.org
+OpenSolaris (Electronic resource)|=|OpenSolaris
+OpenStack (Electronic resource)|=|OpenStack
 Orwell, George, 1903-1950. Animal farm|=|Animal Farm
 Orwell, George, 1903-1950. Nineteen eighty-four|=|Nineteen Eighty-Four
 Orwell, George, 1903-1950. Politics and the English language|=|Politics and the English Language
+Outsports (Electronic resource)|=|Outsports
 Pac-Man and the ghostly adventures (Television program)|=|Pac-Man and the Ghostly Adventures
 Page, Jimmy. Kashmir|=|Kashmir (song)
 Page, Jimmy. Stairway to heaven|=|Stairway to Heaven
+Pages (Electronic resource)|=|Pages (word processor)
+Perforce (Electronic resource)|<->|Perforce Helix
 Phantom of the Opera (Motion picture : 1925)|=|The Phantom of the Opera (1925 film)
 Phantom of the Opera (Motion picture : 1943)|=|Phantom of the Opera (1943 film)
 Phantom of the Opera (Motion picture : 1989)|=|The Phantom of the Opera (1989 film)
@@ -805,15 +815,24 @@ Picasso, Pablo, 1881-1973. Vollard suite|=|Vollard Suite
 Pink Floyd (Musical group). Dark side of the moon|=|The Dark Side of the Moon
 Pink Floyd (Musical group). Wall|=|The Wall
 Pink Floyd the wall (Motion picture)|=|Pink Floyd – The Wall
+Pinnacle studio (Electronic resource)|=|Pinnacle Studio
+Planetizen (Electronic resource)|=|Planetizen
+Play Framework (Electronic resource)|=|Play Framework
 Pok&eacute;mon (Television program)|<->|Pokémon (anime)
 Pok&eacute;mon: the first movie (Motion picture)|=|Pokémon: The First Movie
 Pok&eacute;mon: the movie 2000 (Motion picture)|=|Pokémon: The Movie 2000
 Polar Express (Motion picture)|=|The Polar Express (film)
+Qt (Electronic resource)|=|Qt (software)
+Quartz (Electronic resource)|<->|Quartz (graphics layer)
+RapidMiner (Electronic resource)|=|RapidMiner
 Rawhide (Television program)|=|Rawhide (TV series)
 Red River Valley|=|Red River Valley (song)
 Rouget de Lisle, Claude Joseph, 1760-1836. Marseillaise|=|La Marseillaise
 Ruby on rails (Electronic resource)|=|Ruby on Rails
 Saint-Gaudens, Augustus, 1848-1907. Robert Gould Shaw memorial (Bronze sculpture)|=|Robert Gould Shaw Memorial
+SAP HANA (Electronic resource)|=|SAP HANA
+Scratch (Electronic resource)|->|Scratch (programming language)
+SDL (electronic resource)|=|Simple DirectMedia Layer
 Sesame Street (Television program)|=|Sesame Street
 Shakespeare, William, 1564-1616. All's well that ends well|=|All's Well That Ends Well
 Shakespeare, William, 1564-1616. Antony and Cleopatra|=|Antony and Cleopatra
@@ -862,7 +881,12 @@ Shakespeare, William, 1564-1616. Winter's tale|=|The Winter's Tale
 Shakespeare, William, 1564-1616. Works|=|Complete Works of Shakespeare
 Shaun the Sheep (Television program)|=|Shaun the Sheep
 Shaun the Sheep movie (Motion picture)|=|Shaun the Sheep Movie
+Silo (Electronic resource)|=|Silo (software)
+Silverlight (Electronic resource)|=|Microsoft Silverlight
+Siri (Electronic resource)|=|Siri
+Skype (Electronic resource)|=|Skype
 Sliders (Television program)|=|Sliders
+Snapchat (Electronic resource)|=|Snapchat
 Sousa, John Philip, 1854-1932. Capitan (Operetta)|=|El Capitan (operetta)
 Sousa, John Philip, 1854-1932. D&eacute;sir&eacute;e|=|Désirée
 Sousa, John Philip, 1854-1932. Fairest of the fair|=|The Fairest of the Fair
@@ -879,26 +903,76 @@ Sousa, John Philip, 1854-1932. Stars and stripes forever|<->|The Stars and Strip
 Sousa, John Philip, 1854-1932. Thunderer|=|The Thunderer
 Sousa, John Philip, 1854-1932. U.S. Field Artillery|=|U.S. Field Artillery March
 Sousa, John Philip, 1854-1932. Washington Post|=|The Washington Post (march)
+Spark (Electronic resource : Apache Software Foundation)|=|Apache Spark
 Splash (Motion picture)|=|Splash (film)
 SpongeBob SquarePants (Television program)|=|SpongeBob SquarePants
 Starr, Ringo. Octopus's garden|<->|Octopus's Garden
 Stoker, Bram, 1847-1912. Dracula|=|Dracula
 Stoker, Bram, 1847-1912. Lady of the shroud|=|The Lady of the Shroud
 Stoker, Bram, 1847-1912. Lair of the white worm|=|The Lair of the White Worm
+Storm (Electronic resource)|=|Storm (event processor)
 Strunk, William, 1869-1946. Elements of style|=|The Elements of Style
 Styka, Jan, 1858-1925. Panorama of the Battle of Rac&lstrok;awice|=|Racławice Panorama
 Styka, Jan, 1858-1925. Panorama of the Battle of Sibiu|=|Transylvania Panorama
+Sun Java desktop system (Electronic resource)|=|Java Desktop System
+Sun Studio (Electronic resource)|<->|Oracle Developer Studio
 Sunset Blvd. (Motion picture)|=|Sunset Boulevard (film)
 Swing (Computer file)|=|Swing (Java)
+Tartu, Treaty of, 1920 (Finland)|<->|Treaty of Tartu (Russian–Finnish)
 Terminator (Motion picture)|=|The Terminator
 Terminator 2 (Motion picture)|=|Terminator 2: Judgment Day
 Terminator 3 (Motion picture)|=|Terminator 3: Rise of the Machines
 Terminator salvation (Motion picture)|=|Terminator Salvation
 Terminfo (Computer file)|=|Terminfo
 Thor (Motion picture)|=|Thor (film)
+Tilsit, Treaty of, 1807|<->|Treaties of Tilsit
 Tinker, tailor, soldier, spy (Motion picture)|=|Tinker Tailor Soldier Spy (film)
+TOAD (Electronic resource)|=|Toad (software)
+Treaty between the United States of America and different tribes of Sioux Indians (1868)|=|Treaty of Fort Laramie (1868)
+Treaty between the United States of America and the Russian Federation on Further Reduction and Limitation of Strategic Offensive Arms (1993 January 3)|=|START II
+Treaty between the United States of America and the Russian Federation on Measures for the Further Reduction and Limitation of Strategic Offensive Arms (2010 April 8)|=|New START
+Treaty Between the United States of America and the Union of Soviet Socialist Republics on the Elimination of Their Intermediate-Range and Shorter-Range Missiles (1987 December 8)|=|Intermediate-Range Nuclear Forces Treaty
+Treaty Between the United States of America and the Union of Soviet Socialist Republics on the Reduction and Limitation of Strategic Offensive Arms (1991 July 31)|=|START I
+Treaty Establishing a Constitution for Europe (2004 October 29)|=|Treaty establishing a Constitution for Europe
+Treaty Establishing the European Coal and Steel Community (1951 April 18)|=|Treaty of Paris (1951)
+Treaty Establishing the European Economic Community (1957 March 25)|=|Treaty of Rome
+Treaty for the Prohibition of Nuclear Weapons in Latin America (1967 February 14)|=|Treaty of Tlatelolco
+Treaty of Alliance between His Majesty, in Respect of the United Kingdom, and His Majesty the King of Egypt (1936 August 26)|=|Anglo-Egyptian treaty of 1936
+Treaty of Amiens (1802)|=|Treaty of Amiens
+Treaty of Antwerp (1609 April 9)|=|Treaty of Antwerp (1609)
+Treaty of Asunci&oacute;n (1991)|=|Treaty of Asunción
+Treaty of Brest-Litovsk (1918 February 9)|=|Treaty of Brest-Litovsk (Ukraine–Central Powers)
+Treaty of Brest-Litovsk (1918 March 3)|=|Treaty of Brest-Litovsk
+Treaty of Chaumont (1814)|<->|Treaty of Chaumont
+Treaty of Ghent (1814 December 24)|=|Treaty of Ghent
+Treaty of Kars (1921)|=|Treaty of Kars
+Treaty of Lausanne (1923)|=|Treaty of Lausanne
+Treaty of Melno (1422)|=|Treaty of Melno
+Treaty of M&uuml;nster (1648 January 30)|=|Peace of Münster
+Treaty of Mutual Cooperation and Security between the United States of America and Japan (1960 January 19)|<->|Treaty of Mutual Cooperation and Security between the United States and Japan
+Treaty of Passarowitz (1718)|=|Treaty of Passarowitz
+Treaty of Peace, Friendship, Limits, and Settlement Between the United States of America and the Mexican Republic (1848 February 2)|=|Treaty of Guadalupe Hidalgo
+Treaty of Peace with Japan (1951 September 8)|=|Treaty of San Francisco
+Treaty of Ryswick (1697)|=|Treaty of Ryswick
+Treaty of San Stefano (1878)|=|Treaty of San Stefano
+Treaty of S&egrave;vres (1920)|=|Treaty of Sèvres
+Treaty of Utrecht (1713)|<->|Treaty of Utrecht
+Treaty of Versailles (1919 June 28)|=|Treaty of Versailles
+Treaty of Zsitvatorok (1606)|=|Peace of Zsitvatorok
+Treaty on Conventional Armed Forces in Europe (1990 November 19)|=|Treaty on Conventional Armed Forces in Europe
+Treaty on European Union (1992 February 7)|=|Maastricht Treaty
+Treaty on Open Skies (1992 March 24)|=|Treaty on Open Skies
+Treaty on Stability, Coordination and Governance in the Economic and Monetary Union (2012 March 2)|=|European Fiscal Compact
+Treaty on the Final Settlement with Respect to Germany (1990)|=|Treaty on the Final Settlement with Respect to Germany
+Treaty on the Non-proliferation of Nuclear Weapons (1968 June 12)|=|Treaty on the Non-Proliferation of Nuclear Weapons
+Treaty on the Prohibition of the Emplacement of Nuclear Weapons and Other Weapons of Mass Destruction on the Seabed and the Ocean Floor and in the Subsoil Thereof (1971 February 11)|=|Seabed Arms Control Treaty
+Treaty on the Protection of Artistic and Scientific Institutions and Historic Monuments (1935)|=|Roerich Pact
+Treaty to Avoid or Prevent Conflicts Between the American States (1923)|=|Pan-American Treaty (1923)
+Troyes, Treaty of, 1420|=|Treaty of Troyes
 Tumblr (Electronic resource)|=|Tumblr
+UberFacts (Electronic resource)|=|UberFacts
 Ubuntu (Electronic resource)|=|Ubuntu (operating system)
+UIQ (Electronic resource)|=|UIQ
 United Nations. Charter|=|United Nations Charter
 United States. Airline Deregulation Act of 1978|<->|Airline Deregulation Act
 United States. American Recovery and Reinvestment Act of 2009|=|American Recovery and Reinvestment Act of 2009
@@ -1003,6 +1077,8 @@ United States. Tax Reform Act of 1986|=|Tax Reform Act of 1986
 United States. Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001|=|Patriot Act
 United States. Voting Rights Act of 1965|=|Voting Rights Act of 1965
 United States. War Powers Resolution|<->|War Powers Resolution
+Unity (Electronic resource)|=|Unity (game engine)
+Vasv&aacute;r, Treaty of, 1664|=|Peace of Vasvár
 Vaughan Williams, Ralph, 1872-1958. Blake songs|=|Ten Blake Songs
 Vaughan Williams, Ralph, 1872-1958. Concerto grosso, string orchestra|=|Concerto Grosso (Vaughan Williams)
 Vaughan Williams, Ralph, 1872-1958. Concertos, oboe, string orchestra|<->|Oboe Concerto (Vaughan Williams)
@@ -1051,12 +1127,20 @@ Vaughan Williams, Ralph, 1872-1958. Symphonies, no. 8, D minor|=|Symphony No. 8 
 Vaughan Williams, Ralph, 1872-1958. Symphonies, no. 9, E minor|=|Symphony No. 9 (Vaughan Williams)
 Vaughan Williams, Ralph, 1872-1958. Variants of Dives and Lazarus|=|Five Variants of Dives and Lazarus
 Vaughan Williams, Ralph, 1872-1958. Wasps (Incidental music)|=|The Wasps (Vaughan Williams)
+Vegas (Electronic resource)|<->|Vegas Pro
+Vue (Electronic resource)|=|E-on Vue
+Warsaw Treaty (1955)|->|Warsaw Pact
 Washington, George, 1732-1799. Farewell address|<->|George Washington's Farewell Address
 Washington, George, 1732-1799. Papers of George Washington|->|The Washington Papers
 Washington, George, 1732-1799. Rules of civility|<->|Rules of Civility and Decent Behaviour In Company and Conversation
+Webster-Ashburton Treaty (1842 August 9)|=|Webster–Ashburton Treaty
 Who (Musical group). Who sell out|=|The Who Sell Out
 Wizard of Oz (Motion picture : 1939)|=|The Wizard of Oz (1939 film)
+WordPress (Electronic resource)|<->|WordPress
+World Intellectual Property Organization Copyright Treaty (1996 December 20)|=|WIPO Copyright Treaty
+World Intellectual Property Organization Performances and Phonograms Treaty (1996 December 20)|=|WIPO Performances and Phonograms Treaty
 X-Men (Motion picture)|=|X-Men (film)
+Xen (Electronic resource)|=|Xen
 Xena, warrior princess (Television program)|=|Xena: Warrior Princess
 Yes (Musical group). Close to the edge|<->|Close to the Edge
 YouTube (Electronic resource)|=|YouTube
