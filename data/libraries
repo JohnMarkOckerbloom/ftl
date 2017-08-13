@@ -4,7 +4,7 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2017-06-27
+# Last updated 2017-08-13
 
 ID OLBP
 NAME The Online Books Page
@@ -6229,6 +6229,14 @@ STATE OH
 CATTYPE sirsient
 LCODE en_US/lor-main
 BASEURL https://search.clevnet.org
+
+ID OCLC-OLM
+NAME Lloyd Library and Museum
+LOCATION Cincinnati
+STATE OH
+BASEURL http://uclid.uc.edu
+CATTYPE iii-consortium-member
+LCODE 8
 
 ID OCLC-OSU
 NAME Ohio State University
