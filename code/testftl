@@ -32,7 +32,7 @@ use FTLConfig;
 my $liblistfile         = $FTL::IDXDIR . "libraries";
 my $libhashfile         = $FTL::IDXDIR . "libraries.hsh";
 
-my $backupdir = "/home/ockerblo/digital/nonpublic/ftl/";
+my $backupdir = "/home/LIBRARY/ockerblo/digital/nonpublic/ftl/";
 
 if (! -e $liblistfile) {
   # hack for my own testing, which takes place on different machine

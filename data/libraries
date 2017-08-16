@@ -4,7 +4,7 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2017-08-13
+# Last updated 2017-08-16
 
 ID OLBP
 NAME The Online Books Page
@@ -5310,20 +5310,20 @@ NAME Montana Tech of the University of Montana
 LOCATION Butte
 STATE MT
 CATTYPE primodl-scope
-BASEURL http://montana-primo.hosted.exlibrisgroup.com
-VID UMTECH
-LCODE UMONTANA-Montana+Tech
-SCOPE EVERYTHING
+BASEURL http://mtech-primo.hosted.exlibrisgroup.com
+VID 01TRAILS_UM_MTECH
+LCODE 01TRAILS_UM_MTECH
+SCOPE ALL-01TRAILS_UM_MTECH
 
 ID OCLC-MTG
 NAME University of Montana, Mansfield Library
 LOCATION Missoula
 STATE MT
 CATTYPE primodl-scope
-BASEURL http://montana-primo.hosted.exlibrisgroup.com
-VID UMMISS
-LCODE UMMISS
-SCOPE UMMISS_PLUS
+BASEURL http://um-primo.hosted.exlibrisgroup.com
+VID 01TRAILS_UM
+LCSUB 01TRAILS_UM
+SCOPE TRAILS
 
 ID OCLC-BLL
 NAME Bellevue Public Library
@@ -5524,8 +5524,9 @@ ID OCLC-PTS
 NAME Princeton Theological Seminary
 LOCATION Princeton
 STATE NJ
-CATTYPE voyager-vwebv
-BASEURL http://catalog.ptsem.edu:7008/vwebv/search
+CATTYPE summon
+BASEURL http://ptsem.summon.serialssolutions.com
+FILTERS S
 
 ID OCLC-PUL
 NAME Princeton University Library
@@ -7616,6 +7617,13 @@ LOCATION Austin
 STATE TX
 CATTYPE summon
 BASEURL http://utexas.summon.serialssolutions.com
+
+ID OCLC-TMB
+NAME University of Texas Medical Branch
+LOCATION Galveston
+STATE TX
+CATTYPE summon
+BASEURL http://utmblibrary.summon.serialssolutions.com
 
 ID OCLC-TXW
 NAME Waco-McClennan County Library
