@@ -5042,6 +5042,14 @@ STATE MN
 BASEURL http://walden.kohalibrary.com
 CATTYPE koha
 
+ID OCLC-WLM
+NAME Washington County Library
+LOCATION Washington County
+STATE MN
+CATTYPE sirsient
+BASEURL https://wcm.ent.sirsi.net
+LCODE en_US/default
+
 ID OCLC-MLU
 NAME Alcorn State University
 LOCATION Lorman
@@ -7908,11 +7916,19 @@ STATE VT
 BASEURL http://library.bennington.edu
 CATTYPE webpacpro
 
+ID OCLC-VTBFL
+NAME Bennington Free Library
+LOCATION Bennington
+STATE VT
+BASEURL https://bennington.bywatersolutions.com
+CATTYPE koha-group
+LCODE VTBFL
+
 ID OCLC-BSY
 NAME Brooks Memorial Library
 LOCATION Brattleboro
 STATE VT
-BASEURL http://catalog.brookslibraryvt.org
+BASEURL https://catalog.brookslibraryvt.org
 CATTYPE koha-group
 LCODE BROOKSBRAT
 
@@ -7944,6 +7960,13 @@ LOCATION Rutland
 STATE VT
 BASEURL http://catalog.rutlandfree.org
 CATTYPE koha
+
+ID OCLC-SMD
+NAME Saint Michael's College
+LOCATION Colchester
+STATE VT
+CATTYPE voyager-vwebv
+BASEURL http://voyager.smcvt.edu/vwebv/search
 
 ID OCLC-VTU
 NAME University of Vermont
