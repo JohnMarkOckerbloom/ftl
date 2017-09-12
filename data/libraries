@@ -7139,13 +7139,13 @@ CATTYPE ls2pac
 BASEURL http://cmc-websvr.clarksville.org:8080/
 FILTERS S
 
+# East Tennessee now seems to have its own custom search
 ID OCLC-TET
 NAME East Tennessee State University
 LOCATION Johnson City
 STATE TN
 BASEURL http://libraries.etsu.edu
-CATTYPE iii-consortium-member
-LCODE 12
+KEYURL ${BASEURL}/search/?query=${ARG:NK}
 
 ID OCLC-FSK
 NAME Fisk University
@@ -7206,13 +7206,14 @@ CATTYPE vufindgeneral
 BASEURL http://catalog.library.nashville.org/Union/Search
 DEFAULT http://www.library.nashville.org/
 
+# reclaimed from other NE TN consortium, also w/o OCLC ID, whose catalog's gone
 ID NETCONSORTIUM
-NAME Northeast Tennessee Libraries
-LOCATION Academic and public library federation in NE Tennessee
+NAME Organization of Watauga Libraries
+LOCATION Public libraries in Tri-Cities area, NE Tennessee
 STATE TN
-BASEURL http://libraries.etsu.edu
-CATTYPE iii-consortium-member
-LCODE 1
+CATTYPE sirsient
+BASEURL http://owl.ent.sirsi.net
+LCODE en_US/OWL
 
 ID OCLC-TWS
 NAME Rhodes College
@@ -7277,6 +7278,14 @@ VID VANDERBILT
 LCODE VAN
 LOC adaptor,scope:(GMA),scope:(tvnews),scope:(vanunicorn),scope:(usserial),scope:(ACT),scope:(discoverarchive),scope:(vuojs),primo_central_multiple_fe
 DEFAULT http://discoverlibrary.vanderbilt.edu/
+
+# OCLC registry associates this ID with "DEKALB", but gives this system's URL
+ID OCLC-TNWIL
+NAME Williamson County Public Library
+LOCATION Franklin and vicinity
+STATE TN
+CATTYPE encore
+BASEURL http://encore.williamson-tn.org/iii/encore
 
 ID OCLC-ALAMO
 NAME Alamo Colleges Libraries
