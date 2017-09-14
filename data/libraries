@@ -5625,8 +5625,9 @@ ID OCLC-SFP
 NAME Santa Fe Public Library
 LOCATION Santa Fe
 STATE NM
-BASEURL https://catalog.ci.santa-fe.nm.us
-CATTYPE innopac
+CATTYPE vufindgeneral
+BASEURL https://catalog.santafelibrary.org/Union/Search
+DEFAULT http://santafelibrary.org/
 
 ID OCLC-TBL
 NAME Thomas Branigan Memorial Library
@@ -5826,6 +5827,14 @@ STATE NY
 CATTYPE sirsi
 BASEURL http://nysl.nysed.gov/uhtbin/cgisirsi.exe
 
+ID OCLC-RTN
+NAME North Country Library System
+LOCATION Jefferson, Lewis, Oswego, and St. Lawrence Counties
+STATE NY
+CATTYPE sirsient
+BASEURL https://catalog.ncls.org
+LCODE en_US/nclscat
+
 ID OCLC-YVO
 NAME Onondaga County Public Library
 LOCATION Syracuse and vicinity
@@ -5887,8 +5896,8 @@ ID OCLC-ZSJ
 NAME St. John's University
 LOCATION New York
 STATE NY
-BASEURL http://stjohns.waldo.kohalibrary.com
-CATTYPE koha
+BASEURL https://stjohnsuniversitylibraries.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-YSM
 NAME Stony Brook University Libraries
@@ -5910,7 +5919,7 @@ NAME SUNY Oswego, Penfield Library
 LOCATION Oswego
 STATE NY
 CATTYPE alephcuny
-BASEURL http://osw.sunyconnect.suny.edu:4470
+BASEURL https://osw.sunyconnect.suny.edu:4479
 SINDEX FIND_WSU
 TINDEX WTI
 FILTERS NK
