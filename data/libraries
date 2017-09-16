@@ -8256,8 +8256,16 @@ ID OCLC-9WV
 NAME Kanawha County Public Library
 LOCATION Charleston and vicinity
 STATE WV
-BASEURL http://kcpl.kanawha.lib.wv.us/uhtbin/cgisirsi
-CATTYPE sirsi
+CATTYPE sirsient
+LCODE en_US/default
+BASEURL http://kana.ent.sirsi.net
+
+ID OCLC-NORLN
+NAME Northern Library Network
+LOCATION Public libraries in 17 northern West Virginia counties
+STATE WV
+BASEURL https://nlnapp.clark.lib.wv.us
+CATTYPE innopac
 
 ID OCLC-OC2
 NAME Ohio County Public Library
@@ -8294,8 +8302,17 @@ ID OCLC-WVU
 NAME West Virginia University
 LOCATION Morgantown
 STATE WV
-CATTYPE summon
-BASEURL http://wvu.summon.serialssolutions.com
+BASEURL https://libwvu.on.worldcat.org/search?scope=wz:1653&queryString
+CATTYPE worldcat-config
+
+# No ID for system as a whole; using ID for Cabell County PL
+ID OCLC-RN1
+NAME Western Counties Regional Library System
+LOCATION Cabell, Lincoln, Logan, Mingo, Putnam, and Wayne counties
+STATE WV
+CATTYPE sirsient
+LCODE en_US/cabell
+BASEURL https://cabe.ent.sirsi.net
 
 ID OCLC-GZG
 NAME Brown County Library
