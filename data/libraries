@@ -4,7 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2017-08-16
+# Last updated 2017-09-20
+# Next set of libraries to check: PA
 
 ID OLBP
 NAME The Online Books Page
@@ -1533,8 +1534,9 @@ ID OCLC-EQK
 NAME Cranfield University
 LOCATION Bedfordshire, England
 COUNTRY UK
-CATTYPE sirsi
-BASEURL http://unicorn.dmz.cranfield.ac.uk/uhtbin/cgisirsi
+CATTYPE sirsient
+BASEURL https://cran.ent.sirsidynix.net.uk
+LCODE en_GB/default
 
 ID OCLC-UKMTU
 NAME De Montfort University
@@ -6530,8 +6532,9 @@ ID OCLC-LIQ
 NAME LINCC: Libraries in Clackamas County
 LOCATION Clackamas County
 STATE OR
-BASEURL http://www.lincc.org/uhtbin/cgisirsi
-CATTYPE sirsi
+BASEURL https://lincc.ent.sirsi.net
+CATTYPE sirsient
+LCODE en_US/lincc
 
 ID OCLC-ORX
 NAME Multnomah County Library
