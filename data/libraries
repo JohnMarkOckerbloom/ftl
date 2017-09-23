@@ -2138,8 +2138,9 @@ WCRID 8064
 NAME Fairbanks North Star Borough Public Libraries
 LOCATION Fairbanks and vicinity
 STATE AK
-BASEURL http://catalog.fnsb.lib.ak.us/uhtbin/cgisirsi
-CATTYPE sirsi
+CATTYPE sirsient
+LCODE en_US/default
+BASEURL https://fnsb.ent.sirsi.net
 
 ID OCLC-FCLIB
 NAME First City Libraries
@@ -2168,7 +2169,7 @@ ID OCLC-MSLIB
 NAME Matanuska-Susitna Library Network
 LOCATION Matanuska-Susitna Borough
 STATE AK
-BASEURL http://jlc-web.uaa.alaska.edu/
+BASEURL https://jlc-web.uaa.alaska.edu
 CATTYPE sirsient
 LCODE en_US/msln
 
@@ -2176,8 +2177,9 @@ ID OCLC-Q2T
 NAME Petersburg Public Library
 LOCATION Petersburg
 STATE AK
-BASEURL http://66.223.180.26/uhtbin/cgisirsi.exe
-CATTYPE sirsi
+BASEURL https://jlc-web.uaa.alaska.edu
+CATTYPE sirsient
+LCODE en_US/petersburg
 
 ID OCLC-X@8
 WCRID 8119
@@ -7692,8 +7694,9 @@ ID OCLC-UTD
 NAME Davis County Library
 LOCATION Northern suburbs of Salt Lake City
 STATE UT
-CATTYPE sirsi
-BASEURL http://168.180.199.11/uhtbin/cgisirsi.exe
+BASEURL https://dcll.ent.sirsi.net
+LCODE en_US/default
+CATTYPE sirsient
 
 ID OCLC-RB0
 NAME Orem Public Library
