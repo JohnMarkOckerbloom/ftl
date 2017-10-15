@@ -80,6 +80,15 @@ AUTURL ${BASEURL}/search?p_p_state=normal&p_p_lifecycle=1&p_p_action=1&p_p_id=se
 TITURL ${BASEURL}/search?p_p_state=normal&p_p_lifecycle=1&p_p_action=1&p_p_id=searchResult_WAR_arenaportlets&&p_p_mode=view&search_item_no=0&search_type=solr&search_query=title:(${ARG})
 KEYURL ${BASEURL}/search?p_p_state=normal&p_p_lifecycle=1&p_p_action=1&p_p_id=searchResult_WAR_arenaportlets&&p_p_mode=view&search_item_no=0&search_type=solr&search_query=${ARG}
 
+# This might work better for newer arena installations
+# For some reason, many libraries seem to use the same code
+CATTYPE arenacode
+LCODE 687834046
+SUBURL ${BASEURL}/search?p_p_id=searchResult_WAR_arenaportlets&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_${LCODE}_search_query=subject:(${ARG})
+AUTURL ${BASEURL}/search?p_p_id=searchResult_WAR_arenaportlets&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_${LCODE}_search_query=author:(${ARG})
+TITURL ${BASEURL}/search?p_p_id=searchResult_WAR_arenaportlets&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_${LCODE}_search_query=title:(${ARG})
+KEYURL ${BASEURL}/search?p_p_id=searchResult_WAR_arenaportlets&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_${LCODE}_search_query=${ARG}
+
 CATTYPE atriuum
 SUBURL ${BASEURL}ExpertSearch?ST0=S&view=Bibliographic&SF0=${ARG}
 AUTURL ${BASEURL}ExpertSearch?ST0=N&view=Bibliographic&SF0=${ARG}
@@ -234,9 +243,9 @@ AUTURL ${BASEURL}?oclc_symbol=${LCODE}&view=ids&search_scope=my_library&query_in
 TITURL ${BASEURL}?oclc_symbol=${LCODE}&view=ids&search_scope=my_library&query_index[0]=ti&query_value[0]=${ARG}
 KEYURL ${BASEURL}?oclc_symbol=${LCODE}&view=ids&search_scope=my_library&query_index[0]=kw&query_value[0]=${ARG}
 
-# haven't gotten this to work yet
+# just managed to get this to work; so far general keyword searches only
 CATTYPE iguana
-KEYURL ${BASEURL}/iguana/www.main.cls?sUrl=search&searchTerm=${ARG}
+KEYURL ${BASEURL}/iguana/www.main.cls?sUrl=search#searchTerm=${ARG}
 
 # this we'll use for members of webpacpro consortia
 CATTYPE iii-consortium-member

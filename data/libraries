@@ -1579,6 +1579,13 @@ CATTYPE prismhosted
 BASEURL http://capitadiscovery.co.uk/edinburgh
 FILTERS S
 
+ID OCLC-ESSEX
+NAME Essex Libraries
+LOCATION Essex County, England
+BASEURL https://librarycatalogue.essex.gov.uk
+CATTYPE iguana
+COUNTRY UK
+
 ID OCLC-UKFIF
 NAME Fife Library Catalogue
 LOCATION Public libraries in Fife, Scotland
@@ -1592,7 +1599,8 @@ NAME Glasgow Libraries
 LOCATION Glasgow, Scotland
 COUNTRY UK
 BASEURL http://libcat.csglasgow.org/web/arena
-CATTYPE arena
+CATTYPE arenacode
+LCODE 687834046
 
 ID OCLC-GSM
 NAME Goldsmiths, University of London
@@ -1689,7 +1697,8 @@ NAME Luton Culture
 LOCATION Bedford Borough, Central Bedfordshire and Luton Libraries, England
 COUNTRY UK
 BASEURL https://arena.yourlondonlibrary.net/web/luton
-CATTYPE arena
+CATTYPE arenacode
+LCODE 687834046
 
 ID OCLC-UKMAN
 NAME Manchester city libraries
@@ -1719,9 +1728,10 @@ ID OCLC-UKCST
 NAME Newcastle Libraries
 LOCATION Newcastle upon Tyne, England
 COUNTRY UK
-BASEURL http://library.newcastle.gov.uk/web/arena
-CATTYPE arena
+BASEURL https://library.newcastle.gov.uk/web/arena
+CATTYPE arenacode
 FILTERS S
+LCODE 687834046
 
 # Get "unexpected error", but search seems to work (unlike before)
 ID OCLC-EUN
@@ -1766,6 +1776,14 @@ COUNTRY UK
 CATTYPE spydus
 BASEURL https://library.reading.gov.uk
 FILTERS S
+
+ID OCLC-UKRED
+NAME Redbridge Libraries
+LOCATION London Borough of Redbridge, England
+COUNTRY UK
+BASEURL https://arena.yourlondonlibrary.net/web/redbridge
+CATTYPE arenacode
+LCODE 687834046
 
 ID OCLC-UKBRW
 NAME Rochdale Libraries
