@@ -1158,6 +1158,19 @@ AINDEX Naauthor
 TINDEX Natitleword
 FILTERS NS
 
+ID OCLC-VYTAU
+NAME Vytautas Magnus University
+LOCATION Kaunas
+CATTYPE aleph1
+BASEURL https://aleph.library.lt
+LCODE VDU01
+# subjects not well covered in English, so for them we'll do keyword search
+SINDEX WRD
+AINDEX WAU
+TINDEX WTI
+COUNTRY LT
+FILTERS SNK
+
 ID OCLC-U5N
 NAME University of Namibia
 LOCATION Windhoek and other campuses
@@ -6690,8 +6703,10 @@ ID OCLC-PCH
 NAME Cheyney University Library
 LOCATION Cheyney
 STATE PA
-BASEURL http://pilot.passhe.edu:8062/cgi-bin/Pwebrecon.cgi
-CATTYPE voyager
+CATTYPE primodl-scope
+BASEURL https://sshelco-primo.hosted.exlibrisgroup.com
+VID CHEYNEY
+SCOPE alma_scope
 
 ID OCLC-PDC
 NAME Community College of Philadelphia
@@ -6754,8 +6769,10 @@ ID OCLC-PGC
 NAME Geneva College
 LOCATION Beaver Falls
 STATE PA
-BASEURL http://pilot.passhe.edu:8007/cgi-bin/Pwebrecon.cgi
-CATTYPE voyager
+CATTYPE primodl-scope
+BASEURL https://sshelco-primo.hosted.exlibrisgroup.com
+VID GENEVA
+SCOPE alma_scope
 
 ID OCLC-QQR
 NAME Historical Society of Pennsylvania
@@ -6770,6 +6787,7 @@ LOCATION Philadelphia, Newtown, and Bensalem
 STATE PA
 BASEURL https://holyfamily.on.worldcat.org/search?queryString
 CATTYPE worldcat-config
+FILTERS S
 
 ID OCLC-KOL
 NAME King's College
@@ -6894,8 +6912,10 @@ ID OCLC-LZU
 NAME Lincoln University
 LOCATION Lincoln University, Chester County
 STATE PA
-CATTYPE vufind
-BASEURL http://vf-lincoln.klnpa.org/vufind
+CATTYPE primodl-scope
+BASEURL https://sshelco-primo.hosted.exlibrisgroup.com
+VID LINCOLNU
+SCOPE default_scope
 
 ID OCLC-ROB
 NAME Robert Morris University

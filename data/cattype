@@ -14,7 +14,8 @@ KEYURL ${BASEURL}/results?SS_LibHash=${LCODE}&action=start&dbIDList=${DBID}&fiel
 
 CATTYPE aleph1
 TINDEX TTL
-SUBURL ${BASEURL}/F/?func=find-b&find_code=SUB&local_base=${LCODE}&request=${ARG}
+SINDEX SUB
+SUBURL ${BASEURL}/F/?func=find-b&find_code=${SINDEX}&local_base=${LCODE}&request=${ARG}
 AUTURL ${BASEURL}/F/?func=find-b&find_code=AUT&local_base=${LCODE}&request=${ARG}
 TITURL ${BASEURL}/F/?func=find-b&find_code=${TINDEX}&local_base=${LCODE}&request=${ARG:A}
 KEYURL ${BASEURL}/F/?func=find-b&find_code=WRD&local_base=${LCODE}&request=${ARG}
