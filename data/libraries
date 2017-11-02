@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2017-09-20
-# Next set of libraries to check: PA
+# Last updated 2017-11-02
+# Next set of libraries to check: PR
 
 ID OLBP
 NAME The Online Books Page
@@ -125,8 +125,10 @@ ID AU-VLU
 NAME La Trobe University
 LOCATION Melbourne and other campuses, Victoria
 COUNTRY AU
-CATTYPE summon
-BASEURL http://latrobe.summon.serialssolutions.com
+CATTYPE primodl-scope
+BASEURL http://primo-direct-apac.hosted.exlibrisgroup.com
+VID LATROBE
+SCOPE All
 
 ID AU-APLS
 NAME Libraries ACT
@@ -267,12 +269,22 @@ BASEURL http://adelaide.hosted.exlibrisgroup.com
 VID SUA
 LCODE SUA
 
+ID OCLC-UMV
+NAME University of Melbourne
+LOCATION Melbourne, Victoria
+COUNTRY AU
+BASEURL http://cat.lib.unimelb.edu.au
+CATTYPE innopac
+
 ID OCLC-LN1
 NAME University of New England (Australia)
 LOCATION Armidale, New South Wales
 COUNTRY AU
-CATTYPE summon
-BASEURL http://uneau.summon.serialssolutions.com
+CATTYPE primodl-scope
+BASEURL http://une-edu-primo.hosted.exlibrisgroup.com
+LCODE 61UNE
+VID 61UNE
+SCOPE 61UNE_Search
 
 ID AU-SUSA
 NAME University of South Australia
@@ -301,8 +313,8 @@ ID AU-NWU
 NAME University of Wollongong
 LOCATION Wollongong, New South Wales
 COUNTRY AU
-CATTYPE summon
-BASEURL http://uow.summon.serialssolutions.com
+CATTYPE eds
+LCODE s2951849
 
 ID OCLC-LR0
 NAME Victoria University
