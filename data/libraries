@@ -5,7 +5,7 @@
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
 # Last updated 2017-11-02
-# Next set of libraries to check: PR
+# Next set of libraries to check: SC
 
 ID OLBP
 NAME The Online Books Page
@@ -75,8 +75,9 @@ ID AU-QBCL
 NAME Brisbane City Council Library Services
 LOCATION Brisbane, Queensland
 COUNTRY AU
-CATTYPE sirsi
-BASEURL http://elibcat.library.brisbane.qld.gov.au/uhtbin/cgisirsi
+CATTYPE sirsient
+LCODE en_AU/eLibCat
+BASEURL https://library.brisbane.qld.gov.au
 
 ID AU-VCCLC
 NAME Casey-Cardinia Library Corporation
@@ -84,7 +85,7 @@ LOCATION Casey and Cardinia Shire, Victoria
 COUNTRY AU
 CATTYPE sirsient
 LCODE cclc
-BASEURL http://swft.cclc.ent.sirsidynix.net.au
+BASEURL https://cclc.swft.ent.sirsidynix.net.au
 
 # Tried, but haven't yet managed to make this work consistently.
 # ID OZSPORTSCAT
@@ -7022,9 +7023,8 @@ ID OCLC-CCW
 NAME Community College of Rhode Island
 LOCATION Warwick and other campuses
 STATE RI
-BASEURL http://library.uri.edu
-CATTYPE iii-consortium-member
-LCODE 2
+BASEURL https://ccri.on.worldcat.org/external-search?databaseList=283&scope=MY_LIBRARIES&queryString
+CATTYPE worldcat-config
 
 ID OCLC-RIOSL
 NAME Ocean State Libraries
@@ -7037,9 +7037,8 @@ ID OCLC-PRC
 NAME Providence College
 LOCATION Providence
 STATE RI
-BASEURL http://library.uri.edu
-CATTYPE iii-consortium-member
-LCODE 4
+BASEURL https://providencecollege.on.worldcat.org/external-search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-ZKE
 NAME Allen University
