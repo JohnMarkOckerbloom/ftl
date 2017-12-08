@@ -3111,8 +3111,11 @@ ID OCLC-TYC
 NAME Trinity College
 LOCATION Hartford
 STATE CT
-CATTYPE voyager-vwebv
-BASEURL http://ctwweb.wesleyan.edu:7002/vwebv/search
+CATTYPE primodl-scope
+BASEURL https://trincoll-primo.hosted.exlibrisgroup.com
+VID CTWTC
+LCODE 01CTW_TC
+SCOPE default_scope
 
 ID OCLC-CGA
 NAME United States Coast Guard Academy
@@ -3121,12 +3124,16 @@ STATE CT
 CATTYPE summon
 BASEURL http://uscga.summon.serialssolutions.com
 
+# https://primo-pmtna01.hosted.exlibrisgroup.com/primo-explore/search?fn=search&ct=search&initialSearch=true&institution=01UCT&mode=Basic&search_scope=EVERYTHING&displayMode=full&bulkSize=10&highlight=true&displayField=all&pcAvailabiltyMode=true&tab=default_tab&indx=1&dum=true&srt=rank&vid=01UCT&frbg=&query=any,contains,cats
 ID OCLC-UCW
 NAME University of Connecticut
 LOCATION Storrs and other campuses
 STATE CT
-CATTYPE summon
-BASEURL http://uconn.summon.serialssolutions.com
+CATTYPE primodl-scope
+BASEURL https://primo-pmtna01.hosted.exlibrisgroup.com
+VID 01UCT
+LCODE 01UCT
+SCOPE EVERYTHING
 
 ID OCLC-WLU
 NAME Wesleyan University
@@ -3134,6 +3141,13 @@ LOCATION Middletown
 STATE CT
 CATTYPE summon
 BASEURL http://wesleyan.summon.serialssolutions.com
+
+ID OCLC-WES
+NAME Westport Library
+LOCATION Westport
+STATE CT
+BASEURL http://catalog.westportlibrary.org/polaris
+CATTYPE polaris
 
 ID OCLC-YUS
 NAME Yale University

@@ -10,7 +10,7 @@
 #   are not included in this file.
 # Manual title and name-title correspondences have been moved to wikiworksmap.
 # See docs file for documentation
-# Last updated 2017-11-28
+# Last updated 2017-12-07
 # Did LCSH 2015 and 2016 update lists, 2017 lists 1-8
 1066 Country Walk (England)|=|1066 Country Walk
 1080 Degree Snowboarding (Game)|=|1080° Snowboarding
@@ -1663,6 +1663,7 @@ Ascutney Mountain (Vt.)|<->|Ascutney Mountain Resort
 Asexuality (Sexual orientation)|<->|Asexuality
 Ash (Combustion product)|=|Ash
 Ash Wednesday Storm, 1962|=|Ash Wednesday Storm of 1962
+Ashaninca Indians|=|Asháninka
 Ashanti (African people)|=|Ashanti people
 Ashanti War, 1822-1831|->|Anglo-Ashanti wars
 Ashanti War, 1900|=|War of the Golden Stool
@@ -3066,7 +3067,7 @@ Black Country (England)|<->|Black Country
 Black Creek (N.M. and Ariz.)|=|Black Creek (Arizona)
 Black Diamond (Express train)|=|Black Diamond (train)
 Black Diamond Mines Regional Preserve (Calif.)|=|Black Diamond Mines Regional Preserve
-Black English|<->|African American Vernacular English
+Black English|<->|African-American English
 Black family|<->|Black (surname)
 Black Five (Steam locomotives)|=|LMS Stanier Class 5 4-6-0
 Black Forest (Germany)|=|Black Forest
@@ -3891,7 +3892,6 @@ Bull-roarer|=|Bullroarer
 Bull Run, 1st Battle of, Va., 1861|=|First Battle of Bull Run
 Bull Run, 2nd Battle of, Va., 1862|=|Second Battle of Bull Run
 Bullets|=|Bullet
-Bullfighters|=|Torero
 Bullfrog Hills (Nev.)|=|Bullfrog Hills
 Bulls, Papal|=|Papal bull
 Bulltown, Battle of, Bulltown, W. Va., 1863|=|Battle of Bulltown
@@ -5161,7 +5161,7 @@ Children's Crusade, 1212|=|Children's Crusade
 Children's parties|=|Children's party
 Children's stories|->|Children's literature
 Children's television programs|<->|Children's television series
-Child soldiers|<->|Military use of children
+Child soldiers|<->|Children in the military
 Child welfare|<->|Child protection
 Chile -- Economic conditions|<->|Economy of Chile
 Chile -- History -- Coup d'&eacute;tat, 1973|=|1973 Chilean coup d'état
@@ -5383,6 +5383,7 @@ Cholet, Battle of, Cholet, France, 1793|=|Battle of Cholet
 Choloma (Cort&eacute;s, Honduras)|=|Choloma
 Chondrites (Meteorites)|=|Chondrite
 Chondrules|=|Chondrule
+Chontal Indians|<->|Chontal Maya people
 Chopaka Mountain (Wash.)|=|Chopaka Mountain
 Chopi (African people)|=|Chopi people
 Choptank River (Del. and Md.)|=|Choptank River
@@ -10374,7 +10375,7 @@ Gay community|<->|LGBT community
 Gay culture|<->|LGBT culture
 Gay liberation movement|=|Gay liberation
 Gay men|->|Gay
-Gay military personnel|<->|Sexual orientation and military service
+Gay military personnel|<->|Sexual orientation and gender identity in military service
 Gay parents|<->|LGBT parenting
 Gay rights|<->|LGBT social movements
 Gays|<->|Gay
@@ -10858,7 +10859,7 @@ Goofy (Fictitious character)|=|Goofy
 Google Cardboard (Virtual reality headset)|=|Google Cardboard
 Google Glass (Computer)|=|Google Glass
 Goose (Amphibian plane)|=|Grumman G-21 Goose
-Goose Creek (Nev.-Idaho)|=|Goose Creek (Snake River)
+Goose Creek (Nev.-Idaho)|=|Goose Creek (Snake River tributary)
 Goose Green (Falkland Islands)|=|Goose Green
 Goose Green (Falkland Islands) -- History -- Siege, 1982|<->|Battle of Goose Green
 Goose Lake (Calif. and Or.)|=|Goose Lake (Oregon–California)
@@ -11218,7 +11219,7 @@ Green Lantern (Fictitious character)|=|Green Lantern
 Green Mountains (Vt.)|=|Green Mountains
 Green peach aphid|=|Myzus persicae
 Green porcelain crab|=|Petrolisthes armatus
-Green River (Wyo.-Utah)|=|Green River (Colorado River)
+Green River (Wyo.-Utah)|=|Green River (Colorado River tributary)
 Green roofs (Gardening)|=|Green roof
 Green Spring Plantation (Va.)|=|Green Spring Plantation
 Green Spring Plantation, Battle of, Va., 1781|=|Battle of Green Spring
@@ -16231,7 +16232,7 @@ Mac-Robertson Land (Antarctica)|=|Mac. Robertson Land
 Maca (Plant)|=|Lepidium meyenii
 Maca language|=|Maká language
 Macaca thibetana|=|Tibetan macaque
-Macanao Peninsula (Venezuela)|=|Macanao Peninsula
+Macanao Peninsula (Venezuela)|<->|Macanao Peninsula Municipality
 Macap&aacute; (Amap&aacute;, Brazil)|=|Macapá
 Macatawa, Lake, (Mich.)|=|Lake Macatawa
 Macau (China : Special Administrative Region)|=|Macau
@@ -16816,7 +16817,7 @@ Masking (Chemistry)|<->|Masking agent
 Mason (Web site development tool)|=|Mason (Perl)
 Mason, Perry (Fictitious character)|=|Perry Mason
 Masques|=|Masque
-Masrur Temple (Masrur, India)|=|Masroor Rock Cut Temple
+Masrur Temple (Masrur, India)|<->|Masrur Temples
 Mass|=|Mass (liturgy)
 Mass (Physics)|=|Mass
 Mass budget (Geophysics)|<->|Glacier mass balance
@@ -16938,6 +16939,7 @@ Mayo (Ireland : County)|=|County Mayo
 Mayo Indians|=|Mayo people
 Mayors|=|Mayor
 Mayors of the palace|=|Mayor of the Palace
+Mayoruna Indians|<->|Matsés
 Mayotte -- Politics and government|<->|Politics of Mayotte
 Mazahua Indians|=|Mazahua people
 Mazama, Mount (Or.)|=|Mount Mazama
@@ -17864,7 +17866,7 @@ Montevideo (Uruguay) -- History -- Siege, 1812-1814|=|Siege of Montevideo (1812�
 Montevideo (Uruguay) -- History -- Siege, 1843-1852|<->|Great Siege of Montevideo
 Montezuma Castle (Montezuma, N.M.)|=|Montezuma Castle (hotel)
 Montezuma Castle National Monument (Ariz.)|=|Montezuma Castle National Monument
-Montezuma Creek (Utah : Creek)|=|Montezuma Creek (San Juan River)
+Montezuma Creek (Utah : Creek)|=|Montezuma Creek (San Juan River tributary)
 Montezuma pine|=|Pinus montezumae
 Montezuma Well (Yavapai County, Ariz.)|=|Montezuma Well
 Montgomery Bus Boycott, Montgomery, Ala., 1955-1956|=|Montgomery bus boycott
@@ -20604,7 +20606,7 @@ Paris (France) -- History -- Commune, 1871|<->|Paris Commune
 Paris (France) -- History -- June Days, 1848|<->|June Days uprising
 Paris (France) -- History -- Siege, 1590|=|Siege of Paris (1590)
 Paris (France) -- History -- Siege, 1870-1871|<->|Siege of Paris (1870–71)
-Paris (France) -- History -- Siege, 885-887|<->|Siege of Paris (885–86)
+Paris (France) -- History -- Siege, 885-887|<->|Siege of Paris (885–886)
 Paris-Dakar Rally|=|Dakar Rally
 Paris Peace Conference (1919-1920)|<->|Paris Peace Conference, 1919
 Parishes|=|Parish
@@ -20886,7 +20888,7 @@ Peard Bay (Alaska)|=|Peard Bay
 PEARL (Computer program language)|=|PEARL (programming language)
 Pearl (Middle English poem)|=|Pearl (poem)
 Pearl and Hermes Reef (Hawaii)|<->|Pearl and Hermes Atoll
-Pearl dace|=|Margariscus margarita
+Pearl dace|<->|Allegheny pearl dace
 Pearl fisheries|<->|Pearl hunting
 Pearl Harbor (Hawaii)|=|Pearl Harbor
 Pearl Harbor (Hawaii), Attack on, 1941|=|Attack on Pearl Harbor
@@ -23210,7 +23212,7 @@ Rochefort (France)|=|Rochefort, Charente-Maritime
 Rochefort Expedition, 1757|<->|Raid on Rochefort
 Rochester (N.Y.) -- History|=|History of Rochester, New York
 Rochester Race Riot, Rochester, N.Y., 1964|=|1964 Rochester race riot
-Rock Creek (Md. and Washington, D.C.)|=|Rock Creek (Potomac River)
+Rock Creek (Md. and Washington, D.C.)|=|Rock Creek (Potomac River tributary)
 Rock Creek and Potomac Parkway (Washington, D.C.)|=|Rock Creek and Potomac Parkway
 Rock Creek Cemetery (Washington, D.C.)|=|Rock Creek Cemetery
 Rock Creek Park (Washington, D.C.)|=|Rock Creek Park
@@ -23729,6 +23731,7 @@ Salem Church, Battle of, Va., 1863|=|Battle of Salem Church
 Salerno (Italy)|=|Salerno
 Sali Mali (Fictitious character)|=|Sali Mali
 Salii (Priests of Mars)|<->|Salii
+Salinan Indians|=|Salinan
 Saline River (Kan.)|=|Saline River (Kansas)
 Saline water conversion|<->|Desalination
 Salisbury (England)|=|Salisbury
@@ -24351,7 +24354,8 @@ Seattle Seahawks (Football team)|=|Seattle Seahawks
 Sea turtles|=|Sea turtle
 Sebright bantam chicken|=|Sebright chicken
 Secessionville, Battle of, Secessionville, S.C., 1862|=|Battle of Secessionville
-Seco, Arroyo (Monterey County, Calif. : River)|=|Arroyo Seco (Salinas River)
+Sechelt Indians|=|Shishalh
+Seco, Arroyo (Monterey County, Calif. : River)|=|Arroyo Seco (Salinas River tributary)
 Second Advent|=|Second Coming
 Second Avenue (Manhattan, New York, N.Y.)|=|Second Avenue (Manhattan)
 Second Coalition, War of the, 1798-1801|<->|War of the Second Coalition
@@ -25638,7 +25642,7 @@ Spangler Hills (Calif.)|=|Spangler Hills
 Spanish American literature|->|Latin American literature
 Spanish American poetry|->|Latin American poetry
 Spanish-American War, 1898|=|Spanish–American War
-Spanish-American War, 1898 -- Campaigns|<->|Battles of the Spanish–American War
+Spanish-American War, 1898 -- Campaigns|<->|List of battles of the Spanish–American War
 Spanish-American War, 1898 -- Campaigns -- Puerto Rico|=|Puerto Rican Campaign
 Spanish-American War, 1898 -- Propaganda|=|Propaganda of the Spanish–American War
 Spanish autonomous communities|=|Autonomous communities of Spain
@@ -26241,6 +26245,8 @@ Susitna River Valley (Alaska)|->|Matanuska-Susitna Valley
 Suspensions (Chemistry)|=|Suspension (chemistry)
 Susquehanna Claim, 1753-1808|<->|Pennamite–Yankee War
 Susquehanna Claim, 1753-1808|<-|State of Westmoreland
+Susquehanna Indians|=|Susquehannock
+Susquehanna language|=|Susquehannock language
 Susquehanna National Wildlife Refuge (Md.)|<->|Susquehanna River National Wildlife Refuge
 Susquehanna Nuclear Power Plant (Pa.)|=|Susquehanna Steam Electric Station
 Susquehanna River Valley|<->|Susquehanna Valley
@@ -27241,6 +27247,7 @@ Tlaltecuhtli (Aztec deity)|=|Tlaltecuhtli
 Tlatelolco Massacre, Mexico City, Mexico, 1968|=|Tlatelolco massacre
 Tlaxcala (Mexico : State)|=|Tlaxcala
 Tlaxcala de Xicoht&eacute;ncatl (Mexico)|=|Tlaxcala City
+Tlaxcalan Indians|<->|Tlaxcaltec
 Tlemcen (Algeria)|=|Tlemcen
 Tlemcen (Algeria : Province)|=|Tlemcen Province
 Tlhaping (African people)|<->|Batlhaping tribe
@@ -29439,9 +29446,9 @@ White Oak River (N.C.)|=|White Oak River
 White Oak Swamp, Battle of, Va., 1862|=|Battle of White Oak Swamp
 White Plains, Battle of, White Plains, N.Y., 1776|=|Battle of White Plains
 White River (Ark. and Mo.)|=|White River (Arkansas–Missouri)
-White River (Colo. and Utah)|=|White River (Green River)
+White River (Colo. and Utah)|=|White River (Green River tributary)
 White River (Ind. : River)|=|White River (Indiana)
-White River (Neb. and S.D.)|=|White River (Missouri River)
+White River (Neb. and S.D.)|=|White River (Missouri River tributary)
 White River (Or.)|=|White River (Oregon)
 White River (Pierce County and King County, Wash.)|=|White River (Washington)
 White River Amphitheatre (Wash.)|=|White River Amphitheatre
@@ -29474,7 +29481,7 @@ Whitestone Hill, Battle of, N.D., 1863|=|Battle of Whitestone Hill
 Whitewater Canal (Ind. and Ohio)|<->|Whitewater Canal
 Whitewater Draw (Ariz.)|<->|Whitewater Draw
 Whitewater Inquiry, 1993-2000|<->|Whitewater controversy
-Whitewater River (Ind. and Ohio)|=|Whitewater River (Great Miami River)
+Whitewater River (Ind. and Ohio)|=|Whitewater River (Great Miami River tributary)
 Whitman Massacre, 1847|=|Whitman massacre
 Whitman Mission National Historic Site (Wash.)|=|Whitman Mission National Historic Site
 Whitney, Mount (Calif.)|=|Mount Whitney
