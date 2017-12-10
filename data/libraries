@@ -3124,7 +3124,6 @@ STATE CT
 CATTYPE summon
 BASEURL http://uscga.summon.serialssolutions.com
 
-# https://primo-pmtna01.hosted.exlibrisgroup.com/primo-explore/search?fn=search&ct=search&initialSearch=true&institution=01UCT&mode=Basic&search_scope=EVERYTHING&displayMode=full&bulkSize=10&highlight=true&displayField=all&pcAvailabiltyMode=true&tab=default_tab&indx=1&dum=true&srt=rank&vid=01UCT&frbg=&query=any,contains,cats
 ID OCLC-UCW
 NAME University of Connecticut
 LOCATION Storrs and other campuses
