@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2017-11-02
-# Next set of libraries to check: SC
+# Last updated 2017-12-14
+# Next set of libraries to check: TN
 
 ID OLBP
 NAME The Online Books Page
@@ -3774,6 +3774,14 @@ CATTYPE polaris-context
 BASEURL http://catalog.idaho-lynx.org/polaris
 CONTEXT 37.1033.0.0.5
 
+ID OCLC-Y-SHARP-4
+NAME Twin Falls Public Library
+LOCATION Twin Falls
+STATE ID
+CATTYPE polaris-context
+BASEURL http://catalog.idaho-lynx.org/polaris
+CONTEXT 39
+
 ID OCLC-NTD
 NAME University of Idaho Library
 LOCATION Moscow, and other campuses
@@ -7094,8 +7102,8 @@ ID OCLC-SFM
 NAME Francis Marion University
 LOCATION Florence
 STATE SC
-BASEURL http://libencore.fmarion.edu/iii/encore
-CATTYPE encore
+CATTYPE eds
+LCODE s9007023
 
 ID OCLC-SFU
 NAME Furman University Libraries
@@ -7149,11 +7157,11 @@ CATTYPE summon
 BASEURL http://wofford.summon.serialssolutions.com
 
 ID OCLC-RCP
-NAME Rapid City Public Libraries
+NAME Rapid City Public Library
 LOCATION Rapid City and Pennington County
 STATE SD
-CATTYPE encore
-BASEURL http://rcpl-mt.iii.com/iii/encore
+CATTYPE koha
+BASEURL http://catalog.rapidcitylibrary.org
 
 ID OCLC-ZR8
 NAME Rawlins Municipal Library
@@ -7174,10 +7182,11 @@ ID OCLC-SDB
 NAME South Dakota State University
 LOCATION Brookings
 STATE SD
-CATTYPE aquabrowser-profile
-BASEURL http://searchsdln.aquabrowser.com/
+CATTYPE primodl-scope
+BASEURL http://sdstate-primo.hosted.exlibrisgroup.com
+VID 01SDBOR_SDB
 LCODE SDB
-SINDEX subject
+SCOPE EVERYTHING
 
 ID AMERICANBAPTIST
 NAME American Baptist College
