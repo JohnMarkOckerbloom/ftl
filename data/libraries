@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2017-12-14
-# Next set of libraries to check: TN
+# Last updated 2017-12-29
+# Next set of libraries to check: TX
 
 ID OLBP
 NAME The Online Books Page
@@ -1102,6 +1102,16 @@ LOCATION Dublin
 COUNTRY IE
 BASEURL http://catalogue.nli.ie
 CATTYPE vufind
+
+ID OCLC-UGA
+NAME National University of Ireland, Galway
+LOCATION Galway
+COUNTRY IE
+CATTYPE primodl-scope
+BASEURL http://search.library.nuigalway.ie
+VID 353GAL_VUJ
+LCODE GAL
+SCOPE LSCOP_ALL_DATA
 
 ID OCLC-ERD
 NAME Trinity College Dublin
