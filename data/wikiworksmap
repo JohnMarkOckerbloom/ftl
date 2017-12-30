@@ -6,7 +6,7 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation
-# Last updated 2017-12-28
+# Last updated 2017-12-30
 10 things I hate about you (Motion picture)|=|10 Things I Hate About You
 101 Dalmatians (Motion picture : 1996)|=|101 Dalmatians (1996 film)
 102 Dalmatians (Motion picture)|=|102 Dalmatians
@@ -1091,6 +1091,20 @@ Bible. Philemon|=|Epistle to Philemon
 Bible. Philippians|=|Epistle to the Philippians
 Bible. Proverbs|=|Book of Proverbs
 Bible. Psalms|=|Psalms
+Bible. Psalms, CIV|=|Psalm 104
+Bible. Psalms, CIX|=|Psalm 109
+Bible. Psalms, CXLVII|=|Psalm 147
+Bible. Psalms, I|=|Psalm 1
+Bible. Psalms, LIII|=|Psalm 53
+Bible. Psalms, LXIV|=|Psalm 64
+Bible. Psalms, VIII|=|Psalm 8
+Bible. Psalms, XIV|=|Psalm 14
+Bible. Psalms XLII|=|Psalm 42
+Bible. Psalms, XXII|=|Psalm 22
+Bible. Psalms, XXIII|=|Psalm 23
+Bible. Psalms, XXVII|=|Psalm 27
+Bible. Psalms, XXX|=|Psalm 30
+Bible. Psalms, XXXVII|=|Psalm 37
 Bible. Revelation|=|Book of Revelation
 Bible. Romans|=|Epistle to the Romans
 Bible. Ruth|=|Book of Ruth
@@ -2788,6 +2802,7 @@ MH (Computer file)|=|MH Message Handling System
 Mickey's Christmas carol (Motion picture)|=|Mickey's Christmas Carol
 Mickey's Twice upon a Christmas (Motion picture)|=|Mickey's Twice Upon a Christmas
 Microsoft Content management server (Electronic resource)|=|Microsoft Content Management Server
+Microsoft .NET Framework|=|.NET Framework
 Microsoft SharePoint (Electronic resource)|=|SharePoint
 Microsoft Virtual PC (Electronic resource)|<->|Windows Virtual PC
 Middle of nowhere (Motion picture : 2012)|=|Middle of Nowhere (2012 film)
@@ -2817,9 +2832,11 @@ Nuke (Electronic resource)|=|Nuke (software)
 O'Connor, Jane. Fancy Nancy|=|Fancy Nancy
 Obama, Barack. Dreams from my father|=|Dreams from My Father
 OpenBSD (Electronic resource)|=|OpenBSD
+OpenMP (Application program interface)|=|OpenMP
 OpenOffice.org (Electronic resource)|=|OpenOffice.org
 OpenSolaris (Electronic resource)|=|OpenSolaris
 OpenStack (Electronic resource)|=|OpenStack
+OpenVPN (Software)|=|OpenVPN
 Operation Dumbo drop (Motion picture)|=|Operation Dumbo Drop
 Orwell, George, 1903-1950. Animal farm|=|Animal Farm
 Orwell, George, 1903-1950. Nineteen eighty-four|=|Nineteen Eighty-Four
@@ -2840,6 +2857,7 @@ Phantom of the Opera (Motion picture : 1943)|=|Phantom of the Opera (1943 film)
 Phantom of the Opera (Motion picture : 1989)|=|The Phantom of the Opera (1989 film)
 Phantom of the Opera (Motion picture : 2004)|=|The Phantom of the Opera (2004 film)
 Phantom of the Opera (Musical)|=|Phantom of the Opera (1976 musical)
+PhoneGap (Application development environment)|->|Apache Cordova
 Phony Express (Motion picture)|=|Phony Express
 Picasso, Pablo, 1881-1973. Demoiselles d'Avignon|=|Les Demoiselles d'Avignon
 Picasso, Pablo, 1881-1973. Family of Saltimbanques|=|Family of Saltimbanques
@@ -2876,6 +2894,7 @@ Powell, John, 1963- How to train your dragon|<->|How to Train Your Dragon: Music
 Powell, John, 1963- How to train your dragon 2|->|How to Train Your Dragon 2
 Powell, John, 1963- Ice age, continental drift|->|Ice Age: Continental Drift
 Powell, John, 1963- Lorax|->|The Lorax (film)
+PowerCLI (Application program interface)|=|PowerCLI
 Princess and the frog (Motion picture)|=|The Princess and the Frog
 Princess and the pauper (Motion picture)|=|The Princess and the Pauper
 Princess bride (Motion picture)|=|The Princess Bride (film)
@@ -2902,6 +2921,7 @@ Scanner darkly (Motion picture)|=|A Scanner Darkly (film)
 Schengen Agreement (1985 June 14)|=|Schengen Agreement
 Scratch (Electronic resource)|->|Scratch (programming language)
 SDL (electronic resource)|=|Simple DirectMedia Layer
+Selenium (Software framework)|=|Selenium (software)
 Sesame Street (Television program)|=|Sesame Street
 Shakespeare, William, 1564-1616. All's well that ends well|=|All's Well That Ends Well
 Shakespeare, William, 1564-1616. Antony and Cleopatra|=|Antony and Cleopatra
@@ -2978,6 +2998,7 @@ Spain. Treaties, etc. United States, 1819 February 22|=|Adams–Onís Treaty
 Spark (Electronic resource : Apache Software Foundation)|=|Apache Spark
 Splash (Motion picture)|=|Splash (film)
 SpongeBob SquarePants (Television program)|=|SpongeBob SquarePants
+Spring (Software framework)|=|Spring Framework
 Sremski Karlovci, Peace of, 1699|=|Treaty of Karlowitz
 Starr, Ringo. Octopus's garden|<->|Octopus's Garden
 Stoker, Bram, 1847-1912. Dracula|=|Dracula
