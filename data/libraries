@@ -4,7 +4,7 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2017-12-29
+# Last updated 2018-01-01
 # Next set of libraries to check: TX
 
 ID OLBP
@@ -8245,6 +8245,21 @@ STATE WA
 BASEURL https://plu.worldcat.org/search
 CATTYPE worldcat
 
+ID OCLC-RLS
+NAME Pierce County Library System
+LOCATION Rural and suburban Pierce County
+STATE WA
+BASEURL http://polariscatalog.piercecountylibrary.org/polaris
+CATTYPE polaris
+
+ID OCLC-Z87
+NAME Puyallup Public Library
+LOCATION Puyallup
+STATE WA
+CATTYPE sirsient
+LCODE en_US/default
+BASEURL http://puyal.sdp.sirsi.net
+
 ID OCLC-UOK
 NAME Seattle Public Library
 LOCATION Seattle
@@ -8321,8 +8336,10 @@ ID OCLC-WC3
 NAME Whatcom Community College
 LOCATION Bellingham
 STATE WA
-CATTYPE voyager-vwebv
-BASEURL http://whatcom.library.ctc.edu/vwebv/search
+CATTYPE primodl-scope
+BASEURL https://whatcom-primo.hosted.exlibrisgroup.com
+VID WHATCOM
+SCOPE EVERYTHING
 
 ID OCLC-YVR
 NAME Yakima Valley Libraries
