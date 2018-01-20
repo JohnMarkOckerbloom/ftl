@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2018-01-01
-# Next set of libraries to check: TX
+# Last updated 2018-01-20
+# Next set of libraries to check: UT (after fixing Alamo & rechecking Wiley)
 
 ID OLBP
 NAME The Online Books Page
@@ -1005,6 +1005,15 @@ PROVINCE YT
 CATTYPE tlc
 LCODE ysm
 BASEURL http://yclibw.yukoncollege.yk.ca/
+
+ID OCLC-X33
+NAME Zhengzhou University
+LOCATION Zhengzhou; English search terms may give limited results
+CATTYPE primodl-loc
+BASEURL http://primo.zzu.edu.cn:1701
+COUNTRY CN
+VID zzu
+LOC adaptor,scope:(ZZU),primo_central_multiple_fe
 
 ID DE-11
 NAME Humboldt-Universit&auml;t zu Berlin
@@ -3619,7 +3628,7 @@ NAME Fort Benning Libraries
 LOCATION Fort Benning
 STATE GA
 CATTYPE iii-consortium-member
-BASEURL https://mylibraryus.armybiznet.com
+BASEURL https://mwrlibrary.armybiznet.com
 LCODE 69
 
 ID OCLC-GFV
@@ -4332,7 +4341,7 @@ NAME Fort Campbell, Sink Library
 LOCATION Fort Campbell
 STATE KY
 CATTYPE iii-consortium-member
-BASEURL https://mylibraryus.armybiznet.com
+BASEURL https://mwrlibrary.armybiznet.com
 LCODE 21
 
 ID OCLC-KCE
@@ -6118,7 +6127,7 @@ NAME Fort Bragg, Throckmorton Library
 LOCATION Fort Bragg
 STATE NC
 CATTYPE iii-consortium-member
-BASEURL https://mylibraryus.armybiznet.com
+BASEURL https://mwrlibrary.armybiznet.com
 LCODE 19
 
 ID OCLC-NCJ
@@ -7437,8 +7446,8 @@ ID OCLC-QS3
 NAME Denton Public Library
 LOCATION Denton
 STATE TX
-CATTYPE encore
-BASEURL http://encore.cityofdenton.com/iii/encore
+CATTYPE bibliocommons
+BASEURL https://denton.bibliocommons.com
 
 ID OCLC-TXP
 NAME El Paso Public Library
@@ -7460,7 +7469,7 @@ NAME Fort Hood, Casey Memorial Library
 LOCATION Fort Hood
 STATE TX
 CATTYPE iii-consortium-member
-BASEURL https://mylibraryus.armybiznet.com
+BASEURL https://mwrlibrary.armybiznet.com
 LCODE 27
 
 ID OCLC-IFA
@@ -7486,7 +7495,7 @@ ID OCLC-T7L
 NAME Helen Hall Library
 LOCATION League City
 STATE TX
-BASEURL http://catalog.leaguecitylibrary.org/uhtbin/cgisirsi
+BASEURL http://hhal.sirsi.net/uhtbin/cgisirsi
 CATTYPE sirsi
 
 ID OCLC-TXN 
@@ -7546,15 +7555,15 @@ NAME McAllen Public Library
 LOCATION McAllen
 STATE TX
 CATTYPE ls2pac-config
-LCODE mcallen
+CONFIG mcallen
 BASEURL http://hcls.tlcdelivers.com:8080/
 
 ID OCLC-M-DOLLAR-K
 NAME McKinney Public Library System
 LOCATION McKinney
 STATE TX
-BASEURL http://ipac.mckinneytexas.org/polaris
-CATTYPE polaris
+BASEURL https://ipac.mckinneytexas.org
+CATTYPE koha
 
 ID OCLC-QS2
 NAME Montgomery County Memorial Library System
@@ -7600,8 +7609,8 @@ ID OCLC-PVA
 NAME Prairie View A&amp;M University
 LOCATION Prairie View
 STATE TX
-CATTYPE voyager-vwebv
-BASEURL http://voyager-pv.tamu.edu/vwebv/search
+CATTYPE encore
+BASEURL http://onesearch-mypanther-lib.pvamu.edu/iii/encore
 
 ID OCLC-RCE
 NAME Rice University
@@ -7741,8 +7750,8 @@ ID OCLC-TXW
 NAME Waco-McClennan County Library
 LOCATION Waco
 STATE TX
-BASEURL http://waco.ipac.sirsidynix.net
-CATTYPE ipac20
+BASEURL http://waco.polarislibrary.com/polaris
+CATTYPE polaris
 
 ID OCLC-WYC
 NAME Wiley College
@@ -8203,7 +8212,7 @@ NAME Lewis-McChord Libraries
 LOCATION Joint Base Lewis-McChord
 STATE WA
 CATTYPE iii-consortium-member
-BASEURL https://mylibraryus.armybiznet.com
+BASEURL https://mwrlibrary.armybiznet.com
 LCODE 71
 
 ID OCLC-LZS
