@@ -26,6 +26,9 @@ sub checkmapfile {
       if ($lc =~ /^\s/ || $lc =~ /\s$/ || $wiki =~ /^\s/ || $wiki =~ /\s$/) {
         print STDERR "Extra spaces: $line\n";
       }
+      if ($lc =~ /\|/) {
+        print STDERR "Too many separators: $line\n";
+      }
       if ($lc =~ /[^\x00-\x7f]/) {
         print STDERR "Non-ASCII: $line\n";
       }

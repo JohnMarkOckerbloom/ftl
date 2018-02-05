@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2018-01-20
-# Next set of libraries to check: UT (after fixing Alamo & rechecking Wiley)
+# Last updated 2018-02-05
+# Next set of libraries to check: UT (after rechecking Wiley)
 
 ID OLBP
 NAME The Online Books Page
@@ -6920,7 +6920,7 @@ ID OCLC-C8F
 NAME Othmer Library of Chemical History
 LOCATION Philadelphia
 STATE PA
-BASEURL http://othmerlib.chemheritage.org/
+BASEURL http://othmerlib.sciencehistory.org/
 CATTYPE iii-consortium-member
 LCODE 6
 
@@ -7035,6 +7035,16 @@ LOCATION Villanova
 STATE PA
 CATTYPE vufindgeneral
 BASEURL https://library.villanova.edu/Find/Combined/Results
+
+ID OCLC-QWC
+NAME West Chester University
+LOCATION West Chester
+STATE PA
+CATTYPE primodl-scope
+BASEURL https://sshelco-primo.hosted.exlibrisgroup.com
+VID WCHESTER
+LCODE 01SSHELCO_WCHESTER
+SCOPE default_scope
 
 ID OCLC-PYLCO
 NAME York County Libraries
@@ -7391,14 +7401,6 @@ STATE TN
 CATTYPE encore
 BASEURL http://encore.williamson-tn.org/iii/encore
 
-ID OCLC-ALAMO
-NAME Alamo Colleges Libraries
-LOCATION Community colleges in San Antonio and Bexar County
-STATE TX
-BASEURL http://alamo.iii.com
-CATTYPE iii-consortium-member
-LCODE 7
-
 ID OCLC-1AR
 NAME Arlington Public Library
 LOCATION Arlington
@@ -7584,12 +7586,33 @@ CATTYPE sirsient
 LCODE en_US/default
 BASEURL http://nm.ent.sirsi.net
 
+ID OCLC-ACNLC
+NAME Northeast Lakeview College
+LOCATION Universal City 
+STATE TX
+BASEURL https://nlclibrary.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
+
+ID OCLC-N-DOLLAR-V
+NAME Northwest Vista College
+LOCATION San Antonio
+STATE TX
+BASEURL https://nvclibrary.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
+
 ID OCLC-TXPAL
 NAME Palacios Library
 LOCATION Palacios and Blessing
 STATE TX
 CATTYPE atriuum
 BASEURL http://palacioslibrary.booksys.net/opac/palacios/index.html?mode=main#search:
+
+ID OCLC-POA
+NAME Palo Alto College
+LOCATION San Antonio
+STATE TX
+BASEURL https://paclibrary.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-PQC
 NAME Paul Quinn College, Zale Library
@@ -7626,6 +7649,13 @@ STATE TX
 BASEURL http://catalog.roundrocktexas.gov
 CATTYPE koha
 
+ID OCLC-SNC
+NAME San Antonio College
+LOCATION San Antonio
+STATE TX
+BASEURL https://saclib.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
+
 ID OCLC-SAP
 NAME San Antonio Public Library
 LOCATION San Antonio
@@ -7648,6 +7678,13 @@ LOCATION San Antonio
 STATE TX
 BASEURL http://regina.stmarytx.edu
 CATTYPE innopac
+
+ID OCLC-SSP
+NAME St. Philip's College
+LOCATION San Antonio
+STATE TX
+BASEURL https://spclibrary.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-ISM
 NAME Southern Methodist University
