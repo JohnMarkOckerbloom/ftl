@@ -278,6 +278,16 @@ AUTURL ${BASEURL}/cgi-bin/koha/opac-search.pl?idx=au&q=${ARG}
 TITURL ${BASEURL}/cgi-bin/koha/opac-search.pl?idx=ti&q=${ARG}
 KEYURL ${BASEURL}/cgi-bin/koha/opac-search.pl?q=${ARG}
 
+# Some newer Koha catalogs (post-2016) use a new app search syntax.
+# For maximum flexibility we'll make everything before the search
+# terms included in the base URL (which will usually be something like
+# http://my.library.url/app/search/ )
+CATTYPE koha-app
+SUBURL ${BASEURL}subject:${ARG}
+AUTURL ${BASEURL}author:${ARG}
+TITURL ${BASEURL}title:${ARG}
+KEYURL ${BASEURL}${ARG}
+
 CATTYPE koha-consortium-member
 SUBURL ${BASEURL}/cgi-bin/koha/opac-search.pl?multibranchlimit=${LCODE}&idx=su&q=${ARG}
 AUTURL ${BASEURL}/cgi-bin/koha/opac-search.pl?multibranchlimit=${LCODE}&idx=au&q=${ARG}

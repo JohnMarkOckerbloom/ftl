@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2018-02-05
-# Next set of libraries to check: UT (after rechecking Wiley)
+# Last updated 2018-02-15
+# Next set of libraries to check: WA (after rechecking Wiley)
 
 ID OLBP
 NAME The Online Books Page
@@ -2702,7 +2702,7 @@ ID OCLC-SPU
 NAME Salinas Public Library
 LOCATION Salinas
 STATE CA
-BASEURL http://salinas.kohalibrary.com
+BASEURL https://salinas.bywatersolutions.com
 CATTYPE koha
 
 ID OCLC-1JT
@@ -7408,6 +7408,14 @@ STATE TX
 BASEURL http://polarisweb.arlingtonlibrary.org/Polaris
 CATTYPE polaris
 
+ID OCLC-IAU
+NAME Austin College, Abell Library Center
+LOCATION Sherman
+STATE TX
+CATTYPE eds
+LCODE s9008783
+DEFAULT http://aclibrary.austincollege.edu/home
+
 ID OCLC-TXG
 NAME Austin Public Library
 LOCATION Austin
@@ -7967,8 +7975,8 @@ ID OCLC-AXJ
 NAME Loudoun County Public Library
 LOCATION Leesburg and vicinity
 STATE VA
-BASEURL http://catalog.lcpl.lib.va.us
-CATTYPE ipac20
+BASEURL https://catalog.library.loudoun.gov
+CATTYPE ls2pac
 
 ID OCLC-TWE
 NAME Norfolk Public Library
@@ -8168,8 +8176,8 @@ ID OCLC-XTQ
 NAME Columbia Basin College
 LOCATION Pasco
 STATE WA
-BASEURL http://libcat.columbiabasin.edu
-CATTYPE koha
+BASEURL https://colbasin.kohalibrary.com/app/search/
+CATTYPE koha-app
 
 ID OCLC-WEA
 NAME Eastern Washington University
