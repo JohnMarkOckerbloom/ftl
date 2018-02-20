@@ -1062,8 +1062,8 @@ ID OCLC-FRMAR
 NAME Aix Marseille Universit&eacute;
 LOCATION Aix-en-Provence, Marseille, and vicinity
 COUNTRY FR
-BASEURL http://catalogue.univ-aix-marseille.fr/
-CATTYPE koha
+BASEURL https://univ-amu.summon.serialssolutions.com
+CATTYPE summon
 
 ID OCLC-GHKNU
 NAME Kwame Nkrumah University of Science and Technology
@@ -1189,6 +1189,13 @@ SINDEX Nasubject
 AINDEX Naauthor
 TINDEX Natitleword
 FILTERS NS
+
+ID OCLC-NATLL
+NAME National Library of Latvia
+LOCATION Riga
+COUNTRY LV
+CATTYPE primo-justquery
+BASEURL https://primolatvija.hosted.exlibrisgroup.com/primo-explore/search?vid=371KISCNLL_VU1&
 
 ID OCLC-VYTAU
 NAME Vytautas Magnus University
@@ -4143,6 +4150,14 @@ STATE IA
 CATTYPE sirsient
 LCODE mpl
 BASEURL http://crpl.ent.sirsi.net
+
+ID OCLC-LTW
+NAME Orange City Public Library
+LOCATION Orange City
+STATE IA
+CATTYPE apollo
+BASEURL https://orangecity.biblionix.com/
+FILTERS S
 
 ID OCLC-UK0
 NAME University of Iowa Libraries
@@ -8193,8 +8208,8 @@ ID OCLC-EV4
 NAME Everett Community College
 LOCATION Everett
 STATE WA
-CATTYPE voyager-vwebv
-BASEURL http://everett.library.ctc.edu/vwebv/search
+CATTYPE primo-justquery
+BASEURL https://everett-primo.hosted.exlibrisgroup.com/primo-explore/search?search_scope=EVERYTHING&vid=EVERETT&
 
 ID OCLC-ESR
 NAME Evergreen State College
@@ -8289,8 +8304,8 @@ ID OCLC-Z84
 NAME Olympic College
 LOCATION Bremerton
 STATE WA
-CATTYPE voyager-vwebv
-BASEURL http://olympic.library.ctc.edu/vwebv/search
+CATTYPE primo-justquery
+BASEURL https://olympic-primo.hosted.exlibrisgroup.com/primo-explore/search?search_scope=EVERYTHING&vid=OLYMPIC&
 
 ID OCLC-OPV
 NAME Pacific Lutheran University
