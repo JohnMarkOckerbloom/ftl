@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2018-02-20
-# Next set of libraries to check: WV (after rechecking Wiley)
+# Last updated 2018-03-09
+# Next set of libraries to check: WI (after rechecking Wiley)
 
 ID OLBP
 NAME The Online Books Page
@@ -2676,6 +2676,13 @@ STATE CA
 BASEURL http://catalog.plsinfo.org/
 CATTYPE iii-consortium-member
 LCODE 1
+
+ID OCLC-RRT
+NAME Riverside County Library System
+LOCATION Riverside County outside of Riverside
+STATE CA
+BASEURL http://inland.librarycatalog.info/polaris
+CATTYPE polaris
 
 ID OCLC-CRP
 NAME Riverside Public Library
