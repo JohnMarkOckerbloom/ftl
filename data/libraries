@@ -1859,6 +1859,14 @@ COUNTRY UK
 CATTYPE sirsi
 BASEURL http://library.sheffield.gov.uk/uhtbin/cgisirsi
 
+# using ID for Shrewsbury and Telford Hospital NHS Trust
+ID OCLC-UKWDK
+NAME Shropshire Health Libraries
+LOCATION Hospital libraries in Shrewsbury, Telford, and Oswestry
+CATTYPE olib
+BASEURL https://wv-shelib.olib.oclc.org
+COUNTRY UK
+
 ID OCLC-UKSOU
 NAME Southwark Libraries
 LOCATION London Borough of Southwark, England
