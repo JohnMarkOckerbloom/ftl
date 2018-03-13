@@ -168,6 +168,16 @@ BASEURL http://catalogue.nla.gov.au
 CATTYPE vufindrc1
 FILTERS NK
 
+ID OCLC-AUNAV
+NAME Navitas Library
+LOCATION Sydney, Melbourne, and Brisbane
+CATTYPE primodl-scope
+BASEURL http://navitas-primo.hosted.exlibrisgroup.com
+VID ACP
+LCODE ACP
+SCOPE ACP_ALL
+COUNTRY AU
+
 ID AU-XNLS
 NAME Northern Territory Library
 LOCATION Darwin, Northern Territory
