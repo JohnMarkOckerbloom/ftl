@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2018-03-09
-# Next set of libraries to check: WI (after rechecking Wiley)
+# Last updated 2018-03-16
+# Next set of libraries to check: WI (after finishing KY CTCS Primo schools)
 
 ID OLBP
 NAME The Online Books Page
@@ -4368,6 +4368,16 @@ STATE KS
 CATTYPE voyager-vwebv
 BASEURL http://libcat.wichita.edu/vwebv/search
 
+ID OCLC-KUA
+NAME Ashland Community and Technical College
+LOCATION Ashland
+STATE KY
+CATTYPE primodl-scope
+BASEURL https://kentucky-primoprod.hosted.exlibrisgroup.com
+VID Ashland
+LCODE ASHLAND
+SCOPE ASHLAND_TAB
+
 ID OCLC-KBE
 NAME Berea College
 LOCATION Berea
@@ -4376,6 +4386,36 @@ CATTYPE voyager-vwebv
 BASEURL http://banc.berea.edu:7008/vwebv/search
 DEFAULT DOMAIN
 
+ID OCLC-KUP
+NAME Big Sandy Community and Technical College
+LOCATION Prestonburg
+STATE KY
+CATTYPE primodl-scope
+BASEURL https://kentucky-primoprod.hosted.exlibrisgroup.com
+VID BigSandy
+LCODE BIGSANDY
+SCOPE BIGSANDY_TAB
+
+ID OCLC-KUT
+NAME Bluegrass Community and Technical College
+LOCATION Lexington
+STATE KY
+CATTYPE primodl-scope
+BASEURL https://kentucky-primoprod.hosted.exlibrisgroup.com
+VID Bluegrass
+LCODE BLUEGRASS
+SCOPE BLUEGRASS_TAB
+
+ID OCLC-KEC
+NAME Elizabethtown Community and Technical College
+LOCATION Elizabethtown
+STATE KY
+CATTYPE primodl-scope
+BASEURL https://kentucky-primoprod.hosted.exlibrisgroup.com
+VID Elizabethtown
+LCODE ELIZABETHTOWN
+SCOPE ELIZABETHTOWN_TAB
+
 ID OCLC-APK
 NAME Fort Campbell, Sink Library
 LOCATION Fort Campbell
@@ -4383,6 +4423,56 @@ STATE KY
 CATTYPE iii-consortium-member
 BASEURL https://mwrlibrary.armybiznet.com
 LCODE 21
+
+ID OCLC-GCATC
+NAME Gateway Community and Technical College
+LOCATION Florence
+STATE KY
+CATTYPE primodl-scope
+BASEURL https://kentucky-primoprod.hosted.exlibrisgroup.com
+VID Gateway
+LCODE GATEWAY
+SCOPE GATEWAY_TAB
+
+ID OCLC-KFJ
+NAME Hazard Community and Technical College
+LOCATION Hazard and Jackson
+STATE KY
+CATTYPE primodl-scope
+BASEURL https://kentucky-primoprod.hosted.exlibrisgroup.com
+VID Hazard
+LCODE HAZARD
+SCOPE HAZARD_TAB
+
+ID OCLC-KUH
+NAME Henderson Community College
+LOCATION Henderson
+STATE KY
+CATTYPE primodl-scope
+BASEURL https://kentucky-primoprod.hosted.exlibrisgroup.com
+VID Henderson
+LCODE HENDERSON
+SCOPE HENDERSON_TAB
+
+ID OCLC-KHH
+NAME Hopkinsville Community College
+LOCATION Hopkinsville
+STATE KY
+CATTYPE primodl-scope
+BASEURL https://kentucky-primoprod.hosted.exlibrisgroup.com
+VID Hopkinsville
+LCODE HOPKINSVILLE
+SCOPE HOPKINSVILLE_TAB
+
+ID OCLC-KJC
+NAME Jefferson Community and Technical College
+LOCATION Louisville
+STATE KY
+CATTYPE primodl-scope
+BASEURL https://kentucky-primoprod.hosted.exlibrisgroup.com
+VID Jefferson
+LCODE JEFFERSON
+SCOPE JEFFERSON_TAB
 
 ID OCLC-KCE
 NAME Kenton County Public Library
@@ -4396,7 +4486,7 @@ NAME Kentucky Community and Technical College System
 LOCATION 16 colleges across the state
 STATE KY
 CATTYPE voyager-vwebv
-BASEURL http://kctcs.kyvl.org/vwebv/search
+BASEURL http://opac.kctcs.edu/vwebv/search
 
 ID OCLC-KYL
 NAME Lexington Public Library
@@ -4412,6 +4502,26 @@ LOCATION Louisville
 STATE KY
 BASEURL http://pac.lfpl.org/polaris
 CATTYPE polaris
+
+ID OCLC-KYM
+NAME Madisonville Community College
+LOCATION Madisonville
+STATE KY
+CATTYPE primodl-scope
+BASEURL https://kentucky-primoprod.hosted.exlibrisgroup.com
+VID Madisonville
+LCODE MADISONVILLE
+SCOPE MADISONVILLE_TAB
+
+ID OCLC-KMS
+NAME Murray State University
+LOCATION Murray
+STATE KY
+CATTYPE primodl-scope
+BASEURL http://saa-primo.hosted.exlibrisgroup.com
+VID MSU
+LCODE MSU
+SCOPE default_scope
 
 ID OCLC-KHN
 NAME Northern Kentucky University
@@ -4431,9 +4541,11 @@ ID OCLC-KTC
 NAME Somerset Community College
 LOCATION Somerset
 STATE KY
-CATTYPE voyager-vwebv-member
-BASEURL http://kctcs.kyvl.org/vwebv/search
-LCODE LOCA=Somerset+CC:+All
+CATTYPE primodl-scope
+BASEURL https://kentucky-primoprod.hosted.exlibrisgroup.com
+VID Somerset
+LCODE SOMERSET
+SCOPE SOMERSET_TAB
 
 ID OCLC-KUK
 NAME University of Kentucky
