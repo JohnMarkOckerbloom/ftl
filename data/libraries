@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2018-03-16
-# Next set of libraries to check: WI (after finishing KY CTCS Primo schools)
+# Last updated 2018-03-20
+# Next set of libraries to check: WI
 
 ID OLBP
 NAME The Online Books Page
@@ -3905,6 +3905,14 @@ STATE IL
 BASEURL https://depaul.worldcat.org/search
 CATTYPE worldcat
 
+ID OCLC-JY3
+NAME Dixon Public Library
+LOCATION Dixon
+STATE IL
+CATTYPE ls2pac-config
+CONFIG dpl
+BASEURL https://rockriver.tlcdelivers.com:8480/
+
 ID OCLC-IBE
 NAME Dominican University, Rebecca Crown Library
 LOCATION River Forest
@@ -4513,6 +4521,16 @@ VID Madisonville
 LCODE MADISONVILLE
 SCOPE MADISONVILLE_TAB
 
+ID OCLC-KUY
+NAME Maysville Community and Technical College
+LOCATION Maysville
+STATE KY
+CATTYPE primodl-scope
+BASEURL https://kentucky-primoprod.hosted.exlibrisgroup.com
+VID Maysville
+LCODE MAYSVILLE
+SCOPE MAYSVILLE_TAB
+
 ID OCLC-KMS
 NAME Murray State University
 LOCATION Murray
@@ -4522,6 +4540,16 @@ BASEURL http://saa-primo.hosted.exlibrisgroup.com
 VID MSU
 LCODE MSU
 SCOPE default_scope
+
+ID OCLC-KOW
+NAME Owensboro Community and Technical College
+LOCATION Owensboro
+STATE KY
+CATTYPE primodl-scope
+BASEURL https://kentucky-primoprod.hosted.exlibrisgroup.com
+VID Owensboro
+LCODE OWENSBORO
+SCOPE OWENSBORO_TAB
 
 ID OCLC-KHN
 NAME Northern Kentucky University
@@ -4547,6 +4575,26 @@ VID Somerset
 LCODE SOMERSET
 SCOPE SOMERSET_TAB
 
+ID OCLC-K@B
+NAME Southcentral Kentucky Community and Technical College
+LOCATION Bowling Green, Glasgow, and Franklin
+STATE KY
+CATTYPE primodl-scope
+BASEURL https://kentucky-primoprod.hosted.exlibrisgroup.com
+VID SouthcentralKY
+LCODE SOUTHCENTRALKY
+SCOPE SOUTHCENTRALKY_TAB
+
+ID OCLC-KUS
+NAME Southeast Kentucky Community and Technical College
+LOCATION Cumberland and other campuses
+STATE KY
+CATTYPE primodl-scope
+BASEURL https://kentucky-primoprod.hosted.exlibrisgroup.com
+VID SoutheastKY
+LCODE SOUTHEASTKY
+SCOPE SOUTHEASTKY_TAB
+
 ID OCLC-KUK
 NAME University of Kentucky
 LOCATION Lexington
@@ -4563,6 +4611,16 @@ LOCATION Louisville
 STATE KY
 BASEURL https://uofl.worldcat.org/search
 CATTYPE worldcat
+
+ID OCLC-KPC
+NAME West Kentucky Community and Technical College
+LOCATION Paducah
+STATE KY
+CATTYPE primodl-scope
+BASEURL https://kentucky-primoprod.hosted.exlibrisgroup.com
+VID WestKY
+LCODE WESTKY
+SCOPE WESTKY_TAB
 
 ID OCLC-9KN
 NAME Western Kentucky University
