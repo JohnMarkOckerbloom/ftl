@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2018-03-20
-# Next set of libraries to check: WI
+# Last updated 2018-03-22
+# Next set of libraries to check: Global and down
 
 ID OLBP
 NAME The Online Books Page
@@ -217,13 +217,10 @@ ID AU-NSL
 NAME State Library of New South Wales
 LOCATION Sydney, New South Wales
 COUNTRY AU
-CATTYPE webpacpro
-BASEURL http://library.sl.nsw.gov.au
-# new catalog doesn't yet handle dated authors well
-# CATTYPE primodl-loc
-# BASEURL http://primo-slnsw-sb.hosted.exlibrisgroup.com
-# VID SLNSW
-# LOC adaptor,scope:(ADLIB),scope:(SLNSW_ALMA)
+CATTYPE primodl-scope
+BASEURL http://primo-slnsw-sb.hosted.exlibrisgroup.com
+VID SLNSW
+SCOPE EEA
 
 ID AU-QSL
 NAME State Library of Queensland
@@ -3853,6 +3850,14 @@ LOCATION Aurora
 STATE IL
 BASEURL http://cat.aurorapubliclibrary.org/polaris
 CATTYPE polaris
+
+ID OCLC-JOZ
+NAME Bloomingdale Public Library
+LOCATION Bloomingdale
+STATE IL
+CATTYPE sirsient
+LCODE en_US/bloomingdale
+BASEURL https://discovery.lincnet.info
 
 ID OCLC-JCH
 NAME Bloomington Public Library
@@ -8752,9 +8757,9 @@ ID OCLC-GZK
 NAME Winnefox Library System
 LOCATION 30 public libraries in Oshkosh and 5 nearby counties
 STATE WI
-BASEURL http://catalog.winnefox.org
-CATTYPE vufind
-FILTERS S
+CATTYPE sirsient
+LCODE en_US/default
+BASEURL https://wlso.ent.sirsi.net
 
 ID OCLC-W8A
 NAME Albany County Public Library
