@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2018-03-22
-# Next set of libraries to check: Global and down
+# Last updated 2018-03-24
+# Next set of libraries to check: BC and down
 
 ID OLBP
 NAME The Online Books Page
@@ -439,8 +439,8 @@ ID OCLC-UAU
 NAME University of Calgary
 LOCATION Calgary
 PROVINCE AB
-BASEURL http://itlibsearchp01.ucalgary.ca
-KEYURL ${BASEURL}/search/index.php?q=${ARG}
+CATTYPE summon
+BASEURL https://ucalgary.summon.serialssolutions.com
 
 ID OCLC-CN4UL
 NAME University of Lethbridge
@@ -453,9 +453,9 @@ ID OCLC-CN5O8
 NAME Wood Buffalo Regional Library
 LOCATION Fort McMurray
 PROVINCE AB
-BASEURL http://hip.wbrl.ca:8080
-CATTYPE ipac20
-PROFILE main
+CATTYPE sirsient
+LCODE en_US/default
+BASEURL https://fmca.ent.sirsidynix.net
 
 ID OCLC-BURPL
 NAME Burnaby Public Library
@@ -5069,6 +5069,13 @@ LOCATION Springfield
 STATE MA
 BASEURL https://springfieldcollege.on.worldcat.org/external-search?queryString
 CATTYPE worldcat-config
+
+ID OCLC-SNN
+NAME Smith College Libraries
+LOCATION Northampton
+STATE MA
+BASEURL https://smith.edu/libraries/discover
+KEYURL ${BASEURL}/search.php?query=${ARG}
 
 ID OCLC-TFW
 NAME Tufts University
