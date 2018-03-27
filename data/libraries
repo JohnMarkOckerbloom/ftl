@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2018-03-24
-# Next set of libraries to check: BC and down
+# Last updated 2018-03-27
+# Next set of libraries to check: MB and down
 
 ID OLBP
 NAME The Online Books Page
@@ -468,7 +468,7 @@ ID OCLC-CNCOQ
 NAME Coquitlam Public Library
 LOCATION Coquitlam
 PROVINCE BC
-BASEURL http://catalog.library.coquitlam.bc.ca/polaris
+BASEURL http://catalog.coqlibrary.ca/polaris
 CATTYPE polaris
 
 ID OCLC-DCK
@@ -504,8 +504,8 @@ ID OCLC-LANGC
 NAME Langara College Library
 LOCATION Vancouver
 PROVINCE BC
-CATTYPE encore
-BASEURL http://encore.langara.bc.ca/iii/encore
+CATTYPE eds
+LCODE s5672471
 
 ID OCLC-OKANU
 NAME Okanagan College
@@ -518,8 +518,8 @@ ID OCLC-CNORL
 NAME Okanagan Regional Library
 LOCATION Okanagan Valley and vicinity
 PROVINCE BC
-BASEURL http://ipac.orl.bc.ca/polaris
-CATTYPE polaris
+CATTYPE bibliocommons
+BASEURL https://orl.bibliocommons.com
 
 ID OCLC-CNPGL
 NAME Prince George Public Library
@@ -8236,6 +8236,14 @@ STATE VA
 BASEURL http://search.lib.virginia.edu/catalog?portal=all&catalog_select=all&
 CATTYPE blacklight-custom
 FILTERS NK
+
+# didn't find an ID for VLC or Augusta as a whole, so using Staunton's ID
+ID OCLC-PFX
+NAME Valley Libraries Connection
+LOCATION Augusta County, Staunton, and Waynesboro public libraries
+STATE VA
+BASEURL https://tlcweb.valleylibraries.org:8480
+CATTYPE ls2pac
 
 ID OCLC-VPL
 NAME Virginia Beach Public Library
