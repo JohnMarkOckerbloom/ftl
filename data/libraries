@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2018-03-27
-# Next set of libraries to check: MB and down
+# Last updated 2018-03-30
+# Next set of libraries to check: China and down
 
 ID OLBP
 NAME The Online Books Page
@@ -777,8 +777,8 @@ ID OCLC-MUH
 NAME McMaster University
 LOCATION Hamilton
 PROVINCE ON
-BASEURL http://catalogue.mcmaster.ca/catalogue
-CATTYPE vufind
+CATTYPE encore
+BASEURL https://discovery.mcmaster.ca/iii/encore
 
 ID OCLC-MLSOD
 NAME Mississauga Library System
@@ -995,8 +995,11 @@ ID OCLC-REB
 NAME University of Regina
 LOCATION Regina
 PROVINCE SK
-CATTYPE summon
-BASEURL http://uregina.summon.serialssolutions.com
+CATTYPE primodl-scope
+BASEURL https://casls-primo-prod.hosted.exlibrisgroup.com
+VID 01CASLS_REGINA
+LCODE 01CASLS_REGINA
+SCOPE default_scope
 
 ID OCLC-UOH
 NAME University of Saskatchewan
@@ -4599,6 +4602,13 @@ BASEURL https://kentucky-primoprod.hosted.exlibrisgroup.com
 VID SoutheastKY
 LCODE SOUTHEASTKY
 SCOPE SOUTHEASTKY_TAB
+
+ID OCLC-KTS
+NAME Southern Baptist Theological Seminary
+LOCATION Louisville
+STATE KY
+BASEURL https://sbts.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-KUK
 NAME University of Kentucky
