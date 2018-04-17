@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2018-03-30
-# Next set of libraries to check: China and down
+# Last updated 2018-04-17
+# Next set of libraries to check: India and down
 
 ID OLBP
 NAME The Online Books Page
@@ -1064,7 +1064,7 @@ NAME &Aring;bo Akademi University
 LOCATION Turku and Vaasa
 COUNTRY FI
 CATTYPE voyager-vwebv
-BASEURL http://alma.linneanet.fi/vwebv/search
+BASEURL https://alma.linneanet.fi/vwebv/search
 FILTERS S
 
 # Going with electronic library ID; might be a better ID to use
@@ -1087,8 +1087,11 @@ ID OCLC-CPV
 NAME City University of Hong Kong
 LOCATION Hong Kong
 COUNTRY HK
-BASEURL http://encore.lib.cityu.edu.hk/iii/encore
-CATTYPE encore
+CATTYPE primodl-scope
+BASEURL https://julac.hosted.exlibrisgroup.com
+VID CUH
+LCODE CUH_ALMA
+SCOPE My%20Institution
 
 ID OCLC-DBX
 NAME Dublin Institute of Technology
@@ -4018,6 +4021,18 @@ STATE IL
 CATTYPE sirsient
 LCODE en_US/default
 BASEURL https://rfpl.ent.sirsi.net
+
+# This library appears not to use traditional subjects 
+# or authorized headings, so we simplify headings and
+# use the general keyword search instead of subject search
+ID OCLC-GO9
+NAME Schaumburg Township District Library
+LOCATION Schaumburg and vicinity
+STATE IL
+CATTYPE vufind
+BASEURL https://catalog.schaumburglibrary.org
+SUBURL ${BASEURL}/Search/Results?type=AllFields&lookfor=${ARG}
+FILTERS SNK
 
 ID OCLC-JDP
 NAME SWAN: System Wide Automated Network
