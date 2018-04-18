@@ -1196,18 +1196,14 @@ LOCATION Nairobi
 COUNTRY KE
 BASEURL http://maktaba.ku.ac.ke
 CATTYPE koha
+FILTERS S
 
 ID UNAIROBI
 NAME University of Nairobi
 LOCATION Nairobi
 COUNTRY KE
-BASEURL http://library.uonbi.ac.ke/opac
-CATTYPE vubis
-DBID 3
-KINDEX Naallwords
-SINDEX Nasubject
-AINDEX Naauthor
-TINDEX Natitleword
+BASEURL http://library.uonbi.ac.ke
+CATTYPE iguana
 FILTERS NS
 
 ID OCLC-NATLL
@@ -1217,12 +1213,12 @@ COUNTRY LV
 CATTYPE primo-justquery
 BASEURL https://primolatvija.hosted.exlibrisgroup.com/primo-explore/search?vid=371KISCNLL_VU1&
 
+# https://aleph.library.lt/F?func=find-b&request=dogs&find_code=WRD&adjacent=N&local_base=&filter_code_1=WLN&filter_request_1=&filter_code_2=WYR&filter_request_2=&filter_code_3=WYR&filter_request_3=&filter_code_4=WTP&filter_request_4=
 ID OCLC-VYTAU
 NAME Vytautas Magnus University
 LOCATION Kaunas
 CATTYPE aleph1
 BASEURL https://aleph.library.lt
-LCODE VDU01
 # subjects not well covered in English, so for them we'll do keyword search
 SINDEX WRD
 AINDEX WAU
@@ -1252,15 +1248,13 @@ BASEURL http://nal.unn.edu.ng
 CATTYPE koha
 FILTERS S
 
+# Looks like Leiden now has their own Bento search (keywords only)
 ID NL-L2U
 NAME Leiden University Libraries
 LOCATION Leiden
 COUNTRY NL
-CATTYPE primodl-loc
-BASEURL http://catalogue.leidenuniv.nl
-VID UBL_V1
-LCODE UBL_V1
-LOC adaptor,scope:%28UBL_SFX%29%2Cscope%3A%28UBL_METALIB%29%2Cscope%3A%28UBL_DTL%29%2Cscope%3A%28UBL_LMS%29%2Cscope%3A%28%22PRIMO%22%29%2Cscope%3A%28%22UBL%22%29%2Cscope%3A%28UBL_DSPACE%29%2Cprimo_central_multiple_fe
+BASEURL https://www.library.universiteitleiden.nl
+KEYURL ${BASEURL}/search?q=${ARG:SNK}
 
 # ID a bit arbitrary here (for Infoserve service)
 ID OCLC-NZ@
@@ -5792,7 +5786,6 @@ ID OCLC-BUN
 NAME Rowan College at Burlington County
 LOCATION Mount Laurel and other campuses
 STATE NJ
-CATTYPE sirsient
 CATTYPE polaris-context
 BASEURL http://bcls.polarislibrary.com/polaris
 CONTEXT 24.1033.0.0.6
@@ -6353,6 +6346,14 @@ LOCATION Durham
 STATE NC
 CATTYPE summon
 BASEURL http://duke.summon.serialssolutions.com
+
+ID OCLC-NZD
+NAME Durham County Library
+LOCATION Durham and vicinity
+STATE NC
+CATTYPE sirsient
+BASEURL https://dur.ent.sirsi.net
+LCODE en_US/default
 
 ID OCLC-NPE
 NAME Elizabeth City State University
