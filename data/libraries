@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2018-04-17
-# Next set of libraries to check: India and down
+# Last updated 2018-04-18
+# Next set of libraries to check: Ireland and down
 
 ID OLBP
 NAME The Online Books Page
@@ -111,6 +111,13 @@ LOCATION Melbourne and other campuses, Victoria
 COUNTRY AU
 CATTYPE eds
 LCODE deakin
+
+ID OCLC-ER0
+NAME Edith Cowan University
+LOCATION Perth, Western Australia
+COUNTRY AU
+BASEURL https://ecu.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
 
 ID AU-VBAX
 NAME Federation University Australia
@@ -1153,16 +1160,16 @@ ID SOUTHASIAN
 NAME South Asian University: SAU Library
 LOCATION New Delhi
 COUNTRY IN
-BASEURL http://library.sau.ac.in
-CATTYPE koha
-FILTERS S
+BASEURL http://southasianuniversity.summon.serialssolutions.com
+CATTYPE summon
 
 ID OCLC-INUOK
 NAME University of Kashmir
 LOCATION Srinigar
 COUNTRY IN
-BASEURL http://203.129.216.173:8000/cgi-bin/gw/chameleon
-CATTYPE chameleon
+BASEURL http://vlib.uok.edu.in:8080
+CATTYPE chamo
+FILTERS S
 
 ID OCLC-FKT
 NAME Museo Galileo Library
