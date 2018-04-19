@@ -5,7 +5,7 @@
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
 # Last updated 2018-04-18
-# Next set of libraries to check: Ireland and down
+# Next set of libraries to check: Taiwan and down
 
 ID OLBP
 NAME The Online Books Page
@@ -1213,7 +1213,6 @@ COUNTRY LV
 CATTYPE primo-justquery
 BASEURL https://primolatvija.hosted.exlibrisgroup.com/primo-explore/search?vid=371KISCNLL_VU1&
 
-# https://aleph.library.lt/F?func=find-b&request=dogs&find_code=WRD&adjacent=N&local_base=&filter_code_1=WLN&filter_request_1=&filter_code_2=WYR&filter_request_2=&filter_code_3=WYR&filter_request_3=&filter_code_4=WTP&filter_request_4=
 ID OCLC-VYTAU
 NAME Vytautas Magnus University
 LOCATION Kaunas
@@ -1298,7 +1297,7 @@ NAME King Saud University
 LOCATION Riyadh; English search terms may give limited results
 COUNTRY SA
 CATTYPE sirsi
-BASEURL http://catalog.library.ksu.edu.sa/uhtbin/cgisirsi
+BASEURL http://catalog.library.ksu.edu.sa/uhtbin/cgisirsi.exe
 
 ID OCLC-SINTU
 NAME Nanyang Technological University
@@ -6914,6 +6913,15 @@ BASEURL http://search.library.oregonstate.edu
 LCODE OSU
 VID OSU
 SCOPE everything
+
+ID OCLC-ORZ
+NAME Portland State University
+LOCATION Portland
+STATE OR
+CATTYPE primodl-scope
+BASEURL https://search.library.pdx.edu
+VID PSU
+SCOPE all
 
 ID OCLC-UMQ
 NAME Umpqua Community College
