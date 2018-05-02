@@ -34,10 +34,10 @@ sub checkmapfile {
       }
       if ($sign eq "" || $sign eq "->" || $sign eq '=' || $sign eq "<->") {
         $unassignedcount++ if (!$sign);
-        if ($lcwowiki{$lc}) {
+        if ($lctowiki{$lc}) {
           print STDERR "$line: $lc already -> $lctowiki{$lc}\n";
         } else {
-          $lcwowiki{$lc} = $wiki;
+          $lctowiki{$lc} = $wiki;
         }
       }
       if ($sign eq "<-" || $sign eq "<->" || $sign eq "=") {
