@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2018-04-18
-# Next set of libraries to check: Taiwan and down
+# Last updated 2018-05-05
+# Next set of libraries to check: UK and down
 
 ID OLBP
 NAME The Online Books Page
@@ -1443,13 +1443,12 @@ CATTYPE iii-consortium-member
 BASEURL http://opac.seals.ac.za
 LCODE 13
 
-# using WorldCat code for National Taichung Library for the moment
 ID OCLC-CHNTL
-NAME Central Taiwan Public Library Consortium
-LOCATION Taichung and vicinity
+NAME National Library of Public Information
+LOCATION Taichung; English search terms may give limited results
 COUNTRY TW
-CATTYPE toread
-BASEURL http://ipac.ptl.edu.tw/toread
+CATTYPE spydus
+BASEURL http://ipac.nlpi.edu.tw
 
 ID OCLC-TAE
 NAME Taipei Public Library
@@ -1471,9 +1470,9 @@ ID OCLC-B9K
 NAME Bilkent University Library
 LOCATION Ankara
 COUNTRY TR
-CATTYPE sirsient-old
-LCODE university
-BASEURL http://librarycatalog.bilkent.edu.tr
+CATTYPE sirsient
+LCODE tr_TR/default
+BASEURL https://librarycatalog.bilkent.edu.tr
 
 ID KYAMBOGO
 NAME Kyambogo University
@@ -4799,6 +4798,13 @@ STATE ME
 BASEURL http://catalog.portland.lib.me.us
 CATTYPE webpacpro
 FILTERS N
+
+ID OCLC-MEU
+NAME University of Maine, Fogler Library
+LOCATION Orono
+STATE ME
+CATTYPE summon
+BASEURL http://umaine.summon.serialssolutions.com
 
 ID OCLC-Y7T
 NAME York County Community College

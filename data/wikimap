@@ -10,7 +10,7 @@
 #   are not included in this file.
 # Manual title and name-title correspondences have been moved to wikiworksmap.
 # See docs file for documentation
-# Last updated 2018-05-02
+# Last updated 2018-05-03
 # Did LCSH 2015-2017 update lists, 2018 monthly lists 1-3
 1 Pendleton Place House (New York, N.Y.)|=|Building at One Pendleton Place
 1066 Country Walk (England)|=|1066 Country Walk
@@ -921,6 +921,8 @@ Ambulances|<->|Ambulance
 Ambulatory surgery|<->|Outpatient surgery
 Amburayang River (Philippines)|=|Amburayan River
 Ambushes and surprises|<->|Ambush
+Ambystomatidae|->|Mole salamander
+Ambystoma|<->|Mole salamander
 Amchitka Island (Alaska)|=|Amchitka
 Amelia (Fictitious character from Moss)|<->|Amelia's Notebooks
 Amelia-Bedelia (Fictitious character)|=|Amelia Bedelia
@@ -1162,6 +1164,7 @@ Annual bluegrass|=|Poa annua
 Annuities|=|Annuity
 Anobium punctatum|=|Common furniture beetle
 Anomaly detection (Computer security)|<->|Anomaly detection
+Anoplura|=|Sucking louse
 Anorexia|<->|Anorexia (symptom)
 Anorgasmy|=|Anorgasmia
 Anoura (Mammals)|=|Anoura
@@ -1739,6 +1742,7 @@ Asbestos Strike, Qu&eacute;bec, 1949|=|Asbestos strike
 Ascendant (Astrology)|=|Ascendant
 Ascension Day|=|Feast of the Ascension
 Ascension Island (Atlantic Ocean)|=|Ascension Island
+Aschelminthes|=|Aschelminth
 ASCII (Character set)|=|ASCII
 Ascomycetes|=|Ascomycota
 Ascq (France)|=|Ascq
@@ -3406,6 +3410,7 @@ Blue Beetle (Fictitious character)|=|Blue Beetle
 Blue Comet (Express train)|=|Blue Comet
 Blue Dragon (Game)|<->|Blue Dragon (video game)
 Blue elderberry|=|Sambucus cerulea
+Blue John|=|Blue John (mineral)
 Blue king crab|=|Paralithodes platypus
 Blue Knob (Pa. : Mountain)|=|Blue Knob (Pennsylvania)
 Blue Knob State Park (Pa.)|=|Blue Knob State Park
@@ -4287,6 +4292,7 @@ Cabo Verde|=|Cape Verde
 Cabooses (Railroads)|=|Caboose
 Cabot Strait (N.L. and N.S.)|=|Cabot Strait
 Cabrera River (Colombia)|=|Cabrera River
+CAC Boomerang (Fighter plane)|=|CAC Boomerang
 CAC Wirraway (Military aircraft)|->|CAC Wirraway
 Cachapoal River (Chile)|=|Cachapoal River
 Cache-sexes|=|Cache-sexe
@@ -4437,6 +4443,7 @@ Cambridge English: Key for Schools (Educational test)|<->|A2 Key
 Cambridge English: Preliminary (Educational test)|<->|B1 Preliminary
 Camden, Battle of, Camden, S.C., 1780|=|Battle of Camden
 Camden Post Office (Camden, N.J.)|<->|United States Post Office and Courthouse (Camden, New Jersey)
+Camel (Fighter plane)|=|Sopwith Camel
 Camel, Battle of the, Iraq, 656|=|Battle of the Camel
 Camelback (Pa.)|<->|Camelback Mountain Resort
 Camelback East Village (Phoenix, Ariz.)|=|Camelback East, Phoenix
@@ -4949,8 +4956,10 @@ Caucasus, Northern (Russia) -- History -- Revolution, 1917-1921|<->|Mountainous 
 Caucasus, Northern (Russia) -- History -- Russian Conquest, 1831-1859|<->|Caucasian War
 Caucasus, South|<->|Transcaucasia
 Caudine Forks, Battle of, Italy, 321 B.C.|=|Battle of the Caudine Forks
+Caudron C 714 Cyclone (Fighter plane)|<->|Caudron C.714
 Caudron G.3 (Military aircraft)|=|Caudron G.3
 Caudron G.4 (Military aircraft)|=|Caudron G.4
+Caudron R.11 (Fighter plane)|=|Caudron R.11
 Caulfield, Holden (Fictitious character)|=|Holden Caulfield
 Caulk's Field, Battle of, Md., 1814|=|Battle of Caulk's Field
 Causation (Criminal law)|<->|Causation (law)
@@ -6367,6 +6376,7 @@ Complexes|->|Field of sets
 Complexes (Psychology)|=|Complex (psychology)
 Component software|<->|Component-based software engineering
 Composers|=|Composer
+Compositae|=|Asteraceae
 Composite materials|=|Composite material
 Composition (Art)|=|Composition (visual arts)
 Composition (Music)|=|Musical composition
@@ -7004,6 +7014,7 @@ Correlation (Statistics)|<->|Correlation and dependence
 Correspondence principle (Quantum mechanics)|=|Correspondence principle
 Corrientes (Argentina)|=|Corrientes
 Corrientes (Argentina : Province)|=|Corrientes Province
+Corsair (Fighter plane)|=|Vought F4U Corsair
 Corsair II (Jet attack plane)|=|LTV A-7 Corsair II
 Corsets|=|Corset
 Corsica (France)|<->|Corsica
@@ -7130,6 +7141,7 @@ Crafnant Lake (Wales)|=|Llyn Crafnant
 Craig Air Force Base (Ala.)|<->|Craig Air Force Base
 Craig-y-nos Castle (Powys, Wales)|=|Craig-y-Nos Castle
 Crampton's Gap, Battle of, Md., 1862|=|Battle of Crampton's Gap
+Cranberries|<->|Cranberry
 Crane flies|=|Crane fly
 Crane Meadows National Wildlife Refuge (Agency : U.S.)|->|Crane Meadows National Wildlife Refuge
 Crane Meadows National Wildlife Refuge (Minn.)|=|Crane Meadows National Wildlife Refuge
@@ -7658,11 +7670,11 @@ Dasher automobile|<->|Volkswagen Passat (B1)
 Dassault Falcon (Jet transport)|=|Dassault Falcon
 Data compression (Computer science)|->|Data compression
 Data compression (Telecommunication)|<->|Data compression
+Data dictionaries|=|Data dictionary
 Data disk drives|<->|Disk storage
 Data libraries|=|Data library
 Data structures (Computer science)|=|Data structure
 Data types (Computer science)|=|Data type
-Data dictionaries|=|Data dictionary
 Data protection|<-|Information privacy
 Data protection|->|Data security
 Data recovery (Computer science)|<->|Data recovery
@@ -8034,6 +8046,8 @@ DEW Line|=|Distant Early Warning Line
 Dewar flasks|<->|Vacuum flask
 Dewey (Cat)|=|Dewey Readmore Books
 Dewey (Fictitious character : Disney)|->|Huey, Dewey, and Louie
+Dewoitine D.500 (Fighter plane)|=|Dewoitine D.500
+Dewoitine D.520 (Fighter plane)|=|Dewoitine D.520
 Dexter Reservoir (Or.)|=|Dexter Reservoir
 DFS 228 (Reconnaissance aircraft)|=|DFS 228
 DFW C.V (Military aircraft)|=|DFW C.V
@@ -8290,6 +8304,7 @@ Discus throwing|=|Discus throw
 Discworld (Imaginary place)|=|Discworld (world)
 Diseases|=|Disease
 Disinheritance|->|Inheritance
+Disinvestment -- South Africa|=|Disinvestment from South Africa
 Disjunction (Logic)|=|Logical disjunction
 Dislocations|<->|Joint dislocation
 Dismal Swamp (N.C. and Va.)|=|Great Dismal Swamp
@@ -8344,6 +8359,7 @@ Dnieper Lowland (Ukraine)|=|Dnieper Lowland
 Dnieper Rapids (Ukraine)|=|Dnieper Rapids
 Dnieper River|=|Dnieper
 Do-not-resuscitate orders|=|Do not resuscitate
+Doberman pinscher|=|Dobermann
 Dobbs, Maisie (Fictitious character)|=|Maisie Dobbs
 Dobro Pole, Battle of, Serbia, 1918|=|Battle of Dobro Pole
 Dock Strike, London, England, 1889|=|London dock strike of 1889
@@ -8385,6 +8401,7 @@ Dollar, Canadian|=|Canadian dollar
 Dollard-des-Ormeaux (Qu&eacute;bec)|=|Dollard-des-Ormeaux
 Dollywood (Pigeon Forge, Tenn.)|=|Dollywood
 Dolomite Alps (Italy)|=|Dolomites
+Dolphin (Fighter plane)|=|Sopwith Dolphin
 Dom Ipat'eva (Ekaterinburg, Russia)|=|Ipatiev House
 Domain-specific programming languages|<->|Domain-specific language
 D&ouml;mbra (Two-stringed lute)|<->|Dombra
@@ -8448,6 +8465,7 @@ Dortmunder (Fictitious character)|=|John Dortmunder
 D&#x022f;rv&#x022f;d (Mongolian people)|<->|Dörbet Oirat
 Dorze (African people)|=|Dorze people
 Dos Cabezas Mountains (Ariz.)|=|Dos Cabezas Mountains
+Dots-and-boxes (Game)|=|Dots and Boxes
 Douai (France)|=|Douai
 Double dutch (Rope skipping)|=|Double Dutch (jump rope)
 Double effect (Ethics)|=|Principle of double effect
@@ -8476,6 +8494,7 @@ Downwash (Aerodynamics)|=|Downwash
 Downy birch|=|Betula pubescens
 Doya (Bhutanese people)|<->|Lhop people
 Doyayo language|=|Dowayo language
+Dozens (Game)|=|The Dozens
 D&oacute;zsa Uprising, 1514|->|György Dózsa
 Dr. Fager (Race horse)|=|Dr. Fager
 Dracula, Count (Fictitious character)|<->|Count Dracula
@@ -8487,8 +8506,11 @@ Drag (Aerodynamics)|<->|Drag (physics)
 Dragomen|=|Dragoman
 Dragon (Transport plane)|=|De Havilland Dragon
 Dragon 32 (Computer)|<->|Dragon 32/64
+Dragon Force (Game)|=|Dragon Force
+Dragon Warrior (Game)|->|Dragon Quest
 Dragon slayer (Tale)|<->|Dragonslayer
 Dragon variation (Chess)|=|Sicilian Defence, Dragon Variation
+Dragon's Lair (Game)|<->|Dragon's Lair
 Dragonflies|=|Dragonfly
 Dragons|=|Dragon
 Dragoon Mountains (Ariz.)|=|Dragoon Mountains
@@ -9529,6 +9551,7 @@ Esophagogastric junction|->|Esophagus
 Esopus Indians|=|Esopus people
 Esopus Indians -- Wars, 1655-1660|<->|Esopus Wars
 Esopus Indians -- Wars, 1663-1664|->|Esopus Wars
+Esox americanus|<->|American pickerel
 Esperanza (Santa Fe, Argentina)|=|Esperanza, Santa Fe
 Espinosa, Battle of, Espinosa de los Monteros, Spain, 1808|=|Battle of Espinosa de los Monteros
 Espinosa de los Monteros (Spain)|=|Espinosa de los Monteros
@@ -9774,6 +9797,7 @@ Extinct animals|<->|Lists of extinct animals
 Extinct cities|<->|Lost city
 Extinct birds|<->|List of recently extinct bird species
 Extinction (Biology)|=|Extinction
+Extracorporeal shock wave therapy|=|Extracorporeal shockwave therapy
 Extrajudicial executions|=|Extrajudicial killing
 Extranets (Computer networks)|=|Extranet
 Extras (Actors)|<->|Extra (acting)
@@ -9919,6 +9943,7 @@ Fascias (Architecture)|=|Fascia (architecture)
 Fascist economics|=|Economics of fascism
 Fascists|->|Fascism
 Fashoda Crisis, 1898|<->|Fashoda Incident
+FAST subject headings|<->|Faceted Application of Subject Terminology
 Fasteners|=|Fastener
 Fasting -- Religious aspects -- Islam|=|Fasting in Islam
 Fasting -- Religious aspects -- Judaism|<->|Ta'anit
@@ -10293,10 +10318,11 @@ Floyd and Delores Jones Playhouse (Seattle, Wash.)|<->|Playhouse Theatre (Seattl
 Flue gases|=|Flue gas
 Flue pipes (Organ pipes)|=|Flue pipe
 Fluids|=|Fluid
+Fluorescence microscopy|<->|Fluorescence microscope
 Fluoride varnishes|=|Fluoride varnish
 Fluorides|=|Fluoride
 Fluorocarbons|=|Fluorocarbon
-Fluorescence microscopy|<->|Fluorescence microscope
+Fluorspar|=|Fluorite
 Fluting (Architecture and decoration)|<->|Fluting (architecture)
 Flyball (Dog sport)|=|Flyball
 Flyboarding|<->|Flyboard
@@ -10558,6 +10584,7 @@ Fort Washington (New York, N.Y.)|=|Fort Washington (Manhattan)
 Fort Washington (New York, N.Y.) -- Capture, 1776|=|Battle of Fort Washington
 Fort William Henry (N.Y.)|=|Fort William Henry
 Fort William Henry (N.Y.) -- Capture, 1757|<->|Siege of Fort William Henry
+Fort Worth Circle (Group of artists)|=|Fort Worth Circle
 Fort Yuma Reservation (Ariz. and Calif.)|<->|Fort Yuma Indian Reservation
 Fortaleza (Brazil)|=|Fortaleza
 FORTH (Computer program language)|=|Forth (programming language)
@@ -10804,6 +10831,7 @@ Frogs|=|Frog
 Frogs as pets|<->|Frogs in captivity
 Fromelles, Battle of, Fromelles, France, 1916|=|Attack at Fromelles
 Front Range (Colo. and Wyo.)|=|Front Range
+Fronte nuovo delle arti (Group of artists)|=|Fronte Nuovo delle Arti
 Fronts (Meteorology)|=|Weather front
 FRSAD (Conceptual model)|=|FRSAD
 Fruit -- Harvesting|<->|Fruit picking
@@ -12230,6 +12258,7 @@ Haarlem (Netherlands)|=|Haarlem
 Habad|=|Chabad
 Habitable planets|<->|Planetary habitability
 Habitat (Ecology)|=|Habitat
+Habituation (Neuropsychology)|<->|Habituation
 Hachi-k&omacr; (Akita dog), 1923-1935|=|Hachikō
 Hachiman (Shinto deity)|<->|Hachiman
 Hachi&omacr;ji-shi (Japan)|=|Hachiōji, Tokyo
@@ -13436,6 +13465,7 @@ Hyde Road Stadium (Manchester, England : Racetrack)|=|Hyde Road (speedway)
 Hyden Coal Mine Disaster, Hyden, Ky., 1970|=|Hurricane Creek mine disaster
 Hyderabad (India)|=|Hyderabad
 Hydrocarbons|=|Hydrocarbon
+Hydrocyanic acid|=|Hydrogen cyanide
 Hydrodynamics|->|Fluid dynamics
 Hydroelectric power plants|<->|Hydroelectricity
 Hydrogen -- Isotopes|=|Isotopes of hydrogen
@@ -14929,6 +14959,7 @@ John the Baptist's Day|<->|Nativity of Saint John the Baptist
 Johnson, Andrew, 1808-1875 -- Impeachment|=|Impeachment of Andrew Johnson
 Johnson County War, 1892|=|Johnson County War
 Johnsonville, Battle of, Johnsonville, Tenn., 1864|=|Battle of Johnsonville
+Johnston Island|=|Johnston Atoll
 Johor (Malaysia)|=|Johor
 Johor Strait|=|Straits of Johor
 Joint Base Elmendorf-Richardson (Alaska)|=|Joint Base Elmendorf–Richardson
@@ -15939,6 +15970,7 @@ La Chinc&uacute;a, Battle of, Mexico, 1813|=|Battle of La Chincúa
 La Coru&ntilde;a (Spain)|=|A Coruña
 La Coru&ntilde;a (Spain) -- History|=|History of A Coruña
 La Coru&ntilde;a, Battle of, La Coru&ntilde;a, Spain, 1809|=|Battle of Corunna
+La Dorada (Caldas, Colombia)|=|La Dorada, Caldas
 La Hogue, Battle of, 1692|<->|Action at La Hogue (1692)
 La Hogue, Battle of, 1692|<-|Battles of Barfleur and La Hougue
 La Madre Mountains Wilderness (Nev.)|<->|La Madre Mountains Wilderness
@@ -15954,6 +15986,8 @@ La Paz (Baja California Sur, Mexico)|=|La Paz, Baja California Sur
 La Paz (Bolivia)|=|La Paz
 La Paz (Bolivia) -- History|=|History of La Paz
 La Paz (Bolivia : Department)|=|La Paz Department (Bolivia)
+La Paz (Entre R&iacute;os, Argentina)|=|La Paz, Entre Ríos
+La Paz (Mendoza, Argentina)|=|La Paz, Mendoza
 La Plata (Argentina)|=|La Plata
 La Posa Plain (Ariz.)|=|La Posa Plain
 La Possession (R&eacute;union)|=|La Possession
@@ -16176,6 +16210,8 @@ Languedoc (France)|=|Languedoc
 Lan&iacute;n Volcano (Argentina and Chile)|=|Lanín
 Lannova vila (Prague, Czech Republic)|=|Villa Lanna
 Lansdowne, Battle of, England, 1643|=|Battle of Lansdowne
+Lan&uacute;s (Argentina)|=|Lanús
+Lan&uacute;s (Argentina : Partido)|=|Lanús Partido
 Laolao Bay (Northern Mariana Islands)|=|Laolao Bay
 Lap dancing|<->|Lap dance
 Laplace transformation|=|Laplace transform
@@ -16339,6 +16375,7 @@ Le Conte Glacier (Alaska)|=|LeConte Glacier
 Le Grand-Luc&eacute; (France)|=|Le Grand-Lucé
 Le Hamel (Amiens, France)|=|Le Hamel, Somme
 Le Hamel, Battle of, Le Hamel, Amiens, France, 1918|=|Battle of Hamel
+Le Maire Strait (Argentina)|=|Le Maire Strait
 Le Mans (France)|=|Le Mans
 Le Mans automobile|<->|Pontiac LeMans
 Le Mans, Battle of, Le Mans, France, 1871|=|Battle of Le Mans
@@ -16631,6 +16668,7 @@ Lima (Peru)|=|Lima
 Lima (Peru) -- History|=|History of Lima
 Lima (Peru) -- History -- Siege, 1881-1883|<->|Occupation of Lima
 Limanowa, Battle of, Limanowa, Poland, 1914|=|Battle of Limanowa
+Limay River (Argentina)|=|Limay River
 Limba (African people)|=|Limba people (Sierra Leone)
 Limber pine|=|Pinus flexilis
 Limbo (Computer program language)|=|Limbo (programming language)
@@ -16647,6 +16685,7 @@ Limes (Roman boundary)|=|Limes
 Limnos (Greece : Municipality)|<->|Lemnos
 Limoges (France)|=|Limoges
 Limulus polyphemus|=|Atlantic horseshoe crab
+Lincoln (Argentina : Partido)|=|Lincoln Partido
 Lincoln (Bomber)|=|Avro Lincoln
 Lincoln, Abraham, 1809-1865 -- Assassination|=|Assassination of Abraham Lincoln
 Lincoln, Abraham, 1809-1865 -- Bibliography|<->|Bibliography of Abraham Lincoln
@@ -16726,6 +16765,7 @@ Lissa, Battle of, 1866|=|Battle of Lissa (1866)
 Lissotriton vulgaris|<->|Smooth newt
 List processing (Electronic computers)|<->|List (abstract data type)
 Litchfield Hills (Conn.)|=|Litchfield Hills
+Litchi|=|Lychee
 Literacy tests (Election law)|<->|Literacy test
 Literary forgeries and mystifications|<->|Literary forgery
 Literary form|<->|Literary genre
@@ -17575,6 +17615,7 @@ Mano (African people)|=|Mano people
 M&amacr;noa Valley (Hawaii)|<->|Manoa
 Manor Class (Steam locomotives)|=|GWR 7800 Class
 Manors|=|Manor
+Manos Cave (Argentina)|=|Cueva de las Manos
 Manpower|<->|Human resources
 Manpower planning|->|Human resource management
 Mansaka (Philippine people)|->|Lumad
@@ -22291,6 +22332,7 @@ Periodicals|=|Periodical literature
 Periodontics|=|Periodontology
 Perinatal death|=|Perinatal mortality
 Perinatology|<->|Maternal–fetal medicine
+Peripatetics|=|Peripatetic school
 Perissodactyla|=|Odd-toed ungulate
 Perkins family|<->|Perkins
 Perl (Computer program language)|=|Perl
@@ -22357,6 +22399,7 @@ Pescatarian cooking|<->|Pescetarianism
 Pescia (Italy)|=|Pescia
 Peshtigo River (Wis.)|=|Peshtigo River
 Peshtigo River State Forest (Wis.)|=|Peshtigo River State Forest
+Peso, Mexican|=|Mexican peso
 Pesticides|=|Pesticide
 Pests|=|Pest (organism)
 Pests -- Biological control|<->|Biological pest control
@@ -22504,6 +22547,7 @@ PHP (Computer program language)|=|PHP
 Phrar&amacr;tchawang Dusit (Bangkok, Thailand)|=|Dusit Palace
 Phrourio Patr&omacr;n (Patra, Greece)|<->|Patras Castle
 Phrygian caps|=|Phrygian cap
+Phrynosoma hernandesi|=|Greater short-horned lizard
 Phrynosoma modestum|=|Roundtail horned lizard
 Phunoi (Southeast Asian people)|=|Phunoi people
 Physical anthropology|=|Biological anthropology
@@ -22729,6 +22773,7 @@ Pl&abreve;m&abreve;deal&abreve; family|<->|Plămădeală
 Plan of salvation (Mormon theology)|=|Plan of salvation (Latter Day Saints)
 Planck (Artificial satellite)|<->|Planck (spacecraft)
 Planetary hours (Astrology)|=|Planetary hours
+Planetary nebulae|=|Planetary nebula
 Planets|=|Planet
 Planets -- Geology|->|Planetary geology
 Plankalk&uuml;l (Computer program language)|=|Plankalkül
@@ -22776,6 +22821,7 @@ Plaza San Mart&iacute;n (Buenos Aires, Argentina)|=|Plaza San Martín (Buenos Ai
 Plaza Vieja (Havana, Cuba)|=|Plaza Vieja, Havana
 Plazas|=|Plaza
 Plazuelas Site (Mexico)|=|Plazuelas
+Plea bargaining|<->|Plea bargain
 Pleas (Criminal procedure)|=|Plea
 Pleasure Island (Wakefield, Mass.)|=|Pleasure Island (Massachusetts amusement park)
 Plebs (Rome)|=|Plebs
@@ -22834,6 +22880,7 @@ Pogradec (Albania : Rrethi)|=|Pogradec District
 Pogroms -- Russia|<->|Anti-Jewish pogroms in the Russian Empire
 Pohnpei (Micronesia)|=|Pohnpei State
 Pohnpei Island (Micronesia)|=|Pohnpei
+Poi|<->|Poi (food)
 Point Arena Lighthouse (Mendocino County, Calif.)|=|Point Arena Light
 Point Beach Nuclear Power Plant (Wis.)|=|Point Beach Nuclear Plant
 Point Breeze (Philadelphia, Pa.)|=|Point Breeze, Philadelphia
@@ -23515,6 +23562,7 @@ Proteus (Bacteria)|=|Proteus (bacterium)
 Proteus (Greek deity)|=|Proteus
 Protheses (Architecture)|<->|Prothesis (altar)
 Proto-Li language|<->|Proto-Hlai language
+Proto-planetary nebulae|=|Protoplanetary nebula
 Proto-Slavic language|=|Proto-Slavic
 Protocols of the wise men of Zion|=|The Protocols of the Elders of Zion
 Proven&ccedil;al language|->|Occitan language
@@ -23584,6 +23632,7 @@ Psychotropic plants|<->|Psychoactive plant
 Psychrolutes marcidus|=|Blobfish
 Psychrolutes phrictus|=|Blob sculpin
 PT-109 (Torpedo boat)|=|Motor Torpedo Boat PT-109
+Pterois volitans|=|Red lionfish
 Public baths|<->|Public bathing
 Public buildings|->|Building
 Public Garden (Boston, Mass.)|=|Public Garden (Boston)
@@ -23728,6 +23777,7 @@ QBasic (Computer program language)|<->|QBasic
 Qe&lstrok;at&icirc; Hewl&ecirc;r (Irbil, Iraq)|=|Citadel of Erbil
 Qi (Chinese philosophy)|=|Qi
 Qi gong|=|Qigong
+Qiblah|=|Qibla
 Qikiqtaaluk Region (Nunavut)|=|Qikiqtaaluk Region
 Qingdao (China)|=|Qingdao
 Qingdao (China) -- History -- Siege, 1914|=|Siege of Tsingtao
@@ -24881,6 +24931,7 @@ Rudolph the Red-nosed Reindeer (Fictitious character)|=|Rudolph the Red-Nosed Re
 Rue Sainte-Catherine (Montr&eacute;al, Qu&eacute;bec)|=|Saint Catherine Street
 Ruff (Bird)|=|Ruff
 Ruffian (Race horse)|=|Ruffian (horse)
+Rufino (Argentina)|=|Rufino, Santa Fe
 Rufous scrub-bird|=|Rufous scrubbird
 Rug cleaning|<->|Carpet cleaning
 Rugby football for women|<-|Women's rugby league
@@ -25381,6 +25432,7 @@ Sankt Michael, Battle of, Sankt Michael in Obersteiermark, Austria, 1809|=|Battl
 Sankt Michael in Obersteiermark (Austria)|=|Sankt Michael in Obersteiermark
 Sanmenxia Shi (China)|<->|Sanmenxia
 Sans serif type|=|Sans-serif
+Sansculottes|=|Sans-culottes
 Sanskrit language|=|Sanskrit
 Sanskrit language -- Grammar|=|Sanskrit grammar
 Sanskrit literature|<->|Vedic and Sanskrit literature
@@ -26767,6 +26819,7 @@ SlutWalk movement|=|SlutWalk
 SM-4 (Computer)|=|SM-4
 SM.79 (Bomber)|=|Savoia-Marchetti SM.79
 Small-C (Computer program language)|=|Small-C
+Small-leaved linden|=|Tilia cordata
 Smallest House in Great Britain (Conwy, Wales)|=|Smallest House in Great Britain
 Smalltalk-80 (Computer program language)|->|Smalltalk
 Smalltalk (Computer program language)|=|Smalltalk
@@ -27464,6 +27517,7 @@ Stenella (Mammals)|=|Stenella
 Stenella attenuata|=|Pantropical spotted dolphin
 Stenella longirostris|=|Spinner dolphin
 STEP 5 (Computer program language)|->|Simatic S5 PLC
+Step dancing|<->|Step dance
 Stepfamilies|=|Stepfamily
 Stephen (Name)|=|Stephen
 Stephens-Black House and General Store (New York, N.Y.)|<->|The Stephens-Black House
@@ -28277,6 +28331,7 @@ Tarija (Bolivia : Department)|=|Tarija Department
 Tarkhan dynasty, 1554-1591|=|Tarkhan dynasty
 Tarkhan Site (Egypt)|=|Tarkhan (Egypt)
 Tarn River (France)|=|Tarn (river)
+Taro|<->|Colocasia esculenta
 Tarok (African people)|=|Tarok people
 Tarqui, Battle of, Ecuador, 1829|=|Battle of Tarqui
 Tarragona (Spain)|=|Tarragona
@@ -28435,6 +28490,7 @@ Tempel 1 comet|=|Tempel 1
 Tempel 2 comet|=|10P/Tempel
 Temperate forests|=|Temperate forest
 Temperate rain forests|=|Temperate rainforest
+Temperature lapse rate|=|Lapse rate
 Tempest automobile|=|Pontiac Tempest
 Templars|=|Knights Templar
 Template matching (Digital image processing)|=|Template matching
@@ -28652,6 +28708,7 @@ Thermals (Meteorology)|=|Thermal
 Thermopolis, Mia (Fictitious character)|->|The Princess Diaries
 Thermopylae, Battle of, Greece, 480 B.C.|=|Battle of Thermopylae
 Thermoresponsive polymers|=|Temperature-responsive polymer
+Thesauri|=|Thesaurus
 Theseus, King of Athens|=|Theseus
 Thessalonik&emacr; (Greece)|=|Thessaloniki
 Thessalonik&emacr; (Greece) -- History|=|History of Thessaloniki
@@ -29767,6 +29824,7 @@ Umatilla National Forest (Agency : U.S.)|->|Umatilla National Forest
 Umatilla National Forest (Or. and Wash.)|=|Umatilla National Forest
 Umatilla National Wildlife Refuge (Or. and Wash.)|=|Umatilla National Wildlife Refuge
 Umatilla River (Or.)|=|Umatilla River
+Umayyad dynasty|<->|Umayyad Caliphate
 Umbach family|<->|Umbach (surname)
 Umbanda (Cult)|=|Umbanda
 Umbrellas|=|Umbrella
@@ -31215,6 +31273,7 @@ Wetlands|=|Wetland
 Wetzlar (Germany)|=|Wetzlar
 Wexford (Ireland : County)|=|County Wexford
 Wexford, Inspector (Fictitious character)|<->|Inspector Wexford
+Whalebone|<->|Baleen
 Whales|=|Whale
 Whales, Bay of (Antarctica)|=|Bay of Whales
 Whaling ships|=|Whaler
