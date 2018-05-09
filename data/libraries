@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2018-05-05
-# Next set of libraries to check: UK and down
+# Last updated 2018-05-09
+# Next set of libraries to check: AK and down
 
 ID OLBP
 NAME The Online Books Page
@@ -1639,9 +1639,8 @@ ID OCLC-EDJ
 NAME Edinburgh City Libraries
 LOCATION Edinburgh, Scotland
 COUNTRY UK
-CATTYPE prismhosted
-BASEURL http://capitadiscovery.co.uk/edinburgh
-FILTERS S
+BASEURL https://yourlibrary.edinburgh.gov.uk/web/arena
+CATTYPE arenacode
 
 ID OCLC-ESSEX
 NAME Essex Libraries
@@ -1792,10 +1791,8 @@ ID OCLC-UKCST
 NAME Newcastle Libraries
 LOCATION Newcastle upon Tyne, England
 COUNTRY UK
-BASEURL https://library.newcastle.gov.uk/web/arena
-CATTYPE arenacode
-FILTERS S
-LCODE 687834046
+BASEURL https://libraries.newcastle.gov.uk
+CATTYPE koha
 
 # Get "unexpected error", but search seems to work (unlike before)
 ID OCLC-EUN
@@ -2097,7 +2094,7 @@ ID OCLC-AL5CW
 NAME Baldwin County Library Cooperative
 LOCATION Public libraries in Baldwin County
 STATE AL
-BASEURL http://www.baldwincat.org:8080/
+BASEURL https://baldwin.tlcdelivers.com/
 CATTYPE ls2pac
 FILTERS S
 
