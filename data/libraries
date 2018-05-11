@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2018-05-09
-# Next set of libraries to check: AK and down
+# Last updated 2018-05-10
+# Next set of libraries to check: AR and down
 
 ID OLBP
 NAME The Online Books Page
@@ -2198,11 +2198,8 @@ ID OCLC-XYV
 NAME Alaska State Court Law Library
 LOCATION Anchorage and 15 other branches
 STATE AK
-BASEURL http://ascll.ipac.sirsidynix.net
-CATTYPE ipac20
-PROFILE pub
-SINDEX .SW
-FILTERS N
+BASEURL https://a50019.eos-intl.net/A50019/OPAC/Search/AdvancedSearch.aspx
+CATTYPE eosweb
 
 ID OCLC-AMLGC
 NAME Anchorage Public Library
@@ -2280,8 +2277,11 @@ ID OCLC-AZS
 NAME Arizona State University Libraries
 LOCATION Tempe and other campuses
 STATE AZ
-CATTYPE summon
-BASEURL http://asu.summon.serialssolutions.com
+CATTYPE primodl-scope
+BASEURL https://arizona-asu-primo.hosted.exlibrisgroup.com
+VID 01ASU
+LCODE 01ASU_INST
+SCOPE Everything
 
 ID OCLC-O6C
 NAME Chandler Public Library
@@ -2315,8 +2315,11 @@ ID OCLC-AZN
 NAME Northern Arizona University, Cline Library
 LOCATION Flagstaff
 STATE AZ
-BASEURL http://cline.lib.nau.edu
-CATTYPE webpacpro
+CATTYPE primodl-scope
+BASEURL https://arizona-nau-primo.hosted.exlibrisgroup.com
+VID 01NAU
+LCODE 01NAU
+SCOPE Everything
 
 ID OCLC-1PN
 NAME Phoenix Public Library
