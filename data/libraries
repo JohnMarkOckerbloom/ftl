@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2018-05-10
-# Next set of libraries to check: AR and down
+# Last updated 2018-05-30
+# Next set of libraries to check: CA and down
 
 ID OLBP
 NAME The Online Books Page
@@ -307,6 +307,13 @@ LOCATION Adelaide and other campuses, South Australia
 COUNTRY AU
 CATTYPE primo-justquery
 BASEURL http://search.library.unisa.edu.au/?
+
+ID OCLC-LS1
+NAME University of Sydney
+LOCATION Sydney, New South Wales
+COUNTRY AU
+CATTYPE summon
+BASEURL https://usyd.summon.serialssolutions.com
 
 ID OCLC-T4Z
 NAME University of Tasmania
@@ -2466,8 +2473,8 @@ NAME California State University, Sacramento (Sacramento State)
 LOCATION Sacramento
 STATE CA
 CATTYPE primodl
-BASEURL http://onesearch.csus.edu:1701
-VID SACRAMENTO
+BASEURL https://csus-primo.hosted.exlibrisgroup.com
+VID 01CALS_USL
 LCODE 01CALS_USL
 
 ID OCLC-CIT
@@ -2482,7 +2489,7 @@ NAME Chula Vista Public Library
 LOCATION Chula Vista
 STATE CA
 CATTYPE encorekey
-BASEURL http://encore.chulavista.lib.ca.us/iii/encore
+BASEURL http://encore.chulavistaca.gov/iii/encore
 SKIN def
 
 ID OCLC-CCS
@@ -2686,7 +2693,7 @@ ID OCLC-CPP
 NAME Pasadena Public Library
 LOCATION Pasadena
 STATE CA
-BASEURL http://pgpl-mt.iii.com/iii/encore_pasadena
+BASEURL http://pasadena.iii.com/iii/encore
 CATTYPE encore
 
 ID OCLC-CZP
@@ -2771,15 +2778,18 @@ ID OCLC-SJP
 NAME San Jose Public Library
 LOCATION San Jose
 STATE CA
-BASEURL http://discover.sjlibrary.org/iii/encore_sjpl
+BASEURL http://discover.sjlibrary.org/iii/encore
 CATTYPE encore
 
 ID OCLC-2CS
 NAME San Jose State University
 LOCATION San Jose
 STATE CA
-BASEURL http://discover.sjlibrary.org/iii/encore_sjsu
-CATTYPE encore
+CATTYPE primodl-scope
+BASEURL https://sjsu-primo.hosted.exlibrisgroup.com
+VID 01CALS_SJO
+LCODE 01CALS_SJO
+SCOPE EVERYTHING
 
 ID OCLC-JTW
 NAME San Leandro Public Library
@@ -2937,9 +2947,11 @@ ID OCLC-CUT
 NAME University of California Santa Barbara
 LOCATION Santa Barbara
 STATE CA
-CATTYPE alephcuny
-BASEURL http://pegasus.library.ucsb.edu
-LCODE SBA01PUB
+CATTYPE primodl-scope
+BASEURL https://ucsb-primo.hosted.exlibrisgroup.com
+VID UCSB
+LCODE 01UCSB_INST
+SCOPE default_scope
 
 ID OCLC-CSL
 NAME USC: University of Southern California
