@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2018-05-30
-# Next set of libraries to check: CA and down
+# Last updated 2018-06-19
+# Next set of libraries to check: CO and down
 
 ID OLBP
 NAME The Online Books Page
@@ -2417,6 +2417,14 @@ PROFILE z
 SINDEX SUBJECT
 TINDEX ALLTITL
 
+ID OCLC-JUA
+NAME Benecia Public Library
+LOCATION Benecia
+STATE CA
+CATTYPE ls2pac-config
+CONFIG BENICIA
+BASEURL http://ls2pac.splashlibraries.org/
+
 ID OCLC-JQF
 NAME Berkeley Public Library
 LOCATION Berkeley
@@ -2535,6 +2543,14 @@ STATE CA
 BASEURL https://deanza.worldcat.org/search
 CATTYPE worldcat
 
+ID OCLC-JTK
+NAME Dixon Public Library
+LOCATION Dixon
+STATE CA
+CATTYPE ls2pac-config
+CONFIG dixon 
+BASEURL http://ls2pac.splashlibraries.org/
+
 ID OCLC-JQR
 NAME Fresno County Public Library
 LOCATION Fresno and vicinity
@@ -2644,6 +2660,13 @@ LOCATION Mountain View
 STATE CA
 BASEURL http://encore.mountainview.gov/iii/encore
 CATTYPE encore
+
+ID OCLC-JRI
+NAME Napa County Library
+LOCATION Napa County
+STATE CA
+BASEURL http://napa.polarislibrary.com/polaris
+CATTYPE polaris
 
 ID OCLC-CNB
 NAME Newport Beach Public Library
@@ -2835,14 +2858,13 @@ STATE CA
 CATTYPE bibliocommons
 BASEURL https://marinet.bibliocommons.com
 
-ID OCLC-JDTBL
-NAME SNAP: Solano, Napa and Partners Library Consortium
-LOCATION Solano and Napa counties
+ID OCLC-JTD
+NAME Solano County Library
+LOCATION Solano County
 STATE CA
-CATTYPE carlweb
-BASEURL http://carlweb.snap.lib.ca.us/carlweb
-DBID 240
-FILTERS N
+CATTYPE ls2pac-config
+CONFIG SOLANO
+BASEURL http://ls2pac.splashlibraries.org/
 
 ID OCLC-JTH
 NAME Sonoma County Library
@@ -2857,6 +2879,14 @@ LOCATION Rohnert Park
 STATE CA
 BASEURL http://library.calstate.edu/sonoma
 KEYURL ${BASEURL}/combined/results?query=${ARG:NK}
+
+ID OCLC-JTJ
+NAME St. Helena Public Library
+LOCATION St. Helena
+STATE CA
+CATTYPE ls2pac-config
+CONFIG stheln
+BASEURL http://ls2pac.splashlibraries.org/
 
 ID OCLC-STF
 NAME Stanford University Libraries
@@ -4057,8 +4087,8 @@ ID OCLC-CGU
 NAME University of Chicago Library
 LOCATION Chicago
 STATE IL
-CATTYPE aquabrowser
-BASEURL http://lens.lib.uchicago.edu
+CATTYPE vufind
+BASEURL https://catalog.lib.uchicago.edu/vufind
 
 ID OCLC-IAY
 NAME University of Illinois-Chicago Library
@@ -5032,8 +5062,11 @@ ID OCLC-HLS
 NAME Harvard Library
 LOCATION Cambridge
 STATE MA
-CATTYPE aquabrowser
-BASEURL http://hollis.harvard.edu
+CATTYPE primodl-scope
+BASEURL https://hollis.harvard.edu
+VID HVD2
+LCODE HVD2
+SCOPE everything
 
 ID OCLC-QWQ
 NAME J. V. Fletcher Library
@@ -6814,7 +6847,7 @@ NAME Western Plains Library System
 LOCATION Custer, Dewey, Roger Mills and Washita counties
 STATE OK
 CATTYPE ls2pac-config
-LCODE ysm
+CONFIG ysm
 BASEURL http://pac.wplibs.com:8000/
 
 ID OCLC-ABY
@@ -7054,7 +7087,7 @@ NAME Cranberry Public Library
 LOCATION Cranberry Township, Butler County
 STATE PA
 CATTYPE ls2pac-config
-LCODE Cranberry
+CONFIG Cranberry
 BASEURL http://opac.bcfls.org/
 
 ID OCLC-L@L
