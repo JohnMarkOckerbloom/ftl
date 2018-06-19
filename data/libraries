@@ -5242,8 +5242,9 @@ ID OCLC-EYP
 NAME Detroit Public Library
 LOCATION Detroit
 STATE MI
-CATTYPE sirsi
-BASEURL http://dplopac.detroitpubliclibrary.org/uhtbin/cgisirsi
+CATTYPE sirsient
+BASEURL https://detp.ent.sirsi.net
+LCODE en_US/default
 
 ID OCLC-EYE
 NAME Eastern Michigan University
@@ -5334,6 +5335,14 @@ CATTYPE sirsient
 BASEURL http://plym.ent.sirsi.net
 LCODE en_US/default
 
+ID OCLC-ER2
+NAME Traverse Area District Library
+LOCATION Traverse City and vicinity
+STATE MI
+BASEURL https://catalog.tadl.org/search?
+CATTYPE evergreen-general
+FILTERS SNK
+
 ID OCLC-ELM
 NAME University of Michigan Library
 LOCATION Ann Arbor
@@ -5358,6 +5367,14 @@ CATTYPE primodl-scope
 VID 01WMU
 LCODE 01WMU
 SCOPE EVERYTHING
+
+ID OCLC-EEW
+NAME Willard Library
+LOCATION Battle Creek
+STATE MI
+CATTYPE sirsient
+BASEURL https://wlrd.ent.sirsi.net
+LCODE en_US/default
 
 ID OCLC-DUD
 NAME Duluth Public Library

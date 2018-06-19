@@ -223,6 +223,14 @@ TITURL ${BASEURL}/results?locg=${LCODE}&qtype=title&query=${ARG}
 KEYURL ${BASEURL}/results?locg=${LCODE}&qtype=keyword&query=${ARG}
 DEFAULT DOMAIN
 
+# same as evergreen, but with more control over URL search term,s
+CATTYPE evergreen-general
+SUBURL ${BASEURL}qtype=subject&query=${ARG}
+AUTURL ${BASEURL}qtype=author&query=${ARG}
+TITURL ${BASEURL}qtype=title&query=${ARG}
+KEYURL ${BASEURL}qtype=keyword&query=${ARG}
+DEFAULT DOMAIN
+
 # Explorit often has "powered by Deep Web technologies" note
 CATTYPE explorit
 AUTURL ${BASEURL}/result-list/author:${ARG}/
