@@ -3010,9 +3010,8 @@ ID OCLC-CO3
 NAME Boulder Public Library
 LOCATION Boulder
 STATE CO
-BASEURL http://nell.boulderlibrary.org/
-CATTYPE iii-consortium-member
-LCODE 7
+CATTYPE vufindgeneral
+BASEURL https://boulder.flatironslibrary.org/Union/Search
 
 ID PROSPECTOR
 NAME Colorado Alliance of Research Libraries: Prospector
@@ -3025,12 +3024,10 @@ ID OCLC-COF
 NAME Colorado State University
 LOCATION Fort Collins
 STATE CO
-CATTYPE vufindgeneral
-BASEURL http://discovery.library.colostate.edu/Search/Home
-SINDEX subject
-AINDEX author
-TINDEX title
-KINDEX all
+CATTYPE primodl-scope
+BASEURL https://colostate-primo.hosted.exlibrisgroup.com
+VID 01COLSU
+SCOPE Everything
 
 ID OCLC-DPL
 NAME Denver Public Library
@@ -3051,8 +3048,15 @@ ID OCLC-QQ3
 NAME Jefferson County Public Library
 LOCATION Jefferson County
 STATE CO
-BASEURL http://encore.jefferson.lib.co.us/iii/encore
-CATTYPE encore
+BASEURL https://jeffcolibrary.bibliocommons.com
+CATTYPE bibliocommons
+
+ID OCLC-CNL
+NAME Longmont Public Library
+LOCATION Longmont
+STATE CO
+CATTYPE vufindgeneral
+BASEURL https://longmont.flatironslibrary.org/Union/Search
 
 ID OCLC-CQU
 NAME Pikes Peak Library District
@@ -6194,9 +6198,8 @@ ID OCLC-NAB
 NAME Nassau Library System
 LOCATION ALISCat: Public libraries in Nassau County, Long Island
 STATE NY
-CATTYPE iii-consortium-member
-BASEURL http://www.alisweb.org
-LCODE 60
+BASEURL http://encore.alisweb.org/iii/encore
+CATTYPE encore
 
 ID OCLC-ZNL
 NAME New York Law School
