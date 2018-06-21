@@ -6,7 +6,7 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation
-# Last updated 2018-06-18
+# Last updated 2018-06-21
 10 things I hate about you (Motion picture)|=|10 Things I Hate About You
 101 Dalmatians (Motion picture : 1996)|=|101 Dalmatians (1996 film)
 102 Dalmatians (Motion picture)|=|102 Dalmatians
@@ -95,7 +95,9 @@ Across the universe (Motion picture)|=|Across the Universe (film)
 Act of valor (Motion picture)|=|Act of Valor
 Actress (Motion picture : 2014)|=|Actress (film)
 Adaptation (Motion picture)|=|Adaptation (film)
-Addams family (Motion picture)|=|The Addams Family (film)
+Addams family (Motion picture)|=|The Addams Family (1991 film)
+Addams family (Television program)|<->|The Addams Family (1964 TV series)
+Addams family (Television program : 1992)|=|The Addams Family (1992 animated series)
 Addams Family values (Motion picture)|=|Addams Family Values
 Addiction (Motion picture : 1995)|=|The Addiction
 Adjuster (Motion picture)|=|The Adjuster
@@ -420,6 +422,7 @@ Asphalt jungle (Motion picture)|=|The Asphalt Jungle
 Assassination of Jesse James by the coward Robert Ford (Motion picture)|=|The Assassination of Jesse James by the Coward Robert Ford
 Assault on Precinct 13 (Motion picture : 1976)|=|Assault on Precinct 13 (1976 film)
 Assault on Precinct 13 (Motion picture : 2005)|=|Assault on Precinct 13 (2005 film)
+Asterisk (Computer file)|=|Asterisk (PBX)
 Astro Boy (Motion picture : 2009)|=|Astro Boy (film)
 Astronaut's wife (Motion picture)|=|The Astronaut's Wife
 At close range (Motion picture)|=|At Close Range
@@ -2677,6 +2680,7 @@ General's daughter (Motion picture : 1999)|=|The General's Daughter (film)
 Genesis (Musical group). Lamb lies down on Broadway|<->|The Lamb Lies Down on Broadway
 Germany. Treaties, etc. Soviet Union, 1922 April 16|<->|Treaty of Rapallo (1922)
 Germany. Treaties, etc. Soviet Union, 1939 August 23|=|Molotov–Ribbentrop Pact
+GIMP (Computer file)|=|GIMP
 Git (Computer file)|=|Git
 Gmail (Electronic resource)|=|Gmail
 GNU Emacs|<->|Emacs
@@ -2739,6 +2743,7 @@ IDA Pro (Electronic resource)|<->|Interactive Disassembler
 Indaba Music (Electronic resource)|<->|Indaba Music
 Inferno (Electronic resource)|<->|Inferno (operating system)
 INFORMIX Dynamic server|->|IBM Informix
+Ingres (Computer file)|=|Ingres (database)
 Inkscape (Electronic resource)|=|Inkscape
 Inspector George Gently (Television program)|=|Inspector George Gently
 Inter-American Treaty of Reciprocal Assistance (1947 September 2)|=|Inter-American Treaty of Reciprocal Assistance
@@ -2874,6 +2879,7 @@ Mahout (Electronic resource)|=|Apache Mahout
 Majo no takky&umacr;bin (Motion picture)|=|Kiki's Delivery Service
 Majo no takky&umacr;bin (Motion picture : 2014)|=|Kiki's Delivery Service (2014 film)
 Mannix (Television program)|=|Mannix
+MapReduce (Computer file)|<->|MapReduce
 Mathematica (Computer file)|=|Wolfram Mathematica
 McCartney, Paul. All you need is love|=|All You Need Is Love
 McCartney, Paul. Distractions|->|Flowers in the Dirt
@@ -2893,11 +2899,13 @@ MH (Computer file)|=|MH Message Handling System
 Mickey's Christmas carol (Motion picture)|=|Mickey's Christmas Carol
 Mickey's Twice upon a Christmas (Motion picture)|=|Mickey's Twice Upon a Christmas
 Microsoft Content management server (Electronic resource)|=|Microsoft Content Management Server
+Microsoft Flight simulator (Computer file)|<->|Microsoft Flight Simulator
 Microsoft .NET Framework|=|.NET Framework
 Microsoft .NET Gadgeteer|=|.NET Gadgeteer
 Microsoft .NET My Services|=|.NET My Services
 Microsoft SharePoint (Electronic resource)|=|SharePoint
 Microsoft Virtual PC (Electronic resource)|<->|Windows Virtual PC
+Microsoft Windows (Computer file)|=|Microsoft Windows
 Middle of nowhere (Motion picture : 2012)|=|Middle of Nowhere (2012 film)
 Miss Julie (Motion picture : 1999)|=|Miss Julie (1999 film)
 Miss Julie (Motion picture : 2014)|=|Miss Julie (2014 film)
@@ -2907,6 +2915,7 @@ Modern family (Television program)|=|Modern Family
 Mondrian (Electronic resource)|<->|Mondrian OLAP server
 Mononoke-hime|=|Princess Mononoke
 Moretti, Giuseppe, 1857 or 1859-1935. Vulcan|<->|Vulcan statue
+Motif (Computer file)|<->|Motif (software)
 Motion (Electronic resource)|=|Motion (software)
 Mudbox (Electronic resource)|=|Autodesk Mudbox
 Munich Four-Power Agreement (1938)|=|Munich Agreement
@@ -3008,7 +3017,9 @@ Rouget de Lisle, Claude Joseph, 1760-1836. Marseillaise|=|La Marseillaise
 'Round midnight (Motion picture)|=|Round Midnight (film)
 Rounders (Motion picture : 1914)|=|The Rounders (1914 film)
 Rounders (Motion picture : 1998)|=|Rounders (film)
+RPM (Computer file)|=|Rpm (software)
 Ruby on rails (Electronic resource)|=|Ruby on Rails
+Samba (Computer file)|<->|Samba (software)
 Saint-Gaudens, Augustus, 1848-1907. Robert Gould Shaw memorial (Bronze sculpture)|=|Robert Gould Shaw Memorial
 San Lorenzo Treaty, 1795|=|Pinckney's Treaty
 SAP HANA (Electronic resource)|=|SAP HANA
@@ -3119,6 +3130,7 @@ Terminator 2 (Motion picture)|=|Terminator 2: Judgment Day
 Terminator 3 (Motion picture)|=|Terminator 3: Rise of the Machines
 Terminator salvation (Motion picture)|=|Terminator Salvation
 Terminfo (Computer file)|=|Terminfo
+TeX (Computer file)|=|TeX
 Thelma &amp; Louise (Motion picture)|=|Thelma & Louise
 Them thar hills (Motion picture)|=|Them Thar Hills
 Theophilos (Motion picture : 1987)|=|Theofilos (film)
@@ -3385,6 +3397,7 @@ United States. Uniting and Strengthening America by Providing Appropriate Tools 
 United States. Voting Rights Act of 1965|=|Voting Rights Act of 1965
 United States. War Powers Resolution|<->|War Powers Resolution
 Unity (Electronic resource)|=|Unity (game engine)
+UNIX (Computer file)|<->|Unix
 Vasv&aacute;r, Treaty of, 1664|=|Peace of Vasvár
 Vaughan Williams, Ralph, 1872-1958. Blake songs|=|Ten Blake Songs
 Vaughan Williams, Ralph, 1872-1958. Concerto grosso, string orchestra|=|Concerto Grosso (Vaughan Williams)
@@ -3462,3 +3475,4 @@ Xena, warrior princess (Television program)|=|Xena: Warrior Princess
 xmh (Computer file)|->|MH Message Handling System
 Yes (Musical group). Close to the edge|<->|Close to the Edge
 YouTube (Electronic resource)|=|YouTube
+Zope (Computer file)|<->|Zope
