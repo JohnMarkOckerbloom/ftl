@@ -5,7 +5,7 @@
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
 # Last updated 2018-06-26
-# Next set of libraries to check: FL and down
+# Next set of libraries to check: ID and down
 
 ID OLBP
 NAME The Online Books Page
@@ -3312,6 +3312,13 @@ STATE DC
 CATTYPE summon
 BASEURL http://american.summon.serialssolutions.com
 
+ID OCLC-1CU
+NAME Catholic University of America
+LOCATION Washington
+STATE DC
+CATTYPE summon
+BASEURL http://cua.summon.serialssolutions.com
+
 ID OCLC-DAW
 NAME DC Public Library
 LOCATION Washington
@@ -3677,8 +3684,8 @@ ID OCLC-GRA
 NAME Athens-Clarke County Library
 LOCATION Athens
 STATE GA
-BASEURL http://gapines.org/opac/en-US
-CATTYPE evergreen
+CATTYPE evergreen-dynamic
+BASEURL http://gapines.org/eg/opac
 LCODE 7
 
 ID OCLC-AFPLS
@@ -3713,9 +3720,8 @@ ID OCLC-GDK
 NAME DeKalb County Public Library
 LOCATION DeKalb County
 STATE GA
-BASEURL http://dekalb.ipac.sirsidynix.net
-CATTYPE ipac20
-PROFILE dcpl
+BASEURL http://dekalb.polarislibrary.com/polaris
+CATTYPE polaris
 
 ID OCLC-EMU
 NAME Emory University Libraries
@@ -3784,8 +3790,9 @@ ID OCLC-GSC
 NAME Live Oak Public Libraries
 LOCATION Savannah; Chatham, Effingham and Liberty Counties
 STATE GA
-CATTYPE sirsi
-BASEURL http://webcat.liveoakpl.org/uhtbin/cgisirsi
+CATTYPE evergreen-dynamic
+BASEURL http://gapines.org/eg/opac
+LCODE LOPL
 
 ID OCLC-GSS
 NAME Savannah State University
@@ -3807,6 +3814,15 @@ LOCATION Carrollton
 STATE GA
 BASEURL http://gilfind.westga.edu/vufind
 CATTYPE vufind
+
+# using the ID for Hawaii State Library as surrogate for whole system
+ID OCLC-HISPL
+NAME Hawaii State Public Library System
+LOCATION Public libraries throughout the state
+STATE HI
+CATTYPE sirsient
+LCODE en_US/default
+BASEURL https://hawaii.sdp.sirsi.net
 
 ID OCLC-HUH
 NAME University of Hawaii at Manoa
