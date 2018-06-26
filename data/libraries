@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2018-06-19
-# Next set of libraries to check: CO and down
+# Last updated 2018-06-26
+# Next set of libraries to check: FL and down
 
 ID OLBP
 NAME The Online Books Page
@@ -729,6 +729,21 @@ PROVINCE ON
 CATTYPE encore
 BASEURL http://encore.barriepubliclibrary.ca/iii/encore
 
+ID OCLC-CNBPL
+NAME Burlington Public Library
+LOCATION Burlington
+PROVINCE ON
+CATTYPE encore
+BASEURL http://encore.bpl.on.ca/iii/encore
+
+ID OCLC-CEF
+NAME Carleton University
+LOCATION Ottawa
+PROVINCE ON
+BASEURL https://carletonu.summon.serialssolutions.com
+CATTYPE summon
+FILTERS S
+
 ID OCLC-WDTGS
 NAME Greater Sudbury Public Library
 LOCATION Sudbury and vicinity
@@ -801,6 +816,14 @@ PROVINCE ON
 CATTYPE sirsient
 LCODE mlsathome
 BASEURL http://miss.ent.sirsi.net
+
+ID OCLC-CNCAD
+NAME OCAD University, DH Hoover Library
+LOCATION Toronto
+PROVINCE ON
+BASEURL https://ocadu.summon.serialssolutions.com
+CATTYPE summon
+FILTERS S
 
 ID OCLC-CNOPL
 NAME Oshawa Public Libraries
