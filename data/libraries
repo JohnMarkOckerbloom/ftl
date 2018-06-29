@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2018-06-26
-# Next set of libraries to check: ID and down
+# Last updated 2018-06-29
+# Next set of libraries to check: IL and down
 
 ID OLBP
 NAME The Online Books Page
@@ -8291,6 +8291,14 @@ STATE VA
 CATTYPE encore
 BASEURL http://libcat.arlingtonva.us/iii/encore
 
+ID OCLC-VABCP
+NAME Bland County Public Library
+LOCATION Bland
+STATE VA
+CATTYPE ls2pac-config
+CONFIG ysm
+BASEURL https://bland.tlcdelivers.com:8480/
+
 ID OCLC-RR1
 NAME Central Rappahannock Regional Library
 LOCATION Fredericksburg and vicinity; Westmoreland county
@@ -8351,6 +8359,14 @@ STATE VA
 BASEURL https://catalog.library.loudoun.gov
 CATTYPE ls2pac
 
+ID OCLC-PEQ
+NAME Newport News Public Library
+LOCATION Newport News
+STATE VA
+BASEURL http://www.newportnewslib.org:8080
+CATTYPE chamo
+FILTERS S
+
 ID OCLC-TWE
 NAME Norfolk Public Library
 LOCATION Norfolk
@@ -8376,8 +8392,8 @@ ID OCLC-RVLOD
 NAME Roanoke Valley Libraries
 LOCATION Roanoke, Salem, and vicinity
 STATE VA
-BASEURL http://www.rvl.info/uhtbin/cgisirsi
-CATTYPE sirsi
+CATTYPE sirsient
+BASEURL https://rvl.ent.sirsi.net
 
 ID OCLC-VA@
 WCRID 5019
