@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2018-06-29
-# Next set of libraries to check: IL and down
+# Last updated 2018-07-05
+# Next set of libraries to check: LA and down
 
 ID OLBP
 NAME The Online Books Page
@@ -2727,6 +2727,13 @@ STATE CA
 BASEURL http://catalog.pacificgrovelibrary.org
 CATTYPE koha
 
+ID OCLC-CPU
+NAME Pacific Union College
+LOCATION Angwin
+STATE CA
+BASEURL https://catalog.puc.edu
+CATTYPE webpacpro
+
 ID OCLC-PAP
 NAME Palo Alto City Library
 LOCATION Palo Alto
@@ -4670,7 +4677,7 @@ NAME Rowan County Public Library
 LOCATION Morehead
 STATE KY
 CATTYPE ls2pac
-BASEURL http://24.172.156.147:8080/
+BASEURL http://rowan.tlcdelivers.com:8080/
 
 ID OCLC-KTC
 NAME Somerset Community College
