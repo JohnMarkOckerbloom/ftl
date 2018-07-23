@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2018-07-05
-# Next set of libraries to check: LA and down
+# Last updated 2018-07-23
+# Next set of libraries to check: ME and down
 
 ID OLBP
 NAME The Online Books Page
@@ -4758,15 +4758,14 @@ NAME Jefferson Parish Library
 LOCATION Jefferson Parish
 STATE LA
 CATTYPE sirsient
-BASEURL http://jeffp.ent.sirsi.net
+BASEURL https://jeffp.ent.sirsi.net
 
 ID OCLC-LR4
 NAME Lafourche Parish Public Library
 LOCATION Lafourche Parish
 STATE LA
-CATTYPE ls2pac
-BASEURL http://ls2.lafourche.org/
-FILTERS S
+CATTYPE eds
+LCODE s9099994
 
 ID OCLC-LUU
 NAME Louisiana State University
@@ -4796,7 +4795,7 @@ ID OCLC-LNC
 NAME New Orleans Public Library
 LOCATION New Orleans
 STATE LA
-BASEURL http://ipac.neworleanspubliclibrary.org/polaris
+BASEURL http://catalog.nolalibrary.org/polaris
 CATTYPE polaris
 
 ID OCLC-LNW
@@ -6186,6 +6185,7 @@ LOCATION Troy
 STATE NY
 CATTYPE ids
 LCODE VXV
+FILTERS S
 
 ID OCLC-VXI
 NAME Iona College
@@ -6193,6 +6193,13 @@ LOCATION New Rochelle
 STATE NY
 BASEURL https://iona.on.worldcat.org/external-search?queryString
 CATTYPE worldcat-config
+
+ID OCLC-9LI
+NAME Long Island University
+LOCATION Brooklyn, Post, and other campuses
+STATE NY
+BASEURL http://liucat.lib.liu.edu
+CATTYPE innopac
 
 ID OCLC-ZMC
 NAME Manhattan College
@@ -6276,7 +6283,7 @@ NAME New York State Library, Archives, and Museum
 LOCATION Albany
 STATE NY
 CATTYPE sirsi
-BASEURL http://nysl.nysed.gov/uhtbin/cgisirsi.exe
+BASEURL https://nyst.sirsi.net/uhtbin/cgisirsi
 
 ID OCLC-RTN
 NAME North Country Library System
@@ -6362,8 +6369,10 @@ ID OCLC-SUFFO
 NAME Suffolk County Libraries
 LOCATION Public libraries in Suffolk County, Long Island
 STATE NY
-BASEURL http://encore.suffolk.lib.ny.us/iii/encore
-CATTYPE encore
+#BASEURL http://encore.suffolk.lib.ny.us/iii/encore
+#CATTYPE encore
+BASEURL https://search.livebrary.com
+CATTYPE innopac
 
 ID OCLC-YOM
 NAME SUNY Oswego, Penfield Library
@@ -6402,7 +6411,7 @@ NAME University at Albany, SUNY
 LOCATION Albany
 STATE NY
 CATTYPE aleph1
-BASEURL http://p8991-libms1.albany.edu.libproxy.albany.edu
+BASEURL https://libms1.albany.edu
 TINDEX WTI
 
 ID OCLC-BUF
