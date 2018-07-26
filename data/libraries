@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2018-07-23
-# Next set of libraries to check: ME and down
+# Last updated 2018-07-25
+# Next set of libraries to check: MA and down
 
 ID OLBP
 NAME The Online Books Page
@@ -4928,6 +4928,13 @@ STATE MD
 CATTYPE eds
 LCODE s8994322
 
+ID OCLC-ESRLS
+NAME Eastern Shore Regional Library System
+LOCATION Public libraries on Maryland's Eastern Shore
+STATE MD
+BASEURL http://eshore.polarislibrary.com/polaris
+CATTYPE polaris
+
 ID OCLC-MDB
 NAME Enoch Pratt Free Library
 LOCATION Baltimore
@@ -5009,14 +5016,6 @@ LOCATION College Park
 STATE MD
 BASEURL https://umaryland.worldcat.org/search
 CATTYPE worldcat
-
-ID OCLC-RT9
-NAME Worcester County Library
-LOCATION Ocean City and vicinity
-STATE MD
-BASEURL http://heron.wico.lib.md.us
-CATTYPE iii-consortium-member
-LCODE 3
 
 ID OCLC-QWR
 NAME Beverly Public Library
