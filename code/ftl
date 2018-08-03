@@ -2,13 +2,13 @@
 
 # Main FTL (Forward to Libraries) CGI script
 # By John Mark Ockerbloom, University of Pennsylvania (everybodyslibraries.com)
-# Version as of 22 Aug 2014
+# Version as of 22 Aug 2014 (updated 1 Aug 2018 for https)
 #
 # Main FTL service currently runs at
-#   http://onlinebooks.library.upenn.edu/webbin/ftl
+#   https://onlinebooks.library.upenn.edu/webbin/ftl
 #
 # This code is made available, "as-is" and unsupported, under the
-# Educational Community License 2.0 (http://opensource.org/licenses/ecl2.php)
+# Educational Community License 2.0 (https://opensource.org/licenses/ecl2.php)
 # This code will *not* run out of the box, but depends on certain
 #  other code libraries and data files at Penn.  I may publish
 #  some of these in the future.  For now, this code may be helpful for 
@@ -30,7 +30,7 @@ use OLBP;
 use FTLConfig;
 use FTLLibraryRecord;
 
-my $ONLINEBOOKS_URL = "http://onlinebooks.library.upenn.edu/";
+my $ONLINEBOOKS_URL = "https://onlinebooks.library.upenn.edu/";
 my $ONLINEBOOKS_SOURCE = "OLBP";
 my $WIKIPEDIA_SOURCE   = "WKPD";
 
@@ -149,8 +149,8 @@ sub endpage {
     print "<hr><p align=center>FTL service provided by ";
     print "<a href=\"$ONLINEBOOKS_URL\">";
     print "The Online Books Page</a>, using data provided by ";
-    print qq!the <a href="http://www.loc.gov/">Library of Congress</a>, !;
-    print qq!<a href="http://www.oclc.org/">OCLC</a>, !;
+    print qq!the <a href="https://www.loc.gov/">Library of Congress</a>, !;
+    print qq!<a href="https://www.oclc.org/">OCLC</a>, !;
     print qq!<a href="https://en.wikipedia.org/">Wikipedia</a>, !;
     print "and other sources.";
     print "</p></body></html>\n";

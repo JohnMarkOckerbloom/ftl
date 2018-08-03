@@ -5,7 +5,7 @@ use OLBP;
 use Locale::Country;
 use strict;
 
-my $ONLINEBOOKS_URL = "http://onlinebooks.library.upenn.edu/";
+my $ONLINEBOOKS_URL = "https://onlinebooks.library.upenn.edu/";
 my $SUGGEST_LIBRARY_URL = $ONLINEBOOKS_URL . "/webbin/olbpcontact?type=library";
 
 my $liblistfile         = $FTL::IDXDIR . "libraries";

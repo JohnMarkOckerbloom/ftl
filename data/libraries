@@ -11,14 +11,14 @@ ID OLBP
 NAME The Online Books Page
 COUNTRY 00
 LOCATION Catalog of online books freely readable worldwide
-BASEURL http://onlinebooks.library.upenn.edu/webbin/book
+BASEURL https://onlinebooks.library.upenn.edu/webbin/book
 SOURCE library.upenn.edu/webbin/book|library.upenn.edu/webbin/serial|library.upenn.edu/webbin/work|library.upenn.edu/webbin/nbook
 SUBURL ${BASEURL}/browse?type=lcsubc&key=${ARG:N}
 AUTURL ${BASEURL}/lookupname?key=${ARG:N}
 TITURL ${BASEURL}/search?title=${ARG:N}&tmode=start
 ATIURL ${BASEURL}/search?author=${AUTHOR:SN}&amode=start&title=${TITLE:NA}&tmode=start&c=x
-FORWARDER http://onlinebooks.library.upenn.edu/webbin/ftl
-DEFAULT http://onlinebooks.library.upenn.edu/
+FORWARDER https://onlinebooks.library.upenn.edu/webbin/ftl
+DEFAULT https://onlinebooks.library.upenn.edu/
 
 ID OCLC-WCDGL
 NAME Worldcat.org
