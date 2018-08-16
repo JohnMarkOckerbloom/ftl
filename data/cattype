@@ -374,6 +374,16 @@ ATIURL ${BASEURL}query=creator,contains,${AUTHOR:NK}&query=title,contains,${TITL
 KEYURL ${BASEURL}query=any,contains,${ARG:NK}
 DEFAULT DOMAIN
 
+# New Primo VE syntax described at https://knowledge.exlibrisgroup.com/Primo/Product_Documentation/020Primo_VE/050Other_Configuration/Configuring_Redirection_for_Primo_VE_Deep_Links
+# Not clear if author+title search works as before, so not including
+CATTYPE primo-ve
+SCOPE EVERYTHING
+SUBURL ${BASEURL}/discovery/search?vid=${VID}&search_scope=${SCOPE}&query=sub,contains,${ARG:NK}
+AUTURL ${BASEURL}/discovery/search?vid=${VID}&search_scope=${SCOPE}&query=creator,contains,${ARG:NK}
+TITURL ${BASEURL}/discovery/search?vid=${VID}&search_scope=${SCOPE}&query=title,contains,${ARG:NK}
+KEYURL ${BASEURL}/discovery/search?vid=${VID}&search_scope=${SCOPE}&query=any,contains,${ARG:NK}
+DEFAULT DOMAIN
+
 # Primo deep link syntax described at
 # https://developers.exlibrisgroup.com/primo/apis/deeplinks
 CATTYPE primodl

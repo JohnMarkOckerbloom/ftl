@@ -3020,6 +3020,13 @@ STATE CA
 CATTYPE summon
 BASEURL http://usc.summon.serialssolutions.com
 
+ID OCLC-CWC
+NAME Whittier College
+LOCATION Whittier
+STATE CA
+BASEURL https://library.whittier.edu
+CATTYPE innopac
+
 ID OCLC-YOL
 NAME Yolo County Library
 LOCATION Yolo County
@@ -5246,6 +5253,15 @@ VID 01WIL
 LCODE 01WIL
 SCOPE everything_scope
 
+ID OCLC-WPG
+NAME Worcester Polytechnic Institute
+LOCATION Worcester
+STATE MA
+BASEURL https://wpi.primo.exlibrisgroup.com
+CATTYPE primo-ve
+VID 01WPI_INST:Default
+SCOPE MyInst_and_CI
+
 ID OCLC-WZW
 NAME Worcester Public Library
 LOCATION Worcester
@@ -6523,6 +6539,14 @@ LOCATION Raleigh
 STATE NC
 KEYURL http://www.lib.ncsu.edu/search?q=${ARG}
 
+ID OCLC-NZR
+NAME Polk County Public Libraries
+LOCATION Columbus and Saluda
+STATE NC
+BASEURL https://polk.nccardinal.org/eg/opac
+CATTYPE evergreen-dynamic
+LCODE 1
+
 ID OCLC-KQA
 NAME Rutherford County Library
 LOCATION Rutherford County
@@ -7550,6 +7574,13 @@ STATE SC
 BASEURL http://sclends.lib.sc.us/eg/opac
 CATTYPE evergreen-dynamic
 LCODE 1
+
+ID OCLC-SPL
+NAME Spartanburg County Public Libraries
+LOCATION Spartanburg and vicinity
+STATE SC
+BASEURL http://catalog.infodepot.org/polaris
+CATTYPE polaris
 
 ID OCLC-SZR
 NAME University of South Carolina
