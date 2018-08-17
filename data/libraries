@@ -1112,6 +1112,24 @@ COUNTRY FR
 BASEURL https://univ-amu.summon.serialssolutions.com
 CATTYPE summon
 
+ID OCLC-BDF
+NAME BnF: Biblioth&egrave;que Nationale de France
+LOCATION Paris; English searches may give imprecise or limited results
+COUNTRY FR
+BASEURL https://catalogue.bnf.fr
+# haven't managed to get searches other than keywords working well
+KEYURL ${BASEURL}/rechercher.do?motRecherche=${ARG}
+
+ID SUDOC
+NAME SUDOC
+LOCATION French academic libraries; English searches may give limited results
+COUNTRY FR
+BASEURL http://www.sudoc.abes.fr
+KEYURL ${BASEURL}/DB=2.1/CMD?ACT=SRCHA&IKT=1016&SRT=RLV&TRM=${ARG:SNK}
+AUTURL ${BASEURL}/DB=2.1/CMD?ACT=SRCHA&IKT=1004&SRT=RLV&TRM=${ARG:SNK}
+TITURL ${BASEURL}/DB=2.1/CMD?ACT=SRCHA&IKT=4&SRT=RLV&TRM=${ARG:SNK}
+SUBURL ${BASEURL}/DB=2.1/CMD?ACT=SRCHA&IKT=21&SRT=RLV&TRM=${ARG:SNK}
+
 ID OCLC-GHKNU
 NAME Kwame Nkrumah University of Science and Technology
 LOCATION Kumasi
@@ -1207,6 +1225,13 @@ LOCATION Florence
 COUNTRY IT
 BASEURL http://colombo.imss.fi.it/IMSS/?uilang=en
 KEYURL ${BASEURL}&q=${ARG:S}
+
+ID OPACSBN
+NAME OPAC SBN
+LOCATION Italian academic libraries; English searches may give imprecise or limited results
+COUNTRY IT
+BASEURL http://opac.sbn.it
+KEYURL ${BASEURL}/opacsbn/opaclib?saveparams=true&db=solr_iccu&select_db=solr_iccu&from=1&searchForm=opac/iccu/free.jsp&resultForward=opac/iccu/brief.jsp&do_cmd=search_show_cmd&struct:1016=ricerca.parole_tutte:4=6&Invia=Go&item:1016:Any=${ARG:SNK}
 
 # Not yet ready to put this up; check to see if UniRoma would be better
 # ID SAPIENZA
