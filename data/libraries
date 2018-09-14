@@ -8886,6 +8886,25 @@ CATTYPE sirsient
 LCODE en_US/default
 BASEURL http://kana.ent.sirsi.net
 
+ID OCLC-UE4
+NAME Martinsburg-Berkeley County Public Libraries
+LOCATION Martinsburg and vicinity
+STATE WV
+BASEURL http://mbcpl.tlcdelivers.com:8080/
+CATTYPE ls2pac-config
+CONFIG mbcpl
+FILTERS S
+
+# They don't seem to be in WorldCat registry
+ID MORGANCOUNTY
+NAME Morgan County Public Library
+LOCATION Berkeley Springs
+STATE WV
+BASEURL http://mbcpl.tlcdelivers.com:8080/
+CATTYPE ls2pac-config
+CONFIG 3ysm
+FILTERS S
+
 ID OCLC-NORLN
 NAME Northern Library Network
 LOCATION Public libraries in 17 northern West Virginia counties
