@@ -5668,9 +5668,8 @@ ID OCLC-CMI
 NAME Mid-Continent Public Library
 LOCATION Kansas City vicinity
 STATE MO
-CATTYPE sirsient
-BASEURL http://catalog.mymcpl.org/
-FILTERS N
+BASEURL https://mymcpl.bibliocommons.com
+CATTYPE bibliocommons
 
 ID OCLC-MUJ
 NAME Missouri River Regional Library
@@ -5722,8 +5721,9 @@ ID OCLC-MOS
 NAME Springfield-Greene County Library District
 LOCATION Springfield and vicinity
 STATE MO
-BASEURL http://catalog.coolcat.org/iii/encore
-CATTYPE encore
+BASEURL https://coolcat.org/
+CATTYPE iii-consortium-member
+LCODE 1
 
 # uses "Listen 2000" library catalog; can't find anyone else using it
 # also appears not to have general keyword search; will use subject keyword
@@ -5885,8 +5885,9 @@ ID OCLC-QYA
 NAME Concord Public Library
 LOCATION Concord
 STATE NH
-BASEURL http://mls.concordnh.gov
-CATTYPE webpacpro
+CATTYPE sirsient
+LCODE en_US/default
+BASEURL https://concord.ent.sirsi.net
 
 ID OCLC-DRB
 NAME Dartmouth College
@@ -5906,7 +5907,7 @@ ID OCLC-QYC
 NAME Manchester City Library
 LOCATION Manchester
 STATE NH
-BASEURL http://findit.gmilcs.org/polaris
+BASEURL https://findit.gmilcs.org/polaris
 CATTYPE polaris
 
 ID OCLC-QWB
@@ -6474,6 +6475,13 @@ LOCATION Public libraries in Westchester County
 STATE NY
 CATTYPE sirsient
 BASEURL http://westls.ent.sirsi.net
+
+ID OCLC-0YY
+NAME Yeshiva University Libraries
+LOCATION New York
+STATE NY
+CATTYPE eds
+LCODE s6086892
 
 # ID may be for specific dept in U, but we're using it for whole U
 ID OCLC-NJD
