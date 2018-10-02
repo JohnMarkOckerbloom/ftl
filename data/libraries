@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2018-07-25
-# Next set of libraries to check: MA and down
+# Last updated 2018-09-25
+# Next set of libraries to check: NJ and down
 
 ID OLBP
 NAME The Online Books Page
@@ -1252,6 +1252,14 @@ COUNTRY KE
 BASEURL http://maktaba.ku.ac.ke
 CATTYPE koha
 FILTERS S
+
+ID UBARATON
+NAME University of Eastern Africa, Baraton
+LOCATION Eldoret
+COUNTRY KE
+BASEURL http://library.ueab.ac.ke:8080/
+CATTYPE ls2pac
+FILTERS SNK
 
 ID UNAIROBI
 NAME University of Nairobi
