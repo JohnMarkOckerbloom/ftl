@@ -4,7 +4,7 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2018-09-25
+# Last updated 2018-12-03
 # Next set of libraries to check: NJ and down
 
 ID OLBP
@@ -2611,11 +2611,9 @@ ID OCLC-JQR
 NAME Fresno County Public Library
 LOCATION Fresno and vicinity
 STATE CA
-BASEURL http://hip1.sjvls.org
-CATTYPE ipac20
-PROFILE fhq
-AINDEX .AW
-TINDEX ALLTITL
+CATTYPE sirsient
+LCODE en_US/fhq
+BASEURL https://sjvls.ent.sirsi.net
 
 ID OCLC-CGN
 NAME Glendale Community College
@@ -2652,11 +2650,9 @@ ID OCLC-KLC
 NAME Kern County Library
 LOCATION Bakersfield and vicinity
 STATE CA
-BASEURL http://hip1.sjvls.org
-CATTYPE ipac20
-PROFILE kehq
-AINDEX .AW
-TINDEX ALLTITL
+CATTYPE sirsient
+LCODE en_US/kehq
+BASEURL https://sjvls.ent.sirsi.net
 
 ID LINKPLUS
 NAME LINK+ Union Catalog
@@ -2978,11 +2974,9 @@ ID OCLC-TCB
 NAME Tulare County Library
 LOCATION Visalia and vicinity
 STATE CA
-BASEURL http://hip1.sjvls.org
-CATTYPE ipac20
-PROFILE thq
-AINDEX .AW
-TINDEX ALLTITL
+CATTYPE sirsient
+LCODE en_US/tchq
+BASEURL https://sjvls.ent.sirsi.net
 
 ID OCLC-CLU
 NAME UCLA: University of California Los Angeles
@@ -7852,6 +7846,13 @@ VID VANDERBILT
 LCODE VAN
 LOC adaptor,scope:(GMA),scope:(tvnews),scope:(vanunicorn),scope:(usserial),scope:(ACT),scope:(discoverarchive),scope:(vuojs),primo_central_multiple_fe
 DEFAULT http://discoverlibrary.vanderbilt.edu/
+
+ID OCLC-TVS
+NAME Volunteer State Community College
+LOCATION Gallatin
+STATE TN
+CATTYPE primo-justquery
+BASEURL https://volstate-primo.hosted.exlibrisgroup.com/primo-explore/search?search_scope=default_scope&vid=01VSCC_default&
 
 # OCLC registry associates this ID with "DEKALB", but gives this system's URL
 ID OCLC-TNWIL
