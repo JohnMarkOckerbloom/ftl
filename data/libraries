@@ -4,7 +4,7 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2018-12-03
+# Last updated 2019-01-14
 # Next set of libraries to check: NJ and down
 
 ID OLBP
@@ -1839,6 +1839,13 @@ LOCATION Medway, England
 COUNTRY UK
 CATTYPE spydus
 BASEURL https://medway.spydus.co.uk
+
+ID OCLC-UKMCE
+NAME Moray Libraries
+LOCATION 11 public libraries in Moray, Scotland
+COUNTRY UK
+CATTYPE prismhosted
+BASEURL http://capitadiscovery.co.uk/moray
 
 ID OCLC-NLW
 NAME National Library of Wales
@@ -6782,6 +6789,13 @@ BASEURL http://uclid.uc.edu
 CATTYPE iii-consortium-member
 LCODE 8
 
+ID OCLC-OBE
+NAME Oberlin College
+LOCATION Oberlin
+STATE OH
+CATTYPE summon
+BASEURL https://oberlin.summon.serialssolutions.com
+
 ID OCLC-OSU
 NAME Ohio State University
 LOCATION Columbus
@@ -7492,6 +7506,13 @@ BASEURL https://sshelco-primo.hosted.exlibrisgroup.com
 VID WCHESTER
 LCODE 01SSHELCO_WCHESTER
 SCOPE default_scope
+
+ID OCLC-MPL
+NAME Westmoreland Library Network
+LOCATION Public libraries in Westmoreland County
+STATE PA
+BASEURL http://catalog.wlnonline.org/polaris
+CATTYPE polaris
 
 ID OCLC-PYLCO
 NAME York County Libraries
