@@ -196,8 +196,10 @@ ID AU-QUT
 NAME Queensland University of Technology
 LOCATION Brisbane and other campuses, Queensland
 COUNTRY AU
-CATTYPE summon
-BASEURL http://qut.summon.serialssolutions.com
+CATTYPE primo-ve
+BASEURL https://qut.primo.exlibrisgroup.com
+VID 61QUT_INST:61QUT
+SCOPE MyInst_and_CI
 
 ID OCLC-RM0
 NAME RMIT University
@@ -662,8 +664,8 @@ ID OCLC-UNBCA
 NAME University of New Brunswick
 LOCATION Fredericton and Saint John
 PROVINCE NB
-BASEURL https://unb.worldcat.org/search
-CATTYPE worldcat
+BASEURL https://unb.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-CNNLP
 NAME Newfoundland and Labrador Public Libraries
@@ -702,10 +704,8 @@ ID CA-NSH
 NAME Halifax Public Libraries
 LOCATION Halifax and vicinity
 PROVINCE NS
-CATTYPE aquabrowser
-BASEURL http://discover.halifaxpubliclibraries.ca
-SINDEX subject
-KINDEX ex-All-0.0
+CATTYPE bibliocommons
+BASEURL https://halifax.bibliocommons.com
 
 ID OCLC-NOVAN
 NAME Novanet Consortium
@@ -909,8 +909,8 @@ NAME University of Toronto
 LOCATION Toronto
 PROVINCE ON
 BASEURL http://onesearch.library.utoronto.ca/
-TITURL ${BASEURL}?q=onesearch/search/${ARG:N}&title_only=1
-KEYURL ${BASEURL}?q=onesearch/search/${ARG:N}
+TITURL ${BASEURL}?q=onesearch/${ARG:N}/title
+KEYURL ${BASEURL}?q=onesearch/${ARG:N}
 
 ID OCLC-UWW
 NAME University of Waterloo
@@ -1249,7 +1249,7 @@ ID OCLC-KEJKU
 NAME Kenyatta University
 LOCATION Nairobi
 COUNTRY KE
-BASEURL http://maktaba.ku.ac.ke
+BASEURL https://maktaba.ku.ac.ke
 CATTYPE koha
 FILTERS S
 
@@ -1463,7 +1463,7 @@ NAME University of Limpopo Libraries
 LOCATION Turfloop and Medunsa
 COUNTRY ZA
 CATTYPE webpacpro
-BASEURL http://196.21.109.8/
+BASEURL https://ultmillen.ul.ac.za/
 FILTERS AN
 
 # using Department of Info Science ID (can't find one for Univ generally)
@@ -1594,10 +1594,11 @@ ID OCLC-BLSTP
 NAME British Library
 LOCATION London, England
 COUNTRY UK
-CATTYPE primodl
+CATTYPE primodl-scope
 BASEURL http://explore.bl.uk
 VID BLVU1
 LCODE BL
+SCOPE LSCOP-ALL
 
 ID OCLC-UKBCC
 NAME Buckinghamshire County Libraries
@@ -1624,17 +1625,18 @@ ID OCLC-RDF
 NAME Cardiff University and NHS Wales Libraries
 LOCATION Cardiff and elsewhere in Wales
 COUNTRY UK
-CATTYPE primodl
-BASEURL http://librarysearch.cf.ac.uk
-VID CARDIFF_V1
-LCODE CARDIFF_V1
+CATTYPE primodl-scope
+BASEURL https://whel-primo.hosted.exlibrisgroup.com
+VID 44WHELF_CAR_VU1
+SCOPE CSCOP_EVERYTHING
 
 ID OCLC-UKYRK
 NAME City of York Libraries and Archives
 LOCATION York, England
 COUNTRY UK
 CATTYPE sirsient
-BASEURL http://cyc.sdp.sirsidynix.net.uk/
+BASEURL https://cyc.sdp.sirsidynix.net.uk/
+LCODE en_GB/default
 
 ID OCLC-C62
 NAME COPAC
@@ -1732,9 +1734,10 @@ ID OCLC-GSM
 NAME Goldsmiths, University of London
 LOCATION London, England
 COUNTRY UK
-BASEURL http://libra.gold.ac.uk
-CATTYPE aleph1
-TINDEX WTI
+BASEURL https://librarysearch.gold.ac.uk
+CATTYPE primodl-scope
+SCOPE default_scope
+VID 44GOL_VU1
 
 ID OCLC-UKGWL
 NAME Gwynedd Libraries
@@ -1748,9 +1751,8 @@ ID OCLC-UKLMB
 NAME Lambeth Libraries
 LOCATION London Borough of Lambeth, England
 COUNTRY UK
-CATTYPE prismhosted
-BASEURL http://capitadiscovery.co.uk/lambeth
-FILTERS S
+BASEURL https://libraries.lambeth.gov.uk/web/arena
+CATTYPE arenacode
 
 ID LEEDS
 NAME Leeds Library and Information Service
@@ -1781,7 +1783,7 @@ NAME Library of Birmingham
 LOCATION Birmingham, England
 COUNTRY UK
 CATTYPE spydus
-BASEURL http://library-opac.birmingham.gov.uk
+BASEURL https://birmingham.spydus.co.uk
 
 ID OCLC-UKLVP
 NAME Liverpool Libraries
@@ -1847,15 +1849,16 @@ COUNTRY UK
 CATTYPE prismhosted
 BASEURL http://capitadiscovery.co.uk/moray
 
+# http://discover.library.wales/primo_library/libweb/action/dlSearch.do?vid=44WHELF_NLW_VU1&institution=44WHELF_NLW&onCampus=false&indx=1&bulkSize=10&dym=true&highlight=true&displayField=title&prefLang=en_US&search_scope=CSCOP_EVERYTHING&query=any%2Ccontains%2Chorse
 ID OCLC-NLW
 NAME National Library of Wales
 LOCATION Aberystwyth, Wales
 COUNTRY UK
-CATTYPE aquabrowser
-BASEURL http://discover.llgc.org.uk
-# can't find a good subject search, so substitute keywords instead
-SINDEX keywords
-FILTERS S
+CATTYPE primodl-scope
+BASEURL http://discover.library.wales
+VID 44WHELF_NLW_VU1
+LCODE 44WHELF_NLW
+SCOPE CSCOP_EVERYTHING
 
 ID OCLC-UKCST
 NAME Newcastle Libraries
@@ -1973,8 +1976,8 @@ NAME Swansea Libraries
 LOCATION Swansea, Wales
 COUNTRY UK
 CATTYPE sirsient
-BASEURL http://swan.ent.sirsidynix.net.uk
-LCODE en_GB/default
+BASEURL https://wales.ent.sirsidynix.net.uk
+LCODE en_GB/swan_en
 
 ID OCLC-SNU
 NAME Swansea University Libraries
@@ -2049,20 +2052,20 @@ LCODE OX
 
 ID OCLC-UKGLA
 NAME University of South Wales
-LOCATION catalogue includes former U-Glamorgan campuses; might not yet include Newport campus
+LOCATION Pontypridd, Cardiff, and Newport
 COUNTRY UK
-CATTYPE prismhosted
-BASEURL http://capitadiscovery.co.uk/glam-ac
+CATTYPE primodl-scope
+BASEURL https://whel-primo.hosted.exlibrisgroup.com
+VID 44WHELF_USW_NUI1
+SCOPE CSCOP_EVERYTHING
 
-# Currnely getting "unexpected error" messages, but the searches seem to work
+# A very old, tetchy Primo; we'll just use a keyword search stuffeed into
+# a full URI until they update
 ID OCLC-ESU
 NAME University of Strathclyde
 LOCATION Glasgow, Scotland
 COUNTRY UK
-CATTYPE primodl
-BASEURL http://suprimo.lib.strath.ac.uk
-LCODE SU
-VID SUVU01
+KEYURL http://suprimo.lib.strath.ac.uk/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=local&indx=1&dum=true&srt=rank&vid=SUVU01&frbg=&tb=t&vl%28freeText0%29=${ARG:SNK}&scp.scps=scope%3A%28metalib%29%2Cscope%3A%28cla%29%2Cscope%3A%28SU%29%2Cscope%3A%28SUALMA%29
 
 ID OCLC-U9X
 NAME University of Sussex
@@ -9113,6 +9116,6 @@ ID OCLC-W8I
 NAME University of Zimbabwe
 LOCATION Harare
 COUNTRY ZW
-BASEURL http://uzlibsys.uz.ac.zw
-CATTYPE innopac
+CATTYPE eds
+LCODE s4591075
 
