@@ -4,7 +4,7 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2019-01-14
+# Last updated 2019-01-19
 # Next set of libraries to check: NJ and down
 
 ID OLBP
@@ -2175,9 +2175,8 @@ ID OCLC-MWM
 NAME Decatur Public Library
 LOCATION Decatur
 STATE AL
-BASEURL http://catalog.decatur.lib.al.us:8000/
-CATTYPE ls2pac
-FILTERS S
+BASEURL https://catalog.mydpl.org
+CATTYPE koha
 
 ID OCLC-HL2
 NAME Dothan Houston County Library System
@@ -2296,8 +2295,8 @@ NAME Fairbanks North Star Borough Public Libraries
 LOCATION Fairbanks and vicinity
 STATE AK
 CATTYPE sirsient
-LCODE en_US/default
-BASEURL https://fnsb.ent.sirsi.net
+LCODE en_US/fnsb
+BASEURL https://jlc-web.uaa.alaska.edu
 
 ID OCLC-FCLIB
 NAME First City Libraries
@@ -2420,8 +2419,11 @@ ID OCLC-AZU
 NAME University of Arizona Libraries
 LOCATION Tucson
 STATE AZ
-CATTYPE summon
-BASEURL https://arizona.summon.serialssolutions.com
+CATTYPE primodl-scope
+BASEURL https://arizona-primo.hosted.exlibrisgroup.com
+VID 01UA
+LCODE 01UA_INST
+SCOPE Everything
 
 ID OCLC-AJE
 NAME Bentonville Public Library
@@ -2477,19 +2479,17 @@ ID OCLC-JQD
 NAME Anaheim Public Library
 LOCATION Anaheim
 STATE CA
-BASEURL http://ipac.anaheim.net
-CATTYPE ipac20
-PROFILE z
-SINDEX SUBJECT
-TINDEX ALLTITL
+CATTYPE sirsient
+LCODE en_US/virtual
+BASEURL https://ana.ent.sirsi.net
 
 ID OCLC-JUA
 NAME Benecia Public Library
 LOCATION Benecia
 STATE CA
-CATTYPE ls2pac-config
-CONFIG BENICIA
-BASEURL http://ls2pac.splashlibraries.org/
+CATTYPE ls2pac-configamp
+CONFIG benecia
+BASEURL https://ls2pac.splashlibraries.org/
 
 ID OCLC-JQF
 NAME Berkeley Public Library
@@ -2516,8 +2516,10 @@ ID OCLC-CPS
 NAME California Polytechnic State University
 LOCATION San Luis Obispo
 STATE CA
-BASEURL http://find.lib.calpoly.edu/articles
-CATTYPE xerxes
+BASEURL https://cpslo-primo.hosted.exlibrisgroup.com
+CATTYPE primodl-scope
+VID 01CALS_PSU
+SCOPE EVERYTHING
 
 ID OCLC-CSH
 NAME California State University, East Bay
@@ -2551,12 +2553,16 @@ BASEURL https://csus-primo.hosted.exlibrisgroup.com
 VID 01CALS_USL
 LCODE 01CALS_USL
 
+# seems to be possibly custom catalog now
 ID OCLC-CIT
 NAME Caltech Library, California Institute of Technology
 LOCATION Pasadena
 STATE CA
-BASEURL http://clas.caltech.edu
-CATTYPE innopac
+BASEURL https://www.library.caltech.edu/eds?catalog=eds
+SUBURL ${BASEURL}&searchfield=SU&query=${ARG}
+AUTURL ${BASEURL}&searchfield=AU&query=${ARG}
+TITURL ${BASEURL}&searchfield=TI&query=${ARG}
+KEYURL ${BASEURL}&query=${ARG}
 
 ID OCLC-CVL
 NAME Chula Vista Public Library
@@ -2613,9 +2619,9 @@ ID OCLC-JTK
 NAME Dixon Public Library
 LOCATION Dixon
 STATE CA
-CATTYPE ls2pac-config
-CONFIG dixon 
-BASEURL http://ls2pac.splashlibraries.org/
+CATTYPE ls2pac-configamp
+CONFIG dixon
+BASEURL https://ls2pac.splashlibraries.org/
 
 ID OCLC-JQR
 NAME Fresno County Public Library
@@ -2777,9 +2783,8 @@ ID OCLC-PAP
 NAME Palo Alto City Library
 LOCATION Palo Alto
 STATE CA
-BASEURL http://webcat.cityofpaloalto.org
-CATTYPE ipac20
-PROFILE pacl
+CATTYPE bibliocommons
+BASEURL https://paloalto.bibliocommons.com
 
 ID OCLC-CPP
 NAME Pasadena Public Library
@@ -2852,12 +2857,13 @@ STATE CA
 BASEURL http://encore.co.san-diego.ca.us/iii/encore
 CATTYPE encore
 
+# they have their custom bento which is now keyword only
 ID OCLC-CDS
 NAME San Diego State University
 LOCATION San Diego
 STATE CA
-BASEURL http://libpac.sdsu.edu
-CATTYPE webpacpro
+BASEURL https://library.sdsu.edu
+KEYURL ${BASEURL}/bento.php?query=${ARG:SNK}&lsearch=0
 
 ID OCLC-SFR
 NAME San Francisco Public Library
@@ -2931,7 +2937,7 @@ ID OCLC-JTD
 NAME Solano County Library
 LOCATION Solano County
 STATE CA
-CATTYPE ls2pac-config
+CATTYPE ls2pac-configamp
 CONFIG SOLANO
 BASEURL http://ls2pac.splashlibraries.org/
 
@@ -2953,7 +2959,7 @@ ID OCLC-JTJ
 NAME St. Helena Public Library
 LOCATION St. Helena
 STATE CA
-CATTYPE ls2pac-config
+CATTYPE ls2pac-configamp
 CONFIG stheln
 BASEURL http://ls2pac.splashlibraries.org/
 
@@ -3023,8 +3029,10 @@ ID OCLC-CUI
 NAME University of California Irvine
 LOCATION Irvine
 STATE CA
-BASEURL http://antpac.lib.uci.edu
-CATTYPE webpacpro
+BASEURL https://uci.primo.exlibrisgroup.com
+CATTYPE primo-ve
+VID 01CDL_IRV_INST:UCI
+SCOPE MyInst_and_CI
 
 ID OCLC-FSHHH
 NAME University of California Libraries
@@ -3033,12 +3041,13 @@ STATE CA
 BASEURL https://melvyl.worldcat.org/search
 CATTYPE worldcat
 
+# UCR now features a custom Bento search (seems to be general keyword only)
 ID OCLC-CRU
 NAME University of California Riverside
 LOCATION Riverside
 STATE CA
-BASEURL http://scotty.ucr.edu
-CATTYPE innopac
+BASEURL https://library.ucr.edu/onesearch
+KEYURL ${BASEURL}/${ARG}
 
 ID OCLC-CUT
 NAME University of California Santa Barbara
@@ -3114,9 +3123,8 @@ ID OCLC-DAD
 NAME Douglas County Libraries
 LOCATION Douglas County
 STATE CO
-BASEURL http://catalog.douglascountylibraries.org/Union
-CATTYPE vufind
-FILTERS N
+BASEURL https://dcl.bibliocommons.com
+CATTYPE bibliocommons
 
 ID OCLC-QQ3
 NAME Jefferson County Public Library
@@ -3136,9 +3144,9 @@ ID OCLC-CQU
 NAME Pikes Peak Library District
 LOCATION Colorado Springs, and El Paso County
 STATE CO
-CATTYPE sirsient-old
-LCODE PPLD
-BASEURL http://pikp.ent.sirsi.net
+CATTYPE sirsient
+LCODE en_US/PPLD
+BASEURL https://pikp.ent.sirsi.net
 
 ID OCLC-4X-SHARP
 WCRID 8677
@@ -3177,6 +3185,16 @@ CATTYPE evergreen-dynamic
 BASEURL http://bridgeport.biblio.org/eg/opac
 LCODE 32
 
+ID OCLC-CTB
+NAME Central Connecticut State University
+LOCATION New Britain
+STATE CT
+CATTYPE primodl-scope
+BASEURL https://cscu-ccsu-primo.hosted.exlibrisgroup.com
+LCODE CCSU
+VID CCSU_V1
+SCOPE CCSU
+
 ID OCLC-CTL
 NAME Connecticut College
 LOCATION New London
@@ -3184,12 +3202,15 @@ STATE CT
 CATTYPE eds
 LCODE s8986602
 
+# TODO: Southern, and Western CT State Universities
 ID OCLC-CZL
-NAME CONSULS
-LOCATION CT State Library; and Central, Eastern, Southern, and Western CT State Universities
+NAME Connecticut State Library
+LOCATION Hartford and other locations
 STATE CT
-CATTYPE webpacpro
-BASEURL http://www.consuls.org/
+CATTYPE primodl-scope
+BASEURL https://cscu-csl-primo.hosted.exlibrisgroup.com
+SCOPE CSL_ALMA
+VID CSL_V1
 
 ID OCLC-GPT
 NAME Cyrenius H. Booth Library
@@ -3213,6 +3234,16 @@ STATE CT
 BASEURL https://www.darienlibrary.org/catalog
 CATTYPE sopacnewer
 FILTERS NK
+
+ID OCLC-CTW
+NAME Eastern Connecticut State University
+LOCATION Willimantic
+STATE CT
+CATTYPE primodl-scope
+BASEURL https://cscu-ecsu-primo.hosted.exlibrisgroup.com
+LCODE 01CSCU_ECSU
+VID ECSU_V1
+SCOPE ECSU
 
 ID OCLC-THS
 NAME Edsel Ford Memorial Library, Hotchkiss School
@@ -3279,6 +3310,16 @@ STATE CT
 CATTYPE evergreen-dynamic
 BASEURL http://silas.biblio.org/eg/opac
 LCODE 128
+ 
+ID OCLC-CTN
+NAME Southern Connecticut State University
+LOCATION New Haven
+STATE CT
+CATTYPE primodl-scope
+BASEURL https://cscu-scsu-primo.hosted.exlibrisgroup.com
+LCODE SCSU
+VID SCSU_V1
+SCOPE SCSU
 
 ID OCLC-TYC
 NAME Trinity College
@@ -3311,8 +3352,20 @@ ID OCLC-WLU
 NAME Wesleyan University
 LOCATION Middletown
 STATE CT
-CATTYPE summon
-BASEURL http://wesleyan.summon.serialssolutions.com
+CATTYPE primodl
+BASEURL https://wesleyan-primo.hosted.exlibrisgroup.com
+LCODE 01CTW_WU
+VID CTWWU
+
+ID OCLC-YRR
+NAME Western Connecticut State University
+LOCATION Danbury
+STATE CT
+CATTYPE primodl-scope
+BASEURL https://cscu-wcsu-primo.hosted.exlibrisgroup.com
+LCODE 01CSCU-WCSU
+VID WCSU_V1
+SCOPE WCSU
 
 ID OCLC-WES
 NAME Westport Library
@@ -3360,15 +3413,19 @@ ID OCLC-EAU
 NAME American University
 LOCATION Washington
 STATE DC
-CATTYPE summon
-BASEURL http://american.summon.serialssolutions.com
+CATTYPE primo-ve
+BASEURL https://wrlc-amu.primo.exlibrisgroup.com
+VID 01WRLC_AMU:prod
+SCOPE DN_and_CI
 
 ID OCLC-1CU
 NAME Catholic University of America
 LOCATION Washington
 STATE DC
-CATTYPE summon
-BASEURL http://cua.summon.serialssolutions.com
+CATTYPE primo-ve
+BASEURL https://wrlc-cu.primo.exlibrisgroup.com
+VID 01WRLC_CAA:01WRLC_CAA
+SCOPE DN_and_CI
 
 ID OCLC-DAW
 NAME DC Public Library
@@ -3382,29 +3439,37 @@ ID OCLC-GQG
 NAME Gallaudet University
 LOCATION Washington
 STATE DC
-CATTYPE summon
-BASEURL http://gallaudet.summon.serialssolutions.com
+CATTYPE primo-ve
+BASEURL https://wrlc-gal.primo.exlibrisgroup.com
+VID 01WRLC_GAL:01WRLC_GAL
+SCOPE Gallaudet_and_articles
 
 ID OCLC-DGW
 NAME George Washington University
 LOCATION Washington
 STATE DC
-CATTYPE summon
-BASEURL http://gw.summon.serialssolutions.com
+CATTYPE primo-ve
+BASEURL https://wrlc-gwu.primo.exlibrisgroup.com
+VID 01WRLC_GWA:live
+SCOPE DN_and_CI
 
 ID OCLC-DGU
 NAME Georgetown University
 LOCATION Washington
 STATE DC
-CATTYPE summon
-BASEURL http://gt.summon.serialssolutions.com
+CATTYPE primo-ve
+BASEURL https://wrlc-gu.primo.exlibrisgroup.com
+VID 01WRLC_GUNIV:01WRLC_GUNIV
+SCOPE DN_and_CI
 
 ID OCLC-DHU
 NAME Howard University
 LOCATION Washington
 STATE DC
-CATTYPE summon
-BASEURL http://hu.summon.serialssolutions.com
+CATTYPE primo-ve
+BASEURL https://wrlc-hu.primo.exlibrisgroup.com
+VID 01WRLC_HOW:wkbkconfig
+SCOPE MyInst_and_CI
 
 ID OCLC-1DL
 NAME Library of Congress
@@ -6337,6 +6402,13 @@ LOCATION Albany
 STATE NY
 CATTYPE sirsi
 BASEURL https://nyst.sirsi.net/uhtbin/cgisirsi
+
+ID OCLC-ZNM
+NAME Nioga Library System
+LOCATION Niagara, Orleans, and Geneseee Counties
+STATE NY
+CATTYPE sirsient
+BASEURL https://nioga.ent.sirsi.net
 
 ID OCLC-RTN
 NAME North Country Library System

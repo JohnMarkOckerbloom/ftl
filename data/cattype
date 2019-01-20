@@ -337,6 +337,15 @@ AUTURL ${BASEURL}?config=${CONFIG}#section=search&term=author:${ARG:SNK}
 TITURL ${BASEURL}?config=${CONFIG}#section=search&term=title:${ARG:NK}
 KEYURL ${BASEURL}?config=${CONFIG}#section=search&term=${ARG:NK}
 
+# same as above but using ampersand as subject
+CATTYPE ls2pac-configamp
+CONFIG pac
+SUBURL ${BASEURL}?config=${CONFIG}&section=search&term=subject:${ARG:NK}
+AUTURL ${BASEURL}?config=${CONFIG}&section=search&term=author:${ARG:SNK}
+TITURL ${BASEURL}?config=${CONFIG}&section=search&term=title:${ARG:NK}
+KEYURL ${BASEURL}?config=${CONFIG}&section=search&term=${ARG:NK}
+
+
 # Olib from OCLC UK - we only know how to do a keyword search on it so far
 CATTYPE olib
 KEYURL ${BASEURL}/webview/?keyword=${ARG:NK}
