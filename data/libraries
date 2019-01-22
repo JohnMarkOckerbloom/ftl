@@ -1553,6 +1553,15 @@ BASEURL http://catalogue.library.ucu.ac.ug
 CATTYPE koha
 FILTERS S
 
+ID OCLC-U0A
+NAME Abertay University
+LOCATION Dundee, Scotland
+COUNTRY UK
+CATTYPE primodl-scope
+BASEURL https://librarysearch.abertay.ac.uk
+VID 44UAD_V1
+SCOPE ALL
+
 # SCOPE parameter here was a wild guess that worked; might be a better one 
 ID OCLC-AU-SHARP
 WCRID 40218
@@ -3579,8 +3588,8 @@ ID OCLC-F9H
 NAME Heartland Library Cooperative
 LOCATION Highlands, DeSoto, Glades, Hardee, and Okechobee Counties
 STATE FL
-BASEURL http://catalog.myhlc.org/Polaris
-CATTYPE polaris
+BASEURL https://heartland.bywatersolutions.com
+CATTYPE koha
 
 ID OCLC-TNH
 NAME Hillsborough County Public Library Cooperative
@@ -3621,8 +3630,9 @@ ID OCLC-FTL
 NAME LeRoy Collins Leon County Public Library
 LOCATION Tallahassee
 STATE FL
-BASEURL http://lcpl.sirsi.net/uhtbin/cgisirsi
-CATTYPE sirsi
+BASEURL https://lcpl.ent.sirsi.net/
+CATTYPE sirsient
+LCODE en_US/lcpl
 
 ID OCLC-FLJ
 NAME Marion County Public Library System
@@ -3635,11 +3645,8 @@ ID OCLC-FYM
 NAME Miami Dade College
 LOCATION Miami and other campuses
 STATE FL
-CATTYPE primodl-scope
-BASEURL http://discover.linccweb.org
-VID FLCC1600
-LCODE FLCC1600
-SCOPE FLCC1600
+BASEURL https://union.discover.flvc.org/md.jsp
+CATTYPE fcla
 
 ID OCLC-DZM
 NAME Miami-Dade Public Library System
@@ -3718,18 +3725,16 @@ ID OCLC-FSS
 NAME Seminole State College of Florida
 LOCATION Sanford and other campuses
 STATE FL
-CATTYPE primodl-scope
-BASEURL http://discover.linccweb.org
-VID FLCC2600
-LCODE FLCC2600
-SCOPE FLCC2600
+BASEURL https://union.discover.flvc.org/sc.jsp
+CATTYPE fcla
 
 ID OCLC-FLR
 NAME St. Lucie County Library System
 LOCATION St. Lucie County
 STATE FL
-BASEURL http://stlu.sirsi.net/uhtbin/cgisirsi
-CATTYPE sirsi
+BASEURL https://stlu.ent.sirsi.net/
+CATTYPE sirsient
+LCODE en_US/default
 
 # Don't see an ID for this new system, so using ID for the main Live Oak lib
 ID OCLC-FLK
@@ -3750,8 +3755,8 @@ ID OCLC-FUG
 NAME University of Florida, George A. Smathers Libraries
 LOCATION Gainesville
 STATE FL
-CATTYPE summon
-BASEURL http://ufl.summon.serialssolutions.com
+CATTYPE eds
+LCODE s8987351
 
 ID OCLC-FNM
 NAME University of Miami Libraries
@@ -3793,8 +3798,9 @@ ID OCLC-ALQ
 NAME Albany State University
 LOCATION Albany
 STATE GA
-BASEURL http://gil.asurams.edu/cgi-bin/Pwebrecon.cgi
-CATTYPE voyager
+BASEURL https://galileo-usg-asu-primo.hosted.exlibrisgroup.com
+CATTYPE primodl
+VID ASU_V1
 
 ID OCLC-GRA
 NAME Athens-Clarke County Library
@@ -3860,8 +3866,10 @@ ID OCLC-GFV
 NAME Fort Valley State University
 LOCATION Fort Valley
 STATE GA
-BASEURL http://gilfind.fvsu.edu/vufind
-CATTYPE vufind
+BASEURL https://galileo-usg-fvsu-primo.hosted.exlibrisgroup.com
+CATTYPE primodl-scope
+VID FVSU_V1
+SCOPE FVSU
 
 ID OCLC-GSGSL
 NAME Georgia Public Library Service, PINES catalog
@@ -3871,11 +3879,11 @@ CATTYPE evergreen-dynamic
 BASEURL http://gapines.org/eg/opac
 
 ID OCLC-GPM
-NAME Georgia Southern University, Zach S. Henderson Library
-LOCATION Statesboro
+NAME Georgia Southern University
+LOCATION Statesboro and Savannah
 STATE GA
-BASEURL http://gilfind.georgiasouthern.edu/vufind
-CATTYPE vufind
+CATTYPE eds
+LCODE gso1
 
 ID OCLC-GSU
 NAME Georgia State University
@@ -3914,22 +3922,24 @@ ID OCLC-GSS
 NAME Savannah State University
 LOCATION Savannah
 STATE GA
-CATTYPE vufind
-BASEURL http://gilfind.savannahstate.edu/vufind
+CATTYPE primodl-scope
+BASEURL https://galileo-usg-ssu-primo.hosted.exlibrisgroup.com
+VID SSU_V1
+SCOPE SSU
 
 ID OCLC-GUA
 NAME University of Georgia
 LOCATION Athens
 STATE GA
-BASEURL http://gilfind.uga.edu/vufind
-CATTYPE vufind
+CATTYPE eds
+LCODE uga1
 
 ID OCLC-GWC
 NAME University of West Georgia
 LOCATION Carrollton
 STATE GA
-BASEURL http://gilfind.westga.edu/vufind
-CATTYPE vufind
+CATTYPE eds
+LCODE wgc1
 
 # using the ID for Hawaii State Library as surrogate for whole system
 ID OCLC-HISPL
@@ -4062,8 +4072,8 @@ NAME Bloomingdale Public Library
 LOCATION Bloomingdale
 STATE IL
 CATTYPE sirsient
-LCODE en_US/bloomingdale
-BASEURL https://discovery.lincnet.info
+LCODE en_US/bdd
+BASEURL https://catalog.swanlibraries.net
 
 ID OCLC-JCH
 NAME Bloomington Public Library
@@ -4103,18 +4113,17 @@ CATTYPE worldcat-config
 
 ID OCLC-JED
 NAME Cooperative Computer Services
-LOCATION 24 libraries in northwestern Chicago suburbs
+LOCATION 25 libraries in northwestern Chicago suburbs
 STATE IL
-CATTYPE sirsient
-LCODE ccs
-BASEURL http://ccsp.ent.sirsi.net
+BASEURL https://ccs.polarislibrary.com/polaris
+CATTYPE polaris
 
 ID OCLC-IAC
 NAME DePaul University
 LOCATION Chicago
 STATE IL
-BASEURL https://depaul.worldcat.org/search
-CATTYPE worldcat
+BASEURL https://depaul.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-JY3
 NAME Dixon Public Library
@@ -4135,9 +4144,9 @@ ID OCLC-IHE
 NAME Evanston Public Library
 LOCATION Evanston
 STATE IL
-CATTYPE sirsient
-LCODE en_US/evk
-BASEURL http://ccsp.ent.sirsi.net
+CATTYPE polaris-context
+BASEURL https://ccs.polarislibrary.com/polaris
+CONTEXT 19.1033.0.0.2
 
 ID OCLC-LQC
 NAME Illinois Heartland Library System (SHARE)
@@ -4302,8 +4311,8 @@ ID OCLC-IHG
 NAME Skokie Public Library
 LOCATION Skokie
 STATE IL
-BASEURL http://encore.skokielibrary.info/iii/encore
-CATTYPE encore
+CATTYPE bibliocommons
+BASEURL https://skokielibrary.bibliocommons.com
 
 ID OCLCC-GP4
 NAME Waukegan Public Library
@@ -4378,8 +4387,10 @@ ID OCLC-IOG
 NAME Grinnell College
 LOCATION Grinnell
 STATE IA
-CATTYPE vufind
-BASEURL https://libweb.grinnell.edu/vufind
+CATTYPE primo-ve
+BASEURL https://grinnell.primo.exlibrisgroup.com
+VID 01GCL_INST:GCL
+SCOPE MyInst_and_CI
 
 ID OCLC-LDW
 NAME Harlan Community Library
@@ -4489,11 +4500,11 @@ ID OCLC-IND
 NAME Hesburgh Libraries, University of Notre Dame
 LOCATION Notre Dame
 STATE IN
-CATTYPE primodl-loc
-BASEURL http://onesearch.library.nd.edu
+CATTYPE primodl-scope
+BASEURL https://onesearch.library.nd.edu
 VID NDU
 LCODE NDU
-LOC adaptor,scope:(NDU),scope:(BCI),scope:(HCC),scope:(SMC),scope:(NDLAW),scope:("MALC"),primo_central_multiple_fe
+SCOPE malc_blended
 
 ID OCLC-1IU
 NAME Indiana University Libraries
@@ -4503,13 +4514,12 @@ BASEURL http://iucat.iu.edu/catalog
 CATTYPE blacklight
 SINDEX subject
 
+# looks like they now have a custom search
 ID OCLC-IMD
 NAME Indianapolis Public Library
 LOCATION Indianapolis
 STATE IN
-CATTYPE aquabrowser
-SINDEX subject
-BASEURL http://sherloc.imcpl.org
+KEYURL https://www.indypl.org/search?q=${ARG}
 
 ID OCLC-IPL
 NAME Purdue University Libraries
@@ -4830,7 +4840,7 @@ NAME University of Kentucky
 LOCATION Lexington
 STATE KY
 CATTYPE primodl-scope
-BASEURL http://saa-primo.hosted.exlibrisgroup.com
+BASEURL https://saa-primo.hosted.exlibrisgroup.com
 VID UKY
 LCODE UKY
 SCOPE default_scope
@@ -4856,11 +4866,11 @@ ID OCLC-9KN
 NAME Western Kentucky University
 LOCATION Bowling Green and other campuses
 STATE KY
-CATTYPE primodl-loc
-BASEURL http://tcna.primo.hosted.exlibrisgroup.com
-VID WKU
-LCODE WKU
-LOC adaptor,scope:("WKTY"),primo_central_multiple_fe
+CATTYPE primodl-scope
+BASEURL http://saa-primo.hosted.exlibrisgroup.com
+VID WESTKY
+LCODE WESTKY
+SCOPE default_scope
 
 ID OCLC-LMJ
 NAME Jefferson Parish Library
@@ -4880,8 +4890,9 @@ ID OCLC-LUU
 NAME Louisiana State University
 LOCATION Baton Rouge
 STATE LA
-BASEURL https://lsu.louislibraries.org/uhtbin/cgisirsi
-CATTYPE sirsi
+CATTYPE sirsient
+BASEURL https://lsu.ent.sirsi.net
+LCODE en_US/lsu
 
 ID OCLC-LLM
 NAME Loyola University New Orleans, Monroe Library
@@ -4897,8 +4908,9 @@ ID OCLC-LAZ
 NAME LSU Alexandria, Bolton Library
 LOCATION Alexandria
 STATE LA
-BASEURL https://lsua.louislibraries.org/uhtbin/cgisirsi
-CATTYPE sirsi
+CATTYPE sirsient
+BASEURL https://lsua.ent.sirsi.net
+LCODE en_US/lsua
 
 ID OCLC-LNC
 NAME New Orleans Public Library
@@ -4911,8 +4923,9 @@ ID OCLC-LNW
 NAME Northwestern State University
 LOCATION Natchitoches and other campuses
 STATE LA
-BASEURL https://nsula.louislibraries.org/uhtbin/cgisirsi
-CATTYPE sirsi
+CATTYPE sirsient
+BASEURL https://nsula.ent.sirsi.net
+LCODE en_US/nsula
 
 ID OCLC-LA8
 NAME Shreve Memorial Library
@@ -4951,7 +4964,9 @@ NAME Xavier University of Louisiana
 LOCATION New Orleans
 STATE LA
 BASEURL https://xavier.louislibraries.org/uhtbin/cgisirsi
-CATTYPE sirsi
+CATTYPE sirsient
+BASEURL https://xavier.ent.sirsi.net
+LCODE en_US/xavier
 
 ID OCLC-9BY
 NAME Bangor Public Library
@@ -5028,7 +5043,8 @@ NAME Cecil County Public Library
 LOCATION Cecil County
 STATE MD
 CATTYPE sirsient
-BASEURL http://ceco.ent.sirsi.net
+BASEURL https://ceco.ent.sirsi.net
+LCODE en_US/default
 
 ID OCLC-CHESA
 NAME Chesapeake College

@@ -10,7 +10,7 @@
 #   are not included in this file.
 # Manual title and name-title correspondences have been moved to wikiworksmap.
 # See docs file for documentation
-# Last updated 2019-01-07
+# Last updated 2019-01-22
 # Did LCSH 2015-2017 update lists, 2018 monthly lists 1-11
 1 Pendleton Place House (New York, N.Y.)|=|Building at One Pendleton Place
 1066 Country Walk (England)|=|1066 Country Walk
@@ -133,7 +133,7 @@ Abkhazia (Georgia) -- History|<->|History of Abkhazia
 Abkhazia (Georgia) -- History -- Uprising, 1992-1993|<->|War in Abkhazia (1992–1993)
 Abkhazo-Adyghian languages|<->|Northwest Caucasian languages
 Abolitionists|->|Abolitionism
-Abor language|<->|Adi language
+Abor language|->|Adi people
 Aboriginal Australians -- Health and hygiene|<->|Indigenous health in Australia
 Aboriginal Australians -- History|=|History of Indigenous Australians
 Aboriginal Multi-Media Society of Alberta|<->|Aboriginal Multi-Media Society
@@ -320,6 +320,7 @@ Aden, Gulf of|=|Gulf of Aden
 Adeno-associated virus 2|->|Adeno-associated virus
 Adhesives|=|Adhesive
 Adhola language|=|Adhola dialect
+Adi (Indic people)|=|Adi people
 Adirondack Mountains (N.Y.)|=|Adirondack Mountains
 Adjustable rate mortgages|=|Adjustable-rate mortgage
 Adler, Irene (Fictitious character)|=|Irene Adler
@@ -3689,7 +3690,8 @@ Blizzards|=|Blizzard
 Blo-sbyong|=|Lojong
 Block 10 (Auschwitz (Concentration camp))|=|Block 10
 Block books|=|Block book
-Block grants|=|Block grant
+Block grants|->|Block grant (United States)
+Block grants -- United States|=|Block grant (United States)
 Block Island (R.I. : Island)|<->|Block Island
 Block Island National Wildlife Refuge (R.I.)|=|Block Island National Wildlife Refuge
 Block Island Sound (R.I.)|=|Block Island Sound
@@ -7540,7 +7542,7 @@ Cooking, Vietnamese|<->|Vietnamese cuisine
 Cooking, Welsh|<->|Welsh cuisine
 Cooking, West African|<->|West African cuisine
 Cooking, Yemeni|<->|Yemeni cuisine
-Cooking, Yugoslav|<->|Yugoslavian cuisine
+Cooking, Yugoslav|<->|Yugoslav cuisine
 Cool Dawn (Race horse)|=|Cool Dawn
 Cool Spring, Battle of, Va., 1864|=|Battle of Cool Spring
 Cooleemee Plantation (N.C.)|<->|Cooleemee
@@ -10964,7 +10966,7 @@ Fehmarn, Battle of, 1644|=|Battle of Fehmarn (1644)
 Fehmarn Belt (Denmark and Germany)|=|Fehmarn Belt
 Fehrbellin (Germany)|=|Fehrbellin
 Fehrbellin, Battle of, Fehrbellin, Germany, 1675|=|Battle of Fehrbellin
-Feicui Dam (Taiwan)|=|Feitsui Dam
+Feicui Dam (Taiwan)|=|Feicui Dam
 Feira de Santana (Brazil)|=|Feira de Santana
 Feldkirch (Austria)|=|Feldkirch, Vorarlberg
 Feline diabetes|=|Diabetes in cats
@@ -11231,7 +11233,7 @@ Flash (Fictitious character)|=|Flash (comics)
 Flash memories (Computers)|=|Flash memory
 Flash point (Thermodynamics)|=|Flash point
 Flashman, Harry Paget (Fictitious character)|=|Harry Flashman
-Flat panel displays|=|Flat panel display
+Flat panel displays|=|Flat-panel display
 Flat-rate income tax|<->|Flat tax
 Flatbush Avenue (New York, N.Y.)|=|Flatbush Avenue
 Flatterer (Race horse)|=|Flatterer (horse)
@@ -14172,7 +14174,6 @@ Hindu ethics|->|Ethics in religion
 Hindu gods|=|Hindu deities
 Hindu Kush Mountains (Afghanistan and Pakistan)|<->|Hindu Kush
 Hinduism -- Controversial literature|<->|Anti-Hindu sentiment
-Hindus|=|Hindu
 Hinges|<->|Hinge
 Hinkley Point (England)|=|Hinkley Point
 Hinkley Point Nuclear Power Station (England)|<-|Hinkley Point A nuclear power station
@@ -15293,7 +15294,7 @@ Inflation (Finance)|=|Inflation
 Inflationary universe|<->|Inflation (cosmology)
 Influenza Epidemic, 1918-1919|<->|Spanish flu
 Influenza vaccines|=|Influenza vaccine
-Informal sector (Economics)|=|Informal sector
+Informal sector (Economics)|<->|Informal economy
 Information behavior|<->|Information seeking behavior
 Information modeling|<->|Information model
 Information networks|<->|Information system
@@ -16646,7 +16647,7 @@ Kalhur (Kurdish people)|=|Kalhor (Iranian tribe)
 K&amacr;l&imacr; (Hindu deity)|=|Kali
 K&amacr;l&imacr;-p&umacr;j&amacr; (Hindu festival)|=|Kali Puja
 Kali River (India and Nepal)|=|Kali River
-Kalindoia (Extinct city)|=|Kalindoia
+Kalindoia (Extinct city)|=|Calindoia
 Kalinga, Battle of, India, 260 B.C.|<->|Kalinga War
 Kalingi (Indic people)|=|Kalingi
 K&amacr;linjar Fort (Kalanjar, India)|<->|Kalinjar Fort
@@ -18550,9 +18551,8 @@ Loch Class (Frigates)|=|Loch-class frigate
 Lochnagar (Scotland : Mountain)|=|Lochnagar
 Lockroy, Port (Antarctica)|=|Port Lockroy
 Locks (Hydraulic engineering)|<->|Lock (water navigation)
-Locks and keys|<->|Lock (security device)
-Locksmithing|->|Lock (security device)
-Locksmiths|->|Lock (security device)
+Locks and keys|<->|Lock and key
+Locksmiths|->|Locksmithing
 Lockwoods Folly River (N.C.)|=|Lockwood Folly River
 Locomotion (Steam locomotive)|<->|Locomotion No. 1
 Locomotive engineers|=|Railroad engineer
@@ -18635,7 +18635,7 @@ Lone twins|=|Twinless twin
 Lonely Dell Ranch Historic District (Ariz.)|<->|Lee's Ferry and Lonely Dell Ranch
 Lonesome George (Tortoise)|=|Lonesome George
 Long Branch (Va. : Plantation)|=|Long Branch Plantation
-Long Bridge (Washington, D.C., and Va.)|->|14th Street Bridges
+Long Bridge (Washington, D.C., and Va.)|=|Long Bridge (Potomac River)
 Long Cecil (Ordnance)|=|Long Cecil
 Long-distance relay races|<->|Ekiden
 Long Island (N.Y.)|=|Long Island
@@ -18993,8 +18993,7 @@ Macau (China : Special Administrative Region)|=|Macau
 Macau (China : Special Administrative Region) -- History|=|History of Macau
 Macau (China : Special Administrative Region) -- History -- Transfer of Sovereignty from Portugal, 1999|=|Transfer of sovereignty over Macau
 Macbeth, Hamish (Fictitious character)|=|Hamish Macbeth
-MacBook (Computer)|<->|MacBook family
-MacBook (Computer)|<-|MacBook
+MacBook (Computer)|<->|MacBook
 MacBook Air (Computer)|=|MacBook Air
 MacBook Pro (Computer)|=|MacBook Pro
 Macchi C.200 (Fighter plane)|=|Macchi C.200
@@ -22138,7 +22137,7 @@ Nigeria -- Foreign relations|=|Foreign relations of Nigeria
 Nigeria -- History -- Coup d'&eacute;tat, 1966 (January 15)|=|1966 Nigerian coup d'état
 Nigeria -- History -- Coup d'&eacute;tat, 1966 (July 29)|=|1966 Nigerian counter-coup
 Nigeria -- History -- Coup d'&eacute;tat, 1983|=|1983 Nigerian coup d'état
-Nigeria -- History -- Civil War, 1967-1970|=|Nigerian Civil War
+Nigeria -- History -- Civil War, 1967-1970|=|Biafran War
 Nigeria -- Politics and government|<->|Federal government of Nigeria
 Nigeria -- Religion|=|Religion in Nigeria
 Nigerian newspapers|=|Newspapers published in Nigeria
@@ -22462,7 +22461,7 @@ Northern Ireland -- Politics and government|<-|Government of Northern Ireland
 Northern Irish|<->|People of Northern Ireland
 Northern Khmer language|=|Northern Khmer dialect
 Northern lesser bushbaby|<->|Senegal bushbaby
-Northern long-eared myotis|=|Northern long-eared bat (myotis)
+Northern long-eared myotis|=|Myotis septentrionalis
 Northern Mariana Islands -- Politics and government|<->|Politics of the Northern Mariana Islands
 Northern oriole|<-|Baltimore oriole
 Northern oriole|<-|Bullock's oriole
@@ -22788,7 +22787,7 @@ Ogba (African people)|=|Ogba people
 Ogboni (Cult)|<->|Ogboni
 Ogham alphabet|=|Ogham
 Oghuz (Turkic people)|=|Oghuz Turks
-Oglala Indians|=|Oglala Lakota
+Oglala Indians|=|Oglala
 Oglebay Park (Wheeling, W. Va.)|=|Oglebay Park
 Ogoni (African people)|=|Ogoni people
 Ohaton (Alta.)|=|Ohaton
@@ -23820,7 +23819,7 @@ Panz&oacute;s (Guatemala)|=|Panzós
 Paoli Massacre, 1777|=|Battle of Paoli
 Papacy|->|Pope
 Papacy -- History -- 1309-1378|<->|Avignon Papacy
-Papacy -- History -- Schism, 1130-1139|<->|1130 Papal election
+Papacy -- History -- Schism, 1130-1139|<->|1130 papal election
 Papago Freeway (Phoenix, Ariz.)|->|Interstate 10 in Arizona
 Papago Park (Phoenix, Ariz.)|<->|Papago Park
 Papah&amacr;naumoku&amacr;kea Marine National Monument (Agency : U.S.)|->|Papahānaumokuākea Marine National Monument
@@ -24105,7 +24104,7 @@ Parrotfishes|=|Parrotfish
 Parrots|=|Parrot
 Parry Sound (Ont. : District)|=|Parry Sound District
 Parry Sound (Ont. : Sound)|=|Parry Sound
-Parsees|<->|Parsi
+Parsees|<->|Parsis
 Parsing (Computer grammar)|->|Parsing
 Parsonages|<->|Clergy house
 Partai Keadilan Sejahtera|=|Prosperous Justice Party
@@ -24397,7 +24396,7 @@ Peqin (Albania : Rrethi)|=|Peqin District
 Pequannock (N.J.)|=|Pequannock Township, New Jersey
 Pequawket Indians|=|Pequawket
 Pequop Mountains (Nev.)|=|Pequop Mountains
-Pequot Indians|<->|Pequot
+Pequot Indians|<->|Pequots
 Pequot War, 1636-1638|<->|Pequot War
 Perak (Malaysia)|=|Perak
 Perak Island (Kedah, Malaysia)|=|Perak Island
@@ -25089,7 +25088,7 @@ Polar Bridge Expedition (1988)|=|Soviet–Canadian 1988 Polar Bridge Expedition
 Polar Eskimos|=|Inughuit
 Polar regions|=|Polar regions of Earth
 Polaris (Missile)|=|UGM-27 Polaris
-Polaris (Ship)|=|USS Periwinkle (1864)
+Polaris (Ship)|=|USS Polaris (1871)
 Polaroid Land camera|=|Land Camera
 Poldark, Ross (Fictitious character)|=|Ross Poldark
 Pole Creek Wilderness (Idaho)|=|Pole Creek Wilderness
@@ -25331,7 +25330,7 @@ Potholes|<->|Pothole (landform)
 Potholes (Roads)|=|Pothole
 Potiguara Indians|=|Potiguara
 Potlatch River (Idaho)|=|Potlatch River
-Potomac Highway Bridge (Washington, D.C., and Va.)|->|14th Street Bridges
+Potomac Highway Bridge (Washington, D.C., and Va.)|->|14th Street bridges
 Potos&iacute; (Bolivia)|=|Potosí
 Potos&iacute; (Bolivia : Department)|=|Potosí Department
 Potomac Heritage National Scenic Trail|=|Potomac Heritage Trail
@@ -25909,6 +25908,7 @@ Puns and punning|<->|Pun
 Punts (Boats)|=|Punt (boat)
 Punu (African people)|=|Punu people
 Punuk Islands (Alaska)|=|Punuk Islands
+Puo&#x0323;&#x0302;c language|<->|Ksingmul language
 Pup (Fighter plane)|=|Sopwith Pup
 Pupae|=|Pupa
 Pupil (Eye)|=|Pupil
@@ -27571,7 +27571,7 @@ Sal&iacute; River (Argentina)|=|Salí River
 Salii (Priests of Mars)|<->|Salii
 Salinan Indians|=|Salinan
 Salinas Grandes (Argentina)|=|Salinas Grandes
-Saline County Courthouse (Benton, Ark. : 1902- )|=|Saline County Courthouse (Benton, Arkansas)
+Saline County Courthouse (Benton, Ark. : 1902- )|=|Saline County Courthouse (Arkansas)
 Saline River (Ill.)|=|Saline River (Illinois)
 Saline River (Kan.)|=|Saline River (Kansas)
 Saline River (Saline County-Ashley County, Ark.)|=|Saline River (Ouachita River tributary)
@@ -29570,7 +29570,7 @@ Sorex palustris|=|American water shrew
 Sorghum|<->|Sorghum bicolor
 Sorghum (Genus)|<->|Sorghum
 Sorrows of the Blessed Virgin Mary, Devotion to|<->|Our Lady of Sorrows
-Sotho (African people)|=|Basotho
+Sotho (African people)|=|Sotho people
 Soufri&egrave;re (Saint Vincent and the Grenadines)|=|La Soufrière (volcano)
 Soufri&egrave;re Hills Volcano (Montserrat)|<->|Soufrière Hills
 Souk Ahras (Algeria)|=|Souk Ahras
@@ -30785,7 +30785,6 @@ Taiya River (Alaska)|=|Taiya River
 Taj Mahal (Agra, India)|=|Taj Mahal
 Tajikistan -- History -- Civil War, 1992-1994|<->|Tajikistani Civil War
 Tajikistan -- Politics and government|<->|Politics of Tajikistan
-Takamagahara|=|Takama-ga-hara
 Takao (Cruiser)|=|Japanese cruiser Takao (1930)
 Takao Class (Cruisers)|=|Takao-class cruiser
 Takatsuki-shi (Japan)|=|Takatsuki
@@ -31080,7 +31079,6 @@ Teeth -- Discoloration|=|Tooth discoloration
 Teeth -- Diseases|<->|Tooth pathology
 Teeth -- Erosion|<->|Acid erosion
 Tefedest Mountains (Algeria)|=|Teffedest Mountains
-Teff|=|Eragrostis tef
 Tegernsee (Abbey)|=|Tegernsee Abbey
 Tegernsee (Germany)|=|Tegernsee
 Tegernsee (Germany : Lake)|=|Tegernsee (lake)
@@ -31381,7 +31379,7 @@ Therapeutic alliance|=|Therapeutic relationship
 Therapeutics|=|Therapy
 Th&emacr;rasia Island (Greece)|=|Therasia
 Therav&amacr;da Buddhism|=|Theravada
-Theresienstadt (Concentration camp)|=|Theresienstadt concentration camp
+Theresienstadt (Concentration camp)|<->|Theresienstadt Ghetto
 Thermals (Meteorology)|=|Thermal
 Thermopolis, Mia (Fictitious character)|->|The Princess Diaries
 Thermopylae, Battle of, Greece, 480 B.C.|=|Battle of Thermopylae
@@ -33221,7 +33219,7 @@ Variable stars|=|Variable star
 Varian Data 620/i (Computer)|->|Varian Data Machines
 Variation (Biology)|<->|Variation
 Variations|<->|Variation (music)
-Varicella-zoster virus|=|Varicella zoster virus
+Varicella-zoster virus|=|Human alphaherpesvirus 3
 Variegated Glacier (Alaska)|=|Variegated Glacier
 Varietal wines|=|Varietal
 Varieties (Universal algebra)|=|Variety (universal algebra)
@@ -34842,7 +34840,7 @@ World War, 1939-1945 -- Netherlands|=|Netherlands in World War II
 World War, 1939-1945 -- New Zealand|<->|Military history of New Zealand during World War II
 World War, 1939-1945 -- Outlines, syllabi, etc.|<->|Outline of World War II
 World War, 1939-1945 -- Participation, Indian|<->|Native Americans and World War II
-World War, 1939-1945 -- Participation, Japanese American|=|Japanese American service in World War II
+World War, 1939-1945 -- Participation, Japanese American|=|Japanese-American service in World War II
 World War, 1939-1945 -- Participation, Juvenile|<->|Military use of children in World War II
 World War, 1939-1945 -- Peace|<->|Aftermath of World War II
 World War, 1939-1945 -- Philippines|<->|Military history of the Philippines during World War II
@@ -34979,7 +34977,7 @@ Xian tian dao (Cult)|<->|Xiantiandao
 Xianbei (Asian people)|=|Xianbei
 Xichang Shi (China)|<->|Xichang
 Xingyun Lake (China)|=|Xingyun Lake
-Xinh Mun (Vietnamese people)|=|Xinh Mun people
+Xinh Mun (Vietnamese people)|<->|Ksingmul people
 Xiong family|<->|Xiong (surname)
 Xiongnu (Asian people)|=|Xiongnu
 Xipe Totec (Aztec deity)|=|Xipe Totec
