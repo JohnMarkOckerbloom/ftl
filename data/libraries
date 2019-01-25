@@ -4,8 +4,7 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2019-01-19
-# Next set of libraries to check: NJ and down
+# Last updated 2019-01-25
 
 ID OLBP
 NAME The Online Books Page
@@ -1858,7 +1857,6 @@ COUNTRY UK
 CATTYPE prismhosted
 BASEURL http://capitadiscovery.co.uk/moray
 
-# http://discover.library.wales/primo_library/libweb/action/dlSearch.do?vid=44WHELF_NLW_VU1&institution=44WHELF_NLW&onCampus=false&indx=1&bulkSize=10&dym=true&highlight=true&displayField=title&prefLang=en_US&search_scope=CSCOP_EVERYTHING&query=any%2Ccontains%2Chorse
 ID OCLC-NLW
 NAME National Library of Wales
 LOCATION Aberystwyth, Wales
@@ -5190,8 +5188,8 @@ ID OCLC-BDR
 NAME Bridgewater State University, Maxwell Library
 LOCATION Bridgewater
 STATE MA
-CATTYPE voyager-vwebv
-BASEURL http://webster.bridgew.edu/vwebv/search
+CATTYPE eds
+LCODE bridgesc2
 
 ID OCLC-CWJ
 NAME C/W MARS
@@ -5227,9 +5225,10 @@ ID FIVECOLLEGE
 NAME Five College Libraries
 LOCATION Amherst, Hampshire, Mt. Holyoke, Smith, UMass-Amherst
 STATE MA
-CATTYPE aleph1
-BASEURL http://fcaw.library.umass.edu
+CATTYPE alephcuny
+BASEURL https://fcaw.library.umass.edu
 TINDEX WTI
+SINDEX SCAN_SUB
 
 ID OCLC-HLS
 NAME Harvard Library
@@ -5245,17 +5244,17 @@ ID OCLC-QWQ
 NAME J. V. Fletcher Library
 LOCATION Westford
 STATE MA
-BASEURL https://westford.mvlc.org/eg/opac
-CATTYPE evergreen-dynamic
-LCODE 77
+BASEURL https://mvlc.ent.sirsi.net
+CATTYPE sirsient
+LCODE en_US/westford
 
 ID OCLC-MRQ
 NAME Merrimack Valley Library Consortium
 LOCATION Public libraries in northeastern MA
 STATE MA
-BASEURL https://catalog.mvlc.org/eg/opac
-CATTYPE evergreen-dynamic
-LCODE 1
+BASEURL https://mvlc.ent.sirsi.net
+CATTYPE sirsient
+LCODE en_US/mvlc
 
 ID OCLC-MLN
 NAME Minuteman Library Network
@@ -5295,7 +5294,7 @@ LOCATION South Shore public libraries
 STATE MA
 BASEURL https://catalog.ocln.org
 CATTYPE sirsient
-LCODE en_US/default
+LCODE en_US/ocln
 
 ID OCLC-S6L
 NAME SAILS Library Network
@@ -5330,8 +5329,10 @@ ID OCLC-TFW
 NAME Tufts University
 LOCATION Medford
 STATE MA
-CATTYPE summon
-BASEURL http://tufts.summon.serialssolutions.com
+CATTYPE primodl
+BASEURL https://tufts-primo.hosted.exlibrisgroup.com
+VID 01TUN
+LCODE 01TUN_INST
 
 ID OCLC-AUM
 NAME University of Massachusetts Amherst
@@ -5415,10 +5416,10 @@ ID OCLC-EZC
 NAME Central Michigan University
 LOCATION Mount Pleasant
 STATE MI
-BASEURL http://cm-primo.hosted.exlibrisgroup.com
-CATTYPE primodl-loc
-VID CMICH
-LOC adaptor,scope:(CMICH_CONTENTDM),scope:(CMICH_III),primo_central_multiple_fe,%EbscoLocalCMICH3,EbscoLocalCMICH2,EbscoLocalCMICH1
+BASEURL http://cmich-primo.hosted.exlibrisgroup.com
+CATTYPE primodl-scope
+VID 01CMICH
+SCOPE EVERYTHING
 
 ID OCLC-EYP
 NAME Detroit Public Library
@@ -5617,15 +5618,11 @@ ID OCLC-MNT
 NAME University of St. Thomas
 LOCATION St. Paul
 STATE MN
-CATTYPE summon
-BASEURL http://stthomas.summon.serialssolutions.com
+CATTYPE primodl
+BASEURL https://clicsearch.stthomas.edu
+VID STTHOMAS
 
-ID OCLC-MNWUL
-NAME Walden University
-LOCATION Minneapolis-based online institution
-STATE MN
-BASEURL http://walden.kohalibrary.com
-CATTYPE koha
+# Walden U appears to no longer have any catalog accessible to general public
 
 ID OCLC-WLM
 NAME Washington County Library
@@ -5691,8 +5688,8 @@ ID OCLC-MUM
 NAME University of Mississippi Libraries
 LOCATION Oxford
 STATE MS
-CATTYPE innopac
-BASEURL http://umiss.lib.olemiss.edu
+CATTYPE summon
+BASEURL https://olemiss.summon.serialssolutions.com
 
 ID OCLC-MR4
 NAME Concordia Seminary Library
@@ -5806,9 +5803,8 @@ ID OCLC-SEM
 NAME Southeast Missouri State University
 LOCATION Cape Girardeau
 STATE MO
-BASEURL http://galahad.searchmobius.org/
-CATTYPE iii-consortium-member
-LCODE 3
+BASEURL http://semo-encore.iii.com/iii/encore
+CATTYPE encore
 
 ID OCLC-MOS
 NAME Springfield-Greene County Library District
@@ -5857,8 +5853,8 @@ ID OCLC-UMK
 NAME University of Missouri Kansas City: UMKC Libraries
 LOCATION Kansas City
 STATE MO
-CATTYPE summon
-BASEURL http://umkc.summon.serialssolutions.com
+BASEURL http://encore.lib.umsystem.edu/iii/encore
+CATTYPE encore
 
 ID OCLC-MUU
 NAME University of Missouri Libraries
@@ -5886,8 +5882,8 @@ NAME Montana Shared Catalog
 LOCATION 150+ libraries across Montana
 STATE MT
 CATTYPE sirsient
-LCODE en_US/default
-BASEURL http://mtsc.sdp.sirsi.net
+LCODE en_US/MTSC
+BASEURL https://mtsc.ent.sirsi.net
 
 ID OCLC-MZF
 NAME Montana State University Library
@@ -5929,8 +5925,11 @@ ID OCLC-OCA
 NAME Creighton University
 LOCATION Omaha
 STATE NE
-CATTYPE summon
-BASEURL http://creighton.summon.serialssolutions.com
+CATTYPE primodl-scope
+BASEURL https://creighton-primo.hosted.exlibrisgroup.com
+SCOPE EVERYTHING
+LCODE 01CRU
+VID 01CRU
 
 ID OCLC-NLN
 NAME Lincoln City Libraries
@@ -6021,9 +6020,8 @@ ID OCLC-ACP
 NAME Atlantic City Free Public Library
 LOCATION Atlantic City
 STATE NJ
-BASEURL http://encore.acfpl.org/iii/encore
-CATTYPE encorekey
-SKIN pearl
+BASEURL http://opac.acfpl.org
+CATTYPE koha
 
 ID OCLC-BRG
 NAME BCCLS
@@ -6145,8 +6143,8 @@ ID OCLC-NJR
 NAME Rutgers University Libraries
 LOCATION New Brunswick, Newark, and Camden
 STATE NJ
-BASEURL https://www-iris-rutgers-edu.proxy.libraries.rutgers.edu/uhtbin/cgisirsi
-CATTYPE sirsi
+CATTYPE primo-justquery
+BASEURL https://rutgers.primo.exlibrisgroup.com/discovery/search?tab=Everything&search_scope=MyInst_and_CI&vid=01RUT_INST:01RUT&offset=0&
 
 ID OCLC-STH
 NAME Seton Hall University
@@ -6159,9 +6157,9 @@ ID OCLC-SOM
 NAME Somerset County Library System
 LOCATION Somerset County
 STATE NJ
-BASEURL http://catalog.somerset.lib.nj.us
-CATTYPE iii-consortium-member
-LCODE 8
+CATTYPE ls2pac
+BASEURL https://catalog.sclsnj.org/
+FILTERS S
 
 ID OCLC-NJT
 NAME The College of New Jersey
@@ -6178,11 +6176,11 @@ CATTYPE eds
 LCODE s8953837
 
 ID OCLC-QUE
-NAME ABC Library
+NAME The Public Library
 LOCATION Albuquerque and Bernalillo County
 STATE NM
-BASEURL http://encore.cabq.gov/iii/encore
-CATTYPE encore
+CATTYPE eds
+LCODE s4120635
 
 ID OCLC-ZP7
 NAME Rio Rancho Public Libraries
@@ -6192,12 +6190,12 @@ BASEURL http://discover.ci.rio-rancho.nm.us/iii/encore
 CATTYPE encore
 
 ID OCLC-LAN
-NAME Los Alamos County Library System
-LOCATION Los Alamos
+NAME Los Alamos Public Library System
+LOCATION Los Alamos and White Rock
 STATE NM
-BASEURL http://library.losalamosnm.us
-CATTYPE ipac20
-AINDEX PZAUTH
+CATTYPE sirsient
+BASEURL https://losalamos.ent.sirsi.net
+LCODE en_US/default
 
 ID OCLC-IRU
 NAME New Mexico State University
@@ -6242,15 +6240,15 @@ ID OCLC-BKL
 NAME Brooklyn Public Library
 LOCATION Brooklyn
 STATE NY
-CATTYPE bibliocommons
-BASEURL https://brooklyn.bibliocommons.com
+BASEURL https://borrow.bklynlibrary.org/r1s/iii/encore
+CATTYPE encore
 
 ID OCLC-9VX
 NAME Chautauqua-Cattaraugus Library System
 LOCATION Jamestown and vicinity
 STATE NY
-BASEURL http://jpls.sirsi.net/uhtbin/cgisirsi/
-CATTYPE sirsi
+BASEURL https://catalog.cclsny.org/
+CATTYPE koha
 
 ID OCLC-VHB
 NAME Buffalo and Erie County Public Library
@@ -6296,7 +6294,7 @@ ID OCLC-VYG
 NAME Finger Lakes Library System
 LOCATION Public libraries in Cayuga, Cortland, Seneca, Tioga, and Tompkins counties
 STATE NY
-BASEURL http://catalog.flls.org/polaris
+BASEURL https://catalog.flls.org/polaris
 CATTYPE polaris
 
 ID OCLC-VDP
@@ -6392,8 +6390,8 @@ ID OCLC-ZNL
 NAME New York Law School
 LOCATION New York
 STATE NY
-BASEURL http://lawlib.nyls.edu
-CATTYPE innopac
+BASEURL https://lawlib.nyls.edu
+CATTYPE koha
 
 ID OCLC-ZYU
 NAME New York University Libraries
@@ -6758,11 +6756,8 @@ ID OCLC-NWQ
 NAME North Dakota State University
 LOCATION Fargo
 STATE ND
-CATTYPE primodl-scope
-BASEURL http://odin-primo.hosted.exlibrisgroup.com/
-VID ndsu
-LCODE NDSU
-SCOPE NDSU_ALL
+CATTYPE primo-justquery
+BASEURL https://ndsu.primo.exlibrisgroup.com/discovery/search?tab=Everything&search_scope=MyInst_and_CI&vid=01ODIN_NDSU:ndsu&offset=0&
 
 ID OCLC-4ZG
 NAME University of North Dakota
@@ -6899,7 +6894,7 @@ NAME Ohio University
 LOCATION Athens and other campuses
 STATE OH
 CATTYPE iii-consortium-member
-BASEURL http://alice.library.ohiou.edu
+BASEURL http://alice.library.ohio.edu
 LCODE 7
 
 ID OCLC-OWU
@@ -6929,8 +6924,8 @@ ID OCLC-YMM
 NAME Public Library of Youngstown and Mahoning County
 LOCATION Youngstown and vicinity
 STATE OH
-BASEURL http://encore.libraryvisit.org/iii/encore
-CATTYPE encore
+CATTYPE bibliocommons
+BASEURL https://plymc.bibliocommons.com
 
 # ID is for Stark County District Library; catalog also covers some nearby libs
 ID OCLC-SDL
@@ -6980,9 +6975,9 @@ ID OCLC-OEA
 NAME Eastern Oklahoma District Library System
 LOCATION 6 counties in eastern Oklahoma
 STATE OK
-CATTYPE ipac20
-BASEURL http://ipac.eodls.lib.ok.us
-PROFILE eodls
+CATTYPE sirsient
+LCODE en_US/default
+BASEURL http://eok.ent.sirsi.net
 
 ID OCLC-OEG
 NAME Enid Public Library
@@ -7012,9 +7007,8 @@ ID OCLC-OKN
 NAME Northeastern State University
 LOCATION Tahlequah, Broken Arrow, and Muskogee
 STATE OK
-CATTYPE iii-consortium-member
-BASEURL http://library2.nsuok.edu
-LCODE 9
+BASEURL https://nsuok.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-OKS
 NAME Oklahoma State University
