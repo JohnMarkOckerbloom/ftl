@@ -5105,12 +5105,13 @@ CATTYPE sirsient
 BASEURL http://mdpl.ent.sirsi.net
 LCODE catalog
 
+# NAL's combined search seems to only work well for keywords
 ID OCLC-AGL
 NAME National Agricultural Library
 LOCATION Beltsville
 STATE MD
-BASEURL http://agricola.nal.usda.gov/cgi-bin/Pwebrecon.cgi
-CATTYPE voyager
+BASEURL https://agricola.nal.usda.gov/vwebv/search
+KEYURL ${BASEURL}?searchArg=${ARG}&searchCode=GKEY^*&searchType=1
 
 ID OCLC-MDK
 NAME Prince George's County Memorial Library System
@@ -7265,9 +7266,17 @@ ID OCLC-XK8
 NAME Berks County Public Libraries
 LOCATION Reading and vicinity
 STATE PA
-CATTYPE aquabrowser
-BASEURL http://catalog.berks.lib.pa.us
-SINDEX subject
+BASEURL https://catalog.berkslibraries.org/polaris
+CATTYPE polaris
+
+ID OCLC-BMC
+NAME Bryn Mawr College
+LOCATION Bryn Mawr
+STATE PA
+CATTYPE primo-ve
+BASEURL https://tripod.brynmawr.edu
+VID 01TRI_INST:BMC
+SCOPE BMC_All
 
 ID OCLC-DPB
 NAME Bucks County Library System
@@ -7311,8 +7320,8 @@ ID OCLC-PDC
 NAME Community College of Philadelphia
 LOCATION Philadelphia
 STATE PA
-BASEURL http://library.ccp.edu
-CATTYPE innopac
+CATTYPE summon
+BASEURL https://ccp.summon.serialssolutions.com
 
 ID OCLC-PACPL
 NAME Cranberry Public Library
@@ -7348,7 +7357,7 @@ NAME Drexel University Libraries
 LOCATION Philadelphia
 STATE PA
 CATTYPE summon
-BASEURL http://drexel.summon.serialssolutions.com
+BASEURL https://drexel.summon.serialssolutions.com
 
 ID OCLC-CPL
 NAME eiNetwork
@@ -7361,7 +7370,7 @@ ID OCLC-EPL
 NAME Erie County public libraries
 LOCATION Erie and vicinity
 STATE PA
-BASEURL http://catalog.erielibrary.org/polaris
+BASEURL https://catalog.erielibrary.org/polaris
 CATTYPE polaris
 
 ID OCLC-PGC
@@ -7372,6 +7381,15 @@ CATTYPE primodl-scope
 BASEURL https://sshelco-primo.hosted.exlibrisgroup.com
 VID GENEVA
 SCOPE alma_scope
+
+ID OCLC-HVC
+NAME Haverford College
+LOCATION Haverford
+STATE PA
+CATTYPE primo-ve
+BASEURL https://tripod.haverford.edu
+VID 01TRI_INST:HC
+SCOPE HC_All
 
 ID OCLC-QQR
 NAME Historical Society of Pennsylvania
@@ -7486,13 +7504,6 @@ STATE PA
 BASEURL http://library.pecoinfo.org
 CATTYPE koha
 
-ID OCLC-PASGS
-NAME Springside Chestnut Hill Academy Libraries
-LOCATION Philadelphia
-STATE PA
-BASEURL http://schlibraries.goalexandria.com/7057854?site=SPRI
-CATTYPE alexandria
-
 ID OCLC-PAFSS
 NAME Friends Select School Library
 LOCATION Philadelphia
@@ -7525,20 +7536,21 @@ LCODE s5508322
 GID main
 PROFILE eds
 
+ID OCLC-PSC
+NAME Swarthmore College
+LOCATION Swarthmore
+STATE PA
+CATTYPE primo-ve
+BASEURL https://tripod.swarthmore.edu
+VID 01TRI_INST:SC
+SCOPE SC_All
+
+# Temple now has their own Bento search
 ID OCLC-TEU
 NAME Temple University Libraries
 LOCATION Philadelphia
 STATE PA
-CATTYPE summon
-BASEURL http://temple.summon.serialssolutions.com
-
-ID OCLC-TCCDM
-NAME Tri-College Consortium
-LOCATION Bryn Mawr, Haverford, and Swarthmore colleges
-STATE PA
-CATTYPE vufindgeneral
-BASEURL http://tripod.brynmawr.edu/find/Channels/Results
-FILTERS NK
+KEYURL https://librarysearch.temple.edu/everything?q=${ARG}
 
 # Penn Libraries' search syntax is in flux with new system
 # For now, we'll cut back to keyword search only 
