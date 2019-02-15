@@ -4437,11 +4437,9 @@ ID OCLC-IOU
 NAME Des Moines Public Library
 LOCATION Des Moines
 STATE IA
-BASEURL http://libhip.desmoineslibrary.com
-CATTYPE ipac20
-PROFILE ce
-AINDEX PZAUTH
-TINDEX PALLTI
+CATTYPE sirsient
+BASEURL https://desmoin.ent.sirsi.net
+LCODE en_US/default
 
 ID OCLC-LXY
 NAME Iowa City Public Library
@@ -7718,7 +7716,7 @@ NAME Richland Library
 LOCATION Columbia and Richland County
 STATE SC
 BASEURL http://www.richlandlibrary.com
-KEYURL ${BASEURL}/search-bb?query=${ARG:N}
+KEYURL ${BASEURL}/catalog?q=${ARG:N}
 
 ID SCLENDS
 NAME SC LENDS
@@ -7768,9 +7766,9 @@ ID OCLC-ZR8
 NAME Rawlins Municipal Library
 LOCATION Pierre
 STATE SD
-CATTYPE aleph1
-BASEURL http://argos.sdln.net
-LCODE rpl
+CATTYPE atriuum
+BASEURL https://rawlinslibrarysd.booksys.net/opac/rawl/index.html#search:
+FILTERS N
 
 ID OCLC-SDSDL
 NAME South Dakota Library Network
@@ -7814,7 +7812,7 @@ ID OCLC-TCH
 NAME Chattanooga Public Library
 LOCATION Chattanooga
 STATE TN
-BASEURL http://catalog.lib.chattanooga.gov/polaris
+BASEURL http://chattanooga.polarislibrary.com/polaris
 CATTYPE polaris
 
 ID OCLC-CMCPL
