@@ -1061,6 +1061,13 @@ COUNTRY CN
 VID zzu
 LOC adaptor,scope:(ZZU),primo_central_multiple_fe
 
+ID OCLC-UPX
+NAME University of Cyprus
+LOCATION Nicosia
+COUNTRY CY
+BASEURL http://search.cypruslibraries.ac.cy/iii/encore_ucy
+CATTYPE encore
+
 ID DE-11
 NAME Humboldt-Universit&auml;t zu Berlin
 LOCATION Berlin; English search terms may give limited results
@@ -7807,6 +7814,8 @@ LOCATION Nashville
 STATE TN
 CATTYPE summon
 BASEURL http://belmont.summon.serialssolutions.com
+CATTYPE primo-justquery
+BASEURL https://primo-pmtna03.hosted.exlibrisgroup.com/primo-explore/search?search_scope=Everything&vid=01BELMONT_INST_V1&
 
 ID OCLC-TCH
 NAME Chattanooga Public Library
@@ -7910,23 +7919,23 @@ ID OCLC-BLUEG
 NAME Tennessee State Library and Archives
 LOCATION Nashville
 STATE TN
-CATTYPE tlc
-LCODE TSLAYSM
-BASEURL http://tsla.tlcdelivers.com/
+CATTYPE sirsient
+BASEURL https://tnsla.ent.sirsi.net
+LCODE en_US/tnslapublic
 
 ID OCLC-TSU
 NAME Tennessee State University
 LOCATION Nashville
 STATE TN
-CATTYPE encore
-BASEURL http://dinaal.tnstate.edu/iii/encore
+CATTYPE eds
+LCODE s9007744
 
 ID OCLC-TTU
 NAME Tennessee Tech University
 LOCATION Cookeville
 STATE TN
-CATTYPE summon
-BASEURL http://tntech.summon.serialssolutions.com
+CATTYPE primo-justquery
+BASEURL https://tntec-primo.hosted.exlibrisgroup.com/primo-explore/search?search_scope=default_scope&vid=01TNTECH_default&
 
 ID OCLC-TMA
 NAME University of Memphis
@@ -7956,12 +7965,8 @@ ID OCLC-TJC
 NAME Vanderbilt University
 LOCATION Nashville
 STATE TN
-CATTYPE primodl-loc
-BASEURL http://discoverlibrary.vanderbilt.edu
-VID VANDERBILT
-LCODE VAN
-LOC adaptor,scope:(GMA),scope:(tvnews),scope:(vanunicorn),scope:(usserial),scope:(ACT),scope:(discoverarchive),scope:(vuojs),primo_central_multiple_fe
-DEFAULT http://discoverlibrary.vanderbilt.edu/
+CATTYPE primo-justquery
+BASEURL https://catalog.library.vanderbilt.edu/discovery/search?institution=01VAN_INST&vid=01VAN_INST:vanui&tab=Everything&search_scope=MyInst_and_CI&
 
 ID OCLC-TVS
 NAME Volunteer State Community College
@@ -7975,8 +7980,8 @@ ID OCLC-TNWIL
 NAME Williamson County Public Library
 LOCATION Franklin and vicinity
 STATE TN
-CATTYPE encore
-BASEURL http://encore.williamson-tn.org/iii/encore
+BASEURL https://wilco.bywatersolutions.com
+CATTYPE koha
 
 ID OCLC-1AR
 NAME Arlington Public Library
@@ -8071,19 +8076,17 @@ WCRID 15586
 NAME Harris County Public Library
 LOCATION Houston vicinity
 STATE TX
-BASEURL http://catalog.hcpl.net
-CATTYPE ipac20
-AINDEX .AH
-KINDEX .GH
-TINDEX .TH
-PROFILE webcat
+CATTYPE sirsient
+BASEURL https://hcpl2.ent.sirsi.net
+LCODE en_US/webcat
 
 ID OCLC-T7L
 NAME Helen Hall Library
 LOCATION League City
 STATE TX
-BASEURL http://hhal.sirsi.net/uhtbin/cgisirsi
-CATTYPE sirsi
+CATTYPE sirsient
+BASEURL http://hhal.ent.sirsi.net
+LCODE en_US/default
 
 ID OCLC-TXN 
 NAME Houston Public Library
@@ -8097,8 +8100,8 @@ ID OCLC-HTC
 NAME Huston-Tillotson University
 LOCATION Austin
 STATE TX
-BASEURL http://voyager.htu.edu/cgi-bin/Pwebrecon.cgi
-CATTYPE voyager
+CATTYPE worldcat-config
+BASEURL https://huston.on.worldcat.org/search?queryString
 
 ID OCLC-IJC
 NAME Irving Public Library
@@ -8127,8 +8130,9 @@ ID OCLC-TXL
 NAME Lubbock Public Library
 LOCATION Lubbock
 STATE TX
-BASEURL http://newlib.ci.lubbock.tx.us/uhtbin/cgisirsi
-CATTYPE sirsi
+CATTYPE sirsient
+LCODE en_US/default
+BASEURL https://lubb.ent.sirsi.net
 
 ID OCLC-LPZ
 NAME Lunar and Planetary Institute Library
@@ -8143,7 +8147,7 @@ LOCATION McAllen
 STATE TX
 CATTYPE ls2pac-config
 CONFIG mcallen
-BASEURL http://hcls.tlcdelivers.com:8080/
+BASEURL https://hcls.tlcdelivers.com/
 
 ID OCLC-M-DOLLAR-K
 NAME McKinney Public Library System
@@ -8156,12 +8160,9 @@ ID OCLC-QS2
 NAME Montgomery County Memorial Library System
 LOCATION Montgomery County
 STATE TX
-BASEURL http://librarycatalog.lonestar.edu.mcplproxy.lonestar.edu
-CATTYPE ipac20
-PROFILE mcml
-AINDEX .AN
-TINDEX ALTITLN
-KINDEX .GN
+CATTYPE sirsient
+BASEURL https://hcpl2.ent.sirsi.net
+LCODE en_US/mcmlweb
 
 ID OCLC-NM-DOLLAR
 NAME Nicholson Memorial Library System
@@ -8254,8 +8255,8 @@ NAME Sekula Memorial Library
 LOCATION Edinburg
 STATE TX
 CATTYPE ls2pac-config
-BASEURL http://hcls.tlcdelivers.com:8080/
 CONFIG edinburg
+BASEURL https://hcls.tlcdelivers.com/
 
 ID OCLC-SNM
 NAME St. Mary's University, Louis J. Blume Library
@@ -8275,8 +8276,10 @@ ID OCLC-ISM
 NAME Southern Methodist University
 LOCATION Dallas
 STATE TX
-CATTYPE summon
-BASEURL http://smu.summon.serialssolutions.com
+CATTYPE primo-ve
+BASEURL https://smu.primo.exlibrisgroup.com
+VID 01SMU_INST:01SMU
+SCOPE MyInst_and_CI
 
 ID OCLC-TXK
 NAME Stephen F. Austin State University
