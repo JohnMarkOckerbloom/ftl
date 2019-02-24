@@ -3095,6 +3095,13 @@ BASEURL http://web-iii.yolocounty.org/
 CATTYPE iii-consortium-member
 LCODE 23
 
+ID OCLC-CO2
+NAME Arapahoe Libraries
+LOCATION Arapahoe County
+STATE CO
+BASEURL https://arapahoelibraries.bibliocommons.com
+CATTYPE bibliocommons
+
 ID OCLC-EB-DOLLAR
 WCRID 8700
 NAME Bemis Public Library
@@ -8314,20 +8321,15 @@ ID OCLC-ILU
 NAME Texas Tech University Libraries
 LOCATION Lubbock
 STATE TX
-CATTYPE eds
-LCODE s8383439
-DEFAULT http://library.ttu.edu/
+CATTYPE primo-justquery
+BASEURL https://ttu-primo.hosted.exlibrisgroup.com/primo-explore/search?search_scope=01TTU_AL&vid=01TTU&
 
 ID OCLC-IWU
 NAME Texas Woman's University
 LOCATION Denton, Dallas, and Houston campuses
 STATE TX
-CATTYPE primodl-loc
-BASEURL http://twuniversal.twu.edu
-VID TWU-A
-LCODE TWU
-LOC adaptor,scope:(TXWU),scope:(TXWA_CONTENTDM),primo_central_multiple_fe
-DEFAULT http://www.twu.edu/library/
+CATTYPE primo-justquery
+BASEURL https://primo-tc-na01.hosted.exlibrisgroup.com/primo-explore/search?institution=TXWU&search_scope=Everything&vid=TWU-A&
 
 ID OCLC-QT7
 NAME Tyler Public Library
