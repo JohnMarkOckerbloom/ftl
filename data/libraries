@@ -4,7 +4,7 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2019-01-25
+# Last updated 2019-02-25
 
 ID OLBP
 NAME The Online Books Page
@@ -814,7 +814,7 @@ LOCATION Mississauga
 PROVINCE ON
 CATTYPE sirsient
 LCODE mlsathome
-BASEURL http://miss.ent.sirsi.net
+BASEURL https://miss.ent.sirsidynix.net
 
 ID OCLC-CNCAD
 NAME OCAD University, DH Hoover Library
@@ -829,7 +829,7 @@ NAME Oshawa Public Libraries
 LOCATION Oshawa
 PROVINCE ON
 CATTYPE sirsient
-BASEURL http://cco.ent.sirsidynix.net
+BASEURL https://cco.ent.sirsidynix.net
 
 ID OCLC-CNOTT
 NAME Ottawa Public Library
@@ -1323,6 +1323,13 @@ LOCATION Leiden
 COUNTRY NL
 BASEURL https://www.library.universiteitleiden.nl
 KEYURL ${BASEURL}/search?q=${ARG:SNK}
+
+ID OCLC-QGJ
+NAME Utrecht University Library
+LOCATION Utrecht
+COUNTRY NL
+BASEURL https://utrechtuniversity.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
 
 # ID a bit arbitrary here (for Infoserve service)
 ID OCLC-NZ@
@@ -2150,7 +2157,7 @@ LOCATION Normal
 STATE AL
 CATTYPE sirsient-old
 LCODE default
-BASEURL http://alabamam.sdp.sirsi.net
+BASEURL https://alabamam.ent.sirsi.net
 
 ID OCLC-AMU
 NAME Alabama State University
@@ -2198,7 +2205,7 @@ LOCATION Dothan and vicinity
 STATE AL
 CATTYPE sirsient
 LCODE en_US/default
-BASEURL http://hlml.ent.sirsi.net
+BASEURL https://hlml.ent.sirsi.net
 
 ID OCLC-ALFLP
 NAME Florence-Lauderdale Public Library
@@ -2235,7 +2242,7 @@ LOCATION Mobile
 STATE AL
 CATTYPE sirsient
 LCODE en_US/default
-BASEURL http://mobi.ent.sirsi.net
+BASEURL https://mobi.ent.sirsi.net
 
 # Can't find a WorldCat registry ID for this; use my own
 ID OLB-MONTGOMERY
@@ -2862,7 +2869,7 @@ NAME San Diego Public Library
 LOCATION San Diego
 STATE CA
 CATTYPE sirsient
-BASEURL http://sddp.ent.sirsi.net/
+BASEURL https://sddp.ent.sirsi.net/
 
 ID OCLC-SDG
 NAME San Diego County Library
@@ -2907,7 +2914,7 @@ ID OCLC-JTW
 NAME San Leandro Public Library
 LOCATION San Leandro
 STATE CA
-BASEURL http://sanle.ent.sirsi.net
+BASEURL https://sanle.ent.sirsi.net
 CATTYPE sirsient
 LCODE en_US/default
 
@@ -3107,7 +3114,7 @@ WCRID 8700
 NAME Bemis Public Library
 LOCATION Littleton
 STATE CO
-BASEURL http://bemis.ent.sirsi.net
+BASEURL https://bemis.ent.sirsi.net
 CATTYPE sirsient
 
 ID OCLC-CO3
@@ -3622,7 +3629,7 @@ NAME Jacksonville Public Library
 LOCATION Jacksonville
 STATE FL
 CATTYPE sirsient
-BASEURL http://jkpl.ent.sirsi.net/
+BASEURL https://jkpl.ent.sirsi.net/
 
 ID OCLC-FN4
 NAME Lake County Library System
@@ -3687,7 +3694,7 @@ LOCATION West Palm Beach and vicinity
 STATE FL
 CATTYPE sirsient
 LCODE en_US/pbcls
-BASEURL http://pbcls.ent.sirsi.net/
+BASEURL https://pbcls.ent.sirsi.net/
 
 ID OCLC-FLY
 NAME Pasco County Libraries
@@ -3827,7 +3834,7 @@ NAME Atlanta-Fulton Public Library System
 LOCATION Atlanta and vicinity
 STATE GA
 CATTYPE sirsient-old
-BASEURL http://afpl.ent.sirsi.net
+BASEURL https://afpl.ent.sirsi.net
 
 ID OCLC-AUU
 NAME Atlanta University Center
@@ -4173,7 +4180,7 @@ LOCATION Buffalo Grove, Wheeling, Prospect Heights, and vicinity
 STATE IL
 CATTYPE sirsient
 LCODE en_US/default
-BASEURL http://itpld.ent.sirsi.net
+BASEURL https://itpld.ent.sirsi.net
 
 ID OCLC-AP8
 NAME Joliet Junior College
@@ -4196,7 +4203,7 @@ LOCATION Springfield
 STATE IL
 CATTYPE sirsient
 LCODE en_US/public
-BASEURL http://lincolnlibrary.sdp.sirsi.net
+BASEURL https://lincpubl.ent.sirsi.net
 
 ID OCLC-JFN
 NAME Naperville Public Library
@@ -4369,8 +4376,8 @@ NAME Cedar Rapids Public Library
 LOCATION Cedar Rapids
 STATE IA
 CATTYPE sirsient
-LCODE crpl
-BASEURL http://crpl.ent.sirsi.net
+LCODE en_US/crpl
+BASEURL https://crpl.ent.sirsi.net
 
 ID OCLC-IWB
 NAME Council Bluffs Public Library
@@ -4427,8 +4434,8 @@ NAME Marion Public Library
 LOCATION Marion
 STATE IA
 CATTYPE sirsient
-LCODE mpl
-BASEURL http://crpl.ent.sirsi.net
+LCODE en_US/mpl
+BASEURL https://crpl.ent.sirsi.net
 
 ID OCLC-LTW
 NAME Orange City Public Library
@@ -4490,7 +4497,7 @@ NAME Allen County Public Library
 LOCATION Fort Wayne and vicinity
 STATE IN
 CATTYPE sirsient
-BASEURL http://alpl.ent.sirsi.net
+BASEURL https://alpl.ent.sirsi.net
 
 ID OCLC-IIB
 NAME Butler University
@@ -4568,7 +4575,7 @@ NAME Kansas City, Kansas Public Library
 LOCATION Kansas City
 STATE KS
 CATTYPE sirsient
-BASEURL http://kckl.ent.sirsi.net
+BASEURL https://kckl.ent.sirsi.net
 LCODE en_US/home
 
 ID OCLC-KKS
@@ -5114,8 +5121,8 @@ NAME Montgomery County Public Libraries
 LOCATION Montgomery County
 STATE MD
 CATTYPE sirsient
-BASEURL http://mdpl.ent.sirsi.net
-LCODE catalog
+BASEURL https://mdpl.ent.sirsi.net
+LCODE en_US/catalog
 
 # NAL's combined search seems to only work well for keywords
 ID OCLC-AGL
@@ -5475,7 +5482,7 @@ NAME Kalamazoo Public Library
 LOCATION Kalamazoo
 STATE MI
 CATTYPE sirsient
-BASEURL http://kzpl.ent.sirsi.net
+BASEURL https://kzpl.ent.sirsi.net
 LCODE en_US/KPL
 
 ID OCLC-LKR
@@ -5528,7 +5535,7 @@ NAME Plymouth District Library
 LOCATION Plymouth
 STATE MI
 CATTYPE sirsient
-BASEURL http://plym.ent.sirsi.net
+BASEURL https://plym.ent.sirsi.net
 LCODE en_US/default
 
 ID OCLC-ER2
@@ -5551,7 +5558,7 @@ NAME Warren Public Library
 LOCATION Warren
 STATE MI
 CATTYPE sirsient
-BASEURL http://sbrb.ent.sirsi.net
+BASEURL https://sbrb.ent.sirsi.net
 LCODE en_US/wcv
 
 ID OCLC-EXW
@@ -6077,8 +6084,8 @@ NAME Mercer County Community College
 LOCATION West Windsor and Trenton
 STATE NJ
 CATTYPE sirsient
-LCODE mccc
-BASEURL http://merl.ent.sirsi.net
+LCODE en_US/mccc
+BASEURL https://merl.ent.sirsi.net
 
 ID OCLC-NNF
 NAME Middlesex County College
@@ -6373,7 +6380,7 @@ NAME Mid York Library System
 LOCATION Herkimer, Madison, and Oneida Counties
 STATE NY
 CATTYPE sirsient
-BASEURL http://myls.ent.sirsi.net
+BASEURL https://myls.ent.sirsi.net
 
 # ID is for Mohawk system
 ID OCLC-VML
@@ -6585,7 +6592,7 @@ NAME Westchester Library System
 LOCATION Public libraries in Westchester County
 STATE NY
 CATTYPE sirsient
-BASEURL http://westls.ent.sirsi.net
+BASEURL https://www.westlibs.org
 
 ID OCLC-0YY
 NAME Yeshiva University Libraries
@@ -7036,7 +7043,7 @@ LOCATION Cleveland, McClain, and Pottawatomie Counties
 STATE OK 
 CATTYPE sirsient
 LCODE MAIN
-BASEURL http://pion.sdp.sirsi.net
+BASEURL https://pion.ent.sirsi.net
 
 ID QUAPAW
 NAME Quapaw Tribal Library
@@ -7052,7 +7059,7 @@ LOCATION 7 counties in southeast Oklahoma
 STATE OK 
 CATTYPE sirsient
 LCODE en_US/default
-BASEURL http://sepl.ent.sirsi.net
+BASEURL https://sepl.ent.sirsi.net
 
 ID OCLC-OKP
 NAME Southern Prairie Library System
@@ -7068,7 +7075,7 @@ LOCATION Stillwater
 STATE OK 
 CATTYPE sirsient
 LCODE en_US/default
-BASEURL http://stwr.ent.sirsi.net
+BASEURL https://stwr.ent.sirsi.net
 
 ID OCLC-TUL
 NAME Tulsa City-County Library
@@ -7468,7 +7475,7 @@ NAME Luzerne County Library System
 LOCATION Wilkes-Barre, Hazleton, and vicinity
 STATE PA
 CATTYPE sirsient
-BASEURL http://luzerne.ent.sirsi.net
+BASEURL https://luzerne.ent.sirsi.net
 
 # ID is for Norristown
 ID OCLC-MNL
@@ -7888,7 +7895,7 @@ NAME Memphis Public Library and Information Center
 LOCATION Memphis
 STATE TN
 CATTYPE sirsient-old
-BASEURL http://mpub.ent.sirsi.net
+BASEURL https://mpub.ent.sirsi.net
 
 ID OCLC-TXM
 NAME Middle Tennessee State University
@@ -7912,7 +7919,7 @@ NAME Organization of Watauga Libraries
 LOCATION Public libraries in Tri-Cities area, NE Tennessee
 STATE TN
 CATTYPE sirsient
-BASEURL http://owl.ent.sirsi.net
+BASEURL https://owl.ent.sirsi.net
 LCODE en_US/OWL
 
 ID OCLC-TWS
@@ -8053,7 +8060,7 @@ NAME El Paso Public Library
 LOCATION El Paso
 STATE TX
 CATTYPE sirsient
-BASEURL http://elpasopl.ent.sirsi.net
+BASEURL https://elpasopl.ent.sirsi.net
 LCODE en_US/default
 
 ID OCLC-FTX
@@ -8092,16 +8099,16 @@ NAME Helen Hall Library
 LOCATION League City
 STATE TX
 CATTYPE sirsient
-BASEURL http://hhal.ent.sirsi.net
+BASEURL https://hhal.ent.sirsi.net
 LCODE en_US/default
 
 ID OCLC-TXN 
 NAME Houston Public Library
 LOCATION Houston
 STATE TX
-BASEURL http://halan.sdp.sirsi.net
+BASEURL https://halan.sdp.sirsi.net
 CATTYPE sirsient
-LCODE hou
+LCODE en_US/hou
 
 ID OCLC-HTC
 NAME Huston-Tillotson University
@@ -8177,7 +8184,7 @@ LOCATION Garland
 STATE TX
 CATTYPE sirsient
 LCODE en_US/default
-BASEURL http://nm.ent.sirsi.net
+BASEURL https://nm.ent.sirsi.net
 
 ID OCLC-ACNLC
 NAME Northeast Lakeview College
@@ -8419,18 +8426,17 @@ ID OCLC-RB0
 NAME Orem Public Library
 LOCATION Orem
 STATE UT
-BASEURL http://catalog.oremlibrary.org
-CATTYPE ipac20
-PROFILE opl
-FILTERS S
+CATTYPE sirsient
+BASEURL https://orem.ent.sirsi.net
+LCODE en_US/default
 
 ID OCLC-0UP
 NAME Provo Library
 LOCATION Provo
 STATE UT
 CATTYPE sirsient
-LCODE pl
-BASEURL http://provo.ent.sirsi.net
+LCODE en_US/pl
+BASEURL https://provo.ent.sirsi.net
 
 ID OCLC-UTT
 NAME Salt Lake Community College
@@ -8443,11 +8449,8 @@ ID OCLC-UUM
 NAME University of Utah
 LOCATION Salt Lake City
 STATE UT
-CATTYPE primodl-loc
-BASEURL http://utah-primoprod.hosted.exlibrisgroup.com
-VID UUU
-LCODE UUU
-LOC adaptor,scope:(uu),primo_central_multiple_fe
+CATTYPE primo-justquery
+BASEURL https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?search_scope=EVERYTHING&vid=UTAH&
 DEFAULT http://www.lib.utah.edu/
 
 ID OCLC-UUS
@@ -8490,15 +8493,15 @@ NAME Alexandria Library
 LOCATION Alexandria
 STATE VA
 CATTYPE sirsient
-BASEURL http://www.alexandria.lib.va.us
-LCODE home
+BASEURL https://alxndria.ent.sirsi.net
+LCODE en_US/home
 
 ID OCLC-VIA
 NAME Arlington Public Library
 LOCATION Arlington
 STATE VA
-CATTYPE encore
-BASEURL http://libcat.arlingtonva.us/iii/encore
+CATTYPE vufind
+BASEURL https://libcat.arlingtonva.us/Union
 
 ID OCLC-VABCP
 NAME Bland County Public Library
@@ -8650,8 +8653,8 @@ ID OCLC-VPI
 NAME Virginia Tech
 LOCATION Blacksburg
 STATE VA
-CATTYPE summon
-BASEURL http://vt.summon.serialssolutions.com
+CATTYPE eds
+LCODE s6184355
 
 ID OCLC-VUU
 NAME Virginia Union University
@@ -8664,8 +8667,10 @@ ID OCLC-VLW
 NAME Washington and Lee University
 LOCATION Lexington
 STATE VA
-CATTYPE summon
-BASEURL http://wlu.summon.serialssolutions.com
+CATTYPE primo-ve
+BASEURL https://wlu.primo.exlibrisgroup.com
+VID 01WLU_INST:01WLU
+SCOPE MyInst_and_CI
 
 ID OCLC-VZD
 NAME University of the Virgin Islands
@@ -8824,7 +8829,8 @@ NAME Fort Vancouver Regional Library District
 LOCATION Vancouver and vicinity
 STATE WA
 CATTYPE sirsient
-BASEURL http://fvrl.ent.sirsi.net
+BASEURL https://fvrl.ent.sirsi.net
+LCODE en_US/catalog
 
 ID OCLC-WUG
 NAME Gonzaga University
@@ -8909,7 +8915,7 @@ ID OCLC-RLS
 NAME Pierce County Library System
 LOCATION Rural and suburban Pierce County
 STATE WA
-BASEURL http://polariscatalog.piercecountylibrary.org/polaris
+BASEURL https://polariscatalog.piercecountylibrary.org/polaris
 CATTYPE polaris
 
 ID OCLC-Z87
@@ -8918,7 +8924,7 @@ LOCATION Puyallup
 STATE WA
 CATTYPE sirsient
 LCODE en_US/default
-BASEURL http://puyal.sdp.sirsi.net
+BASEURL https://puyal.ent.sirsi.net
 
 ID OCLC-UOK
 NAME Seattle Public Library
@@ -8931,8 +8937,8 @@ ID OCLC-OEM
 NAME Sno-Isle Libraries
 LOCATION Snohomish and Island counties
 STATE WA
-BASEURL http://catalog.sno-isle.org/polaris
-CATTYPE polaris
+CATTYPE bibliocommons
+BASEURL https://sno-isle.bibliocommons.com
 
 ID OCLC-UAG
 NAME Spokane Public Library
@@ -8952,8 +8958,9 @@ ID OCLC-UOJ
 NAME Timberland Regional Library
 LOCATION Grays Harbor, Lewis, Mason, Pacific, and Thurston counties
 STATE WA
-CATTYPE sirsi
-BASEURL http://cat.trl.org/uhtbin/cgisirsi.exe
+CATTYPE sirsient
+LCODE en_US/default
+BASEURL https://search.trl.org
 
 ID OCLC-UPP
 NAME University of Puget Sound
@@ -9022,7 +9029,7 @@ LOCATION Charleston and vicinity
 STATE WV
 CATTYPE sirsient
 LCODE en_US/default
-BASEURL http://kana.ent.sirsi.net
+BASEURL https://kana.ent.sirsi.net
 
 ID OCLC-UE4
 NAME Martinsburg-Berkeley County Public Libraries
@@ -9103,7 +9110,7 @@ LOCATION Green Bay and vicinity
 STATE WI
 CATTYPE sirsient
 LCODE en_US/home
-BASEURL http://brown.ent.sirsi.net
+BASEURL https://brown.ent.sirsi.net
 
 ID OCLC-WIW
 NAME Marathon County Public Library
@@ -9177,7 +9184,7 @@ LOCATION Laramie and vicinity
 STATE WY
 CATTYPE sirsient
 LCODE en_US/albany
-BASEURL http://wyld.sdp.sirsi.net
+BASEURL https://wyld.ent.sirsi.net
 
 ID OCLC-WYL
 NAME Laramie County Library
@@ -9185,7 +9192,7 @@ LOCATION Cheyenne
 STATE WY
 CATTYPE sirsient
 LCODE en_US/larm
-BASEURL http://wyld.sdp.sirsi.net
+BASEURL https://wyld.ent.sirsi.net
 
 ID OCLC-CWF
 NAME Natrona County Public Library
@@ -9193,7 +9200,7 @@ LOCATION Casper and vicinity
 STATE WY
 CATTYPE sirsient
 LCODE en_US/natr
-BASEURL http://wyld.sdp.sirsi.net
+BASEURL https://wyld.ent.sirsi.net
 
 ID OCLC-4JI
 NAME University of Wyoming
