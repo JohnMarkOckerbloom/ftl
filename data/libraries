@@ -4,7 +4,7 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2019-02-25
+# Last updated 2019-02-27
 
 ID OLBP
 NAME The Online Books Page
@@ -156,6 +156,13 @@ VID MQ
 LCODE MQ
 LOC adaptor,scope:%28%22MQ%22%29,scope:%28MQ_VOYAGER%20%29,scope:%28reserve%29,scope:%28exam%29,primo_central_multiple_fe
 
+ID OCLC-ATVCM
+NAME Melbourne Library Service
+LOCATION Melbourne, Victoria
+COUNTRY AU
+CATTYPE spydus
+BASEURL https://librarysearch.melbourne.vic.gov.au
+
 ID AU-VMOU
 NAME Monash University
 LOCATION Melbourne, Victoria
@@ -165,6 +172,14 @@ BASEURL http://search.lib.monash.edu
 LCODE MUA
 VID MON
 SCOPE au_everything
+
+ID OCLC-ATNMU
+NAME Museums Victoria Library
+LOCATION Melbourne, Victoria
+COUNTRY AU
+BASEURL https://trove.nla.gov.au
+KEYURL ${BASEURL}/result?q=nuc:VNMU+${ARG}
+FILTERS SNK
 
 ID AU-ANL
 NAME National Library of Australia
@@ -273,6 +288,14 @@ BASEURL http://librarysearch.swinburne.edu.au
 VID SWIN2
 LCODE SUT-ALMA
 LOC local,scope:(SUT-ALMA)
+
+# If updated, also update Museums Victoria, which uses Trove search
+ID TROVE
+NAME Trove
+LOCATION Online and physical items across Australia's libraries
+COUNTRY AU
+BASEURL https://trove.nla.gov.au
+KEYURL ${BASEURL}/result?q=${ARG}
 
 # This only gets local holdings (haven't figured out a LOC or SCOPE
 # code that will get both local holdings and online resources)
