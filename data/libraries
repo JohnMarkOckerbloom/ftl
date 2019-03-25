@@ -98,11 +98,10 @@ ID AU-NCSU:A
 NAME Charles Sturt University
 LOCATION Campuses in New South Wales, Victoria, and ACT
 COUNTRY AU
-CATTYPE primodl-loc
-BASEURL http://primo.unilinc.edu.au
-VID CSU
-LCODE CSU
-LOC adaptor,scope:(DTL_CSU_UNLOCKED),scope:(CSU),scope:(CSU_SFX),primo_central_multiple_fe
+CATTYPE primo-ve
+BASEURL https://primo.csu.edu.au
+VID 61CSU_INST:61CSU
+SCOPE MyInst_and_CI
 
 ID AU-VDU
 NAME Deakin University
@@ -330,14 +329,16 @@ NAME University of South Australia
 LOCATION Adelaide and other campuses, South Australia
 COUNTRY AU
 CATTYPE primo-justquery
-BASEURL http://search.library.unisa.edu.au/?
+BASEURL https://find.library.unisa.edu.au/primo-explore/search?vid=UNISA&search_scope=All_Resources&
 
 ID OCLC-LS1
 NAME University of Sydney
 LOCATION Sydney, New South Wales
 COUNTRY AU
-CATTYPE summon
-BASEURL https://usyd.summon.serialssolutions.com
+CATTYPE primo-ve
+BASEURL https://sydney.primo.exlibrisgroup.com
+VID 61USYD_INST:sydney
+SCOPE MyInst_and_CI
 
 ID OCLC-T4Z
 NAME University of Tasmania
@@ -369,6 +370,16 @@ COUNTRY AU
 BASEURL http://library.vu.edu.au
 CATTYPE innopac
 
+ID OCLC-ATUWW
+NAME Western Sydney University
+LOCATION Penrith and other campuses, New South Wales
+COUNTRY AU
+CATTYPE primodl-loc
+BASEURL https://west-sydney-primo.hosted.exlibrisgroup.com
+VID UWS-ALMA
+LCODE UWS-ALMA
+LOC adaptor,scope:(UWS-ALMA),primo_central_multiple_fe
+
 ID OCLC-BOU
 NAME University of Botswana
 LOCATION Gaborone
@@ -376,16 +387,6 @@ COUNTRY BW
 BASEURL http://medupe.ub.bw
 CATTYPE webpacpro
 FILTERS NK
-
-ID OCLC-ATUWW
-NAME Western Sydney University
-LOCATION Penrith and other campuses, New South Wales
-COUNTRY AU
-CATTYPE primodl-loc
-BASEURL http://west-sydney-primo.hosted.exlibrisgroup.com
-VID UWS-ALMA
-LCODE UWS-ALMA
-LOC adaptor,scope:(UWS-ALMA),primo_central_multiple_fe
 
 ID OCLC-CN5O6
 NAME Calgary Public Library
