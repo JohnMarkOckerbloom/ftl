@@ -6919,12 +6919,26 @@ BASEURL http://uclid.uc.edu
 CATTYPE iii-consortium-member
 LCODE 8
 
+ID OCLC-MIA
+NAME Miami University
+LOCATION Oxford
+STATE OH
+CATTYPE eds
+LCODE s9002934
+
 ID OCLC-OBE
 NAME Oberlin College
 LOCATION Oberlin
 STATE OH
 CATTYPE summon
 BASEURL https://oberlin.summon.serialssolutions.com
+
+ID OCLC-ONU
+NAME Ohio Northern University
+LOCATION Ada
+STATE OH
+CATTYPE innopac
+BASEURL https://polar.onu.edu
 
 ID OCLC-OSU
 NAME Ohio State University
@@ -8572,6 +8586,13 @@ LOCATION Hampton
 STATE VA
 BASEURL http://huwebcat.hamptonu.edu/uhtbin/cgisirsi
 CATTYPE sirsi
+
+ID OCLC-VHC
+NAME Hollins University
+LOCATION Roanoke
+STATE VA
+CATTYPE primo-justquery
+BASEURL https://hollins-primo.hosted.exlibrisgroup.com/primo-explore/search?search_scope=default-scope&vid=01HOLLINS&
 
 ID OCLC-VMC
 NAME James Madison University
