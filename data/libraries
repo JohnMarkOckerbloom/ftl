@@ -4,7 +4,7 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2019-02-27
+# Last updated 2019-04-13
 
 ID OLBP
 NAME The Online Books Page
@@ -2644,7 +2644,7 @@ NAME County of Los Angeles Public Library
 LOCATION Most of Los Angeles County outside the city of Los Angeles
 STATE CA
 CATTYPE sirsi
-BASEURL http://catalog.colapl.org/uhtbin/cgisirsi
+BASEURL https://catalog.colapl.org/uhtbin/cgisirsi
 
 ID OCLC-CCJ
 NAME Cypress College
@@ -2683,6 +2683,13 @@ STATE CA
 CATTYPE voyager-vwebv
 BASEURL http://genesis.glendale.edu/vwebv/search
 
+ID OCLC-CGW
+NAME Golden West College
+LOCATION Huntington Beach
+STATE CA
+CATTYPE eds
+LCODE s4656495
+
 ID OCLC-HN-SHARP
 WCRID 283
 NAME Holy Names University
@@ -2703,9 +2710,8 @@ ID OCLC-CHU
 NAME Humboldt State University
 LOCATION Arcata
 STATE CA
-BASEURL http://library.calstate.edu/humboldt/articles
-CATTYPE xerxes
-FILTERS S
+CATTYPE primo-justquery
+BASEURL https://humboldt-primo.hosted.exlibrisgroup.com/primo-explore/search?search_scope=01CALS&vid=01CALS_HUL&
 
 ID OCLC-KLC
 NAME Kern County Library
@@ -2899,7 +2905,7 @@ ID OCLC-SDG
 NAME San Diego County Library
 LOCATION San Diego County outside the city of San Diego
 STATE CA
-BASEURL http://encore.co.san-diego.ca.us/iii/encore
+BASEURL http://encore.sdcl.org/iii/encore
 CATTYPE encore
 
 # they have their custom bento which is now keyword only
@@ -2997,8 +3003,8 @@ ID OCLC-CSO
 NAME Sonoma State University Library
 LOCATION Rohnert Park
 STATE CA
-BASEURL http://library.calstate.edu/sonoma
-KEYURL ${BASEURL}/combined/results?query=${ARG:NK}
+CATTYPE primo-justquery
+BASEURL https://sonoma-primo.hosted.exlibrisgroup.com/primo-explore/search?institution=01CALS_SOL&search_scope=EVERYTHING&vid=01CALS_SOL&
 
 ID OCLC-JTJ
 NAME St. Helena Public Library
