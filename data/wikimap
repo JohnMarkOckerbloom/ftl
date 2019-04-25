@@ -10,7 +10,7 @@
 #   are not included in this file.
 # Manual title and name-title correspondences have been moved to wikiworksmap.
 # See docs file for documentation
-# Last updated 2019-04-14
+# Last updated 2019-04-24
 # Did LCSH 2015-2018 update lists, 2019 monthly lists 1-3
 1 Pendleton Place House (New York, N.Y.)|=|Building at One Pendleton Place
 1009 Fifth Avenue House (New York, N.Y.)|=|Benjamin N. Duke House
@@ -229,6 +229,7 @@ Accra Sports Stadium Disaster, Accra, Ghana, 2001|=|Accra Sports Stadium disaste
 Accreditation (Education)|=|Educational accreditation
 Ace Combat (Game)|<->|Ace Combat
 Acesulfame-K|=|Acesulfame potassium
+Acetabulum (Anatomy)|=|Acetabulum
 Acetaminophen|=|Paracetamol
 Achagua Indians|=|Achagua
 Achala Pampa (Argentina)|=|Pampa de Achala
@@ -861,7 +862,7 @@ Algonquian Indians|=|Algonquian peoples
 Algonquin Indians|=|Algonquin people
 Algorithms|=|Algorithm
 Alhambra (Granada, Spain)|=|Alhambra
-Ali Baba (Legendary character)|=|Ali Baba
+Ali Baba (Legendary character)|->|Ali Baba and the Forty Thieves
 Alicante (Spain)|=|Alicante
 Alicante (Spain) -- History|=|History of Alicante
 Alice (Computer)|=|Matra Alice
@@ -1340,7 +1341,7 @@ Anti-apartheid movements -- South Africa|<->|Internal resistance to apartheid
 Anti-communist movements|<->|Anti-communism
 Anti-communist movements -- Poland|=|Anti-communist resistance in Poland
 Anti-communist movements -- Romania|<->|Romanian anti-communist resistance movement
-Anti-copyright movement|<->|Opposition to copyright
+Anti-copyright movement|<->|Criticism of copyright
 Anti-cult movements|<->|Anti-cult movement
 Anti-fascist movements|<->|Anti-fascism
 Anti-feminism|=|Antifeminism
@@ -1778,6 +1779,7 @@ Armagh (Northern Ireland : County)|=|County Armagh
 Armaviri marz (Armenia)|=|Armavir Province
 Armed Forces|=|Military
 Armed OH-58D Kiowa Warrior (Observation helicopter)|<->|Bell OH-58 Kiowa
+Armenia -- History -- 1522-1800|<->|Iranian Armenia (1502–1828)
 Armenia -- History -- Arab period, 640-885|<->|Arminiya
 Armenia -- History -- Arsacid (Arshakuni) dynasty, 66-428|<->|Arsacid dynasty of Armenia
 Armenia -- History -- Artaxiad (Artashesian) dynasty, 189 B.C.-1 A.D.|<->|Artaxiad dynasty
@@ -1786,6 +1788,7 @@ Armenia -- History -- Revolution, 1917-1920|<->|First Republic of Armenia
 Armenia -- History -- To 428|<->|Kingdom of Armenia (antiquity)
 Armenia -- Kings and rulers|<->|List of Armenian kings
 Armenia (Republic)|=|Armenia
+Armenia (Republic) -- History -- 1920-1991|<->|Armenian Soviet Socialist Republic
 Armenia (Republic) -- History -- Uprising, 1921|=|February Uprising
 Armenia (Republic) -- Languages|=|Languages of Armenia
 Armenia (Republic) -- Politics and government|<->|Politics of Armenia
@@ -3961,7 +3964,7 @@ Boland (South Africa)|=|Boland, Western Cape
 Bold Park (Perth, W.A.)|=|Bold Park
 Bold Ruler (Race horse)|=|Bold Ruler
 Bolesworth Estate (England)|<->|Bolesworth Castle
-Bolitar, Myron (Fictitious character)|=|Myron Bolitar
+Bolitar, Myron (Fictitious character)|<->|Myron Bolitar series
 Bolivia -- Foreign relations|=|Foreign relations of Bolivia
 Bolivia -- History -- 1982-|=|History of Bolivia (1982–present)
 Bolivia -- History -- To 1809|=|History of Bolivia to 1809
@@ -6689,6 +6692,7 @@ Clark's Expedition against Detroit, 1781|<->|Lochry's Defeat
 Clark's Expedition to the Illinois (1778-1779)|<->|Illinois campaign
 Clark's Mill, Battle of, Vera Cruz, Mo., 1862|=|Battle of Clark's Mill
 Claros Site (Turkey)|<->|Claros
+Clasper (Anatomy)|=|Clasper
 Class 4 (Steam locomotives)|<->|BR Standard Class 4 4-6-0
 Class 17 (Diesel locomotives)|=|British Rail Class 17
 Class 20 (Diesel locomotives)|=|British Rail Class 20
@@ -8332,8 +8336,8 @@ Cyclopes (Greek mythology)|=|Cyclops
 Cyclostomata (Bryozoa)|<->|Cyclostomatida
 Cyc&oacute;w, Battle of, Cyc&oacute;w, Poland, 1920|=|Battle of Cyców
 Cyc&oacute;w, (Poland)|=|Cyców
-Cydonia (Mars)|=|Cydonia (region of Mars)
-Cydonia Mensae (Mars)|->|Cydonia (region of Mars)
+Cydonia (Mars)|=|Cydonia (Mars)
+Cydonia Mensae (Mars)|->|Cydonia (Mars)
 Cylindrical bark beetles|=|Colydiinae
 Cyme (Turkey : Extinct city)|=|Cyme (Aeolis)
 Cynicism|<->|Cynicism (contemporary)
@@ -8807,7 +8811,7 @@ Denelcor HEP (Computer)|=|Heterogeneous Element Processor
 Dengese (African people)|=|Dengese people
 Dengue|<->|Dengue fever
 Den&iacute; language (Brazil)|=|Deni language
-Denial of service attacks|=|Denial-of-service attack
+Denial of service attacks|=|Denial of Service attack
 Denison, Cape (Antarctica)|=|Cape Denison
 Denkmal f&uuml;r die ermordeten Juden Europas (Berlin, Germany)|=|Memorial to the Murdered Jews of Europe
 Denkmal f&uuml;r die Verfolgten der NS-Milit&auml;rjustiz (Vienna, Austria)|=|Memorial for the Victims of Nazi Military Justice
@@ -9053,7 +9057,7 @@ Dihua Jie (Taipei, Taiwan)|=|Dihua Street
 Dijon (France)|=|Dijon
 Diktynna (Greek deity)|=|Britomartis
 Dilek Mountain (Turkey)|=|Mycale
-Dili (Timor-Leste)|=|Dili
+Dili (Timor-Leste)|=|Díli
 Dillberry Lake Provincial Park (Alta.)|=|Dillberry Lake Provincial Park
 Dillon, Sean (Fictitious character)|=|Sean Dillon (character)
 Dime novels|=|Dime novel
@@ -9699,7 +9703,6 @@ E.326 (Electric locomotives)|=|FS Class E.326
 E.428 (Electric locomotives)|=|FS Class E.428
 E.626 (Electric locomotives)|=|FS Class E.626
 E document (Biblical criticism)|=|Elohist
-E-speak (Computer network technology)|=|E-speak
 E.V. Haughwout Building (New York, N.Y.)|=|E. V. Haughwout Building
 EA-6 (Electronic warfare aircraft)|<->|Northrop Grumman EA-6B Prowler
 Eagle (Coin)|<->|Eagle (United States coin)
@@ -10892,6 +10895,7 @@ Extraterrestrial beings|->|Extraterrestrial life
 Extravehicular activity (Manned space flight)|=|Extravehicular activity
 Extreme unction|<->|Anointing of the sick
 Extremists|->|Extremism
+Extremities (Anatomy)|<->|Limb (anatomy)
 Exxon Corporation|->|ExxonMobil
 Exxon Mobil Corporation|=|ExxonMobil
 Exxon Valdez Oil Spill, Alaska, 1989|=|Exxon Valdez oil spill
@@ -11044,6 +11048,7 @@ Faro di San Cataldo (Bari, Italy)|=|Bari Light
 Farragut Class (Destroyers)|<->|Farragut-class destroyer
 Faruqi dynasty, 1382-1601|=|Farooqi dynasty
 F&amacr;ry&amacr;b (Afghanistan)|=|Faryab Province
+Fasciae (Anatomy)|=|Fascia
 Fascias (Architecture)|=|Fascia (architecture)
 Fascist economics|=|Economics of fascism
 Fascists|->|Fascism
@@ -11251,6 +11256,7 @@ Finland -- History -- Club War, 1596-1597|=|Cudgel War
 Finn, Huckleberry (Fictitious character)|=|Huckleberry Finn
 Finnmark fylke (Norway)|=|Finnmark
 Finno-Ugrians|=|Finno-Ugric peoples
+Fins (Anatomy)|<->|Fish fin
 Finzi family|<->|Finzi
 Fipa (African people)|=|Fipa people
 Fir dwarf mistletoe|=|Arceuthobium abietinum
@@ -11413,6 +11419,7 @@ Flint River (Ga.)|=|Flint River (Georgia)
 Flint River (Mich.)|=|Flint River (Michigan)
 Flint River (Tenn. and Ala.)|=|Flint River (Alabama)
 Flipped classrooms|=|Flipped classroom
+Flippers (Anatomy)|=|Flipper (anatomy)
 Flipping (Real estate investment)|<->|Flipping
 Floating buildings|=|Floating building
 Floating cities|<->|Floating city
@@ -12253,7 +12260,7 @@ Ganymede (Greek mythology)|=|Ganymede (mythology)
 Ganymede (Satellite)|=|Ganymede (moon)
 Ganzhou Shi (China)|=|Ganzhou
 Gao (Mali : Region)|=|Gao Region
-Gaokao (Educational test)|=|National Higher Education Entrance Examination
+Gaokao (Educational test)|=|The National College Entrance Examination
 Gap analysis (Planning)|=|Gap analysis
 Gap junctions (Cell biology)|=|Gap junction
 Garage rock music|=|Garage rock
@@ -13627,6 +13634,7 @@ Gypsy moth|=|Lymantria dispar
 Gyrinidae|=|Whirligig beetle
 Gyro compass|=|Gyrocompass
 Gyroscopes|=|Gyroscope
+Gyumri (Armenia)|=|Gyumri
 H (The sound)|<->|Voiceless glottal fricative
 H.263 (Video coding standard)|=|H.263
 H-43 (Military transport helicopter)|<->|Kaman HH-43 Huskie
@@ -14511,7 +14519,7 @@ Holyoke Range (Mass.)|=|Holyoke Range
 Holyoke Range State Park (Mass.)|<->|Mount Holyoke Range State Park
 H&ouml;lzel family|<->|Hölzel
 Home Building Association Bank (Newark, Ohio : Building)|=|Home Building Association Bank
-Home care services|<->|Home care
+Home care services -- United States|<->|Home care in the United States
 Home children (Canadian immigrants)|<->|Home Children
 Home of Franklin D. Roosevelt National Historic Site (Hyde Park, N.Y.)|=|Home of Franklin D. Roosevelt National Historic Site
 Home ownership|<->|Owner-occupancy
@@ -15387,7 +15395,7 @@ Indianapolis Speedway Race|<->|Indianapolis 500
 Indians|=|Indigenous peoples of the Americas
 Indians -- Languages|=|Indigenous languages of the Americas
 Indians -- Music|<->|Indigenous music of North America
-Indians in motion pictures|<->|Portrayal of Native Americans in film
+Indians in motion pictures|<->|Native Americans in film
 Indians in popular culture|=|Native Americans in popular culture
 Indians of Central America -- Costa Rica|=|Indigenous peoples of Costa Rica
 Indians of Central America -- Panama|=|Indigenous peoples of Panama
@@ -15940,7 +15948,7 @@ Islands -- Albania|<->|List of islands of Albania
 Islands -- Antarctica|<->|List of Antarctic and subantarctic islands
 Islands -- Argentina|<->|List of islands of Argentina
 Islands -- Australia|<->|List of islands of Australia
-Islands -- Bahamas|<->|List of islands of the Bahamas
+Islands -- Bahamas|<->|List of islands of The Bahamas
 Islands -- Bahrain|<->|List of islands of Bahrain
 Islands -- Bangladesh|<->|List of islands of Bangladesh
 Islands -- Belize|<->|List of islands of Belize
@@ -16588,7 +16596,7 @@ Jiu River Valley (Romania)|<->|Jiu Valley
 Jiu-jitsu|=|Jujutsu
 Jiujiang (Jiangxi Sheng, China)|=|Jiujiang
 Jiuzhaigou Guojiaji Ziran Baohuqu (China)|<->|Jiuzhaigou
-Jivaran languages|=|Jivaroan languages
+Jivaran languages|=|Chicham languages
 Jju (African people)|=|Bajju people
 JN-4D (Training plane)|->|Curtiss JN-4
 Jo'iyah (South Asian people)|=|Johiya
@@ -18987,7 +18995,7 @@ LOTOS (Computer program language)|=|Language Of Temporal Ordering Specification
 L&ouml;tschberg-Basistunnel (Frutigen and Raron, Switzerland)|=|Lötschberg Base Tunnel
 L&ouml;tschberg-Tunnel (Goppenstein and Kandersteg, Switzerland)|=|Lötschberg Tunnel
 Lotteries|=|Lottery
-Lotuko (African people)|=|Otuho people (Lotuko)
+Lotuko (African people)|=|Otuho people
 LotusScript (Computer program language)|=|LotusScript
 Louie (Fictitious character : Disney)|->|Huey, Dewey, and Louie
 Louis (Name)|<->|Louis (given name)
@@ -20286,6 +20294,7 @@ Mendocino National Forest (Calif.)|=|Mendocino National Forest
 Mendoza (Argentina : Province)|=|Mendoza Province
 Mendoza family|<->|Mendoza
 Mendoza River (Argentina)|=|Mendoza River
+Meniscus (Liquids)|=|Meniscus (liquid)
 Menominee River (Mich. and Wis.)|=|Menominee River
 Menopause -- Hormone therapy|<->|Hormone replacement therapy
 Menshevik Trial, Moscow, Russia, 1931|=|1931 Menshevik Trial
@@ -20594,7 +20603,7 @@ Midgetman Missile|=|MGM-134 Midgetman
 Midgley (Calderdale, England)|=|Midgley
 Midheaven (Astrology)|<->|Midheaven
 MIDI (Standard)|=|MIDI
-Midlands (England)|=|The Midlands
+Midlands (England)|=|Midlands
 Midnight Louie (Fictitious character)|=|Midnight Louie
 Midob (African people)|=|Midob people
 Midrash rabbah|=|Midrash Rabba
@@ -21533,7 +21542,7 @@ Museum theater|<->|Museum theatre
 Museums|=|Museum
 Museums -- Deaccessioning|=|Deaccessioning (museum)
 Musgu (African people)|=|Musgum people
-Musha Rebellion, 1930|<->|Musha incident
+Musha Rebellion, 1930|<->|Musha Incident
 Mushrooms|=|Mushroom
 Music -- 20th century|<->|20th-century music
 Music -- Burma|<->|Music of Myanmar
@@ -22464,7 +22473,7 @@ Nikaj-M&euml;rtur (Albania)|<->|Nikaj-Mërtur
 Nike (Greek deity)|=|Nike (mythology)
 Nike-Zeus missile|<->|Nike Zeus
 Nikolayevsk-na-Amure Incident, 1920|=|Nikolayevsk incident
-Nikwasi Indian Mound (Franklin, Macon County, N.C.)|<->|Nikwasi
+Nikwasi Indian Mound (Franklin, Macon County, N.C.)|<->|Nikwasi (Cherokee town)
 Nilam River (Pakistan)|<->|Neelum River
 Nilam River Valley (Pakistan)|<->|Neelum District
 Nile, Battle of the, Egypt, 1798|=|Battle of the Nile
@@ -22592,6 +22601,7 @@ Niobe (Greek mythological character)|=|Niobe
 Niobium -- Isotopes|=|Isotopes of niobium
 Niominka (African people)|=|Niominka people
 Nipmuc Indians|=|Nipmuc
+Nipple (Anatomy)|=|Nipple
 Nippon Kan Theatre (Seattle, Wash.)|=|Nippon Kan Theatre
 Nipponia nippon|=|Crested ibis
 Nippur (Extinct city)|=|Nippur
@@ -23290,7 +23300,7 @@ Olympic Winter Games (7th : 1956 : Cortina d'Ampezzo, Italy)|=|1956 Winter Olymp
 Olympic Winter Games (8th : 1960 : Squaw Valley, Calif.)|=|1960 Winter Olympics
 Olympic Winter Games (9th : 1964 : Innsbruck, Austria)|=|1964 Winter Olympics
 Olympics|=|Olympic Games
-Olympos (Turkey : Extinct city)|=|Olympos (Lycia)
+Olympos (Turkey : Extinct city)|=|Olympus (Lycia)
 Olympus Mons (Mars)|=|Olympus Mons
 Olympus, Mount (Greece)|=|Mount Olympus
 Olympus, Mount (Wash.)|=|Mount Olympus (Washington)
@@ -23614,6 +23624,7 @@ Organisation for Islamic Cooperation|=|Organisation of Islamic Cooperation
 Organisation of Islamic Conference|->|Organisation of Islamic Cooperation
 Organizational resilience|<->|Business continuity planning
 Organomercury compounds|=|Organomercury
+Organs (Anatomy)|=|Organ (anatomy)
 Orge River (France)|=|Orge
 Orgueil meteorite|=|Orgueil (meteorite)
 Oriamendi, Battle of, Spain, 1837|=|Battle of Oriamendi
@@ -25057,6 +25068,7 @@ Piaroa Indians|=|Piaroa people
 Piau&iacute; (Brazil)|=|Piauí
 Piave, 2nd Battle of the, Italy, 1918|=|Second Battle of the Piave River
 Piave River (Italy)|<->|Piave (river)
+Piazza Armerina (Italy)|=|Piazza Armerina
 Piazza Castello (Turin, Italy)|=|Piazza Castello, Turin
 Piazza dei Miracoli (Pisa, Italy)|=|Piazza dei Miracoli
 Piazza Fontana Bombing, Milan, Italy, 1969|=|Piazza Fontana bombing
@@ -25384,7 +25396,7 @@ Poggio Civitate Site (Italy)|<->|Poggio Civitate
 Pogoro language|=|Pogolo language
 Pogradec (Albania)|=|Pogradec
 Pogradec (Albania : Rrethi)|=|Pogradec District
-Pogroms -- Russia|<->|Anti-Jewish pogroms in the Russian Empire
+Pogroms -- Russia|=|Pogroms in the Russian Empire
 Pohnpei (Micronesia)|=|Pohnpei State
 Pohnpei Island (Micronesia)|=|Pohnpei
 Poi|<->|Poi (food)
@@ -26118,7 +26130,6 @@ Protheses (Architecture)|<->|Prothesis (altar)
 Proto-Li language|<->|Proto-Hlai language
 Proto-planetary nebulae|=|Protoplanetary nebula
 Proto-Slavic language|=|Proto-Slavic
-Protocols of the wise men of Zion|=|The Protocols of the Elders of Zion
 Proven&ccedil;al language|->|Occitan language
 Proven&ccedil;al literature|->|Occitan literature
 Proven&ccedil;al poetry|->|Occitan literature
@@ -26750,7 +26761,7 @@ Ratha-y&amacr;tra (Hindu festival)|=|Ratha-Yatra
 Ration cards|<->|Ration stamp
 Rational equivalence (Algebraic geometry)|->|Adequate equivalence relation
 Rational expectations (Economic theory)|=|Rational expectations
-Rationale (Episcopal vestment)|=|Rationale (clothing)
+Rationale (Episcopal vestment)|=|Rationale (vestment)
 Rationalists|->|Rationalism
 Rats as laboratory animals|=|Laboratory rat
 Rats as pets|<->|Fancy rat
@@ -26877,7 +26888,7 @@ Red shift|=|Redshift
 Red Sindhi cattle|=|Red Sindhi
 Red Sonja (Fictitious character)|=|Red Sonja
 Red spruce|=|Picea rubens
-Re&#x1e0d;&#x1e0d;i dynasty, ca. 1325-1448|=|Reddy dynasty
+Re&#x1e0d;&#x1e0d;i dynasty, ca. 1325-1448|<->|Reddi kingdom
 Redlich family|<->|Redlich
 Redonda (Antigua and Barbuda)|=|Redonda
 Redoubt Volcano (Alaska)|=|Mount Redoubt
@@ -28599,7 +28610,7 @@ Science fiction fans|<->|Science fiction fandom
 Science fiction, French|=|French science fiction
 Science fiction, Japanese|=|Japanese science fiction
 Science fiction, Norwegian|=|Norwegian science fiction
-Science fiction -- Periodicals|<->|Science fiction magazine
+Science fiction -- Periodicals|<->|Science-fiction magazine
 Science fiction, Polish|<->|Science fiction and fantasy in Poland
 Science fiction -- Religious aspects|<->|List of religious ideas in science fiction
 Science fiction, Romanian|=|Romanian science fiction
@@ -29813,7 +29824,7 @@ Soapstone Ridge (Ga.)|=|Soapstone Ridge
 Soave (Italy)|=|Soave
 Soba (Noodles)|<->|Soba
 Sobek (Egyptian deity)|=|Sobek
-Sobib&oacute;r (Concentration camp)|=|Sobibór extermination camp
+Sobib&oacute;r (Concentration camp)|=|Sobibor extermination camp
 Sobraon, Battle of, India, 1846|=|Battle of Sobraon
 Soca|=|Soca music
 Soccer|=|Association football
@@ -30271,6 +30282,7 @@ Sphinxes (Mythology)|=|Sphinx
 Spices|=|Spice
 Spicheren, Battle of, 1870|=|Battle of Spicheren
 Spickard, Mount (Wash.)|=|Mount Spickard
+Spicule (Anatomy)|<->|Sponge spicule
 Spider-Man (Fictitious character)|=|Spider-Man
 Spiders|=|Spider
 Spiders -- Behavior|=|Spider behavior
@@ -30282,6 +30294,7 @@ Spine|<->|Vertebral column
 Spine -- Diseases|<->|Spinal disease
 Spines (Zoology)|<->|Spine (zoology)
 Spin&#x1e33;a Hasidim|<->|Spinka (Hasidic dynasty)
+Spinneret (Anatomy)|=|Spinneret
 Spinning|=|Spinning (textiles)
 Spinning-wheel|=|Spinning wheel
 Spinning women by the spring (Tale)|=|The Spinning-Woman by the Spring
@@ -30517,6 +30530,7 @@ Stenella (Mammals)|=|Stenella
 Stenella attenuata|=|Pantropical spotted dolphin
 Stenella longirostris|=|Spinner dolphin
 STEP 5 (Computer program language)|->|Simatic S5 PLC
+Step'anavan (Armenia)|<->|Stepanavan
 Step dancing|<->|Step dance
 Stepfamilies|=|Stepfamily
 Stephen (Name)|=|Stephen
@@ -32349,7 +32363,7 @@ Tournaments, Medieval|=|Tournament (medieval)
 Tours, Battle of, France, 732|=|Battle of Tours
 Toutatis (Asteroid)|=|4179 Toutatis
 Tovrea Castle (Phoenix, Ariz.)|=|Tovrea Castle
-Tow (Textiles)|<->|Tow
+Tow (Textiles)|<->|Tow (fibre)
 TOW (Weapons system)|<->|BGM-71 TOW
 Towboats|<->|Pusher (boat)
 Tower Bridge (London, England)|=|Tower Bridge
@@ -32462,6 +32476,7 @@ Transylvania (Romania) -- History|=|History of Transylvania
 Transylvania (Romania) -- History -- Peasant Uprising, 1437-1438|<->|Transylvanian peasant revolt
 Transylvania (Romania) -- History -- Peasant Uprising, 1784|<->|Revolt of Horea, Cloșca and Crișan
 Trap (Music)|=|Trap music
+Trapezium (Anatomy)|=|Trapezium (bone)
 Trappers|=|Trapper
 Trapshooting|=|Trap shooting
 Trapunto|=|Trapunto quilting
@@ -33217,7 +33232,7 @@ United States -- Census, 2000|=|2000 United States Census
 United States -- Census, 2010|=|2010 United States Census
 United States. Central Intelligence Agency|=|Central Intelligence Agency
 United States. Coast Guard|=|United States Coast Guard
-United States. Commission on Government Security|=|Wright Commission on Government Security
+United States. Commission on Government Security|=|Wright Commission
 United States. Commission on Protecting and Reducing Government Secrecy|=|Moynihan Commission on Government Secrecy
 United States. Commissioners of Claims|<->|Southern Claims Commission
 United States. Congress|=|United States Congress
@@ -33791,10 +33806,10 @@ Venus (Planet) -- Fiction|<->|Venus in fiction
 Venus (Planet) -- Geology|=|Geology of Venus
 Venus (Planet) -- Observations|->|Observations and explorations of Venus
 Venus (Planet) -- Transit|=|Transit of Venus
-Venus (Planet) -- Transit -- 1639|=|Transit of Venus, 1639
-Venus (Planet) -- Transit -- 1874|=|Transit of Venus, 1874
-Venus (Planet) -- Transit -- 2004|=|Transit of Venus, 2004
-Venus (Planet) -- Transit -- 2012|=|Transit of Venus, 2012
+Venus (Planet) -- Transit -- 1639|=|1639 transit of Venus
+Venus (Planet) -- Transit -- 1874|=|1874 transit of Venus
+Venus (Planet) -- Transit -- 2004|=|2004 transit of Venus
+Venus (Planet) -- Transit -- 2012|=|2012 transit of Venus
 Venus (Planet) -- Volcanism|<->|Volcanology of Venus
 Venus (Roman deity)|=|Venus (mythology)
 Veps|=|Vepsians
@@ -34314,7 +34329,7 @@ Ware Mutiny, Ware, Hertfordshire, England, 1647|=|Corkbush Field mutiny
 Warka (Poland)|=|Warka
 Warka, Battle of, Warka, Poland, 1656|=|Battle of Warka
 Warlocks|<->|Warlock (disambiguation)
-Warlord (Fictitious character : DC Comics, Inc.)|<->|Warlord (comics)
+Warlord (Fictitious character : DC Comics, Inc.)|=|Warlord (DC Comics)
 Warm Springs Wilderness (Ariz.)|=|Warm Springs Wilderness
 Warner (Alta. : County)|=|County of Warner No. 5
 Warner Mountains (Calif. and Or.)|=|Warner Mountains
@@ -34756,7 +34771,7 @@ Wicked husbandmen (Parable)|=|Parable of the Wicked Husbandmen
 Wickenburg Mountains (Ariz.)|=|Wickenburg Mountains
 Wicklow (Ireland : County)|=|County Wicklow
 Widawa River (Poland)|=|Widawa
-Wide area networks (Computer networks)|<->|Wide-area network
+Wide area networks (Computer networks)|<->|Wide area network
 Wide gap semiconductors|=|Wide-bandgap semiconductor
 Wide receivers (Football)|=|Wide receiver
 Widekum (African people)|=|Widikum people
