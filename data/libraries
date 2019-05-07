@@ -4543,6 +4543,20 @@ STATE IN
 BASEURL https://940.on.worldcat.org/external-search?queryString
 CATTYPE worldcat-config
 
+ID OCLC-IEP
+NAME Evansville Vanderburgh Public Library
+LOCATION Evansville and Vanderburgh County
+STATE IN
+BASEURL https://encore.evpl.org/iii/encore
+CATTYPE encore
+
+ID OCLC-IHC
+NAME Hanover College, Duggan Library
+LOCATION Hanover
+STATE IN
+BASEURL https://hanover.on.worldcat.org/external-search?&clusterResults=off&stickyFacetsChecked=on&baseScope=wz%3A1076&queryString
+CATTYPE worldcat-config
+
 ID OCLC-IND
 NAME Hesburgh Libraries, University of Notre Dame
 LOCATION Notre Dame
@@ -4579,12 +4593,19 @@ LOC PURDUE
 SCOPE everything
 DEFAULT http://www.lib.purdue.edu/
 
+ID OCLC-ISO
+NAME St. Joseph County Public Library
+LOCATION South Bend and vicinity
+STATE IN
+CATTYPE bibliocommons
+BASEURL https://sjcpl.bibliocommons.com
+
 ID OCLC-XWE
 NAME Tippecanoe County Public Library
 LOCATION Lafayette and vicinity
 STATE IN
-BASEURL http://sirsi.tcpl.lib.in.us/uhtbin/cgisirsi
-CATTYPE sirsiid
+BASEURL https://pac.tcpl.lib.in.us/polaris
+CATTYPE polaris
 
 ID OCLC-IVU
 NAME Valparaiso University
