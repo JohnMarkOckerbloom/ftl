@@ -2668,6 +2668,13 @@ CATTYPE ls2pac-configamp
 CONFIG dixon
 BASEURL https://ls2pac.splashlibraries.org/
 
+ID OCLC-JQO
+NAME El Centro Public Library
+LOCATION El Centro
+STATE CA
+BASEURL http://catalog.eclib.org/polaris
+CATTYPE polaris
+
 ID OCLC-JQR
 NAME Fresno County Public Library
 LOCATION Fresno and vicinity
@@ -2712,6 +2719,13 @@ LOCATION Arcata
 STATE CA
 CATTYPE primo-justquery
 BASEURL https://humboldt-primo.hosted.exlibrisgroup.com/primo-explore/search?search_scope=01CALS&vid=01CALS_HUL&
+
+ID OCLC-IVX
+NAME Imperial Valley College
+LOCATION Imperial
+STATE CA
+BASEURL https://imperial.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-KLC
 NAME Kern County Library
