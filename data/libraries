@@ -7209,6 +7209,22 @@ LCODE CHEMEK
 VID CHEMEK
 SCOPE everything
 
+ID OCLC-CHY
+NAME Chemeketa Cooperative Regional Library Service
+LOCATION Public libraries in Marion, Polk, and Yamhill Counties
+STATE OR
+CATTYPE sirsient
+BASEURL https://catalog.ccrls.org
+LCODE en_US/default
+
+ID OCLC-CVA
+NAME Corvallis-Benton County Public Library
+LOCATION Corvallis and vicinity
+STATE OR
+CATTYPE ls2pac
+BASEURL https://library.ci.corvallis.or.us/
+FILTERS S
+
 ID OCLC-DCH
 NAME Deschutes Public Library
 LOCATION Bend and Deschutes County
@@ -7304,6 +7320,14 @@ CATTYPE primodl-scope
 BASEURL https://search.library.pdx.edu
 VID PSU
 SCOPE all
+
+ID OCLC-OXY
+NAME Springfield Public Library
+LOCATION Springfield
+STATE OR
+CATTYPE sirsient
+BASEURL https://sprp.ent.sirsi.net
+LCODE en_US/springfield
 
 ID OCLC-UMQ
 NAME Umpqua Community College

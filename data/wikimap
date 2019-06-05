@@ -10,7 +10,7 @@
 #   are not included in this file.
 # Manual title and name-title correspondences have been moved to wikiworksmap.
 # See docs file for documentation
-# Last updated 2019-05-23
+# Last updated 2019-06-04
 # Did LCSH 2015-2018 update lists, 2019 monthly lists 1-4
 1 Pendleton Place House (New York, N.Y.)|=|Building at One Pendleton Place
 1009 Fifth Avenue House (New York, N.Y.)|=|Benjamin N. Duke House
@@ -902,7 +902,7 @@ Allegheny Reservoir (Pa. and N.Y.)|=|Allegheny Reservoir
 Allegheny River (Pa. and N.Y.)|=|Allegheny River
 Allegheny Riverfront Park (Pittsburgh, Pa.)|=|Allegheny Riverfront Park
 Allegories|->|Allegory
-Allegories (Mathematics)|=|Allegory (category theory)
+Allegories (Mathematics)|=|Allegory (mathematics)
 Allen-Beville House (New York, N.Y.)|=|Allen-Beville House
 Allen M. Sumner Class (Destroyers)|=|Allen M. Sumner-class destroyer
 Alleyn, Roderick (Fictitious character)|=|Roderick Alleyn
@@ -8318,8 +8318,8 @@ Cusp forms (Mathematics)|=|Cusp form
 Custer National Forest (Agency : U.S.)|->|Custer National Forest
 Custer National Forest (Mont. and S.D.)|=|Custer National Forest
 Custody of children|=|Child custody
-Customer relations|->|Customer-relationship management
-Customer relations -- Management|=|Customer-relationship management
+Customer relations|->|Customer relationship management
+Customer relations -- Management|=|Customer relationship management
 Custozza, Battle of, Italy, 1848|=|Battle of Custoza (1848)
 Custozza, Battle of, Italy, 1866|=|Battle of Custoza (1866)
 Cutlass (Jet fighter plane)|=|Vought F7U Cutlass
@@ -9808,7 +9808,7 @@ East and West Africa Medal (Great Britain)|=|East and West Africa Medal
 East Anglia (England)|=|East Anglia
 East Antarctica (Antarctica)|=|East Antarctica
 East Asians|=|East Asian people
-East Bay (Calif.)|=|East Bay (San Francisco Bay Area)
+East Bay (Calif.)|=|East Bay
 East Cactus Plain Wilderness (Ariz.)|=|East Cactus Plain Wilderness
 East Capitol Street (Washington, D.C.)|=|East Capitol Street
 East End (London, England)|=|East End of London
@@ -11140,7 +11140,7 @@ Federal National Mortgage Association|=|Fannie Mae
 Federal Party (U.S.)|<->|Federalist Party
 Federal Road (Ala. and Ga.)|<->|Federal Road (Creek lands)
 Federalist|<->|The Federalist Papers
-Federally recognized Indian tribes|<->|List of federally recognized tribes
+Federally recognized Indian tribes|<->|List of federally recognized tribes in the United States
 Federated searching|=|Federated search
 FedEx Field (Landover, Md.)|=|FedExField
 Feeding of the five thousand (Miracle)|<->|Feeding the multitude
@@ -11215,7 +11215,7 @@ Fetishism (Sexual behavior)|=|Sexual fetishism
 Fett, Boba (Fictitious character)|=|Boba Fett
 Fetterman Fight, Wyo., 1866|=|Fetterman Fight
 Fetus -- Diseases|=|Fetal disease
-Feyl&icirc; (Kurdish people)|=|Feyli Kurds
+Feyl&icirc; (Kurdish people)|<->|Feylis
 Feyz&#x0324;&amacr;b&amacr;d (Badakhsh&amacr;n, Afghanistan)|=|Fayzabad, Badakhshan
 Fezzes|=|Fez
 Ffos Las Racecourse (Trimsaran, Wales)|=|Ffos Las racecourse
@@ -16125,7 +16125,7 @@ Islands -- Vanuatu|<->|List of islands of Vanuatu
 Islands -- Vietnam|<->|List of islands of Vietnam
 Islands -- Wales|<->|List of islands of Wales
 Islands -- Washington (D.C.)|<->|List of islands of Washington, D.C.
-Islands -- Washington (State)|<->|List of islands of Washington State by population and area
+Islands -- Washington (State)|<->|List of islands of Washington (state)
 Islands -- West Virginia|<->|List of islands of West Virginia
 Islands -- Wyoming|<->|List of islands of Wyoming
 Islands -- Yemen (Republic)|<->|List of islands of Yemen
@@ -16669,7 +16669,7 @@ Jinsha Site (China)|=|Jinsha site
 Jinshin Revolt, 672|=|Jinshin War
 Jita (African people)|=|Jita people
 Jitterbug (Dance)|=|Jitterbug
-Jiu River (Romania)|=|Jiu River
+Jiu River (Romania)|=|Jiu (river)
 Jiu River Valley (Romania)|<->|Jiu Valley
 Jiu-jitsu|=|Jujutsu
 Jiujiang (Jiangxi Sheng, China)|=|Jiujiang
@@ -16934,7 +16934,7 @@ Kalash (Pakistani people)|=|Kalash people
 Kalashnikov machine gun|<->|Kalashnikov rifle
 Kal&acirc;tdlisut dialect|=|Kalaallisut
 Kalenjin (African people)|=|Kalenjin people
-Kalhur (Kurdish people)|=|Kalhor (Iranian tribe)
+Kalhur (Kurdish people)|=|Kalhor Kurds
 K&amacr;l&imacr; (Hindu deity)|=|Kali
 K&amacr;l&imacr;-p&umacr;j&amacr; (Hindu festival)|=|Kali Puja
 Kali River (India and Nepal)|=|Kali River
@@ -17283,7 +17283,7 @@ Khartoum (Sudan)|=|Khartoum
 Khartoum (Sudan) -- History -- Siege, 1884-1885|=|Siege of Khartoum
 Kharwar (Indic people)|=|Kharwar
 Khasi (Indic people)|=|Khasi people
-Khatik (South Asian people)|=|Khateek
+Khatik (South Asian people)|=|Khatik
 Khaybar, Battle of, Khaybar, Saudi Arabia, 628|=|Battle of Khaybar
 Khe Sanh, 1st Battle of, Vietnam, 1967|=|The Hill Fights
 Khe Sanh, 2nd Battle of, Vietnam, 1968|=|Battle of Khe Sanh
@@ -17516,7 +17516,6 @@ K&omacr;be-shi (Japan)|=|Kobe
 K&omacr;be-shi (Japan) -- History -- Bombardment, 1945|=|Bombing of Kobe in World War II
 Kobuk River (Alaska)|=|Kobuk River
 Kobuk Valley National Park (Alaska)|=|Kobuk Valley National Park
-Ko&ccedil;giri (Kurdish people)|=|Koçgiri
 K&#x014f;ch&#x02bb;ang Incident, Korea, 1951|<->|Geochang massacre
 Kock (Poland)|=|Kock
 Kock, Battle of, Kock, Poland, 1939|=|Battle of Kock (1939)
@@ -17719,7 +17718,7 @@ Krebs cycle|=|Citric acid cycle
 Kreischer House (New York, N.Y.)|=|Kreischer House
 Kremlin (Kazan', Russia)|=|Kazan Kremlin
 Kremlin (Moscow, Russia)|=|Moscow Kremlin
-Kremlin (Novgorod, Russia)|=|Novgorod Kremlin
+Kremlin (Novgorod, Russia)|=|Novgorod Detinets
 Krenitzin Islands (Alaska)|=|Krenitzin Islands
 Kresnensko Uprising, 1878|<->|Kresna–Razlog uprising
 Kriegspiel (Game)|=|Kriegspiel (chess)
@@ -21269,7 +21268,7 @@ Mopane tree|=|Mopane
 Moplah dialect|=|Mappila dialect
 Moplah Rebellion, India, 1921|=|Malabar rebellion
 Mopti (Mali : Region)|=|Regions of Mali
-Morag (Monster)|=|Morag (loch monster)
+Morag (Monster)|=|Morag (lake monster)
 Moral education|<->|Character education
 Moralities|=|Morality play
 Morane-Saulnier A1 (Fighter plane)|=|Morane-Saulnier AI
@@ -21772,7 +21771,7 @@ Nagualism|<->|Nagual
 Nagykanizsa (Hungary)|=|Nagykanizsa
 Naha Port (Japan)|<->|Naha Port Facility
 Naha-shi (Japan)|=|Naha
-Nah&amacr;vand, Battle of, Nah&amacr;vand, Iran, 642|=|Battle of Nahāvand
+Nah&amacr;vand, Battle of, Nah&amacr;vand, Iran, 642|=|Battle of Nahavand
 Nahr el-Kalb Site (Lebanon)|<->|Commemorative stelae of Nahr el-Kalb
 Nahrawan, Battle of, Iraq, 658|<->|Battle of Nahrawan
 Nahuatl language|=|Nahuatl
@@ -22785,7 +22784,7 @@ Nomlaki Indians|=|Nomlaki
 Non-alcoholic beverages|=|Non-alcoholic drink
 Non-functional requirements (Systems engineering)|<->|Non-functional requirement
 Non-governmental organizations|=|Non-governmental organization
-Non-insulin-dependent diabetes|<->|Diabetes mellitus type 2
+Non-insulin-dependent diabetes|<->|Type 2 diabetes
 Nonassociative algebras|=|Non-associative algebra
 Nonbank financial institutions|=|Non-bank financial institution
 Nonequilibrium thermodynamics|=|Non-equilibrium thermodynamics
@@ -25791,7 +25790,7 @@ Positioning (Advertising)|=|Positioning (marketing)
 Positive organ (Musical instrument)|=|Positive organ
 Positron annihilation|=|Electron–positron annihilation
 POSIX (Computer software standard)|=|POSIX
-Post Hospital (New York, N.Y. : Building)|=|The Block House
+Post Hospital (New York, N.Y. : Building)|=|Block House (Governors Island)
 Post-impressionism (Art)|=|Post-Impressionism
 Post Office Strike, Great Britain, 1971|=|1971 United Kingdom postal workers strike
 Post-punk music|=|Post-punk
@@ -26478,7 +26477,7 @@ Q'eswachaka Bridge (Peru)|=|Queshuachaca
 Q hypothesis (Synoptics criticism)|<->|Q source
 Q technique|<->|Q methodology
 Q&auml;b&auml;l&auml; (Azerbaijan)|=|Qabala
-Q&amacr;dis&imacr;yah, Battle of, Iraq, 637|<->|Battle of al-Qādisiyyah
+Q&amacr;dis&imacr;yah, Battle of, Iraq, 637|<->|Battle of al-Qadisiyyah
 Qaida (Organization)|<->|Al-Qaeda
 Qal'ah-ye Now (B&amacr;dgh&imacr;is, Afghanistan)|=|Qala e Naw
 Qal&amacr;t (Z&amacr;bul, Afghanistan)|=|Qalati Ghilji
@@ -27365,7 +27364,7 @@ Ririe Reservoir (Idaho)|=|Ririe Reservoir
 Risco Plateado Mountain (Argentina)|=|Risco Plateado
 Risiera di San Sabba (Concentration camp)|=|Risiera di San Sabba
 Risk communication|->|Risk management
-Ri&scedil;van (Turkic people)|<->|Reşvan
+Ri&scedil;van (Turkic people)|<->|Reşwan Kurds
 Rittenhouse Square (Philadelphia, Pa.)|=|Rittenhouse Square
 Ritterkreuz|=|Knight's Cross
 Ritual abuse|<->|Satanic ritual abuse
@@ -29105,8 +29104,8 @@ Setting (Literature)|=|Setting (narrative)
 Settle and Carlisle Railway|<->|Settle–Carlisle line
 Seung|=|Sueng
 Sevan Lake (Armenia)|=|Lake Sevan
-Sevastopol&#x02b9; (Ukraine) -- History -- Siege, 1854-1855|=|Siege of Sevastopol (1854–55)
-Sevastopol&#x02b9; (Ukraine) -- History -- Siege, 1942|<->|Siege of Sevastopol (1941–42)
+Sevastopol&#x02b9; (Ukraine) -- History -- Siege, 1854-1855|=|Siege of Sevastopol (1854–1855)
+Sevastopol&#x02b9; (Ukraine) -- History -- Siege, 1942|<->|Siege of Sevastopol (1941–1942)
 Seven (The number)|=|7
 Seven Bishops, Trial of, London, England, 1688|<->|Seven Bishops
 Seven Days' Battles, Va., 1862|=|Seven Days Battles
@@ -31090,7 +31089,7 @@ Surveillance in motion pictures|<->|List of films featuring surveillance
 Surveys|=|Survey
 Survival|<->|Survival skills
 S&umacr;rya (Hindu deity)|<->|Surya
-Suryavamsha dynasty|=|Suryavansha
+Suryavamsha dynasty|->|Ikshvaku dynasty
 S&umacr;ryava&#x1e41;&sacute;i Gajapati dynasty, 1435-1550|<->|Gajapati Kingdom
 Susan (Name)|=|Susan
 Susitna Glacier (Alaska)|=|Susitna Glacier
@@ -35324,7 +35323,7 @@ World Heritage areas -- Germany|<->|List of World Heritage Sites in Germany
 World Heritage areas -- India|<->|List of World Heritage Sites in India
 World Heritage areas -- Madagascar|<->|List of World Heritage Sites in Madagascar
 World Heritage areas -- Mongolia|<->|List of World Heritage Sites in Mongolia
-World Heritage areas -- Portugal|<->|List of World Heritage sites in Portugal
+World Heritage areas -- Portugal|<->|List of World Heritage Sites in Portugal
 World Heritage areas -- South Africa|<->|List of World Heritage Sites in South Africa
 World Heritage areas -- Switzerland|<->|List of World Heritage Sites in Switzerland
 World Heritage areas -- Thailand|<->|List of World Heritage Sites in Thailand
