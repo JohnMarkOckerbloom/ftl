@@ -10,9 +10,8 @@
 #   are not included in this file.
 # Manual title and name-title correspondences have been moved to wikiworksmap.
 # See docs file for documentation
-# Last updated 2019-06-23
+# Last updated 2019-07-05
 # Did LCSH 2015-2018 update lists, 2019 monthly lists 1-5
-# Part-way through adding (Battleship) headings; A-K so far
 1 Pendleton Place House (New York, N.Y.)|=|Building at One Pendleton Place
 1009 Fifth Avenue House (New York, N.Y.)|=|Benjamin N. Duke House
 1066 Country Walk (England)|=|1066 Country Walk
@@ -3806,7 +3805,7 @@ Blida (Algeria)|=|Blida
 Blida (Algeria : Province)|=|Blida Province
 Blieskastel (Germany)|=|Blieskastel
 Blind River (Ont. : River)|=|Blind River (Ontario)
-Blind source separation|=|Blind signal separation
+Blind source separation|->|Signal separation
 Blindman River (Alta.)|=|Blindman River
 Blindness|->|Visual impairment
 Blinds|<->|Window blind
@@ -5387,7 +5386,6 @@ Carnivorous plants|=|Carnivorous plant
 Carnot (Battleship)|=|French battleship Carnot
 Carnutes (Celtic people)|=|Carnutes
 Caro-Kann defense (Chess)|=|Caro–Kann Defence
-Carolina Bays|=|Carolina bay
 Carolina Hall (Chapel Hill, N.C.)|=|Carolina Hall (Chapel Hill, North Carolina)
 Carolina Hurricanes (Hockey team)|=|Carolina Hurricanes
 Carolina Panthers (Football team)|=|Carolina Panthers
@@ -7669,7 +7667,7 @@ Cooking, Nepali|<->|Nepalese cuisine
 Cooking -- New Mexico|<->|New Mexican cuisine
 Cooking -- New York (State) -- New York|<->|Cuisine of New York City
 Cooking, New Zealand|<->|New Zealand cuisine
-Cooking, Ni-Vanuatu|<->|Cuisine of Vanuatu
+Cooking, Ni-Vanuatu|<->|Vanuatuan cuisine
 Cooking, Nicaraguan|<->|Nicaraguan cuisine
 Cooking, Nigerian|<->|Nigerian cuisine
 Cooking, Niuean|<->|Niuean Cuisine
@@ -13317,7 +13315,7 @@ Gray gull|=|Grey gull
 Gray-headed albatross|=|Grey-headed albatross
 Gray-headed dove|=|Grey-headed dove
 Gray heron|=|Grey heron
-Gray jay|=|Grey jay
+Gray jay|=|Canada jay
 Gray market|=|Grey market
 Gray petrel|=|Grey petrel
 Gray seal|=|Grey seal
@@ -13627,7 +13625,7 @@ Guadalajara (Mexico)|=|Guadalajara
 Guadalajara, Battle of, Brihuega, Spain, 1937|=|Battle of Guadalajara
 Guadalajara Gasoline Explosions, Guadalajara, Mexico, 1992|<->|1992 Guadalajara explosions
 Guadalcanal (Solomon Islands)|=|Guadalcanal
-Guadalcanal, Battle of, Solomon Islands, 1942-1943|<->|Guadalcanal campaign
+Guadalcanal, Battle of, Solomon Islands, 1942-1943|<->|Guadalcanal Campaign
 Guadalupe, Our Lady of|<->|Our Lady of Guadalupe
 Guadalupe Mountains (N.M. and Tex.)|=|Guadalupe Mountains
 Guadalupe Mountains National Park (Tex.)|=|Guadalupe Mountains National Park
@@ -16823,7 +16821,7 @@ John F. Kennedy Space Center|=|Kennedy Space Center
 John H. Kerr Dam (Va.)|=|John H. Kerr Dam
 John H. Kerr Reservoir (Va. and N.C.)|=|Kerr Lake
 John Hancock Center (Chicago, Ill.)|<->|John Hancock Center
-John Hancock Tower (Boston, Mass.)|<->|200 Clarendon Street
+John Hancock Tower (Boston, Mass.)|<->|John Hancock Tower
 John Henry (Race horse)|=|John Henry (horse)
 John H. Chafee National Wildlife Refuge (R.I.)|=|John H. Chafee National Wildlife Refuge
 John Michael Kohler State Park (Wis.)|->|Kohler-Andrae State Park
@@ -16877,7 +16875,7 @@ JPEG (Image coding standard)|=|JPEG
 JScript (Computer program language)|=|JScript
 JSON (Document markup language)|=|JSON
 Jualpa Mine Camp (Alaska)|<->|Last Chance Mining Museum
-Juane&ntilde;o Indians|=|Juaneño
+Juane&ntilde;o Indians|=|Acjachemen
 Jubilee Class (Steam locomotives)|<->|LMS Jubilee Class
 Jubilee Country Park (London, England)|=|Jubilee Country Park
 Judaculla Rock (N.C.)|=|Judaculla Rock
@@ -17211,7 +17209,7 @@ Kars Castle (Kars, Turkey)|=|Castle of Kars
 Karsilamas (Dance)|=|Karsilamas
 Kartchner Caverns State Park (Ariz.)|=|Kartchner Caverns State Park
 Kartia (Game)|=|Kartia: The Word of Fate
-Kartid dynasty, 1245-1389|<->|Kurt dynasty
+Kartid dynasty, 1245-1389|<->|Kart dynasty
 Karting|<->|Kart racing
 Kasaan Peninsula (Alaska)|=|Kasaan Peninsula
 Kasai River (Angola and Congo)|=|Kasai River
@@ -17509,6 +17507,7 @@ King County Courthouse (Seattle, Wash.)|=|King County Courthouse
 King George Island (Antarctica)|=|King George Island (South Shetland Islands)
 King George V (Battleship)|=|HMS King George V (41)
 King George V (Steam locomotive)|=|GWR 6000 Class 6000 King George V
+King George V Class (Battleships: 1940-1957)|=|King George V-class battleship (1939)
 King George VI and Queen Elizabeth Diamond Stakes|=|King George VI and Queen Elizabeth Stakes
 King John's Castle (Limerick, Limerick, Ireland)|=|King John's Castle (Limerick)
 King John's Castle (Limerick, Limerick, Ireland) -- Siege, 1642|<->|Siege of Limerick (1642)
@@ -19228,6 +19227,7 @@ Louisbourg (N.S.) -- History -- Siege, 1745|=|Siege of Louisbourg (1745)
 Louisbourg (N.S.) -- History -- Siege, 1758|=|Siege of Louisbourg (1758)
 Louise, Lake (Alta. : Lake)|=|Lake Louise (Alberta)
 Louise McKinney Riverfront Park (Edmonton, Alta.)|=|Louise McKinney Riverfront Park
+Louisiana (Battleship)|=|USS Louisiana (BB-19)
 Louisiana -- History -- Civil War, 1861-1865|=|Louisiana in the American Civil War
 Louisiana -- Politics and government|<->|Politics of Louisiana
 Louisiana and Arkansas Railway Company|=|Louisiana and Arkansas Railway
@@ -19385,6 +19385,7 @@ Lutra lutra|=|Eurasian otter
 Lutter, Battle of, Germany, 1626|=|Battle of Lutter
 L&uuml;tzen, Battle of, Germany, 1813|=|Battle of Lützen (1813)
 L&uuml;tzen, Battle of, L&uuml;tzen, Germany, 1632|=|Battle of Lützen (1632)
+L&uuml;tzow (Battleship)|->|German cruiser Deutschland
 L&uuml;tzow-Holm Bay (Antarctica)|=|Lützow-Holm Bay
 Luvale (African people)|=|Lovale people
 Luxembourg -- History -- German occupation, 1940-1944|=|German occupation of Luxembourg during World War II
@@ -19639,6 +19640,7 @@ Main Line (Pa.)|=|Philadelphia Main Line
 Main Plot, England, 1603|=|Main Plot
 Maine -- History -- Civil War, 1861-1865|=|Maine in the American Civil War
 Maine (Battleship)|=|USS Maine (ACR-1)
+Maine (Battleship No. 10)|=|USS Maine (BB-10)
 Maine coon cat|=|Maine Coon
 Maine, Gulf of|=|Gulf of Maine
 Mainstreaming in education|=|Mainstreaming (education)
@@ -20026,6 +20028,7 @@ Mark Twain National Forest (Agency : U.S.)|->|Mark Twain National Forest
 Mark Twain National Forest (Mo.)|=|Mark Twain National Forest
 Markdown (Document markup language)|=|Markdown
 Marland Estate (Ponca City, Okla.)|<->|E. W. Marland Mansion
+Marlborough (Battleship)|=|HMS Marlborough (1912)
 Marley, Jacob (Fictitious character) (Spirit)|=|Jacob Marley
 Marlins|=|Marlin
 Marlowe, Philip (Fictitious character)|=|Philip Marlowe
@@ -20115,6 +20118,7 @@ Mary, Blessed Virgin, Saint -- Visitation|=|Visitation (Christianity)
 Mary, Lake (Coconino County, Ariz.)|<->|Lake Mary (Arizona)
 Mary Pickford Theater (Library of Congress James Madison Memorial Building, Washington, D.C.)|=|Mary Pickford Theater
 Mary's Well (Nazareth, Israel)|=|Mary's Well
+Maryland (Battleship)|=|USS Maryland (BB-46)
 Maryland -- History -- Civil War, 1861-1865|=|Maryland in the American Civil War
 Maryland -- History -- Colonial period, ca. 1600-1775|<->|Province of Maryland
 Maryland -- History -- Revolution, 1775-1783|=|Maryland in the American Revolution
@@ -20874,6 +20878,7 @@ Mijikenda (African people)|=|Mijikenda peoples
 Mijikenda languages|=|Mijikenda language
 Mijnsheerenland (Netherlands)|=|Mijnsheerenland
 Mikado Type (Steam locomotives)|<->|2-8-2
+Mikasa (Battleship)|=|Japanese battleship Mikasa
 Mikatagahara, Battle of, Japan, 1572|<->|Battle of Mikatagahara
 Mike O'Callaghan-Pat Tillman Memorial Bridge (Ariz. and Nev.)|=|Mike O'Callaghan–Pat Tillman Memorial Bridge
 Mikea (Malagasy people)|=|Mikea people
@@ -21072,12 +21077,16 @@ Missions to Jews|<->|Christian mission to Jews
 Missisauga Indians|<->|Mississaugas
 Mississauga (Ont.)|=|Mississauga
 Mississinewa, Battle of, Ind., 1812|=|Battle of the Mississinewa
+Mississippi (Battleship : BB 23)|<->|Greek battleship Kilkis
+Mississippi (Battleship : BB 41)|=|USS Mississippi (BB-41)
 Mississippi -- History -- Civil War, 1861-1865|=|Mississippi in the American Civil War
 Mississippi -- Politics and government|<->|Government of Mississippi
 Mississippi River Delta (La.)|=|Mississippi River Delta
 Mississippi River Valley|->|Mississippi River
 Mississippi River Watershed|<->|Mississippi River System
 Mississippian pottery|=|Mississippian culture pottery
+Missouri (Battleship : BB-11)|=|USS Missouri (BB-11)
+Missouri (Battleship : BB 63)|=|USS Missouri (BB-63)
 Missouri -- History -- Civil War, 1861-1865|=|Missouri in the American Civil War
 Missouri -- Politics and government|<->|Government of Missouri
 Missouri Coteau (S.D. and N.D.)|<->|Coteau du Missouri
@@ -21765,6 +21774,7 @@ Murzu (African people)|=|Mursi people
 Musa Dagh, Defense of, Turkey, 1915|<->|Musa Dagh
 M&umacr;s&aacute; Qal'eh (Afghanistan)|=|Musa Qala
 Musa Qala, Battle of, M&umacr;s&aacute; Qal'eh, Afghanistan, 2007|=|Battle of Musa Qala
+Musashi (Battleship)|=|Japanese battleship Musashi
 Muscadet (Wine)|=|Muscadet
 Muscadine grape|=|Vitis rotundifolia
 Muscat (Wine)|<->|Muscat (grape)
@@ -21840,6 +21850,7 @@ Mustelus schmitti|=|Narrownose smooth-hound
 Mutant Chronicles (Game)|=|Mutant Chronicles
 Mutation (Biology)|<->|Mutation
 Mutations (Algebra)|=|Mutation (algebra)
+Mutsu (Battleship)|=|Japanese battleship Mutsu
 Mutts (Dogs)|<->|Mongrel
 Mutual security program, 1951-|<->|Mutual Security Act
 Muzaffarabad (Azad Kashmir, Pakistan)|=|Muzaffarabad
@@ -22265,6 +22276,7 @@ NEAR Shoemaker (Spacecraft)|=|NEAR Shoemaker
 Near-side Car (Streetcar)|=|Nearside streetcar
 Nearctic (Race horse)|=|Nearctic (horse)
 Nebo, Mount (Utah : Mountain)|=|Mount Nebo (Utah)
+Nebraska (Battleship)|=|USS Nebraska (BB-14)
 Nebraska -- History -- Civil War, 1861-1865|=|Nebraska in the American Civil War
 Nebraska National Forest (Agency : U.S.)|->|Nebraska National Forest
 Nebraska National Forest (Neb. and S.D.)|<->|Nebraska National Forest
@@ -22424,6 +22436,7 @@ Neutral Nation Indians|=|Neutral Nation
 Neutrality|<->|Neutral country
 Neuve-Chapelle (France)|=|Neuve-Chapelle
 Neuve-Chapelle, Battle of, Neuve-Chapelle, France, 1915|=|Battle of Neuve Chapelle
+Nevada (Battleship)|=|USS Nevada (BB-36)
 Nevada -- History -- Civil War, 1861-1865|=|Nevada in the American Civil War
 Nevada -- Politics and government|<->|Government of Nevada
 Nevada National Security Site (Nev.)|<->|Nevada Test Site
@@ -22450,6 +22463,7 @@ New Gate (Jerusalem)|=|New Gate
 New German school (Group of composers)|<->|New German School
 New Glarus Woods State Park (Wis.)|=|New Glarus Woods State Park
 New Gulf (Argentina)|<->|Golfo Nuevo
+New Hampshire (Battleship)|=|USS New Hampshire (BB-25)
 New Hampshire -- Politics and government|<->|Politics of New Hampshire
 New Hampshire -- Politics and government|<-|Government of New Hampshire
 New Haven (Conn.) -- History -- Invasion, 1779|<->|Tryon's raid
@@ -22457,6 +22471,8 @@ New Haven and Northampton Canal (Conn. and Mass.)|=|Farmington Canal
 New Hope Church, Battle of, Ga., 1864|=|Battle of New Hope Church
 New Horizons (Spacecraft)|=|New Horizons
 New institutionalism (Social sciences)|=|New institutionalism
+New Jersey (Battleship : BB-16)|=|USS New Jersey (BB-16)
+New Jersey (Battleship : BB-62)|=|USS New Jersey (BB-62)
 New Jersey -- History -- Civil War, 1861-1865|=|New Jersey in the American Civil War
 New Jersey -- History -- Colonial period, ca. 1600-1775|<->|Province of New Jersey
 New Jersey -- History -- Revolution, 1775-1783|=|New Jersey in the American Revolution
@@ -22470,6 +22486,7 @@ New Madrid Earthquakes, 1811-1812|=|1811–12 New Madrid earthquakes
 New Madrid Floodway (Mo.)|=|Birds Point-New Madrid Floodway
 New Market, Battle of, New Market, Va., 1864|=|Battle of New Market
 New Market Heights, Battle of, Va., 1864|->|Battle of Chaffin's Farm
+New Mexico (Battleship)|=|USS New Mexico (BB-40)
 New Mexico -- History -- Civil War, 1861-1865|->|New Mexico Territory in the American Civil War
 New Mexico -- Politics and government|<->|Government of New Mexico
 New Mexico Campaign, 1862|=|New Mexico Campaign
@@ -22500,6 +22517,7 @@ New Trier Township High School|=|New Trier High School
 New Waddell Dam (Ariz.)|=|New Waddell Dam
 New Westminster (B.C.)|=|New Westminster
 New wine into old wineskins (Parable)|=|New Wine into Old Wineskins
+New York (Battleship : BB-34)|=|USS New York (BB-34)
 New York Bight (N.J. and N.Y.)|=|New York Bight
 New York Chamber of Commerce|=|Chamber of Commerce of the State of New York
 New York City Hall (New York, N.Y.)|=|New York City Hall
@@ -22537,6 +22555,7 @@ New York to Paris Race, 1908|=|1908 New York to Paris Race
 New York World's Fair (1939-1940 : New York, N.Y.)|=|1939 New York World's Fair
 New York World's Fair (1964-1965 : New York, N.Y.)|=|1964 New York World's Fair
 New York Yankees (Baseball team)|=|New York Yankees
+New Zealand (Battleship)|=|HMS New Zealand (1911)
 New Zealand -- History -- New Zealand Wars, 1860-1872|<->|New Zealand Wars
 New Zealand -- History -- Northern War, 1845-1846|=|Flagstaff War
 New Zealand -- History -- Taranaki War, 1860-1861|=|First Taranaki War
@@ -22993,6 +23012,7 @@ North Arapaho Peak (Colo.)|=|North Arapaho Peak
 North Arcot (India)|=|North Arcot
 North Brabant (Netherlands)|=|North Brabant
 North Cape, Battle of, 1943|=|Battle of the North Cape
+North Carolina (Battleship : BB-55)|=|USS North Carolina (BB-55)
 North Carolina -- History -- Civil War, 1861-1865|=|North Carolina in the American Civil War
 North Carolina -- History -- Colonial period, ca. 1600-1775|<->|Province of North Carolina
 North Carolina -- History -- Regulator Insurrection, 1766-1771|<->|War of the Regulation
@@ -23428,6 +23448,7 @@ Okiek language|=|Ogiek language
 Okiep (South Africa)|=|Okiep
 Okinawa Island (Japan)|=|Okinawa Island
 Okinoshima (Fukuoka-ken, Japan)|=|Okinoshima (Fukuoka)
+Oklahoma (Battleship)|=|USS Oklahoma (BB-37)
 Oklahoma -- History -- Civil War, 1861-1865|<->|Indian Territory in the American Civil War
 Oklahoma -- History -- Land Rush, 1889|=|Land Rush of 1889
 Oklahoma -- History -- Land Rush, 1893|=|Land Run of 1893
@@ -23883,6 +23904,7 @@ Ore-dressing|=|Mineral processing
 &Ouml;rebro, Treaty of, 1812|=|Treaty of Orebro
 Orectolobidae|=|Wobbegong
 Orectolobiformes|=|Carpet shark
+Oregon (Battleship)|=|USS Oregon (BB-3)
 Oregon -- History -- Civil War, 1861-1865|=|Oregon in the American Civil War
 Oregon -- Politics and government|<->|Politics of Oregon
 Oregon -- Politics and government|<-|Government of Oregon
@@ -23894,6 +23916,7 @@ Oregon oak|=|Quercus garryana
 Oregon question|<->|Oregon boundary dispute
 Oregon silverspot butterfly|=|Speyeria zerene hippolyta
 Oregon State Capitol (Salem, Or. : 1938- )|<->|Oregon State Capitol
+Orel (Battleship)|=|Russian battleship Oryol
 Orestes, King of Argos (Mythological character)|=|Orestes
 Organ (Musical instrument)|=|Organ (music)
 Organ Pipe Cactus National Monument (Agency : U.S.)|->|Organ Pipe Cactus National Monument
@@ -23984,7 +24007,7 @@ Oscar the Grouch (Fictitious character)|=|Oscar the Grouch
 Osgood Mountains (Nev.)|=|Osgood Mountains
 Oshawa (Ont.)|=|Oshawa
 Oshogbo (Nigeria)|=|Osogbo
-OSI (Computer network standard)|<->|Open Systems Interconnection
+OSI (Computer network standard)|<->|OSI model
 Osirak Nuclear Reactor Bombing, Iraq, 1981|=|Operation Opera
 Osiris (Egyptian deity)|=|Osiris
 Osismii (Celtic people)|=|Osismii
@@ -25000,6 +25023,7 @@ Penmachno (Wales)|=|Penmachno
 Penn Treaty Park (Philadelphia, Pa.)|=|Penn Treaty Park
 Pennine Alps (Italy and Switzerland)|<->|Pennine Alps
 Pennine Chain (England)|=|Pennines
+Pennsylvania (Battleship)|=|USS Pennsylvania (BB-38)
 Pennsylvania -- History -- Civil War, 1861-1865|=|Pennsylvania in the American Civil War
 Pennsylvania -- History -- Colonial period, ca. 1600-1775|<->|Province of Pennsylvania
 Pennsylvania -- History -- Revolution, 1775-1783|=|Pennsylvania in the American Revolution
@@ -25066,6 +25090,7 @@ Pere Marquette River (Mich.)|=|Pere Marquette River
 Pere Marquette State Park (Ill.)|=|Pere Marquette State Park
 Pereira family|<->|Pereira (surname)
 Perennials|=|Perennial plant
+Peresvet (Battleship)|=|Russian battleship Peresvet
 Perfect games (Baseball)|=|Perfect game
 Perfectly matched layers (Mathematical physics)|=|Perfectly matched layer
 Perfluorinated chemicals|<->|Perfluorinated compound
@@ -25183,6 +25208,7 @@ Petersen House (Washington, D.C.)|=|Petersen House
 Petit Jean River (Ark.)|=|Petit Jean River
 Petit Trianon (Versailles, France)|=|Petit Trianon
 Petli&#xfe20;a&#xfe21;kov Pe-2 (Dive bomber)|=|Petlyakov Pe-2
+Petr Velikii&#x0306; (Battleship)|<->|Russian battlecruiser Pyotr Velikiy
 Petra (Extinct city)|=|Petra
 Petrie family|<->|Petrie
 Petrified Forest National Park (Ariz.)|=|Petrified Forest National Park
@@ -25800,6 +25826,7 @@ Polly Rosenbaum Archives and History Building (Phoenix, Ariz.)|<->|Polly Rosenba
 Polog Valley (North Macedonia)|=|Polog
 Polonium -- Isotopes|=|Isotopes of polonium
 Polonius (Fictitious character : Shakespeare)|=|Polonius
+Poltava (Battleship)|<->|Russian battleship Poltava (1911)
 Poltava, Battle of, Poltava, Ukraine, 1709|=|Battle of Poltava
 Polyanilines|=|Polyaniline
 Polycyclic compounds|=|Polycyclic compound
@@ -26265,6 +26292,7 @@ Prince Creek Formation (Alaska)|=|Prince Creek Formation
 Prince Edward Island -- Politics and government|<->|Politics of Prince Edward Island
 Prince Edward Island -- Politics and government|<-|Government of Prince Edward Island
 Prince Harald Coast (Antarctica)|=|Prince Harald Coast
+Prince of Wales (Battleship)|=|HMS Prince of Wales (53)
 Prince of Wales, Cape (Alaska)|=|Cape Prince of Wales
 Prince Olav Coast (Antarctica)|=|Prince Olav Coast
 Prince Patrick Island (N.W.T.)|=|Prince Patrick Island
@@ -26990,6 +27018,7 @@ Ramapo Mountain people|<->|Ramapough Mountain Indians
 Rambla (Barcelona, Spain)|=|La Rambla, Barcelona
 Rambling Willie (Race horse)|=|Rambling Willie
 Rambo, John J. (Fictitious character)|=|John Rambo
+Ramillies (Battleship)|=|HMS Ramillies (07)
 Ramillies, Battle of, Belgium, 1706|=|Battle of Ramillies
 Ramp metering (Traffic engineering)|<->|Ramp meter
 Rampart Range (Colo.)|=|Rampart Range
@@ -27201,7 +27230,7 @@ Redwoods|<->|Sequoioideae
 Reed canary grass|=|Phalaris arundinacea
 Reed pipes (Organ pipes)|=|Reed pipe
 Reedy River (S.C. : River)|=|Reedy River
-Reengineering (Management)|<->|Business process reengineering
+Reengineering (Management)|<->|Business process re-engineering
 Reeperbahn (Hamburg, Germany)|=|Reeperbahn
 Reeser family|<->|Reeser
 REFAL (Computer program language)|=|Refal
@@ -27326,6 +27355,7 @@ Requests for proposals (Public contracts)|<->|Request for proposal
 Reconquista River (Argentina)|=|Reconquista River
 Resaca, Battle of, Resaca, Ga., 1864|=|Battle of Resaca
 Resaca de la Palma, Battle of, Tex., 1846|=|Battle of Resaca de la Palma
+Re&scedil;adiye (Battleship)|<->|HMS Erin
 Rescission (Law)|<->|Rescission
 Rescue, Lake (Vt.)|=|Lake Rescue (Vermont)
 Research -- Methodology|->|Research
@@ -27380,6 +27410,7 @@ Retirees|<->|Pensioner
 Retort pouches|=|Retort pouch
 Retro (Style)|<->|Retro style
 Retroviruses|=|Retrovirus
+Retvizan (Battleship)|=|Russian battleship Retvizan
 Reuben (Tribe of Israel)|=|Tribe of Reuben
 Reusable space vehicles|<->|Reusable launch system
 Reva automobiles (India)|<->|Mahindra Electric
@@ -27702,6 +27733,7 @@ Rodeo-Chediski Fire, Ariz., 2002|=|Rodeo–Chediski Fire
 Rodeos|=|Rodeo
 Rodinia (Supercontinent)|=|Rodinia
 Rodiya (Sri Lankan people)|=|Rodiya
+Rodney (Battleship)|=|HMS Rodney (29)
 Rodney King Riots, Los Angeles, Calif., 1992|=|1992 Los Angeles riots
 Roer River|=|Rur
 Rogaland fylke (Norway)|=|Rogaland
@@ -27726,6 +27758,7 @@ Roll forming (Metalwork)|=|Roll forming
 Rollback recovery (Computer science)|<->|Rollback (data management)
 Rollo, King (Fictitious character)|<->|King Rollo
 Rolong (African people)|=|Rolong tribe
+Roma (Battleship)|<->|Italian ship Roma
 Roman Baths Museum (Bath, England)|<->|Roman Baths (Bath)
 Roman charity (Legend)|=|Roman Charity
 Roman Republic (1798-1799)|<->|Roman Republic (18th century)
@@ -27851,6 +27884,7 @@ Ross Lake National Recreation Area (Agency : U.S.)|->|Ross Lake National Recreat
 Ross Lake National Recreation Area (Wash.)|=|Ross Lake National Recreation Area
 Ross Sea (Antarctica)|=|Ross Sea
 Rossbach, Battle of, Rossbach, Merseburg-Querfurt, Germany, 1757|=|Battle of Rossbach
+Rostislav (Battleship)|=|Russian battleship Rostislav
 Rostock (Germany)|=|Rostock
 Roswell Incident, Roswell, N.M., 1947|=|Roswell UFO incident
 Rosy wolfsnail|=|Euglandina rosea
@@ -27904,6 +27938,7 @@ Royal Gorge Bridge (Colorado)|=|Royal Gorge Bridge
 Royal Greenwich Observatory|=|Royal Observatory, Greenwich
 Royal houses|<->|Dynasty
 Royal Indian Navy Mutiny, 1946|=|Royal Indian Navy mutiny
+Royal Oak (Battleship)|=|HMS Royal Oak (08)
 Royal Opera House (London, England)|=|Royal Opera House
 Royal Opera House (Valletta, Malta)|=|Royal Opera House, Valletta
 Royal Orient Express (Express train)|=|Royal Orient
@@ -27993,6 +28028,7 @@ Rural conditions|<->|Rural area
 Rural poor|<->|Rural poverty
 Rural-urban migration|->|Urbanization
 Ruruuli-Runyala language|<->|Ruuli language
+Rusalka (Battleship)|=|Russian monitor Rusalka
 Rush Creek, Battle of, Neb., 1865|=|Battle of Rush Creek
 Rush family|<->|Rush (name)
 RuSHA Trial, Nuremberg, Germany, 1947-1948|=|RuSHA trial
@@ -28807,6 +28843,7 @@ Scenic byways -- Utah|<->|List of Utah Scenic Byways
 Scenic byways -- Washington (State)|<->|List of Washington State Scenic and Recreational Highways
 Schaffhausen (Switzerland)|=|Schaffhausen
 Schaffhausen (Switzerland : Canton)|=|Canton of Schaffhausen
+Scharnhorst (Battleship)|=|German battleship Scharnhorst
 Shechem (Extinct city)|<->|Shechem
 Scheldt River|=|Scheldt
 Scheme (Computer program language)|=|Scheme (programming language)
@@ -28817,6 +28854,7 @@ Schinasi Residence (New York, N.Y.)|=|Schinasi Mansion
 Schism -- Eastern and Western Church|<->|East–West Schism
 Schism, Acacian, 484-519|=|Acacian schism
 Schism, The Great Western, 1378-1417|<->|Western Schism
+Schleswig-Holstein (Battleship)|=|SMS Schleswig-Holstein
 Schleswig-Holstein (Germany)|=|Schleswig-Holstein
 Schleswig-Holstein (Germany) -- History|=|History of Schleswig-Holstein
 Schleswig-Holstein War, 1848-1850|<->|First Schleswig War
@@ -29860,6 +29898,7 @@ Sisak, Battle of, Sisak, Croatia, 1593|=|Battle of Sisak
 Sisal (Fiber)|->|Sisal
 Sisal (Plant)|<->|Sisal
 Siskiyou Mountains (Calif. and Or.)|=|Siskiyou Mountains
+Siso&#x012d; Veliki&#x012d; (Battleship)|=|Russian battleship Sissoi Veliky
 Sissach (Switzerland)|=|Sissach
 Sissala language|=|Sisaala language
 Sistan (Iran and Afghanistan)|=|Sistan
@@ -29919,6 +29958,7 @@ Skelton Glacier (Antarctica)|=|Skelton Glacier
 Skelton N&eacute;v&eacute; (Antarctica)|=|Skelton Névé
 Skeptics (Greek philosophy)|->|Philosophical skepticism
 Sker House (Kenfig, Wales)|=|Sker House
+Skerryvore Lighthouse (Hebrides, Scotland)|<->|Skerryvore
 Skhirat Coup Attempt, &#x1e62;ukhayr&amacr;t, Morocco, 1971|=|1971 Moroccan coup attempt
 Skien (Norway)|=|Skien
 Skikdah (Algeria)|=|Skikda
@@ -29968,6 +30008,7 @@ Slapstick comedy films|=|Slapstick film
 Slapton (Devon, England)|=|Slapton, Devon
 Slapton Sands, Battle of, England, 1944|<->|Exercise Tiger
 Slash pine|=|Pinus elliottii
+Slava (Battleship)|=|Russian battleship Slava
 Slave insurrections|<->|Slave rebellion
 Slave labor|->|Slavery
 Slave Lake (Alta.)|=|Slave Lake
@@ -30107,7 +30148,7 @@ Smoky Hills (Kan.)|<->|Smoky Hills
 Smoky Lake (Alta.)|=|Smoky Lake
 Smoky River (Alta.)|=|Smoky River
 Smolensk (Russia)|=|Smolensk
-Smolensk (Russia) -- History -- Siege, 1609-1611|=|Siege of Smolensk (1609–11)
+Smolensk (Russia) -- History -- Siege, 1609-1611|=|Siege of Smolensk (1609–1611)
 Smolensk, 1st Battle of, Smolensk, Russia, 1941|=|Battle of Smolensk (1941)
 Smolensk Air Disaster, 2010|=|2010 Polish Air Force Tu-154 crash
 Smooth brome|<->|Bromus inermis
@@ -30404,6 +30445,7 @@ South Carolina -- History -- Colonial period, ca. 1600-1775|<->|Province of Sout
 South Carolina -- History -- Revolution, 1775-1783|=|South Carolina in the American Revolution
 South Carolina -- Politics and government|<->|South Carolina government and politics
 South Cotabato (Philippines)|=|South Cotabato
+South Dakota (Battleship : BB-57)|=|USS South Dakota (BB-57)
 South Dakota Class (Battleships)|<->|South Dakota-class battleship (1939)
 South Development Region (Romania)|=|Sud - Muntenia (development region)
 South Fork (N.Y. : Peninsula)|=|South Fork (Long Island)
@@ -31296,7 +31338,7 @@ Surveillance in motion pictures|<->|List of films featuring surveillance
 Surveys|=|Survey
 Survival|<->|Survival skills
 S&umacr;rya (Hindu deity)|<->|Surya
-Suryavamsha dynasty|->|The Solar Dynasty
+Suryavamsha dynasty|->|Solar dynasty
 S&umacr;ryava&#x1e41;&sacute;i Gajapati dynasty, 1435-1550|<->|Gajapati Kingdom
 Susa (Extinct city)|=|Susa
 Susan (Name)|=|Susan
@@ -31487,6 +31529,7 @@ Syzygies (Mathematics)|<->|Hilbert's syzygy theorem
 Szczecin (Poland)|=|Szczecin
 Szczecin (Poland) -- History|=|History of Szczecin
 Sz&eacute;kesfeh&eacute;rv&aacute;r (Hungary)|=|Székesfehérvár
+Szent Istv&aacute;n (Battleship)|=|SMS Szent István
 Szigetv&aacute;r (Hungary) -- History -- Siege, 1566|=|Siege of Szigetvár
 T (Computer program language)|=|T (programming language)
 T (The letter)|=|T
@@ -31778,7 +31821,6 @@ Tarkhan Site (Egypt)|=|Tarkhan (Egypt)
 Tarlac (Philippines)|=|Tarlac City
 Tarlac (Philippines : Province)|=|Tarlac
 Tarn River (France)|=|Tarn (river)
-Taro|<->|Colocasia esculenta
 Tarok (African people)|=|Tarok people
 Tarqui, Battle of, Ecuador, 1829|=|Battle of Tarqui
 Tarragona (Spain)|=|Tarragona
@@ -32019,6 +32061,7 @@ Tengger (Indonesian people)|=|Tenggerese people
 Tengger dialect|=|Tenggerese dialect
 Tengger Desert (China)|=|Tengger Desert
 Tennant Creek (N.T.)|=|Tennant Creek
+Tennessee (Battleship)|=|USS Tennessee (BB-43)
 Tennessee -- History -- Civil War, 1861-1865|=|Tennessee in the American Civil War
 Tennessee, East|=|East Tennessee
 Tennessee River Valley|<->|Tennessee Valley
@@ -32106,6 +32149,8 @@ Tewa language (Papuan)|=|Teiwa language
 Tewkesbury, Battle of, Tewkesbury, England, 1471|=|Battle of Tewkesbury
 Texan Mier Expedition (1842-1844)|<->|Mier expedition
 Texan Santa F&eacute; Expedition, 1841|=|Texan Santa Fe Expedition
+Texas (Battleship)|=|USS Texas (BB-35)
+Texas (Second class battleship)|=|USS Texas (1892)
 Texas -- Annexation to the United States|=|Texas annexation
 Texas -- Capital and capitol|<->|Capital of Texas
 Texas -- History -- Civil War, 1861-1865|=|Texas in the American Civil War
@@ -32321,6 +32366,7 @@ Thunderbird Lodge (Incline Village, Nev.)|=|Thunderbird Lodge (Lake Tahoe, Nevad
 Thunderbird Park (Victoria, B.C.)|=|Thunderbird Park (Victoria, British Columbia)
 Thunderbolt (Fighter plane)|=|Republic P-47 Thunderbolt
 Thunderchief (Jet fighter plane)|=|Republic F-105 Thunderchief
+Thunderer (Battleship)|=|HMS Thunderer (1911)
 Thunderflash (Reconnaissance aircraft)|->|Republic F-84F Thunderstreak
 Thunderjet (Jet fighter plane)|=|Republic F-84 Thunderjet
 Thunderstreak (Jet fighter plane)|=|Republic F-84F Thunderstreak
@@ -32462,6 +32508,7 @@ Tirana (Albania)|=|Tirana
 Tirana (Albania : Rrethi)|=|Tirana District
 Tire (Turkey)|<->|Tire, İzmir
 Tiriki (African people)|<->|Tiriki tribe (Luhya)
+Tirpitz (Battleship)|=|German battleship Tirpitz
 Tiruray (Philippine people)|=|Teduray people
 Tiryns (Extinct city)|<->|Tiryns
 Tishri|=|Tishrei
@@ -33034,6 +33081,7 @@ Tsakhurs|=|Tsakhur people
 Tsaritsyn, Battle of, Volgograd, Russia, 1918-1919|<->|Battle of Tsaritsyn
 Tschappat family|<->|Tschappat
 Tsegi Canyon (Ariz.)|=|Tsegi Canyon
+T&#xfe20;S&#xfe21;esarevich (Battleship)|=|Russian battleship Tsesarevich
 Tsikimba language|=|Kimba language
 Tsimihety (Malagasy people)|=|Tsimihety people
 Tsimshian Indians|=|Tsimshian
@@ -34070,6 +34118,7 @@ V&auml;nern (Sweden)|=|Vänern
 Vanessa (Insects)|=|Vanessa (butterfly)
 Vanessa tameamea|=|Kamehameha butterfly
 Vanga (Genus)|<->|Hook-billed vanga
+Vanguard (Battleship)|=|HMS Vanguard (23)
 Vanitas (Art)|=|Vanitas
 Vanna Venturi House (Philadelphia, Pa.)|=|Vanna Venturi House
 Vanth (Etruscan deity)|=|Vanth
@@ -34204,6 +34253,7 @@ Vermilion Cliffs (Ariz. and Utah)|=|Vermilion Cliffs
 Vermilion Cliffs National Monument (Ariz.)|=|Vermilion Cliffs National Monument
 Vermilion River (Alta. : County)|=|County of Vermilion River
 Vermilion River (Alta. : River)|=|Vermilion River (Alberta)
+Vermont (Battleship)|=|USS Vermont (BB-20)
 Vermont -- History -- Civil War, 1861-1865|=|Vermont in the American Civil War
 Vermont -- Politics and government|<->|Politics of Vermont
 Vermont -- Politics and government|<-|Government of Vermont
@@ -34336,7 +34386,7 @@ Vietnam (Republic) -- History -- Coup d'&eacute;tat, 1963|=|1963 South Vietnames
 Vietnam Veterans Memorial (Washington, D.C.)|=|Vietnam Veterans Memorial
 Vietnam War, 1961-1975|=|Vietnam War
 Vietnam War, 1961-1975 -- Australia|<->|Military history of Australia during the Vietnam War
-Vietnam War, 1961-1975 -- Campaigns -- Cambodia|<->|Cambodian Campaign
+Vietnam War, 1961-1975 -- Campaigns -- Cambodia|<->|Cambodian campaign
 Vietnam War, 1961-1975 -- Casualties|<->|Vietnam War casualties
 Vietnam War, 1961-1975 -- Missing in action|<->|Vietnam War POW/MIA issue
 Vietnam War, 1961-1975 -- Motion pictures and the war|<->|Vietnam War in film
@@ -34423,6 +34473,7 @@ Viracocha (Inca deity)|=|Viracocha
 Virgin birth|<->|Virgin birth of Jesus
 Virgin Gorda Island (British Virgin Islands)|=|Virgin Gorda
 Virgin Mountains (Ariz. and Nev.)|=|Virgin Mountains
+Virginia (Battleship No. 13)|=|USS Virginia (BB-13)
 Virginia -- History -- Colonial period, ca. 1600-1775|<->|Colony of Virginia
 Virginia -- History -- Civil War, 1861-1865|=|Virginia in the American Civil War
 Virginia -- History -- Revolution, 1775-1783|=|Virginia in the American Revolution
@@ -34657,7 +34708,7 @@ Walter Sisulu University for Technology &amp; Science|=|Walter Sisulu University
 Wampanoag Indians|=|Wampanoag
 Wan&aring;s slott (Sweden)|=|Wanås Castle
 Wanat, Battle of, Afghanistan, 2008|=|Battle of Wanat
-Wancho (Indic people)|=|Wancho people
+Wancho (Indic people)|=|Wancho Naga
 Wanetsi dialect|=|Wanetsi
 WANG 2200 (Computer)|=|Wang 2200
 Wanga (African people)|=|Wanga tribe (Luhya)
@@ -34715,6 +34766,7 @@ Warner Mountains (Calif. and Or.)|=|Warner Mountains
 Warren Ballpark (Bisbee, Ariz.)|=|Warren Ballpark
 Warren Wagon Train Massacre, Tex., 1871|=|Warren Wagon Train raid
 Warrington (England)|=|Warrington
+Warrior (Battleship)|=|HMS Warrior (1860)
 Wars of Liberation, 1813-1814|<->|War of the Sixth Coalition
 Wars of Liberation, 1813-1814 -- Campaigns -- Germany|<->|German Campaign of 1813
 Warsaw (Poland)|=|Warsaw
@@ -34737,6 +34789,8 @@ Wasatch Range (Utah and Idaho)|=|Wasatch Range
 Washburn, Mount (Wyo.)|=|Mount Washburn
 Washburn "A" Mill Explosion, Minneapolis, Minn., 1878|->|Mill City Museum
 Washers (Fasteners)|<->|Washer (hardware)
+Washington (Battleship : BB-47)|=|USS Washington (BB-47)
+Washington (Battleship : BB-56)|=|USS Washington (BB-56)
 Washington Aqueduct (Md. and Washington, D.C.)|=|Washington Aqueduct
 Washington Capitals (Hockey team)|=|Washington Capitals
 Washington Color School (Group of artists)|=|Washington Color School
@@ -35353,6 +35407,8 @@ Wireless power transmission|=|Wireless power transfer
 Wiretapping|<->|Telephone tapping
 Wirral (England)|<->|Metropolitan Borough of Wirral
 Wirraway (Training plane)|=|CAC Wirraway
+Wisconsin (Battleship : BB-64)|=|USS Wisconsin (BB-64)
+Wisconsin (Battleship : BB-9)|=|USS Wisconsin (BB-9)
 Wisconsin -- History -- Civil War, 1861-1865|=|Wisconsin in the American Civil War
 Wisconsin Avenue (Washington, D.C.)|=|Wisconsin Avenue
 Wisconsin Heights, Battle of, Wis., 1832|=|Battle of Wisconsin Heights
@@ -35596,21 +35652,21 @@ World War, 1914-1918 -- Campaigns -- Africa|=|African theatre of World War I
 World War, 1914-1918 -- Campaigns -- Africa, East|=|East African Campaign (World War I)
 World War, 1914-1918 -- Campaigns -- Africa, North|=|Military operations in North Africa during World War I
 World War, 1914-1918 -- Campaigns -- Angola|<->|German campaign in Angola
-World War, 1914-1918 -- Campaigns -- Balkan Peninsula|<->|Balkans Campaign (World War I)
+World War, 1914-1918 -- Campaigns -- Balkan Peninsula|<->|Balkans campaign (World War I)
 World War, 1914-1918 -- Campaigns -- Cameroon|<->|Kamerun Campaign
 World War, 1914-1918 -- Campaigns -- Caucasus|=|Caucasus Campaign
 World War, 1914-1918 -- Campaigns -- Eastern Front|=|Eastern Front (World War I)
 World War, 1914-1918 -- Campaigns -- Europe|<->|European theatre of World War I
 World War, 1914-1918 -- Campaigns -- Iran|<->|Persian Campaign
 World War, 1914-1918 -- Campaigns -- Iraq|<->|Mesopotamian campaign
-World War, 1914-1918 -- Campaigns -- Italy|<->|Italian Front (World War I)
+World War, 1914-1918 -- Campaigns -- Italy|<->|Italian front (World War I)
 World War, 1914-1918 -- Campaigns -- Mediterranean Sea|<->|Naval warfare in the Mediterranean during World War I
 World War, 1914-1918 -- Campaigns -- Middle East|<->|Middle Eastern theatre of World War I
 World War, 1914-1918 -- Campaigns -- Montenegro|<->|Montenegrin Campaign of World War I
 World War, 1914-1918 -- Campaigns -- Namibia|=|South West Africa campaign
-World War, 1914-1918 -- Campaigns -- Serbia|=|Serbian Campaign of World War I
+World War, 1914-1918 -- Campaigns -- Serbia|=|Serbian campaign of World War I
 World War, 1914-1918 -- Campaigns -- Togo|<->|Togoland Campaign
-World War, 1914-1918 -- Campaigns -- Turkey -- Gallipoli Peninsula|=|Gallipoli Campaign
+World War, 1914-1918 -- Campaigns -- Turkey -- Gallipoli Peninsula|=|Gallipoli campaign
 World War, 1914-1918 -- Campaigns -- Western Front|=|Western Front (World War I)
 World War, 1914-1918 -- Canada|<->|Military history of Canada during World War I
 World War, 1914-1918 -- Casualties|=|World War I casualties
@@ -35659,12 +35715,12 @@ World War, 1939-1945 -- Belgium|=|Belgium in World War II
 World War, 1939-1945 -- Bulgaria|<->|Military history of Bulgaria during World War II
 World War, 1939-1945 -- Campaigns|<->|List of theaters and campaigns of World War II
 World War, 1939-1945 -- Campaigns -- Africa, East|<->|East African Campaign (World War II)
-World War, 1939-1945 -- Campaigns -- Africa, North|<->|North African campaign
+World War, 1939-1945 -- Campaigns -- Africa, North|<->|North African Campaign
 World War, 1939-1945 -- Campaigns -- Alaska -- Aleutian Islands|=|Aleutian Islands Campaign
 World War, 1939-1945 -- Campaigns -- Arctic Ocean|<->|Arctic naval operations of World War II
 World War, 1939-1945 -- Campaigns -- Atlantic Ocean|=|Battle of the Atlantic
 World War, 1939-1945 -- Campaigns -- Australia|<->|Attacks on Australia during World War II
-World War, 1939-1945 -- Campaigns -- Balkan Peninsula|<->|Balkans Campaign (World War II)
+World War, 1939-1945 -- Campaigns -- Balkan Peninsula|<->|Balkans campaign (World War II)
 World War, 1939-1945 -- Campaigns -- Baltic Sea|=|Baltic Sea campaigns (1939–45)
 World War, 1939-1945 -- Campaigns -- Black Sea|<->|Black Sea campaigns (1941–44)
 World War, 1939-1945 -- Campaigns -- Burma|<->|Burma Campaign
@@ -35677,7 +35733,7 @@ World War, 1939-1945 -- Campaigns -- Gibraltar|<->|Military history of Gibraltar
 World War, 1939-1945 -- Campaigns -- Indian Ocean|<->|Indian Ocean in World War II
 World War, 1939-1945 -- Campaigns -- Iran|<->|Anglo-Soviet invasion of Iran
 World War, 1939-1945 -- Campaigns -- Iraq|<->|Anglo-Iraqi War
-World War, 1939-1945 -- Campaigns -- Italy|<->|Italian Campaign (World War II)
+World War, 1939-1945 -- Campaigns -- Italy|<->|Italian campaign (World War II)
 World War, 1939-1945 -- Campaigns -- Italy -- Sicily|<->|Allied invasion of Sicily
 World War, 1939-1945 -- Campaigns -- Japan|<->|Japan campaign
 World War, 1939-1945 -- Campaigns -- Lapland|<->|Lapland War
@@ -35693,9 +35749,9 @@ World War, 1939-1945 -- Campaigns -- Pacific Area|<->|Pacific War
 World War, 1939-1945 -- Campaigns -- Pacific Ocean|<->|Pacific Ocean theater of World War II
 World War, 1939-1945 -- Campaigns -- Scheldt River Estuary (Netherlands and Belgium)|<->|Battle of the Scheldt
 World War, 1939-1945 -- Campaigns -- Solomon Islands|<->|Solomon Islands campaign
-World War, 1939-1945 -- Campaigns -- Solomon Islands -- Guadalcanal|->|Guadalcanal campaign
+World War, 1939-1945 -- Campaigns -- Solomon Islands -- Guadalcanal|->|Guadalcanal Campaign
 World War, 1939-1945 -- Campaigns -- Southeast Asia|=|South-East Asian theatre of World War II
-World War, 1939-1945 -- Campaigns -- Tunisia|<->|Tunisian Campaign
+World War, 1939-1945 -- Campaigns -- Tunisia|<->|Tunisian campaign
 World War, 1939-1945 -- Campaigns -- Western Front|=|Western Front (World War II)
 World War, 1939-1945 -- Canada|<->|Military history of Canada during World War II
 World War, 1939-1945 -- Casualties|=|World War II casualties
@@ -35836,6 +35892,7 @@ Wyckoff-Bennett Homestead (New York, N.Y.)|=|Wyckoff-Bennett Homestead
 Wye, River (Wales and England)|=|River Wye
 Wye Valley Walk (England and Wales)|=|Wye Valley Walk
 Wylie, Lake (N.C. and S.C.)|=|Lake Wylie
+Wyoming (Battleship : BB-32)|=|USS Wyoming (BB-32)
 Wyoming Massacre, 1778|=|Battle of Wyoming
 Wyoming Range (Wyo.)|=|Wyoming Range
 Wyoming Valley (Pa.)|=|Wyoming Valley
@@ -35947,6 +36004,7 @@ Yalunka (African people)|=|Yalunka people
 Yama (Buddhist deity)|<->|Yama (Buddhism)
 Yama (Hindu deity)|<->|Yama
 Yamaha DX7 synthesizer|=|Yamaha DX7
+Yamato (Battleship)|=|Japanese battleship Yamato
 Yamato Class (Battleships)|=|Yamato-class battleship
 Yamatoe|=|Yamato-e
 Yamasee War, S.C., 1715-1716|<->|Yamasee War
