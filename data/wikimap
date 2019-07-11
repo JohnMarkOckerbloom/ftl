@@ -10,7 +10,7 @@
 #   are not included in this file.
 # Manual title and name-title correspondences have been moved to wikiworksmap.
 # See docs file for documentation
-# Last updated 2019-07-05
+# Last updated 2019-07-09
 # Did LCSH 2015-2018 update lists, 2019 monthly lists 1-5
 1 Pendleton Place House (New York, N.Y.)|=|Building at One Pendleton Place
 1009 Fifth Avenue House (New York, N.Y.)|=|Benjamin N. Duke House
@@ -657,6 +657,7 @@ Airplanes -- Control surfaces|<->|Flight control surfaces
 Airplanes -- Control systems|<->|Aircraft flight control system
 Airplanes -- Models|<->|Model aircraft
 Airplanes -- Models -- Radio control|<->|Radio-controlled aircraft
+Airplanes -- Wings|<->|Wing
 Airplanes, Military -- Camouflage|<->|Aircraft camouflage
 Airports|=|Airport
 Airs de cour|=|Air de cour
@@ -1288,6 +1289,7 @@ Angry Birds (Game)|<-|Angry Birds (video game)
 Angry Birds: Star Wars (Game)|<->|Angry Birds Star Wars
 Anguilla australis|=|Short-finned eel
 Anguilla japonica|=|Japanese eel
+Ani (Extinct city)|=|Ani
 Aniakchak National Monument and Preserve (Alaska)|=|Aniakchak National Monument and Preserve
 Animal behavior|<->|Ethology
 Animal carcasses|<->|Carrion
@@ -1333,6 +1335,7 @@ Anonyms and pseudonyms|<->|Pseudonym
 Anoplura|=|Sucking louse
 Anorexia|<->|Anorexia (symptom)
 Anorgasmy|=|Anorgasmia
+Anoukis (Egyptian deity)|=|Anuket
 Anoura (Mammals)|=|Anoura
 Anoxic zones|<-|Anoxic waters
 Anoxic zones|<->|Dead zone (ecology)
@@ -1468,6 +1471,7 @@ Apache Trail (Ariz.)|=|Apache Trail
 Apalachee Indians|=|Apalachee
 Apartheid -- South Africa|->|Apartheid
 Apartments|=|Apartment
+Apedemak (Egyptian deity)|=|Apedemak
 Apennines (Italy)|=|Apennine Mountains
 Apes|=|Ape
 Aphrodite (Greek deity)|=|Aphrodite
@@ -2207,6 +2211,7 @@ Attrition (Military science)|<->|Attrition warfare
 Attu, Battle of, Alaska, 1943|=|Battle of Attu
 Attu Island (Alaska)|=|Attu Island
 Atuel River (Argentina)|=|Atuel River
+Atum (Egyptian deity)|=|Atum
 Atuot (African people)|=|Atuot people
 Atyidae (Crustacea)|=|Atyidae
 Atyidae (Mollusks)|<->|Haminoeoidea
@@ -2920,6 +2925,7 @@ Bass voice|=|Bass (voice type)
 Bassa (Liberian and Sierra Leone people)|=|Bassa people (Liberia)
 Bassari (Senegalese and Guinean people)|=|Bassari people
 Basse-Pointe (Martinique)|=|Basse-Pointe
+Bast (Egyptian deity)|=|Bastet
 Bastia (France)|=|Bastia
 Bat mitzvah|->|Bar and bat mitzvah
 Bataan, Battle of, Philippines, 1942|=|Battle of Bataan
@@ -3340,6 +3346,7 @@ Bert (Fictitious character : Henson)|=|Bert (Sesame Street)
 Bert's predaceous diving beetle|=|Sanfilippodytes bertae
 Berta (African people)|=|Berta people
 Bertrand (Computer program language)|=|Bertrand (programming language)
+Bes (Egyptian deity)|=|Bes
 Besan&ccedil;on (France)|=|Besançon
 Beslan (Russia)|=|Beslan
 Beslan Massacre, Beslan, Russia, 2004|=|Beslan school siege
@@ -4563,6 +4570,7 @@ Bucharest (Romania)|=|Bucharest
 Bucharest (Romania) -- History|=|History of Bucharest
 Bucharest-Ilfov Development Region (Romania)|=|București - Ilfov
 Buch&egrave;res (France)|=|Buchères
+Buchis (Egyptian deity)|=|Buchis
 Buchner family|<->|Buchner
 Buck Bumble (Game)|=|Buck Bumble
 Buck Lake (Alta. : Lake)|=|Buck Lake (Alberta)
@@ -8543,7 +8551,7 @@ Damascus (Race horse)|=|Damascus (horse)
 Damascus (Syria)|=|Damascus
 Damietta (Egypt)|=|Damietta
 Damietta (Egypt) -- History -- Siege, 1218-1219|=|Siege of Damietta (1218–1219)
-Damping (Mechanics)|->|Harmonic oscillator
+Damping (Mechanics)|<->|Damping ratio
 Dams (Dentistry)|<->|Dental dam
 Dams -- Ethiopia|<->|Dams and reservoirs in Ethiopia
 Dams -- Iran|<->|List of dams and reservoirs in Iran
@@ -12526,6 +12534,7 @@ GE 600 series (Computers)|=|GE-600 series
 Gearing Class (Destroyers)|=|Gearing-class destroyer
 Gears of War (Game)|<->|Gears of War
 Gears of War (Game)|<-|Gears of War (video game)
+Geb (Egyptian deity)|=|Geb
 Gedeo (African people)|=|Gedeo people
 Gee-Bee (Racing plane)|->|Granville Brothers Aircraft
 Gee-Bee (Racing plane)|<-|Gee Bee Model R
@@ -13992,6 +14001,7 @@ Hansischer Goethe-Preis|=|Hanseatic Goethe Prize
 Hantaviruses|=|Orthohantavirus
 Hanum&amacr;n (Hindu deity)|=|Hanuman
 Hanun&oacute;o (Philippine people)|->|Mangyan
+Hapi (Egyptian deity)|=|Hapi (Nile god)
 Happenings (Art)|<->|Happening
 Harare (Zimbabwe)|=|Harare
 Harari (African people)|=|Harari people
@@ -14228,6 +14238,7 @@ Heder|=|Cheder
 Hedgehog proteins|<->|Hedgehog signaling pathway
 Hedgehogs|=|Hedgehog
 Hedgpeth Hills Petroglyph Site (Ariz.)|<->|Deer Valley Petroglyph Preserve
+Hedjhotep (Egyptian deity)|=|Hedjhotep
 Hedmark fylke (Norway)|=|Hedmark
 Hegra (Norway)|=|Hegra
 Hegra festning (Hegra, Norway)|=|Hegra Fortress
@@ -14256,6 +14267,7 @@ Heinrich family|<->|Heinrich (surname)
 Heirloom varieties (Plants)|=|Heirloom plant
 Heisenberg uncertainty principle|=|Uncertainty principle
 Hejaz (Saudi Arabia)|=|Hejaz
+Heket (Egyptian deity)|=|Heqet
 Hel Peninsula (Poland)|=|Hel Peninsula
 Hela|=|Hela (caste)
 Helderberg Mountains (N.Y.)|<->|Helderberg Escarpment
@@ -17414,6 +17426,7 @@ Khatik (South Asian people)|=|Khatik
 Khaybar, Battle of, Khaybar, Saudi Arabia, 628|=|Battle of Khaybar
 Khe Sanh, 1st Battle of, Vietnam, 1967|=|The Hill Fights
 Khe Sanh, 2nd Battle of, Vietnam, 1968|=|Battle of Khe Sanh
+Khepri (Egyptian deity)|=|Khepri
 Khevenh&uuml;ller family|<->|Khevenhüller
 Khiamnungan (Indic people)|=|Khiamniungan people
 Khi&#x1e0d;r (Legendary character)|=|Khidr
@@ -17422,11 +17435,13 @@ Khitan (Chinese people)|=|Khitan people
 Khiva (Uzbekistan)|=|Khiva
 Khmers|=|Khmer people
 Khmu' (Southeast Asian people)|=|Khmu people
+Khnum (Egyptian deity)|=|Khnum
 Kho kho (Game)|<->|Kho kho
 Khoisan (African people)|=|Khoisan
 Khoikhoi (African people)|=|Khoikhoi
 Khojaly Massacre, Xocal&inodot;, Azerbaijan, 1992|=|Khojaly Massacre
 Khonkho Wankane Site (Bolivia)|=|Qhunqhu Wankani
+Khonsu (Egyptian deity)|=|Khonsu
 Khorchin (Central Asian people)|<->|Khorchin Mongols
 Khotogo&#x012d;d (Mongolian people)|=|Khotogoid
 Khoton (Mongolian people)|=|Khotons
@@ -22310,6 +22325,7 @@ Neighborhoods|=|Neighbourhood
 Neighborhood watch programs|=|Neighborhood watch
 Neisse River|<->|Lusatian Neisse
 Neisse River|<-|Eastern Neisse
+Neith (Egyptian deity)|=|Neith
 NELIAC (Computer program language)|<->|NELIAC
 Nelson (Wales)|=|Nelson, Caerphilly
 Nelson Class (Battleships)|<->|Nelson-class battleship
@@ -25276,6 +25292,7 @@ Philadelphia Experiment, 1943|=|Philadelphia Experiment
 Philadelphia Flyers (Hockey team)|=|Philadelphia Flyers
 Philadelphia Phillies (Baseball team)|=|Philadelphia Phillies
 Philadelphia soul (Music)|=|Philadelphia soul
+Philadelphia Ten (Group of artists)|=|Philadelphia Ten
 Philander (Mammals)|=|Gray and black four-eyed opossum
 Philanthropists|<->|Philanthropy
 Philharmonic Hall (Liverpool, England : 1849-1933)|->|Philharmonic Hall, Liverpool
@@ -25413,6 +25430,7 @@ Pictorialism (Photography movement)|=|Pictorialism
 Picture dictionaries|=|Picture dictionary
 Pictured Rocks National Lakeshore (Mich.)|=|Pictured Rocks National Lakeshore
 Pictures|<->|Image
+Pictures Generation (Group of artists)|<->|The Pictures Generation
 PID controllers|=|PID controller
 Pidha&#x012d;t&#xfe20;s&#xfe21;i, Battle of, Pidha&#x012d;t&#xfe20;s&#xfe21;i, Ukraine, 1698|<->|Battle of Podhajce (1698)
 Pidyon shevuyim|=|Pidyon Shvuyim
@@ -25665,6 +25683,7 @@ Pleven (Bulgaria)|=|Pleven
 Pleven (Bulgaria) -- History -- Siege, 1877|=|Siege of Plevna
 Plica (Reptiles)|=|Plica (lizard)
 Plodia|->|Indianmeal moth
+Ploeg (Group of artists)|=|De Ploeg
 Plomosa Mountains (Ariz.)|=|Plomosa Mountains
 Ploshcha Rynok (L'viv, Ukraine)|=|Market Square (Lviv)
 Plot-your-own stories|<->|Gamebook
@@ -27509,6 +27528,8 @@ Rickwood Field (Birmingham, Ala.)|=|Rickwood Field
 Riddah Wars|=|Ridda wars
 Riddles|=|Riddle
 Rider, Alex (Fictitious character)|=|Alex Rider (character)
+Ridge Racer 64 (Game)|=|Ridge Racer 64
+Ridge regression (Statistics)|<->|Tikhonov regularization
 Ridge Way (England)|<->|The Ridgeway
 Ridgefield, Battle of, Ridgefield, Conn., 1777|=|Battle of Ridgefield
 Ridgeway, Battle of, Ridgeway, Ont., 1866|=|Battle of Ridgeway
@@ -30949,6 +30970,7 @@ Stilling of the storm (Miracle)|=|Calming the storm
 Stillwater Range (Nev.)|=|Stillwater Range
 Stilts (Birds)|<->|Stilt
 Stimulants|=|Stimulant
+Sting (Anatomy)|=|Stinger
 Stinger (Missile)|<->|FIM-92 Stinger
 Stirling (Bomber)|=|Short Stirling
 Stirling Railway Station (Stirling, Scotland)|=|Stirling railway station (Scotland)
@@ -35081,6 +35103,7 @@ Wetlands|=|Wetland
 Wetzlar (Germany)|=|Wetzlar
 Wexford (Ireland : County)|=|County Wexford
 Wexford, Inspector (Fictitious character)|<->|Inspector Wexford
+WFF 'N PROOF (Game)|=|WFF 'N PROOF
 Whalebone|<->|Baleen
 Whales|=|Whale
 Whales, Bay of (Antarctica)|=|Bay of Whales
@@ -35383,6 +35406,7 @@ Wineries|=|Winery
 Winged elm|=|Ulmus alata
 Winged mapleleaf (Mollusk)|=|Winged mapleleaf
 Wingra, Lake (Wis.)|=|Lake Wingra
+Wings (Anatomy)|->|Wing
 Winnie-the-Pooh (Fictitious character)|=|Winnie-the-Pooh
 Winnipeg Jets (Hockey team : 1972-1996)|=|Winnipeg Jets (1972–96)
 Winnipeg (Man.)|=|Winnipeg
@@ -36229,6 +36253,7 @@ Zag&oacute;rze &Sacute;l&aogon;skie (Poland)|=|Zagórze Śląskie
 Zagreb (Croatia)|=|Zagreb
 Zagreb (Croatia) -- History|=|History of Zagreb
 Zaire (Angola : Province)|=|Zaire Province
+Zaj (Group of artists)|=|Zaj
 Zakhchin (Mongolian people)|=|Zakhchin
 Zakynthos (Greece)|=|Zakynthos (city)
 Zakynthos (Greece : Municipality)|<->|Zakynthos
