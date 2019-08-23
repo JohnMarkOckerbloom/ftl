@@ -10,7 +10,7 @@
 #   are not included in this file.
 # Manual title and name-title correspondences have been moved to wikiworksmap.
 # See docs file for documentation
-# Last updated 2019-08-04
+# Last updated 2019-08-23
 # Did LCSH 2015-2018 update lists, 2019 monthly lists 1-7
 1 Pendleton Place House (New York, N.Y.)|=|Building at One Pendleton Place
 1009 Fifth Avenue House (New York, N.Y.)|=|Benjamin N. Duke House
@@ -80,7 +80,7 @@
 6400 Class (Steam locomotives)|=|GWR 6400 Class
 61572 (Steam locomotive)|->|GER Class S69
 6502 (Microprocessor)|=|MOS Technology 6502
-65816 (Microprocessor)|=|WDC 65816
+65816 (Microprocessor)|<->|WDC 65C816
 73 Easting, Battle of, Iraq, 1991|=|Battle of 73 Easting
 7400 Class (Steam locomotives)|->|GWR 6400 Class
 7TP (Tank)|=|7TP
@@ -424,6 +424,7 @@ AEG G.IV (Bomber)|=|AEG G.IV
 AEGIS (Weapons system)|<->|Aegis Combat System
 Aekyom language|=|Awin language
 Aeneas (Legendary character)|=|Aeneas
+Aeolic Greek dialect|=|Aeolic Greek
 Aerial videography|<->|Aerial video
 Aeritalia G.91 (Jet fighter plane)|<->|Fiat G.91
 Aermacchi MB-326 (Jet plane)|=|Aermacchi MB-326
@@ -2169,7 +2170,7 @@ Atka Iceport (Antarctica)|=|Atka Iceport
 Atka Island (Alaska)|=|Atka Island
 ATL-98 Carvair (Transport plane)|=|Aviation Traders Carvair
 Atlanta Braves (Baseball team)|=|Atlanta Braves
-Atlanta Campaign, 1864|=|Atlanta Campaign
+Atlanta Campaign, 1864|=|Atlanta campaign
 Atlanta Falcons (Football team)|=|Atlanta Falcons
 Atlanta (Ga.)|=|Atlanta
 Atlanta (Ga.) -- Politics and government|<->|Government of Atlanta
@@ -2706,7 +2707,7 @@ Baltic Entente, 1934-1940|=|Baltic Entente
 Baltic rush|=|Juncus balticus
 Baltic Sea Region|=|Baltic region
 Baltic States -- History -- German occupation, 1941-1944|=|German occupation of the Baltic states during World War II
-Baltic States -- History -- Soviet occupation, 1939-1941|<->|Soviet annexation of the Baltic states (1940)
+Baltic States -- History -- Soviet occupation, 1939-1941|<->|Soviet occupation of the Baltic states (1940)
 Baltic Way, 1989|=|Baltic Way
 Baltimore, Battle of, Baltimore, Md., 1814|=|Battle of Baltimore
 Baltimore (Md.)|=|Baltimore
@@ -3578,7 +3579,7 @@ Biosph&auml;renreservat Schaalsee (Germany)|=|Schaalsee Biosphere Reserve
 Biosph&auml;renreservat Schorfheide-Chorin (Germany)|=|Schorfheide-Chorin Biosphere Reserve
 Biosph&auml;renreservat S&uuml;dost-R&uuml;gen (Germany)|=|Southeast Rügen Biosphere Reserve
 Biosphere 2 (Project)|<->|Biosphere 2
-Biosphere reserves -- China|=|Biosphere Reserves of China
+Biosphere reserves -- China|=|Biosphere reserves of China
 Biosphere reserves -- Guatemala|=|Biosphere reserves of Guatemala
 Biosphere reserves -- India|=|Biosphere reserves of India
 Biotic communities|=|Biocoenosis
@@ -3876,7 +3877,7 @@ Blood coagulation factor XIII|=|Factor XIII
 Blood flow|->|Hemodynamics
 Blood group antigens|<->|Human blood group systems
 Blood groups|=|Blood type
-Blood Indian Reserve (Alta.)|<->|Blood Indian Reserve No. 148
+Blood Indian Reserve (Alta.)|<->|Blood 148
 Blood Omen (Game)|<->|Blood Omen: Legacy of Kain
 Blood platelets|=|Platelet
 Blood products|=|Blood product
@@ -4859,7 +4860,7 @@ Butchers (Persons)|=|Butcher
 Butler Valley (Ariz.)|=|Butler Valley (Arizona)
 Butler's Indian Campaign, 1778|<->|Cherry Valley massacre
 Butler's Wharf (London, England)|=|Butler's Wharf
-Butrint (Albania)|=|Buthrotum
+Butrint (Albania)|=|Butrint
 Butte, Battle of the, Mont., 1877|=|Battle of Wolf Mountain
 Buttercup Mountain (Idaho)|=|Buttercup Mountain
 Butterflies|=|Butterfly
@@ -5500,7 +5501,7 @@ Casey Station (Antarctica)|=|Casey Station
 Cashew nut|->|Cashew
 Cashibo language|=|Kashibo language
 Cashiers|=|Cashier
-Cashinawa Indians|=|Kaxinawá
+Cashinawa Indians|=|Huni Kuin
 Cashinawa language|=|Kashinawa language
 Casino (Dance)|<->|Rueda de Casino
 Casino di Pio IV (Vatican City)|=|Casina Pio IV
@@ -6149,7 +6150,7 @@ Cherkassy Pocket, Battle of the, Ukraine, 1944|=|Battle of the Korsun–Cherkass
 Chern classes|=|Chern class
 Chernobyl' (Ukraine)|=|Chernobyl
 Chernobyl Nuclear Accident, Chornobyl', Ukraine, 1986|<->|Chernobyl disaster
-Chernobyl Nuclear Accident, Chornobyl&#x02b9;, Ukraine, 1986, in art|<->|Cultural impact of the Chernobyl nuclear disaster
+Chernobyl Nuclear Accident, Chornobyl', Ukraine, 1986, in art|<->|Cultural impact of the Chernobyl disaster
 Cheroenhaka Indians|<->|Nottoway people
 Cherokee Indians|=|Cherokee
 Cherokee Indians -- History|<->|Cherokee history
@@ -6347,7 +6348,7 @@ China -- History -- Great Leap Forward, 1958-1960|=|Great Leap Forward
 China -- History -- Han dynasty, 202 B.C.-220 A.D.|<->|Han dynasty
 China -- History -- Hundred Flowers Campaign, 1956|=|Hundred Flowers Campaign
 China -- History -- Jin dynasty, 1115-1234|<->|Jin dynasty (1115–1234)
-China -- History -- Jin dynasty, 265-419|<->|Jin dynasty (265–420)
+China -- History -- Jin dynasty, 265-419|<->|Jin dynasty (266–420)
 China -- History -- Later Shu kingdom, 934-965|<->|Later Shu
 China -- History -- Later Zhou dynasty, 951-960|<->|Later Zhou
 China -- History -- Li Zicheng Rebellion, 1628-1645|->|Li Zicheng
@@ -9549,6 +9550,7 @@ Dorchester (Boston, Mass.)|=|Dorchester, Boston
 Dordogne River (France)|=|Dordogne (river)
 Dore, River (England)|=|River Dore
 Dore River (France)|=|Dore (river)
+Doric Greek dialect|=|Doric Greek
 Dories (Boats)|=|Dory
 D&omacr;rida (Greece)|=|Dorida
 Dorilton, The (New York, N.Y.)|=|The Dorilton
@@ -10838,7 +10840,7 @@ Esther Mountain (N.Y.)|=|Esther Mountain
 Estill's Defeat, 1782|=|Battle of Little Mountain
 Estonia -- History -- Communist Coup, 1924|=|1924 Estonian coup d'état attempt
 Estonia -- History -- German occupation, 1941-1944|=|German occupation of Estonia during World War II
-Estonia -- History -- Soviet occupation, 1940-1941|->|Soviet annexation of the Baltic states (1940)
+Estonia -- History -- Soviet occupation, 1940-1941|->|Soviet occupation of the Baltic states (1940)
 Estonia -- History -- War of Independence, 1918-1920|=|Estonian War of Independence
 Estridentismo (Art movement)|<->|Stridentism
 Estridentismo (Literary movement)|->|Stridentism
@@ -11325,8 +11327,10 @@ Fenians|=|Fenian
 Fens|=|Fen
 Fens, The (England)|=|The Fens
 Fenwick Island (Del. and Md.)|=|Fenwick Island (Delaware–Maryland)
+Feral animals|<->|Feral
 Feral children|=|Feral child
 Feral dogs|<->|Free-ranging dog
+Feral swine|=|Feral pig
 Ferdinand (Fictitious character : Shakespeare)|=|Ferdinand (The Tempest)
 Ferdinand (Tank destroyer)|<->|Elefant
 Ferdinand the faithful and Ferdinand the unfaithful (Tale)|=|Ferdinand the Faithful and Ferdinand the Unfaithful
@@ -11370,7 +11374,7 @@ Fiat CR.42 (Fighter plane)|=|Fiat CR.42
 Fiat G.50 (Fighter plane)|=|Fiat G.50
 Fiber Distributed Data Interface (Computer network standard)|=|Fiber Distributed Data Interface
 Fiber in human nutrition|<->|Dietary fiber
-Fiber optic cables|=|Optical fiber cable
+Fiber optic cables|=|Fiber-optic cable
 Fiber optics|->|Optical fiber
 Fibers|=|Fiber
 Fibre Channel (Standard)|=|Fibre Channel
@@ -12468,7 +12472,7 @@ Ganymede (Greek mythology)|=|Ganymede (mythology)
 Ganymede (Satellite)|=|Ganymede (moon)
 Ganzhou Shi (China)|=|Ganzhou
 Gao (Mali : Region)|=|Gao Region
-Gaokao (Educational test)|=|The National College Entrance Examination
+Gaokao (Educational test)|=|National College Entrance Examination
 Gap analysis (Planning)|=|Gap analysis
 Gap junctions (Cell biology)|=|Gap junction
 Garage rock music|=|Garage rock
@@ -12817,7 +12821,7 @@ Gething Formation (B.C. and Alta.)|=|Gething Formation
 Getty kouros (Statue)|=|Getty kouros
 Getty Square (Yonkers, N.Y.)|<->|Getty Square
 Gettysburg, Battle of, Gettysburg, Pa., 1863|=|Battle of Gettysburg
-Gettysburg Campaign, 1863|=|Gettysburg Campaign
+Gettysburg Campaign, 1863|=|Gettysburg campaign
 Gettysburg National Military Park (Agency : U.S.)|->|Gettysburg National Military Park
 Gettysburg National Military Park (Pa.)|=|Gettysburg National Military Park
 Gettysburg Reunion, 1913|=|1913 Gettysburg reunion
@@ -13371,7 +13375,7 @@ Grateful Dead (Musical group)|=|Grateful Dead
 Grateful dead (Tale)|<->|Grateful dead (folklore)
 Grathe Heath, Battle of, Denmark, 1157|=|Battle of Grathe Heath
 Grattan Massacre, Wyo., 1854|=|Grattan massacre
-Graub&uuml;nden (Switzerland)|=|Canton of Grisons
+Graub&uuml;nden (Switzerland)|=|Grisons
 Grave robbing|=|Grave robbery
 Gravelines (France)|=|Gravelines
 Gravelines, Battle of, Gravelines, France, 1558|=|Battle of Gravelines (1558)
@@ -13567,7 +13571,7 @@ Green Arrow (Steam locomotive)|=|LNER Class V2 4771 Green Arrow
 Green ash|=|Fraxinus pennsylvanica
 Green Bay (Wis. and Mich.)|=|Green Bay (Lake Michigan)
 Green Bay Packers (Football team)|=|Green Bay Packers
-Green cards|<->|Lawful permanent residents (United States)
+Green cards|=|Green card
 Green children of Woolpit (Legendary characters)|=|Green children of Woolpit
 Green dragon (Plant)|<->|Arisaema dracontium
 Green fescue|=|Festuca viridula
@@ -14767,7 +14771,7 @@ Holy Hill (Wis.)|<->|Holy Hill National Shrine of Mary, Help of Christians
 Holy League against France, 1511-1513|->|War of the League of Cambrai
 Holy League against the Turks, 1684|=|Holy League (1684)
 Holy Roman Empire -- History -- Hohenstaufen, 1138-1254|->|Hohenstaufen
-Holy Roman Empire -- History -- House of Luxemburg, 1308-1437|<->|House of Luxembourg
+Holy Roman Empire -- History -- House of Luxemburg, 1308-1437|<->|Limburg-Luxemburg dynasty
 Holy Roman Empire -- History -- Saxon House, 919-1024|->|Ottonian dynasty
 Holy Shroud|=|Shroud of Turin
 Holy Spirit (Judaism)|=|Holy Spirit in Judaism
@@ -14945,7 +14949,7 @@ Housatonic River Valley (Mass. and Conn.)|<->|Housatonic Valley
 House built upon a rock (Parable)|=|Parable of the Wise and the Foolish Builders
 House cleaning|->|Housekeeping
 House churches|=|House church
-House construction|=|House-building
+House construction|=|Home construction
 House of Loreius Tiburtinus (Pompeii)|=|House of Loreius Tiburtinus
 House of Menander (Pompeii)|=|Casa del Menandro
 House of Paquius Proculus (Pompeii)|<->|Portrait of Terentius Neo
@@ -16083,6 +16087,7 @@ Ion automobile|=|Saturn Ion
 Ion exchange resins|=|Ion-exchange resin
 Ionia (Turkey and Greece)|<->|Ionia
 Ionian Sea Earthquake, Greece, 1953|=|1953 Ionian earthquake
+Ionic Greek dialect|=|Ionic Greek
 Ions|=|Ion
 Ios (Greece : Municipality)|<->|Ios
 Iosegun Lake (Alta.)|=|Iosegun Lake
@@ -17143,6 +17148,7 @@ Kaifeng Shi (China)|<->|Kaifeng
 Kaikey&imacr; (Hindu mythological character)|=|Kaikeyi
 Kaikoura (N.Z.)|=|Kaikoura
 Kaik&omacr;ura Earthquake, N.Z., 2016|=|2016 Kaikoura earthquake
+Kainah Indians|->|Kainai Nation
 Kailua Kona (Hawaii)|=|Kailua, Hawaii County, Hawaii
 Kairos (Greek deity)|=|Caerus
 Kairos (The Greek word)|<->|Kairos
@@ -17294,6 +17300,7 @@ Karankawa Indians|=|Karankawa people
 Karapapaks (Turkic people)|=|Qarapapaqs
 Kara&sacute; (Bomber)|=|PZL.23 Karaś
 Karatepe Site (Turkey)|<->|Karatepe
+Karavali (India)|=|Kanara
 Karawanken (Austria and Slovenia)|=|Karawanks
 Karawanken Strassentunnel (Austria and Slovenia)|=|Karawanks Tunnel (motorway)
 Karbal&amacr;&#x02be;, Battle of, Karbal&amacr;&#x02be;, Iraq, 680|=|Battle of Karbala
@@ -18644,7 +18651,7 @@ Lebanon War, 2006|=|2006 Lebanon War
 Lebbek tree|=|Albizia lebbeck
 Lebesgue integral|<->|Lebesgue integration
 Lebou (African people)|=|Lebu people
-Lechfeld, Battle of, Germany, 955|=|Battle of Lechfeld (955)
+Lechfeld, Battle of, Germany, 955|=|Battle of Lechfeld
 Lechuguilla Cave (N.M.)|=|Lechuguilla Cave
 Lechuguilla Desert (Ariz.)|=|Lechuguilla Desert
 LeConte, Mount (Tenn.)|=|Mount Le Conte (Tennessee)
@@ -19056,7 +19063,7 @@ Literature -- Women authors|<->|Women's writing
 Lithium ion batteries|=|Lithium-ion battery
 Lithium sulfur batteries|=|Lithium–sulfur battery
 Lithuania -- History -- German occupation, 1941-1944|<->|German occupation of Lithuania during World War II
-Lithuania -- History -- Soviet occupation, 1940-1941|->|Soviet annexation of the Baltic states (1940)
+Lithuania -- History -- Soviet occupation, 1940-1941|->|Soviet occupation of the Baltic states (1940)
 Lithuania -- History -- Revolution, 1830-1832|->|November Uprising
 Lithuania -- History -- Revolution, 1863-1864|->|January Uprising
 Lithuania -- History -- Revolution of 1794|->|Kościuszko Uprising
@@ -20107,7 +20114,7 @@ Marengo, Battle of, Marengo, Italy, 1800|=|Battle of Marengo
 Margaret River (Augusta-Margaret River Shire, W.A.)|=|Margaret River, Western Australia
 Margaret River (W.A.)|=|Margaret River
 Margarita Bel&eacute;n (Argentina)|=|Margarita Belén
-Margarita Bel&eacute;n Massacre, Margarita Bel&eacute;n, Argentina, 1976|=|Massacre of Margarita Belén
+Margarita Bel&eacute;n Massacre, Margarita Bel&eacute;n, Argentina, 1976|=|Margarita Belén massacre
 Marghi language|=|Margi language
 Marguerite Bay (Antarctica)|=|Marguerite Bay
 Mari (European people)|=|Mari people
@@ -21310,7 +21317,7 @@ Mobile (Ala.) -- History -- Siege, 1780|<->|Battle of Fort Charlotte
 Mobile agents (Computer software)|=|Mobile agent
 Mobile Bay (Ala.)|=|Mobile Bay
 Mobile Bay, Battle of, Ala., 1864|=|Battle of Mobile Bay
-Mobile Campaign, 1865|=|Mobile Campaign (1865)
+Mobile Campaign, 1865|=|Mobile campaign (1865)
 Mobile Point (Ala.)|=|Mobile Point
 Mobile robots|=|Mobile robot
 Mobile-Tensaw Delta (Ala.)|=|Mobile–Tensaw River Delta
@@ -21486,7 +21493,7 @@ Mons (Belgium)|=|Mons
 Mons, 1st Battle of, Mons, Belgium, 1914|<->|Battle of Mons
 Monsters|=|Monster
 Montage (Scranton, Pa.)|<->|Montage Mountain Ski Resort
-Montagnards (Vietnamese people)|<->|Indigenous peoples of the Central Highlands in Vietnam
+Montagnards (Vietnamese people)|=|Montagnard (Vietnam)
 Montalbano, Salvo (Fictitious character)|=|Salvo Montalbano
 Montane Cordillera Ecozone (B.C. and Alta.)|<->|Montane Cordillera
 Montaperti, Battle of, Italy, 1260|=|Battle of Montaperti
@@ -21857,7 +21864,7 @@ Mukhayyam Tall az Za'tar, Battle of, Lebanon, 1976|<->|Siege of Tel al-Zaatar
 Mulao (Chinese people)|=|Mulao people
 Mulberry harbors|=|Mulberry harbour
 Mulberry River (Ark.)|=|Mulberry River (Arkansas)
-Mulberry whelk|=|Morula marginalba
+Mulberry whelk|=|Tenguella marginalba
 Mulchatna River (Alaska)|=|Mulchatna River
 Mulder, Fox (Fictitious character)|=|Fox Mulder
 Muldrow Glacier (Alaska)|=|Muldrow Glacier
@@ -22185,7 +22192,7 @@ Narvik, Battle of, Narvik, Norway, 1940|<->|Battles of Narvik
 NASA Neil A. Armstrong Flight Research Center|<->|Armstrong Flight Research Center
 NASA Dryden Flight Research Center|->|Armstrong Flight Research Center
 Nasality (Phonetics)|<->|Nasalization
-Nasdaq Stock Market|<->|NASDAQ
+Nasdaq Stock Market|<->|Nasdaq
 Naseby, Battle of, Naseby, England, 1645|=|Battle of Naseby
 Nashua (Race horse)|=|Nashua (horse)
 Nashville (Tenn.) -- History|=|History of Nashville, Tennessee
@@ -25181,7 +25188,7 @@ Penelope (Greek mythological character)|=|Penelope
 Penelope montagnii|=|Andean guan
 Penetration testing (Computer security)|<->|Penetration test
 Penguins|=|Penguin
-Peninsular Campaign, 1862|=|Peninsula Campaign
+Peninsular Campaign, 1862|=|Peninsula campaign
 Peninsular War, 1807-1814|=|Peninsular War
 Penis|<-|Phallus
 Penis -- Enlargement|=|Penis enlargement
@@ -26350,7 +26357,7 @@ Presidential libraries|=|Presidential library
 Presidential Range (N.H.)|=|Presidential Range
 Presidents|=|President
 Presidents -- Dwellings|<->|Presidential palace
-Presidents -- Dwellings -- United States|<->|List of residences of Presidents of the United States
+Presidents -- Dwellings -- United States|<->|List of residences of presidents of the United States
 Presidents -- France|<->|President of France
 Presidents -- France -- Election|=|Presidential elections in France
 Presidents -- France -- Election -- 2002|=|2002 French presidential election
@@ -26422,7 +26429,7 @@ Presidents -- United States -- Election -- 2008|=|2008 United States presidentia
 Presidents -- United States -- Election -- 2012|=|2012 United States presidential election
 Presidents -- United States -- Election -- 2016|=|2016 United States presidential election
 Presidents -- United States -- Inauguration|=|United States presidential inauguration
-Presidents -- United States -- Religion|<->|Religious affiliations of Presidents of the United States
+Presidents -- United States -- Religion|<->|Religious affiliations of presidents of the United States
 Presley, Elvis, 1935-1977 -- Sightings|=|Elvis sightings
 Prespa, Lake|<->|Lake Prespa
 Press conferences|=|News conference
@@ -28921,7 +28928,6 @@ Sarutahiko no Kami (Shinto deity)|<->|Sarutahiko Ōkami
 Sarvodaya movement|<->|Sarvodaya
 SAS (Computer program language)|=|SAS language
 Sasakian manifolds|=|Sasakian manifold
-Sashiko|=|Sashiko stitching
 Saskatchewan -- Politics and government|<->|Politics of Saskatchewan
 Saskatchewan Glacier (Alta.)|=|Saskatchewan Glacier
 Saskatchewan River (Sask. and Man.)|=|Saskatchewan River
@@ -33377,7 +33383,7 @@ Tule Springs Fossil Beds National Monument (Nev.)|=|Tule Springs Fossil Beds Nat
 Tulip Mania, 1634-1637|=|Tulip mania
 Tull family|<->|Tull (surname)
 Tulu (Indic people)|=|Tulu people
-Tulunadu (India)|=|Tulu Nadu
+Tulunadu (India)|->|Kanara
 Tumac&aacute;cori National Historical Park (Ariz.)|=|Tumacácori National Historical Park
 Tumba (Musical instrument)|=|Tumba (drum)
 Tumblers (Drinking glasses)|=|Tumbler (glass)
@@ -33582,7 +33588,7 @@ Type 97 (Tank)|<->|Type 97 Chi-Ha medium tank
 Type specimens (Natural history)|<->|Type (biology)
 Type VII U-boat|=|Type VII submarine
 Type XXI U-boat|=|Type XXI submarine
-TypeScript (Computer program language)|=|Microsoft TypeScript
+TypeScript (Computer program language)|=|TypeScript
 Typewriting|<->|Typing
 Typhoon (Fighter plane)|=|Hawker Typhoon
 Typhoon Bopha, 2012|=|Typhoon Bopha
@@ -34379,7 +34385,7 @@ Variable stars|=|Variable star
 Varian Data 620/i (Computer)|->|Varian Data Machines
 Variation (Biology)|<->|Variation
 Variations|<->|Variation (music)
-Varicella-zoster virus|=|Human alphaherpesvirus 3
+Varicella-zoster virus|=|Varicella zoster virus
 Variegated Glacier (Alaska)|=|Variegated Glacier
 Varietal wines|=|Varietal
 Varieties (Universal algebra)|=|Variety (universal algebra)
@@ -35800,7 +35806,7 @@ Wood products|->|Wood
 Wood Street Compter (London, England)|=|Wood Street Compter
 Wood-Tikchik State Park (Alaska)|=|Wood-Tikchik State Park
 Wood vinegar|=|Pyroligneous acid
-Woodblock (Musical instrument)|=|Wood block
+Woodblock (Musical instrument)|=|Woodblock (instrument)
 Woodchester (England)|=|Woodchester
 Woodchester Mansion (Woodchester, England)|=|Woodchester Mansion
 Woodchuck|=|Groundhog
@@ -35841,7 +35847,7 @@ Workweek|<->|Workweek and weekend
 World citizenship|=|Global citizenship
 World Cup (Chess)|<->|Chess World Cup
 World Cup (Cricket)|<->|Cricket World Cup
-World Cup (Field hockey)|<->|Hockey World Cup
+World Cup (Field hockey)|<->|Men's Hockey World Cup
 World Cup (Rugby football)|=|Rugby World Cup
 World Cup (Rugby football) (6th : 2007 : France; Scotland; Wales)|=|2007 Rugby World Cup
 World Cup (Rugby football) (7th : 2011 : New Zealand)|=|2011 Rugby World Cup
@@ -35932,7 +35938,7 @@ World War, 1914-1918 -- Chemical warfare|<->|Chemical weapons in World War I
 World War, 1914-1918 -- Chronology|<->|Timeline of World War I
 World War, 1914-1918 -- Cryptography|=|World War I cryptography
 World War, 1914-1918 -- Economic aspects|<->|Economic history of World War I
-World War, 1914-1918 -- Fiction|<->|Fiction based on World War I
+World War, 1914-1918 -- Fiction|->|World War I in literature
 World War, 1914-1918 -- Germany|<->|History of Germany during World War I
 World War, 1914-1918 -- Great Britain|<->|History of the United Kingdom during the First World War
 World War, 1914-1918 -- Greece|=|Greece during World War I
