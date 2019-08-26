@@ -4,7 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2019-04-13
+# Last updated 2019-08-26
+# Automated Sweep: start with Ontario
 
 ID OLBP
 NAME The Online Books Page
@@ -449,9 +450,8 @@ ID OCLC-CNPAR
 NAME Parkland Regional Library
 LOCATION Public library consortium south of Edmonton
 PROVINCE AB
-CATTYPE sirsient
-LCODE en_US/prl
-BASEURL http://search.prl.ab.ca
+BASEURL https://search.prl.ab.ca/polaris
+CATTYPE polaris
 
 ID OCLC-1AV
 NAME Red Deer Public Library
@@ -744,6 +744,13 @@ LOCATION Iqaluit and other campuses
 PROVINCE NU
 BASEURL http://nuvt.vtls.com/cgi-bin/nuvt/chameleon
 CATTYPE chameleon
+
+ID CA-NUBNP
+NAME Nunavut Public Library Services
+LOCATION 11 community libraries across the territory
+PROVINCE NU
+BASEURL https://catalogue.publiclibraries.nu.ca
+CATTYPE koha
 
 ID OCLC-CNBAR
 NAME Barrie Public Library
@@ -3790,6 +3797,13 @@ LOCATION Sanford and other campuses
 STATE FL
 BASEURL https://union.discover.flvc.org/sc.jsp
 CATTYPE fcla
+
+ID OCLC-FYQ
+NAME Southeastern University
+LOCATION Lakeland
+STATE FL
+BASEURL https://seu.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-FLR
 NAME St. Lucie County Library System
