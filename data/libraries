@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2019-08-26
-# Automated Sweep: start with Ontario
+# Last updated 2019-09-17
+# Automated Sweep: start with Yukon
 
 ID OLBP
 NAME The Online Books Page
@@ -763,8 +763,8 @@ ID OCLC-CNBPL
 NAME Burlington Public Library
 LOCATION Burlington
 PROVINCE ON
-CATTYPE encore
-BASEURL http://encore.bpl.on.ca/iii/encore
+CATTYPE bibliocommons
+BASEURL https://burlington.bibliocommons.com
 
 ID OCLC-CEF
 NAME Carleton University
@@ -859,8 +859,8 @@ ID OCLC-CNOPL
 NAME Oshawa Public Libraries
 LOCATION Oshawa
 PROVINCE ON
-CATTYPE sirsient
-BASEURL https://cco.ent.sirsidynix.net
+CATTYPE bibliocommons
+BASEURL https://oshlib.bibliocommons.com
 
 ID OCLC-CNOTT
 NAME Ottawa Public Library
@@ -1174,6 +1174,14 @@ COUNTRY GH
 BASEURL http://libcat.knust.edu.gh/?
 CATTYPE alexandria6
 FILTERS S
+
+ID OCLC-GHUCC
+NAME University of Cape Coast, Sam Jonah Library
+LOCATION Cape Coast
+COUNTRY GH
+BASEURL http://erl.ucc.edu.gh:8001
+CATTYPE koha
+FILTERS SNK
 
 ID OCLC-CPV
 NAME City University of Hong Kong
