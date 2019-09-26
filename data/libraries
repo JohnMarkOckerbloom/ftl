@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2019-09-17
-# Automated Sweep: start with Yukon
+# Last updated 2019-09-25
+# Automated Sweep: start with China
 
 ID OLBP
 NAME The Online Books Page
@@ -1079,9 +1079,8 @@ ID OCLC-CN4WZ
 NAME Yukon College Library
 LOCATION Whitehorse
 PROVINCE YT
-CATTYPE tlc
-LCODE ysm
-BASEURL http://yclibw.yukoncollege.yk.ca/
+BASEURL https://yukoncollegelibrary.on.worldcat.org/external-search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-X33
 NAME Zhengzhou University
@@ -6966,6 +6965,14 @@ STATE OH
 CATTYPE summon
 BASEURL http://kenyon.summon.serialssolutions.com
 
+ID OCLC-GVC
+NAME Licking County Library
+LOCATION Newark and other locations
+STATE OH
+CATTYPE sirsient
+LCODE en_US/lne
+BASEURL https://ohio.ent.sirsi.net
+
 ID OCLC-LXP
 NAME Lorain Public Library System
 LOCATION Lorain and vicinity
@@ -7496,6 +7503,15 @@ STATE PA
 BASEURL http://charlotte.delco.lib.pa.us
 CATTYPE innopac
 
+ID OCLC-DKC
+NAME Dickinson College, Waidner-Spahr Library
+LOCATION Carlisle
+STATE PA
+CATTYPE primo-ve
+BASEURL https://dickinson.primo.exlibrisgroup.com
+VID 01DICKINSON_INST:DICKINSON
+SCOPE MyInst_and_CI
+
 ID OCLC-DXU
 NAME Drexel University Libraries
 LOCATION Philadelphia
@@ -7730,6 +7746,13 @@ LOCATION Philadelphia
 STATE PA
 CATTYPE vufind
 BASEURL http://know.freelibrary.org/vufind
+
+ID OCLC-URS
+NAME Ursinus College
+LOCATION Collegeville
+STATE PA
+BASEURL https://ursinuscollege.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-PVU
 NAME Villanova University
