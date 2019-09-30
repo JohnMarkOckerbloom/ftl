@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2019-09-25
-# Automated Sweep: start with China
+# Last updated 2019-09-30
+# Automated Sweep: start with Ghana
 
 ID OLBP
 NAME The Online Books Page
@@ -538,6 +538,13 @@ LOCATION New Westminster and other campuses
 PROVINCE BC
 CATTYPE eds
 LCODE s5672447
+
+ID OCLC-K6U
+NAME Kwantlen Polytechnic University
+LOCATION Surrey
+PROVINCE BC
+CATTYPE summon
+BASEURL https://kwantlen.summon.serialssolutions.com
 
 ID OCLC-LANGC
 NAME Langara College Library
@@ -1085,11 +1092,13 @@ CATTYPE worldcat-config
 ID OCLC-X33
 NAME Zhengzhou University
 LOCATION Zhengzhou; English search terms may give limited results
-CATTYPE primodl-loc
-BASEURL http://primo.zzu.edu.cn:1701
 COUNTRY CN
-VID zzu
-LOC adaptor,scope:(ZZU),primo_central_multiple_fe
+CATTYPE aleph1
+# subjects not well covered in English, so for them we'll do keyword search
+SINDEX WRD
+TINDEX WTI
+BASEURL http://202.197.191.171:8991
+FILTERS S
 
 ID OCLC-UPX
 NAME University of Cyprus
@@ -1294,6 +1303,14 @@ NAME Kenyatta University
 LOCATION Nairobi
 COUNTRY KE
 BASEURL https://maktaba.ku.ac.ke
+CATTYPE koha
+FILTERS S
+
+ID OCLC-KEKIS
+NAME Kisii University
+LOCATION Kisii
+COUNTRY KE
+BASEURL http://library.kisiiuniversity.ac.ke/
 CATTYPE koha
 FILTERS S
 
