@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2019-09-30
-# Automated Sweep: start with Ghana
+# Last updated 2019-10-06
+# Automated Sweep: start with Italy (& go back and check Cape Coast & Kashmir)
 
 ID OLBP
 NAME The Online Books Page
@@ -4180,9 +4180,8 @@ ID OCLC-JCH
 NAME Bloomington Public Library
 LOCATION Bloomington
 STATE IL
-CATTYPE sirsient
-BASEURL http://blpl.ent.sirsi.net
-LCODE update
+BASEURL https://bplcatalog.bloomingtonlibrary.org/polaris
+CATTYPE polaris
 
 ID OCLC-IKG
 NAME Champaign Public Library and Urbana Free Library
@@ -4197,6 +4196,14 @@ LOCATION Chicago
 STATE IL
 BASEURL https://chipublib.bibliocommons.com
 CATTYPE bibliocommons
+
+ID OCLC-JAX
+NAME Chicago School of Professional Psychology
+LOCATION Chicago and other campuses
+STATE IL
+BASEURL https://thechicagoschool-chi.on.worldcat.org/external-search?queryString
+CATTYPE worldcat-config
+
 
 ID OCLC-IAA
 NAME Chicago State University
@@ -4497,9 +4504,9 @@ ID OCLC-LDW
 NAME Harlan Community Library
 LOCATION Harlan
 STATE IA
-BASEURL http://harlanlib.goalexandria.com/researcher#_?
-CATTYPE alexandria
-FILTERS S
+CATTYPE atriuum
+BASEURL https://harlanlibraryia.booksys.net/opac/hcl/index.html#search:
+FILTERS SNK
 
 ID OCLC-IWA
 NAME Iowa State University
