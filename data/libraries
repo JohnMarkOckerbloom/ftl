@@ -4271,6 +4271,14 @@ CATTYPE sirsient
 LCODE en_US/default
 BASEURL https://itpld.ent.sirsi.net
 
+ID OCLC-JSU
+NAME Itasca Community Library
+LOCATION Itasca
+STATE IL
+CATTYPE sirsient
+LCODE en_US/itd
+BASEURL https://catalog.swanlibraries.net
+
 ID OCLC-AP8
 NAME Joliet Junior College
 LOCATION Joliet
