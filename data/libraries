@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2019-10-06
-# Automated Sweep: start with Italy (& go back and check Cape Coast & Kashmir)
+# Last updated 2019-10-29
+# Automated Sweep: start with Nigeria (& go back and check Kashmir and Baraton)
 
 ID OLBP
 NAME The Online Books Page
@@ -898,6 +898,13 @@ PROVINCE ON
 BASEURL http://hip.stcatharines.library.on.ca
 CATTYPE ipac20
 
+ID OCLC-CNTHO
+NAME St. Thomas Public Library
+LOCATION St. Thomas
+PROVINCE ON
+CATTYPE bibliocommons
+BASEURL https://stthomas.bibliocommons.com
+
 ID OCLC-CNSTR
 NAME Stratford Public Library
 LOCATION Stratford
@@ -1276,8 +1283,8 @@ ID OCLC-FKT
 NAME Museo Galileo Library
 LOCATION Florence
 COUNTRY IT
-BASEURL http://colombo.imss.fi.it/IMSS/?uilang=en
-KEYURL ${BASEURL}&q=${ARG:S}
+BASEURL https://opac.museogalileo.it/imss/search?collection_data=2&s=25&v=l
+CATTYPE atcult
 
 ID OPACSBN
 NAME OPAC SBN
@@ -1360,7 +1367,7 @@ ID OCLC-NRAMU
 NAME American University of Nigeria
 LOCATION Yola
 COUNTRY NG
-BASEURL http://libcat.aun.edu.ng
+BASEURL https://libcat.aun.edu.ng
 CATTYPE koha
 
 ID OCLC-NRUNN

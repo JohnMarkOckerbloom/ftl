@@ -4,7 +4,7 @@
 # This data file released to the world as CC0 
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, libraries file for usage of this catalog data
-# Last updated 2015-07-15
+# Last updated 2019-10-29
 
 CATTYPE 360search
 SUBURL ${BASEURL}/results?SS_LibHash=${LCODE}&action=start&dbIDList=${DBID}&field=subject&term=${ARG}
@@ -89,6 +89,15 @@ SUBURL ${BASEURL}/search?p_p_id=searchResult_WAR_arenaportlets&p_p_lifecycle=1&p
 AUTURL ${BASEURL}/search?p_p_id=searchResult_WAR_arenaportlets&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_${LCODE}_search_query=author:(${ARG})
 TITURL ${BASEURL}/search?p_p_id=searchResult_WAR_arenaportlets&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_${LCODE}_search_query=title:(${ARG})
 KEYURL ${BASEURL}/search?p_p_id=searchResult_WAR_arenaportlets&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_${LCODE}_search_query=${ARG}
+
+# We'll assume generic parameters are in the baseurl, since we don't
+# know how much they vary between catalogs
+CATTYPE atcult
+# leaving off subject b/c with atcult libraries keyword search works better
+# SUBURL ${BASEURL}&o=score&h=sub_bc&q=${ARG}
+TITURL ${BASEURL}&o=title&h=title_bc&q=${ARG}
+AUTURL ${BASEURL}&o=author&h=author_bc&q=${ARG}
+KEYURL ${BASEURL}&o=score&h=any_bc&q=${ARG}
 
 CATTYPE atriuum
 SUBURL ${BASEURL}ExpertSearch?ST0=S&view=Bibliographic&SF0=${ARG}
