@@ -4,7 +4,7 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2019-10-29
+# Last updated 2019-11-13
 # Automated Sweep: start with Nigeria (& go back and check Kashmir and Baraton)
 
 ID OLBP
@@ -1650,6 +1650,13 @@ LCODE APU
 SCOPE ALL
 DEFAULT http://libweb.anglia.ac.uk/
 
+ID ANGUS
+NAME Angus Libraries
+LOCATION Public libraries in Angus, Scotland
+COUNTRY UK
+CATTYPE spydus
+BASEURL https://angus.spydus.co.uk
+
 ID OCLC-EQF
 NAME Bangor University
 LOCATION Bangor, Wales
@@ -1702,8 +1709,9 @@ ID OCLC-UKCAR
 NAME Cardiff Libraries
 LOCATION Cardiff, Wales
 COUNTRY UK
-CATTYPE sirsi
-BASEURL http://ibistro.cardiff.gov.uk/uhtbin/cgisirsi
+CATTYPE sirsient
+BASEURL https://wales.ent.sirsidynix.net.uk/
+LCODE en_GB/card_en
 
 ID OCLC-RDF
 NAME Cardiff University and NHS Wales Libraries
@@ -1905,12 +1913,12 @@ LOC adaptor,scope:(44LSE),primo_central_multiple_fe
 DEFAULT http://www.lse.ac.uk/library/home.aspx
 
 ID OCLC-UKLTN
-NAME Luton Culture
-LOCATION Bedford Borough, Central Bedfordshire and Luton Libraries, England
+NAME Luton Libraries
+LOCATION Luton
 COUNTRY UK
-BASEURL https://arena.yourlondonlibrary.net/web/luton
-CATTYPE arenacode
-LCODE 687834046
+CATTYPE sirsient
+BASEURL https://www.lutonlibraries.co.uk
+LCODE en_GB/luton
 
 ID OCLC-UKMAN
 NAME Manchester city libraries
@@ -1998,9 +2006,9 @@ ID OCLC-UKRED
 NAME Redbridge Libraries
 LOCATION London Borough of Redbridge, England
 COUNTRY UK
-BASEURL https://arena.yourlondonlibrary.net/web/redbridge
-CATTYPE arenacode
-LCODE 687834046
+CATTYPE sirsient
+BASEURL https://llc.ent.sirsidynix.net.uk
+LCODE en_GB/redbridge
 
 ID OCLC-UKBRW
 NAME Rochdale Libraries
@@ -2047,11 +2055,12 @@ CATTYPE summon
 BASEURL http://staffs.summon.serialssolutions.com
 
 ID OCLC-UKSCS
-NAME Stirling Libraries and Archives
+NAME Stirling Libraries
 LOCATION Stirling and vicinity, Scotland
 COUNTRY UK
-BASEURL https://vufind-st.sedar.org.uk/vufind-st
-CATTYPE vufind
+CATTYPE sirsient
+BASEURL https://scl.ent.sirsidynix.net.uk
+LCODE en_GB/default
 FILTERS S
 
 ID OCLC-UKSWN
@@ -2186,10 +2195,10 @@ ID OCLC-LDP
 NAME University of Westminster
 LOCATION London, England
 COUNTRY UK
-CATTYPE primodl
-BASEURL http://library-collections-search.westminster.ac.uk
-VID WST_VU1
-LCODE WST_VU1
+CATTYPE primo-ve
+BASEURL https://library-collections-search.westminster.ac.uk
+VID 44WST_INST:WST_VUA
+SCOPE MyInst_and_CI
 
 ID OCLC-EMW
 NAME Wellcome Library
@@ -2210,7 +2219,7 @@ ID UK-UKLOZSL
 NAME Zoological Society of London
 LOCATION London, England
 COUNTRY UK
-BASEURL http://z10300uk.eos-intl.eu/Z10300UK/OPAC/Search/AdvancedSearch.aspx
+BASEURL http://library.zsl.org/Z10300UK/OPAC/Search/AdvancedSearch.aspx
 CATTYPE eosweb
 
 ID OCLC-MWT
