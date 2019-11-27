@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2019-11-13
-# Automated Sweep: start with Nigeria (& go back and check Kashmir and Baraton)
+# Last updated 2019-11-27
+# Automated Sweep: start w the UK (& go back and check Kashmir and Baraton)
 
 ID OLBP
 NAME The Online Books Page
@@ -1415,7 +1415,7 @@ ID SARGODHA
 NAME University of Sargodha, Central Library
 LOCATION Sargodha; English search terms may give limited results
 COUNTRY PK
-BASEURL http://library.uos.edu.pk:8000
+BASEURL http://library.su.edu.pk:5157
 CATTYPE koha
 
 ID OCLC-D@A
@@ -1528,9 +1528,15 @@ WCRID 69093
 NAME National Library of South Africa
 LOCATION Pretoria
 COUNTRY ZA
-CATTYPE iii-consortium-member
-BASEURL http://www.legaldeposit.ac.za
-LCODE 7
+BASEURL https://nlsa.on.worldcat.org/search?databaseList=&queryString
+CATTYPE worldcat-config
+
+ID OCLC-OH-SHARP
+NAME Rhodes University
+LOCATION Makhanda
+COUNTRY ZA
+CATTYPE encore
+BASEURL http://encore.seals.ac.za/iii/encore_ru
 
 ID OCLC-OE-DOLLAR
 WCRID 70111
@@ -1564,13 +1570,14 @@ COUNTRY SE
 BASEURL https://biblioteket.stockholm.se/en/sok
 KEYURL ${BASEURL}?freetext=${ARG}
 
+# This and Rhodes may be using Encore Plus.  Look into adapting for that
 ID OCLC-OG-SHARP
 WCRID 87534
 NAME University of the Witwatersrand (Wits)
 LOCATION Johannesburg
 COUNTRY ZA
-BASEURL https://wits.worldcat.org/search
-CATTYPE worldcat
+CATTYPE encore
+BASEURL http://sierra-eds.wits.ac.za/iii/encore
 
 ID OCLC-OM@
 WCRID 58798
