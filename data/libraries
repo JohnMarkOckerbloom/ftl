@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2019-12-01
-# Automated Sweep: start w Alabama (& go back and check Kashmir and Baraton)
+# Last updated 2019-12-02
+# Automated Sweep: start w Arizona (& go back and check Kashmir and Baraton)
 
 ID OLBP
 NAME The Online Books Page
@@ -1545,6 +1545,13 @@ COUNTRY ZA
 CATTYPE encore
 BASEURL http://encore.seals.ac.za/iii/encore_ru
 
+ID OCLC-U5H
+NAME University of Fort Hare
+LOCATION Alice and other campuses
+COUNTRY ZA
+CATTYPE encore
+BASEURL http://encore.seals.ac.za/iii/encore_ufh
+
 ID OCLC-OE-DOLLAR
 WCRID 70111
 NAME University of Limpopo Libraries
@@ -1591,9 +1598,8 @@ WCRID 58798
 NAME Walter Sisulu University
 LOCATION Mthatha and other campuses
 COUNTRY ZA
-CATTYPE iii-consortium-member
-BASEURL http://opac.seals.ac.za
-LCODE 13
+CATTYPE encore
+BASEURL http://encore.seals.ac.za/iii/encore_wsu
 
 ID OCLC-CHNTL
 NAME National Library of Public Information
@@ -2408,7 +2414,7 @@ ID OCLC-FCLIB
 NAME First City Libraries
 LOCATION Ketchikan
 STATE AK
-BASEURL http://catalog.firstcitylibraries.org/uhtbin/cgisirsi.exe
+BASEURL http://206.223.192.123/uhtbin/cgisirsi.exe
 CATTYPE sirsi
 
 ID OCLC-H8N
