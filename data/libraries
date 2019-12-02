@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2019-11-27
-# Automated Sweep: start w the UK (& go back and check Kashmir and Baraton)
+# Last updated 2019-12-01
+# Automated Sweep: start w Alabama (& go back and check Kashmir and Baraton)
 
 ID OLBP
 NAME The Online Books Page
@@ -1531,6 +1531,13 @@ COUNTRY ZA
 BASEURL https://nlsa.on.worldcat.org/search?databaseList=&queryString
 CATTYPE worldcat-config
 
+ID OCLC-OG-DOLLAR
+NAME Nelson Mandela University
+LOCATION Port Elizabeth
+COUNTRY ZA
+CATTYPE encore
+BASEURL http://encore.seals.ac.za/iii/encore_nmmu
+
 ID OCLC-OH-SHARP
 NAME Rhodes University
 LOCATION Makhanda
@@ -2005,8 +2012,8 @@ ID OCLC-REABC
 NAME Reading Borough Libraries
 LOCATION Reading, England
 COUNTRY UK
-CATTYPE spydus
-BASEURL https://library.reading.gov.uk
+CATTYPE spydus-config
+BASEURL https://library.reading.gov.uk/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?
 FILTERS S
 
 ID OCLC-UKRED
@@ -2116,8 +2123,8 @@ ID OCLC-ERL
 NAME University of Leeds
 LOCATION Leeds, England
 COUNTRY UK
-BASEURL http://lib.leeds.ac.uk
-CATTYPE innopac
+CATTYPE primo-justquery
+BASEURL https://leeds.primo.exlibrisgroup.com/discovery/search?search_scope=My_Inst_CI_not_ebsco&vid=44LEE_INST:VU1&offset=0&
 
 ID OCLC-LTU
 NAME University of Leicester
