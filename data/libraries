@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2019-12-02
-# Automated Sweep: start w Arizona (& go back and check Kashmir and Baraton)
+# Last updated 2019-12-23
+# Automated Sweep: start w California (& go back and check Kashmir and Baraton)
 
 ID OLBP
 NAME The Online Books Page
@@ -1417,6 +1417,13 @@ LOCATION Sargodha; English search terms may give limited results
 COUNTRY PK
 BASEURL http://library.su.edu.pk:5157
 CATTYPE koha
+
+ID OCLC-P9Z
+NAME University of Warsaw Library
+LOCATION Warsaw
+COUNTRY PL
+CATTYPE eds
+LCODE s9253487
 
 ID OCLC-D@A
 WCRID 87768
