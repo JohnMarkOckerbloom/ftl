@@ -5680,7 +5680,7 @@ NAME Oakland Community College
 LOCATION various Oakland County campuses
 STATE MI
 CATTYPE primodl
-BASEURL http://dalnet-primo.hosted.exlibrisgroup.com
+BASEURL https://dalnet-primo.hosted.exlibrisgroup.com
 VID 01DAL_OCC
 LCODE 01DAL_OCC
 
@@ -5698,6 +5698,14 @@ STATE MI
 CATTYPE sirsient
 BASEURL https://plym.ent.sirsi.net
 LCODE en_US/default
+
+ID OCLC-EJZ
+NAME Royal Oak Public Library
+LOCATION Royal Oak
+STATE MI
+CATTYPE ls2pac-configamp
+CONFIG roak
+BASEURL https://catalog.tln.lib.mi.us/
 
 ID OCLC-ER2
 NAME Traverse Area District Library
@@ -5726,7 +5734,7 @@ ID OCLC-EXW
 NAME Western Michigan University
 LOCATION Kalamazoo
 STATE MI
-BASEURL http://primo-pmtna01.hosted.exlibrisgroup.com
+BASEURL https://primo-pmtna01.hosted.exlibrisgroup.com
 CATTYPE primodl-scope
 VID 01WMU
 LCODE 01WMU
@@ -5779,11 +5787,8 @@ ID OCLC-MNO
 NAME St. Olaf College
 LOCATION Northfield
 STATE MN
-CATTYPE primodl-scope
-BASEURL http://stolaf-primo.hosted.exlibrisgroup.com
-VID 01BRC_SOC
-LCODE 01BRC_SOC
-SCOPE Everything
+CATTYPE primo-justquery
+BASEURL https://bridge.primo.exlibrisgroup.com/discovery/search?tab=Everything&search_scope=SOC_MyCampus_CI&vid=01BRC_INST:SOC&offset=0&
 
 ID OCLC-MNU
 NAME University of Minnesota Libraries
