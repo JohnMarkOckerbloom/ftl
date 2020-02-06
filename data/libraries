@@ -48,6 +48,16 @@ BASEURL https://www.europeana.eu/portal
 AUTURL ${BASEURL}/search.html?query=who:${ARG:S}
 KEYURL ${BASEURL}/search.html?query=${ARG:NK}
 
+# ID may be Melbourne-specific, but it's the only OCLC ID for ACAP I know of
+ID OCLC-AUPML
+NAME Australian College of Applied Psychology
+LOCATION Sydney and other Australian cities
+COUNTRY AU
+BASEURL https://unilinc-acp.primo.exlibrisgroup.com
+CATTYPE primo-ve
+VID 61UNI_ACP:ACP
+SCOPE everything
+
 # hold until checking with suggester about acceptability of results
 # ID AU-AIAS
 # NAME Australian Institute of Aboriginal and Torres Strait Islander Studies
@@ -68,8 +78,8 @@ ID AU-VBAY
 NAME Bayside Library Service
 LOCATION Bayside, Victoria
 COUNTRY AU
-CATTYPE spydus
-BASEURL http://bayside.spydus.com
+CATTYPE spydus-config
+BASEURL https://bayside.spydus.com/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?ENTRY_TYPE=K&SORTS=SQL_REL_BIB&
 
 ID AU-QBCL
 NAME Brisbane City Council Library Services
@@ -189,16 +199,6 @@ BASEURL http://catalogue.nla.gov.au
 CATTYPE vufindrc1
 FILTERS NK
 
-ID OCLC-AUNAV
-NAME Navitas Library
-LOCATION Sydney, Melbourne, and Brisbane
-CATTYPE primodl-scope
-BASEURL http://navitas-primo.hosted.exlibrisgroup.com
-VID ACP
-LCODE ACP
-SCOPE ACP_ALL
-COUNTRY AU
-
 ID AU-XNLS
 NAME Northern Territory Library
 LOCATION Darwin, Northern Territory
@@ -288,6 +288,17 @@ BASEURL http://librarysearch.swinburne.edu.au
 VID SWIN2
 LCODE SUT-ALMA
 LOC local,scope:(SUT-ALMA)
+
+# Didn't find ID for this, so using old Navitas ID (it's a member)
+# It seems to still put ACAP in th display, but return results including SIBT
+ID OCLC-AUNAV
+NAME Sydney Institute of Business and Technology (SIBT)
+LOCATION Sydney, New South Wales
+COUNTRY AU
+BASEURL https://unilinc-acp.primo.exlibrisgroup.com
+CATTYPE primo-ve
+VID 61UNI_ACP:ACP
+SCOPE 1080
 
 # If updated, also update Museums Victoria, which uses Trove search
 ID TROVE
@@ -573,7 +584,7 @@ LOCATION Prince George
 PROVINCE BC
 CATTYPE sirsient
 LCODE en_US/default
-BASEURL http://catalogue.lib.pg.bc.ca:8080
+BASEURL https://catalogue.pgpl.ca
 
 # Looks like SFU has its own custom search
 ID OCLC-SFB
@@ -601,8 +612,8 @@ ID OCLC-TWV
 NAME Trinity Western University
 LOCATION Langley and other campuses
 PROVINCE BC
-CATTYPE sirsi
-BASEURL http://library.twu.ca/uhtbin/cgisirsi.exe
+CATTYPE eds
+LCODE s6511865
 
 ID OCLC-8UB
 NAME University of British Columbia Library
@@ -777,9 +788,10 @@ ID OCLC-CEF
 NAME Carleton University
 LOCATION Ottawa
 PROVINCE ON
-BASEURL https://carletonu.summon.serialssolutions.com
-CATTYPE summon
-FILTERS S
+BASEURL https://ocul-crl.primo.exlibrisgroup.com
+CATTYPE primo-ve
+VID 01OCUL_CRL:CRL_DEFAULT
+SCOPE MyInst_and_CI
 
 ID OCLC-WDTGS
 NAME Greater Sudbury Public Library
@@ -880,8 +892,10 @@ ID OCLC-Q2U
 NAME Queen's University
 LOCATION Kingston
 PROVINCE ON
-BASEURL http://queensu.summon.serialssolutions.com
-CATTYPE summon
+BASEURL https://ocul-qu.primo.exlibrisgroup.com
+CATTYPE primo-ve
+VID 01OCUL_QU:QU_DEFAULT
+SCOPE MyInst_and_CI
 
 ID CA-OSH
 NAME Shelburne Public Library
@@ -932,21 +946,19 @@ ID OCLC-U3G
 NAME University of Guelph
 LOCATION Guelph
 PROVINCE ON
-CATTYPE primodl-scope
-BASEURL http://primo.tug-libraries.on.ca
-VID GUELPH
-LCODE GUELPH
-SCOPE search_tab
+BASEURL https://ocul-gue.primo.exlibrisgroup.com
+CATTYPE primo-ve
+VID 01OCUL_GUE:GUELPH
+SCOPE MyInst_and_CI
 
 ID OCLC-OTZ
 NAME University of Ottawa
 LOCATION Ottawa
 PROVINCE ON
-CATTYPE primodl-scope
-BASEURL http://uottawa-primo.hosted.exlibrisgroup.com
-VID UOTTAWA
-LCODE UOTTAWA
-SCOPE default
+BASEURL https://ocul-uo.primo.exlibrisgroup.com
+CATTYPE primo-ve
+VID 01OCUL_UO:UO_DEFAULT
+SCOPE MyInst_and_CI
 
 ID OCLC-UTM
 NAME University of Toronto
@@ -960,29 +972,19 @@ ID OCLC-UWW
 NAME University of Waterloo
 LOCATION Waterloo
 PROVINCE ON
-CATTYPE primodl-loc
-BASEURL http://primo.tug-libraries.on.ca
-VID WATERLOO
-LCODE WATERLOO
-DEFAULT http://www.lib.uwaterloo.ca/
-LOC adaptor,scope:(WATERLOO)
-
-ID OCLC-LSG
-NAME University of Western Ontario
-LOCATION London
-PROVINCE ON
-BASEURL http://uwo.summon.serialssolutions.com
-CATTYPE summon
+BASEURL https://ocul-wtl.primo.exlibrisgroup.com
+CATTYPE primo-ve
+VID 01OCUL_WTL:WTL_DEFAULT
+SCOPE MyInst_and_CI
 
 ID OCLC-CWI
 NAME University of Windsor, Leddy Library
 LOCATION Windsor
 PROVINCE ON
-CATTYPE primodl-loc
-BASEURL http://primo-pmtna01.hosted.exlibrisgroup.com
-VID UWINDSOR
-LCODE UWINDSOR
-LOC adaptor,scope:(UWINDSOR_COURSE),scope:("UWINDSOR"),scope:(UWINDSOR_DIGITALCOMMONS),primo_central_multiple_fe
+BASEURL https://ca01.primo.exlibrisgroup.com
+CATTYPE primo-ve
+VID 01UTON_UW:UWINDSOR
+SCOPE MyInst_and_CI
 
 ID OCLC-CNWLU
 NAME Waterloo Public Library
@@ -991,16 +993,23 @@ PROVINCE ON
 CATTYPE encore
 BASEURL http://encore.kpl.org/iii/encore_wpl
 
+ID OCLC-LSG
+NAME Western University
+LOCATION London
+PROVINCE ON
+BASEURL https://ocul-uwo.primo.exlibrisgroup.com
+CATTYPE primo-ve
+VID 01OCUL_UWO:UWO_DEFAULT
+SCOPE MyInst_and_CI
+
 ID OCLC-W2U
 NAME Wilfrid Laurier University
 LOCATION Waterloo
 PROVINCE ON
-CATTYPE primodl-loc
-BASEURL http://primo.tug-libraries.on.ca
-VID LAURIER
-LCODE LAURIER
-LOC adaptor,scope:(LAURIER)
-DEFAULT http://library.wlu.ca/
+BASEURL https://ocul-wlu.primo.exlibrisgroup.com
+CATTYPE primo-ve
+VID 01OCUL_WLU:WLU_DEF
+SCOPE Laurier_Guelph_Waterloo
 
 ID OCLC-CNWPL
 NAME Windsor Public Library
@@ -1013,8 +1022,10 @@ ID OCLC-YOU
 NAME York University Libraries
 LOCATION Toronto
 PROVINCE ON
-BASEURL https://www.library.yorku.ca/find
-CATTYPE vufind
+BASEURL https://ocul-yor.primo.exlibrisgroup.com
+CATTYPE primo-ve
+VID 01OCUL_YOR:YOR_DEFAULT
+SCOPE MyInst_and_CI
 
 ID CA-PC
 NAME Prince Edward Island Public Library Service
@@ -1029,7 +1040,7 @@ NAME Biblioth&egrave;que et Archives Nationales du Qu&eacute;bec
 LOCATION Montreal and other facilities
 PROVINCE PQ
 BASEURL http://www.banq.qc.ca/techno/recherche/rms.html
-KEYURL ${BASEURL}?keyword=${ARG}&Recherche=tout&fonction=chercher&afficherPortail=checked&afficherIris=checked&afficherPistard=checked&afficherColNum=checked
+KEYURL ${BASEURL}?q=${ARG}&selectRecherche=on
 
 # no overall ID found; arbitarily picking Outremont branch's code
 ID CA-QMBO
