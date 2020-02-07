@@ -1163,8 +1163,8 @@ ID OCLC-GY1
 NAME &Aring;bo Akademi University
 LOCATION Turku and Vaasa
 COUNTRY FI
-CATTYPE voyager-vwebv
-BASEURL https://alma.linneanet.fi/vwebv/search
+CATTYPE vufind
+BASEURL https://abo.finna.fi
 FILTERS S
 
 # Going with electronic library ID; might be a better ID to use
@@ -1284,7 +1284,7 @@ CATTYPE summon
 
 ID OCLC-INUOK
 NAME University of Kashmir
-LOCATION Srinigar
+LOCATION Srinigar; Internet connectivity may be limited
 COUNTRY IN
 BASEURL http://vlib.uok.edu.in:8080
 CATTYPE chamo
@@ -1334,7 +1334,7 @@ FILTERS S
 
 ID UBARATON
 NAME University of Eastern Africa, Baraton
-LOCATION Eldoret
+LOCATION Eldoret; local access only?
 COUNTRY KE
 BASEURL http://library.ueab.ac.ke:8080/
 CATTYPE ls2pac
@@ -1455,12 +1455,17 @@ COUNTRY SA
 CATTYPE sirsi
 BASEURL http://catalog.library.ksu.edu.sa/uhtbin/cgisirsi.exe
 
+# https://ntu-sp.primo.exlibrisgroup.com/discovery/search?query=any,contains,cow&tab=Everything&search_scope=MyInst_and_CI&vid=65NTU_INST:65NTU_INST&search=cow
+# https://ntu-sp.primo.exlibrisgroup.com//discovery/search?vid=65NTU_INST:65NTU_INST&search_scope=MyInst_and_CI&query=any,contains,dictionary
+# https://ntu-sp.primo.exlibrisgroup.com/discovery/search?query=any,contains,dictionary&tab=Everything&search_scope=MyInst_and_CI&vid=65NTU_INST:65NTU_INST&offset=0
 ID OCLC-SINTU
 NAME Nanyang Technological University
 LOCATION Singapore
 COUNTRY SG
-CATTYPE eds
-LCODE s1140755
+CATTYPE primo-ve
+BASEURL https://ntu-sp.primo.exlibrisgroup.com
+VID 65NTU_INST:65NTU_INST
+SCOPE MyInst_and_CI
 
 ID OCLC-7F1
 NAME National Library Board (OneSearch)
@@ -1709,8 +1714,9 @@ ID OCLC-UKBLS
 NAME Blackburn with Darwen Libraries
 LOCATION Blackburn, Darwen, and vicinity, England
 COUNTRY UK
-CATTYPE spydus
-BASEURL https://bwdlibraries.spydus.co.uk
+CATTYPE spydus-config
+BASEURL https://bwdlibraries.spydus.co.uk/cgi-bin/spydus.exe/ENQ/WPAC/ALLENQ?
+AINDEX CR
 
 ID OCLC-UKBHC
 NAME Brighton and Hove Libraries
@@ -1733,15 +1739,16 @@ ID OCLC-UKBCC
 NAME Buckinghamshire County Libraries
 LOCATION Buckinghamshire, England
 COUNTRY UK
-CATTYPE spydus
-BASEURL http://buckinghamshire.spydus.co.uk
+CATTYPE spydus-config
+BASEURL https://buckinghamshire.spydus.co.uk/cgi-bin/spydus.exe/ENQ/WPAC/ALLENQ?
+AINDEX CR
 
 ID OCLC-UKLON
 NAME Camden Libraries
 LOCATION London Borough of Camden, England
 COUNTRY UK
-CATTYPE spydus
-BASEURL http://camden.spydus.co.uk
+CATTYPE spydus-config
+BASEURL https://camden.spydus.co.uk/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?
 
 ID OCLC-UKCAR
 NAME Cardiff Libraries
@@ -1888,8 +1895,9 @@ ID LEEDS
 NAME Leeds Library and Information Service
 LOCATION Leeds, England
 COUNTRY UK
-CATTYPE prismhosted
-BASEURL http://capitadiscovery.co.uk/leeds
+CATTYPE sirsient
+BASEURL https://leeds.ent.sirsidynix.net.uk
+LCODE en_GB/default
 
 ID UK-NIBAL
 NAME Libraries NI
