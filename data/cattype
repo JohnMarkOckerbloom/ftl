@@ -272,6 +272,10 @@ AUTURL ${BASEURL}/search/Y?searchscope=${LCODE}&searchtype=a&searcharg=${ARG:N}
 TITURL ${BASEURL}/search/Y?searchscope=${LCODE}&searchtype=t&searcharg=${ARG:N}
 KEYURL ${BASEURL}/search/Y?searchscope=${LCODE}&searchtype=X&searcharg=${ARG:N}
 
+# For now, we'll just do keyword search; hope to figure out others eventually
+CATTYPE insignia
+KEYURL ${BASEURL}?l=All&action=simple&t_input=Keywords&t=Keywords&k=${ARG}
+
 # aka Horizon
 CATTYPE ipac20
 KINDEX .GW

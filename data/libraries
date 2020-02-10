@@ -1455,9 +1455,6 @@ COUNTRY SA
 CATTYPE sirsi
 BASEURL http://catalog.library.ksu.edu.sa/uhtbin/cgisirsi.exe
 
-# https://ntu-sp.primo.exlibrisgroup.com/discovery/search?query=any,contains,cow&tab=Everything&search_scope=MyInst_and_CI&vid=65NTU_INST:65NTU_INST&search=cow
-# https://ntu-sp.primo.exlibrisgroup.com//discovery/search?vid=65NTU_INST:65NTU_INST&search_scope=MyInst_and_CI&query=any,contains,dictionary
-# https://ntu-sp.primo.exlibrisgroup.com/discovery/search?query=any,contains,dictionary&tab=Everything&search_scope=MyInst_and_CI&vid=65NTU_INST:65NTU_INST&offset=0
 ID OCLC-SINTU
 NAME Nanyang Technological University
 LOCATION Singapore
@@ -1892,7 +1889,7 @@ BASEURL https://libraries.lambeth.gov.uk/web/arena
 CATTYPE arenacode
 
 ID LEEDS
-NAME Leeds Library and Information Service
+NAME Leeds Libraries
 LOCATION Leeds, England
 COUNTRY UK
 CATTYPE sirsient
@@ -1920,8 +1917,8 @@ ID UK-UKB
 NAME Library of Birmingham
 LOCATION Birmingham, England
 COUNTRY UK
-CATTYPE spydus
-BASEURL https://birmingham.spydus.co.uk
+CATTYPE spydus-config
+BASEURL https://birmingham.spydus.co.uk/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?
 
 ID OCLC-UKLVP
 NAME Liverpool Libraries
@@ -1979,6 +1976,8 @@ LOCATION Medway, England
 COUNTRY UK
 CATTYPE spydus
 BASEURL https://medway.spydus.co.uk
+CATTYPE spydus-config
+BASEURL https://medway.spydus.co.uk/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?
 
 ID OCLC-UKMCE
 NAME Moray Libraries
@@ -2060,8 +2059,8 @@ ID OCLC-UKBRW
 NAME Rochdale Libraries
 LOCATION Rochdale Metropolitan Borough, England
 COUNTRY UK
-CATTYPE spydus
-BASEURL http://rochdale.spydus.co.uk
+CATTYPE spydus-config
+BASEURL https://rochdale.spydus.co.uk/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?
 
 ID OCLC-FDN
 NAME Senate House Libraries, University of London
@@ -2076,7 +2075,7 @@ NAME Sheffield Libraries, Archives and Information
 LOCATION Sheffield and vicinity, England
 COUNTRY UK
 CATTYPE sirsi
-BASEURL http://library.sheffield.gov.uk/uhtbin/cgisirsi
+BASEURL https://library.sheffield.gov.uk/uhtbin/cgisirsi
 
 # using ID for Shrewsbury and Telford Hospital NHS Trust
 ID OCLC-UKWDK
@@ -2090,8 +2089,8 @@ ID OCLC-UKSOU
 NAME Southwark Libraries
 LOCATION London Borough of Southwark, England
 COUNTRY UK
-CATTYPE prismhosted
-BASEURL http://capitadiscovery.co.uk/southwark
+CATTYPE spydus-config
+BASEURL https://southwark.spydus.co.uk/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?
 
 ID OCLC-UK4ZN
 NAME Staffordshire University Library
@@ -2366,8 +2365,9 @@ ID OLB-MONTGOMERY
 NAME Montgomery City-County Public Library
 LOCATION Montgomery
 STATE AL
-BASEURL http://mccp.sirsi.net/uhtbin/cgisirsi
-CATTYPE sirsi
+CATTYPE sirsient
+LCODE en_US/default
+BASEURL https://mccp.ent.sirsi.net
 
 ID OCLC-MVQ
 NAME Tuscaloosa Public Library
@@ -2380,7 +2380,7 @@ ID OCLC-TUS
 NAME Tuskegee University Libraries
 LOCATION Tuskegee Institute
 STATE AL
-BASEURL http://tusk.sirsi.net/uhtbin/cgisirsi
+BASEURL https://tusk.sirsi.net/uhtbin/cgisirsi
 CATTYPE sirsi
 
 ID OCLC-ALM
@@ -2504,8 +2504,9 @@ ID OCLC-AZH
 NAME Flagstaff City-Coconino County Public Library
 LOCATION Flagstaff
 STATE AZ
-BASEURL http://www.flagstaffpubliclibrary.org/uhtbin/cgisirsi/
-CATTYPE sirsi
+CATTYPE sirsient
+LCODE en_US/default
+BASEURL https://flag2.ent.sirsi.net
 
 ID OCLC-VTL
 NAME Glendale Public Library
@@ -2633,8 +2634,9 @@ ID OCLC-JQF
 NAME Berkeley Public Library
 LOCATION Berkeley
 STATE CA
-BASEURL http://encore.berkeley-public.org/iii/encore
-CATTYPE encore
+CATTYPE ls2pac
+BASEURL https://catalog.berkeleypubliclibrary.org/
+FILTERS S
 
 ID OCLC-JQI
 NAME Butte County Library
@@ -2750,8 +2752,10 @@ ID OCLC-DAC
 NAME De Anza College
 LOCATION Cupertino
 STATE CA
-BASEURL https://deanza.worldcat.org/search
-CATTYPE worldcat
+CATTYPE primo-ve
+BASEURL https://caccl-deanza.primo.exlibrisgroup.com
+VID 01CACCL_DEANZA:DEANZA
+SCOPE MyInst_and_CI
 
 ID OCLC-JTK
 NAME Dixon Public Library
@@ -2765,7 +2769,7 @@ ID OCLC-JQO
 NAME El Centro Public Library
 LOCATION El Centro
 STATE CA
-BASEURL http://catalog.eclib.org/polaris
+BASEURL https://elcentro.polarislibrary.com
 CATTYPE polaris
 
 ID OCLC-JQR
@@ -2795,8 +2799,8 @@ WCRID 283
 NAME Holy Names University
 LOCATION Oakland
 STATE CA
-BASEURL https://hnulibrary.worldcat.org/search
-CATTYPE worldcat
+BASEURL https://hnulibrary.on.worldcat.org/external-search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-EHU
 NAME Humboldt County Public Library
@@ -2984,8 +2988,8 @@ ID OCLC-JRS
 NAME Sacramento Public Library
 LOCATION Sacramento and vicinity
 STATE CA
-BASEURL http://find.saclibrarycatalog.org/iii/encore
-CATTYPE encore
+CATTYPE vufindgeneral
+BASEURL https://catalog.saclibrary.org/Union/Search
 
 ID OCLC-GH0
 NAME Saint Mary's College of California
@@ -3005,8 +3009,8 @@ ID OCLC-1JT
 NAME San Diego Public Library
 LOCATION San Diego
 STATE CA
-CATTYPE sirsient
-BASEURL https://sddp.ent.sirsi.net/
+CATTYPE bibliocommons
+BASEURL https://sandiego.bibliocommons.com
 
 ID OCLC-SDG
 NAME San Diego County Library
@@ -3134,8 +3138,9 @@ ID OCLC-CFL
 NAME Stanislaus County Library
 LOCATION Modesto and vicinity
 STATE CA
-CATTYPE ipac20
-BASEURL http://63.200.101.19
+CATTYPE sirsient
+LCODE en_US/default
+BASEURL https://stan.ent.sirsi.net
 
 ID OCLC-SXP
 NAME Sunnyvale Public Library
@@ -3156,8 +3161,8 @@ ID OCLC-CLU
 NAME UCLA: University of California Los Angeles
 LOCATION Los Angeles
 STATE CA
-BASEURL https://ucla.worldcat.org/search
-CATTYPE worldcat
+BASEURL https://ucla.on.worldcat.org/external-search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-CUS
 NAME UCSD: University of California San Diego
@@ -3196,8 +3201,8 @@ ID OCLC-FSHHH
 NAME University of California Libraries
 LOCATION All 10 UC campuses
 STATE CA
-BASEURL https://melvyl.worldcat.org/search
-CATTYPE worldcat
+BASEURL https://melvyl.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
 
 # UCR now features a custom Bento search (seems to be general keyword only)
 ID OCLC-CRU
@@ -3251,8 +3256,8 @@ WCRID 8700
 NAME Bemis Public Library
 LOCATION Littleton
 STATE CO
-BASEURL https://bemis.ent.sirsi.net
-CATTYPE sirsient
+CATTYPE vufindgeneral
+BASEURL https://bemis.marmot.org/Union/Search
 
 ID OCLC-CO3
 NAME Boulder Public Library
@@ -3272,10 +3277,10 @@ ID OCLC-COF
 NAME Colorado State University
 LOCATION Fort Collins
 STATE CO
-CATTYPE primodl-scope
-BASEURL https://colostate-primo.hosted.exlibrisgroup.com
-VID 01COLSU
-SCOPE Everything
+CATTYPE primo-ve
+BASEURL https://colostate.primo.exlibrisgroup.com
+VID 01COLSU_INST:01COLSU
+SCOPE MyCampus_FC_CI_PU_P
 
 ID OCLC-DPL
 NAME Denver Public Library
@@ -3326,14 +3331,16 @@ NAME Summit County Library
 LOCATION Frisco, Silverthorne, and Breckenridge
 STATE CO
 CATTYPE vufindgeneral
-BASEURL http://summit.opac.marmot.org/Union/Search
+BASEURL https://summit.marmot.org/Union/Search
 
+# https://usafa.insigniails.com/Library/SearchResult?l=All&t=Keywords&k=horse&ck=&action=simple&p=1&ps=20&st=t02Titles&ifs=0&c=c&oldSearchType=Keywords
+# https://usafa.insigniails.com/Library/SearchResult?l_input=All%20Libraries&l=All&t_input=Subject&t=Subjects&k=horses&ck_input=horse&ck=&action=simple&p=1&ps=20&st=t02Titles&ifs=0&c=c&oldSearchType=Subjects
 ID OCLC-COH
 NAME United States Air Force Academy
 LOCATION Colorado Springs
 STATE CO
-BASEURL http://afac.sirsi.net/uhtbin/cgisirsi
-CATTYPE sirsi
+BASEURL https://usafa.insigniails.com/Library/SearchResult
+CATTYPE insignia
 
 ID OCLC-COD
 NAME University of Colorado Boulder
@@ -3436,8 +3443,9 @@ ID OCLC-HPJ
 NAME Hartford Public Library
 LOCATION Hartford
 STATE CT
-CATTYPE encorehosted
-BASEURL http://hplct.iii.com/
+CATTYPE sirsient
+BASEURL https://hplct.ent.sirsi.net
+LCODE en_US/default
 
 ID OCLC-CTCKE
 NAME Library Connection Inc.
@@ -3557,15 +3565,15 @@ ID OCLC-DRC
 NAME Delaware State University
 LOCATION Dover
 STATE DE
-CATTYPE summon
-BASEURL http://desu.summon.serialssolutions.com
+BASEURL https://desu.on.worldcat.org/external-search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-NO5
 NAME University of Delaware Library
 LOCATION Newark
 STATE DE
-BASEURL https://delcat.worldcat.org/search
-CATTYPE worldcat
+BASEURL https://delcat.on.worldcat.org/external-search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-WMG
 NAME Wilmington University Library
@@ -3815,7 +3823,7 @@ ID OCLC-N-DOLLAR-S
 NAME Nassau County Public Library System
 LOCATION Nassau County
 STATE FL
-BASEURL http://sirsi.nassau.lib.fl.us/uhtbin/cgisirsi.exe
+BASEURL https://sirsi.nassau.lib.fl.us/uhtbin/cgisirsi.exe
 CATTYPE sirsi
 
 ID OCLC-ORL
