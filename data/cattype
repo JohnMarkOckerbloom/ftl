@@ -516,6 +516,13 @@ TITURL ${BASEURL}/search/title?search=${ARG}
 AUTURL ${BASEURL}/search/author?search=${ARG}
 KEYURL ${BASEURL}/search/keyword?search=${ARG}
 
+# Another form used with SOPAC
+CATTYPE sopacindexes
+SUBURL ${BASEURL}search_index=subject&query=${ARG}
+TITURL ${BASEURL}search_index=title&query=${ARG}
+AUTURL ${BASEURL}search_index=author&query=${ARG}
+KEYURL ${BASEURL}search_index=keyword&query=${ARG}
+
 CATTYPE spydus
 SUBURL ${BASEURL}/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?ENTRY_NAME=SU&&ENTRY=${ARG:N}
 AUTURL ${BASEURL}/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?ENTRY_NAME=AU&&ENTRY=${ARG:N}
@@ -668,6 +675,13 @@ AUTURL ${BASEURL}/search/a?SEARCH=${ARG}
 TITURL ${BASEURL}/search/t?SEARCH=${ARG}
 ATIURL ${BASEURL}/search/q?author=${AUTHOR}?title=${TITLE}
 KEYURL ${BASEURL}/search/X?SEARCH=${ARG}
+
+# Wise by OCLC, originally from NL. Will English sites change field names?
+CATTYPE wise
+SUBURL ${BASEURL}onderwerp/${ARG}
+TITURL ${BASEURL}titel/${ARG}
+AUTURL ${BASEURL}auteur/${ARG}
+KEYURL ${BASEURL}iets/${ARG}
 
 CATTYPE worldcat
 SUBURL ${BASEURL}?q=su%3A${ARG:NK}&qt=advanced&dblist=638

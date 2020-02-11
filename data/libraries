@@ -4153,8 +4153,8 @@ ID OCLC-OIP
 NAME Boise State University, Albertsons Library
 LOCATION Boise
 STATE ID
-BASEURL https://boisestate.worldcat.org/search
-CATTYPE worldcat
+BASEURL https://boisestate.on.worldcat.org/external-search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-ZVR
 NAME Coeur d'Alene Public Library
@@ -4228,8 +4228,9 @@ ID OCLC-JBL
 NAME Arlington Heights Memorial Library
 LOCATION Arlington Heights
 STATE IL
-BASEURL http://www.ahml.info/catalog
-CATTYPE sopac
+BASEURL https://www.ahml.info/catalog/search/keyword?
+CATTYPE sopacindexes
+FILTERS NK
 
 ID OCLC-ILAPL
 NAME Aurora Public Library
@@ -4273,7 +4274,6 @@ LOCATION Chicago and other campuses
 STATE IL
 BASEURL https://thechicagoschool-chi.on.worldcat.org/external-search?queryString
 CATTYPE worldcat-config
-
 
 ID OCLC-IAA
 NAME Chicago State University
@@ -4337,9 +4337,9 @@ ID OCLC-JAG
 NAME Indian Trails Library District
 LOCATION Buffalo Grove, Wheeling, Prospect Heights, and vicinity
 STATE IL
-CATTYPE sirsient
-LCODE en_US/default
-BASEURL https://itpld.ent.sirsi.net
+CATTYPE polaris-context
+BASEURL https://ccs.polarislibrary.com/polaris
+CONTEXT 67.1033.0.0.5
 
 ID OCLC-JSU
 NAME Itasca Community Library
@@ -4558,7 +4558,8 @@ NAME Davenport Public Library
 LOCATION Davenport
 STATE IA
 BASEURL http://rivershare.polarislibrary.com
-CATTYPE polaris
+CATTYPE polaris-context
+CONTEXT 14.1033.0.0.1
 
 ID OCLC-LD-SHARP
 NAME Drake Public Library
@@ -4663,8 +4664,9 @@ ID OCLC-IMF
 NAME Allen County Public Library
 LOCATION Fort Wayne and vicinity
 STATE IN
-CATTYPE sirsient
-BASEURL https://alpl.ent.sirsi.net
+CATTYPE wise
+BASEURL https://acpl-cms.wise.oclc.org/wise-apps/catalog/6000/search/
+FILTERS SNK
 
 ID OCLC-IIB
 NAME Butler University
@@ -4770,11 +4772,8 @@ ID OCLC-KKS
 NAME Kansas State University
 LOCATION Manhattan
 STATE KS
-CATTYPE primodl-loc
-BASEURL http://searchit.lib.ksu.edu
-VID 01KSU
-LCODE 01KSU
-LOC adaptor,scope:(01KSU_ALMA),scope:(01KSU),scope:(01KSU_DSPACE),primo_central_multiple_fe
+CATTYPE primo-justquery
+BASEURL https://k-state-primo.hosted.exlibrisgroup.com/primo-explore/search?institution=01KSU&search_scope=Entire_Library_Collection&vid=NewUI&
 
 ID OCLC-CD3
 NAME Manhattan Public Library
@@ -4804,7 +4803,7 @@ ID OCLC-KFW
 NAME Wichita Public Library
 LOCATION Wichita
 STATE KS
-BASEURL http://catalog.wichita.lib.ks.us/polaris
+BASEURL https://catalog.wichitalibrary.org/Polaris
 CATTYPE polaris
 
 ID OCLC-KSW
@@ -4818,11 +4817,10 @@ ID OCLC-KUA
 NAME Ashland Community and Technical College
 LOCATION Ashland
 STATE KY
-CATTYPE primodl-scope
-BASEURL https://kentucky-primoprod.hosted.exlibrisgroup.com
-VID Ashland
-LCODE ASHLAND
-SCOPE ASHLAND_TAB
+CATTYPE primo-ve
+BASEURL https://kctcs.primo.exlibrisgroup.com
+VID 01KCTCS_INST:Ashland
+SCOPE Ashland_Lib
 
 ID OCLC-KBE
 NAME Berea College
@@ -4836,31 +4834,28 @@ ID OCLC-KUP
 NAME Big Sandy Community and Technical College
 LOCATION Prestonburg
 STATE KY
-CATTYPE primodl-scope
-BASEURL https://kentucky-primoprod.hosted.exlibrisgroup.com
-VID BigSandy
-LCODE BIGSANDY
-SCOPE BIGSANDY_TAB
+CATTYPE primo-ve
+BASEURL https://kctcs.primo.exlibrisgroup.com
+VID 01KCTCS_INST:BigSandy
+SCOPE BigSandy_Lib
 
 ID OCLC-KUT
 NAME Bluegrass Community and Technical College
 LOCATION Lexington
 STATE KY
-CATTYPE primodl-scope
-BASEURL https://kentucky-primoprod.hosted.exlibrisgroup.com
-VID Bluegrass
-LCODE BLUEGRASS
-SCOPE BLUEGRASS_TAB
+CATTYPE primo-ve
+BASEURL https://kctcs.primo.exlibrisgroup.com
+VID 01KCTCS_INST:Bluegrass
+SCOPE Bluegrass_Lib
 
 ID OCLC-KEC
 NAME Elizabethtown Community and Technical College
 LOCATION Elizabethtown
 STATE KY
-CATTYPE primodl-scope
-BASEURL https://kentucky-primoprod.hosted.exlibrisgroup.com
-VID Elizabethtown
-LCODE ELIZABETHTOWN
-SCOPE ELIZABETHTOWN_TAB
+CATTYPE primo-ve
+BASEURL https://kctcs.primo.exlibrisgroup.com
+VID 01KCTCS_INST:Elizabethtown
+SCOPE Elizabethtown_Lib
 
 ID OCLC-APK
 NAME Fort Campbell, Sink Library
@@ -4874,51 +4869,46 @@ ID OCLC-GCATC
 NAME Gateway Community and Technical College
 LOCATION Florence
 STATE KY
-CATTYPE primodl-scope
-BASEURL https://kentucky-primoprod.hosted.exlibrisgroup.com
-VID Gateway
-LCODE GATEWAY
-SCOPE GATEWAY_TAB
+CATTYPE primo-ve
+BASEURL https://kctcs.primo.exlibrisgroup.com
+VID 01KCTCS_INST:Gateway
+SCOPE Gateway_Lib
 
 ID OCLC-KFJ
 NAME Hazard Community and Technical College
 LOCATION Hazard and Jackson
 STATE KY
-CATTYPE primodl-scope
-BASEURL https://kentucky-primoprod.hosted.exlibrisgroup.com
-VID Hazard
-LCODE HAZARD
-SCOPE HAZARD_TAB
+CATTYPE primo-ve
+BASEURL https://kctcs.primo.exlibrisgroup.com
+VID 01KCTCS_INST:Hazard
+SCOPE Hazard_Lib
 
 ID OCLC-KUH
 NAME Henderson Community College
 LOCATION Henderson
 STATE KY
-CATTYPE primodl-scope
-BASEURL https://kentucky-primoprod.hosted.exlibrisgroup.com
-VID Henderson
-LCODE HENDERSON
-SCOPE HENDERSON_TAB
+CATTYPE primo-ve
+BASEURL https://kctcs.primo.exlibrisgroup.com
+VID 01KCTCS_INST:Henderson
+SCOPE Henderson_Lib
 
 ID OCLC-KHH
 NAME Hopkinsville Community College
 LOCATION Hopkinsville
 STATE KY
-CATTYPE primodl-scope
-BASEURL https://kentucky-primoprod.hosted.exlibrisgroup.com
-VID Hopkinsville
-LCODE HOPKINSVILLE
-SCOPE HOPKINSVILLE_TAB
+CATTYPE primo-ve
+BASEURL https://kctcs.primo.exlibrisgroup.com
+VID 01KCTCS_INST:Hopkinsville
+SCOPE Hopkinsville_Lib
 
 ID OCLC-KJC
 NAME Jefferson Community and Technical College
 LOCATION Louisville
 STATE KY
-CATTYPE primodl-scope
-BASEURL https://kentucky-primoprod.hosted.exlibrisgroup.com
-VID Jefferson
-LCODE JEFFERSON
-SCOPE JEFFERSON_TAB
+CATTYPE primo-ve
+BASEURL https://kctcs.primo.exlibrisgroup.com
+VID 01KCTCS_INST:Jefferson
+SCOPE Jefferson_Lib
 
 ID OCLC-KCE
 NAME Kenton County Public Library
@@ -4926,13 +4916,6 @@ LOCATION Kenton County
 STATE KY
 BASEURL http://catalog.kentonlibrary.org/eg/opac
 CATTYPE evergreen-dynamic
-
-ID OCLC-KTB
-NAME Kentucky Community and Technical College System
-LOCATION 16 colleges across the state
-STATE KY
-CATTYPE voyager-vwebv
-BASEURL http://opac.kctcs.edu/vwebv/search
 
 ID OCLC-KYL
 NAME Lexington Public Library
@@ -4953,21 +4936,19 @@ ID OCLC-KYM
 NAME Madisonville Community College
 LOCATION Madisonville
 STATE KY
-CATTYPE primodl-scope
-BASEURL https://kentucky-primoprod.hosted.exlibrisgroup.com
-VID Madisonville
-LCODE MADISONVILLE
-SCOPE MADISONVILLE_TAB
+CATTYPE primo-ve
+BASEURL https://kctcs.primo.exlibrisgroup.com
+VID 01KCTCS_INST:Madisonville
+SCOPE Madisonville_Lib
 
 ID OCLC-KUY
 NAME Maysville Community and Technical College
 LOCATION Maysville
 STATE KY
-CATTYPE primodl-scope
-BASEURL https://kentucky-primoprod.hosted.exlibrisgroup.com
-VID Maysville
-LCODE MAYSVILLE
-SCOPE MAYSVILLE_TAB
+CATTYPE primo-ve
+BASEURL https://kctcs.primo.exlibrisgroup.com
+VID 01KCTCS_INST:Maysville
+SCOPE Maysville_Lib
 
 ID OCLC-KMS
 NAME Murray State University
@@ -4983,11 +4964,10 @@ ID OCLC-KOW
 NAME Owensboro Community and Technical College
 LOCATION Owensboro
 STATE KY
-CATTYPE primodl-scope
-BASEURL https://kentucky-primoprod.hosted.exlibrisgroup.com
-VID Owensboro
-LCODE OWENSBORO
-SCOPE OWENSBORO_TAB
+CATTYPE primo-ve
+BASEURL https://kctcs.primo.exlibrisgroup.com
+VID 01KCTCS_INST:Owensboro
+SCOPE Owensboro_Lib
 
 ID OCLC-KHN
 NAME Northern Kentucky University
@@ -5000,38 +4980,36 @@ ID OCLC-KN4
 NAME Rowan County Public Library
 LOCATION Morehead
 STATE KY
-CATTYPE ls2pac
-BASEURL http://rowan.tlcdelivers.com:8080/
+CATTYPE atriuum
+BASEURL https://rowancountylibrary.booksys.net/opac/rcpl/index.html?mode=main#search:
+FILTERS N
 
 ID OCLC-KTC
 NAME Somerset Community College
 LOCATION Somerset
 STATE KY
-CATTYPE primodl-scope
-BASEURL https://kentucky-primoprod.hosted.exlibrisgroup.com
-VID Somerset
-LCODE SOMERSET
-SCOPE SOMERSET_TAB
+CATTYPE primo-ve
+BASEURL https://kctcs.primo.exlibrisgroup.com
+VID 01KCTCS_INST:Somerset
+SCOPE Somerset_Lib
 
 ID OCLC-K@B
 NAME Southcentral Kentucky Community and Technical College
 LOCATION Bowling Green, Glasgow, and Franklin
 STATE KY
-CATTYPE primodl-scope
-BASEURL https://kentucky-primoprod.hosted.exlibrisgroup.com
-VID SouthcentralKY
-LCODE SOUTHCENTRALKY
-SCOPE SOUTHCENTRALKY_TAB
+CATTYPE primo-ve
+BASEURL https://kctcs.primo.exlibrisgroup.com
+VID 01KCTCS_INST:SouthcentralKY
+SCOPE SouthcentralKY_Lib
 
 ID OCLC-KUS
 NAME Southeast Kentucky Community and Technical College
 LOCATION Cumberland and other campuses
 STATE KY
-CATTYPE primodl-scope
-BASEURL https://kentucky-primoprod.hosted.exlibrisgroup.com
-VID SoutheastKY
-LCODE SOUTHEASTKY
-SCOPE SOUTHEASTKY_TAB
+CATTYPE primo-ve
+BASEURL https://kctcs.primo.exlibrisgroup.com
+VID 01KCTCS_INST:SoutheastKY
+SCOPE SoutheastKY_Lib
 
 ID OCLC-KTS
 NAME Southern Baptist Theological Seminary
@@ -5061,11 +5039,10 @@ ID OCLC-KPC
 NAME West Kentucky Community and Technical College
 LOCATION Paducah
 STATE KY
-CATTYPE primodl-scope
-BASEURL https://kentucky-primoprod.hosted.exlibrisgroup.com
-VID WestKY
-LCODE WESTKY
-SCOPE WESTKY_TAB
+CATTYPE primo-ve
+BASEURL https://kctcs.primo.exlibrisgroup.com
+VID 01KCTCS_INST:WestKY
+SCOPE WestKY_Lib
 
 ID OCLC-9KN
 NAME Western Kentucky University
