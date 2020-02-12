@@ -6139,6 +6139,14 @@ STATE NE
 BASEURL http://encore.unl.edu/iii/encore
 CATTYPE encore
 
+ID OCLC-NVX
+NAME Carson City Library
+LOCATION Carson City
+STATE NV
+CATTYPE polaris-context
+BASEURL http://nvlibrarycoop.polarislibrary.com/polaris
+CONTEXT 29.1033.0.0.1
+
 ID OCLC-NVA
 NAME College of Southern Nevada
 LOCATION Las Vegas and vicinity
@@ -6152,6 +6160,13 @@ LOCATION Las Vegas and vicinity
 STATE NV
 BASEURL http://ilsweb.lvccld.org
 CATTYPE innopac
+
+ID OCLC-CLAND
+NAME Nevada Library Cooperative
+LOCATION Public libraries outside Nevada's largest urban areas
+STATE NV
+CATTYPE polaris
+BASEURL http://nvlibrarycoop.polarislibrary.com/polaris
 
 ID OLB-WASHOE
 NAME Washoe County Library System
@@ -6798,8 +6813,8 @@ ID OCLC-BEN
 NAME Bennett College
 LOCATION Greensboro
 STATE NC
-BASEURL https://bennett.worldcat.org/search
-CATTYPE worldcat
+CATTYPE worldcat-config
+BASEURL https://bennett.on.worldcat.org/search?databaseList=&queryString
 
 ID OCLC-NPC
 NAME Charlotte Mecklenburg Library
@@ -6834,15 +6849,15 @@ ID OCLC-NPE
 NAME Elizabeth City State University
 LOCATION Elizabeth City
 STATE NC
-BASEURL http://abbott.lib.ecu.edu/uhtbin/cgisirsi/
-CATTYPE sirsi
+CATTYPE summon
+BASEURL https://ecsu.summon.serialssolutions.com
 
 ID OCLC-NFS
 NAME Fayetteville State University
 LOCATION Fayetteville
 STATE NC
-BASEURL https://uncfsu.worldcat.org/search
-CATTYPE worldcat
+CATTYPE worldcat-config
+BASEURL https://uncfsu.on.worldcat.org/external-search?queryString
 
 ID OCLC-UZZ
 NAME Forsyth County Public Library
@@ -7190,12 +7205,12 @@ CATTYPE innopac
 BASEURL http://xplore.xavier.edu
 
 ID OCLC-CKL
-NAME Chickasaw Regional Public Library System
+NAME Southern Oklahoma Library System
 LOCATION 5 counties in southern Oklahoma
 STATE OK
-CATTYPE ls2pac
-BASEURL http://pac.crlsok.org:8080
-FILTERS SNK
+CATTYPE sirsient
+LCODE en_US/default
+BASEURL https://soklahomals.ent.sirsi.net
 
 ID OCLC-OEA
 NAME Eastern Oklahoma District Library System
@@ -7305,8 +7320,8 @@ NAME Western Plains Library System
 LOCATION Custer, Dewey, Roger Mills and Washita counties
 STATE OK
 CATTYPE ls2pac-config
-CONFIG ysm
-BASEURL http://pac.wplibs.com:8000/
+CONFIG FIND
+BASEURL https://wpls.tlcdelivers.com/
 
 ID OCLC-ABY
 NAME Albany Public Library
@@ -7342,7 +7357,7 @@ LOCATION Public libraries in Marion, Polk, and Yamhill Counties
 STATE OR
 CATTYPE sirsient
 BASEURL https://catalog.ccrls.org
-LCODE en_US/default
+LCODE en_US/ccrls
 
 ID OCLC-CVA
 NAME Corvallis-Benton County Public Library
