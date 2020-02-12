@@ -5113,8 +5113,9 @@ ID OCLC-LA8
 NAME Shreve Memorial Library
 LOCATION Shreveport and Caddo Parish
 STATE LA
-BASEURL http://unicorn.shreve-lib.org/uhtbin/cgisirsi
-CATTYPE sirsi
+CATTYPE sirsient
+BASEURL https://srve.ent.sirsi.net
+LCODE en_US/default
 
 ID OCLC-RQH
 NAME Tulane University
@@ -5130,9 +5131,9 @@ ID OCLC-WFPLA
 NAME West Feliciana Parish Library
 LOCATION St. Francisville
 STATE LA
-CATTYPE ls2pac
-BASEURL http://catalog.wfplibrary.org:8080/
-FILTERS S
+CATTYPE atriuum
+BASEURL https://wfplibraryla.booksys.net/opac/wfpl/index.html#search:
+FILTERS N
 
 ID OCLC-LNU
 NAME University of New Orleans, Long Library
@@ -5315,8 +5316,9 @@ ID OCLC-MUB
 NAME University of Maryland Baltimore County
 LOCATION Baltimore
 STATE MD
-BASEURL https://umbc.worldcat.org/search
-CATTYPE worldcat
+CATTYPE eds
+LCODE baltcnty
+PROFILE media2
 
 ID OCLC-UMC
 NAME University of Maryland Libraries
@@ -5388,9 +5390,8 @@ ID OCLC-CIB
 NAME CLAMS: Cape Libraries Automated Materials Sharing
 LOCATION Public libraries on Cape Cod
 STATE MA
-BASEURL http://library.clamsnet.org/
-CATTYPE iii-consortium-member
-LCODE 1
+BASEURL https://encore.clamsnet.org/iii/encore
+CATTYPE encore
 
 ID OCLC-HCD
 NAME College of the Holy Cross
@@ -5530,8 +5531,8 @@ ID OCLC-ULN
 NAME University of Massachusetts Lowell
 LOCATION Lowell
 STATE MA
-BASEURL https://uml.worldcat.org/search
-CATTYPE worldcat
+BASEURL https://uml.on.worldcat.org/external-search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-WEL
 NAME Wellesley College
@@ -5833,8 +5834,9 @@ ID OCLC-H3R
 NAME Harrison County Library System
 LOCATION Gulfport, Biloxi, and vicinity
 STATE MS
-CATTYPE verso
-BASEURL http://hclib-verso.auto-graphics.com
+CATTYPE verso6
+LCODE hcols
+BASEURL https://hcols.agverso.com
 
 ID OCLC-MJP
 NAME Jackson-Hinds Library System
@@ -5855,17 +5857,17 @@ ID OCLC-MPC
 NAME Mississippi Library Commission
 LOCATION Jackson
 STATE MS
-CATTYPE verso
-BASEURL http://mlco-verso.auto-graphics.com
-CID mlco
+CATTYPE verso6
 LCODE mlco
+BASEURL https://mlco.agverso.com
 
 ID OCLC-MFM
 NAME Mississippi State University
 LOCATION Starkville, Meridian, and Jackson
 STATE MS
-CATTYPE eds
-LCODE magn1307
+CATTYPE sirsient
+LCODE en_US/msstate
+BASEURL https://mlp.ent.sirsi.net
 
 ID OCLC-TGC
 NAME Tougaloo College
@@ -6004,18 +6006,13 @@ BASEURL https://coolcat.org/
 CATTYPE iii-consortium-member
 LCODE 1
 
-# uses "Listen 2000" library catalog; can't find anyone else using it
-# also appears not to have general keyword search; will use subject keyword
 ID OCLC-ZAC
 NAME St. Charles City-County Library District
 LOCATION St. Charles County
 STATE MO
-BASEURL http://catalog.youranswerplace.org
-SUBURL ${BASEURL}/SearchResultsAuthor.aspx?QS1=2&QS3=1&QS4=2&QS5=0&QS6=99&QS7=0&QS8=9999&QS9=0&QS10=99&QS2=${ARG}
-AUTURL ${BASEURL}/SearchResultsAuthor.aspx?QS1=1&QS3=1&QS4=2&QS5=0&QS6=99&QS7=0&QS8=9999&QS9=0&QS10=99&QS2=${ARG}
-TITURL ${BASEURL}/SearchResultsAuthor.aspx?QS1=3&QS3=1&QS4=2&QS5=0&QS6=99&QS7=0&QS8=9999&QS9=0&QS10=99&QS2=${ARG}
-ATIURL ${BASEURL}/SearchResultsTitleListing.aspx?QS1=4&QS3=1&QS4=2&QS5=0&QS6=99&QS7=0&QS8=9999&QS9=0&QS10=99&QS13=1&QS2=${AUTHOR}&QS0=${TITLE:A}
-KEYURL ${BASEURL}/SearchResultsAuthor.aspx?QS1=5&QS3=1&QS4=2&QS5=0&QS6=99&QS7=0&QS8=9999&QS9=0&QS10=99&QS2=${ARG}
+CATTYPE polaris-context
+BASEURL https://mylibrary.polarislibrary.com/polaris
+CONTEXT 1.1033.0.0.4
 
 ID OCLC-ZAE
 NAME St. Louis County Library
@@ -6175,8 +6172,8 @@ ID OCLC-DRB
 NAME Dartmouth College
 LOCATION Hanover
 STATE NH
-BASEURL http://library.dartmouth.edu
-KEYURL ${BASEURL}/search/index.php?q=${ARG}
+CATTYPE primo-justquery
+BASEURL https://search.library.dartmouth.edu/discovery/search?search_scope=MyInst_and_CI&vid=01DCL_INST:01DCL&
 
 ID OCLC-HB2
 NAME Lebanon Public Libraries
@@ -6316,11 +6313,13 @@ STATE NJ
 KEYURL http://library.princeton.edu/find/all/${ARG}
 
 ID OCLC-NJS
-NAME Richard Stockton College of New Jersey
-LOCATION Galloway
+NAME Stockton University
+LOCATION Galloway and other locations
 STATE NJ
-CATTYPE summon
-BASEURL http://stockton.summon.serialssolutions.com
+CATTYPE primo-ve
+BASEURL https://stockton.primo.exlibrisgroup.com
+VID 01SUN_INST:STOCKTON
+SCOPE NewDN_and_CI
 
 ID OCLC-NJG
 NAME Rowan University
@@ -6340,8 +6339,8 @@ ID OCLC-STH
 NAME Seton Hall University
 LOCATION South Orange
 STATE NJ
-BASEURL https://setonhall.worldcat.org/search
-CATTYPE worldcat
+CATTYPE worldcat-config
+BASEURL https://setonhall.on.worldcat.org/search?clusterResults=off&queryString
 
 ID OCLC-SOM
 NAME Somerset County Library System
@@ -6355,8 +6354,10 @@ ID OCLC-NJT
 NAME The College of New Jersey
 LOCATION Ewing
 STATE NJ
-CATTYPE voyager-vwebv
-BASEURL http://libcat.tcnj.edu:7009/vwebv/search
+CATTYPE primo-ve
+BASEURL https://tcnj.primo.exlibrisgroup.com
+VID 01COLLNJ_INST:TCNJ
+SCOPE MyInst_and_CI_and_Ebsco
 
 ID OCLC-NJP
 NAME William Paterson University, Cheng Library
@@ -6376,8 +6377,10 @@ ID OCLC-ZP7
 NAME Rio Rancho Public Libraries
 LOCATION Rio Rancho
 STATE NM
-BASEURL http://discover.ci.rio-rancho.nm.us/iii/encore
-CATTYPE encore
+#BASEURL http://discover.ci.rio-rancho.nm.us/iii/encore
+#CATTYPE encore
+BASEURL https://riopl.ci.rio-rancho.nm.us
+CATTYPE webpacpro
 
 ID OCLC-LAN
 NAME Los Alamos Public Library System
@@ -6391,8 +6394,10 @@ ID OCLC-IRU
 NAME New Mexico State University
 LOCATION Las Cruces and other campuses
 STATE NM
-CATTYPE voyager-vwebv
-BASEURL http://libcat.nmsu.edu/vwebv/search
+CATTYPE primo-ve
+BASEURL https://nmsu.primo.exlibrisgroup.com
+VID 01NEWMEX_INST:NMSU_LC
+SCOPE MyInst_and_CI
 
 ID OCLC-SFP
 NAME Santa Fe Public Library
@@ -6420,11 +6425,10 @@ ID OCLC-BNG
 NAME Binghamton University
 LOCATION Binghamton
 STATE NY
-BASEURL http://bingprimo.hosted.exlibrisgroup.com
-CATTYPE primodl-loc
-VID BING
-LCODE BING
-LOC adaptor,scope:(bing_aleph),scope:(bing_eternity),primo_central_multiple_fe
+CATTYPE primo-ve
+BASEURL https://suny-bin.primo.exlibrisgroup.com
+VID 01SUNY_BIN:01SUNY_BIN
+SCOPE MyInst_and_CI
 
 ID OCLC-BKL
 NAME Brooklyn Public Library
@@ -6451,8 +6455,9 @@ ID OCLC-VHB
 NAME Buffalo and Erie County Public Library
 LOCATION Buffalo
 STATE NY
-CATTYPE vufind
-BASEURL http://www.buffalolib.org/vufind
+CATTYPE sirsient
+BASEURL https://bepl.ent.sirsi.net
+LCODE en_US/default
 
 ID OCLC-ZCU
 NAME Columbia University Libraries
@@ -6470,12 +6475,12 @@ STATE NY
 BASEURL https://connectny.info
 CATTYPE innopac
 
+# Cornell now has a bento; keyword-only search tends to work best for those
 ID OCLC-COO
 NAME Cornell University Library
 LOCATION Ithaca
 STATE NY
-BASEURL https://cornell.worldcat.org/search
-CATTYPE worldcat
+KEYURL https://newcatalog.library.cornell.edu/search?q=${ARG}
 
 ID OCLC-ZCY
 NAME City University of New York (CUNY)
@@ -6505,7 +6510,7 @@ ID OCLC-VYF
 NAME Fordham University
 LOCATION New York
 STATE NY
-BASEURL http://catalog.library.fordham.edu/uhtbin/cgisirsi
+BASEURL https://catalog.library.fordham.edu/uhtbin/cgisirsi
 CATTYPE sirsi
 
 ID OCLC-VXV
@@ -6673,7 +6678,7 @@ NAME Southern Tier Library System
 LOCATION Allegany, Chemung, Schuyler, Steuben and Yates Counties
 STATE NY
 CATTYPE sirsient
-BASEURL http://enterprise.stls.org
+BASEURL https://starcat.stls.org
 LCODE en_US/default
 
 ID OCLC-VZF
@@ -6714,11 +6719,10 @@ ID OCLC-YOM
 NAME SUNY Oswego, Penfield Library
 LOCATION Oswego
 STATE NY
-CATTYPE alephcuny
-BASEURL https://osw.sunyconnect.suny.edu:4479
-SINDEX FIND_WSU
-TINDEX WTI
-FILTERS NK
+CATTYPE primo-ve
+BASEURL https://suny-osw.primo.exlibrisgroup.com
+VID 01SUNY_OSW:01SUNY_OSW
+SCOPE MyInst_and_CI
 
 ID OCLC-SYB
 NAME Syracuse University Libraries
@@ -6746,16 +6750,19 @@ ID OCLC-NAM
 NAME University at Albany, SUNY
 LOCATION Albany
 STATE NY
-CATTYPE aleph1
-BASEURL https://libms1.albany.edu
-TINDEX WTI
+CATTYPE primo-ve
+BASEURL https://search.library.albany.edu
+VID 01SUNY_ALB:01SUNY_ALB
+SCOPE MyInst_and_CI
 
 ID OCLC-BUF
 NAME University at Buffalo, SUNY
 LOCATION Buffalo
 STATE NY
-CATTYPE vufindgeneral
-BASEURL http://catalog.lib.buffalo.edu/vufind/Resource/Results
+CATTYPE primo-ve
+BASEURL https://search.lib.buffalo.edu
+VID 01SUNY_BUF:everything
+SCOPE UBSUNY
 
 ID OCLC-RRR
 NAME University of Rochester, River Campus Libraries
@@ -6768,8 +6775,8 @@ ID OCLC-VVW
 NAME Westchester Library System
 LOCATION Public libraries in Westchester County
 STATE NY
-CATTYPE sirsient
-BASEURL https://www.westlibs.org
+CATTYPE evergreen-dynamic
+BASEURL https://catalog.westchesterlibraries.org/eg/opac
 
 ID OCLC-0YY
 NAME Yeshiva University Libraries
