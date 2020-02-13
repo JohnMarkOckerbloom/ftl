@@ -5836,6 +5836,7 @@ LOCATION Gulfport, Biloxi, and vicinity
 STATE MS
 CATTYPE verso6
 LCODE hcols
+CID hcols
 BASEURL https://hcols.agverso.com
 
 ID OCLC-MJP
@@ -5859,6 +5860,7 @@ LOCATION Jackson
 STATE MS
 CATTYPE verso6
 LCODE mlco
+CID mlco
 BASEURL https://mlco.agverso.com
 
 ID OCLC-MFM
@@ -6392,8 +6394,6 @@ ID OCLC-ZP7
 NAME Rio Rancho Public Libraries
 LOCATION Rio Rancho
 STATE NM
-#BASEURL http://discover.ci.rio-rancho.nm.us/iii/encore
-#CATTYPE encore
 BASEURL https://riopl.ci.rio-rancho.nm.us
 CATTYPE webpacpro
 
@@ -7506,11 +7506,13 @@ VID WU
 SCOPE WU_Libraries_Summit
 
 ID OCLC-PGA
-NAME ACCESS Pennsylvania
+NAME Access Pennsylvania
 LOCATION Libraries across the state
 STATE PA
-CATTYPE verso
-BASEURL https://accesspa.powerlibrary.org
+CATTYPE verso6
+LCODE accesspa
+CID accesspa
+BASEURL https://accesspa.agshareit.com
 
 ID OCLC-BEA
 NAME Arcadia University, Landman Library
@@ -7543,11 +7545,20 @@ VID 01TRI_INST:BMC
 SCOPE BMC_All
 
 ID OCLC-DPB
-NAME Bucks County Library System
+NAME Bucks County Library District
 LOCATION Public libraries in Bucks County
 STATE PA
-BASEURL http://unicorn.buckslib.org/uhtbin/cgisirsi
+BASEURL https://bcfl.sirsi.net/uhtbin/cgisirsi
 CATTYPE sirsi
+
+# Change Cranberry when you change this.
+ID OCLC-BCFLS
+NAME Butler County Federated Library System
+LOCATION 10 public libraries in Butler County
+STATE PA
+BASEURL https://bcfls.tlcdelivers.com/
+CATTYPE ls2pac
+FILTERS S
 
 ID OCLC-JOC
 NAME Cambria County Library
@@ -7587,13 +7598,15 @@ STATE PA
 CATTYPE summon
 BASEURL https://ccp.summon.serialssolutions.com
 
+# This is the same as Butler County FLS at this point, but keeping
+#  at least for now for back-compatibility.  Change this when you change that.
 ID OCLC-PACPL
 NAME Cranberry Public Library
 LOCATION Cranberry Township, Butler County
 STATE PA
-CATTYPE ls2pac-config
-CONFIG Cranberry
-BASEURL http://opac.bcfls.org/
+BASEURL https://bcfls.tlcdelivers.com/
+CATTYPE ls2pac
+FILTERS S
 
 ID OCLC-L@L
 NAME Cumberland County Library System
@@ -7743,8 +7756,9 @@ ID OCLC-CMZ
 NAME Misericordia University
 LOCATION Dallas
 STATE PA
-BASEURL http://comi.sirsi.net/uhtbin/cgisirsi
-CATTYPE sirsi
+CATTYPE sirsient
+BASEURL https://comi.ent.sirsi.net
+LCODE en_US/default
 
 ID OCLC-EVI
 NAME Muhlenberg College, Trexler Library
@@ -7777,13 +7791,6 @@ STATE PA
 BASEURL http://library.pecoinfo.org
 CATTYPE koha
 
-ID OCLC-PAFSS
-NAME Friends Select School Library
-LOCATION Philadelphia
-STATE PA
-BASEURL http://fss.goalexandria.com/search#?
-CATTYPE alexandria
-
 ID OCLC-LYU
 NAME Lehigh University
 LOCATION Bethlehem
@@ -7804,10 +7811,8 @@ ID OCLC-ROB
 NAME Robert Morris University
 LOCATION Moon Township
 STATE PA
-CATTYPE eds
-LCODE s5508322
-GID main
-PROFILE eds
+BASEURL https://robertmorrisuniversity.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-PSC
 NAME Swarthmore College
@@ -8052,12 +8057,15 @@ CATTYPE atriuum
 BASEURL https://rawlinslibrarysd.booksys.net/opac/rawl/index.html#search:
 FILTERS N
 
+# https://sdsl.agshareit.com/home?cid=sdsl&lid=sdsil
 ID OCLC-SDSDL
-NAME South Dakota Library Network
+NAME South Dakota Share-It
 LOCATION Various libraries throughout the state
 STATE SD
-CATTYPE aleph1
-BASEURL http://argos.sdln.net
+CATTYPE verso6
+LCODE sdsil
+CID sdsl
+BASEURL https://sdsl.agshareit.com
 
 ID OCLC-SDB
 NAME South Dakota State University
@@ -8126,8 +8134,10 @@ ID OCLC-TNHRD
 NAME Hardin County Public Library
 LOCATION Savannah
 STATE TN
-CATTYPE verso
-BASEURL http://tenv-verso.auto-graphics.com
+CATTYPE verso6
+BASEURL http://tenv.agverso.com
+CID tenv
+LCODE hardin
 
 ID OCLC-TKL
 NAME Knox County Public Library
@@ -8145,7 +8155,7 @@ CATTYPE summon
 BASEURL http://loc.summon.serialssolutions.com
 
 ID OCLC-TNLPL
-NAME Linebaugh Public Library System
+NAME Rutherford County Library System
 LOCATION Murfreesboro and vicinity
 STATE TN
 BASEURL http://72.243.210.108/uhtbin/cgisirsi
@@ -8187,8 +8197,8 @@ ID OCLC-TWS
 NAME Rhodes College
 LOCATION Memphis
 STATE TN
-CATTYPE worldcat
-BASEURL https://rhodescollege.worldcat.org/search
+CATTYPE worldcat-config
+BASEURL https://rhodescollege.on.worldcat.org/search?queryString
 
 ID OCLC-BLUEG
 NAME Tennessee State Library and Archives
@@ -8216,18 +8226,17 @@ ID OCLC-TMA
 NAME University of Memphis
 LOCATION Memphis
 STATE TN
-CATTYPE encore
-BASEURL http://catalogquicksearch.memphis.edu/iii/encore
+CATTYPE eds
+LCODE s3652670
 
 ID OCLC-TKN
 NAME University of Tennessee
 LOCATION Knoxville
 STATE TN
-CATTYPE primodl-scope
-BASEURL http://utk-almaprimo.hosted.exlibrisgroup.com
-VID 01UTK
-LCODE 01UTK
-SCOPE OneSearch
+CATTYPE primo-ve
+BASEURL https://utk.primo.exlibrisgroup.com
+VID 01UTN_KNOXVILLE:01UTK
+SCOPE MyInst_and_CI
 
 ID OCLC-TUC
 NAME University of Tennessee Chattanooga
@@ -8269,9 +8278,8 @@ ID OCLC-IAU
 NAME Austin College, Abell Library Center
 LOCATION Sherman
 STATE TX
-CATTYPE eds
-LCODE s9008783
-DEFAULT http://aclibrary.austincollege.edu/home
+CATTYPE worldcat-config
+BASEURL https://austincollege.on.worldcat.org/search?queryString
 
 ID OCLC-TXG
 NAME Austin Public Library
@@ -8284,8 +8292,10 @@ ID OCLC-IYU
 NAME Baylor University
 LOCATION Waco
 STATE TX
-CATTYPE summon
-BASEURL http://baylor.summon.serialssolutions.com
+CATTYPE primo-ve
+BASEURL https://baylor.primo.exlibrisgroup.com
+VID 01BUL_INST:BAYLOR
+SCOPE MyInst_and_CI
 
 ID OCLC-TXLAP
 NAME Belton Lena Armstrong Public Library
@@ -8479,8 +8489,8 @@ ID OCLC-PQC
 NAME Paul Quinn College, Zale Library
 LOCATION Dallas
 STATE TX
-BASEURL http://voyager.pqc.edu/cgi-bin/Pwebrecon.cgi
-CATTYPE voyager
+CATTYPE voyager-vwebv
+BASEURL http://voyager.pqc.edu/vwebv/search
 
 ID OCLC-PLS
 NAME Plano Public Library System
@@ -8500,8 +8510,10 @@ ID OCLC-RCE
 NAME Rice University
 LOCATION Houston
 STATE TX
-BASEURL http://alexandria.rice.edu/uhtbin/cgisirsi
-CATTYPE sirsi
+CATTYPE primo-ve
+BASEURL https://onesearch.library.rice.edu
+VID 01RICE_INST:RICE
+SCOPE MyInst_and_CI
 
 ID OCLC-QT4
 NAME Round Rock Public Library
@@ -8617,8 +8629,10 @@ ID OCLC-TXH
 NAME University of Houston Libraries
 LOCATION Houston, and other campuses
 STATE TX
-CATTYPE summon
-BASEURL http://uh.summon.serialssolutions.com
+CATTYPE primo-ve
+BASEURL https://uh.primo.exlibrisgroup.com
+VID 01UHO_INST:UHMAIN
+SCOPE UHMAIN_Everything
 
 ID OCLC-INT
 NAME University of North Texas
@@ -8638,8 +8652,10 @@ ID OCLC-TMB
 NAME University of Texas Medical Branch
 LOCATION Galveston
 STATE TX
-CATTYPE summon
-BASEURL http://utmblibrary.summon.serialssolutions.com
+CATTYPE primo-ve
+BASEURL https://thslc-utxmed.primo.exlibrisgroup.com
+VID 01TEXASHEALTH_UTXMED:UTMB_INST
+SCOPE MyInst_and_CI
 
 ID OCLC-TXW
 NAME Waco-McClennan County Library
@@ -8672,7 +8688,7 @@ ID OCLC-UUP
 NAME The City Library
 LOCATION Salt Lake City
 STATE UT
-BASEURL http://catalog.slcpl.org
+BASEURL https://catalog.slcpl.org
 CATTYPE polaris
 
 ID OCLC-UTD
@@ -8790,25 +8806,24 @@ ID OCLC-8AX
 NAME Fairfax County Public Library
 LOCATION Fairfax County
 STATE VA
-BASEURL http://fcplcat.fairfaxcounty.gov/uhtbin/cgisirsi
-CATTYPE sirsi
+BASEURL https://fcplcat.fairfaxcounty.gov
+CATTYPE polaris
 
 ID OCLC-VGM
 NAME George Mason University
 LOCATION Fairfax and other campuses
 STATE VA
-CATTYPE primodl-loc
-BASEURL http://gml-primo.hosted.exlibrisgroup.com
-VID GMU
-LCODE GMU
-LOC adaptor,scope:(GMU_LUNA),scope:("GMU"),scope:(GMU_MARS),scope:(GMU_VOYAGER),primo_central_multiple_fe
+CATTYPE primo-ve
+BASEURL https://wrlc-gm.primo.exlibrisgroup.com
+VID 01WRLC_GML:01WRLC_GML
+SCOPE MyInst_and_CI
 
 ID OCLC-VHI
 NAME Hampton University, Harvey Library
 LOCATION Hampton
 STATE VA
-BASEURL http://huwebcat.hamptonu.edu/uhtbin/cgisirsi
-CATTYPE sirsi
+CATTYPE summon
+BASEURL http://hamptonu.summon.serialssolutions.com
 
 ID OCLC-VHC
 NAME Hollins University
@@ -8851,8 +8866,9 @@ ID OCLC-TWE
 NAME Norfolk Public Library
 LOCATION Norfolk
 STATE VA
-BASEURL http://catalog.norfolk.gov/uhtbin/cgisirsi.exe
-CATTYPE sirsi
+CATTYPE sirsient
+LCODE en_US/default
+BASEURL https://nfpl.ent.sirsi.net
 
 ID OCLC-VNS
 NAME Norfolk State University, Lyman Beecher Brooks Library
@@ -8989,8 +9005,8 @@ ID OCLC-MDY
 NAME Middlebury College
 LOCATION Middlebury
 STATE VT
-CATTYPE summon
-BASEURL http://middlebury.summon.serialssolutions.com
+CATTYPE eds
+LCODE s8864408
 
 ID OCLC-RUT
 NAME Rutland Free Library
@@ -9072,8 +9088,10 @@ ID OCLC-EV4
 NAME Everett Community College
 LOCATION Everett
 STATE WA
-CATTYPE primo-justquery
-BASEURL https://everett-primo.hosted.exlibrisgroup.com/primo-explore/search?search_scope=EVERYTHING&vid=EVERETT&
+CATTYPE primo-ve
+BASEURL https://sbctc-everettcc.primo.exlibrisgroup.com
+VID 01STATEWA_EVERETT:EVERETT
+SCOPE MyInstitution
 
 ID OCLC-ESR
 NAME Evergreen State College
@@ -9144,10 +9162,10 @@ ID OCLC-LZS
 NAME Libraries of Stevens County
 LOCATION Stevens County
 STATE WA
-CATTYPE tlc
-LCODE ysm
-BRANCH 0
-BASEURL http://66.96.65.71/
+BASEURL http://catalog.thelosc.org:8080/
+CATTYPE ls2pac-config
+CONFIG default
+FILTERS S
 
 ID OCLC-AA5
 NAME Mount Vernon City Library
@@ -9169,15 +9187,17 @@ ID OCLC-Z84
 NAME Olympic College
 LOCATION Bremerton
 STATE WA
-CATTYPE primo-justquery
-BASEURL https://olympic-primo.hosted.exlibrisgroup.com/primo-explore/search?search_scope=EVERYTHING&vid=OLYMPIC&
+CATTYPE primo-ve
+BASEURL https://sbctc-olympic.primo.exlibrisgroup.com
+VID 01STATEWA_OLYMPIC:OLYMPIC
+SCOPE MyInst_and_CI
 
 ID OCLC-OPV
 NAME Pacific Lutheran University
 LOCATION Tacoma
 STATE WA
-BASEURL https://plu.worldcat.org/search
-CATTYPE worldcat
+BASEURL https://plu.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-RLS
 NAME Pierce County Library System
@@ -9271,10 +9291,10 @@ ID OCLC-WC3
 NAME Whatcom Community College
 LOCATION Bellingham
 STATE WA
-CATTYPE primodl-scope
-BASEURL https://whatcom-primo.hosted.exlibrisgroup.com
-VID WHATCOM
-SCOPE EVERYTHING
+CATTYPE primo-ve
+BASEURL https://sbctc-whatcomctc.primo.exlibrisgroup.com
+VID 01STATEWA_WHATCC:WHATCOM&
+SCOPE MyInst_and_CI
 
 ID OCLC-YVR
 NAME Yakima Valley Libraries
@@ -9337,8 +9357,8 @@ ID OCLC-WVS
 NAME Scarborough Library, Shepherd University
 LOCATION Shepherdstown
 STATE WV
-CATTYPE voyager-vwebv
-BASEURL http://max.shepherd.edu/vwebv/search
+BASEURL https://shepherd.on.worldcat.org/external-search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-WVQ
 NAME West Virginia Wesleyan College
@@ -9407,8 +9427,8 @@ ID OCLC-0NK
 NAME South Central Library System: LINKcat
 LOCATION Madison and other south-central Wisconsin libraries
 STATE WI
-BASEURL http://www.linkcat.info
-CATTYPE koha
+BASEURL https://www.linkcat.info/app/search/
+CATTYPE koha-app
 
 ID OCLC-GZW
 NAME University of Wisconsin Green Bay: Cofrin Library

@@ -578,7 +578,7 @@ KEYURL ${BASEURL}/mvc/command=search?query=kw=${ARG:SNK}
 
 # Verso 6 has different search syntax; haven't figured out fielding yet
 CATTYPE verso6
-KEYURL ${BASEURL}/sch?lid=${LCODE}&cid=${LCODE}&term=${ARG:SNK}
+KEYURL ${BASEURL}/sch?lid=${LCODE}&cid=${CID}&term=${ARG:SNK}
 
 # viewpoint by Axiell
 CATTYPE viewpoint
