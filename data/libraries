@@ -2136,6 +2136,13 @@ VID UCL_VU1
 LCODE UCL
 SCOPE CSCOP_UCL
 
+ID OCLC-SXB
+NAME University of Birmingham
+LOCATION Birmingham, England
+COUNTRY UK
+CATTYPE primo-justquery
+BASEURL https://birmingham-primo.hosted.exlibrisgroup.com/primo-explore/search?search_scope=CSCOP_44BIR_DEEP&vid=44BIR_VU1&
+
 ID OCLC-U8H
 NAME University of Huddersfield
 LOCATION Huddersfield, Barnsley, and Oldham, England
