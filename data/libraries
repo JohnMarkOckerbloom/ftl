@@ -3962,6 +3962,13 @@ STATE FL
 BASEURL http://usf.catalog.fcla.edu/sf.jsp
 CATTYPE fcla
 
+ID OCLC-FWA
+NAME University of West Florida
+LOCATION Pensacola
+STATE FL
+CATTYPE eds
+LCODE uwfl
+
 ID OCLC-FDB
 NAME Volusia County Public Library
 LOCATION Daytona Beach, Deltona, and vicinity
@@ -3971,6 +3978,14 @@ CATTYPE vubislink
 AINDEX 1*authbibnew
 SINDEX 1*subjbibnew
 FILTERS NK
+
+ID OCLC-FMF
+NAME West Florida Public Libraries
+LOCATION Pensacola and Escambia County
+STATE FL
+CATTYPE ls2pac
+BASEURL http://searchcatalog.mywfpl.com:8080/
+FILTERS S
 
 ID OCLC-ALQ
 NAME Albany State University
