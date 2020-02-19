@@ -4804,6 +4804,14 @@ STATE KS
 BASEURL https://catalog.manhattan.lib.ks.us/polaris
 CATTYPE polaris
 
+# ID is for Pittsburg state university (no consortium ID I could find)
+ID OCLC-KFP
+NAME PSU Library Consortium
+LOCATION Academic and public libraries in the Pittsburg area
+STATE KS
+BASEURL http://encore.pittstate.edu/iii/encore
+CATTYPE encore
+
 ID OCLC-KTP
 NAME Topeka and Shawnee County Public Library
 LOCATION Topeka
