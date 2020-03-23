@@ -4947,6 +4947,14 @@ STATE KY
 BASEURL http://catalog.kentonlibrary.org/eg/opac
 CATTYPE evergreen-dynamic
 
+ID OCLC-KYS
+NAME Kentucky State University
+LOCATION Frankfort
+STATE KY
+BASEURL https://kysu.on.worldcat.org/external-search?queryString
+CATTYPE worldcat-config
+EXCLUDE WKPD
+
 ID OCLC-KYL
 NAME Lexington Public Library
 LOCATION Lexington
@@ -5005,6 +5013,15 @@ LOCATION Highland Heights
 STATE KY
 BASEURL https://northernkentuckyuniversity.on.worldcat.org/external-search?queryString
 CATTYPE worldcat-config
+
+ID OCLC-KL8
+NAME Paul Sawyier Public Library
+LOCATION Frankfort
+STATE KY
+BASEURL https://libcat.pspl.org/
+CATTYPE ls2pac
+FILTERS SNK
+EXCLUDE WKPD
 
 ID OCLC-KN4
 NAME Rowan County Public Library

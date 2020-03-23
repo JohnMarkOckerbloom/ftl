@@ -183,6 +183,13 @@ FORWARDER
 
 This gives the URL of the forwarding service for this site, if applicable.
 
+EXCLUDE
+
+This gives the ID(s) of forwarding services to exclude from the
+"You can also choose this" list when one picks a forwarder for one service.
+(This is not often used, but can be useful if for some reason a service
+is not updatable for a while, or cannot connect directly to a given library.)
+
   ====
 
 Any other attribute value is simply made available for substitutions.

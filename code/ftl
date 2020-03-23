@@ -537,6 +537,7 @@ sub wheretogoto {
 sub suggestexits {
   my ($chosenrec) = @_;
   my @links = ();
+  my %excludehash = ();
   if (scalar(@FTL::CLIENTS)) {
     foreach my $cname (@FTL::CLIENTS) {
       my $rec = findlibrary($cname);
@@ -559,7 +560,11 @@ sub suggestexits {
     if ($chosenrec && $chosenrec->{ID}) {
       $chosenid = $chosenrec->{ID};
     }
+    if ($chosenrec && $chosenrec->{EXCLUDE}) {
+      %excludehash = map { $_ => 1 } (split /\s+/, $chosenrec->{EXCLUDE});
+    }
     foreach my $cname (@FTL::OTHERS) {
+      next if ($excludehash{$cname});
       my $rec = findlibrary($cname);
       next if (!$rec);
       my $name = $rec->{NAME};
