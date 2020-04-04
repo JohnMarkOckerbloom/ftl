@@ -4,7 +4,7 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2019-12-23
+# Last updated 2020-03-31
 # Automated Sweep: start w California (& go back and check Kashmir and Baraton)
 
 ID OLBP
@@ -7243,6 +7243,15 @@ LOCATION Dayton
 STATE OH
 CATTYPE eds
 LCODE s9003728
+
+ID OCLC-UAP
+NAME Upper Arlington Public Library
+LOCATION Upper Arlington
+STATE OH
+CATTYPE polaris-context
+BASEURL https://catalog.clcohio.org/polaris
+CONTEXT 81.1033.0.0.17
+EXCLUDE WKPD
 
 ID OCLC-XAV
 NAME Xavier University
