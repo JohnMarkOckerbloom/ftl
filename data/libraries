@@ -6040,6 +6040,14 @@ BASEURL http://poplarbluff.missourievergreen.org/eg/opac
 CATTYPE evergreen-dynamic
 LCODE 2
 
+ID OCLC-XII
+NAME Saint Louis University
+LOCATION St. Louis
+STATE MO
+CATTYPE eds
+LCODE s8997389
+EXCLUDE WKPD
+
 ID OCLC-SEM
 NAME Southeast Missouri State University
 LOCATION Cape Girardeau
