@@ -1896,6 +1896,17 @@ CATTYPE sirsient
 BASEURL https://leeds.ent.sirsidynix.net.uk
 LCODE en_GB/default
 
+# Subject search doesn't seem to work well, so we force it to keyword search
+ID OCLC-LEICL
+NAME Leicester Libraries
+LOCATION Leicester, England
+COUNTRY UK
+BASEURL https://bookfinder.leicester.gov.uk/web/arena
+CATTYPE arenacode
+SUBURL ${BASEURL}/search?p_p_id=searchResult_WAR_arenaportlets&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_${LCODE}_search_query=${ARG}
+LCODE 687834046
+EXCLUDE WKPD
+
 ID UK-NIBAL
 NAME Libraries NI
 LOCATION Public libraries in Northern Ireland
@@ -8178,6 +8189,15 @@ STATE TN
 CATTYPE ls2pac
 BASEURL http://cmc-websvr.clarksville.org:8080/
 FILTERS S
+
+ID LANNOM
+NAME Coffee County Lannom Library
+LOCATION Tullahoma
+STATE TN
+CATTYPE sirsient
+BASEURL https://cocl.ent.sirsi.net
+LCODE en_US/lannom
+EXCLUDE WKPD
 
 # East Tennessee now seems to have its own custom search
 ID OCLC-TET
