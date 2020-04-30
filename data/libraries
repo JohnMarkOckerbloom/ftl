@@ -1905,7 +1905,6 @@ BASEURL https://bookfinder.leicester.gov.uk/web/arena
 CATTYPE arenacode
 SUBURL ${BASEURL}/search?p_p_id=searchResult_WAR_arenaportlets&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_${LCODE}_search_query=${ARG}
 LCODE 687834046
-EXCLUDE WKPD
 
 ID UK-NIBAL
 NAME Libraries NI
@@ -4964,7 +4963,6 @@ LOCATION Frankfort
 STATE KY
 BASEURL https://kysu.on.worldcat.org/external-search?queryString
 CATTYPE worldcat-config
-EXCLUDE WKPD
 
 ID OCLC-KYL
 NAME Lexington Public Library
@@ -5032,7 +5030,6 @@ STATE KY
 BASEURL https://libcat.pspl.org/
 CATTYPE ls2pac
 FILTERS SNK
-EXCLUDE WKPD
 
 ID OCLC-KN4
 NAME Rowan County Public Library
@@ -6057,7 +6054,6 @@ LOCATION St. Louis
 STATE MO
 CATTYPE eds
 LCODE s8997389
-EXCLUDE WKPD
 
 ID OCLC-SEM
 NAME Southeast Missouri State University
@@ -7270,7 +7266,6 @@ STATE OH
 CATTYPE polaris-context
 BASEURL https://catalog.clcohio.org/polaris
 CONTEXT 81.1033.0.0.17
-EXCLUDE WKPD
 
 ID OCLC-XAV
 NAME Xavier University
@@ -8197,7 +8192,6 @@ STATE TN
 CATTYPE sirsient
 BASEURL https://cocl.ent.sirsi.net
 LCODE en_US/lannom
-EXCLUDE WKPD
 
 # East Tennessee now seems to have its own custom search
 ID OCLC-TET
