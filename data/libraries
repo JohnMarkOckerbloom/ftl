@@ -8404,6 +8404,14 @@ STATE TX
 CATTYPE bibliocommons
 BASEURL https://denton.bibliocommons.com
 
+ID OCLC-TXDRI
+NAME Dripping Springs Community Library
+LOCATION Dripping Springs
+STATE TX
+CATTYPE apollo
+BASEURL https://drippingsprings.biblionix.com/catalog/
+FILTERS S
+
 ID OCLC-TXP
 NAME El Paso Public Library
 LOCATION El Paso
@@ -8659,7 +8667,7 @@ LOCATION College Station
 STATE TX
 CATTYPE voyager-vwebv
 BASEURL https://libcat.tamu.edu/vwebv/search
-DEFAULT http://library.tamu.edu/
+DEFAULT https://library.tamu.edu/
 
 ID OCLC-TTT
 NAME Texas College

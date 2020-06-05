@@ -54,6 +54,11 @@ KEYURL ${BASEURL}results=SearchType0%3D${KINDEX}%26SearchField0%3D${ARG:NK}%26In
 CATTYPE apollo
 KEYURL ${BASEURL}?search=${ARG:N}
 
+# Here's an attempt to do fielded search
+CATTYPE apollofielded
+SUBURL ${BASEURL}?search-scope=subject&search=${ARG:N}
+KEYURL ${BASEURL}?search-scope=keyword&search=${ARG:N}
+
 CATTYPE aquabrowser
 SINDEX subjects
 KINDEX ex-Everything-1.0
