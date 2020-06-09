@@ -8018,6 +8018,14 @@ BASEURL http://a70005.eos-intl.net/A70005/OPAC/Search/AdvancedSearch.aspx
 CATTYPE eosweb
 DEFAULT http://www.allenuniversity.edu/academics/library/
 
+ID OCLC-SAL
+NAME Anderson County Library System
+LOCATION Anderson and vicinity
+STATE SC
+BASEURL https://sclends.lib.sc.us/eg/opac
+CATTYPE evergreen-dynamic
+LCODE 129
+
 ID OCLC-BDC
 NAME Benedict College
 LOCATION Columbia
@@ -8079,7 +8087,7 @@ ID SCLENDS
 NAME SC LENDS
 LOCATION 14 library systems around SC with shared lending
 STATE SC
-BASEURL http://sclends.lib.sc.us/eg/opac
+BASEURL https://sclends.lib.sc.us/eg/opac
 CATTYPE evergreen-dynamic
 LCODE 1
 
