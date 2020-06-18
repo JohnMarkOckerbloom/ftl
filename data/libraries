@@ -586,6 +586,14 @@ CATTYPE sirsient
 LCODE en_US/default
 BASEURL https://catalogue.pgpl.ca
 
+ID OCLC-R7R
+NAME Royal Roads University
+LOCATION Victoria
+PROVINCE BC
+BASEURL https://royalroads.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
+FILTERS S
+
 # Looks like SFU has its own custom search
 ID OCLC-SFB
 NAME Simon Fraser University
