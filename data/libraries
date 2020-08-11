@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2020-03-31
-# Automated Sweep: start w California (& go back and check Kashmir and Baraton)
+# Last updated 2020-08-11
+# Automated Sweep: pick up w Canada
 
 ID OLBP
 NAME The Online Books Page
@@ -151,10 +151,8 @@ ID AU-APLS
 NAME Libraries ACT
 LOCATION Canberra, ACT
 COUNTRY AU
-BASEURL http://www.librarycatalogue.act.gov.au
-CATTYPE ipac20
-PROFILE vl
-SINDEX .SW
+BASEURL https://www.librarycatalogue.act.gov.au
+CATTYPE spydus
 
 ID AU-NMQU 
 NAME Macquarie University
@@ -260,7 +258,7 @@ NAME State Library of South Australia
 LOCATION Adelaide, South Australia
 COUNTRY AU
 CATTYPE encore
-BASEURL http://encore.slsa.sa.gov.au/iii/encore
+BASEURL https://encore.slsa.sa.gov.au/iii/encore
 
 ID AU-VSL
 NAME State Library of Victoria
@@ -284,7 +282,7 @@ NAME Swinburne University of Technology
 LOCATION Melbourne and vicinity, Victoria
 COUNTRY AU
 CATTYPE primodl-loc
-BASEURL http://librarysearch.swinburne.edu.au
+BASEURL https://librarysearch.swinburne.edu.au
 VID SWIN2
 LCODE SUT-ALMA
 LOC local,scope:(SUT-ALMA)
@@ -1297,6 +1295,13 @@ COUNTRY IN
 BASEURL http://vlib.uok.edu.in:8080
 CATTYPE chamo
 FILTERS S
+
+ID OCLC-J9U
+NAME National Library of Israel
+LOCATION Jerusalem
+COUNTRY IL
+CATTYPE primo-justquery
+BASEURL https://merhav.nli.org.il/primo-explore/search?tab=default_tab&search_scope=Local&vid=NLI&
 
 ID OCLC-FKT
 NAME Museo Galileo Library
