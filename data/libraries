@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2020-08-11
-# Automated Sweep: pick up w Canada
+# Last updated 2020-08-12
+# Automated Sweep: pick up w Cyprus (but do one-off countries manually)
 
 ID OLBP
 NAME The Online Books Page
@@ -841,7 +841,7 @@ NAME Kitchener Public Library
 LOCATION Kitchener
 PROVINCE ON
 CATTYPE encore
-BASEURL http://encore.kpl.org/iii/encore_kpl
+BASEURL https://encore.kpl.org/iii/encore_kpl
 
 ID OCLC-LONPL
 NAME London Public Library
@@ -997,7 +997,7 @@ NAME Waterloo Public Library
 LOCATION Waterloo
 PROVINCE ON
 CATTYPE encore
-BASEURL http://encore.kpl.org/iii/encore_wpl
+BASEURL https://encore.kpl.org/iii/encore_wpl
 
 ID OCLC-LSG
 NAME Western University
@@ -1074,20 +1074,15 @@ ID OCLC-CNSIL
 NAME Saskatchewan Information and Library Services Consortium
 LOCATION Public libraries across the province
 PROVINCE SK
-BASEURL http://catalogue.sasklibraries.ca
+BASEURL https://catalogue.sasklibraries.ca
 CATTYPE polaris
 
-# Uses Ariane catalog (custom?)
-# searches via this method tend to skew English, but have decent hit counts
 ID OCLC-LVB
 NAME Universit&eacute; Laval
 LOCATION Qu&eacute;bec
 PROVINCE PQ
-BASEURL http://ariane25.bibl.ulaval.ca/ariane/wicket/recherche
-KEYURL ${BASEURL}?c=ariane&rq.r.l[0].c=*&rq.r.l[0].v=${ARG}
-AUTURL ${BASEURL}?c=ariane&rq.r.l[0].c=AU&rq.r.l[0].v=${ARG}
-TITURL ${BASEURL}?c=ariane&rq.r.l[0].c=TI&rq.r.l[0].v=${ARG}
-SUBURL ${BASEURL}?c=ariane&rq.r.l[0].c=SU&rq.r.l[0].v=${ARG}
+BASEURL https://ulaval.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-REB
 NAME University of Regina
@@ -1107,10 +1102,10 @@ BASEURL http://sundog.usask.ca
 CATTYPE webpacpro
 
 ID OCLC-CN4WZ
-NAME Yukon College Library
+NAME Yukon University
 LOCATION Whitehorse
 PROVINCE YT
-BASEURL https://yukoncollegelibrary.on.worldcat.org/external-search?queryString
+BASEURL https://yukonuniversitylibrary.on.worldcat.org/external-search?queryString
 CATTYPE worldcat-config
 
 ID OCLC-X33
@@ -1301,7 +1296,7 @@ NAME National Library of Israel
 LOCATION Jerusalem
 COUNTRY IL
 CATTYPE primo-justquery
-BASEURL https://merhav.nli.org.il/primo-explore/search?tab=default_tab&search_scope=Local&vid=NLI&
+BASEURL https://merhav.nli.org.il/primo-explore/search?tab=default_tab&search_scope=Local&vid=NLI&lang=en_US&
 
 ID OCLC-FKT
 NAME Museo Galileo Library
