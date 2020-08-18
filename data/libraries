@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2020-08-12
-# Automated Sweep: pick up w Cyprus (but do one-off countries manually)
+# Last updated 2020-08-18
+# Automated Sweep: pick up w Ghana (University of Cape Coast)
 
 ID OLBP
 NAME The Online Books Page
@@ -1123,8 +1123,8 @@ ID OCLC-UPX
 NAME University of Cyprus
 LOCATION Nicosia
 COUNTRY CY
-BASEURL http://search.cypruslibraries.ac.cy/iii/encore_ucy
-CATTYPE encore
+CATTYPE eds
+LCODE s5883815
 
 ID DE-11
 NAME Humboldt-Universit&auml;t zu Berlin
@@ -1659,6 +1659,13 @@ COUNTRY TR
 CATTYPE sirsient
 LCODE tr_TR/default
 BASEURL https://librarycatalog.bilkent.edu.tr
+
+ID OCLC-BGZ
+NAME Bogazici University Library
+LOCATION Istanbul
+COUNTRY TR
+CATTYPE summon
+BASEURL http://boun.summon.serialssolutions.com
 
 ID KYAMBOGO
 NAME Kyambogo University
