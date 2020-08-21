@@ -6385,6 +6385,14 @@ BASEURL http://catalog.npl.org
 CATTYPE iii-consortium-member
 LCODE 1
 
+ID OCLC-PALSP
+NAME PALS Plus Library Consortium
+LOCATION 21 libraries in Passaic, Essex, and Hudson counties
+STATE NJ
+CATTYPE sirsient
+BASEURL https://palsplus.ent.sirsi.net
+LCODE en_US/PALSPLUS
+
 ID OCLC-PPR
 NAME Princeton Public Library
 LOCATION Princeton
