@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2020-08-18
-# Automated Sweep: pick up w Ghana (University of Cape Coast)
+# Last updated 2020-09-09
+# Automated Sweep: pick up w Italy
 
 ID OLBP
 NAME The Online Books Page
@@ -1206,7 +1206,7 @@ ID OCLC-GHUCC
 NAME University of Cape Coast, Sam Jonah Library
 LOCATION Cape Coast
 COUNTRY GH
-BASEURL http://erl.ucc.edu.gh:8001
+BASEURL http://156.38.97.107:8001
 CATTYPE koha
 FILTERS SNK
 
@@ -1285,7 +1285,7 @@ CATTYPE summon
 
 ID OCLC-INUOK
 NAME University of Kashmir
-LOCATION Srinigar; Internet connectivity may be limited
+LOCATION Srinigar
 COUNTRY IN
 BASEURL http://vlib.uok.edu.in:8080
 CATTYPE chamo
@@ -1374,6 +1374,13 @@ AINDEX WAU
 TINDEX WTI
 COUNTRY LT
 FILTERS SNK
+
+ID OCLC-I8M
+NAME Tecnol&oacute;gico y de Monterrey
+LOCATION Monterrey
+COUNTRY MX
+CATTYPE encore
+BASEURL https://biblioxplora.tec.mx/iii/encore
 
 ID OCLC-U5N
 NAME University of Namibia
