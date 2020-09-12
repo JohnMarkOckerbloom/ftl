@@ -1376,7 +1376,7 @@ COUNTRY LT
 FILTERS SNK
 
 ID OCLC-I8M
-NAME Tecnol&oacute;gico y de Monterrey
+NAME Tecnol&oacute;gico de Monterrey
 LOCATION Monterrey
 COUNTRY MX
 CATTYPE encore
@@ -3618,8 +3618,8 @@ ID OCLC-WMG
 NAME Wilmington University Library
 LOCATION New Castle
 STATE DE
-BASEURL https://wilmu.worldcat.org/search
-CATTYPE worldcat
+BASEURL https://wilmu.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-EAU
 NAME American University
