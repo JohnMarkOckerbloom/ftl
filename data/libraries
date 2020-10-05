@@ -1220,6 +1220,14 @@ VID CUH
 LCODE CUH_ALMA
 SCOPE My%20Institution
 
+ID UINDONESIA
+NAME Universitas Indonesia Library
+LOCATION Depok; English searches may give limited results
+COUNTRY ID
+BASEURL http://lib.ui.ac.id/hasilcari
+KEYURL ${BASEURL}?query=${ARG}
+FILTERS SNK
+
 ID OCLC-DBX
 NAME Dublin Institute of Technology
 LOCATION Dublin
