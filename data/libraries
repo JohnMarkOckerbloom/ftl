@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2020-09-09
-# Automated Sweep: pick up w Italy
+# Last updated 2020-10-22
+# Automated Sweep: pick up w Nigeria
 
 ID OLBP
 NAME The Online Books Page
@@ -4150,6 +4150,13 @@ STATE GA
 CATTYPE evergreen-dynamic
 BASEURL http://gapines.org/eg/opac
 LCODE LOPL
+
+ID OCLC-GOU
+NAME Oglethorpe University
+LOCATION Atlanta
+STATE GA
+BASEURL https://oglethorpe.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-GSS
 NAME Savannah State University

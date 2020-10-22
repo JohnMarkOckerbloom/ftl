@@ -10,8 +10,8 @@
 #   are not included in this file.
 # Manual title and name-title correspondences have been moved to wikiworksmap.
 # See docs file for documentation
-# Last updated 2020-10-03
-# Did LCSH 2015-2019 update lists, 2020 monthly lists 1-8
+# Last updated 2020-10-22
+# Did LCSH 2015-2019 update lists, 2020 monthly lists 1-8, 9 (A-K only)
 1 Pendleton Place House (New York, N.Y.)|=|Building at One Pendleton Place
 1009 Fifth Avenue House (New York, N.Y.)|=|Benjamin N. Duke House
 1066 Country Walk (England)|=|1066 Country Walk
@@ -24,6 +24,7 @@
 1361 K4 (Steam locomotive)|=|Pennsylvania Railroad 1361
 1366 Class (Steam locomotives)|=|GWR 1366 Class
 141 R (Steam locomotive)|<->|SNCF Class 141R
+144,000 (Biblical figures)|<->|144,000
 157 East 78th Street House (New York, N.Y.)|<->|East 78th Street Houses
 159 East 78th Street House (New York, N.Y.)|->|East 78th Street Houses
 1600 Class (Steam locomotives)|=|GWR 1600 Class
@@ -71,7 +72,7 @@
 376-380 Lafayette Street Building (New York, N.Y.)|=|Schermerhorn Building 376–380 Lafayette Street
 390 Van Duzer Street House (New York, N.Y.)|->|364 and 390 Van Duzer Street
 4-H clubs|<->|4-H
-400 State Trail (Wis.)|=|400 Trail
+400 State Trail (Wis.)|=|400 State Trail
 401(a) plans|<->|401(a)
 401(k) plans|<->|401(k)
 403(b) plans|<->|403(b)
@@ -481,7 +482,7 @@ Affirmative action programs|<->|Affirmative action
 Affirmative action programs -- Canada|<->|Employment equity (Canada)
 Affirmative action programs -- United States|<->|Affirmative action in the United States
 Affirmed (Race horse)|=|Affirmed
-Affricates (Phonetics)|=|Affricate consonant
+Affricates (Phonetics)|=|Affricate
 Afghan War, 2001-|<->|War in Afghanistan (2001–present)
 Afghan War, 2001- -- Campaigns|<->|List of military operations in the war in Afghanistan (2001–present)
 Afghan War, 2001- -- Protest movements|<->|Protests against the war in Afghanistan
@@ -750,7 +751,7 @@ Ak Koyunlu (Turkic people)|=|Aq Qoyunlu
 AK Parti (Turkey)|=|Justice and Development Party (Turkey)
 Aka (African people)|=|Aka people
 Aka River (Japan)|=|Aka River
-Akademia e Arteve (Tirana, Albania)|<->|University of Arts (Albania)
+Akademia e Arteve (Tirana, Albania)|<->|University of Arts (Tirana)
 Akan (African people)|=|Akan people
 Akershus fylke (Norway)|=|Akershus
 Akha (Southeast Asian people)|=|Akha people
@@ -1157,6 +1158,7 @@ Amber (Game)|<->|Amber Diceless Roleplaying Game
 Ambersnails|=|Succineidae
 Ambonese Malay dialect|=|Ambonese Malay
 Amboy Road (New York, N.Y.)|=|Amboy Road
+Amboyna Massacre, Indonesia, 1623|=|Amboyna massacre
 Ambrosia (Classical mythology)|=|Ambrosia
 Ambuklao Hydroelectric Power Plant (Philippines)|<->|Ambuklao Dam
 Ambulance service|->|Ambulance
@@ -1835,7 +1837,7 @@ ARexx (Computer program language)|=|ARexx
 Arezzo (Italy)|=|Arezzo
 Arezzo (Italy : Province)|=|Province of Arezzo
 Arg (Kabul, Afghanistan)|=|Arg (Kabul)
-Arg-i Bam (Bam, Iran)|=|Arg e Bam
+Arg-i Bam (Bam, Iran)|=|Arg-e Bam
 Argentina (Passenger ship)|=|SS Argentina (1929)
 Argentina. Armada|=|Argentine Navy
 Argentina -- Armed Forces|<->|Armed Forces of the Argentine Republic
@@ -1846,7 +1848,7 @@ Argentina -- Foreign relations|=|Foreign relations of Argentina
 Argentina. Fuerza A&eacute;rea|=|Argentine Air Force
 Argentina -- History -- Coup d'&eacute;tat, 1966|=|Argentine Revolution
 Argentina -- History -- Coup d'&eacute;tat, 1976|=|1976 Argentine coup d'état
-Argentina -- History -- Dirty War, 1976-1983|<->|Dirty War (Argentina)
+Argentina -- History -- Dirty War, 1976-1983|<->|Dirty War
 Argentina -- History -- English Invasions, 1806-1807|<->|British invasions of the River Plate
 Argentina -- History -- Revolution, 1890|=|Revolution of the Park
 Argentina -- History -- Revolution, 1905|=|Argentine Revolution of 1905
@@ -2533,6 +2535,7 @@ Automobile repair shops|=|Automobile repair shop
 Automobile title loans|<->|Title loan
 Automobiles|<->|Car
 Automobiles -- Bumpers|=|Bumper (car)
+Automobiles -- Economic aspects|<->|Economics of car use
 Automobiles -- History|=|History of the automobile
 Automobiles -- Motors -- Exhaust gas -- Measurement|<->|Exhaust gas analyzer
 Automobiles -- Seat belts|=|Seat belt
@@ -2610,6 +2613,7 @@ Ax Handle Saturday, Jacksonville, Fla., 1960|=|Ax Handle Saturday
 Axe, River (Dorset-Devon, England)|=|River Axe (Lyme Bay)
 Axe, River (Somerset, England)|=|River Axe (Bristol Channel)
 Axial flow compressors|<->|Axial compressor
+Axin (Scaffold protein)|<->|AXIN1
 Axiomatic set theory|->|Set theory
 Axis (Vertebra)|=|Axis (anatomy)
 Axis (Genus)|->|Chital
@@ -2958,6 +2962,7 @@ Banking law|<->|Bank regulation
 Banking law -- United States|<->|Bank regulation in the United States
 Bankruptcy -- History|<->|History of bankruptcy law
 Bankruptcy -- United States -- History|=|History of bankruptcy law in the United States
+Banks (Oceanography)|->|Shoal
 Banks, Alan (Fictitious character)|=|Inspector Alan Banks
 Banks and banking|<->|Bank
 Banks and banking -- Religious aspects -- Islam|<->|Islamic banking and finance
@@ -3245,6 +3250,7 @@ Beachy Head, Battle of, 1690|=|Battle of Beachy Head (1690)
 Beachy Head Lighthouse (England)|=|Beachy Head Lighthouse
 Beacon Heights (Antarctica)|=|Beacon Heights
 Beacon Hill (Boston, Mass.)|=|Beacon Hill, Boston
+Bead-based assays|<->|Multiplex (assay)
 Beagle (Destroyer)|=|HMS Beagle (H30)
 Beagle (Dog breed)|=|Beagle
 Beagle 2 (Spacecraft)|=|Beagle 2
@@ -6383,6 +6389,7 @@ Charca Indians|=|Charca people
 Chardonnay (France)|=|Chardonnay, Saône-et-Loire
 Chardonnay (Wine)|<->|Chardonnay
 Charente River (France)|=|Charente (river)
+Charge carriers (Nuclear physics)|=|Charge carrier
 Charge coupled devices|=|Charge-coupled device
 Charities|<->|Charitable organization
 Charity|<->|Charity (practice)
@@ -6720,7 +6727,7 @@ Chimney Rock National Monument (Colo.)|=|Chimney Rock National Monument
 Chimney Rock Park (N.C.)|=|Chimney Rock State Park
 Chimpsky, Nim (Chimpanzee), 1973-2000|=|Nim Chimpsky
 Chin (Southeast Asian people)|=|Chin people
-China -- Economic conditions -- 1912-1949|<->|Economic history of China (1912–49)
+China -- Economic conditions -- 1912-1949|<->|Economic history of China (1912–1949)
 China -- Economic conditions -- 1949-|<->|Economic history of China (1949–present)
 China -- Foreign relations|=|Foreign relations of China
 China -- History -- 1949-|=|History of the People's Republic of China
@@ -7210,7 +7217,7 @@ Civil supremacy over the military|<->|Civilian control of the military
 Civil War Preservation Trust|<->|Civil War Trust
 Civilian war casualties|<->|Civilian casualties
 Civilization, Ancient -- Extraterrestrial influences|<->|Ancient astronauts
-Civilization, Arab|<->|Arabic culture
+Civilization, Arab|<->|Arab culture
 Civilization, Classical|<->|Classical antiquity
 Civilization, Modern|->|Timelines of modern history
 Civilization, Western|<->|Western culture
@@ -7829,6 +7836,7 @@ Conference House (New York, N.Y.)|=|Conference House
 Conference rooms|<->|Conference hall
 Confessionals (Architecture)|=|Confessional
 Confidential communications|<->|Confidentiality
+Configuration space|<->|Configuration space (physics)
 Confirmation -- Mormon Church|=|Confirmation (Latter Day Saints)
 Conflict diamonds|=|Blood diamond
 Conflict of generations|<->|Generation gap
@@ -8527,6 +8535,7 @@ Cover crops|=|Cover crop
 Cover, River (England)|=|River Cover
 Coverdale (England)|=|Coverdale (dale)
 COVID-19 (Disease)|=|Coronavirus disease 2019
+COVID-19 (Disease) -- Religious aspects|<->|Impact of the COVID-19 pandemic on religion
 Cowan's Ford, Battle of, N.C., 1781|=|Battle of Cowan's Ford
 Cowanesque River (Pa. and N.Y.)|=|Cowanesque River
 Cowardly Lion (Fictitious character)|=|Cowardly Lion
@@ -9026,7 +9035,7 @@ Dacian War, 2nd, 105-106|->|Trajan's Dacian Wars
 Dacre (Cumbria, England)|=|Dacre, Cumbria
 Dacre Castle (Dacre, Cumbria, England)|=|Dacre Castle
 Dadaism|=|Dada
-Dade Massacre, Fla., 1835|=|Dade massacre
+Dade Massacre, Fla., 1835|=|Dade battle
 Dad&egrave;s River (Morocco)|=|Dadès River
 DADGAD (Guitar tuning)|=|DADGAD
 Dadiani family|<->|House of Dadiani
@@ -9413,7 +9422,7 @@ Delaware Route 52 (Del.)|=|Delaware Route 52
 Delaware Water Gap (N.J. and Pa.)|=|Delaware Water Gap
 Delaware Water Gap National Recreation Area (Agency : U.S.)|->|Delaware Water Gap National Recreation Area
 Delaware Water Gap National Recreation Area (N.J. and Pa.)|=|Delaware Water Gap National Recreation Area
-Delbarjin Site (Afghanistan)|<->|Dilberjin
+Delbarjin Site (Afghanistan)|<->|Dilberjin Tepe
 Delfin (Training plane)|=|Aero L-29 Delfín
 Delft (Netherlands)|=|Delft
 Delgosha Garden (Sh&imacr;r&amacr;z, Iran)|=|Delgosha Garden
@@ -9870,7 +9879,7 @@ Diplomatic and consular service, South Korean|<->|List of diplomatic missions of
 Diplomatic and consular service, Spanish|<->|List of diplomatic missions of Spain
 Diplomatic and consular service, Sri Lankan|<->|List of diplomatic missions of Sri Lanka
 Diplomatic and consular service, Sudanese|<->|List of diplomatic missions of Sudan
-Diplomatic and consular service, Swazi|<->|List of diplomatic missions of Eswatini
+Diplomatic and consular service, Swati|<->|List of diplomatic missions of Eswatini
 Diplomatic and consular service, Swedish|<->|List of diplomatic missions of Sweden
 Diplomatic and consular service, Swiss|<->|List of diplomatic missions of Switzerland
 Diplomatic and consular service, Taiwan|<->|List of diplomatic missions of Taiwan
@@ -11054,7 +11063,7 @@ Emigration and immigration|<->|Immigration
 Emigration and immigration law|<->|Immigration law
 Emil Bach House (Chicago, Ill.)|=|Emil Bach House
 Emilia (Fictitious character : Shakespeare)|<->|Emilia (Othello)
-Emilia (Italy)|=|Emilia (region of Italy)
+Emilia (Italy)|=|Emilia (region)
 Emilia-Romagna (Italy)|=|Emilia-Romagna
 Emily, Mount (Or.)|=|Mount Emily
 Emin Pasha Relief Expedition (1887-1889)|=|Emin Pasha Relief Expedition
@@ -13328,7 +13337,7 @@ Gaza, Battles of, Gaza, 1917|<-|First Battle of Gaza
 Gaza, Battles of, Gaza, 1917|<-|Second Battle of Gaza
 Gaza, Battles of, Gaza, 1917|<->|Third Battle of Gaza
 Gaza Strip -- Politics and government|<->|Governance of the Gaza Strip
-Gaza War, 2008-2009|=|Gaza War (2008–09)
+Gaza War, 2008-2009|=|Gaza War (2008–2009)
 Gaza War, 2014|=|2014 Israel–Gaza conflict
 Gazala, Battle of, Libya, 1942|=|Battle of Gazala
 Gazettes|<->|Gazette
@@ -13602,6 +13611,7 @@ Ghazaleh family|<->|Ghazaleh (name)
 Ghaziabad (India : District)|=|Ghaziabad district, Uttar Pradesh
 Ghazn&imacr; (Afghanistan)|=|Ghazni
 Ghazn&imacr; (Afghanistan : Province)|=|Ghazni Province
+Ghor as-Safi Site (Jordan)|=|Ghor es-Safi
 Ghor&amacr;m&amacr;ra Island (India)|=|Ghoramara Island
 Ghost (Fictitious character : Shakespeare)|=|Ghost (Hamlet)
 Ghost in the Shell (Game)|=|Ghost in the Shell (video game)
@@ -13941,6 +13951,7 @@ Good works (Theology)|<->|Good works
 Goode Mountain (Wash.)|=|Goode Mountain
 Goodfellow Air Force Base (Tex.)|=|Goodfellow Air Force Base
 Goodwill (Commerce)|=|Goodwill (accounting)
+Goodwin Sands (England)|=|Goodwin Sands
 Goofy (Fictitious character)|=|Goofy
 Google Cardboard (Virtual reality headset)|=|Google Cardboard
 Google Glass (Computer)|=|Google Glass
@@ -14854,6 +14865,7 @@ Hampton National Historic Site (Md.)|=|Hampton National Historic Site
 Hampton Roads, Battle of, Va., 1862|=|Battle of Hampton Roads
 Hampton University (Va.)|=|Hampton University
 Hamptons (N.Y.)|=|The Hamptons
+Hamsa (Mythical bird)|<->|Hamsa (bird)
 Hamsterley Forest (England)|=|Hamsterley Forest
 Hanafuda (Game)|<->|Hanafuda
 Hanau (Germany)|=|Hanau
@@ -16144,6 +16156,7 @@ Husband and wife|->|Marriage
 Husbands|=|Husband
 Husky Massif (Antarctica)|=|Husky Massif
 Hut Point Peninsula (Antarctica)|=|Hut Point Peninsula
+Hut Tax War, Sierra Leone, 1898|=|Hut Tax War of 1898
 Hutan Rizab Pantai Acheh (Pulau Pinang, Malaysia)|<->|Penang National Park
 Hutu (African people)|=|Hutu
 Huts|=|Hut
@@ -16605,7 +16618,7 @@ Indians of South America -- Colombia|=|Indigenous peoples in Colombia
 Indians of South America -- Ecuador|=|Indigenous peoples in Ecuador
 Indians of South America -- Guyana|=|Indigenous peoples in Guyana
 Indians of South America -- Paraguay|=|Indigenous peoples in Paraguay
-Indians of South America -- Peru|=|Indigenous peoples in Peru
+Indians of South America -- Peru|=|Indigenous peoples of Peru
 Indians of South America -- Suriname|=|Indigenous peoples in Suriname
 Indians of South America -- Uruguay|=|Indigenous peoples in Uruguay
 Indians of South America -- Venezuela|=|Indigenous peoples in Venezuela
@@ -16794,7 +16807,7 @@ Intel i386SL (Microprocessor)|->|Intel 80386
 Intel i750 (Microprocessor)|=|Intel i750
 Intel i860 (Microprocessor)|=|Intel i860
 Intel i960 (Microprocessor)|=|Intel i960
-Intel microprocessors|<->|List of Intel microprocessors
+Intel microprocessors|<->|List of Intel processors
 Intel SDK-85 (Microprocessor)|->|Intel System Development Kit
 Intel SDK-86 (Microprocessor)|->|Intel System Development Kit
 Intelink (Computer network)|=|Intelink
@@ -16905,6 +16918,7 @@ Interstate 19 (Ariz.)|=|Interstate 19
 Interstate 205 (Or. and Wash.)|=|Interstate 205 (Oregon–Washington)
 Interstate 215 (Salt Lake City, Utah)|=|Interstate 215 (Utah)
 Interstate 225 (Colo.)|=|Interstate 225
+Interstate 229 (Sioux Falls, S.D.)|=|Interstate 229 (South Dakota)
 Interstate 244 (Tulsa, Okla.)|=|Interstate 244
 Interstate 255 (Ill. and Mo.)|=|Interstate 255
 Interstate 270 (Md.)|=|Interstate 270 (Maryland)
@@ -17156,7 +17170,7 @@ Islamic stories|<->|Islamic fiction
 Island Beach (N.J. : Beach)|->|Island Beach State Park
 Island Beach State Park (N.J.)|=|Island Beach State Park
 Island biogeography|=|Insular biogeography
-Island Carib Indians|=|Island Caribs
+Island Carib Indians|=|Kalinago
 Island Lake (Alta.)|=|Island Lake (Alberta)
 Island of Kesmai (Game)|=|Island of Kesmai
 Islands|=|Island
@@ -17458,6 +17472,7 @@ Jaegers (Birds)|->|Skua
 Jaffa Riot, Tel Aviv, Israel, 1921|<->|Jaffa riots
 Jaffa (Tel Aviv, Israel)|=|Jaffa
 Jagann&amacr;tha (Hindu deity)|=|Jagannath
+Jagat&imacr;s (Architecture)|=|Jagati (temple)
 Jagdpanther (Tank destroyer)|=|Jagdpanther
 Jagdpanzer IV (Tank destroyer)|=|Jagdpanzer IV
 Jagdtiger (Tank destroyer)|=|Jagdtiger
@@ -18051,6 +18066,7 @@ Jython (Computer program language)|=|Jython
 K Class (Cruisers)|<->|Königsberg-class cruiser (1927)
 K Class (Destroyers)|->|J-, K- and N-class destroyer
 K-distribution (Probability theory)|=|K-distribution
+K-pop (Subculture)|->|K-pop
 K'sani (Georgia)|=|Duchy of Ksani
 K'sani River (Georgia)|=|Ksani
 K2 (Pakistan : Mountain)|=|K2
@@ -18490,6 +18506,7 @@ Khalkha (Mongolian people)|=|Khalkha Mongols
 Khalkha dialect|=|Khalkha Mongolian
 Khalkhin Gol, Battle of, Mongolia, 1939|<->|Battles of Khalkhin Gol
 Khalsa (Sect)|<->|Khalsa
+Kham (China)|=|Kham
 Khamovniki (Moscow, Russia)|=|Khamovniki District
 Khamti (Southeast Asian people)|=|Khamti people
 Kh&amacr;n Maysal&umacr;n, Battle of, Kh&amacr;n Maysal&umacr;n, Syria, 1920|=|Battle of Maysalun
@@ -19304,6 +19321,7 @@ Lake Lansing Park North (Mich.)|=|Lake Lansing Park North
 Lake Maracaibo, Battle of, Venezuela, 1823|=|Battle of Lake Maracaibo
 Lake Mead National Recreation Area (Agency : U.S.)|->|Lake Mead National Recreation Area
 Lake Mead National Recreation Area (Ariz. and Nev.)|=|Lake Mead National Recreation Area
+Lake Michigan Shore American Viticultural Area (Mich.)|=|Lake Michigan Shore AVA
 Lake of the Woods (Klamath County, Or. : Lake)|=|Lake of the Woods (Oregon)
 Lake of the Woods (Marshall County, Ind. : Lake)|=|Lake of the Woods (Indiana)
 Lake Peipus, Battle of, 1242|=|Battle on the Ice
@@ -20422,7 +20440,7 @@ Lost tribes of Israel|=|Ten Lost Tribes
 Lost works of art|=|Lost artworks
 Loter&iacute;a (Game)|=|Lotería
 Lotha (Indic people)|=|Lotha Naga
-Lothar Storm, 1999|<->|Cyclones Lothar and Martin
+Lothar Storm, 1999|=|Cyclone Lothar
 LOTOS (Computer program language)|=|Language Of Temporal Ordering Specification
 L&ouml;tschberg-Basistunnel (Frutigen and Raron, Switzerland)|=|Lötschberg Base Tunnel
 L&ouml;tschberg-Tunnel (Goppenstein and Kandersteg, Switzerland)|=|Lötschberg Tunnel
@@ -21360,7 +21378,7 @@ Martin Luther King, Jr., Memorial (Washington, D.C.)|=|Martin Luther King Jr. Me
 Martin Luther King, Jr., National Historic Site (Atlanta, Ga.)|=|Martin Luther King Jr. National Historical Park
 Martin, Lake (Ala.)|=|Lake Martin
 Martin National Wildlife Refuge (Md.)|=|Glenn Martin National Wildlife Refuge
-Martin Storm, 1999|->|Cyclones Lothar and Martin
+Martin Storm, 1999|=|Cyclone Martin (1999)
 Mart&iacute;nez (Buenos Aires, Argentina)|=|Martínez, Buenos Aires
 Mart&iacute;nez del R&iacute;o family|<->|Martínez del Río
 Mart&iacute;nez family|<->|Martínez (surname)
@@ -22823,7 +22841,7 @@ Moosilauke, Mount (N.H.)|=|Mount Moosilauke
 Mopan Indians|=|Mopan people
 Mopane moth|=|Gonimbrasia belina
 Mopane tree|=|Mopane
-Moplah dialect|=|Mappila dialect
+Moplah dialect|=|Arabi Malayalam
 Moplah Rebellion, India, 1921|=|Malabar rebellion
 Mopti (Mali : Region)|=|Regions of Mali
 Morag (Monster)|=|Morag (lake monster)
@@ -22869,7 +22887,6 @@ Mormon Church -- Doctrines|->|Beliefs and practices of The Church of Jesus Chris
 Mormon Church -- History|<->|History of the Latter Day Saint movement
 Mormon Flat Dam (Ariz.)|=|Mormon Flat Dam
 Mormon Lake (Coconino County, Ariz. : Lake)|=|Mormon Lake
-Mormon missionaries|<->|Missionaries (LDS Church)
 Mormon Mountains (Nev.)|=|Mormon Mountains
 Mormon Pioneer National Historic Trail|<->|Mormon Trail
 Mormon Reformation, 1856-1857|=|Mormon Reformation
@@ -23298,7 +23315,7 @@ Muzo Indians|=|Muzo people
 Muzzles (Firearms)|<->|Gun barrel
 Mwera (African people)|=|Mwera people
 MX (Weapons system)|<->|LGM-118 Peacekeeper
-My Lai Massacre, Vietnam, 1968|=|My Lai massacre
+My Lai Massacre, Vietnam, 1968|=|Mỹ Lai massacre
 Myasishchev M-4 (Bomber)|=|Myasishchev M-4
 Mycenae (Extinct city)|<->|Mycenae
 Mycoses|=|Mycosis
@@ -23374,7 +23391,7 @@ Nagykanizsa (Hungary)|=|Nagykanizsa
 Naha Port (Japan)|<->|Naha Port Facility
 Naha-shi (Japan)|=|Naha
 Nah&amacr;vand, Battle of, Nah&amacr;vand, Iran, 642|=|Battle of Nahavand
-Nahr el-Kalb Site (Lebanon)|<->|Commemorative stelae of Nahr el-Kalb
+Nahr el-Kalb Site (Lebanon)|<->|Stelae of Nahr el-Kalb
 Nahrawan, Battle of, Iraq, 658|<->|Battle of Nahrawan
 Nahuatl language|=|Nahuatl
 Nahuel Huap&iacute; Lake (Argentina)|=|Nahuel Huapi Lake
@@ -28246,7 +28263,7 @@ Protest songs|=|Protest song
 Proteus (Bacteria)|=|Proteus (bacterium)
 Proteus (Greek deity)|=|Proteus
 Protheses (Architecture)|<->|Prothesis (altar)
-Proto-Li language|<->|Proto-Hlai
+Proto-Li language|<->|Proto-Hlai language
 Proto-planetary nebulae|=|Protoplanetary nebula
 Proto-Slavic language|=|Proto-Slavic
 Protochlorophyllide oxidoreductases|<->|Protochlorophyllide reductase
@@ -30775,7 +30792,7 @@ Saxony (Germany)|=|Saxony
 Saxony (Germany) -- History|=|History of Saxony
 Saxony-Anhalt (Germany)|=|Saxony-Anhalt
 Saxwe Gbe language|=|Saxwe language
-Sayama-shi (Japan)|=|Sayama, Saitama
+Sayama-shi (Japan)|=|Sayama
 Sayf dynasty, ca. 800-1846|=|Sayfawa dynasty
 Sayornis|=|Phoebe (bird)
 Sayyid dynasty, 1414-1451|=|Sayyid dynasty
@@ -31806,7 +31823,7 @@ Siksikpuk Formation (Alaska)|=|Siksikpuk Formation
 Siku|=|Siku (instrument)
 Silahtara&gbreve;a Elektrik Sentral&inodot; (Istanbul, Turkey)|=|Silahtarağa Power Station
 Silala River (Bolivia and Chile)|=|Silala River
-Silencers (Firearms)|<->|Silencer (firearms)
+Silencers (Firearms)|<->|Silencer (firearm)
 Silent films|=|Silent film
 Silent Hill (Game)|<->|Silent Hill (video game)
 Silesia (Czech Republic)|=|Czech Silesia
@@ -32447,7 +32464,7 @@ Song cycles|=|Song cycle
 Song Nen Plain (China)|=|Songnen Plain
 Song of Ice and Fire (Game)|<->|A Song of Ice and Fire Roleplaying
 Songhai (African people)|=|Songhai people
-Songola (African people)|<->|Songora
+Songola (African people)|<->|Songora people
 Songs|=|Song
 Songye (African people)|=|Songye people
 Songyuan Shi (China)|=|Songyuan
@@ -32816,7 +32833,7 @@ Spiritual life|->|Spirituality
 Spiritual retreats|=|Retreat (spiritual)
 Spiritual works of mercy|->|Works of mercy
 Spiritualists|->|Spiritualism
-Spirituals (Songs)|=|Spiritual (music)
+Spirituals (Songs)|=|Spirituals
 SPITBOL (Computer program language)|=|SPITBOL
 Spitfire (Fighter plane)|=|Supermarine Spitfire
 Spitfire automobile|=|Triumph Spitfire
@@ -34361,7 +34378,8 @@ Teruel, Battle of, Teruel, Spain, 1937-1938|=|Battle of Teruel
 Terwillegar Drive (Edmonton, Alta.)|=|Terwillegar Drive
 Tesla automobiles|->|Tesla, Inc.
 Tesla Model S automobile|=|Tesla Model S
-Tesla Roadster automobile|<->|Tesla Roadster (2008)
+Tesla Roadster automobile|=|Tesla Roadster
+Tesla Roadster automobile|<-|Tesla Roadster (first generation)
 Teslin River (B.C. and Yukon)|=|Teslin River
 Teso (African people)|=|Teso people
 Tesserae|<->|Tessera
@@ -34457,7 +34475,7 @@ Tham script|<->|Tai Tham script
 Thames, Battle of the, Ont., 1813|=|Battle of the Thames
 Thames River (England)|=|River Thames
 Thames Valley (England)|<->|Thames Valley
-Thammasat University Massacre, Bangkok, Thailand, 1976|=|Thammasat University massacre
+Thammasat University Massacre, Bangkok, Thailand, 1976|=|6 October 1976 massacre
 Thamn&imacr;ap Ratthab&amacr;n (Bangkok, Thailand)|=|Government House of Thailand
 Thanatos (Greek deity)|=|Thanatos
 Thane (Alaska)|=|Thane, Juneau
@@ -35640,7 +35658,7 @@ Two thousand one, A.D.|=|2001
 Two thousand seven, A.D.|=|2007
 Two thousand six, A.D.|=|2006
 Two thousand sixteen, A.D.|=|2016
-Two thousand thirty, A.D.|=|2030
+Two thousand thirty, A.D.|<->|2030s
 Two thousand three, A.D.|=|2003
 Two thousand twelve, A.D.|=|2012
 Two thousand twenty, A.D.|=|2020
