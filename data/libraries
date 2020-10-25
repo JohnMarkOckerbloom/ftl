@@ -9613,6 +9613,14 @@ CATTYPE sirsient
 LCODE en_US/albany
 BASEURL https://wyld.ent.sirsi.net
 
+ID OCLC-W8F
+NAME Fremont County Libraries
+LOCATION Lander, Riverton, and Dubois
+STATE WY
+CATTYPE sirsient
+LCODE en_US/frem
+BASEURL https://wyld.ent.sirsi.net
+
 ID OCLC-WYL
 NAME Laramie County Library
 LOCATION Cheyenne
