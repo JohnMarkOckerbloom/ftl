@@ -50,6 +50,7 @@ my $wikidir             = $FTL::IDXDIR . "wiki/";
 my $viafhashfile        = $wikidir . "viaftosub.hsh";
 my $lccnhashfile        = $wikidir . "lctosub.hsh";
 my $wphashfile          = $wikidir . "wptosub.hsh";
+my $localhashfile       = $wikidir . "subtolocal.hsh";
 
 my $logdir             = $FTL::IDXDIR . "logs/";
 my $applog             = $logdir . "ftl-log";
@@ -58,7 +59,7 @@ my $VIAF_TYPE      = "viaf";
 my $LCCN_TYPE      = "lccn";
 my $WIKIPEDIA_TYPE = "wp";
 
-my ($viafhash, $lccnhash, $wphash);
+my ($viafhash, $lccnhash, $wphash, $localhash);
 
 my $countries;
 
@@ -961,10 +962,42 @@ sub get_lc_term {
   return $heading;
 }
 
+sub normalize_subject {
+  my $str = shift;
+  my $key = OLBP::Entities::normalize_utf8($str, 1);
+  $key = lc($key);
+  $key =~ s/\.\s*$//;
+  $key = substr($key, 0, $OLBP::subjectsortkeylimit);
+  return $key;
+}
+
+# localize_lc_term takes the LC term, and then modifies it
+# for the destination library if it has a custom term
+
+sub localize_lc_term {
+  my ($heading, $librec) = @_;
+  if ($heading && $librec) {
+    my $id = $librec->{ID};
+    if ($id) {
+      if (!$localhash) {
+        $localhash =
+          new OLBP::Hash(name=>"local", filename=>$localhashfile, cache=>1);
+      }
+      my $key = $id . "|" . normalize_subject($heading);
+      my $str = url_decode($localhash->get_value(key=>$key));
+      if ($str) {
+        $heading = $str;
+      }
+    }
+  }
+  return $heading;
+}
+
 sub route_term {
   my ($q, $librec, $urltype, $term, $termtype) = @_;
   if ($termtype) {
     my $realterm = get_lc_term($term, $termtype);
+    $realterm = localize_lc_term($realterm, $librec);
     if ($realterm) {
       $term = $realterm;
     } elsif ($termtype eq $WIKIPEDIA_TYPE) {
@@ -975,6 +1008,7 @@ sub route_term {
       my $wikititle = wikipedia_referer_title($q);
       if ($wikititle) {
         $realterm = get_lc_term($wikititle, $WIKIPEDIA_TYPE);
+        $realterm = localize_lc_term($realterm, $librec);
         if ($realterm) {
           route_request($q, $librec, urltype=>$urltype, arg=>$realterm);
           route_request($q, $librec, urltype=>"KEYURL", arg=>$realterm);
@@ -985,6 +1019,7 @@ sub route_term {
       dropoff_at_library($q, $librec);
     }
   } else {
+    $term = localize_lc_term($term, $librec);
     $term = normalize_subdivisions($term);
   }
   route_request($q, $librec, urltype=>$urltype, arg=>$term);
