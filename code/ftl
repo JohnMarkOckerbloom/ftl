@@ -322,17 +322,18 @@ sub cookiename {
 sub cookiepopulate {
   my ($q, $library) = @_;
   if (!$library) {
-    $library = _stripspace($q->param("library"));
+    $library = _stripspace(scalar $q->param("library"));
   }
   my $libcookie;
+  my $fromparam = $q->param("from");
   if ($FTL::COOKIE_PERSIST) {
     $libcookie = $q->cookie(-domain=>$FTL::COOKIEDOMAIN,
-                            -name=>cookiename($q->param("from")),
+                            -name=>cookiename($fromparam),
                             -expires=>$FTL::COOKIE_PERSIST,
                             -value=>$library);
   } else {
     $libcookie = $q->cookie(-domain=>$FTL::COOKIEDOMAIN,
-                            -name=>cookiename($q->param("from")),
+                            -name=>cookiename($fromparam),
                             -value=>$library);
   }
   return [$libcookie];
@@ -511,7 +512,7 @@ sub wheretogoto {
   #if there's one specified in URL, use that (even if it's where we came from)
   #unless we're supposed to ignore it
   if ($q->param("library") && !$ignoreparam) {
-    return $q->param("library");
+    return scalar $q->param("library");
   }
   # if there's a source-specific one matching our source, use that (ditto)
   my @cookienames = $q->cookie();
@@ -637,7 +638,7 @@ sub chooselibraryform {
   my ($q) = @_;
   my $fromlibrary = $q->param("from");
   my $cookies = cookiepopulate($q);
-  my $cookiename = cookiename($q->param("from"));
+  my $cookiename = cookiename($fromlibrary);
   my $libchosen = $q->param("library") || $q->cookie($cookiename);
 
   my $librec = findlibrary($libchosen);
@@ -838,7 +839,7 @@ sub route_request {
                                               {TITLE=>$params{title}})/ge;
   }
   $url =~ s/\$\{([^\}]+)\}/&substitute($1, $librec, {ARG=>$params{arg}})/ge;
-  my $cname = cookiename($q->param("from"));
+  my $cname = cookiename(scalar $q->param("from"));
   if ($q->param('keep')) {
     my $cookies = cookiepopulate($q);
     print $q->redirect(-uri=>$url, -cookie=>$cookies);
