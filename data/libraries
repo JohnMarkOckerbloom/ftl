@@ -2307,6 +2307,14 @@ CATTYPE sirsient
 BASEURL http://trib.ent.sirsidynix.net.uk
 LCODE en_GB/wcc
 
+ID OCLC-UKWSC
+NAME West Sussex Libraries
+LOCATION West Sussex, England
+COUNTRY UK
+BASEURL https://arena.westsussex.gov.uk/web/arena
+CATTYPE arenacode
+FILTERS SNK
+
 ID UK-UKLOZSL
 NAME Zoological Society of London
 LOCATION London, England
