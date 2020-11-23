@@ -10,8 +10,8 @@
 #   are not included in this file.
 # Manual title and name-title correspondences have been moved to wikiworksmap.
 # See docs file for documentation
-# Last updated 2020-11-20
-# Did LCSH 2015-2019 update lists, 2020 monthly lists 1-9, 10 (A-M only)
+# Last updated 2020-11-23
+# Did LCSH 2015-2019 update lists, 2020 monthly lists 1-10
 1 Pendleton Place House (New York, N.Y.)|=|Building at One Pendleton Place
 1009 Fifth Avenue House (New York, N.Y.)|=|Benjamin N. Duke House
 1066 Country Walk (England)|=|1066 Country Walk
@@ -69,7 +69,7 @@
 360-degree feedback (Rating of employees)|<->|360-degree feedback
 361 Broadway Building (New York, N.Y.)|=|361 Broadway
 364 Van Duzer Street House (New York, N.Y.)|<->|364 and 390 Van Duzer Street
-376-380 Lafayette Street Building (New York, N.Y.)|=|Schermerhorn Building 376–380 Lafayette Street
+376-380 Lafayette Street Building (New York, N.Y.)|=|Schermerhorn Building
 390 Van Duzer Street House (New York, N.Y.)|->|364 and 390 Van Duzer Street
 4-H clubs|<->|4-H
 400 State Trail (Wis.)|=|400 State Trail
@@ -78,7 +78,7 @@
 403(b) plans|<->|403(b)
 4200 Class (Steam locomotives)|=|GWR 4200 Class
 424 (Locomotive)|<->|MÁV Class 424
-48 Belgrave Square (London, England)|=|48 Belgrave Square
+48 Belgrave Square (London, England)|->|Belgrave Square
 51 Market Street House (New York, N.Y.)|=|51 Market Street
 527 groups|=|527 organization
 5400 Class (Steam locomotives)|=|GWR 5400 Class
@@ -1581,7 +1581,7 @@ Ao language|<->|Ao languages
 Aoba (Vanuatu)|=|Ambae Island
 Aoga Island (Japan)|=|Aogashima
 Aomori-ken (Japan)|=|Aomori Prefecture
-Aomori-shi (Japan)|=|Aomori (city)
+Aomori-shi (Japan)|=|Aomori
 Aonyx capensis|=|African clawless otter
 Aoraki/Mount Cook (N.Z.)|=|Aoraki / Mount Cook
 Aortic valve -- Stenosis|<->|Aortic stenosis
@@ -2091,6 +2091,7 @@ Art, Greek|=|Greek art
 Art historians|->|History of art
 Art in environmental education|<->|Arts-based environmental education
 Art, Indic|=|Indian art
+Art, Indonesian|=|Indonesian art
 Art, Italian|=|Italian art
 Art, Japanese|=|Japanese art
 Art, Korean|=|Korean art
@@ -2923,7 +2924,7 @@ Bamboccianti (Group of artists)|=|Bamboccianti
 Bambuso sonoro (Musical instrument)|<->|Bamboo Organ
 B&amacr;m&imacr;&amacr;n (Afghanistan : Province)|=|Bamyan Province
 Bamileke (African people)|=|Bamileke people
-Bamiyan Site (Afghanistan)|<->|Buddhas of Bamyan
+Bamiyan Site (Afghanistan)|<->|Buddhas of Bamiyan
 Bamse (Dog)|=|Bamse (St. Bernard)
 Bamun (African people)|=|Bamum people
 B&amacr;my&amacr;n (Afghanistan)|=|Bamyan
@@ -7034,6 +7035,7 @@ Chromosome abnormalities|=|Chromosome abnormality
 Chromosomes|=|Chromosome
 Chronic diseases|<->|Chronic condition
 Chronic myeloid leukemia|=|Chronic myelogenous leukemia
+Chronic pain -- Treatment|<->|Pain management
 Chronopia (Game)|<->|Drakar och Demoner
 Chru (Vietnamese people)|=|Churu people
 Chryseis (Mythological character)|=|Chryseis
@@ -9142,7 +9144,7 @@ Dams -- Iran|<->|List of dams and reservoirs in Iran
 Dams -- Iraq|<->|List of dams and reservoirs in Iraq
 Damsel bugs|=|Nabidae
 Damsg&aring;rd Manor (Bergen, Norway)|=|Damsgård Manor
-Dan (African people)|=|Gio people
+Dan (African people)|=|Dan people
 Dan (Tribe of Israel)|=|Tribe of Dan
 Dan Patch (Race horse)|=|Dan Patch
 Dan River (Va. and N.C.)|=|Dan River
@@ -12248,7 +12250,7 @@ Fisher, Phryne (Fictitious character)|=|Phryne Fisher
 Fisher River (Va. and N.C.)|=|Fisher River (North Carolina)
 Fisher's Hill, Battle of, Va., 1864|=|Battle of Fisher's Hill
 Fisheries|=|Fishery
-Fisheries -- Climatic factors|<->|Fisheries and climate change
+Fisheries -- Climatic factors|<->|Climate change and fisheries
 Fishers|=|Fisherman
 Fishery law and legislation|<->|Fisheries law
 Fishery management|=|Fisheries management
@@ -12290,7 +12292,7 @@ Flags -- Canada|<->|List of Canadian flags
 Flags -- Confederate States of America|=|Flags of the Confederate States of America
 Flags -- Desecration|=|Flag desecration
 Flags -- Germany|<->|List of German flags
-Flags -- Great Britain|<->|List of British flags
+Flags -- Great Britain|<->|List of United Kingdom flags
 Flags -- Japan|<->|List of Japanese flags
 Flags -- United States|<->|Flag of the United States
 Flags -- United States -- History|<->|History of the flags of the United States
@@ -16026,7 +16028,7 @@ Hubbard Glacier (Alaska)|=|Hubbard Glacier
 Hubbard Lake (Alcona County, Mich. : Lake)|=|Hubbard Lake
 Hubbardton, Battle of, Hubbardton, Vt., 1777|=|Battle of Hubbardton
 Hubbell Trading Post National Historic Site (Ganado, Ariz.)|=|Hubbell Trading Post National Historic Site
-Hubble, Mildred (Fictitious character)|=|Mildred Hubble
+Hubble, Mildred (Fictitious character)|<->|List of The Worst Witch characters
 Hubert H. Humphrey Metrodome (Minneapolis, Minn.)|=|Hubert H. Humphrey Metrodome
 Huckleberry Hound (Fictitious character)|=|Huckleberry Hound
 H&uuml;davent Hatun T&uuml;rbesi (Ni&gbreve;de, Turkey)|=|Hudavent Hatun Tomb
@@ -16809,7 +16811,7 @@ Inner cities|=|Inner city
 Inner Hebrides (Scotland)|=|Inner Hebrides
 Inner Light|=|Inward light
 Inner missions|=|Inner mission
-Innes National Park (S.A.)|=|Innes National Park
+Innes National Park (S.A.)|=|Dhilba Guuranda-Innes National Park
 Innocent passage (Law of the sea)|=|Innocent passage
 Innoko National Wildlife Refuge (Alaska)|=|Innoko National Wildlife Refuge
 Innoko River (Alaska)|=|Innoko River
@@ -22543,7 +22545,7 @@ Mirdasid dynasty, 1023-1080|=|Mirdasid dynasty
 Mirdit&euml; (Albania)|<->|Mirditë District
 Miri (Indic people)|=|Mising people
 Miri&ntilde;ay River (Argentina)|<->|Miriñay River
-Miriwoong (Australian people)|=|Miriwung people
+Miriwoong (Australian people)|=|Miriwoong people
 Mirna River (Croatia)|=|Mirna (Adriatic Sea)
 Mirning (Australian people)|=|Mirning
 Mir&oacute;briga (Baixo Alentejo, Portugal : Extinct city)|=|Miróbriga
@@ -23264,7 +23266,6 @@ Multi-user dungeons|=|MUD
 Multicasting (Computer networks)|<->|Multicast
 Multichip modules (Microelectronics)|=|Multi-chip module
 Multidrug resistance|=|Multiple drug resistance
-Multidrug-resistant tuberculosis|=|Multi-drug-resistant tuberculosis
 Multihoming (Computer networks)|=|Multihoming
 Multilevel marketing|=|Multi-level marketing
 Multilevel models (Statistics)|=|Multilevel model
@@ -23361,6 +23362,7 @@ Mushrooms|=|Mushroom
 Music -- 20th century|<->|20th century music
 Music -- Burma|<->|Music of Myanmar
 Music -- Competitions|=|Music competition
+Music -- Greece|<->|Music of Greece
 Music -- Korea|<->|Music of Korea
 Music -- Latin America|<->|Music of Latin America
 Music -- Morocco|<->|Music of Morocco
@@ -23489,8 +23491,8 @@ Nagasaki-shi (Japan) -- History -- Bombardment, 1945|->|Atomic bombings of Hiros
 Nagashino, Battle of, Japan, 1575|=|Battle of Nagashino
 Nagel family|<->|Nagel (surname)
 Nagorno-Karabakh (Azerbaijan)|=|Nagorno-Karabakh
-Nagorno-Karabakh (Azerbaijan) -- History|<->|History of Artsakh
-Nagorno-Karabakh Conflict, 1988-1994|=|Nagorno-Karabakh War
+Nagorno-Karabakh (Azerbaijan) -- History|<->|History of Nagorno-Karabakh
+Nagorno-Karabakh Conflict, 1988-1994|=|First Nagorno-Karabakh war
 Nagoya-shi (Japan)|=|Nagoya
 Nagoya-shi (Japan) -- History -- Bombardment, 1945|<->|Bombing of Nagoya in World War II
 Nagualism|<->|Nagual
@@ -23928,6 +23930,7 @@ Neem|=|Azadirachta indica
 Neerwinden (Belgium)|=|Neerwinden
 Neerwinden, Battle of, Neerwinden, Belgium, 1693|=|Battle of Landen
 Neerwinden, Battle of, Neerwinden, Belgium, 1793|=|Battle of Neerwinden (1793)
+Negaprion brevirostris|=|Lemon shark
 Negative assurance (Accounting)|=|Negative assurance
 Negeri Sembilan (Malaysia)|=|Negeri Sembilan
 Negidal (Asian people)|=|Negidals
@@ -24135,6 +24138,7 @@ New Mexico (Battleship)|=|USS New Mexico (BB-40)
 New Mexico -- History -- Civil War, 1861-1865|->|New Mexico Territory in the American Civil War
 New Mexico -- Politics and government|<->|Government of New Mexico
 New Mexico Campaign, 1862|=|New Mexico Campaign
+New Mexico chile pepper|=|New Mexico chile
 New Mexico State Road 14 (N.M.)|=|New Mexico State Road 14
 New Mutants (Fictitious characters)|=|New Mutants
 New narrative (Literary movement)|=|New Narrative
@@ -24282,7 +24286,7 @@ Ngandu (African people)|<->|Ngando people
 Ngarinyman (Australian people)|=|Ngarinman
 Ngarluma (Australian people)|=|Ngarluma
 Ngata (African people)|=|Ngata people
-Ngarti (Australian people)|=|Ngarti
+Ngarti (Australian people)|=|Ngardi
 Ng&amacr;ti Apa (New Zealand people)|=|Ngāti Apa
 Ngati Awa (New Zealand people)|=|Ngāti Awa
 Ngati Haua (New Zealand people)|=|Ngāti Hauā
@@ -24431,6 +24435,7 @@ Nimbus (Art)|<->|Halo (religious iconography)
 Nimbus Project (U.S.)|<->|Nimbus program
 NIMBY syndrome|=|NIMBY
 Nimfe&#x012d; (Ukraine : Extinct city)|=|Nymphaion (Crimea)
+Nimishillen Creek (Ohio)|=|Nimishillen Creek
 Nimitz Class (Aircraft carriers)|=|Nimitz-class aircraft carrier
 Nimrod (Fighter plane)|=|Hawker Nimrod
 Nimrod (Reconnaissance aircraft)|<->|Hawker Siddeley Nimrod
@@ -24667,6 +24672,7 @@ Nord-Tr&oslash;ndelag fylke (Norway)|=|Nord-Trøndelag
 Nordegg (Alta.)|=|Nordegg
 Nordhausen Trial, Dachau, Germany, 1947|<->|Dora Trial
 Nordland fylke (Norway)|=|Nordland
+N&ouml;rdlingen, Battle of, Germany, 1645|=|Battle of Nördlingen (1645)
 N&ouml;rdlingen, Battle of, N&ouml;rdlingen, Germany, 1634|=|Battle of Nördlingen (1634)
 Nore Mutiny, 1797|->|Spithead and Nore mutinies
 Norfolk (England)|=|Norfolk
@@ -24860,6 +24866,7 @@ Nu'uanu, Battle of, Oahu, Hawaii, 1795|=|Battle of Nuʻuanu
 Nuba (African people)|<->|Nuba peoples
 Nuba Mountains (Sudan)|=|Nuba Mountains
 Nuclear accidents|<->|Nuclear and radiation accidents and incidents
+Nuclear activation analysis|<->|Neutron activation analysis
 Nuclear engineers|->|Nuclear engineering
 Nuclear families|=|Nuclear family
 Nuclear icebreakers|=|Nuclear-powered icebreaker
@@ -26230,7 +26237,7 @@ Pans (Geomorphology)|<->|Dry lake
 Panshet Dam (India)|=|Panshet Dam
 Pansies|=|Pansy
 Panslavism|=|Pan-Slavism
-Pantano de Vargas, Battle of, Colombia, 1819|=|Vargas Swamp Battle
+Pantano de Vargas, Battle of, Colombia, 1819|=|Battle of Vargas Swamp
 Pantelleria Island (Italy)|=|Pantelleria
 Pantelleria Island (Italy) -- History -- Bombardment, 1943|<->|Operation Corkscrew
 Panther (Jet fighter plane)|=|Grumman F9F Panther
@@ -26658,6 +26665,7 @@ Patriot Class (Steam locomotives)|<->|LMS Patriot Class
 Patriot missile|=|MIM-104 Patriot
 Patrol sport utility vehicle|=|Nissan Patrol
 Patrons (Roman municipal government)|<->|Patronage in ancient Rome
+Pattern and decoration (Art movement)|=|Pattern and Decoration
 Pattison State Park (Wis.)|=|Pattison State Park
 Patuxent River (Md.)|=|Patuxent River
 Patwin Indians|=|Patwin
@@ -26751,6 +26759,7 @@ Peavine M&eacute;tis Settlement (Alta.)|=|Peavine Metis Settlement
 Pebble bed reactors|=|Pebble-bed reactor
 Pecatonica, Battle of, Wis., 1832|=|Battle of Horseshoe Bend (1832)
 Peccaries|=|Peccary
+Pech River (Afghanistan)|=|Pech River
 Pecheneg (Turkic people)|=|Pechenegs
 Pechmann family|<->|Pechman
 Peckham (London, England)|=|Peckham
@@ -26799,6 +26808,7 @@ Peloncillo Mountains (Ariz. and N.M.)|<-|Peloncillo Mountains (Hidalgo County)
 Peloponnesus (Greece : Peninsula)|=|Peloponnese
 Peloponnesus (Greece : Peninsula) -- History -- Insurrection, 1770|<->|Orlov revolt
 Pelorus Jack (Dolphin)|=|Pelorus Jack
+Pelorus Sound/Te Hoiere (N.Z.)|=|Pelorus Sound / Te Hoiere
 Pelvic bones -- Fractures|=|Pelvic fracture
 Pemberton family|<->|Pemberton (surname)
 Pembina Hills (Man. and N.D.)|<->|Pembina Escarpment
@@ -27107,6 +27117,7 @@ Philippi (Extinct city)|=|Philippi
 Philippi, Battles of, Philippi, 42 B.C.|<->|Battle of Philippi
 Philippine Sea, Battle of the, 1944 (June 19-21)|=|Battle of the Philippine Sea
 Philippines -- History -- 1898-1946|=|History of the Philippines (1898–1946)
+Philippines -- History -- British occupation, 1762-1764|<->|British occupation of Manila
 Philippines -- History -- Cavite Mutiny, 1872|=|1872 Cavite mutiny
 Philippines -- History -- Coup d'&eacute;tat, 1989|=|1989 Philippine coup attempt
 Philippines -- History -- Japanese occupation, 1942-1945|=|Japanese occupation of the Philippines
@@ -27197,6 +27208,7 @@ Phunoi (Southeast Asian people)|=|Phunoi people
 Phyllostomidae|<->|Leaf-nosed bat
 Physical anthropology|=|Biological anthropology
 Physical education and training|<->|Physical education
+Physical education for people with disabilities|=|Adapted physical education
 Physical fitness centers|<->|Health club
 Physical sciences|<->|Outline of physical science
 Physicians|=|Physician
@@ -27451,7 +27463,7 @@ Plains of Abraham, Battle of the, Qu&eacute;bec, 1759|=|Battle of the Plains of 
 Plains pricklypear|=|Opuntia polyacantha
 Plains vizcacha|=|Plains viscacha
 Pl&abreve;m&abreve;deal&abreve; family|<->|Plămădeală
-Plan of salvation (Mormon theology)|=|Plan of salvation (Latter Day Saints)
+Plan of salvation (Mormon theology)|=|Plan of salvation in Mormonism
 Planck (Artificial satellite)|<->|Planck (spacecraft)
 Planetary hours (Astrology)|=|Planetary hours
 Planetary nebulae|=|Planetary nebula
@@ -27511,7 +27523,7 @@ Plaza de Toros de Albacete (Albacete, Spain)|=|Plaza de Toros de Albacete
 Plaza Grande (Quito, Ecuador)|=|Plaza de la Independencia
 Plaza San Mart&iacute;n (Buenos Aires, Argentina)|=|Plaza San Martín (Buenos Aires)
 Plaza Vieja (Havana, Cuba)|=|Plaza Vieja, Havana
-Plazas|=|Plaza
+Plazas|<->|List of plazas
 Plazuelas Site (Mexico)|=|Plazuelas
 Plea bargaining|<->|Plea bargain
 Pleas (Criminal procedure)|=|Plea
@@ -27858,8 +27870,8 @@ Porto Santo Island (Madeira Islands)|=|Porto Santo Island
 Porto Velho (Rond&ocirc;nia, Brazil)|=|Porto Velho
 Portoferraio (Italy)|=|Portoferraio
 Portoferraio (Italy) -- History -- Siege, 1801-1802|=|Siege of Porto Ferrajo
-Portol&agrave; Expedition (1769-1770)|->|Portolá expedition
-Portol&aacute;'s Expedition, Calif., 1769-1770|<->|Portolá expedition
+Portol&agrave; Expedition (1769-1770)|->|Portolà expedition
+Portol&aacute;'s Expedition, Calif., 1769-1770|<->|Portolà expedition
 Portrait miniatures|=|Portrait miniature
 Portraits|=|Portrait
 Ports of entry|=|Port of entry
@@ -28382,7 +28394,6 @@ Proteus (Greek deity)|=|Proteus
 Protheses (Architecture)|<->|Prothesis (altar)
 Proto-Li language|<->|Proto-Hlai language
 Proto-planetary nebulae|=|Protoplanetary nebula
-Proto-Slavic language|=|Proto-Slavic
 Protochlorophyllide oxidoreductases|<->|Protochlorophyllide reductase
 Protti family|<->|Protti
 Proven&ccedil;al language|->|Occitan language
@@ -28472,6 +28483,7 @@ Public prosecutors|<->|Prosecutor
 Public schools|=|Public school
 Public spaces|=|Public space
 Public Square (Cleveland, Ohio)|=|Public Square, Cleveland
+Public universities and colleges|<->|Public university
 Public utilities|=|Public utility
 Public welfare|<->|Welfare
 Pubugou shui dian zhan (China)|<->|Pubugou Dam
@@ -28604,7 +28616,7 @@ Pyramids -- Egypt|=|Egyptian pyramids
 Pyramids (Gymnastics)|=|Human pyramid
 Pyramids of Giza (Egypt)|<->|Giza pyramid complex
 Pyrene (Chemical)|=|Pyrene
-Pyrenean sheepdog|=|Pyrenean Shepherd
+Pyrenean sheepdog|=|Pyrenean Sheepdog
 Pyrethrum (Insecticide)|->|Pyrethrum
 Pyrethrum (Plant)|<->|Pyrethrum
 Pyrochroidae|=|Fire-coloured beetle
@@ -28706,6 +28718,9 @@ Quebracho Herrado (Argentina)|=|Quebracho Herrado, Córdoba
 Quebracho Herrado, Battle of, Quebracho Herrado, Argentina, 1840|=|Battle of Quebracho Herrado
 Quechua Indians|=|Quechua people
 Queen Alexandra Range (Antarctica)|=|Queen Alexandra Range
+Queen butterfly|=|Queen (butterfly)
+Queen Charlotte Sound (B.C.)|=|Queen Charlotte Sound (Canada)
+Queen Charlotte Sound/T&omacr;taranui (N.Z.)|=|Queen Charlotte Sound / Tōtaranui
 Queen Creek Tunnel (Ariz.)|=|Queen Creek Tunnel
 Queen Elizabeth Class (Aircraft carriers)|<->|Queen Elizabeth-class aircraft carrier
 Queen Elizabeth Class (Battleships)|=|Queen Elizabeth-class battleship
@@ -28807,6 +28822,7 @@ Race|<->|Race (human categorization)
 Race defilement (Nuremberg Laws of 1935)|=|Rassenschande
 Race discrimination|->|Racism
 Race horses|->|Horse racing
+Race in video games|<->|Race and video games
 Race relations|->|Sociology of race and ethnic relations
 Race riots|<->|List of ethnic riots
 Rachel Alexandra (Race horse), 2006-|=|Rachel Alexandra
@@ -29567,6 +29583,7 @@ Rin-Tin-Tin (Dog)|=|Rin Tin Tin
 Rincon Mountains (Ariz.)|=|Rincon Mountains
 Ring extensions (Algebra)|<->|Ring extension
 Ring networks (Computer networks)|=|Ring network
+Ring-opening metathesis polymerization|=|Ring-opening metathesis polymerisation
 Ring tones|=|Ringtone
 Ringette (Game)|=|Ringette
 Ringold Formation (Wash. and Or.)|<->|Ringold Formation
@@ -30239,6 +30256,7 @@ Saddleback Mountain (Franklin County, Me.)|=|Saddleback Mountain (Rangeley, Main
 Sadgora Hasidim|<->|Sadigura (Hasidic dynasty)
 Sado-shi (Japan)|=|Sado, Niigata
 SADT (System analysis)|=|Structured analysis and design technique
+S&aacute;enz family|<->|Sáenz
 Safaris|=|Safari
 Safe-conducts|=|Safe conduct
 Safety regulations|->|Safety
@@ -30478,6 +30496,8 @@ Same-sex divorce|<->|Divorce of same-sex couples
 Same-sex marriage -- Religious aspects|<->|Religious views on same-sex marriage
 Sami (European people)|=|Sámi people
 Sami language|=|Sámi languages
+Samia (African people)|=|Samia tribe
+Samia (Insects)|=|Samia (moth)
 Samish Indians|=|Samish
 SAML S.2 (Military aircraft)|->|Aviatik B.I
 Samma dynasty, ca. 1350-ca. 1520|=|Samma dynasty
@@ -31268,6 +31288,7 @@ Second Coalition, War of the, 1798-1801|<->|War of the Second Coalition
 Second grade (Education)|=|Second grade
 Second language acquisition|=|Second-language acquisition
 Second Life (Game)|<->|Second Life
+Second Malayan Emergency, Malaysia, 1968-1989|=|Communist insurgency in Malaysia (1968–1989)
 Second person narrative|->|Narration
 Second Severn Crossing (Caldicot, Wales and Redwick, England)|=|Second Severn Crossing
 Second Viennese school (Group of composers)|<->|Second Viennese School
@@ -31401,6 +31422,7 @@ Senses and sensation|<->|Sense
 Senses and sensation|<-|Sensory nervous system
 Sensory receptors|->|Sensory neuron
 Sensuality|->|Pleasure
+Senta (Serbia)|=|Senta
 Sentences (Criminal procedure)|=|Sentence (law)
 Sentences (Criminal procedure) -- Canada|=|Criminal sentencing in Canada
 Sentences (Criminal procedure) -- United States|=|Criminal sentencing in the United States
@@ -31413,6 +31435,7 @@ Senufo (African people)|=|Senufo people
 Senussite Rebellion, 1916-1918|<->|Senussi campaign
 Senussites|<->|Senusiyya
 Seoul (Korea)|<->|Seoul
+Separation (Technology)|<->|Separation process
 Separation anxiety|<->|Separation anxiety disorder
 Sepedophilus|->|Rove beetle
 Sephardic cooking|=|Sephardic Jewish cuisine
@@ -32035,6 +32058,7 @@ Sindh (Pakistan) -- History|=|History of Sindh
 Sindhi (South Asian people)|=|Sindhis
 Sindhia dynasty, 1726-1947|<->|Scindia
 Sindhul&imacr;ga&#x1e0d;h&imacr; (Nepal : Fort)|=|Sindhuli Gadhi
+Singalila Range|<->|Singalila Ridge
 Singapore -- Foreign relations|<->|Foreign relations of Singapore
 Singapore -- History -- Japanese occupation, 1942-1945|=|Japanese occupation of Singapore
 Singapore -- History -- Sepoy Rebellion, 1915|=|1915 Singapore Mutiny
@@ -32327,7 +32351,6 @@ Slovenia -- History -- Peasant Uprising, 1573|->|Croatian–Slovene Peasant Revo
 Slovenian Americans|=|Slovene Americans
 Slovenian language|=|Slovene language
 Slovenian literature|<->|Slovene literature
-Slug caterpillar moths|<->|Limacodidae
 Slug tests (Hydrogeology)|=|Slug test
 Slugging (Ridesharing)|=|Slugging
 Slugs (Mollusks)|=|Slug
@@ -32517,6 +32540,7 @@ Soil acidity|<->|Soil pH
 Soil crusting|<->|Soil crust
 Soil degradation|<->|Soil retrogression and degradation
 Soil pollution|=|Soil contamination
+Soil water repellency|<->|Hydrophobic soil
 Soils|=|Soil
 Soils, Salts in|<->|Soil salinity
 Soils -- Testing|=|Soil test
@@ -33161,7 +33185,7 @@ States' rights (American politics)|=|States' rights
 States' Rights Democratic Party|=|Dixiecrat
 Statue of Liberty (New York, N.Y.)|=|Statue of Liberty
 Statue of Liberty National Monument (N.Y. and N.J.)|=|Statue of Liberty National Monument
-State universities and colleges|<->|State university system
+State universities and colleges -- United States|<->|State university system in the United States
 State University of Iowa|->|University of Iowa
 Statins (Cardiovascular agents)|=|Statin
 Statues|=|Statue
@@ -33359,7 +33383,7 @@ Strawberry Shortcake (Fictitious character)|=|Strawberry Shortcake
 Stream Control Transmission Protocol (Computer network protocol)|=|Stream Control Transmission Protocol
 Streaming technology (Telecommunications)|<->|Streaming media
 Street entertainers|<->|Street performance
-Street Fighter Alpha (Game)|=|Street Fighter Alpha
+Street Fighter Alpha (Game)|=|Street Fighter Alpha: Warriors' Dreams
 Street luge racing|=|Street luge
 Street-railroad tracks|<->|Tramway track
 Street-railroads|<->|Tram
@@ -34133,6 +34157,7 @@ Tangle Lakes (Alaska)|=|Tangle Lakes
 Tango (Dance)|=|Tango
 Tangshan Earthquake, China, 1976|=|1976 Tangshan earthquake
 Tangut (Chinese people)|=|Tangut people
+Tanimbar Islands (Indonesia)|=|Tanimbar Islands
 Tanit (Punic deity)|=|Tanit
 Taman Nasional Tanjung Datu (Sarawak, Malaysia)|=|Tanjung Datu National Park
 Tank Mountains (Ariz.)|=|Tank Mountains
@@ -34279,6 +34304,7 @@ Te Aupouri (New Zealand people)|=|Te Aupōuri
 Te Hauturu-o-Toi/Little Barrier Island (N.Z.)|=|Little Barrier Island
 Te Houhou/George Sound (N.Z.)|=|Te Houhou / George Sound
 Te-li-ss&ubreve;, Battle of, Delisi Zhen, China, 1904|=|Battle of Te-li-Ssu
+Te Motu-o-Kura/Bare Island (N.Z.)|=|Bare Island (New Zealand)
 Te R&amacr;/Dagg Sound (N.Z.)|=|Te Rā / Dagg Sound
 Te Rarawa (New Zealand people)|=|Te Rarawa
 Te Roroa (New Zealand people)|=|Te Roroa
@@ -35042,7 +35068,7 @@ Toilets|=|Toilet
 Toiyabe Range (Nev.)|=|Toiyabe Range
 Tojo (Fighter plane)|=|Nakajima Ki-44
 Tok Pisin language|=|Tok Pisin
-T&omacr;kaid&omacr; Shinkansen (High speed train)|=|Tōkaidō Shinkansen
+T&omacr;kaid&omacr; Shinkansen (High speed train)|=|Tokaido Shinkansen
 Tokaji (Wine)|=|Tokaji
 Tokat (Tokat &Idot;li, Turkey)|=|Tokat
 Tokat &Idot;li (Turkey)|=|Tokat Province
@@ -35360,7 +35386,7 @@ Traunstein (Germany : Landkreis)|=|Traunstein (district)
 Trautenau, Battle of, Trutnov, Czech Republic, 1866|=|Battle of Trautenau
 Trautwein family|<->|Trautwein
 Travelers|=|Traveler
-Travelers' checks|=|Traveler's cheque
+Travelers' checks|=|Traveller's cheque
 Traveling salesman problem|=|Travelling salesman problem
 Traveller (Game)|=|Traveller (role-playing game)
 Traverse sport utility vehicle|=|Chevrolet Traverse
@@ -35619,7 +35645,7 @@ Tule Springs Fossil Beds National Monument (Nev.)|=|Tule Springs Fossil Beds Nat
 Tulip Mania, 1634-1637|=|Tulip mania
 Tull family|<->|Tull (surname)
 Tullock Formation (Mont.)|=|Tullock Formation
-Tulsa Race Riot, Tulsa, Okla., 1921|=|Tulsa race massacre
+Tulsa Race Massacre, Tulsa, Okla., 1921|=|Tulsa race massacre
 Tulu (Indic people)|=|Tulu people
 Tulunadu (India)|->|Kanara
 Tumac&aacute;cori National Historical Park (Ariz.)|=|Tumacácori National Historical Park
@@ -35666,6 +35692,7 @@ Tupolev Tu-4 (Bomber)|=|Tupolev Tu-4
 Tupolev Tu-95 Bear (Bomber)|=|Tupolev Tu-95
 Tupungato Mountain (Argentina and Chile)|=|Tupungato
 Tupuri (African people)|=|Tupuri people
+T&umacr;ranganui-a-Kiwa/Poverty Bay (N.Z.)|=|Poverty Bay
 Turbo codes (Telecommunication)|=|Turbo code
 Turco-Italian War, 1911-1912|=|Italo-Turkish War
 Turco-Montenegrin War, 1876-1878|=|Montenegrin–Ottoman War (1876–1878)
@@ -35812,7 +35839,7 @@ Two thousand one, A.D.|=|2001
 Two thousand seven, A.D.|=|2007
 Two thousand six, A.D.|=|2006
 Two thousand sixteen, A.D.|=|2016
-Two thousand thirty, A.D.|<->|2030s
+Two thousand thirty, A.D.|->|3rd millennium
 Two thousand three, A.D.|=|2003
 Two thousand twelve, A.D.|=|2012
 Two thousand twenty, A.D.|=|2020
@@ -35952,7 +35979,7 @@ Ukkusiksalik National Park (Nunavut)|=|Ukkusiksalik National Park
 Ukkusissat (Greenland)|=|Ukkusissat
 Ukraine -- Economic conditions|<->|Economy of Ukraine
 Ukraine -- History -- Euromaidan Protests, 2013-2014|<->|Euromaidan
-Ukraine -- History -- Euromaidan Protests, 2013-2014|<-|2014 Ukrainian revolution
+Ukraine -- History -- Euromaidan Protests, 2013-2014|<-|Revolution of Dignity
 Ukraine -- History -- Famine, 1932-1933|<->|Holodomor
 Ukraine -- History -- German occupation, 1941-1944|<->|Reichskommissariat Ukraine
 Ukraine -- History -- Independence proclamation, 1918 (January 22)|<->|Act Zluky
@@ -36574,6 +36601,7 @@ V&aring;gen, Battle of, Bergen, Norway, 1665|=|Battle of Vågen
 Vaginal birth after cesarean|<->|Delivery after previous caesarean section
 Vahagn (Armenian deity)|=|Vahagn
 Vai (African people)|=|Vai people
+Vaigai River (India)|=|Vaigai River
 V&aacute;jra (Weapons)|=|Vajra
 Vajrak&imacr;laya (Buddhist deity)|=|Vajrakilaya
 V&amacr;kh&amacr;n (Afghanistan : Region)|<->|Wakhan
@@ -36892,6 +36920,7 @@ Victoria Park (Truro, N.S.)|=|Victoria Park, Truro, Nova Scotia
 Victorio Peak (N.M.)|=|Victorio Peak
 Vicugna (Genus)|=|Vicugna
 Video blogs|=|Vlog
+Video gamers|<->|Gamer
 Video games|=|Video game
 Video games -- Design|<->|Video game design
 Video games -- Religious aspects|<->|Religion and video games
@@ -36969,6 +36998,7 @@ Vignale Monferrato (Italy)|=|Vignale Monferrato
 Vigo (Spain)|=|Vigo
 Vigo Bay, Battle of, Spain, 1702|=|Battle of Vigo Bay
 Vigor automobile|<->|Honda Vigor
+Viharas (Architecture)|->|Vihāra
 Vijos&euml; River (Greece and Albania)|=|Aoös
 Viking (Military aircraft)|=|Lockheed S-3 Viking
 Viking (Transport plane)|<->|Vickers VC.1 Viking
@@ -38000,6 +38030,7 @@ Wine tourism|=|Enotourism
 Wineries|=|Winery
 Wing-warping (Aerodynamics)|=|Wing warping
 Winged elm|=|Ulmus alata
+Winged horses|<->|Flying horses
 Winged mapleleaf (Mollusk)|=|Winged mapleleaf
 Wingra, Lake (Wis.)|=|Lake Wingra
 Wings (Anatomy)|->|Wing
@@ -38148,6 +38179,7 @@ Women scientists|->|Women in science
 Women slaves|->|Slavery
 Women soldiers|<->|Women in the military
 Women video game designers|<->|List of women in the video game industry
+Women video gamers|<->|Women and video games
 Women's bands (Music)|<->|All-female band
 Women's Christian Temperance Union|=|Woman's Christian Temperance Union
 Women's clothing|->|Clothing
@@ -38408,7 +38440,7 @@ World War, 1939-1945 -- Evacuation of civilians -- Gibraltar|=|Evacuation of the
 World War, 1939-1945 -- Evacuation of civilians -- Great Britain|=|Evacuations of civilians in Britain during World War II
 World War, 1939-1945 -- Evacuation of civilians -- Japan|<->|Evacuations of civilians in Japan during World War II
 World War, 1939-1945 -- Fiction|<->|Fiction based on World War II
-World War, 1939-1945 -- Finland|<->|Military history of Finland during World War II
+World War, 1939-1945 -- Finland|<->|Finland during World War II
 World War, 1939-1945 -- France|<->|France during World War II
 World War, 1939-1945 -- France -- Paris|=|Paris in World War II
 World War, 1939-1945 -- Greece|<->|Military history of Greece during World War II
@@ -38591,7 +38623,7 @@ Xiong family|<->|Xiong (surname)
 Xiongnu (Asian people)|=|Xiongnu
 Xipe Totec (Aztec deity)|=|Xipe Totec
 XML (Document markup language)|=|XML
-Xocal&inodot; (Azerbaijan)|=|Khojaly (village)
+Xocal&inodot; (Azerbaijan)|=|Khojaly (town)
 Xocal&inodot; Rayonu (Azerbaijan)|=|Khojaly District
 Xochiquetzal (Aztec deity)|=|Xōchiquetzal
 Xoom (Computer)|=|Motorola Xoom
@@ -38949,6 +38981,7 @@ Zeme (Indic people)|=|Zeme Naga
 Zemun (Concentration camp)|=|Sajmište concentration camp
 Zen Buddhism|=|Zen
 Zenith Z-100 (Computer)|=|Zenith Z-100
+Zenta, Battle of, Serbia, 1697|=|Battle of Zenta
 Zeravshan Range (Tajikistan and Uzbekistan)|=|Zarafshan Range
 Zeravshan River (Tajikistan and Uzbekistan)|=|Zeravshan (river)
 Zerbst (Germany)|=|Zerbst
@@ -39005,6 +39038,7 @@ Zolochivs'ky&#x012d; zamok (Ukraine)|=|Zolochiv Castle
 Zoloti vorota (Ky&iuml;v, Ukraine)|=|Golden Gate, Kyiv
 Zombies|=|Zombie
 Zombies in motion pictures|<->|List of zombie films
+Zombies in video games|<->|List of zombie video games
 Zona Rosa Massacre, San Salvador, El Salvador, 1985|=|1985 Zona Rosa attacks
 Zone system (Photography)|=|Zone System
 Zooxanthella|=|Zooxanthellae
