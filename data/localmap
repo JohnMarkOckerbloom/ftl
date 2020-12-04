@@ -5,5 +5,13 @@
 #   (though appropriate attribution appreciated)
 # Format: Library-code|Local-subject|relationship|LC-subject
 # In this file, non-ASCII characters are included literally (no entities)
-# Last updated 2020-11-02
+# Last updated 2020-12-04
+# 
+#   U-Colorado Boulder mappings based on https://www.colorado.edu/libraries/2018/08/19/inclusive-spaces-and-practices
+OCLC-COD|Children of undocumented immigrants|<->|Children of illegal aliens
+OCLC-COD|Immigrant detention centers|<->|Alien detention centers
+OCLC-COD|Noncitizens|<->|Aliens
+OCLC-COD|Undocumented immigrant children|<->|Illegal alien children
 OCLC-COD|Undocumented immigrants|<->|Illegal aliens
+OCLC-COD|Undocumented immigrants in literature|<->|Illegal aliens in literature 
+OCLC-COD|Women undocumented immigrants|<->|Women illegal aliens

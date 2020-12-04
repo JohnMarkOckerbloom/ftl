@@ -10,7 +10,7 @@
 #   are not included in this file.
 # Manual title and name-title correspondences have been moved to wikiworksmap.
 # See docs file for documentation
-# Last updated 2020-11-23
+# Last updated 2020-12-04
 # Did LCSH 2015-2019 update lists, 2020 monthly lists 1-10
 1 Pendleton Place House (New York, N.Y.)|=|Building at One Pendleton Place
 1009 Fifth Avenue House (New York, N.Y.)|=|Benjamin N. Duke House
@@ -520,7 +520,7 @@ African American actors|<->|List of African-American actors
 African American art|=|African-American art
 African American astronauts|<->|List of African-American astronauts
 African American ballerinas|<->|List of African-American ballerinas
-African American churches|<->|Black church
+African American churches|<->|Black Church (African American)
 African American conservatives|<->|Black conservatism in the United States
 African American cooking|<->|Soul food
 African American dance|=|African-American dance
@@ -2516,7 +2516,7 @@ Autolysis|=|Autolysis (biology)
 AUTOMATH (Formal language)|=|Automath
 Automated tellers|<->|Automated teller machine
 Automated vehicles|<->|Vehicular automation
-Automatic dependent surveillance--broadcast (Air traffic control)|=|Automatic dependent surveillance – broadcast
+Automatic dependent surveillance--broadcast (Air traffic control)|=|Automatic Dependent Surveillance–Broadcast
 Automatic pilot (Airplanes)|<->|Autopilot
 Automatic pilot (Helicopters)|->|Autopilot
 Automatic pilot (Ships)|->|Autopilot
@@ -3418,10 +3418,10 @@ Belfast (Northern Ireland) -- History|=|History of Belfast
 Belfiore Martyrs Conspiracy, Italy, 1851-1852|<->|Belfiore martyrs
 Belfort (France)|=|Belfort
 Belfort (France) -- History -- Siege, 1870-1871|=|Siege of Belfort
-Belgian malinois|=|Malinois dog
+Belgian malinois|->|Belgian Shepherd
 Belgian Pavilion (New York World's Fair, 1939-1940, New York, N.Y.)|<->|Belgian Building
 Belgian sheepdog|=|Belgian Shepherd
-Belgian tervuren|=|Tervuren dog
+Belgian tervuren|->|Belgian Shepherd
 Belgica Mountains (Antarctica)|=|Belgica Mountains
 Belgium -- History -- German occupation, 1914-1918|<->|German occupation of Belgium during World War I
 Belgium -- History -- German occupation, 1940-1945|<->|German occupation of Belgium during World War II
@@ -7508,7 +7508,7 @@ Coeur d'Alene Miners' Strike, Idaho, 1899|=|1899 Coeur d'Alene labor confrontati
 Coeur d'Alene Mountains (Idaho and Mont.)|=|Coeur d'Alene Mountains
 Coeur d'Alene War, 1858|=|Coeur d'Alene War
 Coexistence of species|<->|Sympatry
-Cof&aacute;n Indians|=|Cofán
+Cof&aacute;n Indians|=|Cofán people
 Coffee cups|=|Coffee cup
 Coffeehouses|=|Coffeehouse
 CoffeeScript (Computer program language)|=|CoffeeScript
@@ -9505,7 +9505,7 @@ Democratic National Convention (1924 : New York, N.Y.)|=|1924 Democratic Nationa
 Democratic National Convention (1964 : Atlantic City, N.J.)|=|1964 Democratic National Convention
 Democratic National Convention (1968 : Chicago, Ill.)|=|1968 Democratic National Convention
 Democratic Party (U.S.)|=|Democratic Party (United States)
-Democratic Party (U.S.) -- History|=|History of the United States Democratic Party
+Democratic Party (U.S.) -- History|=|History of the Democratic Party (United States)
 Democracy -- Greece -- Athens -- History -- To 1500|<->|Athenian democracy
 Demon (Jet fighter plane)|=|McDonnell F3H Demon
 Demon Headmaster (Fictitious character)|<->|The Demon Headmaster
@@ -15553,7 +15553,7 @@ Hindustani music|<->|Hindustani classical music
 Hinges|<->|Hinge
 Hinkley Point (England)|=|Hinkley Point
 Hinkley Point Nuclear Power Station (England)|<-|Hinkley Point A nuclear power station
-Hinkley Point Nuclear Power Station (England)|<->|Hinkley Point B Nuclear Power Station
+Hinkley Point Nuclear Power Station (England)|<->|Hinkley Point B nuclear power station
 Hinkley Point Nuclear Power Station (England)|<-|Hinkley Point C nuclear power station
 Hinman, Mount (Wash.)|=|Mount Hinman
 Hinnies|=|Hinny
@@ -19101,7 +19101,7 @@ Krobo (African people)|=|Krobo people
 Krongo (African people)|=|Krongo Nuba people
 Kronshtadt (Russia)|=|Kronstadt
 Kronshtadt Rebellion, Kronshtadt, Russia, 1921|=|Kronstadt rebellion
-Kroumirie Mountains (Tunisia and Algeria)|<->|Khroumire
+Kroumirie Mountains (Tunisia and Algeria)|<->|Kroumirie
 Kru (African people)|=|Kru people
 Krueger, Freddy (Fictitious character)|=|Freddy Krueger
 Krugerrand (Coin)|=|Krugerrand
@@ -20031,7 +20031,7 @@ Library technicians|=|Library technician
 Library Web sites|=|Library website
 Librazhd (Albania : Rrethi)|=|Librazhd District
 Libya -- History -- Bombardment, 1986|<->|1986 United States bombing of Libya
-Libya -- History -- Civil War, 2011-|<->|Libyan conflict (2011–present)
+Libya -- History -- Civil War, 2011-|<->|Libyan conflict (2011–2020)
 Libya -- History -- Civil War, 2011-|<-|Libyan Civil War (2011)
 Libya -- History -- Coup d'&eacute;tat, 1969|=|1969 Libyan coup d'état
 Libya -- Politics and government|<->|Politics of Libya
@@ -21424,7 +21424,7 @@ Markdown (Document markup language)|=|Markdown
 Markweeta language|=|Markwet language
 Marland Estate (Ponca City, Okla.)|<->|E. W. Marland Mansion
 Marlborough (Battleship)|=|HMS Marlborough (1912)
-Marley, Jacob (Fictitious character) (Spirit)|=|Jacob Marley
+Marley, Jacob (Fictitious character) (Spirit)|->|A Christmas Carol
 Marlins|=|Marlin
 Marlowe, Philip (Fictitious character)|=|Philip Marlowe
 Marmorpalais (Potsdam, Germany)|=|Marmorpalais
@@ -22414,7 +22414,7 @@ Military research|<->|Military technology
 Military robots|=|Military robot
 Military tattoos (Ceremonies, honors, and salutes)|<->|Military tattoo
 Military weapons|->|Weapon
-Militia movements -- United States|<->|Militia organizations in the United States
+Militia movements -- United States|<->|American militia movement
 Milk and meat (Jewish law)|=|Milk and meat in Jewish law
 Milk Creek, Battle of, Colo., 1879|->|Meeker Massacre
 Milk River (Mont. and Alta.)|=|Milk River (Alberta–Montana)
@@ -23492,7 +23492,7 @@ Nagashino, Battle of, Japan, 1575|=|Battle of Nagashino
 Nagel family|<->|Nagel (surname)
 Nagorno-Karabakh (Azerbaijan)|=|Nagorno-Karabakh
 Nagorno-Karabakh (Azerbaijan) -- History|<->|History of Nagorno-Karabakh
-Nagorno-Karabakh Conflict, 1988-1994|=|First Nagorno-Karabakh war
+Nagorno-Karabakh Conflict, 1988-1994|=|First Nagorno-Karabakh War
 Nagoya-shi (Japan)|=|Nagoya
 Nagoya-shi (Japan) -- History -- Bombardment, 1945|<->|Bombing of Nagoya in World War II
 Nagualism|<->|Nagual
@@ -26041,7 +26041,7 @@ Palacio de Gobierno (Lima, Peru)|=|Government Palace (Peru)
 Palacio de Justicia (Bogot&aacute;, Colombia)|<->|Palace of Justice of Colombia
 Palacio de Justicia (Bogot&aacute;, Colombia) -- Siege, 1985|=|Palace of Justice siege
 Palacio de Justicia (Peru)|=|Palace of Justice, Lima
-Palacio de la Madraza (Granada, Spain)|<->|Madrasah of Granada
+Palacio de la Madraza (Granada, Spain)|<->|Madrasa of Granada
 Palacio de las Aguas Corrientes (Buenos Aires, Argentina)|=|The Water Company Palace
 Palacio de las Cortes (Madrid, Spain)|=|Palacio de las Cortes, Madrid
 Palacio de L&oacute;pez (Asunci&oacute;n, Paraguay)|=|Palacio de los López
@@ -27528,7 +27528,7 @@ Plazuelas Site (Mexico)|=|Plazuelas
 Plea bargaining|<->|Plea bargain
 Pleas (Criminal procedure)|=|Plea
 Pleasure Island (Wakefield, Mass.)|=|Pleasure Island (Massachusetts amusement park)
-Plebs (Rome)|=|Plebs
+Plebs (Rome)|=|Plebeians
 Pl&eacute;iade (Group of poets)|=|La Pléiade
 Pleiadians (Spirits)|<->|Nordic aliens
 Plenty Highway (N.T. and Qld.)|=|Plenty Highway
@@ -27642,7 +27642,7 @@ Poland -- History -- Rebellion of Lubomirski, 1665-1666|=|Lubomirski's rebellion
 Poland -- History -- Rebellion of Zebrzydowski, 1606-1609|=|Zebrzydowski rebellion
 Poland -- History -- Revolution, 1830-1832|<->|November Uprising
 Poland -- History -- Revolution, 1863-1864|<->|January Uprising
-Poland -- History -- Revolution, 1905-1907|=|Revolution in the Kingdom of Poland (1905–07)
+Poland -- History -- Revolution, 1905-1907|=|Revolution in the Kingdom of Poland (1905–1907)
 Poland -- History -- Revolution of 1794|<->|Kościuszko Uprising
 Poland -- History -- Revolution of 1846|<->|Greater Poland uprising (1846)
 Poland -- History -- Revolution of 1848|<->|Greater Poland uprising (1848)
@@ -29866,7 +29866,7 @@ Rome -- History -- Republic, 510-30 B.C.|<->|Roman Republic
 Rome -- History -- Servile Wars, 135-71 B.C.|=|Servile Wars
 Rome -- History -- Severans, 193-235|<->|Severan dynasty
 Rome -- History -- Siege, 410|<->|Sack of Rome (410)
-Rome -- History -- Social War, 90-88 B.C.|<->|Social War (Italian)
+Rome -- History -- Social War, 90-88 B.C.|<->|Social War (91–87 BC)
 Rome -- History -- Theodosians, 379-455|<->|Theodosian dynasty
 Rome -- Navy|<->|Roman navy
 Rome -- Politics and government|<->|Political institutions of ancient Rome
@@ -36155,29 +36155,30 @@ United States -- Boundaries -- Mexico|<->|Mexico–United States border
 United States Capitol (Washington, D.C.)|=|United States Capitol
 United States Catholic Conference|->|United States Conference of Catholic Bishops
 United States -- Census|=|United States Census
-United States -- Census, 1790|=|1790 United States Census
-United States -- Census, 1800|=|1800 United States Census
-United States -- Census, 1810|=|1810 United States Census
-United States -- Census, 1820|=|1820 United States Census
-United States -- Census, 1830|=|1830 United States Census
-United States -- Census, 1840|=|1840 United States Census
-United States -- Census, 1850|=|1850 United States Census
-United States -- Census, 1860|=|1860 United States Census
-United States -- Census, 1870|=|1870 United States Census
-United States -- Census, 1880|=|1880 United States Census
-United States -- Census, 1890|=|1890 United States Census
-United States -- Census, 1900|=|1900 United States Census
-United States -- Census, 1910|=|1910 United States Census
-United States -- Census, 1920|=|1920 United States Census
-United States -- Census, 1930|=|1930 United States Census
-United States -- Census, 1940|=|1940 United States Census
-United States -- Census, 1950|=|1950 United States Census
-United States -- Census, 1960|=|1960 United States Census
-United States -- Census, 1970|=|1970 United States Census
-United States -- Census, 1980|=|1980 United States Census
-United States -- Census, 1990|=|1990 United States Census
-United States -- Census, 2000|=|2000 United States Census
-United States -- Census, 2010|=|2010 United States Census
+United States -- Census, 1790|=|1790 United States census
+United States -- Census, 1800|=|1800 United States census
+United States -- Census, 1810|=|1810 United States census
+United States -- Census, 1820|=|1820 United States census
+United States -- Census, 1830|=|1830 United States census
+United States -- Census, 1840|=|1840 United States census
+United States -- Census, 1850|=|1850 United States census
+United States -- Census, 1860|=|1860 United States census
+United States -- Census, 1870|=|1870 United States census
+United States -- Census, 1880|=|1880 United States census
+United States -- Census, 1890|=|1890 United States census
+United States -- Census, 1900|=|1900 United States census
+United States -- Census, 1910|=|1910 United States census
+United States -- Census, 1920|=|1920 United States census
+United States -- Census, 1930|=|1930 United States census
+United States -- Census, 1940|=|1940 United States census
+United States -- Census, 1950|=|1950 United States census
+United States -- Census, 1960|=|1960 United States census
+United States -- Census, 1970|=|1970 United States census
+United States -- Census, 1980|=|1980 United States census
+United States -- Census, 1990|=|1990 United States census
+United States -- Census, 2000|=|2000 United States census
+United States -- Census, 2010|=|2010 United States census
+United States -- Census, 2020|=|2020 United States census
 United States. Central Intelligence Agency|=|Central Intelligence Agency
 United States -- Civilization|<->|Culture of the United States
 United States. Coast Guard|=|United States Coast Guard
