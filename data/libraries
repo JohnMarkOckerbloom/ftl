@@ -4,7 +4,7 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2020-10-22
+# Last updated 2020-12-05
 # Automated Sweep: pick up w Nigeria
 
 ID OLBP
@@ -6832,8 +6832,10 @@ ID OCLC-YSM
 NAME Stony Brook University Libraries
 LOCATION Stony Brook
 STATE NY
-CATTYPE eds
-LCODE s3706898
+CATTYPE primo-ve
+BASEURL https://search.library.stonybrook.edu
+VID 01SUNY_STB:01SUNY_STB
+SCOPE MyInst_and_CI
 
 # no ID I could find for SC library system as a whole; using Clerks Office ID
 ID OCLC-SUFFO
@@ -8983,8 +8985,10 @@ ID OCLC-VMC
 NAME James Madison University
 LOCATION Harrisonburg
 STATE VA
-LCODE s8863137
-CATTYPE eds
+BASEURL https://search.lib.jmu.edu
+CATTYPE primo-ve
+VID 01JMU_INST:01JMU
+SCOPE MyInst_and_CI
 
 # Looks like they have their own special search box
 # that doesn't handle fields or punctuation well
@@ -9023,6 +9027,13 @@ LOCATION Norfolk
 STATE VA
 BASEURL http://library.nsu.edu
 CATTYPE innopac
+
+ID OCLC-VAN
+NAME Northern Virginia Community College
+LOCATION Virginia suburbs of Washington, DC
+STATE VA
+CATTYPE primo-justquery
+BASEURL https://vcc-nvc-primo.hosted.exlibrisgroup.com/primo-explore/search?institution=NVCC&vid=NVCC&search_scope=EVERYTHING&
 
 ID OCLC-VRP
 NAME Richmond Public Library
@@ -9084,8 +9095,8 @@ ID OCLC-VPI
 NAME Virginia Tech
 LOCATION Blacksburg
 STATE VA
-CATTYPE eds
-LCODE s6184355
+BASEURL https://virginiatech.on.worldcat.org/external-search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-VUU
 NAME Virginia Union University
@@ -9569,6 +9580,15 @@ STATE WI
 BASEURL http://countycat.mcfls.org
 CATTYPE iii-consortium-member
 LCODE 1
+
+# Didn't find a symbol for all of SHARE; this one is for Lakeshores
+ID OCLC-WIR
+NAME SHARE Consortium
+LOCATION Arrowhead, Lakeshores, and Kenosha County Libraries
+STATE WI
+CATTYPE sirsient
+BASEURL https://ent.sharelibraries.info
+LCODE en_US/default
 
 ID OCLC-0NK
 NAME South Central Library System: LINKcat
