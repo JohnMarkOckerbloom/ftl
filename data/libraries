@@ -6951,8 +6951,8 @@ ID OCLC-NDD
 NAME Duke University Libraries
 LOCATION Durham
 STATE NC
-CATTYPE summon
-BASEURL http://duke.summon.serialssolutions.com
+BASEURL https://library.duke.edu/find/all
+CATTYPE endeca
 
 ID OCLC-NZD
 NAME Durham County Library
