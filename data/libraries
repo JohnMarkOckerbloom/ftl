@@ -4,7 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2020-12-05
+# Last updated 2021-02-08
+# Manual Sweep: pick up w Museums Victoria Library (Australia)
 # Automated Sweep: pick up w Nigeria
 
 ID OLBP
@@ -87,7 +88,7 @@ LOCATION Brisbane, Queensland
 COUNTRY AU
 CATTYPE sirsient
 LCODE en_AU/eLibCat
-BASEURL https://library.brisbane.qld.gov.au
+BASEURL https://library-brisbane.ent.sirsidynix.net.au
 
 ID AU-VCCLC
 NAME Casey-Cardinia Library Corporation
@@ -151,8 +152,8 @@ ID AU-APLS
 NAME Libraries ACT
 LOCATION Canberra, ACT
 COUNTRY AU
-BASEURL https://www.librarycatalogue.act.gov.au
-CATTYPE spydus
+BASEURL https://www.librarycatalogue.act.gov.au/cgi-bin/spydus.exe/ENQ/WPAC/ALLENQ?
+CATTYPE spydus-config
 
 ID AU-NMQU 
 NAME Macquarie University
@@ -176,9 +177,9 @@ NAME Monash University
 LOCATION Melbourne, Victoria
 COUNTRY AU
 CATTYPE primodl-scope
-BASEURL http://search.lib.monash.edu
+BASEURL https://monash.hosted.exlibrisgroup.com
 LCODE MUA
-VID MON
+VID MONUI
 SCOPE au_everything
 
 ID OCLC-ATNMU
@@ -9671,6 +9672,13 @@ LOCATION Laramie
 STATE WY
 CATTYPE summon
 BASEURL http://uwyo.summon.serialssolutions.com
+
+ID MULUNGUSHI
+NAME Mulungushi University
+LOCATION Kabwe
+COUNTRY ZM
+BASEURL https://library.mu.ac.zm
+CATTYPE koha
 
 ID UZAMBIALIB
 NAME University of Zambia
