@@ -1127,6 +1127,15 @@ COUNTRY CY
 CATTYPE eds
 LCODE s5883815
 
+ID DE-35
+NAME Gottfried Wilhelm Leibniz Bibliothek
+LOCATION Hannover
+COUNTRY DE
+BASEURL http://opac.tib.eu/DB=3
+KEYURL ${BASEURL}/SET=2/TTL=1/CMD?ACT=SRCHA&IKT=1016&SRT=YOP&TRM=${ARG:SNK}
+AUTURL ${BASEURL}/SET=3/TTL=1/CMD?ACT=SRCHA&IKT=1004&SRT=YOP&TRM=${ARG:SNK}
+TITURL ${BASEURL}/SET=3/TTL=1/CMD?ACT=SRCHA&IKT=4&SRT=YOP&TRM=${ARG:SNK}
+
 ID DE-11
 NAME Humboldt-Universit&auml;t zu Berlin
 LOCATION Berlin; English search terms may give limited results
