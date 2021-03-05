@@ -10,8 +10,8 @@
 #   are not included in this file.
 # Manual title and name-title correspondences have been moved to wikiworksmap.
 # See docs file for documentation
-# Last updated 2021-02-21
-# Did LCSH 2015-2020 update lists, 2021 monthly list 1 (A-K only)
+# Last updated 2021-03-04
+# Did LCSH 2015-2020 update lists, 2021 monthly list 1 (A-R only)
 1 Pendleton Place House (New York, N.Y.)|=|One Pendleton Place
 1009 Fifth Avenue House (New York, N.Y.)|=|Benjamin N. Duke House
 1066 Country Walk (England)|=|1066 Country Walk
@@ -3131,7 +3131,7 @@ Baseballs|=|Baseball (ball)
 Basel (Switzerland)|=|Basel
 Basel (Switzerland : Canton)|=|Canton of Basel
 Basel-Landschaft (Switzerland : Canton)|=|Basel-Landschaft
-Basel-Stadt (Switzerland)|=|Canton of Basel-Stadt
+Basel-Stadt (Switzerland)|=|Basel-Stadt
 Baselines (Law of the sea)|=|Baseline (sea)
 Bases (Chemistry)|=|Base (chemistry)
 Bashkir (Turkic people)|=|Bashkirs
@@ -3181,7 +3181,7 @@ Bathgate Industrial Park (New York, N.Y.)|=|Bathgate Industrial Park
 Bathhouse Row (Hot Springs, Ark.)|=|Bathhouse Row
 Bathing suits|<->|Swimsuit
 Baths|<->|Bathing
-Baths, Turkish|=|Turkish bath
+Baths, Turkish|<->|Hammam
 Bathynomus|=|Giant isopod
 Batih, Battle of, Ukraine, 1652|=|Battle of Batih
 Batman (Fictitious character)|=|Batman
@@ -3387,7 +3387,7 @@ Beechcraft Super King Air (Turboprop transport)|=|Beechcraft Super King Air
 Beechcraft T-34 (Training plane)|=|Beechcraft T-34 Mentor
 Beecher Island, Battle of, Colo., 1868|=|Battle of Beecher Island
 Beekeepers|=|Beekeeper
-Beeliar (Australian people)|=|Beeliar people
+Beeliar (Australian people)|<->|Whadjuk
 Beersheba (Israel)|=|Beersheba
 Bees|=|Bee
 Bees -- Swarming|<->|Swarming (honey bee)
@@ -4219,7 +4219,7 @@ Bluebeard (Legendary character)|<->|Bluebeard
 Blueberries|<->|Blueberry
 Bluebird automobile|=|Nissan Bluebird
 Bluebunch wheatgrass|<->|Pseudoroegneria spicata
-Bluefields (Nicaragua)|=|Bluefields
+Bluefields (Nicaragua)|=|Bluefields, South Caribbean Coast Autonomous Region
 Bluefish Caves (Yukon)|=|Bluefish Caves
 Bluejoint reedgrass|=|Calamagrostis canadensis
 Bluenose Lake (Nunavut)|=|Bluenose Lake
@@ -5137,7 +5137,7 @@ Burlington Zephyr (Express train)|<->|Pioneer Zephyr
 Burma|=|Myanmar
 Burma -- History|=|History of Myanmar
 Burma -- History -- 1824-1948|<->|British rule in Burma
-Burma -- History -- 1948-1962|=|Post-independence Burma, 1948–1962
+Burma -- History -- 1948-1962|=|Post-independence Burma (1948–1962)
 Burma -- History -- Ava kingdom, 1364-1527|<->|Kingdom of Ava
 Burma -- History -- Japanese occupation, 1942-1945|=|Japanese occupation of Burma
 Burma -- History -- Konbaung dynasty, 1752-1885|<->|Konbaung dynasty
@@ -8177,7 +8177,7 @@ Cooking, Icelandic|<->|Icelandic cuisine
 Cooking, Igbo|<->|Igbo cuisine
 Cooking, Indic|<->|Indian cuisine
 Cooking, Indic -- Assamese style|<->|Assamese cuisine
-Cooking, Indic -- Kerala style|<->|Cuisine of Kerala
+Cooking, Indic -- Kerala style|<->|Kerala cuisine
 Cooking, Indic -- Marathi style|<->|Maharashtrian cuisine
 Cooking, Indic -- Northern style|<->|North Indian cuisine
 Cooking, Indic -- Southern style|<->|South Indian cuisine
@@ -11494,7 +11494,7 @@ Error messages (Computer science)|=|Error message
 Errors|=|Error
 Ertu&gbreve;rul (Frigate)|=|Ottoman frigate Ertuğrul
 Erwin Storm, 2005|=|Cyclone Gudrun
-Erymanthian boar (Greek mythology)|=|Erymanthian Boar
+Erymanthian boar (Greek mythology)|=|Erymanthian boar
 Erysichthon (Greek mythology)|<->|Erysichthon of Thessaly
 Erzgebirge (Czech Republic and Germany)|=|Ore Mountains
 Erzincan (Turkey)|=|Erzincan
@@ -14972,6 +14972,7 @@ Hammerstein, Battle of, Poland, 1627|=|Battle of Czarne
 Hammonasset Beach State Park (Madison, Conn.)|=|Hammonasset Beach State Park
 Hammond family|<->|Hammond (surname)
 Hampden (Bomber)|=|Handley Page Hampden
+Hampi (India)|=|Hampi (town)
 Hampshire (England)|=|Hampshire
 Hampstead (London, England)|=|Hampstead
 Hampstead Heath (London, England)|=|Hampstead Heath
@@ -19256,7 +19257,7 @@ Kunyu Mountains (China)|=|Mount Kunyu
 Kuo language (Cameroon and Chad)|=|Kuo language
 Kuparuk River (Alaska)|=|Kuparuk River
 Kupreanof Island (Alaska)|=|Kupreanof Island
-Kura River|=|Kura (Caspian Sea)
+Kura River|=|Kura (river)
 Kuranko (African people)|=|Kuranko people
 Kurapaty Forest Massacres, Belarus, 1937-1941|<->|Kurapaty
 Kurbini (Albania : Rrethi)|=|Kurbin District
@@ -19623,6 +19624,7 @@ Languages, Artificial|<->|Constructed language
 Languages, Modern|<->|Modern language
 Languages, Modern -- Conversation and phrase books|<->|Phrase book
 Languedoc (France)|=|Languedoc
+Lani (Indonesian people)|=|Lani people
 Lan&iacute;n Volcano (Argentina and Chile)|=|Lanín
 Lanjak Entimau Wild Life Sanctuary (Sarawak, Malaysia)|=|Lanjak Entimau Wildlife Sanctuary
 Lannova vila (Prague, Czech Republic)|=|Villa Lanna
@@ -19698,6 +19700,7 @@ Latah (Disease)|=|Latah
 Latecoere 290 (Torpedo bomber)|=|Latécoère 290
 Latecoere 298 (Seaplane)|=|Latécoère 298
 Laterality|<->|Lateralization of brain function
+Latgale (Latvia : Region)|=|Latgale
 Latgawa Indians|=|Latgawa
 Lati (Asian people)|<->|Lachi people
 Latin America -- History -- Wars of Independence, 1806-1830|<->|Spanish American wars of independence
@@ -20178,6 +20181,7 @@ Lima (Peru) -- History|=|History of Lima
 Lima (Peru) -- History -- Siege, 1881-1883|<->|Occupation of Lima
 Limanda ferruginea|=|Yellowtail flounder
 Limanowa, Battle of, Limanowa, Poland, 1914|=|Battle of Limanowa
+Limax (Mollusks)|=|Limax
 Limay River (Argentina)|=|Limay River
 Limba (African people)|=|Limba people (Sierra Leone)
 Limber pine|=|Pinus flexilis
@@ -20635,6 +20639,7 @@ L&ouml;tschberg-Basistunnel (Frutigen and Raron, Switzerland)|=|Lötschberg Base
 L&ouml;tschberg-Tunnel (Goppenstein and Kandersteg, Switzerland)|=|Lötschberg Tunnel
 Lotteries|=|Lottery
 Lotuko (African people)|=|Otuho people
+Lotus Mahal (Hampi, India)|=|Lotus Mahal
 LotusScript (Computer program language)|=|LotusScript
 Louie (Disney character)|->|Huey, Dewey, and Louie
 Louis (Name)|<->|Louis (given name)
@@ -20818,6 +20823,7 @@ L&uuml;tzen, Battle of, L&uuml;tzen, Germany, 1632|=|Battle of Lützen (1632)
 L&uuml;tzow (Battleship)|->|German cruiser Deutschland
 L&uuml;tzow-Holm Bay (Antarctica)|=|Lützow-Holm Bay
 Luvale (African people)|=|Luvale people
+Luwu (Kingdom)|=|Luwu
 Luxembourg -- History -- German occupation, 1940-1944|=|German occupation of Luxembourg during World War II
 Luxembourg (Luxembourg)|=|Luxembourg City
 Luxembourg (Luxembourg) -- History -- Siege, 1684|=|Siege of Luxembourg (1684)
@@ -20931,6 +20937,7 @@ Macedonia -- History -- Diadochi, 323-276 B.C.|<->|Diadochi
 Macedonia -- History -- Karpo&scaron; Uprising, 1689|=|Karposh's rebellion
 Macedonia -- History -- Uprising of 1903|<->|Ilinden–Preobrazhenie Uprising
 Macedonian language (Ancient)|=|Ancient Macedonian language
+Macedonians|<->|Macedonians (ethnic group)
 Macedonians (Ancient)|=|Ancient Macedonians
 Macei&oacute: (Brazil)|=|Maceió
 Macellum (Pompeii)|=|Macellum of Pompeii
@@ -21504,7 +21511,12 @@ M&amacr;rjah (Afghanistan)|=|Marjah
 Mark A Whippet (Tank)|=|Medium Mark A Whippet
 Mark I (Calculator)|=|Harvard Mark I
 Mark IV (Tank)|=|Mark IV tank
+Mark Twain Birthplace State Historic Site (Mo.)|=|Mark Twain Birthplace State Historic Site
 Mark Twain House (Hartford, Conn.)|<->|Mark Twain House
+Mark Twain National Forest (Agency : U.S.)|->|Mark Twain National Forest
+Mark Twain National Forest (Mo.)|=|Mark Twain National Forest
+Mark Twain National Wildlife Refuge (Ill.)|<->|Mark Twain National Wildlife Refuge Complex
+Mark Twain State Park (Mo.)|=|Mark Twain State Park
 Mark V (Tank)|=|Mark V tank
 Markedness (Linguistics)|<->|Markedness
 Markerville (Alta.)|=|Markerville
@@ -21516,8 +21528,6 @@ Marketplaces|->|Marketplace
 Markets|<->|Marketplace
 Market surveys|<->|Market research
 Marks' Mill, Battle of, Ark., 1864|=|Battle of Marks' Mills
-Mark Twain National Forest (Agency : U.S.)|->|Mark Twain National Forest
-Mark Twain National Forest (Mo.)|=|Mark Twain National Forest
 Markdown (Document markup language)|=|Markdown
 Markweeta language|=|Markwet language
 Marland Estate (Ponca City, Okla.)|<->|E. W. Marland Mansion
@@ -23196,6 +23206,7 @@ Motions in limine|=|Motion in limine
 Motivation (Psychology)|=|Motivation
 Moto, Mr. (Fictitious character)|=|Mr. Moto
 Motor fuels|=|Motor fuel
+Motor scooters|<->|Scooter (motorcycle)
 Motor vehicle driving|<->|Driving
 Motor vehicles|=|Motor vehicle
 Motorboats|=|Motorboat
@@ -24238,7 +24249,7 @@ New Market Heights, Battle of, Va., 1864|->|Battle of Chaffin's Farm
 New Mexico (Battleship)|=|USS New Mexico (BB-40)
 New Mexico -- History -- Civil War, 1861-1865|->|New Mexico Territory in the American Civil War
 New Mexico -- Politics and government|<->|Government of New Mexico
-New Mexico Campaign, 1862|=|New Mexico Campaign
+New Mexico Campaign, 1862|=|New Mexico campaign
 New Mexico chile pepper|=|New Mexico chile
 New Mexico State Road 14 (N.M.)|=|New Mexico State Road 14
 New Mutants (Fictitious characters)|=|New Mutants
@@ -24368,7 +24379,7 @@ Next, Thursday (Fictitious character)|=|Thursday Next
 Nexus 10 (Computer)|=|Nexus 10
 Nexus 7 (Computer)|<->|Nexus 7
 Nexus One (Smartphone)|=|Nexus One
-Nez Perc&eacute; Indians|=|Nez Perce people
+Nez Perc&eacute; Indians|=|Nez Perce
 Nez Perc&eacute; Indians -- Wars, 1877|<->|Nez Perce War
 Nezperce National Forest (Agency : U.S.)|->|Nez Perce National Forest
 Nezperce National Forest (Idaho)|=|Nez Perce National Forest
@@ -24753,6 +24764,7 @@ Nonjurors|<->|Non-juror
 Nonlethal weapons|=|Non-lethal weapon
 Non-Newtonian fluids|=|Non-Newtonian fluid
 Nonotuck, Mount (Mass.)|=|Mount Nonotuck
+Nonprofit journalism|=|Non-profit journalism
 Nonprofit organizations|=|Nonprofit organization
 Nonsense literature|<->|Literary nonsense
 Nonsense suppression (Genetics)|<->|Nonsense suppressor
@@ -24863,7 +24875,7 @@ Northern Ireland -- Politics and government|<-|Government of Northern Ireland
 Northern Irish|<->|People of Northern Ireland
 Northern Khmer language|=|Northern Khmer dialect
 Northern lesser bushbaby|<->|Senegal bushbaby
-Northern long-eared myotis|=|Northern myotis
+Northern long-eared myotis|=|Myotis septentrionalis
 Northern Mariana Islands -- Politics and government|<->|Politics of the Northern Mariana Islands
 Northern oriole|<-|Baltimore oriole
 Northern oriole|<-|Bullock's oriole
@@ -25029,7 +25041,7 @@ Nuremberg (Germany)|=|Nuremberg
 Nuremberg (Germany) -- History -- Siege, 1632|=|Siege of Nuremberg
 Nuremberg Medical Trial, Nuremberg, Germany, 1946-1947|<->|Doctors' trial
 Nuremberg Trial of Major German War Criminals, Nuremberg, Germany, 1945-1946|=|Nuremberg trials
-Nuremberg War Crime Trials, Nuremberg, Germany, 1946-1949|=|Nuremberg Military Tribunals
+Nuremberg War Crime Trials, Nuremberg, Germany, 1946-1949|=|Subsequent Nuremberg trials
 N&umacr;ist&amacr;n (Afghanistan : Province)|=|Nuristan Province
 Nuristani (Asian people)|<->|Nuristanis
 Nurse (Fictitious character : Shakespeare)|<->|Nurse (Romeo and Juliet)
@@ -25901,6 +25913,7 @@ Osun State (Nigeria)|=|Osun State
 Osuna, Dukes of|<->|Duke of Osuna
 Oswald West State Park (Or.)|=|Oswald West State Park
 Oswego, Lake (Or. : Lake)|=|Oswego Lake
+Ot Danum (Indonesian people)|=|Ot Danum people
 Otavalo (Ecuador)|=|Otavalo (city)
 Otavalo Indians|=|Otavalo people
 Otavi (Namibia)|=|Otavi
@@ -26768,6 +26781,7 @@ Patras, Gulf of (Greece)|=|Gulf of Patras
 Patriarchs and patriarchate|<->|Patriarch
 Patriarchal blessings (Mormon Church)|=|Patriarchal blessing
 Patriarchs (Mormon theology)|=|Patriarch (Latter Day Saints)
+Patricia Lake (Alta.)|=|Patricia Lake (Alberta)
 Patricians (Rome)|=|Patrician (ancient Rome)
 Patriot Class (Steam locomotives)|<->|LMS Patriot Class
 Patriot missile|=|MIM-104 Patriot
@@ -28800,6 +28814,7 @@ Qu&#x1ea3;ng Tr&#x1ecb; (Vietnam : Province)|=|Quảng Trị Province
 Quang Tri City, Battle of, Qu&#x1ea3;ng Tr&#x1ecb;, Vietnam, 1968|=|Battle of Quang Tri (1968)
 Quantitative easing (Monetary policy)|=|Quantitative easing
 Quantum computers|<->|Quantum computing
+Quantum Monte Carlo methods|=|Quantum Monte Carlo
 Quantum statistics|->|Particle statistics
 Quantum theory|<-|Quantum mechanics
 Quapaw Indians|=|Quapaw
@@ -30086,6 +30101,7 @@ Roswell Incident, Roswell, N.M., 1947|=|Roswell UFO incident
 Rosy wolfsnail|=|Euglandina rosea
 Rota Island (Northern Mariana Islands)|=|Rota (island)
 Rotas-Sator square|=|Sator Square
+Rote (Indonesian people)|=|Rotenese people
 Rothaargebirge (Germany)|=|Rothaar Mountains
 Rother, River (Derbyshire and South Yorkshire, England)|=|River Rother, South Yorkshire
 Rother, River (East Sussex and Kent, England)|=|River Rother, East Sussex
@@ -33014,7 +33030,7 @@ Spanish American literature|->|Latin American literature
 Spanish American poetry|->|Latin American poetry
 Spanish-American War, 1898|=|Spanish–American War
 Spanish-American War, 1898 -- Campaigns|<->|List of battles of the Spanish–American War
-Spanish-American War, 1898 -- Campaigns -- Puerto Rico|=|Puerto Rico Campaign
+Spanish-American War, 1898 -- Campaigns -- Puerto Rico|=|Puerto Rico campaign
 Spanish-American War, 1898 -- Propaganda|=|Propaganda of the Spanish–American War
 Spanish autonomous communities|=|Autonomous communities of Spain
 Spanish fir|=|Abies pinsapo
@@ -38012,7 +38028,7 @@ Widowers|->|Widow
 Widows|=|Widow
 Wiehengebirge (Germany)|=|Wiehen Hills
 Wielkopolska (Poland)|<->|Greater Poland
-Wielkopolska (Poland) -- History -- Uprising, 1918-1919|<->|Greater Poland uprising (1918–19)
+Wielkopolska (Poland) -- History -- Uprising, 1918-1919|<->|Greater Poland uprising (1918–1919)
 Wielu&nacute; (&Lstrok;&oacute;d&zacute;, Poland)|=|Wieluń
 Wielu&nacute; (&Lstrok;&oacute;d&zacute;, Poland) -- History -- Bombardment, 1939|=|Bombing of Wieluń
 Wiener Aktionismus (Group of artists)|<->|Viennese Actionism
