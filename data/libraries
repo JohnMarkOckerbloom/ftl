@@ -1162,6 +1162,17 @@ COUNTRY ES
 BASEURL http://catalogo.bne.es/uhtbin/cgisirsi
 KEYURL ${BASEURL}/x/0/0/5?searchdata1=${ARG:NK}
 
+# This is a zoned innopac, with prefix for specific library
+# and limited subject coverage
+ID OCLC-TARTU
+NAME University of Tartu
+LOCATION Tartu; English search terms may give limited results
+COUNTRY EE
+BASEURL https://www.ester.ee/search~S58*eng/
+AUTURL ${BASEURL}?searchtype=a&searcharg=${ARG:N}
+TITURL ${BASEURL}?searchtype=t&searcharg=${ARG:N}
+KEYURL ${BASEURL}?searchtype=X&searcharg=${ARG:N}
+
 ID ADDISABABAUNIV
 NAME Addis Ababa University
 LOCATION Addis Ababa
