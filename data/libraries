@@ -9211,6 +9211,14 @@ LCODE und
 VID UVM
 SCOPE Everything
 
+ID OCLC-XFG
+NAME Anacortes Public Library
+LOCATION Anacortes
+STATE WA
+CATTYPE apollo
+BASEURL https://anacortes.biblionix.com/catalog/
+FILTERS S
+
 ID OCLC-BLP
 NAME Bellingham Public Library
 LOCATION Bellingham
