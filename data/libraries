@@ -1633,6 +1633,13 @@ COUNTRY ZA
 CATTYPE encore
 BASEURL http://encore.unisa.ac.za/iii/encore
 
+ID OCLC-Y-DOLLAR-R
+NAME University of the Free State
+LOCATION Bloemfontein and Qwaqwa
+COUNTRY ZA
+BASEURL https://wagtail.ufs.ac.za
+CATTYPE innopac
+
 # using one of the National Library of Sweden's identifiers for this
 ID OCLC-S3O
 NAME LIBRIS
