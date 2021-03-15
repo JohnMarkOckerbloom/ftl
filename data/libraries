@@ -7798,6 +7798,14 @@ STATE PA
 CATTYPE summon
 BASEURL https://drexel.summon.serialssolutions.com
 
+ID OCLC-EAS
+NAME Eastern University, Warner Memorial Library
+LOCATION St. Davids
+STATE VA
+BASEURL https://eastern.tlcdelivers.com:8480
+CATTYPE ls2pac
+FILTERS S
+
 ID OCLC-CPL
 NAME eiNetwork
 LOCATION Carnegie Library of Pittsburgh, and Allegheny County libraries
