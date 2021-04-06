@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2021-02-08
-# Manual Sweep: pick up w Museums Victoria Library (Australia)
+# Last updated 2021-04-06
+# Manual Sweep: pick up w Victoria University (Australia)
 # Automated Sweep: pick up w Nigeria
 
 ID OLBP
@@ -187,7 +187,7 @@ NAME Museums Victoria Library
 LOCATION Melbourne, Victoria
 COUNTRY AU
 BASEURL https://trove.nla.gov.au
-KEYURL ${BASEURL}/result?q=nuc:VNMU+${ARG}
+KEYURL ${BASEURL}/search?nuc=VNMU&keyword=${ARG}
 FILTERS SNK
 
 ID AU-ANL
@@ -218,10 +218,8 @@ ID OCLC-RM0
 NAME RMIT University
 LOCATION Melbourne, Victoria, and other campuses
 COUNTRY AU
-CATTYPE primodl-loc
-BASEURL http://primo-direct-apac.hosted.exlibrisgroup.com
-VID RMITU
-LOC adaptor,scope:(RMIT_SubjectGuides),scope:(RMIPE),scope:(eReserve),scope:(RMIT_Architecture_Slides),scope:(RMIT_ThirdPartyVideo),scope:(RMITHistoricalImages),scope:(RMITImages),scope:(RMITU),scope:(RMIT_RESEARCH),primo_central_multiple_fe
+CATTYPE primo-justquery
+BASEURL https://rmit.primo.exlibrisgroup.com/discovery/search?tab=AllNOTresearch&search_scope=EverythingNOTresearch&vid=61RMIT_INST:RMITU&lang=en&offset=0&
 
 ID AU-SRGS
 NAME Royal Geographical Society of South Australia
@@ -1723,6 +1721,14 @@ NAME Uganda Christian University
 LOCATION Mukono
 COUNTRY UG
 BASEURL http://catalogue.library.ucu.ac.ug
+CATTYPE koha
+FILTERS S
+
+ID OCLC-UGMAR
+NAME Uganda Martyrs University, Archbishop Kiwanuka Memorial Library
+LOCATION Nkozi
+COUNTRY UG
+BASEURL http://catalogue.umu.ac.ug
 CATTYPE koha
 FILTERS S
 
