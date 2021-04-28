@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2021-04-06
-# Manual Sweep: pick up w Victoria University (Australia)
+# Last updated 2021-04-28
+# Manual Sweep: pick up w Ontario
 # Automated Sweep: pick up w Nigeria
 
 ID OLBP
@@ -486,8 +486,8 @@ ID OCLC-UAU
 NAME University of Calgary
 LOCATION Calgary
 PROVINCE AB
-CATTYPE summon
-BASEURL https://ucalgary.summon.serialssolutions.com
+CATTYPE primo-justquery
+BASEURL https://ucalgary-primo.hosted.exlibrisgroup.com/primo-explore/search?tab=everything&search_scope=EVERYTHING&vid=UCALGARY&
 
 ID OCLC-CN4UL
 NAME University of Lethbridge
@@ -675,11 +675,8 @@ ID OCLC-UAT
 NAME University of Manitoba
 LOCATION Winnipeg
 PROVINCE MB
-CATTYPE primodl-scope
-BASEURL http://primo-pmtna01.hosted.exlibrisgroup.com
-VID UMB
-LCODE UMB
-SCOPE UManitoba
+CATTYPE primo-justquery
+BASEURL https://search.lib.umanitoba.ca/discovery/search?vid=01UMB_INST:UMB&tab=Everything&search_scope=MyInst_and_CI&
 
 # using Brandon ID for this one
 ID CA-MBW
@@ -1271,6 +1268,13 @@ LOCATION Shared catalog for Ireland public libraries
 COUNTRY IE
 BASEURL http://librariesireland.iii.com/iii/encore
 CATTYPE encore
+
+ID NHLKSIRELAND
+NAME National Health Library and Knowledge Service
+LOCATION Dublin and other sites
+COUNTRY IE
+CATTYPE eds
+LCODE ns266308
 
 ID OCLC-N6I
 NAME National Library of Ireland
