@@ -7651,6 +7651,16 @@ VID UO
 LCODE UO
 SCOPE everything
 
+ID OCLC-OUP
+NAME University of Portland
+LOCATION Portland
+STATE OR
+BASEURL http://alliance-primo.hosted.exlibrisgroup.com
+CATTYPE primodl-scope
+VID UPORT
+LCODE UPORT
+SCOPE up_summit_pc
+
 ID OCLC-OQX
 NAME Washington County Cooperative Library Services
 LOCATION Washington County
