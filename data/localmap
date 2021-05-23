@@ -38,7 +38,23 @@ OCLC-OBS|Undocumented immigrant children|<->|Illegal alien children
 OCLC-OBS|Undocumented immigrants|<->|Illegal aliens
 OCLC-OBS|Undocumented immigrants in literature|<->|Illegal aliens in literature 
 OCLC-OBS|Women undocumented immigrants|<->|Women illegal aliens
+#   Central Oregon Community College uses Orbis-Cascade mappings
+OCLC-CEO inherits OCLC-OBS
+#   Chemeketa Community College uses Orbis-Cascade mappings
+OCLC-CHK inherits OCLC-OBS
+#   George Fox University uses Orbis-Cascade mappings
+OCLC-WEV inherits OCLC-OBS
+#   Lewis and Clark College uses Orbis-Cascade mappings
+OCLC-OLP inherits OCLC-OBS
 #   U-Oregon uses Orbis-Cascade mappings
 OCLC-ORU inherits OCLC-OBS
 #   U-Portland uses Orbis-Cascade mappings
 OCLC-OUP inherits OCLC-OBS
+#   Willamette University uses Orbis-Cascade mappings
+OCLC-OWT inherits OCLC-OBS
+#   Clark College uses Orbis-Cascade mappings
+OCLC-CCV inherits OCLC-OBS
+#   Evergeeen State College uses Orbis-Cascade mappings
+OCLC-ESR inherits OCLC-OBS
+#   University of Puget Sound uses Orbis-Cascade mappings
+OCLC-UPP inherits OCLC-OBS

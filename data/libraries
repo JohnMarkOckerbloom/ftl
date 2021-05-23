@@ -7499,7 +7499,7 @@ NAME Central Oregon Community College
 LOCATION Bend
 STATE OR
 CATTYPE primodl-loc
-BASEURL http://alliance-primo.hosted.exlibrisgroup.com
+BASEURL https://alliance-primo.hosted.exlibrisgroup.com
 LCODE COCC
 VID COCC
 LOC adaptor,scope:(COCC),scope:(P),scope:(E-COCC)
@@ -7509,7 +7509,7 @@ NAME Chemeketa Community College
 LOCATION Salem and Yamhill Valley
 STATE OR
 CATTYPE primodl-scope
-BASEURL http://alliance-primo.hosted.exlibrisgroup.com
+BASEURL https://alliance-primo.hosted.exlibrisgroup.com
 LCODE CHEMEK
 VID CHEMEK
 SCOPE everything
@@ -7549,7 +7549,7 @@ NAME George Fox University
 LOCATION Newberg
 STATE OR
 CATTYPE primodl-scope
-BASEURL http://alliance-primo.hosted.exlibrisgroup.com
+BASEURL https://alliance-primo.hosted.exlibrisgroup.com
 LCODE Alliance_GFOX
 VID GFOX
 SCOPE gfox_alma_summit_primocentral
@@ -7566,7 +7566,7 @@ NAME Lewis and Clark College
 LOCATION Portland
 STATE OR
 CATTYPE primodl-scope
-BASEURL http://alliance-primo.hosted.exlibrisgroup.com
+BASEURL https://alliance-primo.hosted.exlibrisgroup.com
 LCODE 01ALLIANCE_LCC
 VID LCC
 SCOPE lcc_nz_pc
@@ -7645,7 +7645,7 @@ ID OCLC-ORU
 NAME University of Oregon
 LOCATION Eugene
 STATE OR
-BASEURL http://alliance-primo.hosted.exlibrisgroup.com
+BASEURL https://alliance-primo.hosted.exlibrisgroup.com
 CATTYPE primodl-scope
 VID UO
 LCODE UO
@@ -7655,7 +7655,7 @@ ID OCLC-OUP
 NAME University of Portland
 LOCATION Portland
 STATE OR
-BASEURL http://alliance-primo.hosted.exlibrisgroup.com
+BASEURL https://alliance-primo.hosted.exlibrisgroup.com
 CATTYPE primodl-scope
 VID UPORT
 LCODE UPORT
@@ -7673,7 +7673,7 @@ NAME Willamette University Libraries
 LOCATION Salem
 STATE OR
 CATTYPE primodl-scope
-BASEURL http://alliance-primo.hosted.exlibrisgroup.com
+BASEURL https://alliance-primo.hosted.exlibrisgroup.com
 LCODE WU
 VID WU
 SCOPE WU_Libraries_Summit
@@ -9284,7 +9284,7 @@ NAME Clark College
 LOCATION Vancouver
 STATE WA
 CATTYPE primodl-scope
-BASEURL http://alliance-primo.hosted.exlibrisgroup.com
+BASEURL https://alliance-primo.hosted.exlibrisgroup.com
 LCODE CC
 VID CC
 SCOPE cc_alma
@@ -9320,7 +9320,7 @@ NAME Evergreen State College
 LOCATION Olympia
 STATE WA
 CATTYPE primodl-scope
-BASEURL http://alliance-primo.hosted.exlibrisgroup.com
+BASEURL https://alliance-primo.hosted.exlibrisgroup.com
 LCODE Alliance_EVSC
 VID EVSC
 SCOPE tesc_alma_summit
@@ -9477,7 +9477,7 @@ NAME University of Puget Sound
 LOCATION Tacoma
 STATE WA
 CATTYPE primodl-scope
-BASEURL http://alliance-primo.hosted.exlibrisgroup.com
+BASEURL https://alliance-primo.hosted.exlibrisgroup.com
 LCODE UPUGS
 VID UPUGS
 SCOPE everything
