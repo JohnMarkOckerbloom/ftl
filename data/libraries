@@ -4,7 +4,7 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2021-04-28
+# Last updated 2021-06-03
 # Manual Sweep: pick up w Ontario
 # Automated Sweep: pick up w Nigeria
 
@@ -4086,7 +4086,7 @@ NAME Athens-Clarke County Library
 LOCATION Athens
 STATE GA
 CATTYPE evergreen-dynamic
-BASEURL http://gapines.org/eg/opac
+BASEURL https://gapines.org/eg/opac
 LCODE 7
 
 ID OCLC-AFPLS
@@ -4155,7 +4155,7 @@ NAME Georgia Public Library Service, PINES catalog
 LOCATION Public libraries throughout the state
 STATE GA
 CATTYPE evergreen-dynamic
-BASEURL http://gapines.org/eg/opac
+BASEURL https://gapines.org/eg/opac
 
 ID OCLC-GPM
 NAME Georgia Southern University
@@ -4194,7 +4194,7 @@ NAME Live Oak Public Libraries
 LOCATION Savannah; Chatham, Effingham and Liberty Counties
 STATE GA
 CATTYPE evergreen-dynamic
-BASEURL http://gapines.org/eg/opac
+BASEURL https://gapines.org/eg/opac
 LCODE LOPL
 
 ID OCLC-GOU
@@ -4226,6 +4226,14 @@ LOCATION Carrollton
 STATE GA
 CATTYPE eds
 LCODE wgc1
+
+ID OCLC-ZHX
+NAME West Georgia Regional Library System
+LOCATION Carroll, Douglas, Haralson, Heard, and Paulding counties
+STATE GA
+CATTYPE evergreen-dynamic
+BASEURL https://gapines.org/eg/opac
+LCODE 163
 
 # using the ID for Hawaii State Library as surrogate for whole system
 ID OCLC-HISPL
