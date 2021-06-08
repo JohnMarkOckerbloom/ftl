@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2021-06-03
-# Manual Sweep: pick up w Ontario
+# Last updated 2021-06-08
+# Manual Sweep: pick up w Quebec
 # Automated Sweep: pick up w Nigeria
 
 ID OLBP
@@ -777,7 +777,7 @@ NAME Barrie Public Library
 LOCATION Barrie
 PROVINCE ON
 CATTYPE encore
-BASEURL http://encore.barriepubliclibrary.ca/iii/encore
+BASEURL https://encore.barriepubliclibrary.ca/iii/encore
 
 ID OCLC-CNBPL
 NAME Burlington Public Library
@@ -806,7 +806,7 @@ ID OCLC-CNGUP
 NAME Guelph Public Library
 LOCATION Guelph
 PROVINCE ON
-BASEURL http://catalog.guelphpl.ca/polaris
+BASEURL https://catalog.guelphpl.ca/polaris
 CATTYPE polaris
 
 ID OCLC-CNHML
@@ -820,7 +820,7 @@ ID CA-OHAN
 NAME Hanover Public Library
 LOCATION Hanover
 PROVINCE ON
-BASEURL http://koha.hanoverlibrary.ca
+BASEURL https://koha.hanoverlibrary.ca
 CATTYPE koha
 
 # I haven't gotten their Iguana links to work, but they still have Vubis
@@ -844,7 +844,7 @@ NAME London Public Library
 LOCATION London
 PROVINCE ON
 CATTYPE encore
-BASEURL http://encore.londonpubliclibrary.ca/iii/encore
+BASEURL https://encore.londonpubliclibrary.ca/iii/encore
 
 ID OCLC-MRKPL
 NAME Markham Public Library
@@ -903,7 +903,7 @@ ID CA-OSH
 NAME Shelburne Public Library
 LOCATION Shelburne
 PROVINCE ON
-BASEURL http://shelburne.kohacatalog.com
+BASEURL https://shelburne.kohacatalog.com
 CATTYPE koha
 FILTERS S
 
@@ -911,8 +911,9 @@ ID OCLC-CNSCP
 NAME St. Catharines Public Library
 LOCATION St. Catharines
 PROVINCE ON
-BASEURL http://hip.stcatharines.library.on.ca
-CATTYPE ipac20
+CATTYPE sirsient
+LCODE en_US/default
+BASEURL https://cath.ent.sirsidynix.net
 
 ID OCLC-CNTHO
 NAME St. Thomas Public Library
@@ -932,8 +933,8 @@ ID OCLC-THUND
 NAME Thunder Bay Public Library
 LOCATION Thunder Bay
 PROVINCE ON
-BASEURL http://mycatalogue.tbpl.ca
-CATTYPE webpacpro
+CATTYPE encore
+BASEURL http://search.tbpl.ca/iii/encore
 
 ID OCLC-TOH
 NAME Toronto Public Library
@@ -1711,6 +1712,20 @@ LOCATION Istanbul
 COUNTRY TR
 CATTYPE summon
 BASEURL http://boun.summon.serialssolutions.com
+
+ID OCLC-UA@
+NAME Istanbul Technical University
+LOCATION Istanbul
+COUNTRY TR
+CATTYPE eds
+LCODE s1115014
+
+ID OCLC-TOQ
+NAME Middle East Technical University
+LOCATION Ankara
+COUNTRY TR
+BASEURL http://catalog.library.metu.edu.tr
+CATTYPE webpacpro
 
 ID KYAMBOGO
 NAME Kyambogo University
