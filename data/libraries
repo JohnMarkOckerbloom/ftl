@@ -678,6 +678,13 @@ PROVINCE MB
 CATTYPE primo-justquery
 BASEURL https://search.lib.umanitoba.ca/discovery/search?vid=01UMB_INST:UMB&tab=Everything&search_scope=MyInst_and_CI&
 
+ID OCLC-JG0
+NAME University of Winnipeg
+LOCATION Winnipeg
+PROVINCE MB
+BASEURL https://uwinnipeg.on.worldcat.org/external-search?queryString
+CATTYPE worldcat-config
+
 # using Brandon ID for this one
 ID CA-MBW
 NAME Western Manitoba Regional Library
@@ -5610,12 +5617,13 @@ STATE MA
 BASEURL http://find.minlib.net/iii/encore
 CATTYPE encore
 
+# main search is a Bento (other searches are Primo)
 ID OCLC-MYG
 NAME MIT Libraries, Massachusetts Institute of Technology
 LOCATION Cambridge
 STATE MA
-CATTYPE aleph1
-BASEURL http://library.mit.edu
+BASEURL https://lib.mit.edu/search
+KEYURL ${BASEURL}/bento?q=${ARG}
 
 ID OCLC-NOG
 NAME NOBLE: North of Boston Library Exchange
