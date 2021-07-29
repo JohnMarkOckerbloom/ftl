@@ -3174,6 +3174,15 @@ BASEURL https://sanle.ent.sirsi.net
 CATTYPE sirsient
 LCODE en_US/default
 
+# This might be the ID for a particular branch; using here for the whole system
+ID OCLC-SLO
+NAME San Luis Obispo County Libraries
+LOCATION San Luis Obispo and vicinity
+STATE CA
+CATTYPE polaris-context
+BASEURL https://www.blackgold.org/polaris
+CONTEXT 35.1033.0.0.1
+
 ID OCLC-JRZ
 NAME Santa Clara City Library
 LOCATION Santa Clara
@@ -3283,25 +3292,37 @@ ID OCLC-CUS
 NAME UCSD: University of California San Diego
 LOCATION La Jolla
 STATE CA
-BASEURL http://roger.ucsd.edu
-CATTYPE innopac
+CATTYPE primo-ve
+BASEURL https://search-library.ucsd.edu
+VID 01UCS_SDI:UCSD
+SCOPE ArticlesBooksEtc
+
+ID OCLC-CUN
+NAME UCSF: University of California San Francisco
+LOCATION San Francisco
+STATE CA
+CATTYPE primo-ve
+BASEURL https://search.library.ucsf.edu
+VID 01UCS_SAF:UCSF
+SCOPE DN_and_CI
 
 ID OCLC-RQE
 NAME University of California Berkeley
 LOCATION Berkeley
 STATE CA
-CATTYPE eds
-LCODE s1226370
+CATTYPE primo-ve
+BASEURL https://search.library.berkeley.edu
+VID 01UCS_BER:UCB
+SCOPE DN_and_CI
 
 ID OCLC-CUV
 NAME University of California Davis
 LOCATION Davis
 STATE CA
-CATTYPE primodl-loc
-VID O1UCD_V1
-BASEURL http://search.library.ucdavis.edu
-LCODE 01UCD
-LOC adaptor,scope:("01UCD"),primo_central_multiple_fe
+CATTYPE primo-ve
+BASEURL https://search.library.ucdavis.edu
+VID 01UCD_INST:UCD
+SCOPE DN_and_CI
 
 ID OCLC-CUI
 NAME University of California Irvine
@@ -3312,12 +3333,14 @@ CATTYPE primo-ve
 VID 01CDL_IRV_INST:UCI
 SCOPE MyInst_and_CI
 
-ID OCLC-FSHHH
-NAME University of California Libraries
-LOCATION All 10 UC campuses
+ID OCLC-MERUC
+NAME University of California Merced
+LOCATION Merced
 STATE CA
-BASEURL https://melvyl.on.worldcat.org/search?queryString
-CATTYPE worldcat-config
+CATTYPE primo-ve
+BASEURL https://ucmerced.primo.exlibrisgroup.com
+VID 01UCS_UCM:UCM
+SCOPE DN_and_CI
 
 # UCR now features a custom Bento search (seems to be general keyword only)
 ID OCLC-CRU
@@ -3331,11 +3354,19 @@ ID OCLC-CUT
 NAME University of California Santa Barbara
 LOCATION Santa Barbara
 STATE CA
-CATTYPE primodl-scope
-BASEURL https://ucsb-primo.hosted.exlibrisgroup.com
-VID UCSB
-LCODE 01UCSB_INST
-SCOPE default_scope
+CATTYPE primo-ve
+BASEURL https://search.library.ucsb.edu
+VID 01UCSB_INST:UCSB
+SCOPE DN_and_CI
+
+ID OCLC-CUZ
+NAME University of California Santa Cruz
+LOCATION Santa Cruz
+STATE CA
+CATTYPE primo-ve
+BASEURL https://ucsc.primo.exlibrisgroup.com
+VID 01CDL_SCR_INST:USCS
+SCOPE MyInst_and_CI
 
 ID OCLC-CSL
 NAME USC: University of Southern California
