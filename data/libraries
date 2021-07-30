@@ -4,7 +4,7 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2021-06-08
+# Last updated 2021-07-30
 # Manual Sweep: pick up w Quebec
 # Automated Sweep: pick up w Nigeria
 
@@ -332,6 +332,13 @@ BASEURL http://une-edu-primo.hosted.exlibrisgroup.com
 LCODE 61UNE
 VID 61UNE
 SCOPE 61UNE_Search
+
+ID AU-NUN
+NAME University of New South Wales
+LOCATION Sydney, New South Wales
+COUNTRY AU
+BASEURL https://usearch.library.unsw.edu.au/Pages/librarysearch.aspx
+KEYURL ${BASEURL}?k=${ARG}
 
 ID AU-SUSA
 NAME University of South Australia
