@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2021-07-30
-# Manual Sweep: pick up w Quebec
+# Last updated 2021-08-09
+# Manual Sweep: pick up w China
 # Automated Sweep: pick up w Nigeria
 
 ID OLBP
@@ -882,6 +882,14 @@ CATTYPE sirsient
 LCODE mlsathome
 BASEURL https://miss.ent.sirsidynix.net
 
+ID OCLC-M7O
+NAME Mohawk College Library
+LOCATION Hamilton
+PROVINCE ON
+CATTYPE evergreen-dynamic
+BASEURL http://libcat.mohawkcollege.ca/eg/opac
+LCODE 1
+
 ID OCLC-CNCAD
 NAME OCAD University, DH Hoover Library
 LOCATION Toronto
@@ -1061,7 +1069,7 @@ KEYURL ${BASEURL}?q=${ARG}&selectRecherche=on
 
 # no overall ID found; arbitarily picking Outremont branch's code
 ID CA-QMBO
-NAME Bibliotheques Montreal
+NAME Biblioth&egrave;ques Montreal
 LOCATION Public libraries in Montreal
 PROVINCE PQ
 BASEURL http://nelligan.ville.montreal.qc.ca
@@ -1071,8 +1079,8 @@ ID OCLC-CDN
 NAME Concordia University
 LOCATION Montreal
 PROVINCE PQ
-BASEURL http://clues.concordia.ca
-CATTYPE innopac
+BASEURL https://concordiauniversity.on.worldcat.org
+CATTYPE worldcat2
 
 ID OCLC-LGG
 NAME McGill University Library
