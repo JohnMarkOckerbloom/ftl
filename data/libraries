@@ -396,6 +396,37 @@ VID UWS-ALMA
 LCODE UWS-ALMA
 LOC adaptor,scope:(UWS-ALMA),primo_central_multiple_fe
 
+ID OCLC-EQX
+NAME KU Leuven
+LOCATION Leuven
+COUNTRY BE
+CATTYPE primo-justquery
+BASEURL https://limo.libis.be/primo-explore/search?&vid=KULeuven&tab=all_content_tab&search_scope=ALL_CONTENT&offset=0&
+
+ID OCLC-UCDLC
+NAME Universit&eacute; Catholique de Louvain (UCLouvain)
+LOCATION Leuven
+COUNTRY BE
+CATTYPE summon
+BASEURL https://uclouvain.summon.serialssolutions.com
+
+ID OCLC-BELDB
+NAME Universit&eacute; Libre de Bruxelles
+LOCATION Brussels
+COUNTRY BE
+CATTYPE primo-ve
+BASEURL https://cibleplus.ulb.ac.be
+VID 32ULDB_U_INST:32ULB_VU1
+SCOPE MyInst_and_CI
+
+ID OCLC-BEVUB
+NAME Vrije Universiteit Brussel
+LOCATION Brussels
+COUNTRY BE
+BASEURL https://biblio.vub.ac.be
+CATTYPE iguana
+FILTERS NS
+
 ID OCLC-BOU
 NAME University of Botswana
 LOCATION Gaborone
@@ -5939,8 +5970,12 @@ ID OCLC-ELM
 NAME University of Michigan Library
 LOCATION Ann Arbor
 STATE MI
-BASEURL http://mirlyn.lib.umich.edu
-CATTYPE vufindrc1
+BASEURL https://search.lib.umich.edu
+AUTURL https://search.lib.umich.edu/everything?query=author:(${ARG})
+TITURL https://search.lib.umich.edu/everything?query=title:(${ARG})
+ATIURL https://search.lib.umich.edu/everything?query=title:(${TITLE})+author:(${AUTHOR})
+KEYURL https://search.lib.umich.edu/everything?query=${ARG}
+FILTERS S
 
 ID OCLC-ZB8
 NAME Warren Public Library
