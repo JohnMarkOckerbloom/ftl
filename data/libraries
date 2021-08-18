@@ -396,6 +396,16 @@ VID UWS-ALMA
 LCODE UWS-ALMA
 LOC adaptor,scope:(UWS-ALMA),primo_central_multiple_fe
 
+# We turn the subject search into a general keyword search
+ID OCLC-BEHWT
+NAME Howest H&ouml;geschool
+LOCATION West Flanders; English searches may give limited results
+COUNTRY BE
+BASEURL https://bib.howest.be/catalog
+CATTYPE blacklight
+TINDEX title
+SINDEX all_fields
+
 ID OCLC-EQX
 NAME KU Leuven
 LOCATION Leuven
@@ -410,6 +420,15 @@ COUNTRY BE
 CATTYPE summon
 BASEURL https://uclouvain.summon.serialssolutions.com
 
+ID OCLC-ZXY
+NAME Universit&eacute; de Li&egrave;ge
+LOCATION Li&egrave;ge
+COUNTRY BE
+CATTYPE primo-ve
+BASEURL https://explore.lib.uliege.be
+VID 32ULG_INST:ULIEGE
+SCOPE ULIEGE
+
 ID OCLC-BELDB
 NAME Universit&eacute; Libre de Bruxelles
 LOCATION Brussels
@@ -418,6 +437,20 @@ CATTYPE primo-ve
 BASEURL https://cibleplus.ulb.ac.be
 VID 32ULDB_U_INST:32ULB_VU1
 SCOPE MyInst_and_CI
+
+ID OCLC-BEANT
+NAME Universiteit Antwerpen
+LOCATION Antwerp
+COUNTRY BE
+CATTYPE eds
+LCODE s3831317
+
+ID OCLC-BEUBG
+NAME Universiteit Gent
+LOCATION Ghent
+COUNTRY BE
+BASEURL https://lib.ugent.be
+KEYURL ${BASEURL}/catalog?q=${ARG:N}
 
 ID OCLC-BEVUB
 NAME Vrije Universiteit Brussel
