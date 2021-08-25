@@ -10,8 +10,8 @@
 #   are not included in this file.
 # Manual title and name-title correspondences have been moved to wikiworksmap.
 # See docs file for documentation
-# Last updated 2021-08-18
-# Did LCSH 2015-2020 update lists, 2021 monthly lists 1-6 (+6a, 7y, 22)
+# Last updated 2021-08-25
+# Did LCSH 2015-2020 update lists, 2021 monthly lists 1-6 (+6a, 7y, 22), 7 (A-B only)
 1 Pendleton Place House (New York, N.Y.)|=|One Pendleton Place
 1009 Fifth Avenue House (New York, N.Y.)|=|Benjamin N. Duke House
 1066 Country Walk (England)|=|1066 Country Walk
@@ -490,7 +490,7 @@ Affirmative action programs -- Canada|<->|Employment equity (Canada)
 Affirmative action programs -- United States|<->|Affirmative action in the United States
 Affirmed (Race horse)|=|Affirmed
 Affricates (Phonetics)|=|Affricate
-Afghan War, 2001-|<->|War in Afghanistan (2001–present)
+Afghan War, 2001-|<->|War in Afghanistan (2001–2021)
 Afghan War, 2001- -- Campaigns|<->|List of military operations in the war in Afghanistan (2001–present)
 Afghan War, 2001- -- Protest movements|<->|Protests against the war in Afghanistan
 Afghan Wars|=|Anglo-Afghan War
@@ -547,7 +547,7 @@ African Americans -- Legal status, laws, etc.|<-|Jim Crow laws
 African Americans -- Music|<->|African-American music
 African Americans -- Religion|<->|Religion of black Americans
 African Americans -- Relations with Jews|=|African American–Jewish relations
-African Americans -- Study and teaching|<->|African-American studies
+African Americans -- Study and teaching|<->|African American studies
 African Americans in mass media|<->|Representation of African Americans in media
 African Cup of Nations|=|Africa Cup of Nations
 African gray parrot|<->|Grey parrot
@@ -662,6 +662,21 @@ Ai Men (Lugang Zhen, Taiwan)|=|Lukang Ai Gate
 Aichach (Bavaria, Germany)|=|Aichach
 Aichi M6A1 Seiran (Bomber)|<->|Aichi M6A
 AIDS (Disease)|=|HIV/AIDS
+AIDS (Disease) -- Africa|<->|HIV/AIDS in Africa
+AIDS (Disease) -- Botswana|<->|HIV/AIDS in Botswana
+AIDS (Disease) -- Brazil|<->|HIV/AIDS in Brazil
+AIDS (Disease) -- Ethiopia|<->|HIV/AIDS in Ethiopia
+AIDS (Disease) -- History|<->|History of HIV/AIDS
+AIDS (Disease) -- Kenya|<->|HIV/AIDS in Kenya
+AIDS (Disease) -- Malawi|<->|HIV/AIDS in Malawi
+AIDS (Disease) -- Namibia|<->|HIV/AIDS in Namibia
+AIDS (Disease) -- Prevention|->|Prevention of HIV/AIDS
+AIDS (Disease) -- South Africa|<->|HIV/AIDS in South Africa
+AIDS (Disease) -- Tanzania|<->|HIV/AIDS in Tanzania
+AIDS (Disease) -- Uganda|<->|HIV/AIDS in Uganda
+AIDS (Disease) -- United States|<->|HIV/AIDS in the United States
+AIDS (Disease) -- Zambia|<->|HIV/AIDS in Zambia
+AIDS (Disease) -- Zimbabwe|<->|HIV/AIDS in Zimbabwe
 Aids to navigation|<->|Navigational aid
 AIDS vaccines|<->|HIV vaccine development
 Aigina (Greece : Municipality)|<->|Aegina
@@ -800,6 +815,7 @@ Alagnak River (Alaska)|=|Alagnak River
 Alagoas (Brazil)|=|Alagoas
 Alai Range (Kyrgyzstan and Tajikistan)|=|Alay Range
 Alam Halfa, Battle of, Egypt, 1942|=|Battle of Alam el Halfa
+Alamance Battleground State Historic Site (N.C.)|=|Alamance Battleground
 Alamance Creek, Battle of, N.C., 1771|=|Battle of Alamance
 Alameda, The (San Jose and Santa Clara, Calif.)|<->|The Alameda, San Jose
 Alamo (San Antonio, Tex.)|=|Alamo Mission in San Antonio
@@ -923,6 +939,7 @@ Aldrich Mountains (Or.)|=|Aldrich Mountains
 Aldworth (England)|=|Aldworth
 Aleatory music|=|Aleatoric music
 Aleknagik, Lake (Alaska)|=|Aleknagik Lake
+Aleksandrow Hasidim|<->|Aleksander (Hasidic dynasty)
 Aleman family|<->|Aleman (surname)
 Aleppo (Syria)|=|Aleppo
 Aleppo pine|=|Pinus halepensis
@@ -1464,7 +1481,7 @@ Annandale and Eskdale (Scotland : District)|=|Annandale and Eskdale
 Annapolis Royal (N.S.) -- History -- Siege, 1710|<->|Siege of Port Royal (1710)
 Annap&umacr;r&#x1e47;&amacr; (Hindu deity)|=|Annapurna (goddess)
 Anne (Name)|=|Anne
-Annealing of metals|=|Annealing (metallurgy)
+Annealing of metals|<->|Annealing (materials science)
 Annelida|=|Annelid
 Annelida, Fossil|<->|List of prehistoric annelid genera
 Annette Island (Alaska)|=|Annette Island
@@ -1483,6 +1500,7 @@ Anorexia|<->|Anorexia (symptom)
 Anorgasmy|=|Anorgasmia
 Anoukis (Egyptian deity)|=|Anuket
 Anoura (Mammals)|=|Anoura
+Anoura fistulata|=|Tube-lipped nectar bat
 Anoxic zones|<-|Anoxic waters
 Anoxic zones|<->|Dead zone (ecology)
 Anoxemia|<->|Hypoxemia
@@ -2543,6 +2561,7 @@ Authors|=|Author
 Authors (Game)|=|Authors (card game)
 Authors, Urdu|<->|List of Urdu-language writers
 Authorship|->|Author
+Authorship -- Collaboration|<->|Collaborative writing
 Authorship -- Style manuals|=|Style guide
 Autism in children|->|Autism spectrum
 Autism in motion pictures|<->|List of films about autism
@@ -2633,6 +2652,7 @@ Aventador automobile|=|Lamborghini Aventador
 Avenue of the Americas (New York, N.Y.)|<->|Sixth Avenue
 Average (Maritime law)|=|General average
 Averasboro, Battle of, N.C., 1865|=|Battle of Averasborough
+Avianca Bombing Incident, 1989|<->|Avianca Flight 203
 Aviaries|=|Aviary
 Aviatik C.I (Reconnaissance aircraft)|=|Aviatik C.I
 Aviatik D.I (Fighter plane)|=|Aviatik (Berg) D.I
@@ -3030,6 +3050,7 @@ Bank robberies|=|Bank robbery
 Bank Street (New York, N.Y.)|=|Bank Street (Manhattan)
 Bank swallow|=|Sand martin
 Bankers|->|Bank
+Bankhead family|<->|Bankhead (surname)
 Banking law|<->|Bank regulation
 Banking law -- United States|<->|Bank regulation in the United States
 Bankruptcy -- History|<->|History of bankruptcy law
@@ -3041,6 +3062,7 @@ Banks and banking -- Religious aspects -- Islam|<->|Islamic banking and finance
 Banks and banking -- United States|<->|Banking in the United States
 Banks and banking -- United States -- History|<->|History of banking in the United States
 Banks and banking, Central|<->|Central bank
+Banks family|<->|Banks (surname)
 Bankside (Southwark, London, England)|=|Bankside
 Bankside Power Station (London, England)|=|Bankside Power Station
 Banner Mountain (Calif.)|=|Banner Mountain
@@ -3412,7 +3434,7 @@ Beaverhill Lake (Alta.)|=|Beaverhill Lake
 Beavers|=|Beaver
 Bebb family|<->|Bebb
 B&eacute;char (Algeria)|=|Béchar
-B&eacute;char (Algeria : Province)|=|Bechar Province
+B&eacute;char (Algeria : Province)|=|Béchar Province
 Becharof Lake (Alaska)|=|Becharof Lake
 Becharof National Wildlife Refuge (Agency : U.S.)|->|Becharof National Wildlife Refuge
 Becharof National Wildlife Refuge (Alaska)|<->|Becharof National Wildlife Refuge
@@ -3470,7 +3492,7 @@ Beirut (Lebanon)|=|Beirut
 Beiseker (Alta.)|=|Beiseker
 Beja (African people)|=|Beja people
 Beja&iuml;a (Algeria)|=|Béjaïa
-Beja&iuml;a (Algeria : Province)|=|Bejaia Province
+Beja&iuml;a (Algeria : Province)|=|Béjaïa Province
 Bekati' language|=|Bakatiʼ language
 Bekennende Kirche|=|Confessing Church
 B&eacute;langer family|<->|Bélanger
@@ -3994,7 +4016,7 @@ Biscuit Fire, 2002|=|Biscuit Fire
 Bisharin (African people)|=|Bishari tribe
 Bishnupriya Manipuri (South Asian people)|=|Bishnupriya Manipuri people
 Bishnupuriya dialect|<->|Bishnupriya Manipuri language
-Bishop Rock Lighthouse (England)|<->|Bishop Rock, Isles of Scilly
+Bishop Rock Lighthouse (England)|<->|Bishop Rock
 Bishops|=|Bishop
 Bishops Cap (Mont.)|=|Bishops Cap
 Bishopthorpe (England)|=|Bishopthorpe
@@ -4662,6 +4684,7 @@ Brackish waters|=|Brackish water
 Braddock's Campaign, 1755|=|Braddock Expedition
 Bradford (West Yorkshire, England)|=|Bradford
 Bradley, Beatrice Lestrange (Fictitious character)|=|Mrs Bradley
+Bradley, Buddy (Fictitious character)|=|Buddy Bradley
 Bradshaw Mountains (Ariz.)|=|Bradshaw Mountains
 Bradshaw Trail (Calif. and Ariz.)|=|Bradshaw Trail
 Bradypus tridactylus|=|Pale-throated sloth
@@ -4983,7 +5006,7 @@ Bryce Canyon National Park (Utah)|=|Bryce Canyon National Park
 Bryce/Frick Estate (Roslyn, N.Y.)|->|Cedarmere-Clayton Estates
 BT-1 (Dive bomber)|<->|Northrop BT
 BT-5 (Tank)|->|BT tank
-B&umacr; Sa&#x02bb;&imacr;d dynasty, 1749-|<->|House of Al Said
+B&umacr; Sa&#x02bb;&imacr;d dynasty, 1749-|<->|House of Busaid
 Buandig (Australian people)|=|Bungandidj people
 Buandig language|=|Bungandidj language
 Bubaque Island (Guinea-Bissau)|<->|Bubaque
@@ -5309,6 +5332,7 @@ Bye Plot, England, 1603|=|Bye Plot
 Byers Peninsula (Antarctica)|=|Byers Peninsula
 Byrd Glacier (Antarctica)|=|Byrd Glacier
 Byrd N&eacute;v&eacute; (Antarctica)|=|Byrd Névé
+Byron, Lake (S.D. : Lake)|=|Lake Byron (South Dakota)
 Byron Station (Ill.)|=|Byron Nuclear Generating Station
 Byssal threads|<->|Byssus
 Bystryk, Battle of, Bystryk, Belarus, 1920|=|Battle of Bystryk
@@ -5566,7 +5590,7 @@ Cameroonian literature|<->|Literature of Cameroon
 Camino de Santiago de Compostela|=|Camino de Santiago
 Camino Franc&eacute;s (Spain)|<->|French Way
 Camino Ingl&eacute;s (Spain)|=|English Way
-Camino Portugu&eacute;s (Portugal and Spain)|=|The Portuguese Way
+Camino Portugu&eacute;s (Portugal and Spain)|=|Portuguese Way
 Camino Primitivo (Spain)|=|Camino Primitivo
 Camogie (Game)|=|Camogie
 Camouflage (Biology)|<->|Camouflage
@@ -5928,7 +5952,7 @@ Carter, John (Fictitious character)|=|John Carter of Mars
 Carter, Nick (Fictitious character)|=|Nick Carter (literary character)
 Carthage (Extinct city)|<-|Carthage
 Carthage (Extinct city)|<->|Ancient Carthage
-Carthage, Battle of, Carthage, Mo., 1861|=|Engagement near Carthage
+Carthage, Battle of, Carthage, Mo., 1861|=|Battle of Carthage, Missouri
 Cartier family|<->|Cartier (surname)
 Cartier Island (Ashmore and Cartier Islands)|=|Cartier Island
 Cartography -- China -- History|<->|Cartography of China
@@ -9668,8 +9692,8 @@ Democratic Party (U.S.) -- History|=|History of the Democratic Party (United Sta
 Democracy -- Greece -- Athens -- History -- To 1500|<->|Athenian democracy
 Demon (Jet fighter plane)|=|McDonnell F3H Demon
 Demon Headmaster (Fictitious character)|<->|The Demon Headmaster
-Demoniac possession|=|Demonic possession
-Demonomania|->|Demonic possession
+Demoniac possession|->|Spirit possession
+Demonomania|->|Spirit possession
 Demonstrations|<->|Political demonstration
 Demyelination|=|Demyelinating disease
 Dena'ina Indians|=|Denaʼina
@@ -10973,7 +10997,7 @@ Egypt -- History -- 332-30 B.C.|<->|Ptolemaic Kingdom
 Egypt -- History -- 30 B.C.-640 A.D.|<->|Roman Egypt
 Egypt -- History -- 640-1250|->|Egypt in the Middle Ages
 Egypt -- History -- 640-1882|<-|Egypt in the Middle Ages
-Egypt -- History -- 1250-1517|<->|Mamluk Sultanate (Cairo)
+Egypt -- History -- 1250-1517|<->|Mamluk Sultanate
 Egypt -- History -- 1517-1882|<->|Egypt Eyalet
 Egypt -- History -- 1798-|<->|History of modern Egypt
 Egypt -- History -- 1919-1952|<->|Kingdom of Egypt (1922–1953)
@@ -17704,7 +17728,8 @@ Islands of the Pacific|<->|List of islands in the Pacific Ocean
 Islands of the South China Sea|=|South China Sea Islands
 Islas Malvinas Middle School No. 2 Shooting, Carmen de Patagones, Argentina, 2004|=|Carmen de Patagones school shooting
 Isle of Wight (England)|=|Isle of Wight
-Isle Royale (Mich.)|=|Isle Royale
+Isle Royale (Mich.)|->|Isle Royale National Park
+Isle Royale National Park (Mich.)|=|Isle Royale National Park
 Isles of Shoals (Me. and N.H.)|=|Isles of Shoals
 Ismene (Greek mythology)|=|Ismene
 Isneg (Philippine people)|=|Isnag people
@@ -18232,14 +18257,14 @@ Jews -- Music|<->|Jewish music
 Jews -- Netherlands|<->|History of the Jews in the Netherlands
 Jews -- Netherlands -- History|->|History of the Jews in the Netherlands
 Jews -- New York (State) -- History|<->|History of the Jews in New York
-Jews -- New York (State) -- New York|<->|Jews in New York City
-Jews -- New York (State) -- New York -- History|->|Jews in New York City
+Jews -- New York (State) -- New York|->|History of the Jews in New York City
+Jews -- New York (State) -- New York -- History|<->|History of the Jews in New York City
 Jews -- Persecutions|=|Persecution of Jews
-Jews -- Poland -- History|<->|History of Jews in Poland
+Jews -- Poland -- History|<->|History of the Jews in Poland
 Jews -- Portugal -- History|<->|History of the Jews in Portugal
 Jews -- Romania -- History|<->|History of the Jews in Romania
 Jews -- Slovakia -- History|<->|History of the Jews in Slovakia
-Jews -- South Africa|<->|South African Jews
+Jews -- South Africa -- History|<->|History of the Jews in South Africa
 Jews -- Soviet Union -- History|<->|History of the Jews in the Soviet Union
 Jews -- Spain -- History|<->|History of the Jews in Spain
 Jews -- Spain -- History -- Expulsion, 1492|<->|Alhambra Decree
@@ -19608,7 +19633,7 @@ Kyffh&auml;user-Denkmal (Germany)|=|Kyffhäuser Monument
 Kyffh&auml;user Mountains (Germany)|=|Kyffhäuser
 Ky&#x012d; (Legendary character)|<->|Kyi, Shchek and Khoryv
 Ky&iuml;v (Ukraine)|=|Kyiv
-Ky&iuml;v (Ukraine) -- History|=|History of Kiev
+Ky&iuml;v (Ukraine) -- History|=|History of Kyiv
 Ky&iuml;v (Ukraine) -- History -- Siege, 1941|<->|Battle of Kiev (1941)
 Ky&iuml;v (Ukraine) -- History -- Siege, 1943|<->|Battle of Kiev (1943)
 Kyle, Lake (Zimbabwe)|=|Lake Mutirikwe
@@ -19944,7 +19969,7 @@ Lanzhou-Zhengzhou-Changsha Pipeline (China)|=|Lanzhou–Zhengzhou–Changsha pip
 Laoco&ouml;n (Greek mythological character)|=|Laocoön
 Laodamia (Greek mythology)|<->|Laodamia of Phylace
 Laolao Bay (Northern Mariana Islands)|=|Laolao Bay
-Laomedon (Greek mythology)|=|Laomedon
+Laomedon (Greek mythology)|=|Laomedon of Troy
 Laotu (Burmese people)|=|Lautu
 Lap dancing|<->|Lap dance
 Laplace transformation|=|Laplace transform
@@ -20173,7 +20198,7 @@ Learned institutions and societies|<->|Learned society
 Learning, Psychology of|=|Psychology of learning
 Learning and scholarship|<->|Scholarly method
 Learning disabilities|<->|Learning disability
-Least action|<->|Stationary Action Principle
+Least action|<->|Stationary-action principle
 Leatherback turtle|=|Leatherback sea turtle
 Leatherman Peak (Idaho)|=|Leatherman Peak
 Leatherwork|<->|Leather crafting
@@ -22300,7 +22325,7 @@ Mechi River (Nepal and India)|=|Mechi River
 Mech&imacr; Zone (Nepal)|=|Mechi Zone
 Mecklenburg (Germany : Castle)|=|Mecklenburg Castle
 Mecklenburg (Germany : Region)|=|Mecklenburg
-Mecklenburg-Vorpommern (Germany)|=|Mecklenburg-Vorpommern
+Mecklenburg-Vorpommern (Germany)|=|Mecklenburg-Western Pomerania
 Mecklenburgh Square (London, England)|=|Mecklenburgh Square
 Medak Pocket Operation, Croatia, 1993|=|Operation Medak Pocket
 Medals|=|Medal
@@ -24714,7 +24739,7 @@ New Zealand -- Politics and government|<->|Politics of New Zealand
 New Zealand -- Politics and government|<-|New Zealand Government
 New Zealand Cross (Decoration of honor)|=|New Zealand Cross (1999)
 New Zealand Cross (Military decoration)|=|New Zealand Cross (1869)
-New Zealand fur seal|=|Arctophoca forsteri
+New Zealand fur seal|=|Arctocephalus forsteri
 New Zealand mudsnail|=|New Zealand mud snail
 New Zealand poetry|->|New Zealand literature
 New Zealand spinach|=|Tetragonia tetragonoides
@@ -26318,7 +26343,7 @@ Osuna, Dukes of|<->|Duke of Osuna
 Oswald West State Park (Or.)|=|Oswald West State Park
 Oswego, Lake (Or. : Lake)|=|Oswego Lake
 Ot Danum (Indonesian people)|=|Ot Danum people
-Otamahua/Quail Island (N.Z.)|=|Quail Island (New Zealand)
+Otamahua/Quail Island (N.Z.)|=|Otamahua / Quail Island
 Otavalo (Ecuador)|=|Otavalo (city)
 Otavalo Indians|=|Otavalo people
 Otavi (Namibia)|=|Otavi
@@ -29813,7 +29838,7 @@ Red Sindhi cattle|=|Red Sindhi
 Red Sonja (Fictitious character)|=|Red Sonja
 Red spruce|=|Picea rubens
 Redd family|<->|Redd (surname)
-Re&#x1e0d;&#x1e0d;i dynasty, ca. 1325-1448|<->|Reddi Kingdom
+Re&#x1e0d;&#x1e0d;i dynasty, ca. 1325-1448|<->|Reddy Kingdom
 Redlich family|<->|Redlich
 Redonda (Antigua and Barbuda)|=|Redonda
 Redoubt Volcano (Alaska)|=|Mount Redoubt
@@ -30444,7 +30469,7 @@ Romanid (Artificial language)|=|Romanid
 Romanies|=|Romani people
 Romanies in literature|<->|Romani people in fiction
 Romanies -- Fiction|->|Romani people in fiction
-Romanies -- Folklore|<->|Romani mythology
+Romanies -- Folklore|=|Romani folklore
 Romanies -- History|=|History of the Romani people
 Romanies -- Hungary|=|Romani people in Hungary
 Romanies -- Music|=|Romani music
@@ -30827,7 +30852,7 @@ Saarland (Germany)|=|Saarland
 &Scaron;abac (Serbia)|=|Šabac
 Sabadell (Spain)|=|Sabadell
 Sabah (Malaysia)|=|Sabah
-Sabah dynasty, 1752-|<->|House of Al Sabah
+Sabah dynasty, 1752-|<->|House of Sabah
 S&amacr;barmat&imacr; River (India)|=|Sabarmati River
 Sabazius (Thraco-Phrygian deity)|=|Sabazios
 Sabbath (Jewish law)|<->|Shabbat
@@ -31440,7 +31465,6 @@ Sapphire Mountains (Mont.)|=|Sapphire Mountains
 Sapphires|=|Sapphire
 Sapporo-shi (Japan)|=|Sapporo
 &#x1e62;aqq&amacr;rah (Egypt)|<->|Saqqara
-Sar-e Pol (Afghanistan)|=|Sar-e Pol city
 Sar-e Pol (Afghanistan : Province)|=|Sar-e Pol Province
 Sara (African people)|=|Sara people
 Sara D. Roosevelt Park (New York, N.Y.)|=|Sara Delano Roosevelt Park
@@ -38290,7 +38314,7 @@ WE 32000 (Microprocessor)|<->|Bellmac 32
 Wea Indians|=|Wea
 Weak interactions (Nuclear physics)|=|Weak interaction
 Weald Moors (England)|=|Weald Moors
-Wealhtheow (Legendary character)|=|Wealhþeow
+Wealhtheow (Legendary character)|=|Wealhtheow
 Weapons of mass destruction|=|Weapon of mass destruction
 Weapons industry|=|Arms industry
 Weapons systems|->|Weapon
@@ -39236,7 +39260,7 @@ World War, 1939-1945 -- Evacuation of civilians -- Germany|<->|Evacuations of ch
 World War, 1939-1945 -- Evacuation of civilians -- Gibraltar|=|Evacuation of the Gibraltarian civilian population during World War II
 World War, 1939-1945 -- Evacuation of civilians -- Great Britain|=|Evacuations of civilians in Britain during World War II
 World War, 1939-1945 -- Evacuation of civilians -- Japan|<->|Evacuations of civilians in Japan during World War II
-World War, 1939-1945 -- Fiction|<->|Fiction based on World War II
+World War, 1939-1945 -- Fiction|->|World War II in popular culture
 World War, 1939-1945 -- Finland|<->|Finland in World War II
 World War, 1939-1945 -- France|<->|France during World War II
 World War, 1939-1945 -- France -- Paris|=|Paris in World War II

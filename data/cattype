@@ -164,6 +164,14 @@ TITURL ${BASEURL}/search/query?field_1=t&term_1=${ARG}
 ATIURL ${BASEURL}/search/query?field_1=a&term_1=${AUTHOR}&field_2=t&term_2=${TITLE}
 KEYURL ${BASEURL}/search/query?term_1=${ARG}
 
+# Corvina appears to be used by multiple Hungarian libraries
+#  but doesn't seem to have a general keyword search (author is default?)
+CATTYPE corvina
+AUTURL ${BASEURL}?action=find&index0=AUTH&text0=${ARG:SNK}
+TITURL ${BASEURL}?action=find&index0=TITL&text0=${ARG}
+SUBURL ${BASEURL}?action=find&index0=SUBJ&text0=${ARG}
+KEYURL ${BASEURL}?action=find&index0=AUTH&text0=${ARG:SNK}
+
 # Destiny sites hosted by Follett need a CONTEXT argument
 # non-hosted sites might use different syntax; see Springshare guide
 CATTYPE destinyhosted
