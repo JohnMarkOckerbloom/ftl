@@ -396,6 +396,14 @@ VID UWS-ALMA
 LCODE UWS-ALMA
 LOC adaptor,scope:(UWS-ALMA),primo_central_multiple_fe
 
+ID OCLC-BECOE
+NAME College of Europe
+LOCATION Bruges
+COUNTRY BE
+BASEURL https://coleurope.on.worldcat.org
+CATTYPE worldcat2
+FILTERS SNK
+
 # We turn the subject search into a general keyword search
 ID OCLC-BEHWT
 NAME Howest H&ouml;geschool
@@ -429,8 +437,6 @@ BASEURL https://explore.lib.uliege.be
 VID 32ULG_INST:ULIEGE
 SCOPE ULIEGE
 
-# https://biblio.umons.ac.be/webopac/List.csp?SearchT1=horse&Index1=Uindex11&Database=2&BoolOp2=AND&SearchT2=&Index2=Uindex11&BoolOp3=AND&SearchT3=&Index3=Uindex11&BoolOp4=AND&SearchT4=&Index4=Uindex11&Year1=&Year2=&Sublocation=NoPreference&OpacLanguage=fre&NumberToRetrieve=50&SearchMethod=Find_2&SearchTerm1=horse&SearchTerm2=&SearchTerm3=&SearchTerm4=&Profile=Default&PreviousList=Start&PageType=Start&EncodedRequest=*C8*E5s*A8*08KS*D8*A9*D0b*E1*AD*28*BB*60&WebPageNr=1&WebAction=NewSearch&StartValue=1&RowRepeat=3&MyChannelCount=
-# https://biblio.umons.ac.be/webopac/List.csp?Profile=Default&OpacLanguage=eng&SearchMethod=Find_2&PageType=Start&PreviousList=Start&NumberToRetrieve=10&RecordNumber=&WebPageNr=1&StartValue=1&Database=2&Index1=Uaindex13&EncodedRequest=1*08*F1*8A*7CE*83*24*D4n*9C*92*D6*AC*2E*C3&WebAction=NewSearch&SearchT1=Cats&SearchTerm1=Cats&OutsideLink=Yes&ShowMenu=Yes
 ID UMONS
 NAME Universit&eacute; de Mons
 LOCATION Mons
@@ -1584,6 +1590,17 @@ LOCATION Sargodha; English search terms may give limited results
 COUNTRY PK
 BASEURL http://library.su.edu.pk:5157
 CATTYPE koha
+
+# we'll probably get best results here if we make subject search keyword sarch
+ID NATOLIN
+NAME College of Europe at Natolin
+LOCATION Warsaw; English searches may give limited results
+COUNTRY PL
+CATTYPE ipac20
+BASEURL http://hip.coleurop.pl
+PROFILE natlib
+SINDEX .GW
+AINDEX .NW
 
 ID OCLC-P9Z
 NAME University of Warsaw Library
