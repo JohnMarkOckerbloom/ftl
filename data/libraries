@@ -1551,6 +1551,22 @@ BASEURL http://nal.unn.edu.ng
 CATTYPE koha
 FILTERS S
 
+ID OCLC-NLTUD
+NAME Delft University of Technology (TUDelft)
+LOCATION Delft
+COUNTRY NL
+BASEURL https://tudelft.on.worldcat.org
+CATTYPE worldcat2
+FILTERS SNK
+
+ID OCLC-ERS
+NAME Erasmus University
+LOCATION Rotterdam
+COUNTRY NL
+BASEURL https://eur.on.worldcat.org
+CATTYPE worldcat2
+FILTERS SNK
+
 # Looks like Leiden now has their own Bento search (keywords only)
 ID NL-L2U
 NAME Leiden University Libraries
@@ -1558,6 +1574,22 @@ LOCATION Leiden
 COUNTRY NL
 BASEURL https://www.library.universiteitleiden.nl
 KEYURL ${BASEURL}/search?q=${ARG:SNK}
+
+ID OCLC-NLQGE
+NAME Radboud University
+LOCATION Nijmegen
+COUNTRY NL
+BASEURL https://ru.on.worldcat.org
+CATTYPE worldcat2
+FILTERS SNK
+
+ID OCLC-NETUE
+NAME Technische Universiteit Eindhoven / Eindhoven University of Technology
+LOCATION Eindhoven
+COUNTRY NL
+BASEURL https://tue.on.worldcat.org
+CATTYPE worldcat2
+FILTERS SNK
 
 ID OCLC-QGJ
 NAME Utrecht University Library
@@ -3486,6 +3518,13 @@ CATTYPE primo-ve
 BASEURL https://ucsc.primo.exlibrisgroup.com
 VID 01CDL_SCR_INST:USCS
 SCOPE MyInst_and_CI
+
+ID OCLC-UOP
+NAME University of the Pacific
+LOCATION Stockton, Sacramento, and San Francisco
+STATE CA
+CATTYPE encore
+BASEURL https://pacificat.pacific.edu/iii/encorestockton
 
 ID OCLC-CSL
 NAME USC: University of Southern California
