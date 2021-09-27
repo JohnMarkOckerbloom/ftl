@@ -10,7 +10,7 @@
 #   are not included in this file.
 # Manual title and name-title correspondences have been moved to wikiworksmap.
 # See docs file for documentation
-# Last updated 2021-09-05
+# Last updated 2021-09-25
 # Did LCSH 2015-2020 update lists, 2021 monthly lists 1-6 (+6a, 7&8y, 22), 7 (A-L only)
 1 Pendleton Place House (New York, N.Y.)|=|One Pendleton Place
 1009 Fifth Avenue House (New York, N.Y.)|=|Benjamin N. Duke House
@@ -3411,7 +3411,7 @@ Beauty contests|<->|Beauty pageant
 Beauty culture|<->|Cosmetology
 Beauty shops|=|Beauty salon
 Beauvais Lake Provincial Park (Alta.)|=|Beauvais Lake Provincial Park
-Beaver (Coin)|<->|Beaver Coins
+Beaver (Coin)|<->|Beaver coins
 Beaver (Transport planes)|=|De Havilland Canada DHC-2 Beaver
 Beaver Brook (N.H. and Mass.)|=|Beaver Brook (Merrimack River tributary)
 Beaver Creek (Clark County and Jefferson County, Idaho)|=|Beaver Creek (Camas Creek tributary)
@@ -4807,7 +4807,7 @@ Brewing industry|->|Brewing
 Briarwood (New York, N.Y.)|=|Briarwood, Queens
 Bribri Indians|=|Bribri people
 BRIC countries|<->|BRIC
-Brice's Crossroads, Battle of, Miss., 1864|=|Battle of Brices Cross Roads
+Brice's Crossroads, Battle of, Miss., 1864|=|Battle of Brice's Cross Roads
 Brices Cross Roads National Battlefield Site (Miss.)|=|Brices Cross Roads National Battlefield Site
 Brickwall (Northiam, England)|=|Brickwall House
 Bridge Canyon Dam (Ariz.)|=|Bridge Canyon Dam
@@ -8395,7 +8395,7 @@ Cooking, Russian|<->|Russian cuisine
 Cooking, Rwandan|<->|Rwandan cuisine
 Cooking, Saint Lucian|<->|Saint Lucian cuisine
 Cooking, Salvadoran|<->|Salvadoran cuisine
-Cooking, Sami|<->|Sami cuisine
+Cooking, Sami|<->|Sámi cuisine
 Cooking, Sao Tomean|<->|Cuisine of São Tomé and Príncipe
 Cooking (Sardines)|<->|Sardines as food
 Cooking, Saudi Arabian|<->|Saudi Arabian cuisine
@@ -12972,7 +12972,7 @@ Fort Smith National Historic Site (Agency : U.S.)|->|Fort Smith National Histori
 Fort Smith National Historic Site (Fort Smith, Ark.)|=|Fort Smith National Historic Site
 Fort Stanwix (Rome, N.Y.)|=|Fort Stanwix
 Fort Stanwix (Rome, N.Y.) -- Siege, 1777|=|Siege of Fort Stanwix
-Fort Stanwix National Monument (Rome, N.Y.)|=|Fort Stanwix National Monument
+Fort Stanwix National Monument (Rome, N.Y.)|->|Fort Stanwix
 Fort Stedman, Battle of, Petersburg, Va., 1865|=|Battle of Fort Stedman
 Fort Stephenson (Ohio)|=|Fort Stephenson
 Fort Sumter (Charleston, S.C.)|=|Fort Sumter
@@ -13109,7 +13109,7 @@ France -- History -- February Revolution, 1848|=|French Revolution of 1848
 France -- History -- First Republic, 1792-1804|<->|French First Republic
 France -- History -- German occupation, 1940-1945|<->|German military administration in occupied France during World War II
 France -- History -- Insurrection, 1792|<->|Insurrection of 10 August 1792
-France -- History -- Insurrection of the Camisards, 1702-1710|->|Camisard
+France -- History -- Insurrection of the Camisards, 1702-1710|->|Camisards
 France -- History -- Invasion of 1814|<->|Campaign in north-east France (1814)
 France -- History -- Italian occupation, 1942-1943|<->|Italian occupation of France
 France -- History -- July Revolution, 1830|=|July Revolution
@@ -16571,7 +16571,7 @@ Huygens' principle|<->|Huygens–Fresnel principle
 H.W. Wilson Company|=|H. W. Wilson Company
 Hyacinths|=|Hyacinth (plant)
 Hyacinthus (Greek mythology)|=|Hyacinth (mythology)
-Hyaena (Genus)|=|Hyaena
+Hyaena (Genus)|<->|Striped hyena
 Hyakutake comet|=|Comet Hyakutake
 Hyaline membrane disease|<->|Infant respiratory distress syndrome
 Hybrid computers|=|Hybrid computer
@@ -24276,8 +24276,7 @@ Nationalism -- Palestine|<->|Palestinian nationalism
 Nationalism -- Philippines|<->|Filipino nationalism
 Nationalism -- Poland|<->|Polish nationalism
 Nationalism -- Romania|<->|Romanian nationalism
-Nationalism -- Russia (Federation)|<->|Nationalisms in Russia
-Nationalism -- Russia (Federation)|<-|Russian nationalism
+Nationalism -- Russia (Federation)|<->|Russian nationalism
 Nationalism -- Scotland|<->|Scottish nationalism
 Nationalism -- Serbia|<->|Serbian nationalism
 Nationalism -- Spain|<->|Spanish nationalism
@@ -36753,10 +36752,10 @@ Ukkusiksalik National Park (Nunavut)|=|Ukkusiksalik National Park
 Ukkusissat (Greenland)|=|Ukkusissat
 Ukraine -- Economic conditions|<->|Economy of Ukraine
 Ukraine -- History -- Euromaidan Protests, 2013-2014|<->|Euromaidan
-Ukraine -- History -- Euromaidan Protests, 2013-2014|<-|2014 Ukrainian revolution
+Ukraine -- History -- Euromaidan Protests, 2013-2014|<-|2013–14 Ukrainian revolution
 Ukraine -- History -- Famine, 1932-1933|<->|Holodomor
 Ukraine -- History -- German occupation, 1941-1944|<->|Reichskommissariat Ukraine
-Ukraine -- History -- Independence proclamation, 1918 (January 22)|<->|Act Zluky
+Ukraine -- History -- Independence proclamation, 1918 (January 22)|<->|Fourth Universal of the Ukrainian Central Council
 Ukraine -- History -- Independence proclamation, 1941|<->|Act of restoration of the Ukrainian state
 Ukraine -- History -- Independence proclamation, 1991 (August 24)|<->|1991 Ukrainian independence referendum
 Ukraine -- History -- Orange Revolution, 2004|<->|Orange Revolution

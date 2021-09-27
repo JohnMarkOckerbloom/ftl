@@ -1591,6 +1591,23 @@ BASEURL https://tue.on.worldcat.org
 CATTYPE worldcat2
 FILTERS SNK
 
+ID OCLC-QGK
+NAME University of Amsterdam
+LOCATION Amsterdam
+COUNTRY NL
+CATTYPE primo-ve
+BASEURL https://lib.uva.nl
+VID 31UKB_UAM1_INST:UVA
+SCOPE DN_and_CI_and_PURE
+
+ID OCLC-GRU
+NAME University of Groningen
+LOCATION Groningen
+COUNTRY NL
+BASEURL https://rug.on.worldcat.org
+CATTYPE worldcat2
+FILTERS SNK
+
 ID OCLC-QGJ
 NAME Utrecht University Library
 LOCATION Utrecht
@@ -4819,6 +4836,15 @@ STATE IL
 CATTYPE polaris-context
 BASEURL http://pinnacle.polarislibrary.com/polaris
 CONTEXT 11.1033.0.0.6
+
+ID OCLC-IBP
+NAME Principia College, Marshall Brooks Library
+LOCATION Elsah
+STATE IL
+CATTYPE primo-ve
+BASEURL https://i-share-prc.primo.exlibrisgroup.com
+VID 01CARLI_PRC:CARLI_PRC
+SCOPE MyInstitution
 
 ID OCLC-ILPML
 NAME Pritzker Military Museum and Library
