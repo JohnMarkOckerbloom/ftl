@@ -396,6 +396,14 @@ VID UWS-ALMA
 LCODE UWS-ALMA
 LOC adaptor,scope:(UWS-ALMA),primo_central_multiple_fe
 
+ID BRUSSELSEBIB
+NAME Brusselse Bibliotheken
+LOCATION Brussels and vicinity; English searches may give limited results
+COUNTRY BE
+BASEURL https://brusselsebibliotheken.bibliotheek.be
+KEYURL ${BASEURL}/en/catalog?q=${ARG}
+FILTERS SNK
+
 ID OCLC-BECOE
 NAME College of Europe
 LOCATION Bruges
@@ -420,6 +428,14 @@ LOCATION Leuven
 COUNTRY BE
 CATTYPE primo-justquery
 BASEURL https://limo.libis.be/primo-explore/search?&vid=KULeuven&tab=all_content_tab&search_scope=ALL_CONTENT&offset=0&
+
+ID MUNTPUNT
+NAME Muntpunt
+LOCATION Brussels
+COUNTRY BE
+BASEURL https://muntpunt.bibliotheek.be
+KEYURL ${BASEURL}/en/catalog?q=${ARG}
+FILTERS SNK
 
 ID OCLC-UCDLC
 NAME Universit&eacute; Catholique de Louvain (UCLouvain)
@@ -9510,6 +9526,15 @@ LOCATION Bellingham
 STATE WA
 CATTYPE bibliocommons
 BASEURL https://bellingham.bibliocommons.com
+
+ID OCLC-Z-DOLLAR-3
+NAME Big Bend Community College
+LOCATION Moses Lake
+STATE WA
+CATTYPE primo-ve
+BASEURL https://sbctc-bigbend.primo.exlibrisgroup.com
+VID 01STATEWA_BIGBEND:BIGBEND_V1
+SCOPE MyInst_and_CI
 
 ID OCLC-BGTON
 NAME Burlington Public Library
