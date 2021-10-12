@@ -1266,6 +1266,13 @@ VID hub_ub
 LCODE HUB
 LOC adaptor,scope:(HUB_UB_ALMA),primo_central_multiple_fe
 
+ID BIBLIOTEKDK
+NAME Bibliotek.dk
+LOCATION Libraries across Denmark
+COUNTRY DK
+CATTYPE tingdk
+BASEURL https://bibliotek.dk
+
 # We'll use the Odense Central Library's ID for this consortial OPAC
 ID DK-746100
 NAME Odense Bibliotekerne
