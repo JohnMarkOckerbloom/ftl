@@ -4,7 +4,7 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2021-08-09
+# Last updated 2021-10-21
 # Manual Sweep: pick up w China
 # Automated Sweep: pick up w Nigeria
 
@@ -421,6 +421,13 @@ BASEURL https://bib.howest.be/catalog
 CATTYPE blacklight
 TINDEX title
 SINDEX all_fields
+
+ID OCLC-BEBRA
+NAME KBR: Royal Library of Belgium
+LOCATION Brussels; English searches may give limited results
+COUNTRY BE
+BASEURL https://opac.kbr.be/Library/search.aspx
+KEYURL ${BASEURL}?SC=KBR_UNIFIED&QUERY=${ARG:SNK}
 
 ID OCLC-EQX
 NAME KU Leuven
