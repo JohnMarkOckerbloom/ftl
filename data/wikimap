@@ -10,7 +10,7 @@
 #   are not included in this file.
 # Manual title and name-title correspondences have been moved to wikiworksmap.
 # See docs file for documentation
-# Last updated 2021-10-21
+# Last updated 2021-11-02
 # Did LCSH 2015-2020 update lists, 2021 monthly lists 1-7 (+6a, 7&8y, 22), 8 (A-G only)
 1 Pendleton Place House (New York, N.Y.)|=|One Pendleton Place
 1009 Fifth Avenue House (New York, N.Y.)|=|Benjamin N. Duke House
@@ -282,7 +282,7 @@ Achagua Indians|=|Achagua people
 Achala Pampa (Argentina)|=|Pampa de Achala
 Achanakmar-Amarkantak Biosphere Reserve (India)|=|Achanakmar-Amarkantak Biosphere Reserve
 Achang (Asian people)|=|Achang people
-Achatinella|<->|Oʻahu tree snail
+Achatinella|<->|Achatinellinae
 Achelous (Greek deity)|=|Achelous
 Achelous River (Greece)|=|Achelous River
 Achensee (Austria)|=|Achen Lake
@@ -1215,7 +1215,7 @@ Amelia Jane (Fictitious character)|=|Amelia Jane
 Amer Fort (Jaipur, India)|=|Amber Fort
 America|<->|Americas
 America -- Discovery and exploration -- Norse|<->|Norse colonization of North America
-America -- Discovery and exploration -- Pre-Columbian|<->|Pre-Columbian trans-oceanic contact theories
+America -- Discovery and exploration -- Pre-Columbian|<->|Pre-Columbian transoceanic contact theories
 American Airlines Flight 11 Hijacking Incident, 2001|<->|American Airlines Flight 11
 American Airlines Flight 77 Hijacking Incident, 2001|<->|American Airlines Flight 77
 American beaver|=|North American beaver
@@ -5246,7 +5246,7 @@ Burma -- History -- 1948-1962|=|Post-independence Burma (1948–1962)
 Burma -- History -- Ava kingdom, 1364-1527|<->|Kingdom of Ava
 Burma -- History -- Japanese occupation, 1942-1945|=|Japanese occupation of Burma
 Burma -- History -- Konbaung dynasty, 1752-1885|<->|Konbaung dynasty
-Burma -- History -- Pagan period, 849-1287|<->|Bagan Kingdom
+Burma -- History -- Pagan period, 849-1287|<->|Pagan Kingdom
 Burma -- History -- Peasant Uprising, 1930|->|Saya San
 Burma -- History -- Toungoo dynasty, 1486-1752|<->|Toungoo dynasty
 Burma -- Politics and government|<->|Politics of Myanmar
@@ -9595,7 +9595,7 @@ Deeg Palace (D&imacr;g, India)|=|Deeg Palace
 Deep Blue (Computer)|=|Deep Blue (chess computer)
 Deep Bottom, 1st Battle of, Va., 1864 (July 27-29)|=|First Battle of Deep Bottom
 Deep Fork (Okla.)|=|Deep Fork River
-Deep-sea fishes|=|Deep sea fish
+Deep-sea fishes|=|Deep-sea fish
 Deepwater Horizon (Drilling rig)|=|Deepwater Horizon
 Deepwood (Salem, Or.)|=|Dr. Luke A. Port House
 Deer Creek (Pa. and Md.)|=|Deer Creek (Maryland)
@@ -11033,7 +11033,7 @@ Egypt -- History -- Middle Kingdom, ca. 2180-ca. 1551 B.C.|<->|Middle Kingdom of
 Egypt -- History -- New Kingdom, ca. 1550-ca. 1070 B.C.|<->|New Kingdom of Egypt
 Egypt -- History -- Nineteenth dynasty, ca. 1320-1200 B.C.|<->|Nineteenth Dynasty of Egypt
 Egypt -- History -- Old Kingdom, ca. 2686-ca. 2181 B.C.|=|Old Kingdom of Egypt
-Egypt -- History -- Protests, 2011-2013|<-|Egyptian revolution of 2011
+Egypt -- History -- Protests, 2011-2013|<-|2011 Egyptian revolution
 Egypt -- History -- Protests, 2011-2013|<->|Egyptian Crisis (2011–2014)
 Egypt -- History -- Revolution, 1952|<->|Egyptian revolution of 1952
 Egypt -- History -- Second Intermediate Period, ca. 1783-ca. 1550 B.C.|<->|Second Intermediate Period of Egypt
@@ -11232,7 +11232,7 @@ Electronic funds transfers|=|Electronic funds transfer
 Electronic games|=|Electronic game
 Electronic information resources -- Management|<->|Electronic resource management
 Electronic intelligence|->|Signals intelligence
-Electronic journals|=|Electronic journal
+Electronic journals|->|Academic journal
 Electronic keyboard (Synthesizer)|<->|Electronic keyboard
 Electronic mail art|=|Email art
 Electronic mail marketing|=|Email marketing
@@ -14267,7 +14267,7 @@ Gold Restoration of the Rose Building (Little Rock, Ark.)|<->|Rose Building (Lit
 Goldbach conjecture|=|Goldbach's conjecture
 Goldberggruppe (Austria)|=|Goldberg Group
 Golden Age (Mythology)|=|Golden Age
-Golden Bay/Mohua (N.Z.)|=|Golden Bay / Mohua
+Golden Bay/Mohua (N.Z.)|=|Golden Bay
 Golden calf (Bible)|=|Golden calf
 Golden-eye lichen|=|Teloschistes chrysophthalmus
 Golden Gate (Calif. : Strait)|=|Golden Gate
@@ -16683,7 +16683,7 @@ IBM 7090 (Computer)|=|IBM 7090
 IBM 7094 (Computer)|->|IBM 7090
 IBM 9000 (Computer)|<->|IBM System 9000
 IBM 9370 (Computer)|=|IBM 9370
-IBM AS/400 (Computer)|<->|IBM System i
+IBM AS/400 (Computer)|=|IBM AS/400
 IBM AS/400 Advanced 36 (Computer)|<->|IBM Advanced/36
 IBM Displaywriter (Word processor)|=|IBM Displaywriter System
 IBM PC Convertible (Computer)|=|IBM PC Convertible
@@ -16806,7 +16806,7 @@ Ili&#xfe20;u&#xfe21;shin Il-28 Beagle (Bomber)|=|Ilyushin Il-28
 Ili&#xfe20;u&#xfe21;shin Il-4 (Bomber)|=|Ilyushin Il-4
 Ilkeston (England)|=|Ilkeston
 Ilkhanid dynasty|<->|Ilkhanate
-Illawarra Shorthorn cattle|=|Illawarra cattle
+Illawarra Shorthorn cattle|=|Illawarra Shorthorn
 Illegal aliens|<->|Illegal immigration
 Illegitimacy|<->|Legitimacy (family law)
 Illegitimate children|->|Legitimacy (family law)
@@ -16923,7 +16923,7 @@ Independence, Mount (Vt.)|=|Mount Independence (Vermont)
 Independence Day (Afghanistan)|<->|Afghan Independence Day
 Independence Day (Poland)|=|National Independence Day (Poland)
 Independence Hall (Philadelphia, Pa.)|=|Independence Hall
-Independence Mall (Philadelphia, Pa.)|=|Independence Mall (Philadelphia)
+Independence Mall (Philadelphia, Pa.)|->|Independence National Historical Park
 Independence Mine State Historical Park (Alaska)|<->|Independence Mines
 Independence Mountains (Nev.)|=|Independence Mountains
 Independence National Historical Park (Agency : U.S.)|->|Independence National Historical Park
@@ -19085,7 +19085,7 @@ Kijik Site (Alaska)|<->|Kijik, Alaska
 Kikka (Jet fighter plane)|=|Nakajima Kikka
 Kikuchi River (Japan)|=|Kikuchi River
 Kikuyu (African people)|<->|Kikuyu people
-Kikuyu grass|=|Pennisetum clandestinum
+Kikuyu grass|=|Cenchrus clandestinus
 Kilauea Volcano (Hawaii)|=|Kīlauea
 Kilba (African people)|=|Kilba people
 Kildare (Ireland : County)|=|County Kildare
@@ -20980,8 +20980,7 @@ Lo&#x1e5b;u marz (Armenia)|=|Lori Province
 Los Angeles (Airship)|<->|USS Los Angeles (ZR-3)
 Los Angeles Angels of Anaheim (Baseball team)|=|Los Angeles Angels
 Los Angeles (Calif.)|=|Los Angeles
-Los Angeles (Calif.) -- History|<->|Modern history of Los Angeles
-Los Angeles (Calif.) -- History|<-|Early history of Los Angeles, California
+Los Angeles (Calif.) -- History|=|History of Los Angeles
 Los Angeles (Calif.) -- Politics and government|<->|Government of Los Angeles
 Los Angeles Clippers (Basketball team)|=|Los Angeles Clippers
 Los Angeles Dodgers (Baseball team)|=|Los Angeles Dodgers
@@ -22359,7 +22358,7 @@ Mechi River (Nepal and India)|=|Mechi River
 Mech&imacr; Zone (Nepal)|=|Mechi Zone
 Mecklenburg (Germany : Castle)|=|Mecklenburg Castle
 Mecklenburg (Germany : Region)|=|Mecklenburg
-Mecklenburg-Vorpommern (Germany)|=|Mecklenburg-Western Pomerania
+Mecklenburg-Vorpommern (Germany)|=|Mecklenburg-Vorpommern
 Mecklenburgh Square (London, England)|=|Mecklenburgh Square
 Medak Pocket Operation, Croatia, 1993|=|Operation Medak Pocket
 Medals|=|Medal
@@ -24022,7 +24021,7 @@ Nada&iacute;smo (Literary movement)|=|Nadaism
 Nadezhda (Name)|=|Nadezhda (given name)
 Nador (Morocco : Province)|=|Nador Province
 Nador (Nador, Morocco)|=|Nador
-N&amacr;f River (Burma and Bangladesh)|=|Naf River
+N&amacr;f River (Burma and Bangladesh)|=|Naaf
 Nafana (African people)|=|Nafana people
 N&auml;fels, Battle of, Switzerland, 1388|=|Battle of Näfels
 Naga (South Asian people)|=|Naga people
@@ -24105,7 +24104,7 @@ Names, Maori|<->|Māori naming customs
 Names, Mongolian|=|Mongolian name
 Names, Persian|=|Persian name
 Names, Personal|=|Personal name
-Names, Polish|=|Polish name
+Names, Polish|=|Polish names
 Names, Portuguese|=|Portuguese name
 Names, Scottish Gaelic|=|Scottish Gaelic name
 Names, Slavic|=|Slavic names
@@ -26382,7 +26381,7 @@ Osuna, Dukes of|<->|Duke of Osuna
 Oswald West State Park (Or.)|=|Oswald West State Park
 Oswego, Lake (Or. : Lake)|=|Oswego Lake
 Ot Danum (Indonesian people)|=|Ot Danum people
-Otamahua/Quail Island (N.Z.)|=|Otamahua / Quail Island
+Otamahua/Quail Island (N.Z.)|=|Quail Island (New Zealand)
 Otavalo (Ecuador)|=|Otavalo (city)
 Otavalo Indians|=|Otavalo people
 Otavi (Namibia)|=|Otavi
@@ -29587,7 +29586,7 @@ Railroad stations -- Germany|<->|Railway stations in Germany
 Railroad stations -- Italy|<->|Railway stations in Italy
 Railroad Strike, Netherlands, 1903|<->|Railroad strikes of 1903 in the Netherlands
 Railroad Strike, U.S., 1877|=|Great Railroad Strike of 1877
-Railroad tracks|=|Track (rail transport)
+Railroad tracks|=|Railway track
 Railroad Tycoon (Game)|<->|Railroad Tycoon
 Railroad Workers' Strike, Bucharest, Romania, 1933|=|Grivița strike of 1933
 Railroads|=|Rail transport
@@ -29924,7 +29923,7 @@ Reformatories|=|Reformatory
 Reformatories for women|<->|Incarceration of women
 Reformatories for women -- United States|<->|Incarceration of women in the United States
 Reformed Church|->|Calvinism
-Reformers|->|Reform movement
+Reformers|->|Reform
 Reformers (Exercise equipment)|->|Pilates
 Refoulement|<->|Non-refoulement
 Reframing (Psychotherapy)|<->|Cognitive reframing
@@ -31964,7 +31963,7 @@ Sealdah Railway Station (Kolkata, India)|=|Sealdah railway station
 Sealing-wax|=|Sealing wax
 Seals (Animals)|->|Pinniped
 Seaman Range (Nev.)|=|Seaman Range
-Sean-nos|<->|Sean-nós song
+Sean-nos|<->|Sean-nós singing
 Seances|=|Séance
 Seaplanes|=|Seaplane
 Searches and seizures|=|Search and seizure
@@ -33807,7 +33806,7 @@ Squatter settlements|=|Shanty town
 Squatters|<->|Squatting
 Squaw Creek (Valley County and Gem County, Idaho)|=|Squaw Creek (Payette River tributary)
 Squaw Creek Reservoir (Tex.)|=|Squaw Creek Reservoir
-Squaw Island (Ontario County, N.Y.)|=|Squaw Island (Canandaigua Lake)
+Squaw Island (Ontario County, N.Y.)|=|Skenoh Island
 Squaw Run (Allegheny County, Pa.)|=|Squaw Run (Allegheny River tributary)
 Squaxin Island (Wash.)|=|Squaxin Island
 Squaxin Island Tribe of the Squaxin Island Reservation|=|Squaxin Island Tribe
@@ -35074,7 +35073,7 @@ Te Hauturu-o-Toi/Little Barrier Island (N.Z.)|=|Little Barrier Island
 Te Houhou/George Sound (N.Z.)|=|Te Houhou / George Sound
 Te-li-ss&ubreve;, Battle of, Delisi Zhen, China, 1904|=|Battle of Te-li-Ssu
 Te Motu-o-Kura/Bare Island (N.Z.)|=|Bare Island (New Zealand)
-Te R&amacr;/Dagg Sound (N.Z.)|=|Te Rā / Dagg Sound
+Te R&amacr;/Dagg Sound (N.Z.)|=|Dagg Sound
 Te Rarawa (New Zealand people)|=|Te Rarawa
 Te Roroa (New Zealand people)|=|Te Roroa
 T&Edot;3 (Diesel locomotive)|<->|Russian locomotive class TE3
@@ -36806,7 +36805,7 @@ Ukkusiksalik National Park (Nunavut)|=|Ukkusiksalik National Park
 Ukkusissat (Greenland)|=|Ukkusissat
 Ukraine -- Economic conditions|<->|Economy of Ukraine
 Ukraine -- History -- Euromaidan Protests, 2013-2014|<->|Euromaidan
-Ukraine -- History -- Euromaidan Protests, 2013-2014|<-|2013–14 Ukrainian revolution
+Ukraine -- History -- Euromaidan Protests, 2013-2014|<-|February 2014 Maidan revolution
 Ukraine -- History -- Famine, 1932-1933|<->|Holodomor
 Ukraine -- History -- German occupation, 1941-1944|<->|Reichskommissariat Ukraine
 Ukraine -- History -- Independence proclamation, 1918 (January 22)|<->|Fourth Universal of the Ukrainian Central Council
@@ -37065,7 +37064,7 @@ United States. District Court (District of Columbia)|=|United States District Co
 United States -- Economic conditions|<->|Economy of the United States
 United States -- Economic policy -- 1993-2001|<->|Economic policy of the Bill Clinton administration
 United States -- Economic policy -- 2001-2009|<->|Economic policy of the George W. Bush administration
-United States Embassy Attack, Isl&amacr;m&amacr;b&amacr;d, Pakistan, 1979|=|1979 U.S. embassy burning in Islamabad
+United States Embassy Attack, Isl&amacr;m&amacr;b&amacr;d, Pakistan, 1979|=|1979 United States Embassy burning in Islamabad
 United States Embassy Bombing, Dar es Salaam, Tanzania, 1998|->|1998 United States embassy bombings
 United States Embassy Bombing, Nairobi, Kenya, 1998|->|1998 United States embassy bombings
 United States -- Emigration and immigration|<->|Immigration to the United States
@@ -39722,7 +39721,7 @@ Yorkshire (England)|=|Yorkshire
 Yorkshire (England) -- History|=|History of Yorkshire
 Yorkshire Dales (England)|=|Yorkshire Dales
 Yorkshire Dales National Park (England)|=|Yorkshire Dales National Park
-Yorktown (Va.) -- History -- Siege, 1781|=|Siege of Yorktown (1781)
+Yorktown (Va.) -- History -- Siege, 1781|=|Siege of Yorktown
 Yorktown Class (Aircraft carriers)|=|Yorktown-class aircraft carrier
 Yorkville Highlands American Viticultural Area (Calif.)|=|Yorkville Highlands AVA
 Yoros Kalesi (Turkey)|=|Yoros Castle
