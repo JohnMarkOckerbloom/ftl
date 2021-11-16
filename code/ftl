@@ -110,6 +110,7 @@ sub init_countries {
   }
   $countries->{"00"} = " Global library services";
   $countries->{"TW"} = "Taiwan";
+  $countries->{"TZ"} = "Tanzania";
   $countries->{"UK"} = "United Kingdom";
   return $countries;
 }

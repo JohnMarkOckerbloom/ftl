@@ -474,6 +474,15 @@ TINDEX Uindex04
 AINDEX Uindex11
 FILTERS SNK
 
+ID OCLC-BEUON
+NAME Universit&eacute; de Namur
+LOCATION Namur
+COUNTRY BE
+BASEURL https://opac.unamur.be/opac/unamur
+KEYURL ${BASEURL}/search/bibliographic/${ARG:SNK}
+AUTURL ${BASEURL}/search/bibliographic/tm_a:"${ARG:SNK}"
+TITURL ${BASEURL}/search/bibliographic/tm_t:"${ARG:SNK}"
+
 ID OCLC-BELDB
 NAME Universit&eacute; Libre de Bruxelles
 LOCATION Brussels
@@ -1893,6 +1902,13 @@ LOCATION Taipei
 COUNTRY TW
 CATTYPE sirsi
 BASEURL http://webcat.tpml.edu.tw/uhtbin/cgisirsi
+
+ID OPENUTZ
+NAME Open University of Tanzania
+LOCATION multiple campuses
+COUNTRY TZ
+BASEURL http://library.out.ac.tz
+CATTYPE koha
 
 ID TT-BWS
 WCRID 73103
@@ -4683,6 +4699,14 @@ LOCATION Chicago
 STATE IL
 BASEURL https://depaul.on.worldcat.org/search?queryString
 CATTYPE worldcat-config
+
+ID OCLC-GK8
+NAME Des Plaines Public Library
+LOCATION Des Plaines
+STATE IL
+CATTYPE polaris-context
+BASEURL https://ccs.polarislibrary.com/polaris
+CONTEXT 14.1033.0.0.1
 
 ID OCLC-JY3
 NAME Dixon Public Library
