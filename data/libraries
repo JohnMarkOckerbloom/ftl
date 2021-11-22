@@ -396,6 +396,21 @@ VID UWS-ALMA
 LCODE UWS-ALMA
 LOC adaptor,scope:(UWS-ALMA),primo_central_multiple_fe
 
+ID OCLC-A9W
+NAME Universit&auml;t Wien
+LOCATION Vienna
+COUNTRY AT
+CATTYPE primo-justquery
+BASEURL https://usearch.univie.ac.at/primo-explore/search?institution=UWI&vid=UWI&search_scope=UWI_UBBestand&
+
+ID BIBREGBRUX
+NAME Biblioth&egrave;ques de la R&eacute;gion de Bruxelles Capitale
+LOCATION Brussels and vicinity
+COUNTRY BE
+BASEURL https://biblio.brussels
+CATTYPE iguana
+FILTERS NS
+
 ID BRUSSELSEBIB
 NAME Brusselse Bibliotheken
 LOCATION Brussels and vicinity; English searches may give limited results
