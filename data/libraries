@@ -5189,6 +5189,13 @@ STATE IN
 CATTYPE summon
 BASEURL http://valpo.summon.serialssolutions.com
 
+ID OCLC-IWC
+NAME Wabash College
+LOCATION Crawfordsville
+STATE IN
+BASEURL https://wabash.on.worldcat.org
+CATTYPE worldcat2
+
 ID OCLC-KNJ
 NAME Johnson County Library
 LOCATION Overland Park and vicinity
