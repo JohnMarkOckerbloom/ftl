@@ -7,37 +7,14 @@
 #  or Library-code2 inherits Library-code1
 #   to reuse all the correspondences declared previously in Library-code1
 # In this file, non-ASCII characters are included literally (no entities)
-# Last updated 2021-05-17
+# Last updated 2021-12-10; reflects LC changes of November 2021 (11b)
 # 
-#   U-Colorado Boulder mappings based on https://www.colorado.edu/libraries/2018/08/19/inclusive-spaces-and-practices
-OCLC-COD|Children of undocumented immigrants|<->|Children of illegal aliens
-OCLC-COD|Immigrant detention centers|<->|Alien detention centers
-OCLC-COD|Noncitizens|<->|Aliens
-OCLC-COD|Undocumented immigrant children|<->|Illegal alien children
-OCLC-COD|Undocumented immigrants|<->|Illegal aliens
-OCLC-COD|Undocumented immigrants in literature|<->|Illegal aliens in literature 
-OCLC-COD|Women undocumented immigrants|<->|Women illegal aliens
+#   U-Colorado Boulder mappings based on https://www.colorado.edu/libraries/2018/08/19/inclusive-spaces-and-practices as modified by LCSH 2021 list 111b
+OCLC-COD|Immigrant detention centers|<->|Noncitizen detention centers
 #   U-Penn mappings based on checks of Franklin browse against Colorado above
-OCLC-PAU|Children of undocumented immigrants|<->|Children of illegal aliens
-OCLC-PAU|Immigrant detention centers|<->|Alien detention centers
-OCLC-PAU|Noncitizens|<->|Aliens
-OCLC-PAU|Undocumented immigrant children|<->|Illegal alien children
-OCLC-PAU|Undocumented immigrants|<->|Illegal aliens
-OCLC-PAU|Undocumented immigrants in literature|<->|Illegal aliens in literature 
-OCLC-PAU|Women undocumented immigrants|<->|Women illegal aliens
-#  Orbis-Cascade mappings declared at https://drive.google.com/file/d/1R5dmP14Cx5Y58KfrjdGYi4N9VLCYH1zn/view
-OCLC-OBS|Children of undocumented immigrants|<->|Children of illegal aliens
-OCLC-OBS|Noncitizen criminals|<->|Alien criminals
-OCLC-OBS|Immigrant detention centers|<->|Alien detention centers
-OCLC-OBS|Noncitizens|<->|Aliens
-OCLC-OBS|Noncitizens in art|<->|Aliens in art
-OCLC-OBS|Noncitizens in literature|<->|Aliens in literature
-OCLC-OBS|Noncitizens in mass media|<->|Aliens in mass media
-OCLC-OBS|Noncitizens in motion pictures|<->|Aliens in motion pictures
-OCLC-OBS|Undocumented immigrant children|<->|Illegal alien children
-OCLC-OBS|Undocumented immigrants|<->|Illegal aliens
-OCLC-OBS|Undocumented immigrants in literature|<->|Illegal aliens in literature 
-OCLC-OBS|Women undocumented immigrants|<->|Women illegal aliens
+OCLC-PAU|Immigrant detention centers|<->|Noncitizen detention centers
+#  Orbis-Cascade mappings based on https://drive.google.com/file/d/1R5dmP14Cx5Y58KfrjdGYi4N9VLCYH1zn/view as modified by LCSH 2021 list 11b
+OCLC-OBS|Immigrant detention centers|<->|Noncitizen detention centers
 #   Central Oregon Community College uses Orbis-Cascade mappings
 OCLC-CEO inherits OCLC-OBS
 #   Chemeketa Community College uses Orbis-Cascade mappings

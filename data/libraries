@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2021-10-21
-# Manual Sweep: pick up w China
+# Last updated 2021-12-20
+# Manual Sweep: pick up w Israel
 # Automated Sweep: pick up w Nigeria
 
 ID OLBP
@@ -811,6 +811,13 @@ CATTYPE evergreen-dynamic
 BASEURL http://mbrl.mb.catalogue.libraries.coop/eg/opac
 FILTERS N 
 
+ID OCLC-CN3HA
+NAME Brandon University
+LOCATION Brandon
+PROVINCE MB
+CATTYPE primo-justquery
+BASEURL https://brandonu-primo.hosted.exlibrisgroup.com/primo-explore/search?search_scope=Blended&vid=01BRA&
+
 ID OCLC-UAT
 NAME University of Manitoba
 LOCATION Winnipeg
@@ -1458,7 +1465,7 @@ NAME National University of Ireland, Galway
 LOCATION Galway
 COUNTRY IE
 CATTYPE primodl-scope
-BASEURL http://search.library.nuigalway.ie
+BASEURL https://search.library.nuigalway.ie
 VID 353GAL_VUJ
 LCODE GAL
 SCOPE LSCOP_ALL_DATA
@@ -1474,7 +1481,7 @@ ID OCLC-IEUOL
 NAME University of Limerick
 LOCATION Limerick
 COUNTRY IE
-BASEURL http://ul.summon.serialssolutions.com
+BASEURL https://ul.summon.serialssolutions.com
 CATTYPE summon
 
 ID SOUTHASIAN
@@ -1484,6 +1491,7 @@ COUNTRY IN
 BASEURL http://southasianuniversity.summon.serialssolutions.com
 CATTYPE summon
 
+# Availability limited, but link on library website was this as of 2021-12-20
 ID OCLC-INUOK
 NAME University of Kashmir
 LOCATION Srinigar
