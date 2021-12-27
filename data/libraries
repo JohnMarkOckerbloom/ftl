@@ -6232,6 +6232,15 @@ CATTYPE sirsient
 BASEURL https://wlrd.ent.sirsi.net
 LCODE en_US/default
 
+ID OCLC-MNK
+NAME Bethel University
+LOCATION St. Paul
+STATE MN
+CATTYPE primo-ve
+BASEURL https://libsearch.bethel.edu
+VID 01CLIC_BETHEL:BETHEL
+SCOPE CLIC_and_BETHEL_ALL_Profile
+
 ID OCLC-DUD
 NAME Duluth Public Library
 LOCATION Duluth

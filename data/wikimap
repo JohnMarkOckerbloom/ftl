@@ -10,8 +10,8 @@
 #   are not included in this file.
 # Manual title and name-title correspondences have been moved to wikiworksmap.
 # See docs file for documentation
-# Last updated 2021-12-10
-# Did LCSH 2015-2020 update lists, 2021 monthly lists 1-10 (+6a, 7-11y, 9w, 20x, 11b, 22)
+# Last updated 2021-12-22
+# Did LCSH 2015-2020 update lists, 2021 monthly lists 1-10 (+6a, 7-11y, 9w, 20x, 11b, 22), 11 (A only)
 1 Pendleton Place House (New York, N.Y.)|=|One Pendleton Place
 1009 Fifth Avenue House (New York, N.Y.)|=|Benjamin N. Duke House
 1066 Country Walk (England)|=|1066 Country Walk
@@ -35,6 +35,7 @@
 170-176 John Street Building (New York, N.Y.)|=|170–176 John Street
 1803 House (Emmaus, Pa.)|=|Jacob Ehrenhardt Jr. House
 1998 KY26 (Asteroid)|=|1998 KY26
+2 tone (Music)|=|Two-tone (music genre)
 2 White Street House (New York, N.Y.)|=|2 White Street
 20th Century Limited (Express train)|=|20th Century Limited
 203 Prince Street House (New York, N.Y.)|=|203 Prince Street
@@ -81,6 +82,7 @@
 48 Belgrave Square (London, England)|->|Belgrave Square
 51 Market Street House (New York, N.Y.)|=|51 Market Street
 527 groups|=|527 organization
+529 plans|=|529 plan
 5400 Class (Steam locomotives)|=|GWR 5400 Class
 5700 Class (Steam locomotives)|=|GWR 5700 Class
 5910 Amboy Road (New York, N.Y.)|=|5910 Amboy Road
@@ -473,6 +475,7 @@ Aeritalia G.91 (Jet fighter plane)|<->|Fiat G.91
 Aermacchi MB-326 (Jet plane)|=|Aermacchi MB-326
 Aerofoils|=|Airfoil
 Aeronautics, Commercial|<->|Commercial aviation
+Aeronautics in medicine|<->|Air medical services
 Aeronautics, Military|<->|Military aviation
 Aerospace engineers|->|Aerospace engineering
 Aerospatiale HH-65 (Short range recovery helicopter)|<->|Eurocopter MH-65 Dolphin
@@ -559,6 +562,7 @@ Afrikaans language|=|Afrikaans
 Afrosurrealism|=|Afro-Surrealism
 Afshar (Turkic people)|=|Afshar people
 Afsluitdijk (Netherlands)|=|Afsluitdijk
+After-school programs|<->|After-school activity
 Afyonkarahisar (Turkey)|=|Afyonkarahisar
 Afyonkarahisar &Idot;li (Turkey)|=|Afyonkarahisar Province
 Afyonkarahisar Kalesi (Afyonkarahisar, Turkey)|=|Afyonkarahisar Castle
@@ -702,7 +706,7 @@ Air France Flight 447 Crash, 2009|<->|Air France Flight 447
 Air France Flight 4590 Crash, Gonesse, France, 2000|<->|Air France Flight 4590
 Air France Flight 8969 Hijacking Incident, 1994|<->|Air France Flight 8969
 Air-India Flight 182 Bombing Incident, 1985|<->|Air India Flight 182
-Air-India Kashmir Princess Crash, 1955|<->|Air India Flight 300
+Air-India Kashmir Princess Crash, 1955|<->|Kashmir Princess
 Air Inter Flight 148 Crash, France, 1992|<->|Air Inter Flight 148
 Air locks (Chambers)|<->|Airlock
 Air pilots|=|Aircraft pilot
@@ -1343,6 +1347,7 @@ Anas clypeata|=|Northern shoveler
 Anas crecca|=|Eurasian teal
 Anas diazi|=|Mexican duck
 Anat (West Semitic deity)|<->|Anat
+Anata (The Japanese word)|<->|Anata
 Anatolian shepherd dog|<->|Kangal Shepherd Dog
 Anatomy, Comparative|=|Comparative anatomy
 Anaxarete (Greek mythology)|=|Anaxarete
@@ -1627,7 +1632,7 @@ Aomori-shi (Japan)|=|Aomori
 Aonyx capensis|=|African clawless otter
 Aoraki/Mount Cook (N.Z.)|=|Aoraki / Mount Cook
 Aortic valve -- Stenosis|<->|Aortic stenosis
-Aortic valve insufficiency|=|Aortic insufficiency
+Aortic valve insufficiency|<->|Aortic regurgitation
 Aosta (Italy)|=|Aosta
 Ap Bac, Battle of, &Aacute;&#x0302;p B&aacute;&#x0306;c, Vietnam, 1963|=|Battle of Ap Bac
 Ap Gu, Battle of, Vietnam, 1967|=|Battle of Ap Gu
@@ -1794,7 +1799,7 @@ Arbitration and award|<->|Arbitration
 Arbol de la Paz (Santiago de Cuba, Cuba)|=|Santiago Surrender Tree
 Arbor Low Stone Circle (England)|=|Arbor Low
 Arbore (African people)|=|Arbore people
-Arborimus pomo|=|California red tree mouse
+Arborimus pomo|=|Sonoma tree vole
 Arboviruses|=|Arbovirus
 Arbuckle Mountains (Okla.)|=|Arbuckle Mountains
 Arbury Hall (England : Estate)|<->|Arbury Hall
@@ -2252,6 +2257,7 @@ Asia -- Politics and government|<->|Politics of Asia
 Asia -- Religion|=|Religion in Asia
 Asia, Central|=|Central Asia
 Asia, Central -- History|=|History of Central Asia
+Asian American political activists|<->|Asian American activism
 Asian American theater|=|Asian-American theatre
 Asian conical hats|=|Asian conical hat
 Asian longhorned beetle|=|Asian long-horned beetle
@@ -3032,6 +3038,7 @@ Banff Formation (Alta. and B.C.)|=|Banff Formation
 Banff National Park (Alta.)|=|Banff National Park
 Banff Park Museum National Historic Site (Alta.)|<->|Banff Park Museum
 Banffshire (Scotland)|=|Banffshire
+Bang Rachan (Thailand)|=|Bang Rachan
 Bangalore (India)|=|Bangalore
 Bangerang (Australian people)|<->|Pangerang
 Bangka Island (Kepulauan Bangka Belitung, Indonesia)|=|Bangka Island
@@ -5157,7 +5164,7 @@ Bulgaria -- History -- 1393-1878|<->|Ottoman Bulgaria
 Bulgaria -- History -- 1762-1878|<->|Bulgarian National Revival
 Bulgaria -- History -- 1878-1944|<->|History of Bulgaria (1878–1946)
 Bulgaria -- History -- 1944-1990|<->|People's Republic of Bulgaria
-Bulgaria -- History -- 1990-|=|History of Bulgaria since 1990
+Bulgaria -- History -- 1990-|=|History of Bulgaria (1990–present)
 Bulgaria -- History -- 681-1018|<->|First Bulgarian Empire
 Bulgaria -- History -- April Events, 1925|<->|St Nedelya Church assault
 Bulgaria -- History -- Coup d'&eacute;tat, 1934|=|1934 Bulgarian coup d'état
@@ -5261,7 +5268,7 @@ Burma -- History -- 1948-1962|=|Post-independence Burma (1948–1962)
 Burma -- History -- Ava kingdom, 1364-1527|<->|Kingdom of Ava
 Burma -- History -- Japanese occupation, 1942-1945|=|Japanese occupation of Burma
 Burma -- History -- Konbaung dynasty, 1752-1885|<->|Konbaung dynasty
-Burma -- History -- Pagan period, 849-1287|<->|Pagan Kingdom
+Burma -- History -- Pagan period, 849-1287|<->|Bagan Kingdom
 Burma -- History -- Peasant Uprising, 1930|->|Saya San
 Burma -- History -- Toungoo dynasty, 1486-1752|<->|Toungoo dynasty
 Burma -- Politics and government|<->|Politics of Myanmar
@@ -5814,10 +5821,10 @@ Capitulations|=|Capitulation (treaty)
 Capoeira (Dance)|<->|Capoeira
 Caporetto, Battle of, Kobarid, Slovenia, 1917|=|Battle of Caporetto
 Cappella Sistina (Vatican Palace, Vatican City)|=|Sistine Chapel
-Capri (Italy)|=|Capri, Campania
+Capri (Italy)|=|Capri (town)
 Capri Island (Italy)|=|Capri
 Caprice automobile|=|Chevrolet Caprice
-Caproni Ca.3 (Bomber)|=|Caproni Ca.3 (1916)
+Caproni Ca.3 (Bomber)|=|Caproni Ca.3
 Caproni Ca 313 (Military aircraft)|=|Caproni Ca.313
 Caproni Ca.4 (Bomber)|=|Caproni Ca.4
 Caproni Ca 90 (Bomber)|=|Caproni Ca.90
@@ -9234,11 +9241,11 @@ Cypress Hills (Alta. and Sask.)|=|Cypress Hills (Canada)
 Cypress Hills Interprovincial Park (Alta. and Sask.)|=|Cypress Hills Interprovincial Park
 Cypress Hills Massacre, Sask., 1873|=|Cypress Hills Massacre
 Cyprian War, 1570-1571|<->|Holy League (1571)
-Cyprus -- History -- British rule, 1878-1960|->|History of Cyprus since 1878
+Cyprus -- History -- British rule, 1878-1960|->|History of Cyprus (1878–present)
 Cyprus -- History -- British rule, 1878-1960|<-|British Cyprus
 Cyprus -- History -- Coup d'&eacute;tat, 1974|=|1974 Cypriot coup d'état
 Cyprus -- History -- Cyprus Crisis, 1963|<->|Bloody Christmas (1963)
-Cyprus -- History -- Cyprus Crisis, 1974-|<->|Cyprus dispute
+Cyprus -- History -- Cyprus Crisis, 1974-|<->|Cyprus conflict
 Cyprus -- History -- Lusignan dynasty, 1192-1474|<->|House of Lusignan
 Cyprus -- History -- Turkish Invasion, 1974|=|Turkish invasion of Cyprus
 Cyprus -- History -- Turkish rule, 1571-1878|<->|Ottoman Cyprus
@@ -9364,7 +9371,7 @@ Dana&euml; (Greek mythology)|=|Danaë
 Danaids (Greek mythology)|=|Danaïdes
 Danaus|=|Danaus (butterfly)
 Danaus, King of Argos (Mythological character)|=|Danaus
-Dance -- Sri Lanka|<->|Dances of Sri Lanka
+Dance -- Sri Lanka|<->|Dance in Sri Lanka
 Dance halls|=|Dance hall
 Dance of death|=|Danse Macabre
 Dance schools|=|Dance studio
@@ -10643,6 +10650,8 @@ Dume, Point (Calif.)|=|Point Dume
 Dumfries and Galloway (Scotland)|=|Dumfries and Galloway
 Dumfries House (Scotland)|=|Dumfries House
 Dumfriesshire (Scotland)|=|Dumfriesshire
+Dumagat language (Casiguran)|=|Casiguran Dumagat Agta
+Dumagat language (Umirey)|=|Umiray Dumaget language
 Dumlup&inodot;nar, Battle of, Dumlup&inodot;nar, K&uuml;tahya &Idot;li, Turkey, 1922|=|Battle of Dumlupınar
 Dumping (International trade)|<->|Dumping (pricing policy)
 Dumplings|=|Dumpling
@@ -12053,7 +12062,7 @@ Extinct animals|<->|Lists of extinct species
 Extinct cities|<->|Lost city
 Extinct birds|<->|List of extinct bird species since 1500
 Extinct mammals|<->|List of recently extinct mammals
-Extinct plants|<->|List of extinct plants
+Extinct plants|<->|List of plants that are extinct in the wild
 Extinction (Biology)|=|Extinction
 Extracorporeal shock wave therapy|=|Extracorporeal shockwave therapy
 Extrajudicial executions|=|Extrajudicial killing
@@ -12276,7 +12285,7 @@ FBA Type H (Seaplane)|=|FBA Type H
 Fear Effect (Game)|=|Fear Effect
 Fear of blood|=|Blood phobia
 Fear of contamination|<->|Mysophobia
-Fear of death|<->|Death anxiety (psychology)
+Fear of death|<->|Death anxiety
 Fear of dentists|<->|Dental fear
 Fear of medical care|<->|Fear of medical procedures
 Fear of spirits|<->|Fear of ghosts
@@ -12485,6 +12494,7 @@ Finnmark fylke (Norway)|=|Finnmark
 Finno-Ugrians|->|Finno-Ugric languages
 Finns -- Sweden|<->|Sweden Finns
 Fins (Anatomy)|<->|Fish fin
+Finsbury (London, England)|=|Finsbury
 Finzi family|<->|Finzi
 Fipa (African people)|=|Fipa people
 Fir dwarf mistletoe|=|Arceuthobium abietinum
@@ -13150,7 +13160,7 @@ France. &Eacute;tats g&eacute;n&eacute;raux|=|Estates General (France)
 France -- Foreign relations|=|Foreign relations of France
 France -- History -- 1789-1900|<->|France in the long nineteenth century
 France -- History -- 19th century|->|France in the long nineteenth century
-France -- History -- 20th century|<->|History of France (1900 to present)
+France -- History -- 20th century|<->|History of France (1900–present)
 France -- History -- Bombardment, 1944|<->|Bombing of France during World War II
 France -- History -- Cabochien Uprising, 1413|=|Cabochien revolt
 France -- History -- Coup d'&eacute;tat, 1797|=|Coup of 18 Fructidor
@@ -13224,7 +13234,7 @@ Franklin Mountains (Tex. and N.M.)|<->|Franklin Mountains (Texas)
 Franklin Street (Chapel Hill, N.C.)|=|Franklin Street (Chapel Hill)
 Franklinia (Genus)|->|Franklinia
 Franz Ferdinand, Archduke of Austria, 1863-1914 -- Assassination|=|Assassination of Archduke Franz Ferdinand
-Franz Josef Glacier/K&amacr; Roimata o Hine Hukatere (N.Z.)|=|Franz Josef Glacier / Kā Roimata o Hine Hukatere
+Franz Josef Glacier/K&amacr; Roimata o Hine Hukatere (N.Z.)|=|Franz Josef Glacier
 Frascati (Italy)|=|Frascati
 Frascati (Wine)|<->|Frascati DOC
 Fraser, Jamie (Fictitious character from Gabaldon)|=|Jamie Fraser (character)
@@ -13373,7 +13383,7 @@ Fukui-ken (Japan)|=|Fukui Prefecture
 Fukuoka-ken (Japan)|=|Fukuoka Prefecture
 Fukuoka-shi (Japan)|=|Fukuoka
 Fukushima Incident, Japan, 1882|=|Fukushima incident (1882)
-Fukushima Nuclear Disaster, Japan, 2011|=|Fukushima Daiichi nuclear disaster
+Fukushima Nuclear Disaster, Japan, 2011|=|Fukushima nuclear disaster
 Fukuyama-shi (Japan)|=|Fukuyama, Hiroshima
 Fula (African people)|=|Fula people
 Fulani Empire|<->|Sokoto Caliphate
@@ -13956,7 +13966,7 @@ Germany -- Historiography|=|Historiography of Germany
 Germany -- History -- 18th century|=|18th-century history of Germany
 Germany -- History -- 1933-1945|=|Nazi Germany
 Germany -- History -- 1945-1990|=|History of Germany (1945–1990)
-Germany -- History -- 1990-|=|History of Germany since 1990
+Germany -- History -- 1990-|=|History of Germany (1990–present)
 Germany -- History -- Beer Hall Putsch, 1923|=|Beer Hall Putsch
 Germany -- History -- Hohenstaufen, 1138-1254|->|Hohenstaufen
 Germany -- History -- Kapp Putsch, 1920|=|Kapp Putsch
@@ -14452,10 +14462,10 @@ Government contractors|=|Government contractor
 Government corporations|->|State-owned enterprise
 Government House (Canberra, A.C.T.)|=|Government House, Canberra
 Government House (Darwin, N.T.)|=|Government House, Darwin
-Government House (Regina, Sask.)|=|Government House, Saskatchewan
+Government House (Regina, Sask.)|=|Government House (Saskatchewan)
 Government House (Sydney, N.S.W.)|=|Government House, Sydney
 Government House (Wellington, N.Z.)|=|Government House, Wellington
-Government House (Winnipeg, Man.)|=|Government House, Manitoba
+Government House (Winnipeg, Man.)|=|Government House (Manitoba)
 Government information|->|Freedom of information
 Government lending|<->|Government-backed loan
 Government Livestock Farm (Hisar, India)|=|Government Livestock Farm, Hisar
@@ -14881,7 +14891,7 @@ Greyhound buses|->|Greyhound Lines
 Greyhound Lines, Inc.|<->|Greyhound Lines
 Greylock, Mount (Mass.)|=|Mount Greylock
 Grid plans (City planning)|=|Grid plan
-Grids (Cartography)|<->|Grid reference system
+Grids (Cartography)|<->|Projected coordinate system
 Grierson's Cavalry Raid, 1863|=|Grierson's Raid
 Gries Pass (Italy and Switzerland)|=|Gries Pass
 Griesbach hypothesis (Synoptics criticism)|<->|Two-gospel hypothesis
@@ -15234,7 +15244,7 @@ H&aring;konshallen (Bergenhuis festning, Bergen, Norway)|->|Bergenhus Fortress
 Hala Stulecia (Wroc&lstrok;aw, Poland)|=|Centennial Hall
 Hala tree|=|Pandanus tectorius
 Halabjah (Iraq)|=|Halabja
-Halabjah (Iraq) -- History -- Bombardment, 1988|<->|Halabja chemical attack
+Halabjah (Iraq) -- History -- Bombardment, 1988|<->|Halabja massacre
 Halalkhor (South Asian people)|=|Halalkhor
 Halba (Indic people)|=|Halba (tribe)
 Halba language|=|Halbi language
@@ -16263,8 +16273,8 @@ Horseshoes|=|Horseshoe
 Horten 229 (Jet fighter plane)|=|Horten Ho 229
 Horticultural exhibitions|<->|Garden festival
 Horticultural Hall (Boston, Mass. : Massachusetts Avenue)|=|Horticultural Hall (Boston)
-Horticultural Hall (Boston, Mass. : School Street)|=|Horticultural Hall, Boston (1845)
-Horticultural Hall (Boston, Mass. : Tremont Street)|=|Horticultural Hall, Boston (1865)
+Horticultural Hall (Boston, Mass. : School Street)|=|Horticultural Hall (Boston, 1845)
+Horticultural Hall (Boston, Mass. : Tremont Street)|=|Horticultural Hall (Boston, 1865)
 Horton Hall (Horton, Northamptonshire, England)|=|Horton Hall
 Horton Peak (Idaho)|=|Horton Peak
 Horus (Egyptian deity)|=|Horus
@@ -16995,7 +17005,7 @@ Independence National Historical Park (Agency : U.S.)|->|Independence National H
 Independence National Historical Park (Philadelphia, Pa.)|=|Independence National Historical Park
 Independent candidates|<->|Independent politician
 Independent contractors -- United States|<->|Independent contracting in the United States
-Independent Feature Project|<->|Independent Filmmaker Project
+Independent Feature Project|<->|The Gotham Film & Media Institute
 Independent insurance agents|<->|Insurance broker
 Independent Labor League of America|<->|Lovestoneites
 Independent practice associations (Medical care)|=|Independent practice association
@@ -17892,7 +17902,7 @@ Italic languages and dialects|=|Italic languages
 Italo disco (Music)|=|Italo disco
 Italo-Ethiopian War, 1895-1896|=|First Italo-Ethiopian War
 Italo-Ethiopian War, 1935-1936|=|Second Italo-Ethiopian War
-Italy -- History -- 1815-1870|<->|Italian unification
+Italy -- History -- 1815-1870|<->|Unification of Italy
 Italy -- History -- 476-1492|<->|Italy in the Middle Ages
 Italy -- History -- Attempted coup, 1970|=|Golpe Borghese
 Italy -- History -- Expedition of Charles VIII, 1494-1496|<->|Italian War of 1494–1495
@@ -18853,7 +18863,7 @@ Karameh, Battle of, Kar&amacr;mah, Jordan, 1968|=|Battle of Karameh
 Karamojong (African people)|=|Karamojong people
 Karanis (Extinct city)|=|Karanis
 Karankawa Indians|=|Karankawa people
-Karapapaks (Turkic people)|=|Qarapapaqs
+Karapapaks (Turkic people)|=|Karapapakhs
 Kara&sacute; (Bomber)|=|PZL.23 Karaś
 Karatepe Site (Turkey)|<->|Karatepe
 Karavali (India)|=|Karavali
@@ -19193,7 +19203,7 @@ Kindaichi, K&omacr;suke (Fictitious character)|=|Kosuke Kindaichi
 Kinder Scout (England)|=|Kinder Scout
 Kindertransports (Rescue operations)|<->|Kindertransport
 Kindle (Electronic book reader)|=|Amazon Kindle
-Kindle Fire (Computer)|<->|Amazon Fire tablet
+Kindle Fire (Computer)|<->|Amazon Fire
 Kindling (Neurology)|<->|Kindling (sedative–hypnotic withdrawal)
 Kinect (Programmable controller)|=|Kinect
 Kineo, Mount (Me.)|=|Mount Kineo
@@ -19383,7 +19393,7 @@ Koh Chang, Battle of, Thailand, 1941|=|Battle of Ko Chang
 Koh-i-noor (Diamond)|=|Koh-i-Noor
 K&omacr;hanga reo|->|Māori language revival
 Kohima (India)|=|Kohima
-Kohima (India : District)|=|Kohima District
+Kohima (India : District)|=|Kohima district
 Kohima, Battle of, Kohima, India, 1944|=|Battle of Kohima
 Kohler-Andrae State Park (Wis.)|=|Kohler-Andrae State Park
 Kohler Company Strike, Kohler, Wis., 1934|->|Kohler strikes
@@ -20753,8 +20763,9 @@ Literary journeys|<->|Literary tourism
 Literary movements|<->|List of literary movements
 Literary style|<->|Writing style
 Literature, Experimental|=|Experimental literature
+Literature -- History and criticism|<->|History of literature
 Literature, Medieval|=|Medieval literature
-Literature, Modern|->|History of modern literature
+Literature, Modern|<->|Modern literature
 Literature, Modern -- 15th and 16th centuries|<->|15th century in literature
 Literature, Modern -- 15th and 16th centuries|<-|16th century in literature
 Literature, Modern -- 17th century|<->|17th century in literature
@@ -20762,7 +20773,6 @@ Literature, Modern -- 18th century|<->|18th century in literature
 Literature, Modern -- 19th century|<->|19th century in literature
 Literature, Modern -- 20th century|<->|20th century in literature
 Literature, Modern -- 21st century|<->|21st century in literature
-Literature, Modern -- History and criticism|<->|History of modern literature
 Literature -- Philosophy|->|Philosophy and literature
 Literature -- Women authors|<->|Women's writing
 Lithium ion batteries|=|Lithium-ion battery
@@ -21538,7 +21548,7 @@ Mah&eacute; Island (Seychelles)|=|Mahé, Seychelles
 Mahi (African people)|=|Mahi people
 Mahican Indians|=|Mohicans
 Mahican language|=|Mohican language
-Mahikeng (South Africa)|=|Mahikeng
+Mahikeng (South Africa)|=|Mafikeng
 Mah&oacute;n (Spain)|=|Mahón
 Mah&oacute;n (Spain) -- History -- Siege, 1535|<->|Sack of Mahón
 Mahoning River (Ohio and Pa.)|=|Mahoning River
@@ -24001,7 +24011,7 @@ Museums -- Deaccessioning|<->|Deaccessioning
 Musgu (African people)|=|Musgum people
 Musha Rebellion, 1930|<->|Musha Incident
 Mushrooms|=|Mushroom
-Music -- 20th century|<->|20th century music
+Music -- 20th century|<->|20th-century music
 Music -- Burma|<->|Music of Myanmar
 Music -- China|<->|Music of China
 Music -- Competitions|=|Music competition
@@ -24597,6 +24607,7 @@ Negative assurance (Accounting)|=|Negative assurance
 Negeri Sembilan (Malaysia)|=|Negeri Sembilan
 Negidal (Asian people)|=|Negidals
 Neglect (Neurology)|<->|Hemispatial neglect
+Negritos -- Languages|=|Philippine Negrito languages
 Negritude (Literary movement)|<->|Négritude
 Negro Fort, Battle of, Fla., 1816|<->|Negro Fort
 Negro leagues|<->|Negro league baseball
@@ -24825,7 +24836,7 @@ New South Wales -- History -- Rum Rebellion, 1808-1809|=|Rum Rebellion
 New South Wales -- Politics and government|<->|Politics of New South Wales
 New South Wales -- Politics and government|<-|Government of New South Wales
 New Street Station (Birmingham, England)|=|Birmingham New Street railway station
-New Theatre (New York, N.Y. : 54th Street)|=|New Theatre (New York City)
+New Theatre (New York, N.Y. : 54th Street)|=|New Theatre (off-Broadway)
 New Thought in literature|<->|List of New Thought writers
 New topographics (Photography)|<->|New Topographics
 New Trier Township High School|=|New Trier High School
@@ -26621,7 +26632,7 @@ Oxyuranus|=|Taipan
 Oya (Yoruba deity)|<->|Ọya
 Oyen (Alta.)|=|Oyen
 Oyl, Olive (Fictitious character)|=|Olive Oyl
-Oyo (Nigeria)|=|Oyo, Oyo
+Oyo (Nigeria)|=|Oyo, Oyo State
 Oyo State (Nigeria)|=|Oyo State
 Oyster Bay (N.Y. : Bay)|=|Oyster Bay (inlet)
 Oz (Imaginary place)|=|Land of Oz
@@ -28393,7 +28404,7 @@ Poland -- History -- Jagellons, 1386-1572|<->|Jagiellonian dynasty
 Poland -- History -- March Events, 1968|<->|1968 Polish political crisis
 Poland -- History -- Mongol Invasion, 1241|<->|First Mongol invasion of Poland
 Poland -- History -- Occupation, 1939-1945|=|Occupation of Poland (1939–1945)
-Poland -- History -- Partition period, 1763-1796|<->|Partitions of Poland
+Poland -- History -- Partition period, 1763-1796|<->|Partitions of Poland–Lithuania
 Poland -- History -- Piast period, 960-1386|<->|History of Poland during the Piast dynasty
 Poland -- History -- Rebellion of Lubomirski, 1665-1666|=|Lubomirski's rebellion
 Poland -- History -- Rebellion of Zebrzydowski, 1606-1609|=|Zebrzydowski rebellion
@@ -28556,7 +28567,7 @@ Popular music -- 2001-2010|<->|2000s in music
 Popular music -- 2011-2020|<->|2010s in music
 Popular music -- Great Britain|<->|British popular music
 Popular music -- Korea (South)|<->|K-pop
-Popular music -- Romania|<->|Romanian popular music
+Popular music -- Romania|<->|Muzica populara
 Popular music -- United States|<->|American popular music
 Population aging|=|Population ageing
 Population transfers|=|Population transfer
@@ -29505,7 +29516,7 @@ Quechua Indians|=|Quechua people
 Queen Alexandra Range (Antarctica)|=|Queen Alexandra Range
 Queen butterfly|=|Queen (butterfly)
 Queen Charlotte Sound (B.C.)|=|Queen Charlotte Sound (Canada)
-Queen Charlotte Sound/T&omacr;taranui (N.Z.)|=|Queen Charlotte Sound (New Zealand)
+Queen Charlotte Sound/T&omacr;taranui (N.Z.)|=|Queen Charlotte Sound / Tōtaranui
 Queen Creek Tunnel (Ariz.)|=|Queen Creek Tunnel
 Queen Elizabeth Class (Aircraft carriers)|<->|Queen Elizabeth-class aircraft carrier
 Queen Elizabeth Class (Battleships)|=|Queen Elizabeth-class battleship
@@ -29619,7 +29630,7 @@ Racial profiling in law enforcement|<->|Racial profiling
 Racially mixed people|<->|Multiracial people
 Racially mixed people -- United States|<->|Multiracial Americans
 Racib&oacute;rz (Poland)|=|Racibórz
-Racism against Romanies|<->|Anti-Romany sentiment
+Racism against Romanies|<->|Anti-Romani sentiment
 Racket (Computer program language)|=|Racket (programming language)
 Racket (Musical instrument)|=|Rackett
 Racket games|<->|List of racket sports
@@ -30348,7 +30359,7 @@ Richmond upon Thames (London, England)|=|London Borough of Richmond upon Thames
 Richter scale|=|Richter magnitude scale
 Rickwood Caverns State Park (Ala.)|=|Rickwood Caverns State Park
 Rickwood Field (Birmingham, Ala.)|=|Rickwood Field
-Riddah Wars|=|Ridda wars
+Riddah Wars|=|Ridda Wars
 Riddles|=|Riddle
 Rider, Alex (Fictitious character)|=|Alex Rider (character)
 Ridge Racer 64 (Game)|=|Ridge Racer 64
@@ -30406,7 +30417,7 @@ Rio Grande (Colo.-Mexico and Tex.)|=|Rio Grande
 R&iacute;o Grande (Tierra del Fuego, Argentina)|=|Río Grande, Tierra del Fuego
 Rio Grande do Norte (Brazil)|=|Rio Grande do Norte
 Rio Grande do Sul (Brazil : State)|=|Rio Grande do Sul
-Rio Grande do Sul (Brazil : State) -- History -- Federalist Revolution, 1893-1895|=|Federalist Riograndense Revolution
+Rio Grande do Sul (Brazil : State) -- History -- Federalist Revolution, 1893-1895|=|Riograndense Federalist Revolution
 Rio Grande do Sul (Brazil : State) -- History -- Revolution of the Farrapos, 1835-1845|=|Ragamuffin War
 Rio Grande National Forest (Agency : U.S.)|->|Rio Grande National Forest
 Rio Grande National Forest (Colo.)|=|Rio Grande National Forest
@@ -30669,7 +30680,7 @@ Romanies -- Hungary|=|Romani people in Hungary
 Romanies -- Music|=|Romani music
 Roman provinces|=|Roman province
 Romans|<->|Roman
-Romaphobia|->|Anti-Romany sentiment
+Romaphobia|->|Anti-Romani sentiment
 Rome|=|Ancient Rome
 Rome|<-|Roman Empire
 Rome -- Fiction|<->|Fiction set in ancient Rome
@@ -30901,7 +30912,7 @@ Rugs, Oriental|<->|Oriental rug
 Rugs, Persian|<->|Persian carpet
 Ruhr (Germany : Region)|<->|Ruhr
 Ruhr (Germany : Region) -- History -- French occupation, 1923-1925|=|Occupation of the Ruhr
-Ruhr Pocket, Battle of the, Germany, 1945|=|Ruhr Pocket
+Ruhr Pocket, Battle of the, Germany, 1945|=|Ruhr pocket
 Ruhr River (Germany)|=|Ruhr (river)
 Ruiz family|<->|Ruiz
 Ruiz, Nevado del (Colombia)|=|Nevado del Ruiz
@@ -31705,7 +31716,7 @@ Saros cycle|<->|Saros (astronomy)
 Sarpsborg (Norway)|<->|Sarpsborg
 Sarpsborg kommune (Norway)|->|Sarpsborg
 Sarrians (France)|=|Sarrians
-SARS (Disease)|=|Severe acute respiratory syndrome
+SARS (Disease)|=|SARS
 Sarts (Asian people)|=|Sart
 Sarutahiko no Kami (Shinto deity)|<->|Sarutahiko Ōkami
 Sarvodaya movement|<->|Sarvodaya
@@ -32512,7 +32523,7 @@ Shakespeare, William, 1564-1616. Hamlet -- Sources|=|Sources of Hamlet
 Shakespeare's Way (England)|=|Shakespeare's Way
 Shaksgam River (Pakistan and China)|=|Shaksgam River
 Shaksgam Valley (Pakistan and China)|<->|Trans-Karakoram Tract
-Shalamar Garden (Lahore, Pakistan)|=|Shalamar Gardens, Lahore
+Shalamar Garden (Lahore, Pakistan)|=|Shalimar Gardens, Lahore
 Shalimar Garden (Srinagar, Jammu and Kashmir, India)|=|Shalimar Bagh, Srinagar
 Shallotte River (N.C.)|=|Shallotte River
 Shallow Bay Formation (N.L.)|=|Shallow Bay Formation
@@ -35031,7 +35042,7 @@ Tamar River (Tas.)|=|Tamar River
 Tamarindito Site (Guatemala)|=|Tamarindito
 Tamashek language|<->|Tuareg languages
 Tamashek language|<-|Tamasheq language
-Tamatea/Dusky Sound (N.Z.)|=|Dusky Sound
+Tamatea/Dusky Sound (N.Z.)|=|Tamatea / Dusky Sound
 Tamaulipas (Mexico : State)|=|Tamaulipas
 Tambora, Mount (Indonesia)|=|Mount Tambora
 Tambora, Mount (Indonesia) -- Eruption, 1815|=|1815 eruption of Mount Tambora
@@ -35810,7 +35821,7 @@ TI-92 (Calculator)|<->|TI-92 series
 TI-92 Plus (Calculator)|->|TI-92 series
 TI 99/4A (Computer)|=|TI-99/4A
 TI 99000 (Microprocessor)|<->|Texas Instruments TMS9900
-TI CC 40 (Computer)|=|Texas Instruments Compact Computer 40
+TI CC 40 (Computer)|=|Compact Computer 40
 TI-Nspire (Calculator)|<->|TI-Nspire series
 TI Professional Computer|=|Texas Instruments Professional Computer
 TI Programmable 55 (Calculator)|=|TI-55
@@ -38282,7 +38293,7 @@ Wagner family|<->|Wagner (surname)
 Wagon Box Fight, Wyo., 1867|=|Wagon Box Fight
 Wagram, Battle of, Deutsch-Wagram, Austria, 1809|=|Battle of Wagram
 Wah Wah Mountains (Utah)|=|Wah Wah Mountains
-Waiau Toa/Clarence River (N.Z.)|=|Clarence River (New Zealand)
+Waiau Toa/Clarence River (N.Z.)|=|Waiau Toa / Clarence River
 Waihi strike, 1912|=|Waihi miners' strike
 Waikato War, N.Z., 1863-1865|<->|Invasion of the Waikato
 Waikiki (Honolulu, Hawaii)|=|Waikiki
