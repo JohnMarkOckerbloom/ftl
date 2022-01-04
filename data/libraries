@@ -4,9 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2021-12-20
-# Manual Sweep: pick up w Israel
-# Automated Sweep: pick up w Nigeria
+# Last updated 2022-01-04
+# Manual Sweep: pick up w Poland (and get back to Israel by end of 2022)
 
 ID OLBP
 NAME The Online Books Page
@@ -1584,12 +1583,13 @@ TINDEX WTI
 COUNTRY LT
 FILTERS SNK
 
+# Tecnol&oacute;gico de Monterrey's EDS doesn't seem to support guest access
 ID OCLC-I8M
 NAME Tecnol&oacute;gico de Monterrey
-LOCATION Monterrey
+LOCATION Monterrey; local access only
 COUNTRY MX
-CATTYPE encore
-BASEURL https://biblioxplora.tec.mx/iii/encore
+CATTYPE eds
+LCODE s9253487
 
 ID OCLC-U5N
 NAME University of Namibia
@@ -1605,6 +1605,8 @@ COUNTRY NG
 BASEURL https://libcat.aun.edu.ng
 CATTYPE koha
 
+# catalog not responding 4 Jan 2022
+# (but still linked from library homepage, so might be local access only)
 ID OCLC-NRUNN
 NAME University of Nigeria, Nnamdi Azikiwe Library
 LOCATION Nsukka
@@ -1696,10 +1698,11 @@ VID BIBSYS
 LOC adaptor,scope:(BIBSYS_ILS),scope:(SC_OPEN_ACCESS),scope:("BIBSYS"),primo_central_multiple_fe
 
 ID SARGODHA
-NAME University of Sargodha, Central Library
+NAME University of Sargodha, Wazir Agha Library
 LOCATION Sargodha; English search terms may give limited results
 COUNTRY PK
-BASEURL http://library.su.edu.pk:5157
+#BASEURL http://library.su.edu.pk:5157
+BASEURL http://142.54.178.188:5157
 CATTYPE koha
 
 # we'll probably get best results here if we make subject search keyword sarch
@@ -1803,14 +1806,15 @@ LOC adaptor,scope:(65SUTD),primo_central_multiple_fe
 # BASEURL http://leysin.mlasolutions.com/m5/catalog
 # KEYURL ${BASEURL}/Default.aspx?command=urlcommand&urlcommand=search&installation=Default&query1=${ARG}
 
-# Don't know the ISIL if any for SWISSBIB
+# Don't know the ISIL if any for Swisscovery; using old SWISSBIB ID
 ID SWISSBIB
-NAME Swissbib
+NAME Swisscovery
 LOCATION Union catalog of Swiss libraries; English search coverage may vary
-BASEURL https://www.swissbib.ch
-CATTYPE vufind
-DEFAULT DOMAIN
 COUNTRY CH
+CATTYPE primo-ve
+BASEURL https://swisscovery.slsp.ch
+VID 41SLSP_NETWORK:VU1_UNION
+SCOPE DN_and_CI
 
 ID OCLC-T2N
 NAME Durban University of Technology
