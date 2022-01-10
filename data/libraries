@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2022-01-04
-# Manual Sweep: pick up w Poland (and get back to Israel by end of 2022)
+# Last updated 2022-01-10
+# Manual Sweep: pick up w South Africa (and get back to Israel by end of 2022)
 
 ID OLBP
 NAME The Online Books Page
@@ -1728,12 +1728,10 @@ WCRID 87768
 NAME VCUQatar
 LOCATION Doha
 COUNTRY QA
-CATTYPE primodl-scope
-BASEURL http://search.library.vcu.edu
-VID VQA
-LCODE VQA
-SCOPE vqa_everything
-DEFAULT http://www.qatar.vcu.edu/library/
+CATTYPE primo-ve
+BASEURL https://qatar-vcu.primo.exlibrisgroup.com
+VID 01VCUVQA_INST:VQAL
+SCOPE MyInst_and_CI
 
 ID OCLC-SU6KU
 NAME King Saud University
@@ -1755,7 +1753,7 @@ ID OCLC-7F1
 NAME National Library Board (OneSearch)
 LOCATION Various libraries and archives in Singapore
 COUNTRY SG
-BASEURL http://search.nlb.gov.sg/Search
+BASEURL https://search.nlb.gov.sg/onesearch/Search
 SUBURL ${BASEURL}?subjectquery=${ARG}
 AUTURL ${BASEURL}?creatorquery=${ARG}
 ATIURL ${BASEURL}?creatorquery=${AUTHOR}&titlequery=${TITLE}
@@ -3608,6 +3606,14 @@ CATTYPE primo-ve
 BASEURL https://ucsc.primo.exlibrisgroup.com
 VID 01CDL_SCR_INST:USCS
 SCOPE MyInst_and_CI
+
+ID OCLC-CDU
+NAME University of San Diego
+LOCATION San Diego
+STATE CA
+BASEURL https://sallypro.sandiego.edu/iii/encore
+CATTYPE encore
+FILTERS SNK
 
 ID OCLC-UOP
 NAME University of the Pacific
