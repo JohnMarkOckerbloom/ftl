@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2022-01-10
-# Manual Sweep: pick up w South Africa (and get back to Israel by end of 2022)
+# Last updated 2022-01-11
+# Manual Sweep: pick up w Spain (and get back to Israel by end of 2022)
 
 ID OLBP
 NAME The Online Books Page
@@ -1828,6 +1828,9 @@ LOCATION Umlazi
 COUNTRY ZA
 CATTYPE sirsi
 BASEURL http://esal.unizulu.ac.za/uhtbin/cgisirsi
+#EDS doesn't seem to allow off-campus access; above works for consortium
+#CATTYPE eds
+#CUSTID s1195058
 
 ID OCLC-X-DOLLAR-@
 WCRID 69093
@@ -6092,6 +6095,13 @@ CATTYPE primodl-scope
 VID 01CMICH
 SCOPE EVERYTHING
 
+ID CLINTMACOMB
+NAME Clinton-Macomb Public Library
+LOCATION Macomb and Clinton Townships
+STATE MI
+BASEURL https://catalog.cmpl.org/polaris
+CATTYPE polaris
+
 ID OCLC-EYP
 NAME Detroit Public Library
 LOCATION Detroit
@@ -8181,7 +8191,7 @@ BASEURL https://drexel.summon.serialssolutions.com
 ID OCLC-EAS
 NAME Eastern University, Warner Memorial Library
 LOCATION St. Davids
-STATE VA
+STATE PA
 BASEURL https://eastern.tlcdelivers.com:8480
 CATTYPE ls2pac
 FILTERS S
@@ -9373,6 +9383,13 @@ LOCATION Fairfax County
 STATE VA
 BASEURL https://fcplcat.fairfaxcounty.gov
 CATTYPE polaris
+
+ID OCLC-PDK
+NAME Fauquier Public Library
+LOCATION Warrenton, Bealeton, and Marshall
+STATE VA
+CATTYPE vega
+BASEURL https://fauqp.na.iiivega.com/
 
 ID OCLC-VGM
 NAME George Mason University
