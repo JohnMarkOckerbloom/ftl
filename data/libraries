@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2022-01-11
-# Manual Sweep: pick up w Spain (and get back to Israel by end of 2022)
+# Last updated 2022-01-20
+# Manual Sweep: pick up w Turkey (and get back to Israel by end of 2022)
 
 ID OLBP
 NAME The Online Books Page
@@ -1128,9 +1128,10 @@ ID OCLC-UTM
 NAME University of Toronto
 LOCATION Toronto
 PROVINCE ON
-BASEURL http://onesearch.library.utoronto.ca/
-TITURL ${BASEURL}?q=onesearch/${ARG:N}/title
-KEYURL ${BASEURL}?q=onesearch/${ARG:N}
+BASEURL https://librarysearch.library.utoronto.ca
+CATTYPE primo-ve
+VID 01UTORONTO_INST:UTORONTO
+SCOPE UTL_AND_CI
 
 ID OCLC-UWW
 NAME University of Waterloo
@@ -1921,8 +1922,11 @@ ID OCLC-CHNTL
 NAME National Library of Public Information
 LOCATION Taichung; English search terms may give limited results
 COUNTRY TW
-CATTYPE spydus
-BASEURL http://ipac.nlpi.edu.tw
+BASEURL https://ipac.nlpi.edu.tw
+AUTURL ${BASEURL}/search?searchField=PN&searchInput=${ARG}
+TITURL ${BASEURL}/search?searchField=TI&searchInput=${ARG}
+KEYURL ${BASEURL}/search?searchField=FullText&searchInput=${ARG}
+FILTERS SNK
 
 ID OCLC-TAE
 NAME Taipei Public Library
@@ -8930,6 +8934,14 @@ LOCATION Fort Worth
 STATE TX
 BASEURL http://fwmlc.polarislibrary.com/polaris
 CATTYPE polaris
+
+ID OCLC-TXGPM
+NAME Grand Prairie Libraries
+LOCATION Grand Prairie
+STATE TX
+CATTYPE sirsient
+BASEURL https://gp.ent.sirsi.net
+LCODE en_US/library
 
 ID OCLC-HT-SHARP
 WCRID 15586
