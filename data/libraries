@@ -7730,9 +7730,7 @@ ID OCLC-UAP
 NAME Upper Arlington Public Library
 LOCATION Upper Arlington
 STATE OH
-CATTYPE polaris-context
-BASEURL https://catalog.clcohio.org/polaris
-CONTEXT 81.1033.0.0.17
+BASEURL https://polarisweb.arlingtonlibrary.org/Polaris
 
 ID OCLC-XAV
 NAME Xavier University
@@ -8842,7 +8840,7 @@ ID OCLC-1AR
 NAME Arlington Public Library
 LOCATION Arlington
 STATE TX
-BASEURL http://polarisweb.arlingtonlibrary.org/Polaris
+BASEURL https://polarisweb.arlingtonlibrary.org/Polaris
 CATTYPE polaris
 
 ID OCLC-IAU
