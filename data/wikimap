@@ -10,8 +10,8 @@
 #   are not included in this file.
 # Manual title and name-title correspondences have been moved to wikiworksmap.
 # See docs file for documentation
-# Last updated 2022-01-21
-# Did LCSH 2015-2020 update lists, 2021 monthly lists 1-10 (+6a, 7-11y, 9w, 20x, 11b, 22), 11 (A-Q only)
+# Last updated 2022-02-03
+# Did LCSH 2015-2020 update lists, 2021 monthly lists 1-11 (+6a, 7-11y, 9w, 20x, 11b, 22)
 1 Pendleton Place House (New York, N.Y.)|=|One Pendleton Place
 1009 Fifth Avenue House (New York, N.Y.)|=|Benjamin N. Duke House
 1066 Country Walk (England)|=|1066 Country Walk
@@ -10551,7 +10551,7 @@ Drewrys Bluff, Battle of, Va., 1864|<->|Battle of Proctor's Creek
 Dreyfus, Alfred, 1859-1935 -- Trials, litigation, etc.|<->|Dreyfus affair
 Dried grape wine|<->|Straw wine
 Driefontein, Battle of, South Africa, 1900|=|Battle of Driefontein
-Drin River (Albania)|=|Drin River
+Drin River (Albania)|=|Drin (river)
 Drina, Battles of the, 1914|<->|Battle of the Drina
 Drina River (Bosnia and Herzegovina and Serbia)|=|Drina
 Drina River Valley (Bosnia and Herzegovina and Serbia)|<->|Podrinje
@@ -12859,7 +12859,7 @@ Football -- History|=|History of American football
 Football -- Officiating|<->|Official (gridiron football)
 Football -- Rules|=|American football rules
 Football Association (England)|=|The Football Association
-Football for women|=|Women's American football
+Football for women|=|Women's gridiron football
 Football players|<->|Football player
 Football uniforms -- Numbers|<->|Uniform number (American football)
 Footballs|<->|Football (ball)
@@ -13761,7 +13761,7 @@ Gay community|<->|LGBT community
 Gay culture|<->|LGBT culture
 Gay liberation movement|=|Gay liberation
 Gay men|->|Gay
-Gay military personnel|->|Sexual orientation and gender identity in military service
+Gay military personnel|->|LGBT people and military service
 Gay-parent families|->|LGBT parenting
 Gay parents|<->|LGBT parenting
 Gay rights|<->|LGBT movements
@@ -16146,7 +16146,7 @@ Holocaust, Jewish (1939-1945), in motion pictures|<->|List of Holocaust films
 Holocaust Memorial (Miami Beach, Fla.)|=|Holocaust Memorial of the Greater Miami Jewish Federation
 Holocaust memorials|<->|List of Holocaust memorials and museums
 Holocaust, Nazi|->|The Holocaust
-Holocaust Remembrance Day|=|Yom HaShoah
+Holocaust Remembrance Day|<->|Holocaust memorial days
 Holocaust survivors|<->|List of Holocaust survivors
 Holodomor denial|=|Denial of the Holodomor
 Holofernes (Biblical figure)|=|Holofernes
@@ -16199,7 +16199,7 @@ Homonoia (Greek deity)|=|Homonoia (mythology)
 Homosexuality -- Religious aspects|<->|Homosexuality and religion
 Homosexuality -- Religious aspects -- Catholic Church|<->|Catholic Church and homosexuality
 Homosexuality -- Religious aspects -- Christianity|<->|Christianity and homosexuality
-Homosexuality -- Religious aspects -- Judaism|<->|Homosexuality and Judaism
+Homosexuality -- Religious aspects -- Judaism|<->|Jewish views on homosexuality
 Homosexuality in animals|<->|Homosexual behavior in animals
 Homosexuality in the Bible|->|The Bible and homosexuality
 Homotopy theory|<->|Homotopy
@@ -19404,7 +19404,7 @@ Knowledge, Theory of (Religion)|=|Religious epistemology
 Knox Mine Disaster, Port Griffith, Pa., 1959|=|Knox Mine disaster
 Knoxville (Tenn.) -- History|=|History of Knoxville, Tennessee
 Knoxville (Tenn.) -- History -- Siege, 1863|<->|Knoxville campaign
-Ko Chang (Trat, Thailand)|<->|Ko Chang District
+Ko Chang (Trat, Thailand)|<->|Ko Chang district
 Koa|=|Acacia koa
 Kobarid (Slovenia)|=|Kobarid
 Kobayashi-Hitchin correspondence (Algebraic geometry)|=|Kobayashi–Hitchin correspondence
@@ -23120,7 +23120,7 @@ Milwaukee (Wis.)|=|Milwaukee
 Milwaukee (Wis.) -- History|=|History of Milwaukee
 Milwaukee (Wis.) -- Politics and government|<->|Government of Milwaukee
 Mimas (Satellite)|=|Mimas (moon)
-MIMD computers|<->|MIMD
+MIMD computers|<->|Multiple instruction, multiple data
 Mimes|=|Mime artist
 Mimidae|=|Mimid
 Mimosaceae|<->|Mimosoideae
@@ -24036,7 +24036,7 @@ Muscatatuck River (Ind.)|=|Muscatatuck River
 Muscle Shoals National Heritage Area (Ala.)|=|Muscle Shoals National Heritage Area
 Muscle strength|<->|Physical strength
 Muscles|<->|Skeletal muscle
-Muscogee (Creek) Nation, Oklahoma|=|Muscogee (Creek) Nation
+Muscogee (Creek) Nation|=|Muscogee Nation
 Musculoskeletal system|<->|Human musculoskeletal system
 Mus&eacute;e du Louvre|<->|Louvre
 Museo archeologico nazionale di Cividale del Friuli|=|National Archaeological Museum of Cividale del Friuli
@@ -27002,7 +27002,7 @@ Panezai (South Asian people)|<->|Panezai
 Pang (South Asian people)|<->|Pankho people
 Pangaea (Supercontinent)|=|Pangaea
 Pangermanism|=|Pan-Germanism
-Pangi (India)|=|Pangi, Himachal Pradesh
+Pangi Valley (India)|=|Pangi valley, Himachal Pradesh
 Pangkor Island (Perak, Malaysia)|=|Pangkor Island
 Pangolagrass|=|Digitaria eriantha
 Panguingue (Game)|=|Panguingue
@@ -27214,7 +27214,8 @@ Parliamentary practice|=|Parliamentary procedure
 PARLOG (Computer program language)|=|Parlog
 Parma (Italy)|=|Parma
 Parma and Piacenza (Duchy)|<->|Duchy of Parma
-Parmigiano Reggiano cheese|=|Parmigiano Reggiano
+Parmesan cheese|=|Parmesan
+Parmigiano Reggiano cheese|->|Parmesan
 Parnaiba River (Brazil)|=|Parnaíba River
 Parodies|->|Parody
 Paros (Greece : Municipality)|<->|Paros
@@ -27627,7 +27628,6 @@ Pencil drawing|->|Drawing
 Pende (African people)|=|Pende people
 Pendergast, Aloysius (Fictitious character)|=|Aloysius Pendergast
 Pendlebury (England)|=|Pendlebury
-Penelope (Bird)|=|Penelope (genus)
 Penelope (Greek mythological character)|=|Penelope
 Penelope montagnii|=|Andean guan
 Penetration testing (Computer security)|<->|Penetration test
@@ -29748,6 +29748,7 @@ Radium -- Isotopes|=|Isotopes of radium
 Radius (Anatomy)|=|Radius (bone)
 RADIUS (Computer network protocol)|=|RADIUS
 Radius (Geometry)|=|Radius
+Rado family|<->|Rado
 Radon -- Isotopes|=|Isotopes of radon
 Radzymin (Poland)|=|Radzymin
 Radzymin, Battle of, Radzymin, Poland, 1920|=|Battle of Radzymin (1920)
@@ -30619,6 +30620,7 @@ Robotech (Game)|=|Robotech (role-playing game)
 Robotron 1715 (Computer)|<->|PC 1715
 Robots|=|Robot
 Robson, Mount (B.C.)|=|Mount Robson
+Robusta coffee|<->|Coffea canephora
 Roc (Fighter plane)|=|Blackburn Roc
 Roc (Mythical bird)|=|Roc (mythology)
 Rocambole (Fictitious character)|=|Rocambole (character)
@@ -30777,6 +30779,7 @@ Romeo (Fictitious character)|=|Romeo
 Romesco (Sauce)|=|Romesco
 Romney Campaign, 1861-1862|<->|Romney Expedition
 Romney Marsh (England : Marsh)|<->|Romney Marsh
+Romsdalen (Norway)|=|Romsdalen
 Roncesvalles, Battle of, Spain, 778|=|Battle of Roncevaux Pass
 Ronchamp (France)|=|Ronchamp
 Rondels|=|Rondel (poem)
@@ -31054,7 +31057,7 @@ Russo-Japanese Border Conflicts, 1932-1941|<->|Soviet–Japanese border conflict
 Russo-Japanese War, 1904-1905|=|Russo-Japanese War
 Russo-Persian War, 1804-1813|=|Russo-Persian War (1804–1813)
 Russo-Persian War, 1826-1828|=|Russo-Persian War (1826–1828)
-Russo-Polish War, 1609-1618|<->|Polish–Muscovite War (1605–1618)
+Russo-Polish War, 1609-1618|=|Polish–Muscovite War (1609–1618)
 Russo-Polish War, 1632-1634|=|Smolensk War
 Russo-Polish War, 1792|=|Polish–Russian War of 1792
 Russo-Polish War, 1919-1920|<->|Polish–Soviet War
@@ -32195,6 +32198,7 @@ Seaside resorts|=|Seaside resort
 Seasonal Farm Laborers Program|<->|Bracero program
 Seasonal variations (Economics)|<->|Seasonality
 Seasons|=|Season
+Seaton Delaval Hall (England)|=|Seaton Delaval Hall
 Seattle (Wash.)|=|Seattle
 Seattle Mariners (Baseball team)|=|Seattle Mariners
 Seattle Seahawks (Football team)|=|Seattle Seahawks
@@ -32524,7 +32528,7 @@ Sexual instinct|<->|Libido
 Sexual minorities|<->|Sexual minority
 Sexual minorities -- United States|<->|LGBT in the United States
 Sexual minority culture|<->|Sexuality and gender identity-based cultures
-Sexual minority military personnel|<->|Sexual orientation and gender identity in military service
+Sexual minority military personnel|<->|LGBT people and military service
 Sexual reorientation programs|<->|Sexual orientation change efforts
 Sexually transmitted diseases|=|Sexually transmitted infection
 Seybouse River (Algeria)|=|Seybouse River
@@ -32557,7 +32561,7 @@ Shaft, John (Fictitious character)|=|John Shaft
 Shah Alam (Selangor, Malaysia)|=|Shah Alam
 Shah dynasty, 1768-|<->|Shah dynasty
 Shahaptian languages|=|Sahaptian languages
-Shaheed Island (India)|=|Shaheed Island
+Shaheed Island (India)|=|Neil island
 Shai (Egyptian deity)|=|Shai
 Shakespeare, William, 1564-1616 -- Authorship|<->|Shakespeare authorship question
 Shakespeare, William, 1564-1616 -- Authorship -- Baconian theory|=|Baconian theory of Shakespeare authorship
@@ -32811,6 +32815,7 @@ Shropshire (England)|=|Shropshire
 Shrubs|=|Shrub
 Shrubs (Cocktails)|=|Shrub (drink)
 Shtetls|=|Shtetl
+Shtreimels|=|Shtreimel
 Shu (Egyptian deity)|=|Shu (Egyptian god)
 Shuar Indians|=|Shuar
 Shughni (Central Asian people)|<->|Shughni
@@ -32960,7 +32965,7 @@ SIMATIC S5 (Computer system)|->|Simatic
 Simba (Fictitious character from Disney)|=|Simba
 Simca 1307 automobile|=|Simca 1307
 Simca automobiles|->|Simca
-SIMD (Computer architecture)|=|SIMD
+SIMD (Computer architecture)|=|Single instruction, multiple data
 Simelungun dialect|=|Batak Simalungun language
 Simi Hills (Calif.)|=|Simi Hills
 Simi Valley (Calif. : Valley)|=|Simi Valley (valley)
@@ -33454,7 +33459,7 @@ Social service|<->|Social work
 Social settlements|<->|Settlement movement
 Social surveys|<->|Social research
 Social systems|<->|Social system
-Social values|->|Value (ethics)
+Social values|->|Value (ethics and social sciences)
 Social workers|->|Social work
 Sociedade de Geografia de Lisboa|=|Lisbon Geographic Society
 Societies|<->|Society
@@ -33954,6 +33959,7 @@ Spirits|=|Spirit
 Spiritual healing|=|Faith healing
 Spiritual life|->|Spirituality
 Spiritual retreats|=|Retreat (spiritual)
+Spiritual tourism|<->|Religious tourism
 Spiritual works of mercy|->|Works of mercy
 Spiritualists|->|Spiritualism
 Spirituals (Songs)|=|Spirituals
@@ -34194,7 +34200,7 @@ Steese Highway (Alaska)|=|Steese Highway
 Steese National Conservation Area (Alaska)|=|Steese National Conservation Area
 Stefanesti Hasidim|<->|Shtefanesht (Hasidic dynasty)
 Stefansson Bay (Antarctica)|=|Stefansson Bay
-Steilacoom Indians|=|Steilacoom (tribe)
+Steilacoom Indians|=|Steilacoom people
 Steilneset minnested (Vard&oslash;, Norway)|=|Steilneset Memorial
 Steinkjer (Norway)|=|Steinkjer
 Steins|<->|Beer stein
@@ -34466,6 +34472,7 @@ Submarines (Ships)|=|Submarine
 Submersibles|=|Submersible
 Submissiveness|->|Deference
 Subroutines (Computer programs)|=|Subroutine
+Subscription business|<->|Subscription business model
 Subscription libraries|=|Subscription library
 Subsidences (Earth movements)|<->|Subsidence
 Subsidiary corporations|<->|Subsidiary
@@ -35083,6 +35090,7 @@ Taman Nasional Gunung Ciremai (Indonesia)|=|Mount Ciremai National Park
 Taman Nasional Gunung Gede Pangrango (Indonesia)|=|Mount Gede Pangrango National Park
 Taman Nasional Gunung Halimun-Salak (Indonesia)|=|Mount Halimun Salak National Park
 Taman Nasional Gunung Leuser (Indonesia)|=|Mount Leuser National Park
+Taman Nasional Karimunjawa (Indonesia)|=|Karimunjawa National Park
 Taman Nasional Kayan Mentarang (Indonesia)|=|Kayan Mentarang National Park
 Taman Nasional Kerinci Seblat (Indonesia)|=|Kerinci Seblat National Park
 Taman Nasional Komodo (Indonesia)|=|Komodo National Park
@@ -35095,6 +35103,7 @@ Taman Nasional Rawa Aopa Watumohai (Indonesia)|=|Rawa Aopa Watumohai National Pa
 Taman Nasional Sebangau (Indonesia)|=|Sabangau National Park
 Taman Nasional Tanjung Puting (Indonesia)|=|Tanjung Puting
 Taman Nasional Ujung Kulon (Indonesia)|=|Ujung Kulon National Park
+Taman Nasional Wasur (Indonesia)|=|Wasur National Park
 Taman Nasional Way Kambas (Indonesia)|=|Way Kambas National Park
 Taman Negara Loagan Bunut (Sarawak, Malaysia)|=|Loagan Bunut National Park
 Taman Warisan Tasek Merimbun (Brunei)|<->|Tasek Merimbun
@@ -35809,6 +35818,7 @@ Three (The number)|<->|3
 Three bears (Tale)|=|Goldilocks and the Three Bears
 Three Brothers (Calif.)|=|Three Brothers (Yosemite)
 Three chapters (Christological controversy)|=|Three-Chapter Controversy
+Three-dimensional food printing|=|3D food printing
 Three-dimensional pens|<->|3Doodler
 Three-dimensional printing|=|3D printing
 Three Emperors' League, 1872|<->|League of the Three Emperors
@@ -36020,6 +36030,7 @@ Tiriki (African people)|<->|Tiriki
 Tirpitz (Battleship)|=|German battleship Tirpitz
 Tiruray (Philippine people)|=|Teduray people
 Tiryns (Extinct city)|<->|Tiryns
+Tischn (Hasidic practice)|=|Tish (Hasidic celebration)
 Tishri|=|Tishrei
 Tisza River|=|Tisza
 Titan (Missile)|<->|Titan (rocket family)
@@ -36163,6 +36174,7 @@ T&omacr;mei k&omacr;soku d&omacr;ro (Japan)|=|Tōmei Expressway
 Tomini, Gulf of (Indonesia)|=|Gulf of Tomini
 Tomislavgrad (Bosnia and Herzegovina)|=|Tomislavgrad
 Tomorrow Never Dies (Game)|=|Tomorrow Never Dies (video game)
+Tompkins Square Park (New York, N.Y.)|=|Tompkins Square Park
 Toms River (N.J. : River)|=|Toms River
 Tonawanda Creek (N.Y.)|=|Tonawanda Creek
 Tonga (Zambezi people)|=|Tonga people (Zambia and Zimbabwe)
@@ -36315,6 +36327,7 @@ Town Creek (Pa. and Md.)|=|Town Creek (Potomac River tributary)
 Towton (England)|=|Towton
 Towton, Battle of, Towton, England, 1461|=|Battle of Towton
 Toxicity testing|=|Toxicology testing
+Toxteth Riots, Liverpool, England, 1981|=|1981 Toxteth riots
 Toy commander (Game)|=|Toy Commander
 Toy making|->|Toy
 Toy stores|->|Retail
@@ -36523,6 +36536,7 @@ Tridosha (Hindu cosmology)|<->|Dosha
 Trierarchy (Athens)|=|Trierarchy
 Trieste (Free Territory)|=|Free Territory of Trieste
 Trieste (Italy)|=|Trieste
+Trieste (Italy) -- History|=|History of Trieste
 Trieste (Italy : Province)|=|Province of Trieste
 Trigger films|=|Trigger film
 Trigger warnings|<->|Trauma trigger
@@ -36805,7 +36819,7 @@ Turner's syndrome|=|Turner syndrome
 Turner Valley (Alta.)|=|Turner Valley
 Turnhout (Belgium)|=|Turnhout
 Turning (Lathe work)|<->|Turning
-Turning water into wine at the wedding at Cana (Miracle)|<->|Marriage at Cana
+Turning water into wine at the wedding at Cana (Miracle)|<->|Wedding at Cana
 Turnov (Czech Republic)|=|Turnov
 Turnovers (Cooking)|=|Turnover (food)
 Turnstile Ridge (Antarctica)|=|Turnstile Ridge
@@ -37375,7 +37389,7 @@ United States -- History -- Civil War, 1861-1865 -- Participation, Canadian|<->|
 United States -- History -- Civil War, 1861-1865 -- Participation, Foreign|<->|Foreign enlistment in the American Civil War
 United States -- History -- Civil War, 1861-1865 -- Participation, French|<->|France and the American Civil War
 United States -- History -- Civil War, 1861-1865 -- Participation, German American|<->|German Americans in the American Civil War
-United States -- History -- Civil War, 1861-1865 -- Participation, Hispanic American|<->|Hispanics and Latinos in the American Civil War
+United States -- History -- Civil War, 1861-1865 -- Participation, Hispanic American|<->|Hispanics in the American Civil War
 United States -- History -- Civil War, 1861-1865 -- Participation, Irish American|<->|Irish Americans in the American Civil War
 United States -- History -- Civil War, 1861-1865 -- Participation, Italian American|<->|Italian Americans in the Civil War
 United States -- History -- Civil War, 1861-1865 -- Peace|<->|Conclusion of the American Civil War
@@ -37743,7 +37757,7 @@ Valtice (Czech Republic)|=|Valtice
 Valuation|=|Valuation (finance)
 Value-added networks (Computer networks)|=|Value-added network
 Value analysis (Cost control)|<->|Value engineering
-Values|<->|Value (ethics)
+Values|<->|Value (ethics and social sciences)
 Valverde, Battle of, Val Verde, N.M., 1862|=|Battle of Valverde
 Vampire (Game)|=|Vampire: The Masquerade
 Vampire (Jet fighter plane)|=|De Havilland Vampire
@@ -38120,6 +38134,7 @@ Villa Celimontana (Rome, Italy)|=|Villa Celimontana
 Villa Clara (Cuba)|=|Villa Clara Province
 Villa Colombi (Freiburg im Breisgau, Germany)|=|Colombischlössle Freiburg
 Villa della Regina (Turin, Italy)|=|Villa della Regina
+Villa Empain (Brussels, Belgium)|=|Villa Empain
 Villa Girasole (San Martino Buon Albergo, Italy)|=|Villa Girasole
 Villa Il Gioiello (Florence, Italy)|=|Villa Il Gioiello
 Villa Ingenheim (Potsdam, Germany)|=|Villa Ingenheim
@@ -38662,6 +38677,7 @@ Weaver family|<->|Weaver (surname)
 Weavers|->|Weaving
 WEB (Computer program language)|<->|Web (programming system)
 Web browsing|<->|Web navigation
+Web forms|=|Form (HTML)
 Web portals|=|Web portal
 Web publishing|->|Website
 Web search engines|->|Search engine
@@ -38815,6 +38831,7 @@ Western Wall (Jerusalem)|=|Western Wall
 Western water hemlock|=|Cicuta douglasii
 Western wheatgrass|<->|Pascopyrum
 Western wood-pewee|=|Western wood pewee
+Western Xwla Gbe language|<->|Phla language
 Western Yamuna Canal (India)|=|Western Yamuna Canal
 Westerpark (Amsterdam, Netherlands)|=|Westerpark (park)
 Westerplatte, Battle of, Poland, 1939|=|Battle of Westerplatte
@@ -39771,6 +39788,7 @@ Xenogears (Game)|=|Xenogears
 Xenografts|=|Xenotransplantation
 Xenomorphs (Fictitious characters)|<->|Alien (creature in Alien franchise)
 Xenon -- Isotopes|=|Isotopes of xenon
+XForms (Document markup language)|=|XForms
 Xhosa (African people)|=|Xhosa people
 XHTML (Document markup language)|=|XHTML
 Xi River (China)|=|Xi River
@@ -39970,6 +39988,7 @@ Yokohama-shi (Japan)|=|Yokohama
 Yokohama Trials, Yokohama, Japan, 1945-1949|<->|Yokohama War Crimes Trials
 Yolngu (Australian people)|=|Yolngu
 Yolo Bypass (Calif.)|=|Yolo Bypass
+Yom ha-zikaron la-Sho'ah &#x1e7f;ela-gevurah|=|Yom HaShoah
 Yom ha-zikaron le-&#x1e25;alale ma&#x02bb;arkhot Yi&sacute;ra&#x02be;el|=|Yom HaZikaron
 Yombe (Congolese and Angolan people)|<->|Yombe people
 Yombe (Zambian and Malawi people)|->|Yombe people
@@ -40083,6 +40102,7 @@ Z&amacr;bul (Afghanistan)|=|Zabul Province
 Z&amacr;bul (Iran)|=|Zabol
 Zabern Affair, 1913|=|Zabern Affair
 Zab&imacr;d (Yemen)|=|Zabid
+Zablocki family|<->|Zablocki
 Zacatecas (Mexico : State)|=|Zacatecas
 Zacatecas (Zacatecas, Mexico)|=|Zacatecas City
 Zacatecas, Battle of, Zacatecas, Zacatecas, Mexico, 1914|=|Battle of Zacatecas (1914)
@@ -40112,6 +40132,7 @@ Z&aacute;mek Hrub&yacute; Rohozec (Turnov, Czech Republic)|=|Hrubý Rohozec
 Zamek Kr&oacute;lewski (Warsaw, Poland)|=|Royal Castle, Warsaw
 Zamek Kr&oacute;lewski w Poznaniu (Pozna&nacute;, Poland)|=|Royal Castle, Poznań
 Zamek Lubelski (Lublin, Poland)|=|Lublin Castle
+Z&aacute;mek Ka&ccaron;ina (Kutn&aacute; Hora, Czech Republic)|=|Kačina
 Z&aacute;mek Sychrov (Sychrov, Libereck&yacute; kraj, Czech Republic)|=|Sychrov Castle
 Z&aacute;mek Veltrusy (Veltrusy, Czech Republic)|=|Veltrusy Mansion
 Zamo&sacute;&cacute; (Poland)|=|Zamość
@@ -40132,6 +40153,7 @@ Zargari (Secret language)|=|Zargari Romani
 Zarembo Island (Alaska)|=|Zarembo Island
 Zarma (African people)|=|Zarma people
 Zarzuelas|->|Zarzuela
+Zatoichi (Fictitious character : Shimozawa)|<->|Zatoichi
 Zay (African people)|=|Zay people
 Zayyanid dynasty, 1235-1559|<->|Zayyanid dynasty
 Zazas (Iranian people)|=|Zazas
@@ -40172,6 +40194,7 @@ Zhongguo Leiqiong Haikou Huoshanqun Shijie Dizhi Gongyuan (China)|=|Haikou Volca
 Zhongguo guan (Expo, International Exhibitions Bureau, 2010, Shanghai, China)|=|China pavilion at Expo 2010
 Z&#xfe20;h&#xfe21;ovti Vody, Battle of, Ukraine, 1648|=|Battle of Zhovti Vody
 Zhuang (Chinese people)|=|Zhuang people
+Zhuoshui River (Taiwan)|=|Zhuoshui River
 Zika virus infection|<->|Zika fever
 Ziegler Polar Expedition (1903-1905)|=|Ziegler Polar Expedition
 Zigula (African people)|=|Zigula people
