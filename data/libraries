@@ -4763,6 +4763,15 @@ STATE IL
 BASEURL http://vufind.carli.illinois.edu/vf-dom
 CATTYPE vufindrc1
 
+ID OCLC-IAD
+NAME Eastern Illinois University, Booth Library
+LOCATION Charleston
+STATE IL
+CATTYPE primo-ve
+BASEURL https://i-share-eiu.primo.exlibrisgroup.com
+VID 01CARLI_EIU:CARLI_EIU
+SCOPE MyInstitution
+
 ID OCLC-IHE
 NAME Evanston Public Library
 LOCATION Evanston
@@ -5098,6 +5107,13 @@ STATE IA
 BASEURL http://ecatalog1.siouxcitylibrary.org
 CATTYPE ipac20
 PROFILE mn
+
+ID OCLC-IOV
+NAME University of Dubuque
+LOCATION Dubuque
+STATE IA
+BASEURL https://dbq.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-NIU
 NAME University of Northern Iowa
@@ -8752,8 +8768,8 @@ NAME Nashville Public Library
 LOCATION Nashville
 STATE TN
 CATTYPE vufindgeneral
-BASEURL http://catalog.library.nashville.org/Union/Search
-DEFAULT http://www.library.nashville.org/
+BASEURL https://catalog.library.nashville.org/Union/Search
+DEFAULT https://www.library.nashville.org/
 
 # reclaimed from other NE TN consortium, also w/o OCLC ID, whose catalog's gone
 ID NETCONSORTIUM
@@ -9169,6 +9185,13 @@ STATE TX
 CATTYPE voyager-vwebv
 BASEURL https://libcat.tamu.edu/vwebv/search
 DEFAULT https://library.tamu.edu/
+
+ID OCLC-ICU
+NAME Texas Christian University
+LOCATION Fort Worth
+STATE TX
+CATTYPE summon
+BASEURL https://tcu.summon.serialssolutions.com
 
 ID OCLC-TTT
 NAME Texas College
