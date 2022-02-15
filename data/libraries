@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2022-01-20
-# Manual Sweep: pick up w Turkey (and get back to Israel by end of 2022)
+# Last updated 2022-02-15
+# Manual Sweep: pick up w UK (and get back to Israel by end of 2022)
 
 ID OLBP
 NAME The Online Books Page
@@ -1977,14 +1977,14 @@ ID OCLC-TOQ
 NAME Middle East Technical University
 LOCATION Ankara
 COUNTRY TR
-BASEURL http://catalog.library.metu.edu.tr
+BASEURL https://catalog.library.metu.edu.tr
 CATTYPE webpacpro
 
 ID KYAMBOGO
 NAME Kyambogo University
 LOCATION Kampala
 COUNTRY UG
-BASEURL http://library.kyu.ac.ug
+BASEURL https://libcat.kyu.ac.ug
 CATTYPE koha
 FILTERS S
 
@@ -1992,7 +1992,7 @@ ID OCLC-UGUCU
 NAME Uganda Christian University
 LOCATION Mukono
 COUNTRY UG
-BASEURL http://catalogue.library.ucu.ac.ug
+BASEURL https://catalogue.library.ucu.ac.ug
 CATTYPE koha
 FILTERS S
 
@@ -2000,7 +2000,7 @@ ID OCLC-UGMAR
 NAME Uganda Martyrs University, Archbishop Kiwanuka Memorial Library
 LOCATION Nkozi
 COUNTRY UG
-BASEURL http://catalogue.umu.ac.ug
+BASEURL https://catalogue.umu.ac.ug
 CATTYPE koha
 FILTERS S
 
@@ -3657,6 +3657,13 @@ LOCATION Arapahoe County
 STATE CO
 BASEURL https://arapahoelibraries.bibliocommons.com
 CATTYPE bibliocommons
+
+ID OCLC-COA
+NAME Auraria Library
+LOCATION University of Colorado Denver, MSU Denver, CC of Denver
+STATE CO
+CATTYPE summon
+BASEURL https://auraria.summon.serialssolutions.com
 
 ID OCLC-EB-DOLLAR
 WCRID 8700
