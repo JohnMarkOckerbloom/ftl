@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2022-02-15
-# Manual Sweep: pick up w UK (and get back to Israel by end of 2022)
+# Last updated 2022-02-24
+# Manual Sweep: pick up w UK letter B (and get back to Israel by end of 2022)
 
 ID OLBP
 NAME The Online Books Page
@@ -2013,25 +2013,24 @@ BASEURL https://librarysearch.abertay.ac.uk
 VID 44UAD_V1
 SCOPE ALL
 
-# SCOPE parameter here was a wild guess that worked; might be a better one 
 ID OCLC-AU-SHARP
 WCRID 40218
 NAME Anglia Ruskin University
 LOCATION Cambridge, Chelmsford, and Peterborough, England
 COUNTRY UK
-CATTYPE primodl-scope
-BASEURL http://primo.anglia.ac.uk
-VID ANG_VU1
-LCODE APU
-SCOPE ALL
-DEFAULT http://libweb.anglia.ac.uk/
+CATTYPE primo-ve
+BASEURL https://anglia.primo.exlibrisgroup.com
+VID 44APU_INST:ANG_VU1
+SCOPE CSCOP_APU_DEEP
+DEFAULT https://library.aru.ac.uk/
 
 ID ANGUS
 NAME Angus Libraries
 LOCATION Public libraries in Angus, Scotland
 COUNTRY UK
-CATTYPE spydus
-BASEURL https://angus.spydus.co.uk
+CATTYPE spydus-config
+BASEURL https://angus.spydus.co.uk/cgi-bin/spydus.exe/ENQ/WPAC/ALLENQ?
+AINDEX BS
 
 ID OCLC-EQF
 NAME Bangor University
@@ -7499,6 +7498,13 @@ LOCATION Winston-Salem
 STATE NC
 CATTYPE summon
 BASEURL http://wfu.summon.serialssolutions.com
+
+ID OCLC-ESM
+NAME Winston-Salem State University
+LOCATION Winston-Salem
+STATE NC
+CATTYPE summon
+BASEURL https://wssu.summon.serialssolutions.com
 
 ID OCLC-BPL
 NAME Bismarck Veterans Memorial Public Library
