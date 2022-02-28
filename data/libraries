@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2022-02-24
-# Manual Sweep: pick up w UK letter B (and get back to Israel by end of 2022)
+# Last updated 2022-02-28
+# Manual Sweep: pick up w UK letter C (and get back to Israel by end of 2022)
 
 ID OLBP
 NAME The Online Books Page
@@ -2036,11 +2036,10 @@ ID OCLC-EQF
 NAME Bangor University
 LOCATION Bangor, Wales
 COUNTRY UK
-VID 44WHELF_BANG_VU2
-LCODE 44WHELF_BANG
-CATTYPE primodl-loc
-BASEURL http://whel-primo.hosted.exlibrisgroup.com
-LOC adaptor,scope:(44WHELF_BANG),44WHELF_BANG_Ebsco,primo_central_multiple_fe
+CATTYPE primo-ve
+BASEURL https://library.bangor.ac.uk
+VID 44WHELF_BANG:44WHELF_BANG_VU4
+SCOPE MyInst_and_CI
 
 ID OCLC-UKBLS
 NAME Blackburn with Darwen Libraries
@@ -2054,8 +2053,8 @@ ID OCLC-UKBHC
 NAME Brighton and Hove Libraries
 LOCATION Brighton and Hove, England
 COUNTRY UK
-CATTYPE spydus
-BASEURL http://brighton-hove.spydus.co.uk
+CATTYPE spydus-config
+BASEURL https://brighton-hove.spydus.co.uk/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?
 
 ID OCLC-BLSTP
 NAME British Library
@@ -2108,11 +2107,11 @@ BASEURL https://cyc.sdp.sirsidynix.net.uk/
 LCODE en_GB/default
 
 ID OCLC-C62
-NAME COPAC
+NAME Library Hub Discover
 COUNTRY UK
 LOCATION 70+ academic, national and specialist libraries in the UK and Ireland
-BASEURL http://copac.ac.uk/search
-SUBURL ${BASEURL}?sub=${ARG}
+BASEURL https://discover.libraryhub.jisc.ac.uk/search
+SUBURL ${BASEURL}?subject=${ARG}
 AUTURL ${BASEURL}?author=${ARG}
 TITURL ${BASEURL}?title=${ARG}
 ATIURL ${BASEURL}?author=${AUTHOR}&title=${TITLE}
@@ -2873,6 +2872,13 @@ NAME Glendale Public Library
 LOCATION Glendale
 STATE AZ
 BASEURL http://glendale.polarislibrary.com/polaris
+CATTYPE polaris
+
+ID OCLC-MCT
+NAME Maricopa County Library District
+LOCATION various locations in central Arizona
+STATE AZ
+BASEURL https://catalog.mcldaz.org
 CATTYPE polaris
 
 ID OCLC-MSA
