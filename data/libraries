@@ -4725,11 +4725,13 @@ BASEURL https://thechicagoschool-chi.on.worldcat.org/external-search?queryString
 CATTYPE worldcat-config
 
 ID OCLC-IAA
-NAME Chicago State University
+NAME Chicago State University, Gwendolyn Brooks Library
 LOCATION Chicago
 STATE IL
-BASEURL https://i-share.carli.illinois.edu/csu/cgi-bin/Pwebrecon.cgi
-CATTYPE voyager
+CATTYPE primo-ve
+BASEURL https://i-share-csu.primo.exlibrisgroup.com
+VID 01CARLI_CSU:CARLI_CSU
+SCOPE MyInst_and_CI
 
 ID OCLC-CODUP
 NAME College of DuPage
@@ -4772,8 +4774,10 @@ ID OCLC-IBE
 NAME Dominican University, Rebecca Crown Library
 LOCATION River Forest
 STATE IL
-BASEURL http://vufind.carli.illinois.edu/vf-dom
-CATTYPE vufindrc1
+CATTYPE primo-ve
+BASEURL https://i-share-dom.primo.exlibrisgroup.com
+VID 01CARLI_DOM:CARLI_DOM
+SCOPE MyInst_and_CI
 
 ID OCLC-IAD
 NAME Eastern Illinois University, Booth Library
@@ -4914,8 +4918,10 @@ ID OCLC-IAY
 NAME University of Illinois-Chicago Library
 LOCATION Chicago
 STATE IL
-BASEURL http://vufind.carli.illinois.edu/vf-uic
-CATTYPE vufindrc1
+CATTYPE primo-ve
+BASEURL https://i-share-uic.primo.exlibrisgroup.com
+VID 01CARLI_UIC:CARLI_UIC
+SCOPE MyInst_and_CI
 
 ID OCLC-UIU
 NAME University of Illinois Urbana-Champaign Library
@@ -4930,8 +4936,10 @@ ID OCLC-IAO
 NAME Northeastern Illinois University (NEIU)
 LOCATION Chicago
 STATE IL
-BASEURL http://vufind.carli.illinois.edu/vf-nei
-CATTYPE vufindrc1
+CATTYPE primo-ve
+BASEURL https://i-share-nei.primo.exlibrisgroup.com
+VID 01CARLI_NEI:CARLI_NEI
+SCOPE Everything
 
 ID OCLC-INU
 NAME Northwestern University Libraries
@@ -4987,8 +4995,10 @@ ID OCLC-IAZ
 NAME Western Illinois University
 LOCATION Macomb and Quad Cities
 STATE IL
-BASEURL https://i-share.carli.illinois.edu/wiu/cgi-bin/Pwebrecon.cgi
-CATTYPE voyager
+CATTYPE primo-ve
+BASEURL https://i-share-wiu.primo.exlibrisgroup.com
+VID 01CARLI_WIU:ALL
+SCOPE MyInstitution
 
 ID OCLC-B3D
 NAME Bondurant Community Library
