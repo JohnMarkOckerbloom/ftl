@@ -4,7 +4,7 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2022-02-28
+# Last updated 2022-03-01
 # Manual Sweep: pick up w UK letter C (and get back to Israel by end of 2022)
 
 ID OLBP
@@ -7010,12 +7010,13 @@ BASEURL https://suny-bin.primo.exlibrisgroup.com
 VID 01SUNY_BIN:01SUNY_BIN
 SCOPE MyInst_and_CI
 
+# This seems to be custom; haven't found field-limited searches
 ID OCLC-BKL
 NAME Brooklyn Public Library
 LOCATION Brooklyn
 STATE NY
-BASEURL https://borrow.bklynlibrary.org/r1s/iii/encore
-CATTYPE encore
+BASEURL https://www.bklynlibrary.org/search
+KEYURL ${BASEURL}?search=${ARG}
 
 ID OCLC-9VX
 NAME Chautauqua-Cattaraugus Library System
@@ -7050,10 +7051,10 @@ AINDEX author_terms
 
 ID OCLC-CONNY
 NAME ConnectNY
-LOCATION 15 academic libraries in New York state
+LOCATION 20+ academic libraries in New York state
 STATE NY
-BASEURL https://connectny.info
-CATTYPE innopac
+CATTYPE vufind
+BASEURL https://cny.reshare.indexdata.com
 
 # Cornell now has a bento; keyword-only search tends to work best for those
 ID OCLC-COO
@@ -7066,11 +7067,10 @@ ID OCLC-ZCY
 NAME City University of New York (CUNY)
 LOCATION New York
 STATE NY
-CATTYPE primodl-scope
-BASEURL http://onesearch.cuny.edu
-VID CUNY
-LCODE CEN
-SCOPE everything
+CATTYPE primo-ve
+BASEURL https://cuny-network.primo.exlibrisgroup.com
+VID 01CUNY_NETWORK:CUNY_NETWORK
+SCOPE IZ_CI_AW
 
 ID OCLC-VYG
 NAME Finger Lakes Library System
@@ -7083,8 +7083,9 @@ ID OCLC-VDP
 NAME Finkelstein Memorial Library
 LOCATION Spring Valley
 STATE NY
-BASEURL http://millennium.finkelsteinlibrary.org
-CATTYPE innopac
+CATTYPE sirsient
+BASEURL https://rcls.ent.sirsi.net
+LCODE en_US/fml
 
 ID OCLC-VYF
 NAME Fordham University
