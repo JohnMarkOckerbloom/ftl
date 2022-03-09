@@ -4,7 +4,7 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2022-03-01
+# Last updated 2022-03-09
 # Manual Sweep: pick up w UK letter C (and get back to Israel by end of 2022)
 
 ID OLBP
@@ -2146,13 +2146,8 @@ ID OCLC-CUD
 NAME Cambridge University Library
 LOCATION Cambridge, England
 COUNTRY UK
-# Cambridge's Summon seems to only cover online resources, and transitions
-# to it from physical catalog seem to work better than vice versa
-# CATTYPE summon
-# BASEURL http://cam.summon.serialssolutions.com
-CATTYPE aquabrowser
-BASEURL http://search.lib.cam.ac.uk
-SINDEX subject
+CATTYPE primo-justquery
+BASEURL https://idiscover.lib.cam.ac.uk/primo-explore/search?search_scope=SCOP_CAM_ALL&vid=44CAM_PROD&
 
 ID OCLC-CBK
 NAME Cornwall Council libraries
@@ -4634,13 +4629,22 @@ STATE ID
 CATTYPE eds
 LCODE s6406031
 
+ID OCLC-WK0
+NAME Lewis-Clark State College
+LOCATION Lewiston
+STATE ID
+CATTYPE primo-ve
+BASEURL https://wash-id-lcsc.primo.exlibrisgroup.com
+VID 01WIN_LCSC:LCSC
+SCOPE MyInst_and_CI
+
 ID OCLC-Q6J
 NAME Marshall Public Library
 LOCATION Pocatello
 STATE ID
-CATTYPE polaris-context
-BASEURL http://lcei.polarislibrary.com/polaris
-CONTEXT 22.1033.0.0.3
+BASEURL https://marshall-lcei.bywatersolutions.com
+CATTYPE koha
+FILTERS S
 
 ID OCLC-ZPJ
 NAME Meridian Library District
