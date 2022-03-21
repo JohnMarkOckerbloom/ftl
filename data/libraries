@@ -929,8 +929,8 @@ ID OCLC-CNBAR
 NAME Barrie Public Library
 LOCATION Barrie
 PROVINCE ON
-CATTYPE encore
-BASEURL https://encore.barriepubliclibrary.ca/iii/encore
+CATTYPE bibliocommons
+BASEURL https://barrie.bibliocommons.com
 
 ID OCLC-CNBPL
 NAME Burlington Public Library
@@ -1050,6 +1050,14 @@ LOCATION Ottawa
 PROVINCE ON
 CATTYPE bibliocommons
 BASEURL https://ottawa.bibliocommons.com
+
+ID OCLC-PPLCP
+NAME Peterborough Public Library
+LOCATION Peterborough
+PROVINCE ON
+CATTYPE sirsient
+LCODE en_US/default
+BASEURL https://peter.ent.sirsidynix.net
 
 ID OCLC-Q2U
 NAME Queen's University

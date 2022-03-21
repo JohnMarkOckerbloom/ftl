@@ -10,13 +10,14 @@
 #   are not included in this file.
 # Manual title and name-title correspondences have been moved to wikiworksmap.
 # See docs file for documentation
-# Last updated 2022-03-02
-# Did LCSH 2015-2020 update lists, 2021 monthly lists 1-12 (+6+12a, 7-11y, 9w, 12+20-23x, 12y, 11b, 22)
+# Last updated 2022-03-21
+# Did LCSH 2015-2021 update lists, 2022 monthly list 1 (A-C only)
 1 Pendleton Place House (New York, N.Y.)|=|One Pendleton Place
 1009 Fifth Avenue House (New York, N.Y.)|=|Benjamin N. Duke House
 1066 Country Walk (England)|=|1066 Country Walk
 1080 Degree Snowboarding (Game)|=|1080° Snowboarding
 116 Sullivan Street (New York, N.Y.)|=|116 Sullivan Street
+118th Avenue (Edmonton, Alta.)|=|118 Avenue
 119 (Locomotive)|=|Union Pacific No. 119
 120 East 80th Street House (New York, N.Y.)|->|East 80th Street Houses
 13+ Common Entrance Examination|->|Common Entrance Examination
@@ -25,11 +26,11 @@
 1366 Class (Steam locomotives)|=|GWR 1366 Class
 141 R (Steam locomotive)|<->|SNCF Class 141R
 144,000 (Biblical figures)|<->|144,000
-157 East 78th Street House (New York, N.Y.)|<->|East 78th Street Houses
-159 East 78th Street House (New York, N.Y.)|->|East 78th Street Houses
+157 East 78th Street House (New York, N.Y.)|<->|Houses at 157–165 East 78th Street
+159 East 78th Street House (New York, N.Y.)|->|Houses at 157–165 East 78th Street
 1600 Class (Steam locomotives)|=|GWR 1600 Class
-161 East 78th Street House (New York, N.Y.)|->|East 78th Street Houses
-163-165 East 78th Street House (New York, N.Y.)|->|East 78th Street Houses
+161 East 78th Street House (New York, N.Y.)|->|Houses at 157–165 East 78th Street
+163-165 East 78th Street House (New York, N.Y.)|->|Houses at 157–165 East 78th Street
 16th Street Baptist Church Bombing, Birmingham, Ala., 1963|=|16th Street Baptist Church bombing
 17 West 16th Street House (New York, N.Y.)|<->|Margaret Sanger Clinic
 170-176 John Street Building (New York, N.Y.)|=|170–176 John Street
@@ -170,6 +171,7 @@ Abelian varieties|=|Abelian variety
 Abell family|<->|Abell (surname)
 Abenaki Indians|=|Abenaki
 Abeokuta (Nigeria)|=|Abeokuta
+Abercorn Creek (Ga.)|=|Abercorn Creek
 Aberdeen (Scotland)|=|Aberdeen
 Aberdeen-Angus cattle|=|Aberdeen Angus
 Aberfan (Wales)|=|Aberfan
@@ -1689,7 +1691,7 @@ Apollo Soyuz Test Project|=|Apollo–Soyuz
 Apollo Theater (New York, N.Y. : 125th Street)|=|Apollo Theater
 Apollo Theatre (New York, N.Y. : 42nd Street)|<->|Apollo Theatre (42nd Street)
 Apollonia (Albania : Extinct city)|=|Apollonia (Illyria)
-Apollonius of Tyre (Fictitious character)|=|Apollonius of Tyre
+Apollonius, of Tyre (Fictitious character)|=|Apollonius of Tyre
 Apostasy -- Islam|=|Apostasy in Islam
 Apostasy -- Judaism|=|Apostasy in Judaism
 Apostle Islands (Wis.)|=|Apostle Islands
@@ -3272,6 +3274,7 @@ Bastille Day Attack, Nice, France, 2016|=|2016 Nice truck attack
 Bat mitzvah|->|Bar and bat mitzvah
 Bataan, Battle of, Philippines, 1942|=|Battle of Bataan
 Bataan Death March, Philippines, 1942|=|Bataan Death March
+Bataclan (Paris, France)|=|Bataclan (theatre)
 Batak (Philippine people)|=|Batak people (Philippines)
 Batak language|=|Batak languages
 Bateaux|=|Bateau
@@ -3287,7 +3290,7 @@ Bathing suits|<->|Swimsuit
 Baths|<->|Bathing
 Baths, Turkish|<->|Hammam
 Bathynomus|=|Giant isopod
-Batih, Battle of, Ukraine, 1652|=|Battle of Batih
+Batih, Battle of, Ukraine, 1652|=|Battle of Batoh
 Batman (Fictitious character)|=|Batman
 Batman &amp; Robin (Game)|=|Batman & Robin (video game)
 Batna (Algeria : Province)|=|Batna Province
@@ -4533,7 +4536,7 @@ Book collectors|->|Book collecting
 Book-making (Betting)|<->|Bookmaker
 Bookmakers (Gambling)|<->|List of bookmakers
 Bookmarks|=|Bookmark
-Bookplates|<->|Ex Libris(Bookplate)
+Bookplates|<->|Ex Libris (Bookplate)
 Books|=|Book
 Books of hours|=|Book of hours
 Booksellers and bookselling|<->|Bookselling
@@ -4787,7 +4790,7 @@ Brazil -- History -- Empire, 1822-1889|<->|Empire of Brazil
 Brazil -- History -- French colony, 1555-1567|<->|France Antarctique
 Brazil -- History -- Naval Revolt, 1893-1894|=|Revolta da Armada
 Brazil -- History -- Naval Revolt, 1910|=|Revolt of the Lash
-Brazil -- History -- Revolution, 1842|=|Liberal rebellions of 1842 (Empire of Brazil)
+Brazil -- History -- Revolution, 1842|=|Liberal rebellions of 1842
 Brazil -- History -- Revolution, 1924-1925|->|Tenentism
 Brazil -- History -- Revolution, 1930|=|Brazilian Revolution of 1930
 Brazil -- History -- Revolution, 1964|<->|1964 Brazilian coup d'état
@@ -6173,6 +6176,7 @@ Catamarca (Argentina)|=|San Fernando del Valle de Catamarca
 Catamarca (Argentina : Province)|=|Catamarca Province
 Catania (Italy)|=|Catania
 Catania (Italy : Province)|=|Province of Catania
+Catania Plain (Italy)|=|Plain of Catania
 Catastrophes (Geology)|<->|Catastrophism
 Catawba River (N.C. and S.C.)|=|Catawba River
 Catchers (Baseball)|<->|Catcher
@@ -7390,6 +7394,7 @@ Cirios Valley (Mexico)|=|Valle de los Cirios
 Cirques (Glacial landforms)|=|Cirque
 Cirripedia|->|Barnacle
 CISC microprocessors|<->|Complex instruction set computer
+Cisco Kid (Fictitious character)|=|The Cisco Kid
 Cisgender people|<->|Cisgender
 Cistophorus (Coin)|=|Cistophorus
 Cittadella di Alessandria (Alessandria, Italy)|=|Cittadella of Alessandria
@@ -7776,6 +7781,7 @@ Cole (Ship)|<->|USS Cole (DDG-67)
 Cole Ranch American Viticultural Area (Calif.)|=|Cole Ranch AVA
 Colegio del Salvador (Buenos Aires, Argentina)|=|Colegio del Salvador
 Coleman family|<->|Coleman (surname)
+Coleridge Cottage (Nether Stowey, England)|=|Coleridge Cottage
 Coleridge Way (England)|=|Coleridge Way
 Colic in horses|=|Horse colic
 Colima (Colima, Mexico)|=|Colima City
@@ -8742,7 +8748,7 @@ Costa Rica -- History -- Revolution, 1948|<->|Costa Rican Civil War
 Costa Rican guava|=|Psidium friedrichsthalianum
 C&ocirc;te d'Ivoire|=|Ivory Coast
 C&ocirc;te d'Ivoire -- History|=|History of Ivory Coast
-C&ocirc;te d'Ivoire -- History -- 1960-1993|<->|History of Ivory Coast (1960–99)
+C&ocirc;te d'Ivoire -- History -- 1960-1993|<->|History of Ivory Coast (1960–1999)
 C&ocirc;te d'Ivoire -- History -- Civil War, 2002-2007|=|First Ivorian Civil War
 C&ocirc;te d'Ivoire -- History -- Coup d'&eacute;tat, 1999|=|1999 Ivorian coup d'état
 Cotehele House (England)|=|Cotehele
@@ -8946,7 +8952,7 @@ Crimea (Ukraine)|=|Crimea
 Crimea (Ukraine) -- History|=|History of Crimea
 Crimea (Ukraine) -- History -- 2014-|<->|Republic of Crimea
 Crimean War, 1853-1856|=|Crimean War
-Crimes against peace|=|Crime against peace
+Crimes against peace|<->|Crime of aggression
 Crimes of passion|=|Crime of passion
 Crimes without victims|=|Victimless crime
 Criminal anthropology|=|Anthropological criminology
@@ -9136,7 +9142,7 @@ Culpeper Basin (Va. and Md.)|=|Culpeper Basin
 Culpeper's Rebellion, 1677-1679|=|Culpeper's Rebellion
 Culross (Scotland)|=|Culross
 Culross Palace (Culross, Scotland)|=|Culross Palace
-Cultural industries|=|Cultural industry
+Cultural industries|<->|Culture industry
 Cultural landscapes|=|Cultural landscape
 Cultural property|<-|Cultural heritage
 Cultural property -- Repatriation|<->|Repatriation (cultural property)
@@ -9298,7 +9304,7 @@ Czartoryski family|<->|Czartoryski
 Czech language -- Orthography and spelling|<->|Czech orthography
 Czech Republic -- Kings and rulers|<->|List of Bohemian monarchs
 Czechoslovak-Polish Confederation (Proposed)|=|Polish–Czechoslovak confederation
-Czechoslovakia -- History -- 1938-1945|<->|German occupation of Czechoslovakia
+Czechoslovakia -- History -- 1938-1945|<->|Occupation of Czechoslovakia (1938–1945)
 Czechoslovakia -- History -- Coup d'&eacute;tat, 1948|=|1948 Czechoslovak coup d'état
 Czechoslovakia -- History -- Intervention, 1968|<-|Prague Spring
 Czechoslovakia -- History -- Intervention, 1968|<->|Warsaw Pact invasion of Czechoslovakia
@@ -9344,7 +9350,7 @@ Dahurian larch|=|Larix gmelinii
 Daikokuten (Japanese deity)|=|Daikokuten
 Daily Mail Transatlantic Air Race, 1969|=|Daily Mail Trans-Atlantic Air Race
 Daily Mirror World Cup Rally, 1970|=|1970 London to Mexico World Cup Rally
-Dairi Pakpak dialect|=|Batak Dairi language
+Dairi Pakpak dialect|<->|Pakpak language
 Dairy farming|->|Dairy
 Dairy plants|<->|Dairy
 Dairying|->|Dairy
@@ -10148,7 +10154,7 @@ Diplomatic and consular service, Estonian|<->|List of diplomatic missions of Est
 Diplomatic and consular service, Fijian|<->|List of diplomatic missions of Fiji
 Diplomatic and consular service, Finnish|<->|List of diplomatic missions of Finland
 Diplomatic and consular service, French|<->|List of diplomatic missions of France
-Diplomatic and consular service, Georgian|<->|List of diplomatic missions of Georgia (country)
+Diplomatic and consular service, Georgian|<->|List of diplomatic missions of Georgia
 Diplomatic and consular service, German|<->|List of diplomatic missions of Germany
 Diplomatic and consular service, Greek|<->|List of diplomatic missions of Greece
 Diplomatic and consular service, Grenadian|<->|List of diplomatic missions of Grenada
@@ -10342,7 +10348,7 @@ Doberman pinscher|=|Dobermann
 Dobbs, Maisie (Fictitious character)|=|Maisie Dobbs
 Dobro Pole, Battle of, Serbia, 1918|=|Battle of Dobro Pole
 Dock Strike, London, England, 1889|=|London dock strike, 1889
-Docks|=|Dock (maritime)
+Docks|<->|Dock
 Doctor (Fictitious character)|=|The Doctor (Doctor Who)
 Doctor Chau Chak Wing Building (Sydney, N.S.W.)|=|Dr Chau Chak Wing Building
 Doctor of philosophy degree|=|Doctor of Philosophy
@@ -13457,7 +13463,7 @@ Function generators (Electronic instruments)|<->|Function generator
 Functional literacy|<->|Functional illiteracy
 Functional programming (Computer science)|=|Functional programming
 Functional programming languages|->|Functional programming
-Functional representation|->|Representation (politics)
+Functional representation|->|Political representation
 Functions|=|Function
 Functions, Continuous|=|Continuous function
 Functions, Entire|=|Entire function
@@ -14112,7 +14118,7 @@ Gibson Desert (W.A.)|=|Gibson Desert
 Gibson paradox|=|Gibson's paradox
 Giddh&amacr; (Dance)|=|Giddha
 Gideon, George (Fictitious character)|=|Gideon of Scotland Yard
-Gi&#x1ebb; Tri&ecirc;ng (Vietnamese people)|=|Gie Trieng people
+Gi&#x1ebb; Tri&ecirc;ng (Vietnamese people)|=|Jeh-Tariang
 Gier River (France)|=|Gier (river)
 Giessen (Germany : Landkreis)|=|Giessen (district)
 Giessen (Germany : Regierungsbezirk)|=|Giessen (region)
@@ -14758,7 +14764,7 @@ Great Britain -- History, Naval|<->|Maritime history of the United Kingdom
 Great Britain -- Kings and rulers -- Succession|<->|Succession to the British throne
 Great Britain. MI2|=|MI2
 Great Britain. MI5|=|MI5
-Great Britain. MI6|=|Secret Intelligence Service
+Great Britain. MI6|=|MI6
 Great Britain. MI9|=|MI9
 Great Britain. Palestine Partition Commission|<->|Woodhead Commission
 Great Britain. Palestine Royal Commission|<->|Peel Commission
@@ -14846,7 +14852,7 @@ Grebo (African people)|=|Grebo people
 Grecian Shelter (New York, N.Y.)|=|Grecian Shelter
 Greco-Turkish War, 1897|=|Greco-Turkish War (1897)
 Greco-Turkish War, 1921-1922|<->|Greco-Turkish War (1919–1922)
-Greco-Turkish War, 1921-1922 -- Atrocities|<->|List of massacres during the Greco-Turkish War (1919–22)
+Greco-Turkish War, 1921-1922 -- Atrocities|<->|List of massacres during the Greco-Turkish War (1919–1922)
 Greece -- Economic conditions|<->|Economy of Greece
 Greece -- History -- 1821-|<->|History of modern Greece
 Greece -- History -- 1967-1974|<->|Greek junta
@@ -16234,7 +16240,7 @@ Hondarribia (Spain) -- History -- Siege, 1638|=|Siege of Fuenterrabía (1638)
 Hondschoote (France)|=|Hondschoote
 Hondschoote, Battle of, Hondschoote, France, 1793|=|Battle of Hondschoote
 Honduras -- History -- 1838-1933|<->|History of Honduras (1838–1932)
-Honduras -- History -- 1933-1982|<->|History of Honduras (1932–82)
+Honduras -- History -- 1933-1982|<->|History of Honduras (1932–1982)
 Honduras -- History -- 1982-|=|History of Honduras (1982–present)
 Honduras -- History -- Coup d'&eacute;tat, 2009|=|2009 Honduran coup d'état
 Honduras -- History -- To 1838|=|History of Honduras (to 1838)
@@ -16381,7 +16387,7 @@ House cleaning|->|Housekeeping
 House churches|=|House church
 House construction|=|Home construction
 House of Loreius Tiburtinus (Pompeii)|=|House of Loreius Tiburtinus
-House of Menander (Pompeii)|=|Casa del Menandro
+House of Menander (Pompeii)|=|House of Menander
 House of Paquius Proculus (Pompeii)|<->|Portrait of Terentius Neo
 House of the Centennial (Pompeii)|=|House of the Centenary
 House of the dead (Game)|<->|The House of the Dead
@@ -17663,7 +17669,7 @@ Iraq -- History -- Revolution, 1979|<->|Iranian Revolution
 Iraq -- History -- Zanj Rebellion, 868-883|<->|Zanj Rebellion
 Iraq -- Politics and government|<->|Politics of Iraq
 Iraq -- Politics and government|<-|Federal government of Iraq
-Iraq-Kuwait Crisis, 1990-1991|<->|Invasion of Kuwait
+Iraq-Kuwait Crisis, 1990-1991|<->|Iraqi invasion of Kuwait
 Iraq War, 2003-2011|<->|Iraq War
 Iraq War, 2003-2011 -- Casualties|<->|Casualties of the Iraq War
 Iraq War, 2003-2011 -- Causes|<->|Rationale for the Iraq War
@@ -19109,7 +19115,7 @@ Kentucky -- History -- War of 1812|=|Kentucky in the War of 1812
 Kentucky and Virginia resolutions of 1798|<->|Kentucky and Virginia Resolutions
 Kentucky bluegrass|=|Poa pratensis
 Kenya -- History -- Coup d'&eacute;tat, 1982|=|1982 Kenyan coup d'état attempt
-Kenya -- History -- Mau Mau Emergency, 1952-1960|=|Mau Mau Uprising
+Kenya -- History -- Mau Mau Emergency, 1952-1960|=|Mau Mau rebellion
 Kenya -- Politics and government|<->|Politics of Kenya
 Kenya, Mount (Kenya)|=|Mount Kenya
 Kenyah (Southeast Asian people)|=|Kenyah people
@@ -21313,7 +21319,7 @@ Lummi Indians|=|Lummi
 Lummi Island (Wash. : Island)|=|Lummi Island
 Luna (Calif. : Tree)|=|Luna (tree)
 Luna (Roman deity)|=|Luna (goddess)
-Luna (Whale)|=|Luna (killer whale)
+Luna (Whale)|=|Luna (orca)
 Luna Park (Buenos Aires, Argentina)|<->|Estadio Luna Park
 Luna Park (Cleveland, Ohio)|=|Luna Park, Cleveland
 Luna Park (New York, N.Y.)|<->|Luna Park (Coney Island, 1903)
@@ -22522,7 +22528,7 @@ Meadowlands Sports Complex (East Rutherford, N.J.)|=|Meadowlands Sports Complex
 Meal moth|=|Pyralis farinalis
 Mean value theorems (Calculus)|<->|Mean value theorem
 Measuring instruments|=|Measuring instrument
-Meat substitutes|<->|Meat analogue
+Meat substitutes|<->|Meat alternative
 Mecca (Saudi Arabia)|=|Mecca
 Mecca (Saudi Arabia) -- History -- Siege, 1979|<->|Grand Mosque seizure
 Mecca Hills (Calif.)|=|Mecca Hills
@@ -23974,7 +23980,7 @@ Mu&gbreve;la &Idot;li (Turkey)|=|Muğla Province
 Mugo pine|=|Pinus mugo
 Mu&#x1e25;ammad, Prophet, -632 -- Companions|<->|Companions of the Prophet
 Mu&#x1e25;ammad, Prophet, -632 -- Farewell pilgrimage|=|Farewell Pilgrimage
-Mu&#x1e25;ammad, Prophet, -632 -- Hijrah|<->|Hegira
+Mu&#x1e25;ammad, Prophet, -632 -- Hijrah|<->|Hijrah
 Mu&#x1e25;ammad, Prophet, -632 -- Military leadership|=|Military career of Muhammad
 Mu&#x1e25;ammad, Prophet, -632 -- Miracles|=|Miracles of Muhammad
 Muhazi, Lake (Rwanda)|=|Lake Muhazi
@@ -24325,7 +24331,7 @@ Namibe (Angola : Province)|=|Namibe Province
 Namibia -- History -- Herero Revolt, 1904-1907|<->|Herero and Namaqua genocide
 Namibia -- History -- Nama Revolt, 1904-1908|->|Herero and Namaqua genocide
 NamibRand Nature Reserve (Namibia)|=|NamibRand Nature Reserve
-Namu (Whale)|<->|Namu (killer whale)
+Namu (Whale)|<->|Namu (orca)
 Namur (Belgium) -- History -- Siege, 1692|=|Siege of Namur (1692)
 Namys&lstrok;&oacute;w (Poland)|=|Namysłów
 Namys&lstrok;&oacute;w (Poland : Powiat)|=|Namysłów County
@@ -25780,7 +25786,7 @@ Nyx (Greek deity)|=|Nyx
 Nzakara dialect|=|Nzakara language
 Nzima (African people)|=|Nzema people
 Nzima language|=|Nzema language
-O'Brien family|<->|List of people named O'Brien
+O'Brien family|<->|List of people with surname O'Brien
 O.D.T. (Game)|=|O.D.T.
 O'Hara, Scarlett (Fictitious character)|=|Scarlett O'Hara
 O2 Arena (London, England)|=|The O2 Arena
@@ -27058,7 +27064,7 @@ Panezai (South Asian people)|<->|Panezai
 Pang (South Asian people)|<->|Pankho people
 Pangaea (Supercontinent)|=|Pangaea
 Pangermanism|=|Pan-Germanism
-Pangi Valley (India)|=|Pangi valley, Himachal Pradesh
+Pangi Valley (India)|=|Pangi Valley, Himachal Pradesh
 Pangkor Island (Perak, Malaysia)|=|Pangkor Island
 Pangolagrass|=|Digitaria eriantha
 Panguingue (Game)|=|Panguingue
@@ -30302,6 +30308,7 @@ Representations of groups|=|Group representation
 Representations of Lie algebras|=|Lie algebra representation
 Representations of Lie groups|=|Representation of a Lie group
 Representative government and representation|<->|Representative democracy
+Representative government and representation|<-|Political representation
 Reproaches (Chants)|<->|Improperia
 Reptiles|=|Reptile
 Reptiles -- Evolution|=|Evolution of reptiles
@@ -31551,6 +31558,7 @@ San Francisco (Calif.) -- History|=|History of San Francisco
 San Francisco (Calif.) -- Politics and government|<->|Politics of San Francisco
 San Francisco (Calif.) -- Politics and government|<-|Government of San Francisco
 San Francisco (C&oacute;rdoba, Argentina)|=|San Francisco, Córdoba
+San Francisco City Hall (San Francisco, Calif.)|=|San Francisco City Hall
 San Francisco Earthquake and Fire, Calif., 1906|<->|1906 San Francisco earthquake
 San Francisco Giants (Baseball team)|=|San Francisco Giants
 San Francisco Maritime National Historical Park (Agency : U.S.)|->|San Francisco Maritime National Historical Park
@@ -34076,7 +34084,7 @@ Spring Mountains National Recreation Area (Nev.)|=|Spring Mountains National Rec
 Spring Street (New York, N.Y.)|=|Spring Street (Manhattan)
 Spring training (Baseball)|=|Spring training
 Springbok Flats (Limpopo, South Africa)|=|Springbok Flats
-Springer (Whale)|=|Springer (killer whale)
+Springer (Whale)|=|Springer (orca)
 Springfield Plantation (Miss.)|=|Springfield Plantation (Fayette, Mississippi)
 Springhill Mine Disaster, Springhill, N.S., 1958|<->|Springhill mining disasters
 Springs|=|Spring (hydrology)
@@ -36223,7 +36231,7 @@ Toluca de Lerdo (Mexico)|=|Toluca
 Tom (Fictitious character : Hanna and Barbera)|=|Tom Cat
 Tom's Brook, Battle of, Va., 1864|=|Battle of Tom's Brook
 Tom Thumb (Tale)|<->|Tom Thumb
-Tom-tom|<->|Tom-tom drum
+Tom-tom|<->|Tom drum
 Tomahawk (Guided missile)|=|Tomahawk (missile)
 Tomatoes|=|Tomato
 Tomb of Anarkali (Lahore, Pakistan)|=|Tomb of Anarkali
@@ -36478,7 +36486,7 @@ Transfusion-free surgery|<->|Bloodless surgery
 Transgender men|<->|Trans man
 Transgender military personnel|<->|Transgender people and military service
 Transgender people|<->|Transgender
-Transgender people -- Legal status, laws, etc.|<->|Legal status of transgender people
+Transgender people -- Legal status, laws, etc.|<->|Legal rights of trans people
 Transgender women|<->|Trans woman
 Transgenic plants|<->|Genetically modified crops
 Transglobe Expedition (1979-1982)|=|Transglobe Expedition
@@ -37111,7 +37119,7 @@ Uffington (Oxfordshire, England)|=|Uffington, Oxfordshire
 Uga (Dog)|=|Uga (mascot)
 Ugamak Island (Alaska)|=|Ugamak Island
 Uganda -- Economic conditions|<->|Economy of Uganda
-Uganda -- History -- 1890-1962|<->|Uganda Protectorate
+Uganda -- History -- 1890-1962|<->|Protectorate of Uganda
 Uganda -- History -- 1962-1971|<->|History of Uganda (1963–1971)
 Uganda -- History -- 1971-1979|<->|Second Republic of Uganda
 Uganda -- History -- 1979-|<->|History of Uganda (1979–1986)
