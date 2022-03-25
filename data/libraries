@@ -1404,6 +1404,17 @@ BASEURL http://156.38.97.107:8001
 CATTYPE koha
 FILTERS SNK
 
+# Not found in Worldcat registry, but I don't know if I'm searching right
+# Subject coverage is limited; drop back to general keywoprd for it
+ID THESSALONIKI
+NAME Municipal Library of Thessaloniki
+LOCATION Thessaloniki; English searches may give limited results
+COUNTRY GR
+BASEURL https://lib.thessaloniki.gr
+CATTYPE koha
+SUBURL ${BASEURL}/cgi-bin/koha/opac-search.pl?q=${ARG}
+FILTERS SNK
+
 ID OCLC-CPV
 NAME City University of Hong Kong
 LOCATION Hong Kong
@@ -2980,8 +2991,8 @@ ID OCLC-1JQ
 NAME Alameda County Library
 LOCATION East Bay communities south of Oakland
 STATE CA
-BASEURL http://encore.aclibrary.org/iii/encore
-CATTYPE encore
+CATTYPE bibliocommons
+BASEURL https://aclibrary.bibliocommons.com
 
 ID OCLC-JQD
 NAME Anaheim Public Library
@@ -3034,9 +3045,10 @@ ID OCLC-CSH
 NAME California State University, East Bay
 LOCATION Hayward and Concord
 STATE CA
-BASEURL http://xerxes.calstate.edu/eastbay/combined
-CATTYPE xerxes
-FILTERS S
+CATTYPE primo-ve
+BASEURL https://csu-eastbay.primo.exlibrisgroup.com
+VID 01CALS_UHL:01CALS_UHL
+SCOPE DN_and_CI
 
 ID OCLC-CFS
 NAME California State University, Fresno (Fresno State)
@@ -3085,8 +3097,10 @@ ID OCLC-CCS
 NAME City College of San Francisco
 LOCATION San Francisco
 STATE CA
-BASEURL http://diego.ccsf.edu
-CATTYPE innopac
+CATTYPE primo-ve
+BASEURL https://caccl-ccsf.primo.exlibrisgroup.com
+VID 01CACCL_CCSF:CCSF
+SCOPE MyInst_and_CI
 
 ID OCLC-HDC
 NAME Claremont Colleges Library
@@ -3114,8 +3128,10 @@ ID OCLC-CCJ
 NAME Cypress College
 LOCATION Cypress
 STATE CA
-CATTYPE voyager-vwebv
-BASEURL http://cyclib.nocccd.edu/vwebv/search
+CATTYPE primo-ve
+BASEURL https://caccl-cc.primo.exlibrisgroup.com
+VID 01CACCL_CYPRC:CYPRC
+SCOPE MyInst_and_CI
 
 ID OCLC-DAC
 NAME De Anza College
@@ -3278,8 +3294,8 @@ ID OCLC-9JR
 NAME Oakland Public Library
 LOCATION Oakland
 STATE CA
-BASEURL http://encore.oaklandlibrary.org/iii/encore
-CATTYPE encore
+CATTYPE bibliocommons
+BASEURL https://oaklandlibrary.bibliocommons.com
 
 ID OCLC-CAPUB
 NAME OC Public Libraries
@@ -3292,9 +3308,10 @@ ID OCLC-CCO
 NAME Occidental College
 LOCATION Los Angeles
 STATE CA
-BASEURL http://oasys.lib.oxy.edu
-CATTYPE webpacpro
-FILTERS SNK
+CATTYPE primo-ve
+BASEURL https://oxy.primo.exlibrisgroup.com
+VID 01OCOL_INST:01OCOL
+SCOPE MyInst_and_CI
 
 ID OCLC-PAK
 NAME Pacific Grove Public Library
@@ -3321,8 +3338,9 @@ ID OCLC-CPP
 NAME Pasadena Public Library
 LOCATION Pasadena
 STATE CA
-BASEURL http://pasadena.iii.com/iii/encore
-CATTYPE encore
+BASEURL https://pasadena.ent.sirsi.net
+CATTYPE sirsient
+LCODE en_US/default
 
 ID OCLC-CZP
 NAME Peninsula Library System
@@ -3364,7 +3382,7 @@ ID OCLC-GH0
 NAME Saint Mary's College of California
 LOCATION Moraga
 STATE CA
-BASEURL http://albert.stmarys-ca.edu
+BASEURL https://albert.stmarys-ca.edu
 CATTYPE webpacpro
 
 ID OCLC-SPU
@@ -3407,8 +3425,8 @@ ID OCLC-SJP
 NAME San Jose Public Library
 LOCATION San Jose
 STATE CA
-BASEURL http://discover.sjlibrary.org/iii/encore
-CATTYPE encore
+CATTYPE bibliocommons
+BASEURL https://sjpl.bibliocommons.com
 
 ID OCLC-2CS
 NAME San Jose State University
@@ -3441,8 +3459,8 @@ ID OCLC-JRZ
 NAME Santa Clara City Library
 LOCATION Santa Clara
 STATE CA
-BASEURL http://libsearch.santaclaraca.gov/iii/encore
-CATTYPE encore
+CATTYPE bibliocommons
+BASEURL https://sclibrary.bibliocommons.com
 
 ID OCLC-JRY
 NAME Santa Clara County Library District
@@ -3455,8 +3473,10 @@ ID OCLC-SMX
 NAME Santa Monica College Library
 LOCATION Santa Monica
 STATE CA
-BASEURL http://sirsi.smc.edu/uhtbin/cgisirsi
-CATTYPE sirsi
+CATTYPE primo-ve
+BASEURL https://caccl-smonica.primo.exlibrisgroup.com
+VID 01CACCL_SMONICA:SMONICA
+SCOPE MyInst_and_CI
 
 ID OCLC-SMP
 NAME Santa Monica Public Library
@@ -3524,8 +3544,8 @@ ID OCLC-SXP
 NAME Sunnyvale Public Library
 LOCATION Sunnyvale
 STATE CA
-BASEURL http://catalog.sunnyvalelibrary.org/iii/encore
-CATTYPE encore
+BASEURL https://sunnyvale.bibliocommons.com
+CATTYPE bibliocommons
 
 ID OCLC-TCB
 NAME Tulare County Library
@@ -3539,8 +3559,10 @@ ID OCLC-CLU
 NAME UCLA: University of California Los Angeles
 LOCATION Los Angeles
 STATE CA
-BASEURL https://ucla.on.worldcat.org/external-search?queryString
-CATTYPE worldcat-config
+CATTYPE primo-ve
+BASEURL https://search.library.ucla.edu
+VID 01UCS_LAL:UCLA
+SCOPE ArticlesBooksMore
 
 ID OCLC-CUS
 NAME UCSD: University of California San Diego
