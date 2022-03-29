@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2022-03-09
-# Manual Sweep: pick up w UK letter C (and get back to Israel by end of 2022)
+# Last updated 2022-03-29
+# Manual Sweep: pick up w UK letter E (and get back to Israel by end of 2022)
 
 ID OLBP
 NAME The Online Books Page
@@ -2109,20 +2109,20 @@ BASEURL https://wales.ent.sirsidynix.net.uk/
 LCODE en_GB/card_en
 
 ID OCLC-RDF
-NAME Cardiff University and NHS Wales Libraries
-LOCATION Cardiff and elsewhere in Wales
+NAME Cardiff University
+LOCATION Cardiff
 COUNTRY UK
-CATTYPE primodl-scope
-BASEURL https://whel-primo.hosted.exlibrisgroup.com
-VID 44WHELF_CAR_VU1
-SCOPE CSCOP_EVERYTHING
+CATTYPE primo-ve
+BASEURL https://librarysearch.cardiff.ac.uk
+VID 44WHELF_CAR:44WHELF_CAR_VU1
+SCOPE CU_Search_ALL
 
 ID OCLC-UKYRK
 NAME City of York Libraries and Archives
 LOCATION York, England
 COUNTRY UK
 CATTYPE sirsient
-BASEURL https://cyc.sdp.sirsidynix.net.uk/
+BASEURL https://cyc.sdp.sirsidynix.net.uk
 LCODE en_GB/default
 
 ID OCLC-C62
@@ -2140,11 +2140,8 @@ ID OCLC-UKCOV
 NAME Coventry University
 LOCATION Coventry, England
 COUNTRY UK
-CATTYPE primodl-loc
-BASEURL http://cov-primo.hosted.exlibrisgroup.com
-VID COV_V1
-LCODE COV_V1
-LOC adaptor,scope:(COV)
+CATTYPE primo-justquery
+BASEURL https://locate.coventry.ac.uk/primo-explore/search?search_scope=LSCOP_COV&vid=COV_VU1&
 
 ID OCLC-EQK
 NAME Cranfield University
@@ -2159,7 +2156,7 @@ NAME De Montfort University
 LOCATION Leicester, England
 COUNTRY UK
 CATTYPE prismhosted
-BASEURL http://capitadiscovery.co.uk/dmu
+BASEURL http://prism.librarymanagementcloud.co.uk/dmu
 
 ID OCLC-CUD
 NAME Cambridge University Library
@@ -2173,7 +2170,7 @@ NAME Cornwall Council libraries
 LOCATION 30+ public libraries in Cornwall, England
 COUNTRY UK
 CATTYPE prismhosted
-BASEURL http://capitadiscovery.co.uk/cornwall
+BASEURL http://prism.librarymanagementcloud.co.uk/cornwall
 
 ID OCLC-UKSUS
 NAME East Sussex Libraries
@@ -2201,7 +2198,7 @@ NAME Fife Library Catalogue
 LOCATION Public libraries in Fife, Scotland
 COUNTRY UK
 CATTYPE prismhosted
-BASEURL http://capitadiscovery.co.uk/fife
+BASEURL https://prism.librarymanagementcloud.co.uk/fife
 FILTERS S
 
 ID OCLC-UKGCL
@@ -2283,7 +2280,7 @@ NAME Liverpool Libraries
 LOCATION Liverpool, England
 COUNTRY UK
 CATTYPE prismhosted
-BASEURL http://capitadiscovery.co.uk/liverpool
+BASEURL https://prism.librarymanagementcloud.co.uk/liverpool
 
 ID OCLC-L7L
 NAME The London Library
@@ -2342,7 +2339,7 @@ NAME Moray Libraries
 LOCATION 11 public libraries in Moray, Scotland
 COUNTRY UK
 CATTYPE prismhosted
-BASEURL http://capitadiscovery.co.uk/moray
+BASEURL https://prism.librarymanagementcloud.co.uk/moray
 
 ID OCLC-NLW
 NAME National Library of Wales
@@ -2371,6 +2368,15 @@ BASEURL http://libsearch.ncl.ac.uk
 VID NCL_V1
 LCODE NCL_V1
 DEFAULT http://www.ncl.ac.uk/library/
+
+ID NHSWALES
+NAME NHS Wales Libraries
+LOCATION major hospitals throughout Wales
+COUNTRY UK
+CATTYPE primo-ve
+BASEURL https://nhswaleslibrarysearch.cardiff.ac.uk
+VID 44WHELF_CAR:44WHELF_NHS_VU1
+SCOPE NHS_Search_ALL
 
 ID OCLC-UKNFK
 NAME Norfolk Libraries
@@ -7432,20 +7438,20 @@ STATE NC
 BASEURL https://davidson.worldcat.org/search
 CATTYPE worldcat
 
+# Duke now has a bento; didn't see field limit options
 ID OCLC-NDD
 NAME Duke University Libraries
 LOCATION Durham
 STATE NC
-BASEURL https://library.duke.edu/find/all
-CATTYPE endeca
+BASEURL https://quicksearch.library.duke.edu
+KEYURL ${BASEURL}/?q=${ARG}
 
 ID OCLC-NZD
 NAME Durham County Library
 LOCATION Durham and vicinity
 STATE NC
-CATTYPE sirsient
-BASEURL https://dur.ent.sirsi.net
-LCODE en_US/default
+CATTYPE bibliocommons
+BASEURL https://durhamcounty.bibliocommons.com
 
 ID OCLC-NPE
 NAME Elizabeth City State University
@@ -7503,9 +7509,9 @@ ID OCLC-KQA
 NAME Rutherford County Library
 LOCATION Rutherford County
 STATE NC
-CATTYPE tlc
-LCODE rutherford
-BASEURL http://www.cmclibraries.org/
+BASEURL https://rutherford.nccardinal.org/eg/opac
+CATTYPE evergreen-dynamic
+LCODE 445
 
 ID OCLC-NIM
 NAME University of North Carolina (UNC) Asheville
