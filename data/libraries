@@ -9402,6 +9402,14 @@ STATE UT
 CATTYPE sirsi
 BASEURL http://libcat.slcc.edu/uhtbin/cgisirsi
 
+# This might just be the ID of 1 branch; I didn't see a definite system ID
+ID OCLC-UUC
+NAME Salt Lake County Library
+LOCATION Southern suburbs of Salt Lake City
+STATE UT
+BASEURL https://catalog.slcolibrary.org/polaris
+CATTYPE polaris
+
 ID OCLC-UUM
 NAME University of Utah
 LOCATION Salt Lake City
@@ -9479,8 +9487,16 @@ ID OCLC-PCX
 NAME Chesterfield County Public Library
 LOCATION Chesterfield County
 STATE VA
-CATTYPE encore
-BASEURL http://ccpl-discover.chesterfield.gov/iii/encore
+CATTYPE sirsient
+LCODE en_US/default
+BASEURL https://chstrfld.ent.sirsi.net
+
+ID OCLC-VEM
+NAME Eastern Mennonite University
+LOCATION Harrisonburg
+STATE VA
+CATTYPE tind
+BASEURL https://emu.tind.io
 
 ID OCLC-8AX
 NAME Fairfax County Public Library
@@ -9534,7 +9550,7 @@ ID OCLC-VLB
 NAME Liberty University
 LOCATION Lynchburg
 STATE VA
-KEYURL http://www.liberty.edu/library/search-results/?type=all&q=${ARG:NK}
+KEYURL https://www.liberty.edu/library/search/?q=${ARG:NK}
 
 ID OCLC-AXJ
 NAME Loudoun County Public Library
@@ -9547,8 +9563,9 @@ ID OCLC-PEQ
 NAME Newport News Public Library
 LOCATION Newport News
 STATE VA
-BASEURL http://www.newportnewslib.org:8080
-CATTYPE chamo
+BASEURL https://nnpls.tlcdelivers.com/
+CATTYPE ls2pac-config
+CONFIG NNPL
 FILTERS S
 
 ID OCLC-TWE
@@ -9577,8 +9594,9 @@ ID OCLC-VRP
 NAME Richmond Public Library
 LOCATION Richmond
 STATE VA
-BASEURL http://ibistro.ci.richmond.va.us/uhtbin/cgisirsi
-CATTYPE sirsi
+CATTYPE sirsient
+LCODE en_US/default
+BASEURL https://rcpl.ent.sirsi.net
 
 ID OCLC-RVLOD
 NAME Roanoke Valley Libraries

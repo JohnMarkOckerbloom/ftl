@@ -561,6 +561,13 @@ TITURL ${BASEURL}/search?q=TitleCombined:(${ARG})
 ATIURL ${BASEURL}/search?q=AuthorCombined:(${AUTHOR})+AND+TitleCombined:(${TITLE})
 KEYURL ${BASEURL}/search?q=${ARG}
 
+CATTYPE tind
+SUBURL ${BASEURL}/search?f1=subject&p1=${ARG:NK}
+AUTURL ${BASEURL}/search?f1=author&p1=${ARG:NK}
+TITURL ${BASEURL}/search?f1=title&p1=${ARG:NK}
+ATIURL ${BASEURL}/search?f1=author&p1=${AUTHOR:SNK}&f2=title&p2=${TITLE:SNK}
+KEYURL ${BASEURL}/search?p=${ARG:NK}
+
 # A Danish library catalog effort
 # Because most Danish libraries don't appear to catalog in English,
 #  we'll use a keyword search to get better results
