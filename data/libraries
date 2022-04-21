@@ -8585,9 +8585,10 @@ ID OCLC-ZKE
 NAME Allen University
 LOCATION Columbia
 STATE SC
-BASEURL http://a70005.eos-intl.net/A70005/OPAC/Search/AdvancedSearch.aspx
-CATTYPE eosweb
-DEFAULT http://www.allenuniversity.edu/academics/library/
+CATTYPE primo-ve
+BASEURL https://pascal-allen.primo.exlibrisgroup.com
+VID 01PASCAL_ALLEN:ALLEN
+SCOPE Books_Articles_More
 
 ID OCLC-SAL
 NAME Anderson County Library System
@@ -8601,9 +8602,17 @@ ID OCLC-BDC
 NAME Benedict College
 LOCATION Columbia
 STATE SC
-BASEURL http://alpsc5.state.sc.us/
-CATTYPE iii-consortium-member
-LCODE 2
+CATTYPE primo-ve
+BASEURL https://pascal-bene.primo.exlibrisgroup.com
+VID 01PASCAL_BENE:BENE
+SCOPE MyInst_and_CI
+
+ID OCLC-SO7
+NAME Chapin Memorial Library
+LOCATION Myrtle Beach
+STATE SC
+BASEURL https://catalog.chapinlibrary.org/POLARIS
+CATTYPE polaris
 
 ID CHARLESTON
 NAME Charleston County Public Library
@@ -8616,29 +8625,37 @@ ID OCLC-SEA
 NAME Clemson University Libraries
 LOCATION Clemson
 STATE SC
-CATTYPE summon
-BASEURL http://clemson.summon.serialssolutions.com
+CATTYPE primo-ve
+BASEURL https://pascal-clemson.primo.exlibrisgroup.com
+VID 01PASCAL_CLEM:CLEMSON
+SCOPE MyInst_and_CI
 
 ID OCLC-ZKJ
 NAME Coastal Carolina University
 LOCATION Conway
 STATE SC
-CATTYPE eds
-LCODE s8462687
+CATTYPE primo-ve
+BASEURL https://pascal-ccu.primo.exlibrisgroup.com
+VID 01PASCAL_CCU:CCU
+SCOPE MyInst_and_CI
 
 ID OCLC-SFM
 NAME Francis Marion University
 LOCATION Florence
 STATE SC
-CATTYPE eds
-LCODE s9007023
+CATTYPE primo-ve
+BASEURL https://pascal-fmu.primo.exlibrisgroup.com
+VID 01PASCAL_FMU:FMU
+SCOPE MyInst_and_CI
 
 ID OCLC-SFU
 NAME Furman University Libraries
 LOCATION Greenville
 STATE SC
-BASEURL http://alcuin.furman.edu
-CATTYPE innopac
+CATTYPE primo-ve
+BASEURL https://pascal-furman.primo.exlibrisgroup.com
+VID 01PASCAL_FURM:FURM
+SCOPE MyInstitution
 
 ID OCLC-SGR
 NAME Greenville County Library System
@@ -8673,23 +8690,28 @@ ID OCLC-SZR
 NAME University of South Carolina
 LOCATION Columbia and other campuses
 STATE SC
-CATTYPE encore
-BASEURL http://libcore.csd.sc.edu/iii/encore
+CATTYPE primo-ve
+BASEURL https://pascal-usc.primo.exlibrisgroup.com
+VID 01PASCAL_USCCOL:USC
+SCOPE MyInst_and_CI
 
 ID OCLC-VCM
 NAME Voorhees College
 LOCATION Denmark
 STATE SC
-BASEURL http://alpsc5.state.sc.us/
-CATTYPE iii-consortium-member
-LCODE 8
+CATTYPE primo-ve
+BASEURL https://pascal-voorhees.primo.exlibrisgroup.com
+VID 01PASCAL_VOOR:VOOR
+SCOPE MyInstitution
 
 ID OCLC-SPW
 NAME Wofford College
 LOCATION Spartanburg
 STATE SC
-CATTYPE summon
-BASEURL http://wofford.summon.serialssolutions.com
+CATTYPE primo-ve
+BASEURL https://pascal-wofford.primo.exlibrisgroup.com
+VID 01PASCAL_WOFF:WOFF
+SCOPE MyInst_and_CI
 
 ID OCLC-RCP
 NAME Rapid City Public Library
