@@ -10,8 +10,8 @@
 #   are not included in this file.
 # Manual title and name-title correspondences have been moved to wikiworksmap.
 # See docs file for documentation
-# Last updated 2022-03-28
-# Did LCSH 2015-2021 update lists, 2022 monthly list 1 (A-D only)
+# Last updated 2022-04-23
+# Did LCSH 2015-2021 update lists, 2022 monthly list 1
 1 Pendleton Place House (New York, N.Y.)|=|One Pendleton Place
 1009 Fifth Avenue House (New York, N.Y.)|=|Benjamin N. Duke House
 1066 Country Walk (England)|=|1066 Country Walk
@@ -236,7 +236,7 @@ Abu Sir Site (J&imacr;zah, Egypt)|<->|Abusir
 Ab&umacr; Sunbul (Egypt)|=|Abu Simbel
 Abushiri Revolt, Tanzania, 1888-1889|=|Abushiri revolt
 Abydos (Egypt : Extinct city)|<->|Abydos, Egypt
-Abyssinian Expedition (1867-1868)|=|British Expedition to Abyssinia
+Abyssinian Expedition (1867-1868)|=|British expedition to Abyssinia
 AC-119 (Gunship)|=|Fairchild AC-119
 AC-47 (Gunship)|=|Douglas AC-47 Spooky
 AC-to-AC converters|=|AC-to-AC converter
@@ -655,7 +655,7 @@ Aharoni type|=|Aharoni (typeface)
 Ahdal family|<->|Al-Ahdal
 Ahern Glacier (Mont.)|=|Ahern Glacier (Montana)
 Ahiarmiut Eskimos|=|Ahiarmiut
-Ahikuntaka (Sri Lankan people)|<->|Sri Lankan Gypsy people
+Ahikuntaka (Sri Lankan people)|<->|Sri Lankan Telugus
 Ahklun Mountains (Alaska)|=|Ahklun Mountains
 Ahlquist family|<->|Ahlquist
 Ahmad&amacr;b&amacr;d (India)|=|Ahmedabad
@@ -1542,7 +1542,7 @@ Antennae (Biology)|=|Antenna (biology)
 Antennas (Electronics)|<->|Antenna (radio)
 Anterior chamber (Eye)|=|Anterior chamber of eyeball
 Anterior segment (Eye)|=|Anterior segment of eyeball
-Antes (Slavic people)|<->|Antes (people)
+Antes (Slavic people)|<->|Antes people
 Anthems|=|Anthem
 Anthologies|=|Anthology
 Anthony (Name)|<->|Anthony
@@ -2637,7 +2637,7 @@ Automobiles -- History|=|History of the automobile
 Automobiles -- Motors -- Exhaust gas -- Measurement|<->|Exhaust gas analyzer
 Automobiles -- Seat belts|=|Seat belt
 Automobiles -- Seat belts -- Law and legislation|=|Seat belt legislation
-Automobiles -- Transmission devices|<->|Transmission (mechanics)
+Automobiles -- Transmission devices|<->|Propulsion transmission
 Automobiles -- Transmission devices, Automatic|<->|Automatic transmission
 Automobiles -- Transmission devices, Continuously variable|<->|Continuously variable transmission
 Automobiles -- Windows and windshields|<->|Windshield
@@ -3215,7 +3215,7 @@ Bartlett Dam (Ariz.)|=|Bartlett Dam
 Bartlett Reservoir (Ariz.)|=|Bartlett Lake
 Barton Creek (Hays County and Travis County, Tex.)|=|Barton Creek
 Barton Regis (England)|<->|Barton Regis Hundred
-Bartow-Pell Mansion (New York, N.Y.)|=|Bartow-Pell Mansion
+Bartow-Pell Mansion (New York, N.Y.)|=|Bartow–Pell Mansion
 Bartram's Garden (Philadelphia, Pa.)|=|Bartram's Garden
 Barycentric coordinates|->|Barycenter
 Bas-relief|->|Relief
@@ -3825,7 +3825,7 @@ Bible -- Versions, Catholic|<->|Catholic Bible
 Bible and homosexuality|=|The Bible and homosexuality
 Bible and science|->|Relationship between religion and science
 Bible. New Testament -- Criticism, Textual|=|Textual criticism of the New Testament
-Bible stories|=|Bible story
+Bible stories|->|Bible
 Bibliographical citations|<->|Citation
 Biblioteca apostolica vaticana|=|Vatican Library
 Bibracte (Extinct city)|=|Bibracte
@@ -4944,7 +4944,7 @@ Broadkill River (Del.)|=|Broadkill River
 Broadleaf lupine|=|Lupinus latifolius
 Broadmoor (Seattle, Wash.)|=|Broadmoor, Seattle
 Broadsides|<->|Broadside (printing)
-Broadtooth monkeyflower|=|Mimulus latidens
+Broadtooth monkeyflower|=|Erythranthe latidens
 Broadway (New York, N.Y.)|=|Broadway (Manhattan)
 Broadway Limited (Express train)|=|Broadway Limited
 Broadway Theatre (New York, N.Y. : 1445 Broadway)|=|Broadway Theatre (41st Street)
@@ -5057,7 +5057,7 @@ Bubaque Island (Guinea-Bissau)|<->|Bubaque
 Bubat, Battle of, Trowulan, Indonesia, 1357|=|Battle of Bubat
 Bubi (African people)|=|Bubi people
 Bubbles|=|Bubble
-Bubnovy&#x012d; valet (Group of artists)|=|Jack of Diamonds (artists)
+Bubnovy&#x012d; valet (Group of artists)|=|Knave of Diamonds (Russian arts association)
 Buboes|=|Bubo
 Bubsy Bobcat (Game)|<->|Bubsy
 Buca (Turkey)|=|Buca
@@ -5594,7 +5594,7 @@ Caloris Planitia (Mercury)|=|Caloris Planitia
 Calumpit (Philippines)|=|Calumpit
 Calumpit, Battle of, Calumpit, Philippines, 1899|=|Battle of Calumpit
 Calvary Chapel (Costa Mesa, Calif.)|=|Calvary Chapel Costa Mesa
-Calvary Chapel movement|=|Calvary Chapel
+Calvary Chapel movement|<->|Calvary Chapel Association
 Calven, Battle of, Switzerland, 1499|=|Battle of Calven
 Calvin (Fictitious character : Watterson)|->|Calvin and Hobbes
 Calydonian boar (Greek mythological monster)|<->|Calydonian boar hunt
@@ -7787,7 +7787,7 @@ Colic in horses|=|Horse colic
 Colima (Colima, Mexico)|=|Colima City
 Colima (Mexico : State)|=|Colima
 Colla Indians|<->|Qulla
-Collaborationists|<->|Wartime collaborationism
+Collaborationists|<->|Wartime collaboration
 Collared forest-falcon|=|Collared forest falcon
 Collars|<->|Collar
 Colle, Battle of, Colle di Val d'Elsa, Italy, 1269|=|Battle of Colle Val d'Elsa
@@ -7803,7 +7803,7 @@ College Fiord (Alaska)|=|College Fjord
 College of William and Mary|=|College of William & Mary
 College sports|=|College athletics
 College students|->|Student
-College students -- Alcohol use|<-|Alcohol abuse among college students
+College students -- Alcohol use|=|Alcohol use among college students
 College teachers|<->|Professor
 Collegiate churches|=|Collegiate church
 Collins family|<->|Collins (surname)
@@ -7954,7 +7954,7 @@ Common yarrow|=|Achillea millefolium
 Communal living|<->|Intentional community
 Communes (China)|=|People's commune
 Communicable diseases|<->|Contagious disease
-Communicable diseases -- Transmission|<->|Transmission (medicine)
+Communicable diseases -- Transmission|<->|Pathogen transmission
 Communicative disorders|=|Communication disorder
 Communism -- Peru|=|Communism in Peru
 Communism -- Soviet Union|<->|Ideology of the Communist Party of the Soviet Union
@@ -8687,7 +8687,7 @@ Corporate turnarounds -- Management|<->|Turnaround management
 Corporate veil|<->|Piercing the corporate veil
 Corporate veil -- Great Britain|<->|Corporate veil in the United Kingdom
 Corporation law|=|Corporate law
-Corporation law -- European Union countries|<->|European corporate law
+Corporation law -- European Union countries|<->|European corporate and foundation law
 Corporation law -- Germany|=|German company law
 Corporation law -- Great Britain|<->|United Kingdom company law
 Corporation law -- United States|=|United States corporate law
@@ -9424,7 +9424,7 @@ Dancers|->|Dance
 Dandakaranya (India)|=|Dandakaranya
 Dandies|=|Dandy
 Danewerk (Schleswig-Holstein, Germany)|=|Danevirke
-Dangi (Indic people)|=|Dangi (people)
+Dangi (Indic people)|=|Dangi people
 Dani language (Papuan)|<->|Dani languages
 Daniel Boone Homestead Site (Birdsboro, Pa.)|=|Daniel Boone Homestead
 Daniel J. Evans Wilderness (Wash.)|->|Olympic National Park
@@ -10157,7 +10157,7 @@ Diplomatic and consular service, Estonian|<->|List of diplomatic missions of Est
 Diplomatic and consular service, Fijian|<->|List of diplomatic missions of Fiji
 Diplomatic and consular service, Finnish|<->|List of diplomatic missions of Finland
 Diplomatic and consular service, French|<->|List of diplomatic missions of France
-Diplomatic and consular service, Georgian|<->|List of diplomatic missions of Georgia
+Diplomatic and consular service, Georgian|<->|List of diplomatic missions of Georgia (country)
 Diplomatic and consular service, German|<->|List of diplomatic missions of Germany
 Diplomatic and consular service, Greek|<->|List of diplomatic missions of Greece
 Diplomatic and consular service, Grenadian|<->|List of diplomatic missions of Grenada
@@ -10940,6 +10940,7 @@ Eastern pondmussel|=|Sagittunio nasutus
 Eastern redcedar|=|Juniperus virginiana
 Eastern ribbonsnake|=|Thamnophis sauritus sauritus
 Eastern Rumelia -- History -- Union with Bulgaria, 1885|<->|Bulgarian unification
+Eastern shieldbacks|=|Atlanticus
 Eastern Shore (Md. and Va.)|<-|Eastern Shore of Maryland
 Eastern Shore (Md. and Va.)|<->|Eastern Shore of Virginia
 Eastern Townships (Qu&eacute;bec)|=|Eastern Townships
@@ -11170,6 +11171,7 @@ Eight (The number)|=|8
 Eight Belles (Race horse)|=|Eight Belles
 Eight Eccentrics of Yangzhou (Group of painters)|=|Eight Eccentrics of Yangzhou
 Eight-hour movement|<->|Eight-hour day
+Eight-pagers (Comic books)|<->|Tijuana bible
 Eighteen eighties|=|1880s
 Eighteen eighty-five, A.D.|=|1885
 Eighteen fifteen, A.D.|=|1815
@@ -11258,6 +11260,7 @@ Elbasan (Albania : Rrethi)|=|Elbasan District
 Elbe River (Czech Republic and Germany)|=|Elbe
 Elbe River Valley (Czech Republic and Germany)|<->|Elbe Valley
 Elbe Sandstone Rocks (Czech Republic and Germany)|=|Elbe Sandstone Mountains
+Elbe-Seitenkanal (Germany)|=|Elbe Lateral Canal
 Elbow -- Fractures|=|Elbow fracture
 Elbow River (Alta.)|=|Elbow River
 Elburz Mountains (Iran)|=|Alborz
@@ -11671,7 +11674,6 @@ Episcopal Church. Diocese of Connecticut|=|Episcopal Diocese of Connecticut
 Episcopal Church. Diocese of Dallas|=|Episcopal Diocese of Dallas
 Episcopal Church. Diocese of Delaware|=|Episcopal Diocese of Delaware
 Episcopal Church. Diocese of Duluth|=|Episcopal Diocese of Duluth
-Episcopal Church. Diocese of East Carolina|=|Episcopal Diocese of East Carolina
 Episcopal Church. Diocese of Easton|=|Episcopal Diocese of Easton
 Episcopal Church. Diocese of Florida|=|Episcopal Diocese of Florida
 Episcopal Church. Diocese of Fond du Lac|=|Episcopal Diocese of Fond du Lac
@@ -11800,6 +11802,7 @@ Erymanthian boar (Greek mythology)|=|Erymanthian boar
 Erysichthon (Greek mythology)|<->|Erysichthon of Thessaly
 Erzgebirge (Czech Republic and Germany)|=|Ore Mountains
 Erzincan (Turkey)|=|Erzincan
+Erzincan Earthquake, Turkey, 1939|=|1939 Erzincan earthquake
 Erzincan &Idot;li (Turkey)|=|Erzincan Province
 Erzurum (Turkey)|=|Erzurum
 Erzurum Earthquakes, Turkey, 1924|<->|1924 Pasinler earthquake
@@ -12033,6 +12036,7 @@ Exclusion, Right of|=|Jus exclusivae
 Exclusionary rule (Evidence)|=|Exclusionary rule
 Excursion sport utility vehicle|=|Ford Excursion
 Excuses|->|Etiquette
+Exe Bridge Site (England)|<->|Old Exe Bridge
 Executive departments|->|Executive (government)
 Executive departments -- United States|<->|United States federal executive departments
 Executive functions (Neuropsychology)|=|Executive functions
@@ -12499,6 +12503,7 @@ Figline e Incisa Valdarno (Italy)|=|Figline e Incisa Valdarno
 Figueira da Foz (Portugal)|=|Figueira da Foz
 Figuration libre (Group of artists)|=|Figuration Libre
 Figure Eight Island (N.C.)|=|Figure Eight Island
+Fiji -- Economic conditions|<->|Economy of Fiji
 Fiji -- History -- Coup d'&eacute;tat, 2006|=|2006 Fijian coup d'état
 Fiji -- Politics and government|<->|Politics of Fiji
 Fiji Hindi language|=|Fiji Hindi
@@ -12606,7 +12611,6 @@ First person narrative|=|First-person narrative
 First philosophy|->|Metaphysics
 First responders|<->|Certified first responder
 First State National Historical Park (Del. and Pa.)|=|First State National Historical Park
-First strike (Nuclear strategy)|=|Pre-emptive nuclear strike
 Firth family|<->|Firth (surname)
 Fish cakes|=|Fishcake
 Fish Creek Provincial Park (Calgary, Alta.)|=|Fish Creek Provincial Park
@@ -12735,6 +12739,7 @@ Flodden, Battle of, England, 1513|=|Battle of Flodden
 Flogger (Jet fighter plane)|<->|Mikoyan-Gurevich MiG-23
 Flogger (Jet fighter plane)|<-|Mikoyan MiG-27
 Flood basalts|=|Flood basalt
+Flood Building (San Francisco, Calif.)|=|Flood Building
 Floods|=|Flood
 Floor exercise (Gymnastics)|<->|Floor (gymnastics)
 Floors|=|Floor
@@ -13598,6 +13603,7 @@ Galilee, Sea of|=|Sea of Galilee
 Galileo satellite navigation system|=|Galileo (satellite navigation)
 Galisteo Creek Watershed (N.M.)|<->|Galisteo Basin
 Galiuro Mountains (Ariz.)|=|Galiuro Mountains
+Gallant family|<->|Gallant (surname)
 Gallatin National Forest (Agency : U.S.)|->|Gallatin National Forest
 Gallatin National Forest (Mont.)|=|Gallatin National Forest
 Gallatin Range (Mont.)|<->|Gallatin Range
@@ -13687,6 +13693,11 @@ Gardelegen (Germany)|=|Gardelegen
 Gardelegen Massacre, Gardelegen, Germany, 1945|=|Gardelegen massacre
 Garden cities|<->|Garden city movement
 Garden Creek Site (N.C.)|=|Garden Creek site
+Garden of Allah (Cabaret : Seattle, Wash.)|=|Garden of Allah (cabaret)
+Garden of Allah (Hotel)|=|Garden of Allah Hotel
+Garden of Gethsemane (Jerusalem)|=|Gethsemane
+Garden of Quiet Listening (Northfield, Minn.)|=|Jo Ryo En Japanese Garden
+Garden of the Gods (Colorado Springs, Colo.)|=|Garden of the Gods
 Garden snapdragon|<->|Antirrhinum majus
 Garden State Park (Cherry Hill, N.J.)|<->|Garden State Park Racetrack
 Garden State Parkway (N.J.)|=|Garden State Parkway
@@ -13733,6 +13744,7 @@ Garrano pony|=|Garrano
 Garrick family|<->|Garrick (name)
 Gartenreich Dessau-W&ouml;rlitz (Germany)|=|Dessau-Wörlitz Garden Realm
 Garters|=|Garter
+Garth Estate (Powys, Wales)|<->|Garth (Guilsfield)
 Gartrell family|<->|Gartrell
 Garu&#x1e0d;a (Mythical bird)|=|Garuda
 Gary Cinema (Boston, Mass.)|<->|Plymouth Theatre (Boston)
@@ -15344,6 +15356,7 @@ Halloween Nor'easter, 1991|=|1991 Perfect Storm
 Halloween television programs|<->|List of Halloween television specials
 Hallucinogenic drugs|<->|Hallucinogen
 Hallucinogenic plants|->|Hallucinogen
+Halmahera (Indonesia)|=|Halmahera
 Halo (Game)|<->|Halo (franchise)
 Halo (Game)|<-|Halo: Combat Evolved
 Halogens|=|Halogen
@@ -15854,7 +15867,7 @@ Heritage Foundation (Washington, D.C.)|=|The Heritage Foundation
 Heritage Square Site (Phoenix, Ariz.)|->|Downtown Phoenix
 Heritage USA (Fort Mill, S.C.)|=|Heritage USA
 Hermann-Kesten-Preis|=|Hermann Kesten Prize
-Hermannia (Animal)|=|Hermannia (Acari)
+Hermannia (Animal)|=|Hermannia (arachnid)
 Hermannia (Plant)|=|Hermannia
 Hermaphroditus (Greek deity)|=|Hermaphroditus
 Hermes (Communications satellite)|=|Communications Technology Satellite
@@ -16898,6 +16911,7 @@ Identity (Psychology)|<->|Identity (social science)
 Iditarod (Race)|=|Iditarod Trail Sled Dog Race
 Iditarod National Historic Trail (Alaska)|<->|Iditarod Trail
 IDL (Computer program language)|<->|IDL specification language
+Idle No More movement|=|Idle No More
 Idlewild and SoakZone (Ligonier, Pa.)|=|Idlewild and Soak Zone
 Idoma (African people)|=|Idoma people
 Idomeneus (Greek mythology)|=|Idomeneus of Crete
@@ -16910,8 +16924,8 @@ Ieper (Belgium)|=|Ypres
 iF Design Award|<->|IF Product Design Award
 Ifugao (Philippines)|=|Ifugao
 Ifugao (Philippine people)|->|Igorot people
-Iganie, Battle of, Iganie, Poland, 1831|=|Battle of Iganie
 Igala (African people)|=|Igala people
+Iganie, Battle of, Iganie, Poland, 1831|=|Battle of Iganie
 Igbo (African people)|=|Igbo people
 Igede (African people)|=|Igede
 Ightenhill (Burnley, England)|=|Ightenhill
@@ -17281,7 +17295,7 @@ Infant Jesus of Prague (Statue)|=|Infant Jesus of Prague
 Infant psychology|->|Developmental psychology
 Infantile spasms|<->|Epileptic spasms
 Infants|=|Infant
-Infants -- Mortality|<->|Infant mortality
+Infants -- Mortality|<->|Infant Mortality Rate
 Infants switched at birth|=|Babies switched at birth
 Inferno Crater Lake (N.Z.)|=|Inferno Crater Lake
 Infertility, Female|=|Female infertility
@@ -17620,6 +17634,7 @@ Ion mobility mass spectrometry|<->|Ion-mobility spectrometry–mass spectrometry
 Ionia (Turkey and Greece)|<->|Ionia
 Ionian Sea Earthquake, Greece, 1953|=|1953 Ionian earthquake
 Ionic Greek dialect|=|Ionic Greek
+Ionic polymer metal composites|=|Ionic polymer–metal composites
 Ions|=|Ion
 Ios (Greece : Municipality)|<->|Ios
 Iosegun Lake (Alta.)|=|Iosegun Lake
@@ -18135,6 +18150,7 @@ James Iredell House (Edenton, N.C.)|=|James Iredell House
 James, Lake (Burke County and McDowell County, N.C.)|=|Lake James
 James, Lake (Steuben County, Ind. : Lake)|=|Lake James (Indiana)
 James M. Carter and Judith N. Keep United States Courthouse (San Diego, Calif.)|=|James M. Carter and Judith N. Keep United States Courthouse
+James R. Browning United States Courthouse (San Francisco, Calif.)|=|James R. Browning United States Court of Appeals Building
 James Ross Island (Antarctica)|=|James Ross Island
 James River (Va.)|=|James River
 James River and Kanawha Canal (Va.)|=|James River and Kanawha Canal
@@ -18445,9 +18461,8 @@ Jews -- Morocco -- History|<->|History of the Jews in Morocco
 Jews -- Music|<->|Jewish music
 Jews -- Netherlands|<->|History of the Jews in the Netherlands
 Jews -- Netherlands -- History|->|History of the Jews in the Netherlands
-Jews -- New York (State) -- History|<->|History of the Jews in New York
-Jews -- New York (State) -- New York|->|History of the Jews in New York City
-Jews -- New York (State) -- New York -- History|<->|History of the Jews in New York City
+Jews -- New York (State)|<->|Judaism in New York
+Jews -- New York (State) -- New York|=|Jews in New York City
 Jews -- Persecutions|=|Persecution of Jews
 Jews -- Poland -- History|<->|History of the Jews in Poland
 Jews -- Portugal -- History|<->|History of the Jews in Portugal
@@ -18542,6 +18557,7 @@ John Paul Hammerschmidt Federal Building and United States Courthouse (Fayettevi
 John Paul II, Pope, 1920-2005 -- Assassination attempt, 1981|=|Attempted assassination of Pope John Paul II
 John Rankin House (New York, N.Y.)|=|John Rankin House (Brooklyn)
 John the Baptist's Day|<->|Nativity of Saint John the Baptist
+John Wright Stanly House (New Bern, N.C.)|=|John Wright Stanly House
 Johnson, Andrew, 1808-1875 -- Impeachment|=|Impeachment of Andrew Johnson
 Johnson County War, 1892|=|Johnson County War
 Johnsonville, Battle of, Johnsonville, Tenn., 1864|=|Battle of Johnsonville
@@ -18609,6 +18625,7 @@ Judenburg (Austria)|=|Judenburg
 Judenburg Mutiny, 1918|=|Judenburg mutiny
 Judeo-Italian language|<->|Judeo-Italian languages
 Judeo-Persian language|<->|Judeo-Persian
+Judeo-Tat drama|<->|Judeo-Tat theatre
 Judeo-Tat language|=|Judeo-Tat
 Judge Isaac C. Parker Federal Building (Fort Smith, Ark.)|=|Judge Isaac C. Parker Federal Building
 Judges|->|Judge (disambiguation)
@@ -18956,6 +18973,7 @@ Karbal&amacr;&#x02be;, Battle of, Karbal&amacr;&#x02be;, Iraq, 680|=|Battle of K
 Karen (Southeast Asian people)|=|Karen people
 Karen languages|<->|Karenic languages
 Kargil War, 1999|=|Kargil War
+Kariri Indians|=|Kiriri people
 Karkheh River (Iran)|=|Karkheh River
 Karla Caves (India)|=|Karla Caves
 Karlin Hasidim|<->|Karlin-Stolin (Hasidic dynasty)
@@ -19006,6 +19024,7 @@ Katana DA20 (Training plane)|<->|Diamond DA20 Katana
 Katanga (Congo)|=|Katanga Province
 Katarism|=|Katarismo
 Katharina (Mollusks)|=|Katharina (chiton)
+Katla Volcano (Iceland)|=|Katla (volcano)
 Katmai, Mount (Alaska)|=|Mount Katmai
 Katmai National Park and Preserve (Agency : U.S.)|->|Katmai National Park and Preserve
 Katmai National Park and Preserve (Alaska)|=|Katmai National Park and Preserve
@@ -19538,7 +19557,7 @@ Konitsa (Greece)|=|Konitsa
 Konitsa, Battle of, Konitsa, Greece, 1947-1948|=|Battle of Konitsa
 Konkomba (African people)|=|Konkomba people
 Kono (Sierra Leonean people)|=|Kono people
-Konotop, Battle of, Konotop, Sums&#x02b9;ka oblast&#x02b9;, Ukraine, 1659|=|Battle of Konotop
+Konotop, Battle of, Konotop, Sums&#x02b9;ka oblast&#x02b9;, Ukraine, 1659|=|Battle of Konotop (1659)
 Konpira (Shinto deity)|<->|Konpira Gongen
 Konso (African people)|=|Konso people
 Kontum, Battle of, Kon Tum, Vietnam, 1972|=|Battle of Kontum
@@ -19720,6 +19739,7 @@ Ku Klux Klan (19th century)|->|Ku Klux Klan
 Kuala Lumpur (Malaysia)|=|Kuala Lumpur
 Kuanyama language|=|Kwanyama dialect
 K&uuml;belwagen automobile|=|Volkswagen Kübelwagen
+Kucheng Massacre, Gutian Xian, China, 1895|=|Kucheng massacre
 Kuchinoerabu Island (Japan)|=|Kuchinoerabu-jima
 Kuchuk Kainarji, Treaty of, 1774|=|Treaty of Küçük Kaynarca
 Ku&ccedil;ov&euml; (Albania)|=|Kuçovë
@@ -19827,7 +19847,7 @@ Kwegu (African people)|=|Kwegu people
 Kwele (African people)|=|Kwele people
 Kwena (African people)|=|Koena tribe
 Kweni language|=|Guro language
-Kwere (African people)|=|The Kwere (Ngh'were) of Tanzania
+Kwere (African people)|=|Kwere people
 Kwini (Australian people)|<->|Yeidji
 Kwiri (African people)|<->|Kwe people
 Kxoe language|=|Khwe language
@@ -20946,6 +20966,7 @@ Livorno (Italy)|=|Livorno
 Liwiec River (Poland)|=|Liwiec
 Liyutan Dam (Taiwan)|=|Liyutan Dam
 Lizards|=|Lizard
+Llaima Volcano (Chile)|=|Llaima
 Llanbradach (Wales)|=|Llanbradach
 Llancaiach Fawr Manor (Nelson, Wales)|=|Llancaiach Fawr
 Llanelli (Wales)|=|Llanelli
@@ -20953,6 +20974,7 @@ Llanelly House (Llanelli, Wales)|=|Llanelly House
 Llanfair Caereinion (Wales)|=|Llanfair Caereinion
 Llanfair Pwllgwyngyll (Wales)|=|Llanfairpwllgwyngyll
 Llangollen Canal (England and Wales)|=|Llangollen Canal
+Llantwit Major Roman Villa Site (Wales)|<->|Llantwit Major Roman Villa
 Llanyre (Wales)|=|Llanyre
 Lledr, River (Wales)|=|Afon Lledr
 Lledr Valley (Wales)|=|Lledr Valley
@@ -21251,6 +21273,7 @@ Lower Monumental Dam (Wash.)|=|Lower Monumental Dam
 Lower Saxony (Germany)|=|Lower Saxony
 Lowgar (Afghanistan)|=|Logar Province
 Lows (Meteorology)|<->|Low-pressure area
+Loy, Glen (Scotland)|=|Glen Loy
 Loyalty Islands (New Caledonia)|<->|Loyalty Islands Province
 Loyalty oaths|=|Loyalty oath
 Lozi (African people)|=|Lozi people
@@ -21282,7 +21305,7 @@ Lucerne (Switzerland)|=|Lucerne
 Lucerne (Switzerland : Canton)|=|Canton of Lucerne
 Lucerne flea|=|Sminthurus viridis
 Lucid (Computer program language)|=|Lucid (programming language)
-Lucifer (Crustacea)|=|Lucifer (prawn)
+Lucifer (Crustacea)|=|Lucifer (crustacean)
 Lucknow (India)|=|Lucknow
 Lucknow (India) -- History -- Siege, 1857|=|Siege of Lucknow
 Lucy (Prehistoric hominid)|=|Lucy (Australopithecus)
@@ -21323,7 +21346,6 @@ Luminism (Art)|<->|Luminism
 Lumix digital camera|=|Lumix
 Lummi Indians|=|Lummi
 Lummi Island (Wash. : Island)|=|Lummi Island
-Luna (Calif. : Tree)|=|Luna (tree)
 Luna (Roman deity)|=|Luna (goddess)
 Luna (Whale)|=|Luna (orca)
 Luna Park (Buenos Aires, Argentina)|<->|Estadio Luna Park
@@ -21428,6 +21450,7 @@ Lynx (Genus)|->|Lynx
 Lynx Lake (Ariz.)|=|Lynx Lake (Arizona)
 Lynx pardinus|=|Iberian lynx
 Lyon (France)|=|Lyon
+Lyonia (Plants)|=|Lyonia (plant)
 Lys, Battle of the, 1918|<->|Battle of the Lys (1918)
 Lysander (Combat liaison airplane)|=|Westland Lysander
 Lysander (Fictitious character : Shakespeare)|=|Lysander (A Midsummer Night's Dream)
@@ -22371,6 +22394,7 @@ Mathews, Lake (Calif.)|=|Lake Mathews
 Mathieu family|<->|Mathieu
 Mathis family|<->|Mathis
 MathML (Document markup language)|=|MathML
+Matilda, Nurse (Fictitious character)|<->|Nurse Matilda
 Mato Grosso (Brazil : State)|=|Mato Grosso
 Mato Grosso do Sul (Brazil)|=|Mato Grosso do Sul
 Maton guitar|->|Maton
@@ -23291,6 +23315,7 @@ Mission Bay Park (San Diego, Calif.)|->|Mission Bay (San Diego)
 Mission Beach (San Diego, Calif.)|=|Mission Beach, San Diego
 Mission Impossible (Game)|<->|Mission: Impossible (1998 video game)
 Mission School (Group of artists)|=|Mission School
+Mission Street (San Francisco, Calif.)|<->|Mission Street
 Missionaries|=|Missionary
 Mission-Aransas Estuary (Tex.)|<->|Mission-Aransas National Estuarine Research Reserve
 Mission-Aransas National Estuarine Research Reserve (Agency : U.S.)|->|Mission-Aransas National Estuarine Research Reserve
@@ -23304,6 +23329,7 @@ Mississauga (Ont.)|=|Mississauga
 Mississinewa, Battle of, Ind., 1812|=|Battle of the Mississinewa
 Mississippi (Battleship : BB 23)|<->|Greek battleship Kilkis
 Mississippi (Battleship : BB 41)|=|USS Mississippi (BB-41)
+Mississippi Bubble, France, 1720|<->|Mississippi Company
 Mississippi -- History -- Civil War, 1861-1865|=|Mississippi in the American Civil War
 Mississippi -- Politics and government|<->|Government of Mississippi
 Mississippi River Delta (La.)|=|Mississippi River Delta
@@ -23402,10 +23428,10 @@ Mod culture (Subculture)|=|Mod (subculture)
 Modality (Logic)|<->|Modal logic
 Modder, Battle of, South Africa, 1899|=|Battle of Modder River
 Model-driven software architecture|<->|Model-driven architecture
-Modeling|->|Physical model
+Modeling|->|Model
 Modeling languages (Computer science)|<->|Modeling language
 Models (Persons)|=|Model (person)
-Models and modelmaking|<->|Physical model
+Models and modelmaking|<->|Model
 Modena (Italy)|=|Modena
 Modern Orthodox Judaism movement|=|Modern Orthodox Judaism
 Modernism (Aesthetics)|<->|Modernism
@@ -23740,7 +23766,7 @@ Morpeth Castle (Morpeth, England)|=|Morpeth Castle
 Morpeth Clock Tower (Morpeth, England)|=|Morpeth Clock Tower
 Morpheus (Greek deity)|=|Morpheus
 Morphing (Computer animation)|<->|Morphing
-Morra gambit (Chess)|=|Sicilian Defence, Smith–Morra Gambit
+Morra gambit (Chess)|=|Smith–Morra Gambit
 Morrigan (Celtic deity)|=|The Morrígan
 Morris (Name)|<->|Morris (given name)
 Morris Canal (N.J.)|=|Morris Canal
@@ -23973,6 +23999,8 @@ Mud Springs Pony Express Station (Neb.)|<->|Mud Springs Station Archeological Di
 Mud volcanoes|=|Mud volcano
 Mudburra (Australian people)|=|Mudburra
 Muddy Boggy Creek (Okla.)|=|Muddy Boggy Creek
+Muddy Creek (Daviess County, Mo.)|=|Muddy Creek (Daviess County, Missouri)
+Muddy Creek (Grand County, Colo.)|=|Muddy Creek (Colorado)
 Mud&eacute;jares|=|Mudéjar
 Mudr&amacr;s (Buddhism)|<->|Mudra
 Mudr&amacr;s (Hinduism)|->|Mudra
@@ -24392,7 +24420,7 @@ Naqsh-i Rustam Site (Iran)|<->|Naqsh-e Rostam
 Nara (African people)|=|Nara people
 Nara (Plant)|=|Acanthosicyos horridus
 Nara-ken (Japan)|=|Nara Prefecture
-Nara-shi (Japan)|=|Nara (city)
+Nara-shi (Japan)|=|Nara, Nara
 Narangga (Australian people)|=|Narungga
 Narcissus (Greek mythology)|=|Narcissus (mythology)
 Narco-terrorism|=|Narcoterrorism
@@ -24950,8 +24978,8 @@ New York (Battleship : BB-34)|=|USS New York (BB-34)
 New York Bight (N.J. and N.Y.)|=|New York Bight
 New York Chamber of Commerce|=|Chamber of Commerce of the State of New York
 New York City Hall (New York, N.Y.)|=|New York City Hall
-New York Giants (Baseball team)|<->|History of the New York Giants (baseball)
-New York Giants (Baseball team) -- History|->|History of the New York Giants (baseball)
+New York Giants (Baseball team)|=|New York Giants (National League)
+New York Giants (Baseball team) -- History|->|New York Giants (National League)
 New York Giants (Football team)|=|New York Giants
 New York Harbor (N.Y. and N.J.)|=|New York Harbor
 New York Islanders (Hockey team)|=|New York Islanders
@@ -25807,7 +25835,7 @@ Oakham (Rutland, England)|=|Oakham
 Oakham Castle (Oakham, Rutland, England)|=|Oakham Castle
 Oakland (Pittsburgh, Pa.)|=|Oakland (Pittsburgh)
 Oakland Athletics (Baseball team)|=|Oakland Athletics
-Oakland Raiders (Football team)|<->|History of the Oakland Raiders
+Oakland Raiders (Football team)|=|Oakland Raiders
 Oakville American Viticultural Area (Calif.)|=|Oakville AVA
 Oases|=|Oasis
 Oat Mountain (Los Angeles County, Calif.)|=|Oat Mountain (California)
@@ -26154,6 +26182,7 @@ Olympos (Turkey : Extinct city)|=|Olympus (Lycia)
 Olympus Mons (Mars)|=|Olympus Mons
 Olympus, Mount (Greece)|=|Mount Olympus
 Olympus, Mount (Wash.)|=|Mount Olympus (Washington)
+Omagua Indians (Tupi)|=|Omagua people
 Omaha dialect|<->|Omaha–Ponca language
 Omaha Indian Reservation (Neb.)|<->|Omaha Reservation
 Omaha Indians|=|Omaha people
@@ -26782,6 +26811,7 @@ Pacific Tsunami Warning and Mitigation System|<-|Pacific Tsunami Warning Center
 Pacific Type (Steam locomotives)|<->|4-6-2
 Pacifism -- Religious aspects -- Christianity|<->|Christian pacifism
 Pacifists|->|Pacifism
+Pacing (Narration)|=|Pace (narrative)
 Pack Monadnock Mountain (N.H.)|=|Pack Monadnock
 Packet switching (Data transmission)|=|Packet switching
 Packets|<->|Packet boat
@@ -26940,6 +26970,7 @@ Palazzo dei Priori (Perugia, Italy)|=|Palazzo dei Priori
 Palazzo dei Senatori (Rome, Italy)|=|Palazzo Madama
 Palazzo dei Trecento (Treviso, Italy)|=|Palazzo dei Trecento
 Palazzo del Bo (Padua, Italy)|=|Bo Palace
+Palazzo della Farnesina (Rome, Italy)|=|Palazzo della Farnesina
 Palazzo della pilotta (Parma, Italy : Building)|<->|Palazzo della Pilotta
 Palazzo ducale (Genoa, Italy)|=|Doge's Palace, Genoa
 Palazzo ducale (Urbino, Italy)|=|Ducal Palace, Urbino
@@ -27070,7 +27101,7 @@ Panezai (South Asian people)|<->|Panezai
 Pang (South Asian people)|<->|Pankho people
 Pangaea (Supercontinent)|=|Pangaea
 Pangermanism|=|Pan-Germanism
-Pangi Valley (India)|=|Pangi Valley, Himachal Pradesh
+Pangi Valley (India)|=|Pangi Valley
 Pangkor Island (Perak, Malaysia)|=|Pangkor Island
 Pangolagrass|=|Digitaria eriantha
 Panguingue (Game)|=|Panguingue
@@ -27253,7 +27284,7 @@ Paris-Dakar Rally|=|Dakar Rally
 Pariser Platz (Berlin, Germany)|=|Pariser Platz
 Parishes|=|Parish
 Parisii (Celtic people)|<->|Parisii
-Parits|<->|Dhobi
+Parits|<->|Rajak (caste)
 Park Avenue automobile|=|Buick Park Avenue
 Park Range (Colo. and Wyo.)|<->|Park Range (Colorado)
 Park rangers|=|Park ranger
@@ -27831,6 +27862,7 @@ Perovskite (Mineral)|=|Perovskite
 Perovskite materials|<->|Perovskite (structure)
 Perovskite solar cells|=|Perovskite solar cell
 Perpetua, Cape (Or.)|=|Cape Perpetua
+Perpetual foreigner stereotype|=|Perpetual foreigner
 Perpetual Help, Our Lady of|=|Our Lady of Perpetual Help
 Perranarworthal (England)|=|Perranarworthal
 Perrine Memorial Bridge (Twin Falls, Idaho)|=|Perrine Bridge
@@ -28275,6 +28307,7 @@ Pinyon dwarf mistletoe|=|Arceuthobium divaricatum
 Piombino (Italy)|=|Piombino
 Pioneer (Space probes)|<->|Pioneer program
 Pioneer and Endicott Buildings (Saint Paul, Minn.)|=|Pioneer and Endicott Buildings
+Pioneer Monument (San Francisco, Calif.)|=|Pioneer Monument (San Francisco)
 Pioneers|=|Pioneer
 Pipe (Musical instrument)|=|Pipe (instrument)
 Pipe bursting (Underground construction)|=|Pipe bursting
@@ -28310,7 +28343,7 @@ Pisagua, Battle of, Pisagua, Chile, 1879|=|Battle of Pisagua
 Pisgah Crater (Calif.)|=|Pisgah Crater
 Pisgah National Forest (N.C.)|=|Pisgah National Forest
 P&imacr;shd&amacr;dids (Legendary characters)|=|Pishdadian dynasty
-Pisidia (Crustacea)|=|Pisidia (genus)
+Pisidia (Crustacea)|=|Pisidia (crustacean)
 Pistons|<->|Piston
 Piss&ubreve;l Mountain (Korea)|=|Biseulsan
 Pit and fissure sealants (Dentistry)|<->|Dental sealant
@@ -28698,7 +28731,7 @@ Popular music -- 2001-2010|<->|2000s in music
 Popular music -- 2011-2020|<->|2010s in music
 Popular music -- Great Britain|<->|British popular music
 Popular music -- Korea (South)|<->|K-pop
-Popular music -- Romania|<->|Muzica populara
+Popular music -- Romania|<->|Muzică populară
 Popular music -- United States|<->|American popular music
 Population aging|=|Population ageing
 Population transfers|=|Population transfer
@@ -29766,6 +29799,7 @@ Racially mixed people|<->|Multiracial people
 Racially mixed people -- United States|<->|Multiracial Americans
 Racib&oacute;rz (Poland)|=|Racibórz
 Racism against Romanies|<->|Anti-Romani sentiment
+Racism in the sexual minority community|<->|Racism in the LGBT community
 Racket (Computer program language)|=|Racket (programming language)
 Racket (Musical instrument)|=|Rackett
 Racket games|<->|List of racket sports
@@ -30057,6 +30091,7 @@ Raw materials|=|Raw material
 Rawang (Burmese people)|<->|Nung Rawang
 Rawang (Selangor, Malaysia)|<->|Rawang, Selangor
 Rawhide Mountains (Ariz.)|=|Rawhide Mountains
+Rawlins, Easy (Fictitious character)|=|Ezekiel "Easy" Rawlins
 Rawson (Chubut, Argentina)|=|Rawson, Chubut
 Ray family|<->|Ray (surname)
 Ray Hubbard Lake (Tex.)|=|Lake Ray Hubbard
@@ -30602,6 +30637,7 @@ Rivera family|<->|Rivera (surname)
 Riverbank grape|=|Vitis riparia
 Riverbank lupine|=|Lupinus rivularis
 Riverfront Park (Spokane, Wash.)|=|Riverfront Park (Spokane, Washington)
+Riverine clubtail|=|Stylurus amnicola
 Rivers|=|River
 Rivers -- Afghanistan|<->|List of rivers of Afghanistan
 Rivers -- Alabama|<->|List of rivers of Alabama
@@ -30806,6 +30842,7 @@ Romania -- History -- Revolution, 1821|=|Wallachian uprising of 1821
 Romania -- History -- Revolution, 1848|<->|Wallachian Revolution of 1848
 Romania -- History -- Revolution, 1848|<-|Moldavian Revolution of 1848
 Romania -- History -- Revolution, 1989|=|Romanian Revolution
+Romania -- History -- Union of the Principalities, 1859|<->|Unification of Moldavia and Wallachia
 Romania -- History -- Uprising, 1941|<->|Legionnaires' rebellion and Bucharest pogrom
 Romania -- History -- War of Independence, 1876-1878|<->|Romanian War of Independence
 Romania -- Politics and government|<->|Politics of Romania
@@ -31380,6 +31417,7 @@ Saj&oacute; River (Slovakia and Hungary)|=|Sajó
 Sakalava (Malagasy people)|=|Sakalava people
 Sakapulteko Indians|=|Sakapultek people
 Sakarya, Battle of, Turkey, 1921|=|Battle of the Sakarya
+Sakarya River (Turkey)|=|Sakarya River
 Sakata (African people)|=|Sakata people
 Sakdrisi-Kachagiani Site (Georgia)|=|Sakdrisi
 SAKO (Computer program language)|=|SAKO (programming language)
@@ -31487,7 +31525,7 @@ Samburu National Reserve (Kenya)|=|Samburu National Reserve
 Same S&amacr;rn Island (Thailand)|=|Samae San Island
 Same-sex divorce|<->|Divorce of same-sex couples
 Same-sex marriage -- Religious aspects|<->|Religious views on same-sex marriage
-Sami (European people)|=|Sámi people
+Sami (European people)|=|Sámi
 Sami language|=|Sámi languages
 Samia (African people)|=|Samia tribe
 Samia (Insects)|=|Samia (moth)
@@ -31540,7 +31578,7 @@ San Diegan (Express train)|=|San Diegan (train)
 San Diego (Calif.)|=|San Diego
 San Diego Bay (Calif.)|=|San Diego Bay
 San Diego Bay National Wildlife Refuge (Calif.)|=|San Diego Bay National Wildlife Refuge
-San Diego Chargers (Football team)|<->|History of the San Diego Chargers
+San Diego Chargers (Football team)|=|San Diego Chargers
 San Diego-Coronado Bay Bridge (Coronado and San Diego, Calif.)|=|San Diego–Coronado Bridge
 San Diego Padres (Baseball team : National League of Professional Baseball Clubs)|=|San Diego Padres
 San Diego Padres (Baseball team : Pacific Coast League)|=|San Diego Padres (PCL)
@@ -31688,6 +31726,7 @@ Sandy Bay Ojibway First Nation|=|Sandy Bay First Nation
 Sandy Hook Elementary School Massacre, Newtown, Conn., 2012|=|Sandy Hook Elementary School shooting
 Sanford family|<->|Sanford (surname)
 Sanga (African people)|=|Sanga people
+Sanghyang (Dance)|=|Sanghyang
 Sang&imacr;n (Helmand, Afghanistan)|=|Sangin
 Sangir (Southeast Asian people)|=|Sangirese people
 Sango language (Ubangi Creole)|<->|Sango language
@@ -32578,7 +32617,7 @@ Sewee Indians|=|Sewee
 Sex -- Religious aspects|<->|Religion and sexuality
 Sex -- Religious aspects -- Buddhism|<->|Buddhism and sexuality
 Sex -- Religious aspects -- Catholic Church|<->|Catholic theology of sexuality
-Sex -- Religious aspects -- Islam|<->|Islamic sexual jurisprudence
+Sex -- Religious aspects -- Islam|<->|Sexuality in Islam
 Sex -- Religious aspects -- Judaism|<->|Judaism and sexuality
 Sex addiction|=|Sexual addiction
 Sex and law|=|Sex and the law
@@ -32944,6 +32983,7 @@ Sidi Brahim, Battle of, Sidi Brahim, Sidi Bel Abb&egrave;s, Algeria, 1845|=|Batt
 Siding (Building materials)|<->|Siding
 Sidmouth (England)|=|Sidmouth
 Sidney L. Christie Federal Building (Huntington, W. Va.)|=|United States Post Office and Court House (Huntington, West Virginia)
+Sidoarjo Mudflow, Indonesia, 2006-|=|Sidoarjo mud flow
 Siebengebirge (Germany)|=|Siebengebirge
 Sieges|=|Siege
 Siegfried (Legendary character)|<->|Sigurd
@@ -33050,6 +33090,7 @@ SIMD (Computer architecture)|=|Single instruction, multiple data
 Simelungun dialect|=|Batak Simalungun language
 Simi Hills (Calif.)|=|Simi Hills
 Simi Valley (Calif. : Valley)|=|Simi Valley (valley)
+S&imacr;mj&umacr;rid dynasty, 10th century|<->|Simjurids
 Simla (India)|=|Shimla
 Simlife (Game)|=|SimLife
 Simple Network Management Protocol (Computer network protocol)|=|Simple Network Management Protocol
@@ -33248,6 +33289,7 @@ Skinner family|<->|Skinner (surname)
 Skipper family|<->|Skipper (surname)
 Skirt dancing|=|Skirt dance
 Skj&aacute;lfandi Bay (Iceland)|=|Skjálfandi
+Skmaqn--Port-la-Joye--Fort Amherst National Historic Site (P.E.I.)|=|Skmaqn–Port-la-Joye–Fort Amherst
 Skogs&oslash;y (Agder fylke, Norway)|=|Skogsøy
 Skoki Lodge (Alta.)|=|Skoki Ski Lodge
 Skokomish River (Wash.)|=|Skokomish River
@@ -33966,6 +34008,7 @@ Sparta (Extinct city)|<->|Sparta
 Sparta (Greece)|=|Sparta, Laconia
 Spartan (Transport plane)|=|Alenia C-27J Spartan
 Spathiflorae|<->|Arales
+Spatial analysis (Statistics)|<->|Spatial analysis
 Spatialism (Art)|=|Spatialism
 Speak Mandarin Campaign, Singapore, 1979-|=|Speak Mandarin Campaign
 Spear fishing|=|Spearfishing
@@ -34161,7 +34204,7 @@ St. Herman's Theological Seminary|=|Saint Herman Theological Seminary
 St. Louis (Ship)|=|MS St. Louis
 St. Louis Blues (Hockey team)|=|St. Louis Blues
 St. Louis Cardinals (Baseball team)|=|St. Louis Cardinals
-St. Louis Rams (Football team)|<->|History of the St. Louis Rams
+St. Louis Rams (Football team)|=|St. Louis Rams
 St. Paul Cathedral (Pittsburgh, Pa.)|=|Saint Paul Cathedral (Pittsburgh, Pennsylvania)
 St. Paul's Cathedral (Calcutta, India)|=|St. Paul's Cathedral, Kolkata
 St. Paul's Cathedral (London, England)|=|St Paul's Cathedral
@@ -34498,7 +34541,7 @@ Stuckism (Art movement)|=|Stuckism
 Studebaker automobile|->|Studebaker
 Studebaker Corporation|<->|Studebaker
 Student aid|<->|Student financial aid
-Student aid -- United States|<->|Student financial aid (United States)
+Student aid -- United States|<->|Student financial aid in the United States
 Student Business Analyst (Calculator)|<->|Texas Instruments Business Analyst
 Student government|<->|Students' union
 Student housing|->|Dormitory
@@ -34561,7 +34604,7 @@ Subsidies|=|Subsidy
 Subsistence farming|=|Subsistence agriculture
 Substance (Philosophy)|<->|Substance theory
 Substitution reactions|=|Substitution reaction
-Substrate integrated waveguides|=|Substrate integrated waveguide
+Substrate integrated waveguides|=|Substrate-integrated waveguide
 Subtext (Drama, novel, etc.)|<->|Subtext
 Subtitles (Motion pictures, television, etc.)|<->|Subtitles
 Suburbs|=|Suburb
@@ -36478,6 +36521,7 @@ Trans Europ Express (Express train)|<->|Trans Europ Express
 Transaction systems (Computer systems)|<->|Transaction processing
 Transantarctic Mountains (Antarctica)|=|Transantarctic Mountains
 Transatlantic flights|=|Transatlantic flight
+Transatlantic slave trade|=|Atlantic slave trade
 Transbaikalia (Russia)|<->|Transbaikal
 Transbaikalia Insurrection, Russia, 1866|=|Baikal Insurrection
 Transcendence of God|<->|Transcendence (religion)
@@ -36492,7 +36536,7 @@ Transfusion-free surgery|<->|Bloodless surgery
 Transgender men|<->|Trans man
 Transgender military personnel|<->|Transgender people and military service
 Transgender people|<->|Transgender
-Transgender people -- Legal status, laws, etc.|<->|Legal rights of trans people
+Transgender people -- Legal status, laws, etc.|<->|Legal status of transgender people
 Transgender women|<->|Trans woman
 Transgenic plants|<->|Genetically modified crops
 Transglobe Expedition (1979-1982)|=|Transglobe Expedition
@@ -36505,6 +36549,7 @@ Translating and interpreting|<->|Translation
 Translation planes|=|Translation plane
 Translators (Computer programs)|<->|Translator (computing)
 Translocation (Genetics)|<->|Chromosomal translocation
+Transmission mechanism (Monetary policy)|=|Monetary transmission mechanism
 Transmutation (Chemistry)|<->|Nuclear transmutation
 Transparencies|=|Transparency (projection)
 Transparency in government|<->|Open government
@@ -37919,6 +37964,7 @@ Vaterland (Steamship)|->|SS Leviathan
 Vatican Council (1st : 1869-1870 : Basilica di San Pietro in Vaticano)|=|First Vatican Council
 Vatican Council (2nd : 1962-1965 : Basilica di San Pietro in Vaticano)|=|Second Vatican Council
 Vatican Palace (Vatican City)|=|Apostolic Palace
+Vatukoula Gold Mine (Fiji)|=|Vatukoula mine
 Vaud (Switzerland)|=|Vaud
 Vaughan (Ont.)|=|Vaughan
 Vaults (Architecture)|=|Vault (architecture)
@@ -38262,6 +38308,7 @@ Vintage Crop (Race horse)|=|Vintage Crop
 Vintners|=|Winemaker
 Viola (Fictitious character : Shakespeare)|=|Viola (Twelfth Night)
 Viola da gamba|->|Viol
+Violence -- Religious aspects -- Buddhism|<->|Buddhism and violence
 Violence -- Religious aspects -- Christianity|<->|Christianity and violence
 Violence -- Religious aspects -- Islam|<->|Islam and violence
 Violent crimes|=|Violent crime
@@ -38361,6 +38408,7 @@ Volcanic eruptions|<->|Types of volcanic eruptions
 Volcano Islands (Japan)|=|Volcano Islands
 Volcanoes|=|Volcano
 Volcanoes -- Indonesia|<->|List of volcanoes in Indonesia
+Volcanoes -- Pakistan|<->|List of volcanoes in Pakistan
 Volcanoes Stadium (Keizer, Or.)|=|Volcanoes Stadium
 Volga River (Russia)|=|Volga
 Volgograd (Russia)|=|Volgograd
@@ -39159,6 +39207,7 @@ William B. Bankhead National Forest (Ala.)|=|William B. Bankhead National Forest
 William B. Umstead State Park (N.C.)|=|William B. Umstead State Park
 William "Bill" Dannelly Reservoir (Ala.)|=|William "Bill" Dannelly Reservoir
 William Crooks (Steam locomotive)|=|William Crooks (locomotive)
+William Floyd Estate (Brookhaven, N.Y.)|=|William Floyd House
 William H. Gray, III, 30th Street Station (Philadelphia, Pa.)|=|30th Street Station
 William H. Moore House (New York, N.Y.)|=|William H. Moore House
 William H. Natcher Bridge (Rockport, Ind., and Maceo, Ky.)|=|William H. Natcher Bridge
@@ -39688,7 +39737,7 @@ World War, 1939-1945 -- Canada|<->|Canada in World War II
 World War, 1939-1945 -- Casualties|=|World War II casualties
 World War, 1939-1945 -- Causes|=|Causes of World War II
 World War, 1939-1945 -- Cavalry operations|<->|Horses in World War II
-World War, 1939-1945 -- Chronology|<->|Timeline of World War II
+World War, 1939-1945 -- Chronology|<->|List of timelines of World War II
 World War, 1939-1945 -- Collaborationists|<->|Collaboration with the Axis powers
 World War, 1939-1945 -- Commando operations -- Great Britain|=|British Commando operations during the Second World War
 World War, 1939-1945 -- Concentration camps -- Croatia|<->|Concentration camps in the Independent State of Croatia
@@ -39811,6 +39860,7 @@ W&#x0332;S&Aacute;NE&Cacute; Indians|=|Saanich people
 Wschowa (Poland)|=|Wschowa
 Wu River (Guizhou Sheng and Sichuan Sheng, China)|=|Wu River (Yangtze tributary)
 Wu school of painting|<->|Wu School
+Wukang lu (Shanghai, China)|=|Wukang Road
 Wulik River (Alaska)|=|Wulik River
 W&uuml;lzburg (Germany : Castle)|=|Wülzburg
 Wunambal (Australian people)|=|Wunambal
@@ -40276,6 +40326,7 @@ Zero (The number)|<->|0
 Zero-base budgeting|=|Zero-based budgeting
 Zero energy buildings|=|Zero-energy building
 Zeus (Greek deity)|=|Zeus
+Zevely House (Winston-Salem, N.C.)|=|Zevely House
 Zgoda (Concentration camp)|=|Zgoda labour camp
 Zhanjiang Haiwan Daqiao (Zhanjiang Shi, China)|=|Zhanjiang Bay Bridge
 Zhanjiang Shi (China)|=|Zhanjiang
