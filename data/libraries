@@ -5623,6 +5623,14 @@ VID WESTKY
 LCODE WESTKY
 SCOPE default_scope
 
+ID OCLC-LEB
+NAME East Baton Rouge Parish Library
+LOCATION Baton Rouge and vicinity
+STATE LA
+BASEURL https://catalog.ebrpl.com
+CATTYPE iguana
+FILTERS NS
+
 ID OCLC-LMJ
 NAME Jefferson Parish Library
 LOCATION Jefferson Parish
@@ -5667,7 +5675,7 @@ ID OCLC-LNC
 NAME New Orleans Public Library
 LOCATION New Orleans
 STATE LA
-BASEURL http://catalog.nolalibrary.org/polaris
+BASEURL https://neworleans.polarislibrary.com
 CATTYPE polaris
 
 ID OCLC-LNW
@@ -5690,11 +5698,10 @@ ID OCLC-RQH
 NAME Tulane University
 LOCATION New Orleans
 STATE LA
-BASEURL http://tulprimo.hosted.exlibrisgroup.com
-CATTYPE primodl-scope
-VID tref
-LCODE TUL
-SCOPE books%2b
+BASEURL https://library.search.tulane.edu
+CATTYPE primo-ve
+VID 01TUL_INST:Tulane
+SCOPE MyInst_and_CI
 
 ID OCLC-WFPLA
 NAME West Feliciana Parish Library
