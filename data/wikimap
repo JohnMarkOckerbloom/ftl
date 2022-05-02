@@ -10,8 +10,8 @@
 #   are not included in this file.
 # Manual title and name-title correspondences have been moved to wikiworksmap.
 # See docs file for documentation
-# Last updated 2022-04-23
-# Did LCSH 2015-2021 update lists, 2022 monthly list 1 (updated wbf for 2)
+# Last updated 2022-05-02
+# Did LCSH 2015-2021 update lists, 2022 monthly list 1, 2 (A-H only)
 1 Pendleton Place House (New York, N.Y.)|=|One Pendleton Place
 1009 Fifth Avenue House (New York, N.Y.)|=|Benjamin N. Duke House
 1066 Country Walk (England)|=|1066 Country Walk
@@ -1415,6 +1415,7 @@ Angami (Indic people)|=|Angami Naga
 Angamos, Battle of, Chile, 1879|=|Battle of Angamos
 Angas language|=|Ngas language
 Angel (Fictitious character from Whedon)|=|Angel (Buffy the Vampire Slayer)
+Angel Island (Calif.)|=|Angel Island (California)
 Angel Stadium of Anaheim (Anaheim, Calif.)|=|Angel Stadium
 Angeles National Forest (Agency : U.S.)|->|Angeles National Forest
 Angeles National Forest (Calif.)|=|Angeles National Forest
@@ -1470,6 +1471,7 @@ Animal Man (Fictitious character)|=|Animal Man
 Animal phobias|<->|Zoophobia
 Animal populations|<->|Lists of organisms by population
 Animal radio tracking|<->|Animal migration tracking
+Animal rights -- Religious aspects -- Christianity|<->|Christianity and animal rights
 Animal rights activists|->|Animal rights
 Animal sounds|<->|List of animal sounds
 Animal traction|->|Working animal
@@ -1477,6 +1479,7 @@ Animals|=|Animal
 Animals -- Color|<->|Animal coloration
 Animals, Mythical|<->|Legendary creature
 Animals, Prosecution and punishment of|<->|Animal trial
+Animals -- War use|<->|Military animal
 Ankara (Turkey)|=|Ankara
 Ankara, Battle of, Ankara, Turkey, 1402|=|Battle of Ankara
 Ankara Kalesi (Ankara, Turkey)|=|Ankara Castle
@@ -4221,6 +4224,7 @@ Blaenau Ffestiniog (Wales)|=|Blaenau Ffestiniog
 Blagoevgrad (Bulgaria)|=|Blagoevgrad
 Blagoevgrad (Bulgaria : Oblast)|=|Blagoevgrad Province
 Blagoevgrad (Bulgaria : Obshtina)|=|Blagoevgrad Municipality
+Blagoveshchenski&#x012d; most (Saint Petersburg, Russia)|=|Annunciation Bridge
 Blair Mountain, Battle of, W. Va., 1921|=|Battle of Blair Mountain
 Blaise, Modesty (Fictitious character)|<->|Modesty Blaise
 Blake, Anita (Fictitious character)|=|Anita Blake
@@ -4733,6 +4737,7 @@ Bradshaw Trail (Calif. and Ariz.)|=|Bradshaw Trail
 Bradypus tridactylus|=|Pale-throated sloth
 Braga (Portugal)|=|Braga
 Braga (Portugal : District)|=|Braga District
+Bragg family|<->|Bragg (surname)
 Brahma (Hindu deity)|=|Brahma
 Brahmakumari|<->|Brahma Kumaris
 Br&amacr;hmani River (Odisha, India)|=|Brahmani River
@@ -5343,6 +5348,7 @@ Businesswomen|->|Businessperson
 Buskerud fylke (Norway)|=|Buskerud
 Buss Island (Legendary place)|=|Buss Island
 Bussaco, Battle of, Portugal, 1810|=|Battle of Bussaco
+Bussers (Food service employees)|=|Busser
 Buster Brown (Advertising character)|<->|Buster Brown
 Bustino (Race horse)|=|Bustino
 Bustleton (Philadelphia, Pa.)|=|Bustleton, Philadelphia
@@ -5998,6 +6004,7 @@ Carron, Loch (Scotland)|=|Loch Carron
 Carrots|<-|Daucus carota
 Carry On films|<->|Carry On (franchise)
 Carseland (Alta.)|=|Carseland
+Carson House (N.C.)|=|Carson House (Marion, North Carolina)
 Carson-Pegasus Provincial Park (Alta.)|=|Carson-Pegasus Provincial Park
 Carson Range (Calif. and Nev.)|=|Carson Range
 Carsulae (Extinct city)|=|Carsulae
@@ -6834,6 +6841,7 @@ Cheyenne (Attack helicopter)|=|Lockheed AH-56 Cheyenne
 Cheyenne Indians|=|Cheyenne
 Cheyenne Indians -- Wars, 1868-1869|<->|Northern Cheyenne Exodus
 Cheyenne Mountain (Colo.)|<->|Cheyenne Mountain
+Chhajjas|=|Chhajja
 Chhath (Hindu festival)|=|Chhath
 Chhatt&imacr;sgarh (India)|=|Chhattisgarh
 Chhatri Rani Hada (Agra, India)|=|Jaswant Ki Chhatri
@@ -7127,6 +7135,7 @@ Chippewa National Forest (Minn.)|=|Chippewa National Forest
 Chiprovt&#xfe20;s&#xfe21;i (Bulgaria) -- History -- Uprising, 1688|=|Chiprovtsi uprising
 Chipyong-ni, Battle of, Chip&#x02bb;y&#x014f;ng-ni, Korea, 1951|=|Battle of Chipyong-ni
 Chiquita, Mount (Colo.)|=|Mount Chiquita
+Chiquito Indians|=|Chiquitano
 Chiquito language|=|Chiquitano language
 Chir pine|=|Pinus roxburghii
 Chiricahua Indians|=|Chiricahua
@@ -8055,7 +8064,7 @@ Concertos (English horn)|<->|List of concertos for English horn
 Concertos (Flute)|=|Flute concerto
 Concertos (Harmonica)|=|Harmonica concerto
 Concertos (Harpsichord)|=|Harpsichord concerto
-Concertos (Marimba)|=|Marimba concerto
+Concertos (Marimba)|->|Marimba
 Concertos (Oboe)|=|Oboe concerto
 Concertos (Organ)|=|Organ concerto
 Concertos (Percussion)|=|Percussion concerto
@@ -8265,6 +8274,60 @@ Cookes Peak (N.M.)|<->|Cookes Range
 Cookie Monster (Fictitious character)|=|Cookie Monster
 Cookies (Computer science)|<-|HTTP cookie
 Cookies (Computer science)|<->|Magic cookie
+Cooking (Almonds)|<->|List of almond dishes
+Cooking (Apples)|<->|List of apple dishes
+Cooking (Avocado)|<->|List of avocado dishes
+Cooking (Bacon)|<->|List of bacon dishes
+Cooking (Bananas)|<->|List of banana dishes
+Cooking (Beef)|<->|List of beef dishes
+Cooking (Bread)|<->|List of bread dishes
+Cooking (Buckwheat)|<->|List of buckwheat dishes
+Cooking (Butter)|<->|List of butter dishes
+Cooking (Cabbage)|<->|List of cabbage dishes
+Cooking (Carrots)|<->|List of carrot dishes
+Cooking (Cassava)|<->|List of cassava dishes
+Cooking (Cheese)|<->|List of cheese dishes
+Cooking (Cherries)|<->|List of cherry dishes
+Cooking (Chicken)|<->|List of chicken dishes
+Cooking (Chickpeas)|<->|List of chickpea dishes
+Cooking (Clams)|<->|List of clam dishes
+Cooking (Coconut)|<->|List of coconut dishes
+Cooking (Coconut milk)|<->|List of dishes made using coconut milk
+Cooking (Corn)|<->|List of maize dishes
+Cooking (Crabs)|<->|List of crab dishes
+Cooking (Eggplant)|<->|List of eggplant dishes
+Cooking (Eggs)|<->|List of egg dishes
+Cooking (Fish)|<->|List of fish dishes
+Cooking (Fruit)|<->|List of fruit dishes
+Cooking (Garlic)|<->|List of garlic dishes
+Cooking (Goat meat)|<->|List of goat dishes
+Cooking (Grapes)|<->|List of grape dishes
+Cooking (Ham)|<->|List of ham dishes
+Cooking (Lamb and mutton)|<->|List of lamb dishes
+Cooking (Legumes)|<->|List of legume dishes
+Cooking (Lemons)|<->|List of lemon dishes and drinks
+Cooking (Meat)|<->|List of meat dishes
+Cooking (Melons)|<->|List of melon dishes
+Cooking (Onions)|<->|List of onion dishes
+Cooking (Pasta)|<->|List of pasta dishes
+Cooking (Peanuts)|<->|List of peanut dishes
+Cooking (Plums)|<->|List of plum dishes
+Cooking (Pork)|<->|List of pork dishes
+Cooking (Potatoes)|<->|List of potato dishes
+Cooking (Rice)|<->|List of rice dishes
+Cooking (Sausages)|<->|List of sausage dishes
+Cooking (Seafood)|<->|List of seafood dishes
+Cooking (Sesame)|<->|List of sesame seed dishes
+Cooking (Shrimp)|<->|List of shrimp dishes
+Cooking (Squash)|<->|List of squash and pumpkin dishes
+Cooking (Strawberries)|<->|List of strawberry dishes
+Cooking (Sweet potatoes)|<->|List of sweet potato dishes
+Cooking (Tofu)|<->|List of tofu dishes
+Cooking (Tomatoes)|<->|List of tomato dishes
+Cooking (Tuna)|<->|List of tuna dishes
+Cooking (Veal)|<->|List of veal dishes
+Cooking (Vegetables)|<->|List of vegetable dishes
+Cooking (Yogurt)|<->|List of yogurt-based dishes and beverages
 Cooking, Afghan|<->|Afghan cuisine
 Cooking, African|<->|African cuisine
 Cooking, Albanian|<->|Albanian cuisine
@@ -8793,6 +8856,7 @@ Coups d'&eacute;tat -- Greece|<->|List of Greek coups d'état
 Courcelles Massacre, Belgium, 1944|=|Courcelles massacre
 Courland Lagoon (Lithuania and Russia)|=|Curonian Lagoon
 Courland Spit (Lithuania and Russia)|=|Curonian Spit
+Court Hey Park (Knowsley, England)|=|Court Hey Park
 Court Street (Boston, Mass.)|=|Court Street (Boston)
 Court tennis|=|Real tennis
 Courtesans|=|Courtesan
@@ -9393,6 +9457,7 @@ Daman and Diu (India) -- History -- Siege, 1539|<->|Siege of Diu (1538)
 Damara (African people)|=|Damara people
 Damascus (Race horse)|=|Damascus (horse)
 Damascus (Syria)|=|Damascus
+Damascus Riots, Damascus, Syria, 1860|->|1860 civil conflict in Mount Lebanon and Damascus
 Damavand, Mount (Iran)|=|Mount Damavand
 Damayant&imacr; (Hindu mythological character)|=|Damayanti
 Damietta (Egypt)|=|Damietta
@@ -9427,6 +9492,7 @@ Danewerk (Schleswig-Holstein, Germany)|=|Danevirke
 Dangi (Indic people)|=|Dangi people
 Dani language (Papuan)|<->|Dani languages
 Daniel Boone Homestead Site (Birdsboro, Pa.)|=|Daniel Boone Homestead
+Daniel Boone Native Gardens (Boone, N.C.)|=|Daniel Boone Native Gardens
 Daniel J. Evans Wilderness (Wash.)|->|Olympic National Park
 Daniel Leroy House (New York, N.Y.)|=|Daniel LeRoy House
 Daniel, Mount (Wash.)|=|Mount Daniel
@@ -9529,6 +9595,7 @@ Daughters of Zelophehad (Biblical figures)|=|Daughters of Zelophehad
 Dauntless (Dive bomber)|=|Douglas SBD Dauntless
 Davenport, Lucas (Fictitious character)|->|John Sandford (novelist)
 David and Gladys Wright House (Phoenix, Ariz.)|=|David and Gladys Wright House
+David Davis Mansion (Bloomington, Illinois)|=|David Davis Mansion
 David N. Dinkins Manhattan Municipal Building (New York, N.Y.)|=|Manhattan Municipal Building
 David Thompson Highway (Alta.)|<->|Alberta Highway 11
 Davidson, Mount (Nev.)|=|Mount Davidson (Nevada)
@@ -10378,6 +10445,7 @@ Dogs|=|Dog
 Dogs -- Aging|=|Aging in dogs
 Dogs -- Clothing|<->|Dog fashion
 Dogs -- Food|<->|Dog food
+Dogs -- War use|=|Dogs in warfare
 Doig family|<->|Doig (surname)
 Doinel, Antoine (Fictitious character)|=|Antoine Doinel
 Doiran, Battle of, 1913|=|Battle of Doiran (1913)
@@ -10790,6 +10858,7 @@ Dwarfs (Folklore)|=|Dwarf (folklore)
 Dwarfs (Persons)|->|Dwarfism
 Dwellings|=|Dwelling
 Dwight D. Eisenhower Memorial (Washington, D.C.)|=|Dwight D. Eisenhower Memorial
+Dwight Hall (Yale University)|=|Dwight Hall at Yale
 Dyfi National Nature Reserve (Wales)|=|Dyfi National Nature Reserve
 Dyje River (Austria and Czech Republic)|=|Thaya
 Dylan (Computer program language)|=|Dylan (programming language)
@@ -11864,6 +11933,7 @@ Est&aacute;dio Municipal do Pacaembu (S&atilde;o Paulo, Brazil)|=|Pacaembu Stadi
 Estadio Nacional (San Jos&eacute;, Costa Rica : 2010- )|=|Estadio Nacional de Costa Rica (2011)
 Estadio Nacional (Santiago, Chile)|=|Estadio Nacional Julio Martínez Prádanos
 Estadio Nacional Jorg&eacute; "M&aacute;gico" Gonz&aacute;lez (San Salvador, El Salvador)|=|Estadio Jorge "Mágico" González
+Est&aacute;dio Nacional Man&eacute; Garrincha (Bras&iacute;lia, Distrito Federal, Brazil)|=|Estádio Nacional Mané Garrincha
 Est&aacute;dio Pl&aacute;cido Aderaldo Castelo (Fortaleza, Brazil)|=|Castelão (Ceará)
 Est&aacute;dio S&atilde;o Janu&aacute;rio (Rio de Janeiro, Brazil)|=|Estádio São Januário
 Estates (Law)|=|Estate (law)
@@ -12600,7 +12670,6 @@ First Avenue &amp; 7th St Entry (Minneapolis, Minn.)|<->|First Avenue (nightclub
 First Church of Christ, Scientist (Boston, Mass.)|=|The First Church of Christ, Scientist
 First Congregational Church (Detroit, Mich.)|=|First Congregational Church (Detroit, Michigan)
 First Coalition, War of the, 1792-1797|=|War of the First Coalition
-First contact of aboriginal peoples with Westerners|<->|First contact (anthropology)
 First fruits (Bible)|<->|First Fruits
 First fruits (Greek religion)|->|First Fruits
 First grade (Education)|=|First grade
@@ -12610,6 +12679,7 @@ First of June, Battle of the, 1794|=|Glorious First of June
 First person narrative|=|First-person narrative
 First philosophy|->|Metaphysics
 First responders|<->|Certified first responder
+First sale doctrine (Copyright)|<->|First-sale doctrine
 First State National Historical Park (Del. and Pa.)|=|First State National Historical Park
 Firth family|<->|Firth (surname)
 Fish cakes|=|Fishcake
@@ -13047,7 +13117,7 @@ Fort Hindman (Ark.)|->|Arkansas Post
 Fort Hood (Tex.)|=|Fort Hood
 Fort Hood Shooting, Fort Hood, Tex., 2009|=|2009 Fort Hood shooting
 Fort Huachuca (Ariz.)|=|Fort Huachuca
-Fort Jackson (Ala.)|<->|Fort Jackson (Alabama)
+Fort Jackson (Ala.)|->|Fort Toulouse and Fort Jackson
 Fort Jackson (La.) -- History -- Siege, 1862|->|Fort Jackson, Louisiana
 Fort King George (Ga.)|=|Fort King George
 Fort King George Historic Site (Ga.)|->|Fort King George
@@ -13109,7 +13179,7 @@ Fort Tabarsi, Battle of, B&amacr;bul, Iran, 1848-1849|=|Battle of Fort Tabarsi
 Fort Tejon Earthquake, Calif., 1857|=|1857 Fort Tejon earthquake
 Fort Ticonderoga (N.Y.) -- Capture, 1775|=|Capture of Fort Ticonderoga
 Fort Ticonderoga (N.Y.) -- Capture, 1777|=|Siege of Fort Ticonderoga (1777)
-Fort Toulouse Site (Ala.)|<->|Fort Toulouse
+Fort Toulouse Site (Ala.)|<->|Fort Toulouse and Fort Jackson
 Fort Trumbull (New London, Conn. : Fort)|<->|Fort Trumbull
 Fort Tuthill (Ariz.)|=|Fort Tuthill
 Fort Tuthill County Park (Ariz.)|->|Fort Tuthill
@@ -14132,6 +14202,8 @@ Giay (Asian people)|=|Giáy people
 Gibraltar -- History -- Siege, 1779-1783|=|Great Siege of Gibraltar
 Gibraltar Point National Nature Reserve (England)|<->|Gibraltar Point
 Gibraltar Rock (Wis.)|<->|Gibraltar Rock State Natural Area
+Gibraltar, Rock of (Gibraltar)|=|Rock of Gibraltar
+Gibraltar, Strait of|=|Strait of Gibraltar
 Gibson Desert (W.A.)|=|Gibson Desert
 Gibson paradox|=|Gibson's paradox
 Giddh&amacr; (Dance)|=|Giddha
@@ -14302,6 +14374,7 @@ Glyptocephalus cynoglossus|=|Witch (righteye flounder)
 GMC Duck (Military truck)|=|DUKW
 GML (Computer program language)|<->|IBM Generalized Markup Language
 Gnadenhutten Massacre, Gnadenhutten, Ohio, 1782|=|Gnadenhutten massacre
+Gnasher (Fictitious character)|=|Gnasher
 Gnat (Training plane)|=|Folland Gnat
 Gnathostomulida|=|Gnathostomulid
 Gneisenau (Battleship)|<->|German battleship Gneisenau
@@ -14833,6 +14906,7 @@ Great Northern Peninsula (N.L.)|=|Great Northern Peninsula
 Great Otway National Park (Vic.)|=|Great Otway National Park
 Great Palace of the Emperors (Istanbul, Turkey)|=|Great Palace of Constantinople
 Great Philadelphia Wagon Road|=|Great Wagon Road
+Great Pilgrimage, England, 1913|=|Great Pilgrimage
 Great powers|=|Great power
 Great Plague, London, England, 1664-1666|<->|Great Plague of London
 Great Pyramid (Egypt)|=|Great Pyramid of Giza
@@ -15001,7 +15075,7 @@ Groningen (Netherlands : Province)|=|Groningen (province)
 Grooming|<->|Personal grooming
 Groovy (Computer program language)|<->|Apache Groovy
 Groruddalen (Norway)|=|Grorud Valley
-Gros Ventre Indians (Montana)|=|Gros Ventre
+Gros Ventre Indians (Mont.)|=|Gros Ventre
 Groschen (Coin)|=|Groschen
 Grossbeeren, Battle of, Grossbeeren, Germany, 1813|=|Battle of Großbeeren
 Grosser Grimming (Austria)|<->|Grimming
@@ -15514,6 +15588,7 @@ Harquahala Mountains (Ariz.)|=|Harquahala Mountains
 Harrier (Dog breed)|=|Harrier (dog)
 Harrier (Jet fighter plane)|=|Harrier Jump Jet
 Harrier II (Jet attack plane)|=|McDonnell Douglas AV-8B Harrier II
+Harriet Tubman National Historical Park (N.Y.)|=|Harriet Tubman National Historical Park
 Harriet Tubman Underground Railroad National Historical Park (Md.)|=|Harriet Tubman Underground Railroad National Historical Park
 Harriman Alaska Expedition (1899)|=|Harriman Alaska expedition
 Harrington, Honor (Fictitious character)|<->|Honorverse
@@ -15658,6 +15733,7 @@ Hazardous substances|=|Dangerous goods
 Hazardous wastes|=|Hazardous waste
 Hazardous wastes -- United States|=|Hazardous waste in the United States
 Hazel gloves (Fungus)|=|Hypocreopsis rhododendri
+He Yuan (Yangzhou, Jiangsu Sheng, China)|=|He Garden
 Head-Smashed-In Buffalo Jump National Historic Site (Alta.)|<->|Head-Smashed-In Buffalo Jump
 Heads of state|=|Head of state
 Headwaters Forest Reserve (Calif.)|=|Headwaters Forest Reserve
@@ -15884,7 +15960,7 @@ Hermosillo (Mexico)|=|Hermosillo
 Hern&aacute;d River (Slovakia and Hungary)|=|Hornád
 Hernandez family|<->|Hernández
 Herne the Hunter (Legendary character)|=|Herne the Hunter
-Hero (Greek mythology)|<->|Hero and Leander
+Hero (Greek mythological character)|<->|Hero and Leander
 Hero Alliance (Fictitious characters)|=|Hero Alliance
 Herodian dynasty, 37 B.C.-ca. 100 A.D.|<->|Herodian dynasty
 Heroes Unlimited (Game)|=|Heroes Unlimited
@@ -16328,6 +16404,7 @@ Horn, Cape (Chile)|=|Cape Horn
 Horn players|<->|List of horn players
 Hornblower, Horatio (Fictitious character)|=|Horatio Hornblower
 Hornby Island (B.C. : Island)|=|Hornby Island
+Horne Creek Living Historical Farm (N.C.)|=|Horne Creek Living Historical Farm
 Hornet (Fighter plane)|<->|De Havilland Hornet
 Hornet (Jet fighter plane)|=|McDonnell Douglas F/A-18 Hornet
 Horns (Glacial landforms)|<->|Pyramidal peak
@@ -17488,7 +17565,7 @@ International Labour Organisation|->|International Labour Organization
 International Military Tribunal|->|Nuremberg trials
 International Paper Company Strike, Jay, Me., 1987-1988|<->|International Paper strike
 International Socialist Congress|->|Socialist International
-International Standard Book Numbers|=|International Standard Book Number
+International Standard Book Numbers|=|ISBN
 International Standard Serial Numbers|=|International Standard Serial Number
 International temperature scale|<->|International Temperature Scale of 1990
 International Theatre (New York, N.Y.)|=|Majestic Theatre (Columbus Circle)
@@ -20312,7 +20389,7 @@ Lavi (Jet fighter plane)|=|IAI Lavi
 Lavochkin La-5 (Fighter plane)|=|Lavochkin La-5
 Lavochkin La-7 (Fighter plane)|=|Lavochkin La-7
 Law -- Abbreviations|<->|List of legal abbreviations
-Law -- Argentina|<->|Argentine law
+Law -- Argentina|<->|Law of Argentina
 Law -- Asia|<->|Legal systems in Asia
 Law -- Australia|<->|Australian legal system
 Law -- Belgium|<->|Law of Belgium
@@ -20322,7 +20399,7 @@ Law -- Bulgaria|<->|Law of Bulgaria
 Law -- Canada|<->|Law of Canada
 Law -- Chile|<->|Law of Chile
 Law -- China|<->|Chinese law
-Law -- Cuba|<->|Cuban law
+Law -- Cuba|<->|Law of Cuba
 Law -- Dictionaries|<->|Law dictionary
 Law -- England|<->|English law
 Law -- Europe|<->|Law in Europe
@@ -33983,7 +34060,7 @@ Spanish American poetry|->|Latin American poetry
 Spanish-American War, 1898|=|Spanish–American War
 Spanish-American War, 1898 -- Campaigns|<->|List of battles of the Spanish–American War
 Spanish-American War, 1898 -- Campaigns -- Puerto Rico|=|Puerto Rico campaign
-Spanish-American War, 1898 -- Propaganda|=|Propaganda of the Spanish–American War
+Spanish-American War, 1898 -- Propaganda|<->|American propaganda of the Spanish–American War
 Spanish autonomous communities|=|Autonomous communities of Spain
 Spanish fir|=|Abies pinsapo
 Spanish language -- Grammar|=|Spanish grammar
@@ -38724,6 +38801,7 @@ Waste products|=|Waste
 Wastebaskets|<->|Waste container
 Watauga River (N.C. and Tenn.)|=|Watauga River
 Watch Tower Bible and Tract Society|->|Watch Tower Bible and Tract Society of Pennsylvania
+Watchdogs|<->|Guard dog
 Watchtower at Desert View (Ariz.)|=|Desert View Watchtower
 Watchung Mountains (N.J.)|=|Watchung Mountains
 Watchung Reservation (N.J.)|=|Watchung Reservation
@@ -39846,7 +39924,7 @@ Wrangell-Saint Elias National Park and Preserve (Alaska)|=|Wrangell–St. Elias 
 Wreckers (Vehicles)|<->|Tow truck
 Wright Brothers National Memorial (N.C.)|=|Wright Brothers National Memorial
 Wright Flyer (Airplane)|=|Wright Flyer
-Writers Guild of America Strike, Calif., 2007-2008|=|2007–2008 Writers Guild of America strike
+Writers Guild of America Strike, Calif., 2007-2008|=|2007–08 Writers Guild of America strike
 Writing centers|=|Writing center
 Writing-on-Stone Provincial Park (Alta.)|=|Writing-on-Stone Provincial Park
 Writs of assistance|=|Writ of assistance
