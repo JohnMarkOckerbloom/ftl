@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2022-03-29
-# Manual Sweep: pick up w UK letter E (and get back to Israel by end of 2022)
+# Last updated 2022-05-06
+# Manual Sweep: pick up w UK letter F (and get back to Israel by end of 2022)
 
 ID OLBP
 NAME The Online Books Page
@@ -2176,8 +2176,8 @@ ID OCLC-UKSUS
 NAME East Sussex Libraries
 LOCATION 25 libraries in East Sussex, England
 COUNTRY UK
-CATTYPE spydus
-BASEURL https://e-library.eastsussex.gov.uk
+CATTYPE spydus-config
+BASEURL https://eastsussex.spydus.co.uk/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?
 
 ID OCLC-EDJ
 NAME Edinburgh City Libraries
@@ -2185,13 +2185,15 @@ LOCATION Edinburgh, Scotland
 COUNTRY UK
 BASEURL https://yourlibrary.edinburgh.gov.uk/web/arena
 CATTYPE arenacode
+LCODE arena_urn%3Aarena
 
 ID OCLC-ESSEX
 NAME Essex Libraries
 LOCATION Essex County, England
-BASEURL https://librarycatalogue.essex.gov.uk
-CATTYPE iguana
 COUNTRY UK
+CATTYPE sirsient
+BASEURL https://tlc.ent.sirsidynix.net.uk
+LCODE en_GB/essex
 
 ID OCLC-UKFIF
 NAME Fife Library Catalogue
@@ -6213,6 +6215,14 @@ STATE MI
 BASEURL http://fplcatalog.polarislibrary.com/polaris
 CATTYPE polaris
 
+ID OCLC-EGC
+NAME Grace Christian University, Bultema Memorial Library
+LOCATION Grand Rapids
+STATE MI
+BASEURL https://library.gracechristian.edu
+CATTYPE destinylocal
+FILTERS SNK
+
 ID OCLC-EXR
 NAME Grand Rapids Public Library
 LOCATION Grand Rapids
@@ -6236,11 +6246,11 @@ BASEURL https://kzpl.ent.sirsi.net
 LCODE en_US/KPL
 
 ID OCLC-LKR
-NAME Lakenet: Lakeland Library Cooperative
+NAME Lakeland Library Cooperative
 LOCATION 70+ public libraries in West Michigan
 STATE MI
-BASEURL http://frodo.llcoop.org/iii/encore
-CATTYPE encore
+CATTYPE bibliocommons
+BASEURL https://llc.bibliocommons.com
 
 ID OCLC-EEL
 NAME Lansing Community College

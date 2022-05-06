@@ -173,12 +173,18 @@ SUBURL ${BASEURL}?action=find&index0=SUBJ&text0=${ARG}
 KEYURL ${BASEURL}?action=find&index0=AUTH&text0=${ARG:SNK}
 
 # Destiny sites hosted by Follett need a CONTEXT argument
-# non-hosted sites might use different syntax; see Springshare guide
 CATTYPE destinyhosted
 SUBURL ${BASEURL}/cataloging/servlet/handlebasicsearchform.do?searchType=subject&redisplay=false&includeLibrary=true&siteTypeID=-2&keywordText=${ARG}&site=${LCODE}&context=${CONTEXT}&redisplay=false
 AUTURL ${BASEURL}/cataloging/servlet/handlebasicsearchform.do?searchType=author&redisplay=false&includeLibrary=true&siteTypeID=-2&keywordText=${ARG}&site=${LCODE}&context=${CONTEXT}&redisplay=false
 TITURL ${BASEURL}/cataloging/servlet/handlebasicsearchform.do?searchType=title&redisplay=false&includeLibrary=true&siteTypeID=-2&keywordText=${ARG}&site=${LCODE}&context=${CONTEXT}&redisplay=false
 KEYURL ${BASEURL}/cataloging/servlet/handlebasicsearchform.do?searchType=keyword&redisplay=false&includeLibrary=true&siteTypeID=-2&keywordText=${ARG}&site=${LCODE}&context=${CONTEXT}&redisplay=false
+
+# Destiny sites hosted locally
+CATTYPE destinylocal
+SUBURL ${BASEURL}/cataloging/servlet/handlebasicsearchform.do?searchType=subject&redisplay=false&includeLibrary=true&siteTypeID=-2&keywordText=${ARG}&redisplay=false
+AUTURL ${BASEURL}/cataloging/servlet/handlebasicsearchform.do?searchType=author&redisplay=false&includeLibrary=true&siteTypeID=-2&keywordText=${ARG}&redisplay=false
+TITURL ${BASEURL}/cataloging/servlet/handlebasicsearchform.do?searchType=title&redisplay=false&includeLibrary=true&siteTypeID=-2&keywordText=${ARG}&redisplay=false
+KEYURL ${BASEURL}/cataloging/servlet/handlebasicsearchform.do?searchType=keyword&redisplay=false&includeLibrary=true&siteTypeID=-2&keywordText=${ARG}&redisplay=false
 
 # this doesn't seem to work on the ILS I tried it on
 CATTYPE dra
