@@ -4118,7 +4118,7 @@ ID OCLC-FMG
 NAME Alachua County Library District
 LOCATION Gainesville and vicinity
 STATE FL
-BASEURL http://catalog.aclib.us
+BASEURL https://catalog.aclib.us
 CATTYPE polaris
 
 ID OCLC-1DB
@@ -4140,8 +4140,9 @@ ID OCLC-FBR
 NAME Broward County Library
 LOCATION Fort Lauderdale and vicinity
 STATE FL
-CATTYPE ls2pac
-BASEURL http://vc.browardlibrary.org/
+BASEURL https://broward.ent.sirsi.net
+CATTYPE sirsient
+LCODE en_US/default
 
 ID OCLC-FNO
 NAME Collier County Public Library
@@ -4169,7 +4170,7 @@ ID OCLC-GF7
 NAME Flagler County Public Library System
 LOCATION Palm Coast and Bunnell
 STATE FL
-BASEURL http://polaris.flaglercounty.org/polaris
+BASEURL https://polaris.flaglercounty.org/polaris
 CATTYPE polaris
 
 ID OCLC-FCM
@@ -4212,13 +4213,13 @@ NAME Hillsborough County Public Library Cooperative
 LOCATION Tampa and vicinity
 STATE FL
 CATTYPE polaris
-BASEURL http://catalog.hcplc.org/polaris
+BASEURL https://catalog.hcplc.org/polaris
 
 ID OCLC-FN2
 NAME Indian River County Library System
 LOCATION Vero Beach and vicinity
 STATE FL
-BASEURL http://catalog.irclibrary.org/polaris
+BASEURL https://catalog.irclibrary.org/polaris
 CATTYPE polaris
 
 ID OCLC-JPL
@@ -4268,15 +4269,15 @@ ID OCLC-DZM
 NAME Miami-Dade Public Library System
 LOCATION Miami
 STATE FL
-BASEURL http://catalog.mdpls.org
+BASEURL https://catalog.mdpls.org
 CATTYPE polaris
 
 ID OCLC-N-DOLLAR-S
 NAME Nassau County Public Library System
 LOCATION Nassau County
 STATE FL
-BASEURL https://sirsi.nassau.lib.fl.us/uhtbin/cgisirsi.exe
-CATTYPE sirsi
+BASEURL https://nassaureads.polarislibrary.com
+CATTYPE polaris
 
 ID OCLC-ORL
 NAME Orange County Library System
@@ -4322,6 +4323,13 @@ LOCATION Saint Leo
 STATE FL
 BASEURL https://saintleo.on.worldcat.org/external-search?queryString
 CATTYPE worldcat-config
+
+ID OCLC-SRCLS
+NAME Santa Rosa County Library System
+LOCATION Milton and vicinity
+STATE FL
+BASEURL https://santarosa.polarislibrary.com
+CATTYPE polaris
 
 ID OCLC-FSP
 NAME Sarasota County Libraries
@@ -4429,7 +4437,7 @@ NAME West Florida Public Libraries
 LOCATION Pensacola and Escambia County
 STATE FL
 CATTYPE ls2pac
-BASEURL http://searchcatalog.mywfpl.com:8080/
+BASEURL https://searchcatalog.mywfpl.com/
 FILTERS S
 
 ID OCLC-ALQ
