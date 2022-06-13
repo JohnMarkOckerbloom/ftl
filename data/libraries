@@ -2701,8 +2701,8 @@ NAME Dothan Houston County Library System
 LOCATION Dothan and vicinity
 STATE AL
 CATTYPE sirsient
-LCODE en_US/default
-BASEURL https://hlml.ent.sirsi.net
+BASEURL https://dhcls.bywatersolutions.com
+CATTYPE koha
 
 ID OCLC-ALFLP
 NAME Florence-Lauderdale Public Library
@@ -2754,8 +2754,8 @@ ID OCLC-MVQ
 NAME Tuscaloosa Public Library
 LOCATION Tuscaloosa
 STATE AL
-BASEURL http://encore.tuscaloosa-library.org/iii/encore
-CATTYPE encore
+CATTYPE vega
+BASEURL https://tuscp.na.iiivega.com/
 
 ID OCLC-TUS
 NAME Tuskegee University Libraries
@@ -5841,9 +5841,9 @@ ID OCLC-FZL
 NAME Frederick County Public Libraries
 LOCATION Frederick and vicinity
 STATE MD
-CATTYPE sirsient
-LCODE en_US/default
-BASEURL https://fcpl.ent.sirsi.net
+CATTYPE ls2pac
+BASEURL https://catalog.fcpl.org/
+FILTERS S
 
 ID OCLC-HRF
 NAME Harford County Public Library
@@ -5857,7 +5857,7 @@ WCRID 11450
 NAME Howard County Library System
 LOCATION Howard County
 STATE MD
-BASEURL http://polaris.hclibrary.org/polaris
+BASEURL https://polaris.hclibrary.org/polaris
 CATTYPE polaris
 
 ID OCLC-JHE
@@ -5872,9 +5872,9 @@ ID OCLC-XLJ
 NAME Montgomery County Public Libraries
 LOCATION Montgomery County
 STATE MD
-CATTYPE sirsient
-BASEURL https://mdpl.ent.sirsi.net
-LCODE en_US/catalog
+CATTYPE vufindsi
+BASEURL https://mcpl.aspendiscovery.org/Union/Search
+FILTERS S
 
 # NAL's combined search seems to only work well for keywords
 ID OCLC-AGL
@@ -5884,11 +5884,18 @@ STATE MD
 BASEURL https://agricola.nal.usda.gov/vwebv/search
 KEYURL ${BASEURL}?searchArg=${ARG}&searchCode=GKEY^*&searchType=1
 
+ID OCLC-PGL
+NAME Prince George's Community College
+LOCATION Largo
+STATE MD
+CATTYPE voyager-vwebv
+BASEURL http://prncgeo-voyager.hosted.exlibrisgroup.com/vwebv/search
+
 ID OCLC-MDK
 NAME Prince George's County Memorial Library System
 LOCATION Prince George's County
 STATE MD
-BASEURL http://catalog.pgcmls.info/polaris
+BASEURL https://catalog.pgcmls.info/polaris
 CATTYPE polaris
 
 ID OCLC-UNA

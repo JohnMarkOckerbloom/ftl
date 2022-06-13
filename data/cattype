@@ -705,6 +705,18 @@ TITURL ${BASEURL}/Search/Home?library=${LCODE}&checkspelling=true&inst=all&lookf
 KEYURL ${BASEURL}/Search/Home?library=${LCODE}&checkspelling=true&inst=all&lookfor=${ARG}&type=all&submit=Find&showsearchonly=false&oft=false&use_dismax=1
 DEFAULT DOMAIN
 
+# Like vufindgeneral, but uses searchIndex instead of type for search type
+CATTYPE vufindsi
+TINDEX Title
+SINDEX Subject
+AINDEX Author
+KINDEX AllFields
+SUBURL ${BASEURL}?searchIndex=${SINDEX}&lookfor=${ARG}
+AUTURL ${BASEURL}?searchIndex=${AINDEX}&lookfor=${ARG}
+TITURL ${BASEURL}?searchIndex=${TINDEX}&lookfor=${ARG}
+KEYURL ${BASEURL}?searchIndex=${KINDEX}&lookfor=${ARG}
+DEFAULT DOMAIN
+
 # this appears to be used for millennium systems
 CATTYPE webpacpro
 SUBURL ${BASEURL}/search/d?SEARCH=${ARG}
