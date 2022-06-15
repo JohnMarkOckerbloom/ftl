@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2022-05-06
-# Manual Sweep: pick up w UK letter F (and get back to Israel by end of 2022)
+# Last updated 2022-06-15
+# Manual Sweep: pick up w UK letter N (and get back to Israel by end of 2022)
 
 ID OLBP
 NAME The Online Books Page
@@ -2207,9 +2207,9 @@ ID OCLC-UKGCL
 NAME Glasgow Libraries
 LOCATION Glasgow, Scotland
 COUNTRY UK
-BASEURL http://libcat.csglasgow.org/web/arena
+BASEURL https://libcat.csglasgow.org/web/arena
 CATTYPE arenacode
-LCODE 687834046
+LCODE arena_urn%3Aarena
 
 ID OCLC-GSM
 NAME Goldsmiths, University of London
@@ -2232,8 +2232,9 @@ ID OCLC-UKLMB
 NAME Lambeth Libraries
 LOCATION London Borough of Lambeth, England
 COUNTRY UK
-BASEURL https://libraries.lambeth.gov.uk/web/arena
+BASEURL https://libraries.lambeth.gov.uk
 CATTYPE arenacode
+LCODE arena_urn%3Aarena
 
 ID LEEDS
 NAME Leeds Libraries
@@ -2251,7 +2252,7 @@ COUNTRY UK
 BASEURL https://bookfinder.leicester.gov.uk/web/arena
 CATTYPE arenacode
 SUBURL ${BASEURL}/search?p_p_id=searchResult_WAR_arenaportlets&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_${LCODE}_search_query=${ARG}
-LCODE 687834046
+LCODE arena_urn%3Aarena
 
 ID UK-NIBAL
 NAME Libraries NI
@@ -2317,7 +2318,7 @@ NAME Luton Libraries
 LOCATION Luton
 COUNTRY UK
 CATTYPE sirsient
-BASEURL https://www.lutonlibraries.co.uk
+BASEURL https://llc.ent.sirsidynix.net.uk
 LCODE en_GB/luton
 
 ID OCLC-UKMAN
@@ -2325,7 +2326,7 @@ NAME Manchester city libraries
 LOCATION Manchester, England
 COUNTRY UK
 CATTYPE spydus
-BASEURL http://manchester.spydus.co.uk
+BASEURL https://manchester.spydus.co.uk
 
 ID OCLC-UKMPL
 NAME Medway Libraries
@@ -3785,8 +3786,6 @@ STATE CO
 CATTYPE vufindgeneral
 BASEURL https://summit.marmot.org/Union/Search
 
-# https://usafa.insigniails.com/Library/SearchResult?l=All&t=Keywords&k=horse&ck=&action=simple&p=1&ps=20&st=t02Titles&ifs=0&c=c&oldSearchType=Keywords
-# https://usafa.insigniails.com/Library/SearchResult?l_input=All%20Libraries&l=All&t_input=Subject&t=Subjects&k=horses&ck_input=horse&ck=&action=simple&p=1&ps=20&st=t02Titles&ifs=0&c=c&oldSearchType=Subjects
 ID OCLC-COH
 NAME United States Air Force Academy
 LOCATION Colorado Springs
@@ -6207,6 +6206,14 @@ LOCATION Macomb and Clinton Townships
 STATE MI
 BASEURL https://catalog.cmpl.org/polaris
 CATTYPE polaris
+
+ID OCLC-EDK
+NAME Delta College
+LOCATION University Center
+STATE MI
+CATTYPE sirsient
+LCODE en_US/del
+BASEURL https://vlc.ent.sirsi.net
 
 ID OCLC-EYP
 NAME Detroit Public Library
