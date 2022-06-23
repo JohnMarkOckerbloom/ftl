@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2022-06-15
-# Manual Sweep: pick up w UK letter N (and get back to Israel by end of 2022)
+# Last updated 2022-06-23
+# Manual Sweep: pick up w UK letter S (and get back to Israel by end of 2022)
 
 ID OLBP
 NAME The Online Books Page
@@ -1404,6 +1404,18 @@ BASEURL http://156.38.97.107:8001
 CATTYPE koha
 FILTERS SNK
 
+# Like the Estonian library we cover, this
+# is a zoned innopac, with prefix for specific library
+# and limited subject coverage.  May want to make this a new cattype
+ID OCLC-GRION
+NAME Ionian University
+LOCATION Corfu; English search terms may give limited results
+COUNTRY GR
+BASEURL https://opac.seab.gr/search~S9/X
+AUTURL ${BASEURL}?searchtype=a&searcharg=${ARG:N}
+TITURL ${BASEURL}?searchtype=t&searcharg=${ARG:N}
+KEYURL ${BASEURL}?searchtype=X&searcharg=${ARG:N}
+
 # Not found in Worldcat registry, but I don't know if I'm searching right
 # Subject coverage is limited; drop back to general keywoprd for it
 ID THESSALONIKI
@@ -2349,7 +2361,7 @@ NAME National Library of Wales
 LOCATION Aberystwyth, Wales
 COUNTRY UK
 CATTYPE primodl-scope
-BASEURL http://discover.library.wales
+BASEURL https://discover.library.wales
 VID 44WHELF_NLW_VU1
 LCODE 44WHELF_NLW
 SCOPE CSCOP_EVERYTHING
@@ -2358,16 +2370,16 @@ ID OCLC-UKCST
 NAME Newcastle Libraries
 LOCATION Newcastle upon Tyne, England
 COUNTRY UK
-BASEURL https://libraries.newcastle.gov.uk
-CATTYPE koha
+CATTYPE vufindgeneral
+BASEURL https://libraries.newcastle.gov.uk/Union/Search
+FILTERS SNK
 
-# Get "unexpected error", but search seems to work (unlike before)
 ID OCLC-EUN
 NAME Newcastle University
 LOCATION Newcastle upon Tyne, England
 COUNTRY UK
 CATTYPE primodl
-BASEURL http://libsearch.ncl.ac.uk
+BASEURL https://libsearch.ncl.ac.uk
 VID NCL_V1
 LCODE NCL_V1
 DEFAULT http://www.ncl.ac.uk/library/
@@ -2385,8 +2397,8 @@ ID OCLC-UKNFK
 NAME Norfolk Libraries
 LOCATION Norfolk County, England
 COUNTRY UK
-CATTYPE spydus
-BASEURL https://norfolk.spydus.co.uk
+CATTYPE spydus-config
+BASEURL https://norfolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?
 
 ID OCLC-NOTCL
 NAME Nottingham City and Nottinghamshire County Libraries
@@ -2400,11 +2412,11 @@ ID OCLC-UKPYM
 NAME Plymouth University
 LOCATION Plymouth, England
 COUNTRY UK
-VID PLY_VU1
+CATTYPE primodl-scope
+VID VU_PLY
 LCODE 44PLY
-CATTYPE primodl-loc
-LOC adaptor,scope:(44PLY),primo_central_multiple_fe
-BASEURL http://primo.plymouth.ac.uk
+SCOPE 44PLY_ALL
+BASEURL https://primo.plymouth.ac.uk
 
 ID OCLC-REABC
 NAME Reading Borough Libraries
@@ -6919,7 +6931,7 @@ ID OCLC-QBL
 NAME Middletown Township Public Library
 LOCATION Middletown
 STATE NJ
-BASEURL http://kohaopac.mtpl.org
+BASEURL https://kohaopac.mtpl.org
 CATTYPE koha
 
 ID OCLC-MYL
@@ -8190,7 +8202,7 @@ ID OCLC-BEA
 NAME Arcadia University, Landman Library
 LOCATION Glenside
 STATE PA
-BASEURL http://koha.arcadia.edu
+BASEURL https://koha.arcadia.edu
 CATTYPE koha
 
 ID OCLC-BFJ
@@ -8220,8 +8232,9 @@ ID OCLC-DPB
 NAME Bucks County Library District
 LOCATION Public libraries in Bucks County
 STATE PA
-BASEURL https://bcfl.sirsi.net/uhtbin/cgisirsi
-CATTYPE sirsi
+CATTYPE wise
+BASEURL https://bcfl.wise.oclc.org/wise-apps/catalog/0000/search/
+FILTERS SNK
 
 # Change Cranberry when you change this.
 ID OCLC-BCFLS
@@ -8314,8 +8327,8 @@ ID OCLC-DXU
 NAME Drexel University Libraries
 LOCATION Philadelphia
 STATE PA
-CATTYPE summon
-BASEURL https://drexel.summon.serialssolutions.com
+CATTYPE primo-justquery
+BASEURL https://drexel.primo.exlibrisgroup.com/discovery/search?vid=01DRXU_INST:01DRXU&tab=Everything&
 
 ID OCLC-EAS
 NAME Eastern University, Warner Memorial Library
@@ -9765,9 +9778,8 @@ ID OCLC-VTESS
 NAME Essex Free Library
 LOCATION Essex
 STATE VT
-BASEURL http://essexfreelibrary.kohavt.org
-CATTYPE koha-group
-LCODE VSQ7
+CATTYPE vufindgeneral
+BASEURL https://essexfreelibrary.org/Union/Search
 
 ID OCLC-F3L
 NAME Fletcher Free Library
