@@ -3095,24 +3095,19 @@ BASEURL https://csus-primo.hosted.exlibrisgroup.com
 VID 01CALS_USL
 LCODE 01CALS_USL
 
-# seems to be possibly custom catalog now
 ID OCLC-CIT
 NAME Caltech Library, California Institute of Technology
 LOCATION Pasadena
 STATE CA
-BASEURL https://www.library.caltech.edu/eds?catalog=eds
-SUBURL ${BASEURL}&searchfield=SU&query=${ARG}
-AUTURL ${BASEURL}&searchfield=AU&query=${ARG}
-TITURL ${BASEURL}&searchfield=TI&query=${ARG}
-KEYURL ${BASEURL}&query=${ARG}
+CATTYPE eds
+LCODE s8984125
 
 ID OCLC-CVL
 NAME Chula Vista Public Library
 LOCATION Chula Vista
 STATE CA
 CATTYPE encorekey
-BASEURL http://encore.chulavistaca.gov/iii/encore
-SKIN def
+BASEURL https://encore.chulavistaca.gov/iii/encore
 
 ID OCLC-CCS
 NAME City College of San Francisco
@@ -3200,6 +3195,13 @@ STATE CA
 CATTYPE eds
 LCODE s4656495
 
+ID OCLC-HAY
+NAME Hayward Library
+LOCATION Hayward
+STATE CA
+CATTYPE bibliocommons
+BASEURL https://hayward.bibliocommons.com
+
 ID OCLC-HN-SHARP
 WCRID 283
 NAME Holy Names University
@@ -3249,8 +3251,9 @@ ID OCLC-LOD
 NAME Lodi Public Library
 LOCATION Lodi
 STATE CA
-CATTYPE sirsi
-BASEURL http://lodicat.stockton.lib.ca.us/uhtbin/cgisirsi
+CATTYPE ls2pac-config
+CONFIG pac
+BASEURL https://lodi.tlcdelivers.com/
 
 ID OCLC-CLB
 NAME Long Beach Public Library
@@ -3301,7 +3304,7 @@ ID OCLC-JRI
 NAME Napa County Library
 LOCATION Napa County
 STATE CA
-BASEURL http://napa.polarislibrary.com/polaris
+BASEURL https://napa.polarislibrary.com/polaris
 CATTYPE polaris
 
 ID OCLC-CNB
@@ -3375,14 +3378,14 @@ ID OCLC-RRT
 NAME Riverside County Library System
 LOCATION Riverside County outside of Riverside
 STATE CA
-BASEURL http://inland.librarycatalog.info/polaris
+BASEURL https://inland.librarycatalog.info/polaris
 CATTYPE polaris
 
 ID OCLC-CRP
 NAME Riverside Public Library
 LOCATION Riverside
 STATE CA
-BASEURL http://read.riversideca.gov
+BASEURL https://read.riversideca.gov
 CATTYPE polaris
 
 ID OCLC-RSV
@@ -3424,8 +3427,8 @@ ID OCLC-SDG
 NAME San Diego County Library
 LOCATION San Diego County outside the city of San Diego
 STATE CA
-BASEURL http://encore.sdcl.org/iii/encore
-CATTYPE encore
+CATTYPE bibliocommons
+BASEURL https://sdcl.bibliocommons.com
 
 # they have their custom bento which is now keyword only
 ID OCLC-CDS
@@ -3439,8 +3442,8 @@ ID OCLC-SFR
 NAME San Francisco Public Library
 LOCATION San Francisco
 STATE CA
-BASEURL http://sflib1.sfpl.org
-CATTYPE webpacpro
+CATTYPE bibliocommons
+BASEURL https://sfpl.bibliocommons.com
 
 ID OCLC-SJP
 NAME San Jose Public Library
@@ -3472,9 +3475,9 @@ ID OCLC-SLO
 NAME San Luis Obispo County Libraries
 LOCATION San Luis Obispo and vicinity
 STATE CA
-CATTYPE polaris-context
-BASEURL https://www.blackgold.org/polaris
-CONTEXT 35.1033.0.0.1
+CATTYPE vufindgeneral
+BASEURL https://catalog.slolibrary.org/Union/Search
+FILTERS SNK
 
 ID OCLC-JRZ
 NAME Santa Clara City Library
