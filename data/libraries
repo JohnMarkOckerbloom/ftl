@@ -9039,18 +9039,26 @@ CATTYPE apollo
 BASEURL http://belton.biblionix.com/
 FILTERS S
 
+ID OCLC-T7B
+NAME Brazoria County Library System
+LOCATION Brazoria County
+STATE TX
+BASEURL https://mybcls.polarislibrary.com
+CATTYPE polaris
+
 ID OCLC-CCA
 NAME Corpus Christi Public Libraries
 LOCATION Corpus Christi
 STATE TX
-BASEURL http://elibrary.cclibraries.com
+BASEURL https://corpustx.bywatersolutions.com
 CATTYPE koha
+FILTERS SNK
 
 ID OCLC-IGA
 NAME Dallas Public Library
 LOCATION Dallas
 STATE TX
-BASEURL http://catalog.dallaslibrary.org/Polaris
+BASEURL https://catalog.dallaslibrary.org/Polaris
 CATTYPE polaris
 
 ID OCLC-QS3
@@ -9080,7 +9088,7 @@ ID OCLC-FTX
 NAME Fort Bend County Libraries
 LOCATION Richmond, Sugar Land, and vicinity
 STATE TX
-BASEURL http://catalog.fortbend.lib.tx.us/polaris
+BASEURL https://catalog.fortbend.lib.tx.us/polaris
 CATTYPE polaris
 
 ID OCLC-APH
@@ -9142,7 +9150,7 @@ ID OCLC-IJC
 NAME Irving Public Library
 LOCATION Irving
 STATE TX
-BASEURL http://irving.polarislibrary.com/polaris
+BASEURL https://irving.polarislibrary.com/polaris
 CATTYPE polaris
 
 ID OCLC-TXKAU
@@ -9173,7 +9181,7 @@ ID OCLC-LPZ
 NAME Lunar and Planetary Institute Library
 LOCATION Houston
 STATE TX
-BASEURL http://t95009.eos-intl.net/T95009/OPAC/Search/AdvancedSearch.aspx
+BASEURL https://t95009.eos-intl.net/T95009/OPAC/Search/AdvancedSearch.aspx
 CATTYPE eosweb
 
 ID OCLC-TME
@@ -9188,8 +9196,9 @@ ID OCLC-M-DOLLAR-K
 NAME McKinney Public Library System
 LOCATION McKinney
 STATE TX
-BASEURL https://ipac.mckinneytexas.org
-CATTYPE koha
+CATTYPE vufindgeneral
+BASEURL https://ipac.mckinneytexas.org/Union/Search
+FILTERS SNK
 
 ID OCLC-QS2
 NAME Montgomery County Memorial Library System
@@ -9269,8 +9278,9 @@ ID OCLC-QT4
 NAME Round Rock Public Library
 LOCATION Round Rock
 STATE TX
-BASEURL http://catalog.roundrocktexas.gov
-CATTYPE koha
+CATTYPE vufindgeneral
+BASEURL https://discovery.roundrocktexas.gov/Union/Search
+FILTERS SNK
 
 ID OCLC-SNC
 NAME San Antonio College
@@ -9329,8 +9339,8 @@ ID OCLC-TXA
 NAME Texas A&amp;M University Libraries
 LOCATION College Station
 STATE TX
-CATTYPE voyager-vwebv
-BASEURL https://libcat.tamu.edu/vwebv/search
+CATTYPE vufind
+BASEURL https://catalog.library.tamu.edu
 DEFAULT https://library.tamu.edu/
 
 ID OCLC-ICU
@@ -9351,8 +9361,8 @@ ID OCLC-TXT
 NAME Texas Southern University
 LOCATION Houston
 STATE TX
-CATTYPE voyager-vwebv
-BASEURL http://txsouthern-voyager.hosted.exlibrisgroup.com/vwebv/search
+BASEURL https://tsu.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-ILU
 NAME Texas Tech University Libraries
@@ -9418,7 +9428,7 @@ ID OCLC-TXW
 NAME Waco-McClennan County Library
 LOCATION Waco
 STATE TX
-BASEURL http://waco.polarislibrary.com/polaris
+BASEURL https://waco.polarislibrary.com/polaris
 CATTYPE polaris
 
 ID OCLC-WYC
