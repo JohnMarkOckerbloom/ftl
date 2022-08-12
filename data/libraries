@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2022-06-23
-# Manual Sweep: pick up w UK letter S (and get back to Israel by end of 2022)
+# Last updated 2022-08-12
+# Manual Sweep: pick up w UK letter U (and get back to Israel by end of 2022)
 
 ID OLBP
 NAME The Online Books Page
@@ -2301,11 +2301,10 @@ ID OCLC-L7L
 NAME The London Library
 LOCATION London, England
 COUNTRY UK
-VID 44LON_VU1
-LCODE 44LON
-CATTYPE primodl-loc
-BASEURL http://pmt-eu.hosted.exlibrisgroup.com
-LOC adaptor,scope:(44LON),primo_central_multiple_fe
+CATTYPE primo-ve
+BASEURL https://londonlibrary.primo.exlibrisgroup.com
+VID 44LON_INST:LondonLib
+SCOPE MyInst_and_CI
 
 ID OCLC-LND
 NAME London Metropolitan University
@@ -2453,16 +2452,18 @@ ID OCLC-UKSLA
 NAME Sheffield Libraries, Archives and Information
 LOCATION Sheffield and vicinity, England
 COUNTRY UK
-CATTYPE sirsi
-BASEURL https://library.sheffield.gov.uk/uhtbin/cgisirsi
+CATTYPE sirsient
+BASEURL https://library.sheffield.gov.uk
+LCODE en_GB/default
+FILTERS S
 
 # using ID for Shrewsbury and Telford Hospital NHS Trust
 ID OCLC-UKWDK
 NAME Shropshire Health Libraries
 LOCATION Hospital libraries in Shrewsbury, Telford, and Oswestry
-CATTYPE olib
-BASEURL https://wv-shelib.olib.oclc.org
 COUNTRY UK
+CATTYPE worldcat-config
+BASEURL https://shelib.on.worldcat.org/search?queryString
 
 ID OCLC-UKSOU
 NAME Southwark Libraries
@@ -2475,8 +2476,10 @@ ID OCLC-UK4ZN
 NAME Staffordshire University Library
 LOCATION Stoke on Trent and other campuses, England
 COUNTRY UK
-CATTYPE summon
-BASEURL http://staffs.summon.serialssolutions.com
+CATTYPE primo-ve
+BASEURL https://libstaff.primo.exlibrisgroup.com
+VID 44STA_INST:44STA_INST
+SCOPE MyInst_and_CI
 
 ID OCLC-UKSCS
 NAME Stirling Libraries
@@ -2499,11 +2502,10 @@ ID OCLC-SNU
 NAME Swansea University Libraries
 LOCATION Swansea, Wales
 COUNTRY UK
-CATTYPE primodl-loc
-BASEURL http://whel-primo.hosted.exlibrisgroup.com
-VID 44WHELF_SWA_VU1
-LCODE 44WHELF_SWA
-LOC local,scope:(44WHELF_SWA_ALMA_DS)
+CATTYPE primo-ve
+BASEURL https://ifind.swansea.ac.uk
+VID https://ifind.swansea.ac.uk/discovery/search?query=any,contains,horse&search_scope=MyInst_and_CI&vid=44WHELF_SWA:44WHELF_SWA_VU1&tab=Stacked&lang=en
+SCOPE MyInst_and_CI
 
 ID OCLC-LUN
 NAME University College London
@@ -7981,6 +7983,13 @@ LOCATION Tulsa
 STATE OK
 CATTYPE bibliocommons
 BASEURL https://tccl.bibliocommons.com
+
+ID OCLC-OKX
+NAME University of Central Oklahoma, Chambers Library
+LOCATION Edmond
+STATE OK
+CATTYPE primo-justquery
+BASEURL https://centralsearch.uco.edu/primo-explore/search?institution=01UCO&vid=01UCO&search_scope=EVERYTHING&
 
 ID OCLC-OKUBL
 NAME University of Oklahoma
