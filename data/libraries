@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2022-08-12
-# Manual Sweep: pick up w UK letter U (and get back to Israel by end of 2022)
+# Last updated 2022-08-16
+# Manual Sweep: pick up w Alabama (and get back to Israel by end of 2022)
 
 ID OLBP
 NAME The Online Books Page
@@ -2504,18 +2504,17 @@ LOCATION Swansea, Wales
 COUNTRY UK
 CATTYPE primo-ve
 BASEURL https://ifind.swansea.ac.uk
-VID https://ifind.swansea.ac.uk/discovery/search?query=any,contains,horse&search_scope=MyInst_and_CI&vid=44WHELF_SWA:44WHELF_SWA_VU1&tab=Stacked&lang=en
+VID 44WHELF_SWA:44WHELF_SWA_VU1
 SCOPE MyInst_and_CI
 
 ID OCLC-LUN
 NAME University College London
 LOCATION London, England
 COUNTRY UK
-CATTYPE primodl-scope
-BASEURL http://ucl-primo.hosted.exlibrisgroup.com
-VID UCL_VU1
-LCODE UCL
-SCOPE CSCOP_UCL
+CATTYPE primo-ve
+BASEURL https://ucl.primo.exlibrisgroup.com
+VID 44UCL_INST:UCL_VU2
+SCOPE MyInst_and_CI
 
 ID OCLC-SXB
 NAME University of Birmingham
@@ -2535,8 +2534,8 @@ ID OCLC-UKHLL
 NAME University of Hull
 LOCATION Hull, England
 COUNTRY UK
-BASEURL http://library.hull.ac.uk
-CATTYPE innopac
+CATTYPE summon
+BASEURL https://hull.summon.serialssolutions.com
 
 ID OCLC-ERL
 NAME University of Leeds
@@ -2579,10 +2578,10 @@ ID OCLC-UKGLA
 NAME University of South Wales
 LOCATION Pontypridd, Cardiff, and Newport
 COUNTRY UK
-CATTYPE primodl-scope
-BASEURL https://whel-primo.hosted.exlibrisgroup.com
-VID 44WHELF_USW_NUI1
-SCOPE CSCOP_EVERYTHING
+CATTYPE primo-ve
+BASEURL https://findit.southwales.ac.uk
+VID 44WHELF_USW:44WHELF_USW_NUI1
+SCOPE MyInst_and_CI
 
 # A very old, tetchy Primo; we'll just use a keyword search stuffeed into
 # a full URI until they update
@@ -2614,8 +2613,10 @@ ID OCLC-UKTBL
 NAME University of Wales Trinity Saint David
 LOCATION Carmarthen, Wales, and other campuses
 COUNTRY UK
-BASEURL https://tsd-c.worldcat.org/search
-CATTYPE worldcat
+CATTYPE primo-ve
+BASEURL https://librarysearch.uwtsd.ac.uk
+VID 44WHELF_UWTSD:44WHELF_UWTSD_VU1
+SCOPE MyInst_and_CI
 
 ID OCLC-U3W
 NAME University of Warwick
@@ -4483,15 +4484,15 @@ ID OCLC-AUU
 NAME Atlanta University Center
 LOCATION Clark Atlanta, Interdenominational Theological Center, Morehouse, Spelman
 STATE GA
-BASEURL https://auctr.worldcat.org/search
-CATTYPE worldcat
+BASEURL https://auctr.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-GBT
 NAME Brenau University
 LOCATION Gainesville
 STATE GA
-BASEURL https://brenau.worldcat.org/search
-CATTYPE worldcat
+BASEURL https://brenau.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-GCV
 NAME Chattahoochee Valley Libraries
@@ -4565,12 +4566,20 @@ LCODE 01GALI_GIT
 SCOPE Everything
 DEFAULT http://www.library.gatech.edu/
 
+ID OCLC-CCPLG
+NAME Greater Clarks Hill Regional Library System
+LOCATION Columbia, Burke, Lincoln, and Warren Counties
+STATE GA
+CATTYPE evergreen-dynamic
+BASEURL https://gapines.org/eg/opac
+LCODE 365
+
 ID OCLC-ZGX
 NAME Gwinnett County Public Library
 LOCATION Gwinnett County
 STATE GA
-BASEURL http://gwinnett.polarislibrary.com/polaris
-CATTYPE polaris
+BASEURL https://gwinnett.bibliocommons.com
+CATTYPE bibliocommons
 
 ID OCLC-GSC
 NAME Live Oak Public Libraries
