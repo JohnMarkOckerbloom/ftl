@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2022-08-16
-# Manual Sweep: pick up w Alabama (and get back to Israel by end of 2022)
+# Last updated 2022-08-30
+# Manual Sweep: pick up w Alaska (and get back to Israel by end of 2022)
 
 ID OLBP
 NAME The Online Books Page
@@ -2676,8 +2676,8 @@ ID OCLC-AMU
 NAME Alabama State University
 LOCATION Montgomery
 STATE AL
-BASEURL https://alasu.worldcat.org/search
-CATTYPE worldcat
+BASEURL https://alasu.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-AUBRN
 NAME Auburn Public Library
@@ -2690,12 +2690,8 @@ ID OCLC-AAA
 NAME Auburn University 
 LOCATION Auburn
 STATE AL
-CATTYPE vufindgeneral
-BASEURL http://catalog.lib.auburn.edu/vufind/Search/Home
-SINDEX subject
-AINDEX author
-TINDEX title
-KINDEX all
+CATTYPE eds
+LCODE s4594776
 
 ID OCLC-AL5CW
 NAME Baldwin County Library Cooperative
@@ -2791,8 +2787,10 @@ ID OCLC-ABC
 NAME University of Alabama at Birmingham Libraries
 LOCATION Birmingham
 STATE AL
-BASEURL https://uab.worldcat.org/search
-CATTYPE worldcat
+CATTYPE primo-ve
+BASEURL https://uab.primo.exlibrisgroup.com
+VID 01AL_UALB:UAB_Libraries
+SCOPE MyInst_and_CI
 
 ID OCLC-ALKLC
 NAME Consortium Library: University of Alaska Anchorage, Alaska Pacific University
@@ -9401,7 +9399,7 @@ NAME Tyler Public Library
 LOCATION Tyler
 STATE TX
 CATTYPE encore
-BASEURL http://typl-mt.iii.com/iii/encore
+BASEURL https://typl-mt.iii.com/iii/encore
 
 ID OCLC-UHC
 NAME UHCL Neumann Library
@@ -9430,8 +9428,10 @@ ID OCLC-IXA
 NAME University of Texas Libraries
 LOCATION Austin
 STATE TX
-CATTYPE summon
-BASEURL http://utexas.summon.serialssolutions.com
+CATTYPE primo-ve
+BASEURL https://search.lib.utexas.edu
+VID 01UTAU_INST:SEARCH
+SCOPE MyInst_and_CI
 
 ID OCLC-TMB
 NAME University of Texas Medical Branch
@@ -9441,6 +9441,15 @@ CATTYPE primo-ve
 BASEURL https://thslc-utxmed.primo.exlibrisgroup.com
 VID 01TEXASHEALTH_UTXMED:UTMB_INST
 SCOPE MyInst_and_CI
+
+ID OCLC-UTRGV
+NAME University of Texas Rio Grande Valley
+LOCATION Brownsville, Edinburg and Harlingen
+STATE TX
+CATTYPE primo-ve
+BASEURL https://utrgv.primo.exlibrisgroup.com
+VID 01UT_RGV_INST:UTRGV
+SCOPE Search_All
 
 ID OCLC-TXW
 NAME Waco-McClennan County Library
