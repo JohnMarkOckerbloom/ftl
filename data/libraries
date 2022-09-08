@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2022-08-30
-# Manual Sweep: pick up w Alaska (and get back to Israel by end of 2022)
+# Last updated 2022-09-08
+# Manual Sweep: pick up w Arkansas (and get back to Israel by end of 2022)
 
 ID OLBP
 NAME The Online Books Page
@@ -2812,7 +2812,7 @@ LOCATION Anchorage
 STATE AK
 CATTYPE sirsient
 LCODE apl
-BASEURL http://jlc-web.uaa.alaska.edu
+BASEURL https://jlc-web.uaa.alaska.edu
 
 ID OCLC-AKASL
 NAME Alaska State Library Catalog
@@ -2820,7 +2820,7 @@ LOCATION Various libraries in southeast and south-central Alaska
 STATE AK
 CATTYPE sirsient
 LCODE asl
-BASEURL http://jlc-web.uaa.alaska.edu
+BASEURL https://jlc-web.uaa.alaska.edu
 
 ID OCLC-X-SHARP-4
 WCRID 8064
@@ -2835,16 +2835,15 @@ ID OCLC-FCLIB
 NAME First City Libraries
 LOCATION Ketchikan
 STATE AK
-BASEURL http://206.223.192.123/uhtbin/cgisirsi.exe
+BASEURL http://fslib.city.ketchikan.ak.us/uhtbin/cgisirsi.exe
 CATTYPE sirsi
 
 ID OCLC-H8N
 NAME Haines Borough Public Library
 LOCATION Haines Borough
 STATE AK
-CATTYPE sirsient
-LCODE haines
-BASEURL http://jlc-web.uaa.alaska.edu
+CATTYPE koha
+BASEURL http://catalog.haineslibrary.org/
 
 ID OCLC-Q2L
 NAME Juneau Public Libraries
@@ -2852,7 +2851,7 @@ LOCATION Juneau
 STATE AK
 CATTYPE sirsient
 LCODE jpl
-BASEURL http://jlc-web.uaa.alaska.edu
+BASEURL https://jlc-web.uaa.alaska.edu
 
 ID OCLC-MSLIB
 NAME Matanuska-Susitna Library Network
@@ -2875,8 +2874,9 @@ WCRID 8119
 NAME Unalaska Public Library
 LOCATION Unalaska
 STATE AK
-BASEURL http://www.akuncl.us/uhtbin/cgisirsi.exe
-CATTYPE sirsi
+BASEURL https://akuncl.us
+CATTYPE sirsient
+LCODE en_US/home
 
 ID OCLC-AZS
 NAME Arizona State University Libraries
@@ -2892,22 +2892,24 @@ ID OCLC-O6C
 NAME Chandler Public Library
 LOCATION Chandler
 STATE AZ
-BASEURL http://chandler.polarislibrary.com/polaris
-CATTYPE polaris
+CATTYPE bibliocommons
+BASEURL https://chandler.bibliocommons.com
 
 ID OCLC-AZH
 NAME Flagstaff City-Coconino County Public Library
 LOCATION Flagstaff
 STATE AZ
-CATTYPE sirsient
-LCODE en_US/default
-BASEURL https://flag2.ent.sirsi.net
+#CATTYPE sirsient
+#LCODE en_US/default
+#BASEURL https://flag2.ent.sirsi.net
+CATTYPE vufindgeneral
+BASEURL https://catalog.flagstaffpubliclibrary.org/Union/Search
 
 ID OCLC-VTL
 NAME Glendale Public Library
 LOCATION Glendale
 STATE AZ
-BASEURL http://glendale.polarislibrary.com/polaris
+BASEURL https://glendale.polarislibrary.com/polaris
 CATTYPE polaris
 
 ID OCLC-MCT
@@ -2921,7 +2923,7 @@ ID OCLC-MSA
 NAME Mesa Public Library
 LOCATION Mesa
 STATE AZ
-BASEURL http://cat.mesalibrary.org/polaris
+BASEURL https://cat.mesalibrary.org/polaris
 CATTYPE polaris
 
 ID OCLC-AZN
@@ -2938,7 +2940,7 @@ ID OCLC-1PN
 NAME Phoenix Public Library
 LOCATION Phoenix
 STATE AZ
-BASEURL http://catalog.phoenixpubliclibrary.org
+BASEURL https://catalog.phoenixpubliclibrary.org
 CATTYPE polaris
 
 ID OCLC-AZT
@@ -2953,7 +2955,7 @@ ID OCLC-AZD
 NAME Scottsdale Public Library
 LOCATION Scottsdale
 STATE AZ
-BASEURL http://Scottsdale.polarislibrary.com/polaris
+BASEURL https://scottsdale.polarislibrary.com/polaris
 CATTYPE polaris
 
 ID OCLC-AZU
@@ -4496,14 +4498,14 @@ ID OCLC-GCV
 NAME Chattahoochee Valley Libraries
 LOCATION Columbus and vicinity
 STATE GA
-BASEURL http://chattahoochee.polarislibrary.com/polaris
+BASEURL https://chattahoochee.polarislibrary.com/polaris
 CATTYPE polaris
 
 ID OCLC-GDK
 NAME DeKalb County Public Library
 LOCATION DeKalb County
 STATE GA
-BASEURL http://dekalb.polarislibrary.com/polaris
+BASEURL https://dekalb.polarislibrary.com/polaris
 CATTYPE polaris
 
 ID OCLC-EMU
@@ -4904,7 +4906,7 @@ NAME Joliet Public Library, Main Library
 LOCATION Joliet
 STATE IL
 CATTYPE polaris-context
-BASEURL http://pinnacle.polarislibrary.com/polaris
+BASEURL https://pinnacle.polarislibrary.com/polaris
 CONTEXT 6.1033.0.0.6
 
 ID OCLC-ILM
@@ -5030,7 +5032,7 @@ NAME Plainfield Public Library District
 LOCATION Plainfield
 STATE IL
 CATTYPE polaris-context
-BASEURL http://pinnacle.polarislibrary.com/polaris
+BASEURL https://pinnacle.polarislibrary.com/polaris
 CONTEXT 11.1033.0.0.6
 
 ID OCLC-IBP
@@ -5115,7 +5117,7 @@ ID OCLC-IOS
 NAME Davenport Public Library
 LOCATION Davenport
 STATE IA
-BASEURL http://rivershare.polarislibrary.com
+BASEURL https://rivershare.polarislibrary.com
 CATTYPE polaris-context
 CONTEXT 14.1033.0.0.1
 
@@ -5849,7 +5851,7 @@ ID OCLC-ESRLS
 NAME Eastern Shore Regional Library System
 LOCATION Public libraries on Maryland's Eastern Shore
 STATE MD
-BASEURL http://eshore.polarislibrary.com/polaris
+BASEURL https://eshore.polarislibrary.com/polaris
 CATTYPE polaris
 
 ID OCLC-MDB
@@ -6258,7 +6260,7 @@ ID OCLC-EZH
 NAME Flint Public Library
 LOCATION Flint
 STATE MI
-BASEURL http://fplcatalog.polarislibrary.com/polaris
+BASEURL https://fplcatalog.polarislibrary.com/polaris
 CATTYPE polaris
 
 ID OCLC-EGC
@@ -6806,7 +6808,7 @@ NAME Carson City Library
 LOCATION Carson City
 STATE NV
 CATTYPE polaris-context
-BASEURL http://nvlibrarycoop.polarislibrary.com/polaris
+BASEURL https://nvlibrarycoop.polarislibrary.com/polaris
 CONTEXT 29.1033.0.0.1
 
 ID OCLC-NVA
@@ -6828,7 +6830,7 @@ NAME Nevada Library Cooperative
 LOCATION Public libraries outside Nevada's largest urban areas
 STATE NV
 CATTYPE polaris
-BASEURL http://nvlibrarycoop.polarislibrary.com/polaris
+BASEURL https://nvlibrarycoop.polarislibrary.com/polaris
 
 ID OLB-WASHOE
 NAME Washoe County Library System
@@ -6899,7 +6901,7 @@ NAME Rowan College at Burlington County
 LOCATION Mount Laurel and other campuses
 STATE NJ
 CATTYPE polaris-context
-BASEURL http://bcls.polarislibrary.com/polaris
+BASEURL https://bcls.polarislibrary.com/polaris
 CONTEXT 24.1033.0.0.6
 
 ID OCLC-BUL
@@ -6907,7 +6909,7 @@ NAME Burlington County Library System
 LOCATION Public libraries in Burlington County
 STATE NJ
 CATTYPE polaris
-BASEURL http://bcls.polarislibrary.com/polaris
+BASEURL https://bcls.polarislibrary.com/polaris
 
 ID OCLC-NCL
 NAME CamCat
@@ -7010,8 +7012,10 @@ ID OCLC-NJG
 NAME Rowan University
 LOCATION Glassboro
 STATE NJ
-CATTYPE summon
-BASEURL http://rowan.summon.serialssolutions.com
+CATTYPE primo-ve
+BASEURL https://primo.rowan.edu
+VID 01ROWU_INST:ROWAN
+SCOPE MyInst_and_CI
 
 ID OCLC-NJR
 NAME Rutgers University Libraries
@@ -8461,7 +8465,7 @@ ID OCLC-MNL
 NAME MCLINC
 LOCATION Montgomery County public libraries
 STATE PA
-BASEURL http://mclinc.polarislibrary.com/polaris
+BASEURL https://mclinc.polarislibrary.com/polaris
 CATTYPE polaris
 
 ID OCLC-CMZ
@@ -8846,7 +8850,7 @@ ID OCLC-TCH
 NAME Chattanooga Public Library
 LOCATION Chattanooga
 STATE TN
-BASEURL http://chattanooga.polarislibrary.com/polaris
+BASEURL https://chattanooga.polarislibrary.com/polaris
 CATTYPE polaris
 
 ID OCLC-CMCPL
@@ -9119,7 +9123,7 @@ ID OCLC-IFA
 NAME Fort Worth Library
 LOCATION Fort Worth
 STATE TX
-BASEURL http://fwmlc.polarislibrary.com/polaris
+BASEURL https://fwmlc.polarislibrary.com/polaris
 CATTYPE polaris
 
 ID OCLC-TXGPM
@@ -9393,6 +9397,13 @@ LOCATION Denton, Dallas, and Houston campuses
 STATE TX
 CATTYPE primo-justquery
 BASEURL https://primo-tc-na01.hosted.exlibrisgroup.com/primo-explore/search?institution=TXWU&search_scope=Everything&vid=TWU-A&
+
+ID OCLC-TNY
+NAME Trinity University, Coates Library
+LOCATION San Antonio
+STATE TX
+BASEURL https://mill.trinity.edu
+CATTYPE innopac
 
 ID OCLC-QT7
 NAME Tyler Public Library
@@ -9825,8 +9836,9 @@ ID OCLC-F3L
 NAME Fletcher Free Library
 LOCATION Burlington
 STATE VT
-BASEURL http://ffl.polarislibrary.com
-CATTYPE polaris
+CATTYPE vufindgeneral
+BASEURL https://ffl.kohavt.org/Union/Search
+FILTERS SNK
 
 ID OCLC-MDY
 NAME Middlebury College
