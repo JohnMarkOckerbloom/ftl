@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2022-09-08
-# Manual Sweep: pick up w Arkansas (and get back to Israel by end of 2022)
+# Last updated 2022-09-15
+# Manual Sweep: pick up w California (and get back to Israel by end of 2022)
 
 ID OLBP
 NAME The Online Books Page
@@ -1464,8 +1464,6 @@ ID OCLC-T9E
 NAME Institute of Technology Tallaght
 LOCATION Dublin; local access only
 COUNTRY IE
-#BASEURL http://ittdublin.summon.serialssolutions.com
-#CATTYPE summon
 CATTYPE eds
 LCODE s3369085
 AUTHTYPE ip,uid
@@ -2899,9 +2897,6 @@ ID OCLC-AZH
 NAME Flagstaff City-Coconino County Public Library
 LOCATION Flagstaff
 STATE AZ
-#CATTYPE sirsient
-#LCODE en_US/default
-#BASEURL https://flag2.ent.sirsi.net
 CATTYPE vufindgeneral
 BASEURL https://catalog.flagstaffpubliclibrary.org/Union/Search
 
@@ -2973,43 +2968,48 @@ NAME Bentonville Public Library
 LOCATION Bentonville
 STATE AR
 CATTYPE ls2pac
-BASEURL http://library.bentonvillear.com:8080/
+BASEURL http://bpl.tlcdelivers.com/
 FILTERS S
 
 ID OCLC-8AK
 NAME Central Arkansas Library System
 LOCATION Little Rock; Pulaski and Perry counties
 STATE AR
-CATTYPE bibliocommons
-BASEURL https://cals.bibliocommons.com
+CATTYPE vega
+BASEURL https://carks.na.iiivega.com/
 
 ID OCLC-FAYTV
 NAME Fayetteville Public Library
 LOCATION Fayetteville
 STATE AR
-BASEURL http://catalog.faylib.org/polaris
-CATTYPE polaris
+CATTYPE wise
+BASEURL https://faylib.wise.oclc.org/wise-apps/catalog/8000/search/
+FILTERS SNK
 
 ID OCLC-FSM
 NAME Fort Smith Public Library
 LOCATION Fort Smith
 STATE AR
-BASEURL http://catalog.fortsmithlibrary.org/polaris
+BASEURL https://catalog.fortsmithlibrary.org/polaris
 CATTYPE polaris
 
 ID OCLC-AFU
 NAME University of Arkansas
 LOCATION Fayetteville
 STATE AR
-BASEURL http://library.uark.edu
-CATTYPE innopac
+CATTYPE primo-ve
+BASEURL https://onesearch.uark.edu
+VID 01UARK_INST:01UARK
+SCOPE MyInst_and_CI
 
 ID OCLC-AKU
 NAME University of Arkansas at Little Rock
 LOCATION Little Rock
 STATE AR
-LCODE s4877054
-CATTYPE eds
+CATTYPE primo-ve
+BASEURL https://ualr.primo.exlibrisgroup.com
+VID 01UOALR_INST:UOALR
+SCOPE MyInst_and_CI
 
 ID OCLC-1JQ
 NAME Alameda County Library
@@ -5246,8 +5246,8 @@ ID OCLC-IIB
 NAME Butler University
 LOCATION Indianapolis
 STATE IN
-BASEURL https://butler.worldcat.org/search
-CATTYPE worldcat
+BASEURL https://butler.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-IDU
 NAME DePauw University
@@ -5294,6 +5294,13 @@ NAME Indianapolis Public Library
 LOCATION Indianapolis
 STATE IN
 KEYURL https://www.indypl.org/search?q=${ARG}
+
+ID OCLC-IMR
+NAME Monroe County Public Library
+LOCATION Bloomington and Elletsville
+STATE IN
+BASEURL https://mcpl.monroe.lib.in.us
+CATTYPE polaris
 
 ID OCLC-IPL
 NAME Purdue University Libraries
