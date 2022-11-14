@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2022-09-15
-# Manual Sweep: pick up w California (and get back to Israel by end of 2022)
+# Last updated 2022-11-14
+# Manual Sweep: pick up w H in California (& get back to Israel by end of 2022)
 
 ID OLBP
 NAME The Online Books Page
@@ -104,6 +104,15 @@ BASEURL https://cclc.swft.ent.sirsidynix.net.au
 # LOCATION 7 sport-related libraries across Australia
 # BASEURL http://ausport.hosting.libero.com.au/libero/WebOpac.cls
 # COUNTRY AU
+
+ID OCLC-AUCTU
+NAME Curtin University
+LOCATION Perth, Western Australia
+COUNTRY AU
+CATTYPE primo-ve
+BASEURL https://catalogue.curtin.edu.au
+VID 61CUR_INST:CUR_ALMA
+SCOPE MyInst_and_CI
 
 ID AU-NCSU:A
 NAME Charles Sturt University
@@ -1635,6 +1644,14 @@ COUNTRY NG
 BASEURL https://libcat.aun.edu.ng
 CATTYPE koha
 
+ID OCLC-NRNLN
+NAME National Library of Nigeria
+LOCATION Abuja
+COUNTRY NG
+BASEURL http://opac.nln.gov.ng
+CATTYPE koha
+FILTERS SNK
+
 # catalog not responding 4 Jan 2022
 # (but still linked from library homepage, so might be local access only)
 ID OCLC-NRUNN
@@ -3031,7 +3048,7 @@ NAME Benecia Public Library
 LOCATION Benecia
 STATE CA
 CATTYPE ls2pac-configamp
-CONFIG benecia
+CONFIG BENECIA
 BASEURL https://ls2pac.splashlibraries.org/
 
 ID OCLC-JQF
@@ -3053,8 +3070,8 @@ ID OCLC-CCT
 NAME California Lutheran University
 LOCATION Thousand Oaks
 STATE CA
-BASEURL https://callutheran.worldcat.org/search
-CATTYPE worldcat
+BASEURL https://callutheran.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-CPS
 NAME California Polytechnic State University
@@ -3140,8 +3157,9 @@ ID OCLC-JQ0
 NAME County of Los Angeles Public Library
 LOCATION Most of Los Angeles County outside the city of Los Angeles
 STATE CA
-CATTYPE sirsi
-BASEURL https://catalog.colapl.org/uhtbin/cgisirsi
+CATTYPE sirsient
+LCODE en_US/default
+BASEURL https://catalog.lacountylibrary.org
 
 ID OCLC-CCJ
 NAME Cypress College
@@ -3195,8 +3213,10 @@ ID OCLC-CGW
 NAME Golden West College
 LOCATION Huntington Beach
 STATE CA
-CATTYPE eds
-LCODE s4656495
+CATTYPE primo-ve
+BASEURL https://caccl-golden.primo.exlibrisgroup.com
+VID 01CACCL_GOLDEN:GOLDEN
+SCOPE GENCOL
 
 ID OCLC-HAY
 NAME Hayward Library
@@ -8186,11 +8206,10 @@ ID OCLC-ORU
 NAME University of Oregon
 LOCATION Eugene
 STATE OR
-BASEURL https://alliance-primo.hosted.exlibrisgroup.com
-CATTYPE primodl-scope
-VID UO
-LCODE UO
-SCOPE everything
+BASEURL https://alliance-uoregon.primo.exlibrisgroup.com
+CATTYPE primo-ve
+VID 01ALLIANCE_UO:UO
+SCOPE Everything
 
 ID OCLC-OUP
 NAME University of Portland
