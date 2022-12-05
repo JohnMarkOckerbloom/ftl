@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2022-11-14
-# Manual Sweep: pick up w H in California (& get back to Israel by end of 2022)
+# Last updated 2022-12-05
+# Manual Sweep: pick up w Colorado (& get back to Israel by end of 2022)
 
 ID OLBP
 NAME The Online Books Page
@@ -2422,6 +2422,15 @@ CATTYPE sirsient
 BASEURL http://emlib.ent.sirsidynix.net.uk
 LCODE en_GB/nottcity
 
+ID OCLC-HS0
+NAME Open University
+LOCATION primarily online, based at Milton Keynes, England
+COUNTRY UK
+CATTYPE primo-ve
+BASEURL https://library-search.open.ac.uk
+VID 44OPN_INST:VU1
+SCOPE MyInst_and_CI
+
 ID OCLC-UKPYM
 NAME Plymouth University
 LOCATION Plymouth, England
@@ -3423,14 +3432,17 @@ NAME Sacramento Public Library
 LOCATION Sacramento and vicinity
 STATE CA
 CATTYPE vufindgeneral
+KINDEX Keyword
 BASEURL https://catalog.saclibrary.org/Union/Search
 
 ID OCLC-GH0
 NAME Saint Mary's College of California
 LOCATION Moraga
 STATE CA
-BASEURL https://albert.stmarys-ca.edu
-CATTYPE webpacpro
+CATTYPE primo-ve
+BASEURL https://library.search.stmarys-ca.edu
+VID 01STMARYSCA_INST:BASELINE
+SCOPE MyInst_and_CI
 
 ID OCLC-SPU
 NAME Salinas Public Library
@@ -3703,15 +3715,15 @@ ID OCLC-UOP
 NAME University of the Pacific
 LOCATION Stockton, Sacramento, and San Francisco
 STATE CA
-CATTYPE encore
-BASEURL https://pacificat.pacific.edu/iii/encorestockton
+CATTYPE webpacpro
+BASEURL http://pacificatclassic.pacific.edu
 
+# USC now has a search-everything mode
 ID OCLC-CSL
 NAME USC: University of Southern California
 LOCATION Los Angeles
 STATE CA
-CATTYPE summon
-BASEURL http://usc.summon.serialssolutions.com
+KEYURL https://libraries.usc.edu/search/all?query=${ARG}
 
 ID OCLC-CWC
 NAME Whittier College
