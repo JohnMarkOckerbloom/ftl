@@ -4,8 +4,9 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2022-12-05
-# Manual Sweep: pick up w Colorado (& get back to Israel by end of 2022)
+# Last updated 2023-01-08
+# Manual Sweep: pick up w UC Boulder (& do another complete sweep by end of 2023)
+#  (may need to reverse engineer persistent links for new version of EDS)
 
 ID OLBP
 NAME The Online Books Page
@@ -1037,6 +1038,13 @@ PROVINCE ON
 CATTYPE evergreen-dynamic
 BASEURL http://libcat.mohawkcollege.ca/eg/opac
 LCODE 1
+
+ID OCLC-CANOS
+NAME NOSM University Health Sciences Library
+LOCATION Thunder Bay and Sudbury
+PROVINCE ON
+BASEURL https://www.nosm.ca/library/search
+KEYURL ${BASEURL}?library-search=${ARG:SNK}
 
 ID OCLC-CNCAD
 NAME OCAD University, DH Hoover Library
@@ -3761,13 +3769,15 @@ LOCATION Littleton
 STATE CO
 CATTYPE vufindgeneral
 BASEURL https://bemis.marmot.org/Union/Search
+KINDEX Keyword
 
 ID OCLC-CO3
 NAME Boulder Public Library
 LOCATION Boulder
 STATE CO
 CATTYPE vufindgeneral
-BASEURL https://boulder.flatironslibrary.org/Union/Search
+BASEURL https://boulder.marmot.org/Union/Search
+KINDEX Keyword
 
 ID PROSPECTOR
 NAME Colorado Alliance of Research Libraries: Prospector
@@ -3811,7 +3821,8 @@ NAME Longmont Public Library
 LOCATION Longmont
 STATE CO
 CATTYPE vufindgeneral
-BASEURL https://longmont.flatironslibrary.org/Union/Search
+BASEURL https://longmont.marmot.org/Union/Search
+KINDEX Keyword
 
 ID OCLC-CQU
 NAME Pikes Peak Library District
@@ -3835,6 +3846,7 @@ LOCATION Frisco, Silverthorne, and Breckenridge
 STATE CO
 CATTYPE vufindgeneral
 BASEURL https://summit.marmot.org/Union/Search
+KINDEX Keyword
 
 ID OCLC-COH
 NAME United States Air Force Academy
