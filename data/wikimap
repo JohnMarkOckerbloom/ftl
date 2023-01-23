@@ -10,8 +10,8 @@
 #   are not included in this file.
 # Manual title and name-title correspondences have been moved to wikiworksmap.
 # See docs file for documentation
-# Last updated 2022-12-23
-# Did LCSH 2015-2021 update lists, 2022 monthly lists 1-7
+# Last updated 2023-01-23
+# Did LCSH 2015-2021 update lists, 2022 monthly lists 1-7, 8 (A only)
 1 Pendleton Place House (New York, N.Y.)|=|One Pendleton Place
 1009 Fifth Avenue House (New York, N.Y.)|=|Benjamin N. Duke House
 1066 Country Walk (England)|=|1066 Country Walk
@@ -70,6 +70,7 @@
 320 State Street House (New York, N.Y.)|->|State Street Houses
 322 State Street House (New York, N.Y.)|->|State Street Houses
 324 State Street House (New York, N.Y.)|->|State Street Houses
+359 Broadway Building (New York, N.Y.)|=|359 Broadway
 360-degree feedback (Rating of employees)|<->|360-degree feedback
 361 Broadway Building (New York, N.Y.)|=|361 Broadway
 364 Van Duzer Street House (New York, N.Y.)|<->|364 and 390 Van Duzer Street
@@ -926,6 +927,7 @@ Albinos and albinism|<->|Albinism
 Albion Mountains (Idaho and Utah)|=|Albion Mountains
 &Aring;lborg (Denmark)|=|Aalborg
 Albuera, Battle of, Albuera, Spain, 1811|=|Battle of Albuera
+Albula River (Switzerland)|=|Albula (river)
 Alcal&aacute; de Henares (Spain)|=|Alcalá de Henares
 Alcatraz Island (Calif.)|=|Alcatraz Island
 Alcatraz Island (Calif.) -- History -- Indian occupation, 1969-1971|=|Occupation of Alcatraz
@@ -1024,6 +1026,7 @@ Algonquian Indians|=|Algonquian peoples
 Algonquin Indians|=|Algonquin people
 Algorithms|=|Algorithm
 Alhambra (Granada, Spain)|=|Alhambra
+Alhambra Apartments (New York, N.Y.)|=|Alhambra Apartments
 Ali Baba (Legendary character)|->|Ali Baba and the Forty Thieves
 &#x02bb;&Amacr;l&imacr; Q&amacr;p&umacr; (I&#x1e63;fah&amacr;n, Iran)|=|Ali Qapu
 Alicante (Spain)|=|Alicante
@@ -1234,7 +1237,7 @@ Amelia Jane (Fictitious character)|=|Amelia Jane
 Amer Fort (Jaipur, India)|=|Amber Fort
 America|<->|Americas
 America -- Discovery and exploration -- Norse|<->|Norse colonization of North America
-America -- Discovery and exploration -- Pre-Columbian|<->|Pre-Columbian transoceanic contact theories
+America -- Discovery and exploration -- Pre-Columbian|<->|Pre-Columbian trans-oceanic contact theories
 American Airlines Flight 11 Hijacking Incident, 2001|<->|American Airlines Flight 11
 American Airlines Flight 77 Hijacking Incident, 2001|<->|American Airlines Flight 77
 American beaver|=|North American beaver
@@ -1437,9 +1440,10 @@ Angelina Ballerina (Fictitious character)|=|Angelina Ballerina
 Angelo (Fictitious character : Shakespeare)|=|Angelo (Measure for Measure)
 Angels|=|Angel
 Angels (Investors)|=|Angel investor
-Angels -- Christianity|<->|Christian angelology
+Angels -- Christianity|=|Angels in Christianity
 Angels -- Islam|=|Angels in Islam
 Angels -- Judaism|=|Angels in Judaism
+Angier family|<->|Angier
 Angiosperms|=|Flowering plant
 Angkola dialect|=|Angkola language
 Angkor (Extinct city)|<->|Angkor
@@ -1477,6 +1481,7 @@ Angry Birds (Game)|<-|Angry Birds (video game)
 Angry Birds: Star Wars (Game)|<->|Angry Birds Star Wars
 Anguilla australis|=|Short-finned eel
 Anguilla japonica|=|Japanese eel
+Angulo family|<->|Angulo
 Ani (Extinct city)|=|Ani
 Aniakchak National Monument and Preserve (Alaska)|=|Aniakchak National Monument and Preserve
 Animal behavior|<->|Ethology
@@ -1500,6 +1505,7 @@ Animals -- War use|<->|Military animal
 Ankara (Turkey)|=|Ankara
 Ankara, Battle of, Ankara, Turkey, 1402|=|Battle of Ankara
 Ankara Kalesi (Ankara, Turkey)|=|Ankara Castle
+Anker family|<->|Anker (name)
 Ankle -- Fractures|=|Ankle fracture
 Anklebone|<->|Talus bone
 Ankogel (Austria)|=|Ankogel
@@ -1754,7 +1760,7 @@ Apples|=|Apple
 Applesauce|=|Apple sauce
 AppleScript (Computer program language)|=|AppleScript
 Appleton Museum of Art (Ocala, Fla.)|=|Appleton Museum of Art
-Application logging (Computer science)|<->|Logging (software)
+Application logging (Computer science)|<->|Logging (computing)
 Application program interfaces (Computer software)|=|API
 Applied sociology|<->|Public sociology
 Applied theater|<->|Applied Drama
@@ -2447,7 +2453,7 @@ Athens, Battle of, Athens, Greece, 1944-1945|=|Dekemvriana
 Athens, Battle of, Athens, Mo., 1861|=|Battle of Athens (1861)
 Athletes|=|Athlete
 Athos (Greece)|=|Mount Athos
-Athtar (Semitic deity)|<->|Attar (god)
+Athtar (Semitic deity)|<->|ʿAṯtar
 Ati language (Philippines)|=|Ati language
 Atibaia River (S&atilde;o Paulo, Brazil)|=|Atibaia River
 Atka Iceport (Antarctica)|=|Atka Iceport
@@ -2619,7 +2625,7 @@ Authoritarianism (Personality trait)|<->|Authoritarian personality
 Authority files (Information retrieval)|<->|Authority control
 Authors|=|Author
 Authors (Game)|=|Authors (card game)
-Authors, Urdu|<->|List of Urdu-language writers
+Authors, Urdu|<->|List of Urdu authors
 Authorship|->|Author
 Authorship -- Collaboration|<->|Collaborative writing
 Authorship -- Style manuals|=|Style guide
@@ -6295,6 +6301,7 @@ Catholic Church -- Liturgy|=|Catholic liturgy
 Catholic League, 1609-1648|<->|Catholic League (German)
 Catholic sexual minorities|<->|List of LGBT Catholics
 Catholic schools|=|Catholic school
+Catholic theological seminaries|<->|List of Catholic seminaries
 Catholic traditionalist movement|<->|Traditionalist Catholicism
 Catholic universities and colleges|<->|Catholic higher education
 Catholicoi and catholicate (Armenian Church)|<->|Catholicos of All Armenians
@@ -6670,7 +6677,6 @@ Channel Islands National Park (Calif.)|=|Channel Islands National Park
 Channel Tunnel (Coquelles, France, and Folkestone, England)|=|Channel Tunnel
 Channeling (Spiritualism)|->|Mediumship
 Channels (Hydraulic engineering)|<->|Channel (geography)
-Chanson de Roland|=|The Song of Roland
 Chansons de geste|=|Chanson de geste
 Chantel (Nepalese people)|=|Chhantyal
 Chantel language|=|Chantyal language
@@ -7085,7 +7091,7 @@ China -- History -- Long March, 1934-1935|=|Long March
 China -- History -- May Fourth movement, 1919|=|May Fourth Movement
 China -- History -- May Thirtieth movement, 1925|=|May Thirtieth Movement
 China -- History, Military|=|Military history of China
-China -- History -- Min kingdom, 909-945|<->|Min Kingdom
+China -- History -- Min kingdom, 909-945|<->|Min (Ten Kingdoms)
 China -- History -- Ming dynasty, 1368-1644|<->|Ming dynasty
 China -- History -- Movement to Protect the Constitution, 1917-1923|<->|Constitutional Protection Movement
 China -- History, Naval|=|Naval history of China
@@ -8152,7 +8158,7 @@ Concertos (Bassoon)|=|Bassoon concerto
 Concertos (Cello)|=|Cello concerto
 Concertos (Clarinet)|=|Clarinet concerto
 Concertos (Double bass)|=|Double bass concerto
-Concertos (English horn)|<->|List of concertos for English horn
+Concertos (English horn)|<->|List of concertos for cor anglais
 Concertos (Flute)|=|Flute concerto
 Concertos (Harmonica)|=|Harmonica concerto
 Concertos (Harpsichord)|=|Harpsichord concerto
@@ -9612,7 +9618,7 @@ Dams -- Texas|<->|List of dams and reservoirs in Texas
 Dams -- Turkey|<->|List of dams and reservoirs in Turkey
 Dams -- Utah|<->|List of dams and reservoirs in Utah
 Dams -- Vermont|<->|List of dams and reservoirs in Vermont
-Dams -- Washington (State)|<->|List of dams and reservoirs in Washington
+Dams -- Washington (State)|<->|List of dams and reservoirs in Washington (state)
 Dams -- West Virginia|<->|List of dams and reservoirs in West Virginia
 Dams -- Wisconsin|<->|List of dams and reservoirs in Wisconsin
 Dams -- Wyoming|<->|List of dams and reservoirs in Wyoming
@@ -9710,7 +9716,6 @@ Dasher automobile|<->|Volkswagen Passat (B1)
 Dassault Falcon (Jet transport)|=|Dassault Falcon
 Dastg&amacr;hs|=|Dastgah
 Data centers|<->|Data center
-Data centers|<-|Data library
 Data compression (Computer science)|->|Data compression
 Data compression (Telecommunication)|<->|Data compression
 Data dictionaries|=|Data dictionary
@@ -11558,7 +11563,7 @@ Electromagnetic fields|=|Electromagnetic field
 Electromagnetic reverberation chambers|=|Electromagnetic reverberation chamber
 Electromagnetic theory|->|Maxwell's equations
 Electromagnetic waves|=|Electromagnetic radiation
-Electromagnetic waves -- Polarization|<->|Polarization (waves)
+Electromagnetic waves -- Polarization|<->|Polarization (physics)
 Electronic book readers|=|E-reader
 Electronic books|=|Ebook
 Electronic commerce|=|E-commerce
@@ -14439,7 +14444,7 @@ Ginga (Bomber)|=|Yokosuka P1Y
 Gingerbread men|=|Gingerbread man
 Gingivitis, Necrotizing ulcerative|<->|Acute necrotizing ulcerative gingivitis
 Ginsberg family|<->|Günzburg (surname)
-Gippsland (Vic.)|=|Gippsland
+Gippsland (Vic.)|=|Gippsland (region)
 Giralda (Seville, Spain)|=|Giralda
 Giralda Farms (Madison, N.J.)|=|Giralda Farms
 Girir&amacr;ja (India)|=|Govardhan Hill
@@ -16779,7 +16784,7 @@ Hsinchu City (Taiwan)|=|Hsinchu
 Hsinchu County (Taiwan)|=|Hsinchu County
 Hsu family|<->|Xu (surname)
 HTC One (Smartphone)|<->|HTC One series
-HTLV (Viruses)|=|Human T-lymphotropic virus
+HTLV (Viruses)|<->|Primate T-lymphotropic virus
 HTLV-I (Virus)|=|Human T-lymphotropic virus 1
 HTLV-II (Virus)|=|Human T-lymphotropic virus 2
 HTML (Document markup language)|=|HTML
@@ -17974,7 +17979,7 @@ Iranun (Philippine people)|<->|Iranun people
 Iraq -- Foreign relations|<->|Foreign relations of Iraq
 Iraq -- History -- Civil War, 1991|<->|1991 Iraqi uprisings
 Iraq -- History -- Kurdish Uprising, 1991|->|1991 Iraqi uprisings
-Iraq -- History -- Hashemite Kingdom, 1921-1958|<->|Hashemite Iraq
+Iraq -- History -- Hashemite Kingdom, 1921-1958|<->|Kingdom of Iraq
 Iraq -- History -- Revolt, 1920|=|Iraqi Revolt
 Iraq -- History -- Revolution, 1958|<->|14 July Revolution
 Iraq -- History -- Revolution, 1963|<->|Ramadan Revolution
@@ -19330,7 +19335,6 @@ Katab language|<->|Tyap language
 Katahdin, Mount (Me.)|=|Mount Katahdin
 Katana DA20 (Training plane)|<->|Diamond DA20 Katana
 Katanga (Congo)|=|Katanga Province
-Katarism|=|Katarismo
 Katharina (Mollusks)|=|Katharina (chiton)
 Katla Volcano (Iceland)|=|Katla (volcano)
 Katmai, Mount (Alaska)|=|Mount Katmai
@@ -19625,7 +19629,7 @@ Kinetic theory of gases|=|Kinetic theory
 Kinetograph|->|Kinetoscope
 Kinetophone|->|Kinetoscope
 King, Martin Luther, Jr., 1929-1968 -- Assassination|=|Assassination of Martin Luther King Jr.
-King, Martin Luther, Jr., 1929-1968 -- Monuments|<->|Memorials to Martin Luther King Jr.
+King, Martin Luther, Jr., 1929-1968 -- Monuments|<->|List of memorials to Martin Luther King Jr.
 King Arthur Class (Steam locomotives)|<->|LSWR N15 class
 King Class (Steam locomotives)|<->|GWR 6000 Class
 King County Courthouse (Seattle, Wash.)|=|King County Courthouse
@@ -21472,7 +21476,7 @@ Longshoremen's Strike, 1971-1972|<->|ILWU 1971 strike
 Longshoremen's Strike, San Francisco, Calif., 1934|<->|1934 West Coast waterfront strike
 Longstocking, Pippi|=|Pippi Longstocking
 Longstyle thistle|=|Cirsium longistylum
-Longthorpe (England)|=|Longthorpe, Peterborough
+Longthorpe (England)|=|Longthorpe
 Longthorpe Tower (Longthorpe, England)|=|Longthorpe Tower
 Longueuil (Qu&eacute;bec)|=|Longueuil
 Loo (Game)|=|Lanterloo
@@ -21829,7 +21833,7 @@ Ma'di (Ugandan and South Sudanese people)|=|Madi people
 Ma'di language (Uganda and South Sudan)|=|Ma'di language
 Ma'ya language (Indonesia)|=|Ma'ya language
 Maanyan (Bornean people)|=|Ma'anyan people
-Maanyan language|=|Ma'anyan language
+Maanyan language|=|Maʼanyan language
 Maasai (African people)|=|Maasai people
 Maat (Egyptian deity)|<->|Maat
 Maba (African people)|=|Maba people
@@ -25852,7 +25856,7 @@ Nonbank financial institutions|=|Non-bank financial institution
 Noncitizen criminals|<->|Immigration and crime
 Noncitizen detention centers|<->|Immigration detention
 Noncitizens|=|Alien (law)
-Noncitizens -- Suffrage|=|Right of foreigners to vote
+Noncitizens -- Suffrage|=|Non-citizen suffrage
 Nonequilibrium thermodynamics|=|Non-equilibrium thermodynamics
 Nonfiction novel|=|Non-fiction novel
 Nonionizing radiation|=|Non-ionizing radiation
@@ -26070,7 +26074,7 @@ NS32000 series (Microprocessors)|<->|NS32000
 Nsenga (African people)|=|Nsenga people
 NSFNET (Computer network)|<->|National Science Foundation Network
 Nso (African people)|=|Nso people
-Ntlakyapamuk Indians|=|Nlaka'pamux
+Ntlakyapamuk Indians|=|Nlakaʼpamux
 Ntlakyapamuk language|<->|Thompson language
 Ntondozi (Eswatini)|=|Ntondozi
 Nu (Chinese people)|=|Nu people
@@ -32872,7 +32876,7 @@ Sea the Stars (Race horse)|=|Sea the Stars
 Sea Venom (Jet fighter plane)|=|De Havilland Sea Venom
 Sea Vixen (Jet fighter plane)|=|De Havilland Sea Vixen
 Sea World of Ohio (Aurora, Ohio)|=|SeaWorld Ohio
-Seaford Head Nature Reserve (England)|=|Seaford Head Nature Reserve
+Seaford Head Nature Reserve (England)|<->|Seaford Head
 Seagrasses|=|Seagrass
 Seahenge Site (England)|<->|Seahenge
 Seal Island Historic District (Alaska)|=|Seal Island Historic District
@@ -34525,7 +34529,7 @@ Space microbiology|=|Astro microbiology
 Space oblique Mercator projection (Cartography)|=|Space-oblique Mercator projection
 Space photography|->|Astrophotography
 Space plasmas|<->|Astrophysical plasma
-Space probes|=|Space probe
+Space probes|<->|Uncrewed spacecraft
 Space sciences|=|Outline of space science
 Space ships|->|Spacecraft
 Space shuttle toilets|<->|Space toilet
@@ -37935,7 +37939,7 @@ Uncles|=|Uncle
 Unconformities (Geology)|=|Unconformity
 Under-the-table employment|=|Unreported employment
 Underclay|<->|Seatearth
-Undercover operations|=|Undercover operation
+Undercover operations|<->|Covert operation
 Underground newspapers|->|Underground press
 Underground nuclear explosions|<->|Underground nuclear weapons testing
 Underground press publications|<->|Underground press
@@ -37944,7 +37948,6 @@ Underwater childbirth|=|Water birth
 Underwater exploration|->|Oceanography
 Underwater tunnels|=|Underwater tunnel
 Underwater welding and cutting|<->|Hyperbaric welding
-Underwear|=|Undergarment
 Undine (Tale)|<->|Undine
 Undoer of Knots, Our Lady|<->|Mary, Untier of Knots
 Unemployed|->|Unemployment
@@ -38888,7 +38891,7 @@ Vietnam Demilitarized Zone (Vietnam)|=|Vietnamese Demilitarized Zone
 Vietnam Moratorium, 1969|=|Moratorium to End the War in Vietnam
 Vietnam (Republic)|=|South Vietnam
 Vietnam (Republic) -- History -- Coup d'&eacute;tat, 1960|=|1960 South Vietnamese coup attempt
-Vietnam (Republic) -- History -- Coup d'&eacute;tat, 1963|=|1963 South Vietnamese coup
+Vietnam (Republic) -- History -- Coup d'&eacute;tat, 1963|=|1963 South Vietnamese coup d'état
 Vietnam Veterans Memorial (Angel Fire, N.M.)|=|Vietnam Veterans Memorial (New Mexico)
 Vietnam Veterans Memorial (Washington, D.C.)|=|Vietnam Veterans Memorial
 Vietnam War, 1961-1975|=|Vietnam War
@@ -40403,15 +40406,15 @@ World War, 1939-1945 -- Campaigns -- France -- Normandy|->|Operation Overlord
 World War, 1939-1945 -- Campaigns -- Gibraltar|<->|Military history of Gibraltar during World War II
 World War, 1939-1945 -- Campaigns -- Indian Ocean|<->|Indian Ocean in World War II
 World War, 1939-1945 -- Campaigns -- Iran|<->|Anglo-Soviet invasion of Iran
-World War, 1939-1945 -- Campaigns -- Iraq|<->|Allied invasion of Iraq
+World War, 1939-1945 -- Campaigns -- Iraq|<->|Anglo-Iraqi War
 World War, 1939-1945 -- Campaigns -- Italy|<->|Italian campaign (World War II)
 World War, 1939-1945 -- Campaigns -- Italy -- Sicily|<->|Allied invasion of Sicily
 World War, 1939-1945 -- Campaigns -- Japan|<->|Japan campaign
 World War, 1939-1945 -- Campaigns -- Lapland|<->|Lapland War
 World War, 1939-1945 -- Campaigns -- Marshall Islands|<->|Gilbert and Marshall Islands campaign
-World War, 1939-1945 -- Campaigns -- Mediterranean Region|<->|Mediterranean and Middle East theatre of World War II
+World War, 1939-1945 -- Campaigns -- Mediterranean Region|->|Mediterranean and Middle East theatre of World War II
 World War, 1939-1945 -- Campaigns -- Mediterranean Sea|<->|Battle of the Mediterranean
-World War, 1939-1945 -- Campaigns -- Middle East|<->|Middle East Theatre of World War II
+World War, 1939-1945 -- Campaigns -- Middle East|<->|Mediterranean and Middle East theatre of World War II
 World War, 1939-1945 -- Campaigns -- New Guinea|=|New Guinea campaign
 World War, 1939-1945 -- Campaigns -- North America|<->|American Theater (World War II)
 World War, 1939-1945 -- Campaigns -- Oceania|<->|South West Pacific theatre of World War II
@@ -40620,7 +40623,7 @@ Xenicus gilviventris|=|New Zealand rock wren
 Xenobiotics|=|Xenobiotic
 Xenogears (Game)|=|Xenogears
 Xenografts|=|Xenotransplantation
-Xenomorphs (Fictitious characters)|<->|Alien (creature in Alien franchise)
+Xenomorphs (Fictitious characters)|=|Xenomorph
 Xenon -- Isotopes|=|Isotopes of xenon
 XForms (Document markup language)|=|XForms
 Xhosa (African people)|=|Xhosa people
