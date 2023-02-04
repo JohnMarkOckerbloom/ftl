@@ -10,8 +10,8 @@
 #   are not included in this file.
 # Manual title and name-title correspondences have been moved to wikiworksmap.
 # See docs file for documentation
-# Last updated 2023-01-23
-# Did LCSH 2015-2021 update lists, 2022 monthly lists 1-7, 8 (A only)
+# Last updated 2023-02-03
+# Did LCSH 2015-2021 update lists, 2022 monthly lists 1-7, 8 (A-B only)
 1 Pendleton Place House (New York, N.Y.)|=|One Pendleton Place
 1009 Fifth Avenue House (New York, N.Y.)|=|Benjamin N. Duke House
 1066 Country Walk (England)|=|1066 Country Walk
@@ -2682,7 +2682,7 @@ Automobiles -- History|=|History of the automobile
 Automobiles -- Motors -- Exhaust gas -- Measurement|<->|Exhaust gas analyzer
 Automobiles -- Seat belts|=|Seat belt
 Automobiles -- Seat belts -- Law and legislation|=|Seat belt legislation
-Automobiles -- Transmission devices|<->|Propulsion transmission
+Automobiles -- Transmission devices|<->|Transmission (mechanical device)
 Automobiles -- Transmission devices, Automatic|<->|Automatic transmission
 Automobiles -- Transmission devices, Continuously variable|<->|Continuously variable transmission
 Automobiles -- Windows and windshields|<->|Windshield
@@ -3001,6 +3001,7 @@ Bald Knob National Wildlife Refuge (Ark.)|=|Bald Knob National Wildlife Refuge
 Baldachins (Architecture)|=|Baldachin
 Balder (Norse deity)|=|Baldr
 Baldfaced hornet|=|Dolichovespula maculata
+Baldock family|<->|Baldock (surname)
 Baldwin Hills (Calif. : Mountains)|=|Baldwin Hills (mountain range)
 Baldwin Hills (Los Angeles, Calif.)|=|Baldwin Hills, Los Angeles
 Baldy, Mount (Ariz.)|=|Mount Baldy (Arizona)
@@ -3060,6 +3061,7 @@ Baltimore, Battle of, Baltimore, Md., 1814|=|Battle of Baltimore
 Baltimore (Md.)|=|Baltimore
 Baltimore (Md.) -- History|=|History of Baltimore
 Baltimore Orioles (Baseball team)|=|Baltimore Orioles
+Baltimore, Port of (Md.)|=|Port of Baltimore
 Baltimore Ravens (Football team)|=|Baltimore Ravens
 Baltimore Riots, Baltimore, Md., 2015|<->|2015 Baltimore protests
 Balto (Dog)|=|Balto
@@ -3114,7 +3116,7 @@ Bangkok (Thailand)|=|Bangkok
 Bangkok (Thailand) -- History|=|History of Bangkok
 Bangkusay, Battle of, Philippines, 1571|=|Battle of Bangkusay
 Bangladesh -- History -- Revolution, 1971|=|Bangladesh Liberation War
-Bangladesh -- History -- Revolution, 1971 -- Atrocities|<->|1971 Bangladesh genocide
+Bangladesh -- History -- Revolution, 1971 -- Atrocities|<->|Bangladesh genocide
 Bangladesh -- Politics and government|<->|Politics of Bangladesh
 Bangladesh Rifles Mutiny, Dhaka, Bangladesh, 2009|=|Bangladesh Rifles revolt
 Bangsawan (Dance drama)|<->|Bangsawan
@@ -3235,6 +3237,7 @@ Barnegat Light (N.J. : Lighthouse)|=|Barnegat Lighthouse
 Barnet (London, England)|=|Barnet
 Barnet, Battle of, Barnet, London, England, 1471|=|Battle of Barnet
 Barns|=|Barn
+Barnstable Harbor (Mass.)|=|Barnstable Harbor
 Baroclinicity|=|Baroclinity
 Barolo (Italy)|=|Barolo, Piedmont
 Barolo (Wine)|=|Barolo
@@ -4041,6 +4044,7 @@ Birch Bay (Wash. : Bay)|<->|Birch Bay, Washington
 Birch Bay State Park (Wash.)|=|Birch Bay State Park
 Birch Coulee, Battle of, Minn., 1862|=|Battle of Birch Coulee
 Birch Cove (Halifax, N.S.)|<->|Birch Cove, Halifax, Nova Scotia
+Birch Creek (Umatilla County, Or.)|=|Birch Creek (Umatilla River tributary)
 Birch Creek (Yukon-Koyukuk Census Area, Alaska : River)|=|Birch Creek (Yukon River tributary)
 Birch mice|=|Birch mouse
 Birch-Swinnerton-Dyer conjecture|<->|Birch and Swinnerton-Dyer conjecture
@@ -4555,6 +4559,7 @@ Bollinger family|<->|Bollinger (surname)
 Bologna (Italy)|=|Bologna
 Bologna Central Station Massacre, Bologna, Italy, 1980|=|Bologna massacre
 Bologna process (European higher education)|=|Bologna Process
+Bolsa Chica Ecological Reserve (Calif.)|=|Bolsa Chica Ecological Reserve
 Bolzano (Concentration camp)|=|Bolzano Transit Camp
 Bomarc (Missile)|=|CIM-10 Bomarc
 Bomba (Dance)|<->|Bomba (Puerto Rico)
@@ -8085,7 +8090,7 @@ Commutation relations (Quantum mechanics)|<->|Canonical commutation relation
 Commutators (Operator theory)|<->|Commutator
 Commuters|->|Commuting
 Como Bluff (Wyo.)|=|Como Bluff
-Comox Indians|=|K'ómoks
+Comox Indians|=|Kʼómoks
 Compact objects (Astronomy)|<->|Compact star
 Compacts (Cosmetics)|=|Compact (cosmetics)
 Company of Upholders (London, England)|=|Worshipful Company of Upholders
@@ -9246,7 +9251,7 @@ Crystal Palace (Sydenham, London, England)|->|The Crystal Palace
 Crystal Palace (London, England)|=|Crystal Palace, London
 Crystal Palace (New York, N.Y.)|=|New York Crystal Palace
 Crystal sets (Radio)|=|Crystal radio
-Crystalline lens|<->|Lens (anatomy)
+Crystalline lens|<->|Lens (vertebrate anatomy)
 Crystals|=|Crystal
 CSIRAC (Computer)|=|CSIRAC
 CSound (Computer program language)|=|Csound
@@ -12798,7 +12803,7 @@ Finger Mountain (Alaska)|=|Finger Mountain
 Finger painting|<->|Fingerpaint
 Fingerprints|=|Fingerprint
 Fingers|=|Finger
-Fingo (African people)|=|Fengu people
+Fingo (African people)|=|Fengu tribe
 Finite fields (Algebra)|=|Finite field
 Finland -- Geography|=|Geography of Finland
 Finland -- History -- Civil War, 1918|=|Finnish Civil War
@@ -13417,7 +13422,7 @@ Fotheringhay Castle (Fotheringhay, England)|=|Fotheringhay Castle
 Foug&egrave;res (Ille-et-Vilaine, France)|=|Fougères
 Found objects (Art)|=|Found object
 Foundations|=|Foundation (engineering)
-Founding|<->|Casting (metalworking)
+Founding|<->|Metal casting
 Foundlings|->|Child abandonment
 Foundries|<->|Foundry
 Fountain of youth (Legendary place)|=|Fountain of Youth
@@ -13463,7 +13468,7 @@ Fractures|<->|Bone fracture
 Fractures in children|<->|Child bone fracture
 Fractures, Open|=|Open fracture
 FRAD (Conceptual model)|=|Functional Requirements for Authority Data
-Frafra (African people)|=|Gurene people
+Frafra (African people)|=|Frafra people
 "Fram" Expedition (1893-1896)|=|Nansen's Fram expedition
 Frame relay (Data transmission)|=|Frame Relay
 Framing (Building)|<->|Framing (construction)
@@ -14362,7 +14367,7 @@ Ghardaia (Algeria)|=|Ghardaïa
 Ghardaia (Algeria : Province)|=|Ghardaïa Province
 Ghats (Architecture)|=|Ghat
 Ghazaleh family|<->|Ghazaleh (name)
-Ghaziabad (India : District)|=|Ghaziabad district, Uttar Pradesh
+Ghaziabad (India : District)|=|Ghaziabad district
 Ghazn&imacr; (Afghanistan)|=|Ghazni
 Ghazn&imacr; (Afghanistan : Province)|=|Ghazni Province
 Ghor as-Safi Site (Jordan)|=|Ghor es-Safi
@@ -15094,7 +15099,7 @@ Great Lakes (Africa)|=|African Great Lakes
 Great Lakes (North America)|=|Great Lakes
 Great Lakes Basin (Mongolia and Russia)|=|Great Lakes Depression
 Great Lakes Region (North America)|=|Great Lakes region
-Great Lakes Seaway Trail (N.Y. and Pa.)|=|Seaway Trail
+Great Lakes Seaway Trail (N.Y. and Pa.)|=|Great Lakes Seaway Trail
 Great Lakes Sport Trainer (Training plane)|=|Great Lakes Sport Trainer
 Great Lakes Watershed (North America)|<->|Great Lakes Basin
 Great Migration, ca. 1914-ca. 1970|<->|Great Migration (African American)
@@ -17445,7 +17450,7 @@ Indian Expedition to Antarctica|<->|Indian Antarctic Programme
 Indian Island (Calif.)|=|Tuluwat Island
 Indian Island Massacre, Calif., 1860|=|1860 Wiyot massacre
 Indian long pepper|=|Long pepper
-Indian mythology|=|Mythologies of the indigenous peoples of the Americas
+Indian mythology|=|Mythologies of the Indigenous peoples of the Americas
 Indian Ocean Tsunami, 2004|<->|2004 Indian Ocean earthquake and tsunami
 Indian philosophy|=|Indigenous American philosophy
 Indian pipe (Plant)|=|Monotropa uniflora
@@ -18027,7 +18032,7 @@ Iron -- Isotopes|=|Isotopes of iron
 Iron -- Metabolism|<->|Human iron metabolism
 Iron -- Metabolism -- Disorders|<->|Iron metabolism disorder
 Iron deficiency anemia|=|Iron-deficiency anemia
-Iron founding|->|Casting (metalworking)
+Iron founding|->|Metal casting
 Iron Gates (Romania and Serbia)|=|Iron Gates
 Iron Man (Fictitious character)|=|Iron Man
 Iron ores|=|Iron ore
@@ -19081,7 +19086,7 @@ Kagamil Island (Alaska)|=|Kagamil Island
 Kagoshima Bay (Japan)|=|Kagoshima Bay
 Kaguru (African people)|=|Kaguru people
 K&auml;hlerian manifolds|<->|Kähler manifold
-Kahoolawe (Hawaii)|=|Kahoolawe
+Kahoolawe (Hawaii)|=|Kahoʻolawe
 Kahun (Extinct city)|->|El Lahun
 Kai Lung (Fictitious character)|=|Kai Lung
 K&amacr;i Tahu (New Zealand people)|=|Ngāi Tahu
@@ -21472,7 +21477,7 @@ Longniddry (Scotland)|=|Longniddry
 Longquan ware|<->|Longquan celadon
 Longs Peak (Colo.)|=|Longs Peak
 Longships Lighthouse (England)|=|Longships Lighthouse
-Longshoremen's Strike, 1971-1972|<->|ILWU 1971 strike
+Longshoremen's Strike, 1971-1972|<->|1971 ILWU strike
 Longshoremen's Strike, San Francisco, Calif., 1934|<->|1934 West Coast waterfront strike
 Longstocking, Pippi|=|Pippi Longstocking
 Longstyle thistle|=|Cirsium longistylum
@@ -21721,7 +21726,7 @@ Lusatia (Germany)|<->|Lusatia
 Lushai (Asian people)|<->|Mizo people
 Lushai language|=|Mizo language
 Lushai literature|<->|Mizo literature
-Lushan Shijie Dizhi Gongyuan (Jiujiang, Jiangxi Sheng, China)|=|Mountain Lu National Park
+Lushan Shijie Dizhi Gongyuan (Jiujiang, Jiangxi Sheng, China)|=|Mountain Lu Geopark
 Lushington family|<->|Lushington
 Lushnj&euml; (Albania)|=|Lushnjë
 Lushnj&euml; (Albania : Rrethi)|=|Lushnjë District
@@ -23367,7 +23372,7 @@ Michigan State Capitol (Lansing, Mich.)|=|Michigan State Capitol
 Michigan State Grange|->|National Grange of the Order of Patrons of Husbandry
 Michoac&aacute;n de Ocampo (Mexico)|=|Michoacán
 Micmac Indians|=|Mi'kmaq
-Micmac language|=|Miꞌkmaq language
+Micmac language|=|Mi'kmaq language
 Miconia (Genus)|=|Miconia
 Micro:bit|=|Micro Bit
 Micro Channel (Computer bus)|=|Micro Channel architecture
@@ -29745,7 +29750,7 @@ Private investigators|=|Private investigator
 Private language problem|<->|Private language argument
 Private libraries|=|Private library
 Private revelations|=|Private revelation
-Private schools|<->|Independent school
+Private schools|=|Private school
 Privateer (Bomber)|=|Consolidated PB4Y-2 Privateer
 Privateering|<->|Privateer
 Privilege (Social psychology)|<->|Social privilege
@@ -31736,7 +31741,7 @@ Russo-Japanese Border Conflicts, 1932-1941|<->|Soviet–Japanese border conflict
 Russo-Japanese War, 1904-1905|=|Russo-Japanese War
 Russo-Persian War, 1804-1813|=|Russo-Persian War (1804–1813)
 Russo-Persian War, 1826-1828|=|Russo-Persian War (1826–1828)
-Russo-Polish War, 1609-1618|=|Polish–Muscovite War (1609–1618)
+Russo-Polish War, 1609-1618|<->|Polish–Muscovite War (1605–1618)
 Russo-Polish War, 1632-1634|=|Smolensk War
 Russo-Polish War, 1792|=|Polish–Russian War of 1792
 Russo-Polish War, 1919-1920|<->|Polish–Soviet War
@@ -31882,7 +31887,7 @@ Saguaro National Park (Ariz.)|=|Saguaro National Park
 Sahale Mountain (Wash.)|=|Sahale Mountain
 S&amacr;&#x1e25;at al-Shuhad&amacr;&#x02be; (Beirut, Lebanon)|=|Martyrs' Square, Beirut
 Saho (African people)|=|Saho people
-Sahrawi (African people)|=|Sahrawi people
+Sahrawi (African people)|=|Sahrawis
 Sa&iuml;da (Algeria : Province)|=|Saïda Province
 Saiga|<->|Saiga antelope
 Saihanba Guojia Senlin Gongyuan (Chengde Shi, China)|=|Saihanba National Forest Park
@@ -37895,7 +37900,7 @@ Ultrabasic rocks|<->|Ultramafic rock
 Ultrahigh vacuum|=|Ultra-high vacuum
 Ultraism (Literary movement)|=|Ultraist movement
 Ultraviolet radiation|=|Ultraviolet
-Ulu Kelang (Selangor, Malaysia)|<->|Ulu Klang
+Ulu Kelang (Selangor, Malaysia)|<->|Ulu Kelang
 Ulubat Lake (Turkey)|=|Lake Uluabat
 Ulundi (South Africa)|=|Ulundi
 Ulundi, Battle of, Ulundi, South Africa, 1879|=|Battle of Ulundi
