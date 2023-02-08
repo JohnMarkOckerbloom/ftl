@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2023-01-08
-# Manual Sweep: pick up w UC Boulder (& do another complete sweep by end of 2023)
+# Last updated 2023-02-08
+# Manual Sweep: pick up w Westport Library, CT (down at the moment)
 #  (may need to reverse engineer persistent links for new version of EDS)
 
 ID OLBP
@@ -659,6 +659,14 @@ LOCATION Burnaby
 PROVINCE BC
 CATTYPE bibliocommons
 BASEURL https://burnaby.bibliocommons.com
+
+ID OCLC-CACDP
+NAME Castlegar and District Public Library
+LOCATION Castlegar
+PROVINCE BC
+CATTYPE evergreen-dynamic
+BASEURL https://castlegar.bc.catalogue.libraries.coop/eg/opac
+LCODE 70
 
 ID OCLC-CNCOQ
 NAME Coquitlam Public Library
@@ -3855,12 +3863,22 @@ STATE CO
 BASEURL https://usafa.insigniails.com/Library/SearchResult
 CATTYPE insignia
 
+# Switch to new EBXCO discovery system once we can figure out how to
+# construct persistent search URLs for it
+# https://discovery.ebsco.com/c/3czfwv/results?limiters=FT1%3AY&q=house&auth-callid=24a4ba1d-3c3d-947a-9cd1-7a8db7213a2b
 ID OCLC-COD
 NAME University of Colorado Boulder
 LOCATION Boulder
 STATE CO
-CATTYPE summon
-BASEURL http://ucblibraries.summon.serialssolutions.com
+# old system, no longer updated
+#CATTYPE summon
+#BASEURL http://ucblibraries.summon.serialssolutions.com
+# legacy OPAC, still updated?
+CATTYPE innopac
+BASEURL https://libraries.colorado.edu
+# new system; trying to figure out how to launch remote canned searches
+#CATTYPE ebscodiscovery
+#LCODE 3czfwv
 
 ID OCLC-BPT
 NAME Bridgeport Library
@@ -3916,9 +3934,9 @@ ID OCLC-GKX
 NAME Darien Library
 LOCATION Darien
 STATE CT
-BASEURL https://www.darienlibrary.org/catalog
-CATTYPE sopacnewer
-FILTERS NK
+CATTYPE vufindsi
+BASEURL https://catalog.darienlibrary.org/Union/Search
+FILTERS S
 
 ID OCLC-CTW
 NAME Eastern Connecticut State University
@@ -4028,20 +4046,19 @@ ID OCLC-UCW
 NAME University of Connecticut
 LOCATION Storrs and other campuses
 STATE CT
-CATTYPE primodl-scope
-BASEURL https://primo-pmtna01.hosted.exlibrisgroup.com
-VID 01UCT
-LCODE 01UCT
-SCOPE EVERYTHING
+CATTYPE primo-ve
+BASEURL https://uconn-storrs.primo.exlibrisgroup.com
+VID 01UCT_STORRS:01UCT
+SCOPE MyInst_and_CI
 
 ID OCLC-WLU
 NAME Wesleyan University
 LOCATION Middletown
 STATE CT
-CATTYPE primodl
-BASEURL https://wesleyan-primo.hosted.exlibrisgroup.com
-LCODE 01CTW_WU
-VID CTWWU
+CATTYPE primo-ve
+BASEURL https://onesearch.wesleyan.edu
+VID 01CTW_WU:CTWWU
+SCOPE Everything
 
 ID OCLC-YRR
 NAME Western Connecticut State University
@@ -4060,12 +4077,13 @@ STATE CT
 BASEURL http://catalog.westportlibrary.org/polaris
 CATTYPE polaris
 
+# Yale has a custom Bento now
 ID OCLC-YUS
 NAME Yale University
 LOCATION New Haven
 STATE CT
-CATTYPE voyager-vwebv
-BASEURL http://orbis.library.yale.edu/vwebv/search
+BASEURL https://search.library.yale.edu/quicksearch
+KEYURL ${BASEURL}?q=${ARG}
 
 ID OCLC-DWA
 NAME Delaware Library Catalog
