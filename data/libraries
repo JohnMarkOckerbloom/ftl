@@ -5,8 +5,7 @@
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
 # Last updated 2023-02-08
-# Manual Sweep: pick up w Westport Library, CT (down at the moment)
-#  (may need to reverse engineer persistent links for new version of EDS)
+# Manual Sweep: pick up w Florida
 
 ID OLBP
 NAME The Online Books Page
@@ -3863,22 +3862,12 @@ STATE CO
 BASEURL https://usafa.insigniails.com/Library/SearchResult
 CATTYPE insignia
 
-# Switch to new EBXCO discovery system once we can figure out how to
-# construct persistent search URLs for it
-# https://discovery.ebsco.com/c/3czfwv/results?limiters=FT1%3AY&q=house&auth-callid=24a4ba1d-3c3d-947a-9cd1-7a8db7213a2b
 ID OCLC-COD
 NAME University of Colorado Boulder
 LOCATION Boulder
 STATE CO
-# old system, no longer updated
-#CATTYPE summon
-#BASEURL http://ucblibraries.summon.serialssolutions.com
-# legacy OPAC, still updated?
-CATTYPE innopac
-BASEURL https://libraries.colorado.edu
-# new system; trying to figure out how to launch remote canned searches
-#CATTYPE ebscodiscovery
-#LCODE 3czfwv
+CATTYPE ebscodiscovery
+LCODE 3czfwv
 
 ID OCLC-BPT
 NAME Bridgeport Library
@@ -4256,15 +4245,19 @@ ID OCLC-FCM
 NAME Florida A&amp;M University
 LOCATION Tallahassee
 STATE FL
-BASEURL http://famu.catalog.fcla.edu/am.jsp
-CATTYPE fcla
+CATTYPE primo-ve
+BASEURL https://famu-flvc.primo.exlibrisgroup.com
+VID 01FALSC_FAMU:FAMU
+SCOPE MyInst_and_CI
 
 ID OCLC-FGA
 NAME Florida Gulf Coast University
 LOCATION Fort Myers
 STATE FL
-BASEURL http://fgcu.catalog.fcla.edu/gc.jsp
-CATTYPE fcla
+CATTYPE primo-ve
+BASEURL https://fgcu-flvc.primo.exlibrisgroup.com
+VID 01FALSC_FGCU:CUSTOM
+SCOPE MyInst_and_CI
 
 ID OCLC-FMC
 NAME Florida Memorial University
@@ -4277,8 +4270,10 @@ ID OCLC-FDA
 NAME Florida State University
 LOCATION Tallahassee and other campuses
 STATE FL
-BASEURL http://fsu.catalog.fcla.edu/fs.jsp
-CATTYPE fcla
+CATTYPE primo-ve
+BASEURL https://fsu-flvc.primo.exlibrisgroup.com
+VID 01FALSC_FSU:Home
+SCOPE MyInst_and_CI
 
 ID OCLC-F9H
 NAME Heartland Library Cooperative
@@ -4291,8 +4286,8 @@ ID OCLC-TNH
 NAME Hillsborough County Public Library Cooperative
 LOCATION Tampa and vicinity
 STATE FL
-CATTYPE polaris
-BASEURL https://catalog.hcplc.org/polaris
+BASEURL https://hcplc.bibliocommons.com
+CATTYPE bibliocommons
 
 ID OCLC-FN2
 NAME Indian River County Library System
@@ -4341,8 +4336,10 @@ ID OCLC-FYM
 NAME Miami Dade College
 LOCATION Miami and other campuses
 STATE FL
-BASEURL https://union.discover.flvc.org/md.jsp
-CATTYPE fcla
+CATTYPE primo-ve
+BASEURL https://mdc-flvc.primo.exlibrisgroup.com
+VID 01FALSC_MDC:MDC
+SCOPE MyInst_and_CI
 
 ID OCLC-DZM
 NAME Miami-Dade Public Library System
@@ -4414,7 +4411,7 @@ ID OCLC-FSP
 NAME Sarasota County Libraries
 LOCATION Sarasota and vicinity
 STATE FL
-BASEURL http://suncat.co.sarasota.fl.us
+BASEURL https://sarac.scgov.net
 CATTYPE innopac
 
 ID OCLC-FCS
@@ -4428,8 +4425,10 @@ ID OCLC-FSS
 NAME Seminole State College of Florida
 LOCATION Sanford and other campuses
 STATE FL
-BASEURL https://union.discover.flvc.org/sc.jsp
-CATTYPE fcla
+CATTYPE primo-ve
+BASEURL https://ssc-flvc.primo.exlibrisgroup.com
+VID 01FALSC_SSC:SSC
+SCOPE MyInst_and_CI
 
 ID OCLC-FYQ
 NAME Southeastern University
@@ -4460,13 +4459,19 @@ LOCATION Orlando and other campuses
 STATE FL
 CATTYPE eds
 LCODE current
+CATTYPE primo-ve
+BASEURL https://ucf-flvc.primo.exlibrisgroup.com
+VID 01FALSC_UCF:UCF
+SCOPE DN_and_CI
 
 ID OCLC-FUG
 NAME University of Florida, George A. Smathers Libraries
 LOCATION Gainesville
 STATE FL
-CATTYPE eds
-LCODE s8987351
+CATTYPE primo-ve
+BASEURL https://ufl-flvc.primo.exlibrisgroup.com
+VID 01FALSC_UFL:UFL
+SCOPE MyInst_and_CI
 
 ID OCLC-FNM
 NAME University of Miami Libraries
@@ -4482,17 +4487,19 @@ ID OCLC-FNP
 NAME University of North Florida
 LOCATION Jacksonville
 STATE FL
-CATTYPE eds
-LCODE s6281220
-GID main
-PROFILE unflib
+CATTYPE primo-ve
+BASEURL https://unf-flvc.primo.exlibrisgroup.com
+VID 01FALSC_UNF:UNF
+SCOPE MyInst_and_CI
 
 ID OCLC-1FH
 NAME University of South Florida
 LOCATION Tampa
 STATE FL
-BASEURL http://usf.catalog.fcla.edu/sf.jsp
-CATTYPE fcla
+CATTYPE primo-ve
+BASEURL https://usf-flvc.primo.exlibrisgroup.com
+VID 01FALSC_USF:USF
+SCOPE MyInst_and_CI
 
 ID OCLC-FWA
 NAME University of West Florida
@@ -4505,7 +4512,7 @@ ID OCLC-FDB
 NAME Volusia County Public Library
 LOCATION Daytona Beach, Deltona, and vicinity
 STATE FL
-BASEURL http://catalog.volusialibrary.org/vcplvw
+BASEURL https://catalog.volusialibrary.org/vcplvw
 CATTYPE vubislink
 AINDEX 1*authbibnew
 SINDEX 1*subjbibnew

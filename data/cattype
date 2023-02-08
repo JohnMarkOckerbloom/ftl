@@ -190,11 +190,17 @@ KEYURL ${BASEURL}/cataloging/servlet/handlebasicsearchform.do?searchType=keyword
 CATTYPE dra
 KEYURL ${BASEURL}/tramp2.exe/do_keyword_search/guest&query={${ARG}}
 
-# The new EBSCO discovery system may require different URLs;
-# the below doesn't work yet (contacting EBSCO to find out what does)
-# CATTYPE ebscodiscovery
-# BASEURL https://discovery.ebsco.com/c
-# KEYURL ${BASEURL}/${LCODE}/results?q=${KEYURL}
+# New EBSCO discovery system link syntax documented at
+# https://connect.ebsco.com/s/article/Link-configuration-in-EBSCO-s-New-EDS-Explora-and-EBSCOhost-interfaces?language=en_US
+# other args sometimes seen autocorrect=y&limiters=FT1%3AY (full-text limiter)
+# https://discovery.ebsco.com/c/3czfwv/results?q=TI%20dictionary&autocorrect=y&limiters=FT1%3AY
+CATTYPE ebscodiscovery
+BASEURL https://discovery.ebsco.com/c
+AUTHTYPE ip,guest
+SUBURL ${BASEURL}/${LCODE}/results?acr_values=${AUTHTYPE}&q=SU ${ARG}
+AUTURL ${BASEURL}/${LCODE}/results?acr_values=${AUTHTYPE}&q=AU ${ARG}
+TITURL ${BASEURL}/${LCODE}/results?acr_values=${AUTHTYPE}&q=TI ${ARG}
+KEYURL ${BASEURL}/${LCODE}/results?acr_values=${AUTHTYPE}&q=${ARG}
 
 # EDS based on http://support.epnet.com/knowledge_base/detail.php?id=2747
 #  and some reverse-engineering.  Guest access needs to be enabled to
