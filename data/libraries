@@ -5,7 +5,7 @@
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
 # Last updated 2023-02-08
-# Manual Sweep: pick up w Florida
+# Manual Sweep: Check U-Georgia and U-West GA from home; resume with Idaho
 
 ID OLBP
 NAME The Online Books Page
@@ -1128,6 +1128,14 @@ LOCATION Thunder Bay
 PROVINCE ON
 CATTYPE encore
 BASEURL http://search.tbpl.ca/iii/encore
+
+ID OCLC-RRP
+NAME Toronto Metropolitan University
+LOCATION Toronto
+PROVINCE ON
+BASEURL https://torontomu.summon.serialssolutions.com
+CATTYPE summon
+FILTERS S
 
 ID OCLC-TOH
 NAME Toronto Public Library
@@ -4647,8 +4655,8 @@ ID OCLC-ZGX
 NAME Gwinnett County Public Library
 LOCATION Gwinnett County
 STATE GA
-BASEURL https://gwinnett.bibliocommons.com
-CATTYPE bibliocommons
+CATTYPE vega
+BASEURL https://gwin.na2.iiivega.com/
 
 ID OCLC-GSC
 NAME Live Oak Public Libraries
@@ -4709,11 +4717,10 @@ ID OCLC-HUH
 NAME University of Hawaii at Manoa
 LOCATION Honolulu
 STATE HI
-CATTYPE primodl-scope
-BASEURL http://uhawaii-primo.hosted.exlibrisgroup.com
-VID OUZ
-LCODE OUZ
-SCOPE OUZ_ALL
+CATTYPE primo-ve
+BASEURL https://uhawaii-primo.hosted.exlibrisgroup.com
+VID 01UHAWAII_MANOA:MANOA
+SCOPE DN_and_CI
 DEFAULT http://manoa.hawaii.edu/libraries/
 
 ID OCLC-BLFPL
@@ -4744,14 +4751,14 @@ ID OCLC-ZVR
 NAME Coeur d'Alene Public Library
 LOCATION Coeur d'Alene
 STATE ID
-BASEURL http://catalog.cin.bywatersolutions.com
+BASEURL https://catalog.cinlibraries.org
 CATTYPE koha
 
 ID OCLC-ZWM
 NAME Cooperative Information Network
 LOCATION 27 public and school libraries in northern Idaho and vicinity
 STATE ID
-BASEURL http://catalog.cin.bywatersolutions.com
+BASEURL https://catalog.cinlibraries.org
 CATTYPE koha
 
 ID OCLC-I4F
