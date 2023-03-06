@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2023-02-08
-# Manual Sweep: Check U-Georgia and U-West GA from home; resume with Idaho
+# Last updated 2023-03-06
+# Manual Sweep: Check U-Georgia & U-West GA from home; resume with IL (from D)
 
 ID OLBP
 NAME The Online Books Page
@@ -2109,6 +2109,15 @@ CATTYPE primo-ve
 BASEURL https://library.bangor.ac.uk
 VID 44WHELF_BANG:44WHELF_BANG_VU4
 SCOPE MyInst_and_CI
+
+ID OCLC-UKBED
+NAME Bedford Borough and Central Bedfordshire Libraries
+LOCATION Bedfordshire, England
+COUNTRY UK
+BASEURL https://beds-arena.culturalservices.net/web/arena
+CATTYPE arenacode
+LCODE arena_urn%3Aarena
+FILTERS SNK
 
 ID OCLC-UKBLS
 NAME Blackburn with Darwen Libraries
@@ -4737,7 +4746,7 @@ NAME Boise Public Library
 LOCATION Boise
 STATE ID
 CATTYPE polaris-context
-BASEURL http://catalog.idaho-lynx.org/polaris
+BASEURL https://catalog.idaho-lynx.org/polaris
 CONTEXT 17.1033.0.0.5
 
 ID OCLC-OIP
@@ -4798,7 +4807,7 @@ NAME Meridian Library District
 LOCATION Meridian
 STATE ID
 CATTYPE polaris-context
-BASEURL http://catalog.idaho-lynx.org/polaris
+BASEURL https://catalog.idaho-lynx.org/polaris
 CONTEXT 31.1033.0.0.5
 
 ID OCLC-ZPP
@@ -4806,7 +4815,7 @@ NAME Nampa Public Library
 LOCATION Nampa
 STATE ID
 CATTYPE polaris-context
-BASEURL http://catalog.idaho-lynx.org/polaris
+BASEURL https://catalog.idaho-lynx.org/polaris
 CONTEXT 37.1033.0.0.5
 
 ID OCLC-Y-SHARP-4
@@ -4814,15 +4823,17 @@ NAME Twin Falls Public Library
 LOCATION Twin Falls
 STATE ID
 CATTYPE polaris-context
-BASEURL http://catalog.idaho-lynx.org/polaris
+BASEURL https://catalog.idaho-lynx.org/polaris
 CONTEXT 39
 
 ID OCLC-NTD
 NAME University of Idaho Library
 LOCATION Moscow, and other campuses
 STATE ID
-BASEURL https://uidaho.worldcat.org/search
-CATTYPE worldcat
+CATTYPE primo-ve
+BASEURL https://alliance-uidaho.primo.exlibrisgroup.com
+VID 01ALLIANCE_UID:UID
+SCOPE DN_and_CI
 
 ID OCLC-JBL
 NAME Arlington Heights Memorial Library
@@ -4836,16 +4847,15 @@ ID OCLC-ILAPL
 NAME Aurora Public Library
 LOCATION Aurora
 STATE IL
-BASEURL http://cat.aurorapubliclibrary.org/polaris
+BASEURL https://cat.aurorapubliclibrary.org/polaris
 CATTYPE polaris
 
 ID OCLC-JOZ
 NAME Bloomingdale Public Library
 LOCATION Bloomingdale
 STATE IL
-CATTYPE sirsient
-LCODE en_US/bdd
-BASEURL https://catalog.swanlibraries.net
+CATTYPE vufindsi
+BASEURL https://bdd.swanlibraries.net/Union/Search
 
 ID OCLC-JCH
 NAME Bloomington Public Library
@@ -4872,8 +4882,10 @@ ID OCLC-JAX
 NAME Chicago School of Professional Psychology
 LOCATION Chicago and other campuses
 STATE IL
-BASEURL https://thechicagoschool-chi.on.worldcat.org/external-search?queryString
-CATTYPE worldcat-config
+CATTYPE primo-ve
+BASEURL https://search.tcsedsystem.edu
+VID 01TCSEDSYSTEM_INST:TCSPP
+SCOPE TCSPP_and_CI
 
 ID OCLC-IAA
 NAME Chicago State University, Gwendolyn Brooks Library
@@ -4888,8 +4900,10 @@ ID OCLC-CODUP
 NAME College of DuPage
 LOCATION Glen Ellyn
 STATE IL
-BASEURL https://cod.on.worldcat.org/search?queryString
-CATTYPE worldcat-config
+CATTYPE primo-ve
+BASEURL https://i-share-cod.primo.exlibrisgroup.com
+VID 01CARLI_COD:CARLI_COD
+SCOPE MyInstitution
 
 ID OCLC-JED
 NAME Cooperative Computer Services
