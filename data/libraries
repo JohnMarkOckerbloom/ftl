@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2023-03-06
-# Manual Sweep: Check U-Georgia & U-West GA from home; resume with IL (from D)
+# Last updated 2023-04-26
+# Manual Sweep: resume with IN
 
 ID OLBP
 NAME The Online Books Page
@@ -4695,8 +4695,10 @@ ID OCLC-GUA
 NAME University of Georgia
 LOCATION Athens
 STATE GA
-CATTYPE eds
-LCODE uga1
+CATTYPE primo-ve
+BASEURL https://galileo-uga.primo.exlibrisgroup.com
+VID 01GALI_UGA:UGA
+SCOPE MyInstitution
 
 ID OCLC-GWC
 NAME University of West Georgia
@@ -4980,9 +4982,8 @@ ID OCLC-JSU
 NAME Itasca Community Library
 LOCATION Itasca
 STATE IL
-CATTYPE sirsient
-LCODE en_US/itd
-BASEURL https://catalog.swanlibraries.net
+CATTYPE vufindsi
+BASEURL https://itd.swanlibraries.net/Union/Search
 
 ID OCLC-AP8
 NAME Joliet Junior College
@@ -5068,9 +5069,8 @@ ID OCLC-JDP
 NAME SWAN: System Wide Automated Network
 LOCATION Suburban libraries in the Chicago area
 STATE IL
-CATTYPE sirsient
-LCODE en_US/default
-BASEURL https://swanlibs.ent.sirsi.net
+CATTYPE vufindsi
+BASEURL https://catalog.swanlibraries.net/Union/Search
 
 ID OCLC-CGU
 NAME University of Chicago Library
@@ -5118,7 +5118,7 @@ LOC adaptor,scope:(Wton+),scope:(Primo+Central),scope:(NUL),scope:(libguides),sc
 DEFAULT DOMAIN
 
 ID OCLC-OY4
-NAME Plainfield Public Library District
+NAME Plainfield Area Public Library
 LOCATION Plainfield
 STATE IL
 CATTYPE polaris-context
@@ -5132,7 +5132,7 @@ STATE IL
 CATTYPE primo-ve
 BASEURL https://i-share-prc.primo.exlibrisgroup.com
 VID 01CARLI_PRC:CARLI_PRC
-SCOPE MyInstitution
+SCOPE NewDiscoveryNetwork_and_CDI
 
 ID OCLC-ILPML
 NAME Pritzker Military Museum and Library
@@ -9409,9 +9409,8 @@ ID OCLC-SAP
 NAME San Antonio Public Library
 LOCATION San Antonio
 STATE TX
-BASEURL http://sapl.sat.lib.tx.us/
-CATTYPE iii-consortium-member
-LCODE 1
+CATTYPE bibliocommons
+BASEURL https://mysapl.bibliocommons.com
 
 ID OCLC-TX5
 NAME Sekula Memorial Library
@@ -9448,8 +9447,8 @@ ID OCLC-TXK
 NAME Stephen F. Austin State University
 LOCATION Nacogdoches
 STATE TX
-CATTYPE vufindgeneral
-BASEURL https://library.sfasu.edu/find/Combined/Results
+CATTYPE summon
+BASEURL https://sfasu.summon.serialssolutions.com
 
 ID OCLC-TXA
 NAME Texas A&amp;M University Libraries
@@ -9562,8 +9561,9 @@ ID OCLC-TXW
 NAME Waco-McClennan County Library
 LOCATION Waco
 STATE TX
-BASEURL https://waco.polarislibrary.com/polaris
-CATTYPE polaris
+BASEURL https://waco.tlcdelivers.com/
+CATTYPE ls2pac
+FILTERS S
 
 ID OCLC-WYC
 NAME Wiley College
