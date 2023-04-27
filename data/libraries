@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2023-04-26
-# Manual Sweep: resume with IN
+# Last updated 2023-04-27
+# Manual Sweep: resume with IA
 
 ID OLBP
 NAME The Online Books Page
@@ -3976,6 +3976,13 @@ STATE CT
 BASEURL https://greenwichlibrary.bibliocommons.com
 CATTYPE bibliocommons
 
+ID OCLC-GXT
+NAME Gunn Memorial Library and Museum
+LOCATION Washington
+STATE CT
+CATTYPE evergreen-dynamic
+BASEURL https://gunn.biblio.org/eg/opac
+
 ID OCLC-HPJ
 NAME Hartford Public Library
 LOCATION Hartford
@@ -3996,8 +4003,8 @@ ID OCLC-NHP
 NAME New Haven Free Public Library
 LOCATION New Haven
 STATE CT
-BASEURL http://encore.nhfpl.org/iii/encore
-CATTYPE encore
+CATTYPE vega
+BASEURL https://nhave.na2.iiivega.com/
 
 ID OCLC-NWK
 NAME Norwalk Public Library System
@@ -4080,7 +4087,7 @@ ID OCLC-WES
 NAME Westport Library
 LOCATION Westport
 STATE CT
-BASEURL http://catalog.westportlibrary.org/polaris
+BASEURL https://catalog.westportlibrary.org/polaris
 CATTYPE polaris
 
 # Yale has a custom Bento now
@@ -5378,12 +5385,12 @@ BASEURL http://iucat.iu.edu/catalog
 CATTYPE blacklight
 SINDEX subject
 
-# looks like they now have a custom search
 ID OCLC-IMD
 NAME Indianapolis Public Library
 LOCATION Indianapolis
 STATE IN
-KEYURL https://www.indypl.org/search?q=${ARG}
+CATTYPE bibliocommons
+BASEURL https://indypl.bibliocommons.com
 
 ID OCLC-IMR
 NAME Monroe County Public Library
