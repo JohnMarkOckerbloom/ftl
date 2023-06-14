@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2023-04-27
-# Manual Sweep: resume with IA
+# Last updated 2023-06-14
+# Manual Sweep: resume with KY
 
 ID OLBP
 NAME The Online Books Page
@@ -5181,8 +5181,9 @@ ID OCLC-KAY
 NAME Carnegie-Stout Public Library
 LOCATION Dubuque
 STATE IA
-BASEURL https://catalog.dubuque.lib.ia.us
-CATTYPE koha
+CATTYPE vufindsi
+BASEURL https://catalog.carnegiestout.org/Union/Search
+FILTERS S
 
 ID OCLC-LJW
 NAME Cedar Falls Public Library
@@ -5196,16 +5197,16 @@ ID OCLC-IWR
 NAME Cedar Rapids Public Library
 LOCATION Cedar Rapids
 STATE IA
-CATTYPE sirsient
-LCODE en_US/crpl
-BASEURL https://crpl.ent.sirsi.net
+CATTYPE vega
+BASEURL https://crpl.na.iiivega.com/
 
 ID OCLC-IWB
 NAME Council Bluffs Public Library
 LOCATION Council Bluffs
 STATE IA
-BASEURL http://encore.councilbluffslibrary.org/iii/encore
-CATTYPE encore
+CATTYPE sirsient
+LCODE en_US/default
+BASEURL https://cbluffs.ent.sirsi.net
 
 ID OCLC-IOS
 NAME Davenport Public Library
@@ -5255,9 +5256,8 @@ ID OCLC-IM9
 NAME Marion Public Library
 LOCATION Marion
 STATE IA
-CATTYPE sirsient
-LCODE en_US/mpl
-BASEURL https://crpl.ent.sirsi.net
+CATTYPE vega
+BASEURL https://marion-crpl.na.iiivega.com/
 
 ID OCLC-LTW
 NAME Orange City Public Library
@@ -5280,24 +5280,23 @@ ID OCLC-IOU
 NAME Des Moines Public Library
 LOCATION Des Moines
 STATE IA
-CATTYPE sirsient
-BASEURL https://desmoin.ent.sirsi.net
-LCODE en_US/default
+CATTYPE vufindsi
+BASEURL https://catalog.dmpl.org/Union/Search
+FILTERS S
 
 ID OCLC-LXY
 NAME Iowa City Public Library
 LOCATION Iowa City
 STATE IA
-BASEURL http://catpro.icpl.org/iii/encore
-CATTYPE encore
+CATTYPE vufind
+BASEURL https://search.icpl.org
 
 ID OCLC-IWP
 NAME Sioux City Public Library
 LOCATION Sioux City
 STATE IA
-BASEURL http://ecatalog1.siouxcitylibrary.org
-CATTYPE ipac20
-PROFILE mn
+BASEURL https://catalog.siouxcitylibrary.org
+CATTYPE polaris
 
 ID OCLC-IOV
 NAME University of Dubuque
@@ -5310,8 +5309,10 @@ ID OCLC-NIU
 NAME University of Northern Iowa
 LOCATION Cedar Falls
 STATE IA
-CATTYPE eds
-LCODE s8904665
+CATTYPE primo-ve
+BASEURL https://cvlc-uni.primo.exlibrisgroup.com
+VID 01NRTHIOW_NRTHIOW:NewUIAlt
+SCOPE MyInst_and_CI
 
 ID OCLC-IWV
 NAME Waterloo Public Library
@@ -6870,7 +6871,7 @@ ID OCLC-BLL
 NAME Bellevue Public Library
 LOCATION Bellevue
 STATE NE
-BASEURL http://belvu.sirsi.net/uhtbin/cgisirsi
+BASEURL https://belvu.sirsi.net/uhtbin/cgisirsi
 CATTYPE sirsi
 
 ID OCLC-OCA
@@ -6897,12 +6898,23 @@ STATE NE
 BASEURL https://omaha.bibliocommons.com
 CATTYPE bibliocommons
 
+ID OCLC-KRS
+NAME University of Nebraska-Kearney, Calvin T. Ryan Library
+LOCATION Kearney
+STATE NE
+CATTYPE primo-ve
+BASEURL https://unk.primo.exlibrisgroup.com
+VID 01UON_K:UNK
+SCOPE MyInst_and_CI
+
 ID OCLC-LDL
 NAME University of Nebraska-Lincoln
 LOCATION Lincoln
 STATE NE
-BASEURL http://encore.unl.edu/iii/encore
-CATTYPE encore
+CATTYPE primo-ve
+BASEURL https://unl.primo.exlibrisgroup.com
+VID 01UON_LINC:UNL
+SCOPE MyInst_and_CI
 
 ID OCLC-NVX
 NAME Carson City Library
