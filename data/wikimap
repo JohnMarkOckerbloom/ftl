@@ -10,8 +10,8 @@
 #   are not included in this file.
 # Manual title and name-title correspondences have been moved to wikiworksmap.
 # See docs file for documentation
-# Last updated 2023-06-13
-# Did LCSH 2015-2021 update lists, 2022 monthly lists 1-11, 12 main (A-Q only)
+# Last updated 2023-06-23
+# Did LCSH 2015-2021 update lists, 2022 monthly lists 1-11, 12 (main only)
 1 Pendleton Place House (New York, N.Y.)|=|One Pendleton Place
 1009 Fifth Avenue House (New York, N.Y.)|=|Benjamin N. Duke House
 1066 Country Walk (England)|=|1066 Country Walk
@@ -553,7 +553,6 @@ African American Greek letter societies|<->|List of African-American fraternitie
 African American inventors|->|List of African-American inventors and scientists
 African American mathematicians|<->|List of African-American mathematicians
 African American neighborhoods|=|African-American neighborhood
-African American newspapers|=|African-American newspapers
 African American scientists|<->|List of African-American inventors and scientists
 African American sexual minorities|<->|African-American LGBT community
 African American singers|<->|List of African-American singers
@@ -4939,7 +4938,7 @@ Breath of Fire (Game)|<->|Breath of Fire
 Breathing apparatus|=|Breathing set
 Breccia pipes|=|Breccia pipe
 Breckenridge Reservoir (Va.)|=|Breckenridge Reservoir
-Brecon Beacons National Park (Wales)|=|Brecon Beacons National Park
+Brecon Beacons National Park (Wales)|<->|Brecon Beacons
 Breda (Netherlands)|=|Breda
 Breda (Netherlands) -- History -- Siege, 1624-1625|=|Siege of Breda (1624)
 Breda (Netherlands) -- History -- Siege, 1637|=|Siege of Breda (1637)
@@ -6296,7 +6295,7 @@ Castlewood Canyon State Park (Colo.)|=|Castlewood Canyon State Park
 Castling (Chess)|=|Castling
 Castrati|=|Castrato
 Castro family|<->|Castro (surname)
-Castro, Fidel, 1926-2016 -- Assassination attempts|=|Assassination attempts on Fidel Castro
+Castro, Fidel, 1926-2016 -- Assassination attempts|<->|CIA Assassination attempts on Fidel Castro
 Castro, War of, 1642-1644|<->|Wars of Castro
 Casummit Lake (Ont. : Lake)|=|Casummit Lake (Ontario)
 Cat breeds|<->|List of cat breeds
@@ -8275,6 +8274,7 @@ Confederate States of America. Army. Arkansas Infantry Regiment, 15th|<->|15th A
 Confederate States of America. Army. Arkansas Infantry Regiment, 16th|=|16th Arkansas Infantry Regiment
 Confederate States of America. Army. Arkansas Infantry Regiment, 3rd|=|3rd Arkansas Infantry Regiment (Confederate States)
 Confederate States of America. Army. Kentucky Brigade, 1st|=|Orphan Brigade
+Confederate States of America -- Foreign relations|->|Diplomacy of the American Civil War
 Confederate States of America. Marine Corps|=|Confederate States Marine Corps
 Confederate States of America. Navy|=|Confederate States Navy
 Confederation (Group of poets)|=|Confederation Poets
@@ -8389,7 +8389,6 @@ Contempt of legislative bodies -- United States|<->|Contempt of Congress
 Contender Class (Sailboats)|<->|Contender (dinghy)
 Content analysis (Communication)|<->|Content analysis
 Contests|<->|Competition
-Context (Linguistics)|<->|Context (language use)
 Contia|=|Contia (snake)
 Continental Divide National Scenic Trail|=|Continental Divide Trail
 Continental Op (Fictitious character)|=|The Continental Op
@@ -11434,7 +11433,6 @@ Eggm&uuml;hl (Germany)|=|Eggmühl
 Eggm&uuml;hl, Battle of, Eggm&uuml;hl, Germany, 1809|=|Battle of Eckmühl
 Eggplant lace bug|=|Gargaphia solani
 Eggs|=|Egg
-Eggs as food|=|Egg as food
 Eggs, Fossil|=|Egg fossil
 Eglinton, Earls of|<->|Earl of Eglinton
 Egmont Islands (British Indian Ocean Territory)|=|Egmont Islands
@@ -12262,7 +12260,7 @@ Ethnology -- Bahrain|<->|Ethnic, cultural and religious groups of Bahrain
 Ethnology -- Bhutan|<->|Ethnic groups in Bhutan
 Ethnology -- Bosnia and Herzegovina|<->|Ethnic groups in Bosnia and Herzegovina
 Ethnology -- Cambodia|<->|Ethnic groups in Cambodia
-Ethnology -- Caucasus|<->|Peoples of the Caucasus
+Ethnology -- Caucasus|<->|Ethnic groups in the Caucasus
 Ethnology -- China|<->|List of ethnic groups in China
 Ethnology -- Philippines|<->|Ethnic groups in the Philippines
 Ethnology -- Thailand|<->|Ethnic groups in Thailand
@@ -12632,7 +12630,6 @@ Fantasy baseball (Game)|=|Fantasy baseball
 Fantasy basketball (Game)|=|Fantasy basketball
 Fantasy cricket (Game)|=|Fantasy cricket
 Fantasy fiction|=|Fantasy
-Fantasy fiction -- Religious aspects|<->|List of religious ideas in fantasy fiction
 Fantasy films|=|Fantasy film
 Fantasy football (Game)|<->|Fantasy football
 Fantasy games|<->|Role-playing game
@@ -14937,6 +14934,7 @@ Gotha (Germany)|=|Gotha
 Gotha G.I (Bomber)|=|Gotha G.I
 Gotha G.IV (Bomber)|=|Gotha G.IV
 Gotham City (Imaginary place)|=|Gotham City
+Gothenburg system|<->|Gothenburg Public House System
 Gothic fiction (Literary genre)|=|Gothic fiction
 Gothic Line (Italy)|<->|Gothic Line
 Gothic revival (Architecture)|=|Gothic Revival architecture
@@ -17561,7 +17559,7 @@ Independence Day (Afghanistan)|<->|Afghan Independence Day
 Independence Day (Poland)|=|National Independence Day (Poland)
 Independence Hall (Philadelphia, Pa.)|=|Independence Hall
 Independence Mall (Philadelphia, Pa.)|->|Independence National Historical Park
-Independence Mine State Historical Park (Alaska)|<->|Independence Mines
+Independence Mine State Historical Park (Alaska)|<->|Independence Mines, Alaska
 Independence Mountains (Nev.)|=|Independence Mountains
 Independence National Historical Park (Agency : U.S.)|->|Independence National Historical Park
 Independence National Historical Park (Philadelphia, Pa.)|=|Independence National Historical Park
@@ -17961,7 +17959,7 @@ International Military Tribunal|->|Nuremberg trials
 International Paper Company Strike, Jay, Me., 1987-1988|=|1987–1988 International Paper strike
 International Socialist Congress|->|Socialist International
 International Standard Book Numbers|=|ISBN
-International Standard Serial Numbers|=|International Standard Serial Number
+International Standard Serial Numbers|=|ISSN
 International temperature scale|<->|International Temperature Scale of 1990
 International Theatre (New York, N.Y.)|=|International Theatre
 International War Crimes Tribunal|=|Russell Tribunal
@@ -19999,6 +19997,7 @@ Kodomo no hi|=|Children's Day (Japan)
 Kodomo no Kuni (Yokohama-shi, Japan)|=|Kodomonokuni Theme Park
 Kodu (Computer program language)|<->|Kodu Game Lab
 Kodungall&umacr;r (India)|=|Kodungallur
+Koenigsegg automobiles|<->|Koenigsegg
 Kofa Mountains (Ariz.)|=|Kofa Mountains
 Kofa National Wildlife Refuge (Ariz.)|=|Kofa National Wildlife Refuge
 Kofyar (African people)|=|Kofyar people
@@ -20618,7 +20617,7 @@ Lakes -- South Carolina|<->|List of lakes of South Carolina
 Lakes -- South Dakota|<->|List of lakes of South Dakota
 Lakes -- Texas|<->|List of lakes of Texas
 Lakes -- Virginia|<->|List of lakes of Virginia
-Lakes -- Washington (State)|<->|List of lakes of Washington (state)
+Lakes -- Washington (State)|<->|List of lakes of Washington
 Lakes -- West Virginia|<->|List of lakes of West Virginia
 Lakes -- Wisconsin|<->|List of lakes of Wisconsin
 Lakes -- Wyoming|<->|List of lakes of Wyoming
@@ -26969,7 +26968,7 @@ Ontake Mountain (Japan)|=|Mount Ontake
 Ontario -- Politics and government|<->|Politics of Ontario
 Ontario -- Politics and government|<-|Government of Ontario
 Ontario, Lake (N.Y. and Ont.)|=|Lake Ontario
-Ontologies (Information retrieval)|<->|Ontology (computer science)
+Ontologies (Information retrieval)|<->|Ontology (information science)
 Ontonagon River (Mich.)|=|Ontonagon River
 Ontos (Armored military vehicle)|=|M50 Ontos
 Onverwacht Group (South Africa)|<->|Onverwacht Group
@@ -28469,7 +28468,7 @@ Pehuaj&oacute; (Argentina)|=|Pehuajó
 Pehuenche Pass (Argentina and Chile)|=|Paso Pehuenche
 Peipus, Lake (Estonia and Russia)|=|Lake Peipus
 Pelagic fishes|=|Pelagic fish
-Pelagic red crab|=|Pleuroncodes planipes
+Pelagic red crab|=|Grimothea planipes
 Pelagonia, Battle of, North Macedonia, 1259|=|Battle of Pelagonia
 Pelagonija (North Macedonia and Greece)|<->|Pelagonia
 Pele (Hawaiian deity)|=|Pele (deity)
@@ -29093,7 +29092,7 @@ Pipe (Musical instrument)|=|Pipe (instrument)
 Pipe bursting (Underground construction)|=|Pipe bursting
 Pipe, Plastic|=|Plastic pipework
 Pipe Spring National Monument (Ariz.)|=|Pipe Spring National Monument
-Pipelines|<->|Pipeline transport
+Pipelines|=|Pipeline
 Piper (Genus)|=|Piper (plant)
 Piper betle|=|Betel
 Piper Cubs (Airplanes)|=|Piper J-3 Cub
@@ -29855,7 +29854,7 @@ Presidents -- France -- Election -- 2007|=|2007 French presidential election
 Presidents -- Mexico|<->|President of Mexico
 Presidents -- Russia (Federation)|=|President of Russia
 Presidents -- Russia (Federation) -- Election -- 1996|=|1996 Russian presidential election
-Presidents -- Seals|=|Seal of the President
+Presidents -- Seals|=|Seal of the president
 Presidents -- Ukraine|=|President of Ukraine
 Presidents -- Ukraine -- Election -- 2004|=|2004 Ukrainian presidential election
 Presidents -- United States|<->|President of the United States
@@ -29930,7 +29929,7 @@ Press secretaries|=|Press secretary
 Pressburg, Battle of, Bratislava, Slovakia, 907|=|Battle of Pressburg
 Pressure groups|=|Advocacy group
 Pressure -- Measurement|=|Pressure measurement
-Pressure transducers|<->|Pressure sensor
+Pressure transducers|->|Pressure measurement
 Pressurized water reactors|=|Pressurized water reactor
 Pressurized water reactors -- Loss of coolant|->|Loss-of-coolant accident
 Prester John (Legendary character)|=|Prester John
@@ -30934,7 +30933,7 @@ Rayman (Game)|<-|Rayman (video game)
 Raymond Island (Vic. : Island)|=|Raymond Island
 Raynaud's disease|=|Raynaud syndrome
 Rays (Graph theory)|->|End (graph theory)
-Razlovci (North Macedonia) -- History -- Uprising, 1876|=|Razlovtsi insurrection
+Razlovci (North Macedonia) -- History -- Uprising, 1876|=|Razlovci uprising
 Raznochintsy (Russian intellectuals)|<->|Raznochintsy
 RC-26B (Reconnaissance aircraft)|<->|Fairchild C-26 Metroliner
 RDF (Document markup language)|<->|Resource Description Framework
@@ -30974,6 +30973,7 @@ REBOL (Computer program language)|=|Rebol
 Rebus, Inspector (Fictitious character)|->|Inspector Rebus
 Rebuses|<->|Rebus
 Recife (Brazil)|=|Recife
+Recinos family|<->|Recinos
 Reciprocity (International law)|<->|Reciprocity (international relations)
 Reciprocity (Psychology)|=|Reciprocity (social psychology)
 Recitation (Education)|->|Recitation
@@ -31085,12 +31085,15 @@ Refrigerated trucks|=|Refrigerator truck
 Refugees|=|Refugee
 Refugees -- Legal status, laws, etc.|<->|Refugee law
 Refuse and refuse disposal|<->|Waste management
+Refuse as fuel|<->|Refuse-derived fuel
 Refuse collection|=|Waste collection
 Regan (Legendary character)|<->|Regan (King Lear)
 Regen River (Germany)|=|Regen (river)
 Regeneracionismo (Literary movement)|<->|Regenerationism
 Regensberg (Switzerland)|=|Regensberg
 Regensburg (Germany)|=|Regensburg
+Regent Theatre (Picton, Ont.)|=|Regent Theatre (Picton, Ontario)
+Regera automobile|=|Koenigsegg Regera
 Reggae music|=|Reggae
 Reggiane Re.2000 (Fighter plane)|=|Reggiane Re.2000 Falco I
 Reggiane Re.2001 (Fighter plane)|=|Reggiane Re.2001 Falco II
@@ -31463,6 +31466,7 @@ Ririe Reservoir (Idaho)|=|Ririe Reservoir
 Risco Plateado Mountain (Argentina)|=|Risco Plateado
 Risiera di San Sabba (Concentration camp)|=|Risiera di San Sabba
 Risk communication|->|Risk management
+Risography|<->|Risograph
 Ri&scedil;van (Turkic people)|<->|Reşwan (tribe)
 Rithmomachia (Game)|=|Rithmomachia
 Rittenhouse Square (Philadelphia, Pa.)|=|Rittenhouse Square
@@ -31600,6 +31604,9 @@ Rochefort (France)|=|Rochefort, Charente-Maritime
 Rochefort Expedition, 1757|<->|Raid on Rochefort
 Rochester (N.Y.) -- History|=|History of Rochester, New York
 Rochester Race Riot, Rochester, N.Y., 1964|=|1964 Rochester race riot
+Rochor (Singapore)|=|Rochor
+Rochor Centre (Singapore)|=|Rochor Centre
+Rochor River (Singapore)|=|Rochor River
 Rock Creek (Md. and Washington, D.C.)|=|Rock Creek (Potomac River tributary)
 Rock Creek and Potomac Parkway (Washington, D.C.)|=|Rock Creek and Potomac Parkway
 Rock Creek Cemetery (Washington, D.C.)|=|Rock Creek Cemetery
@@ -31689,7 +31696,6 @@ Roma (Battleship)|<->|Italian ship Roma
 Roma (Roman deity)|=|Roma (personification)
 Roman Baths Museum (Bath, England)|<->|Roman Baths (Bath)
 Roman charity (Legend)|=|Roman Charity
-Roman Republic (1798-1799)|<->|Roman Republic (18th century)
 Romance fiction|<->|Romance novel
 Romanesque revival (Architecture)|<->|Romanesque Revival architecture
 Romani Genocide, 1939-1945|<->|Romani Holocaust
@@ -31744,10 +31750,10 @@ Rome (Italy)|=|Rome
 Rome (Italy) -- Annexation to Italy, 1870|<->|Capture of Rome
 Rome (Italy) -- History|=|History of Rome
 Rome (Italy) -- History -- Bombardment, 1943-1944|<->|Bombing of Rome in World War II
-Rome (Italy) -- History -- Revolution, 1798-1799|->|Roman Republic (18th century)
-Rome (Italy) -- History -- Revolution of 1848-1849|->|Roman Republic (1849)
+Rome (Italy) -- History -- Revolution, 1798-1799|->|Roman Republic (1798–1799)
+Rome (Italy) -- History -- Revolution of 1848-1849|->|Roman Republic (1849–1850)
 Rome (Italy) -- History -- Siege, 1527|<->|Sack of Rome (1527)
-Rome (Italy) -- History -- Siege, 1849|->|Roman Republic (1849)
+Rome (Italy) -- History -- Siege, 1849|->|Roman Republic (1849–1850)
 Romeo (Fictitious character)|=|Romeo
 Romesco (Sauce)|=|Romesco
 Romney Campaign, 1861-1862|<->|Romney Expedition
@@ -32301,6 +32307,7 @@ Sakarya, Battle of, Turkey, 1921|=|Battle of the Sakarya
 Sakarya River (Turkey)|=|Sakarya River
 Sakata (African people)|=|Sakata people
 Sakdrisi-Kachagiani Site (Georgia)|=|Sakdrisi
+Sakizaya (Taiwan people)|=|Sakizaya people
 SAKO (Computer program language)|=|SAKO (programming language)
 &Sacute;akti (Hindu deity)|=|Shakti
 &Sacute;akuntal&amacr; (Hindu mythology)|=|Shakuntala
@@ -33066,7 +33073,6 @@ Science fiction, Japanese|=|Japanese science fiction
 Science fiction, Norwegian|=|Norwegian science fiction
 Science fiction -- Periodicals|<->|Science fiction magazine
 Science fiction, Polish|<->|Science fiction and fantasy in Poland
-Science fiction -- Religious aspects|<->|List of religious ideas in science fiction
 Science fiction, Romanian|=|Romanian science fiction
 Science fiction, Russian|<->|Russian science fiction and fantasy
 Science fiction, Serbian|=|Serbian science fiction
@@ -33152,7 +33158,7 @@ Sculptors|->|Sculpture
 Sculpture, African|=|African sculpture
 Sculpture, Indic|<->|Sculpture in the Indian subcontinent
 Sculpture, Japanese|=|Japanese sculpture
-Sculpture, Korean|=|Korean sculpture
+Sculpture, Korean|->|Korean art
 Sculpture gardens|=|Sculpture garden
 Scurcola Marsicana (Italy)|=|Scurcola Marsicana
 Scutari, Lake (Albania and Montenegro)|=|Lake Skadar
@@ -33221,7 +33227,8 @@ Sebastes fasciatus|=|Acadian redfish
 Sebewaing River (Mich.)|=|Sebewaing River
 Sebright bantam chicken|=|Sebright chicken
 Secessionville, Battle of, Secessionville, S.C., 1862|=|Battle of Secessionville
-Sechelt Indians|=|Shíshálh
+Sechelt Indians|=|Shíshálh Nation
+Sechelt language|=|Shíshálh language
 Seco, Arroyo (Los Angeles County, Calif.)|=|Arroyo Seco (Los Angeles County)
 Seco, Arroyo (Monterey County, Calif. : River)|=|Arroyo Seco (Salinas River tributary)
 Second Advent|=|Second Coming
@@ -33550,6 +33557,7 @@ Sexual fantasies|=|Sexual fantasy
 Sexual health|<->|Sexual and reproductive health
 Sexual instinct|<->|Libido
 Sexual minorities|<->|Sexual minority
+Sexual minorities, M&amacr;ori|<->|Takatāpui
 Sexual minorities -- United States|<->|LGBT people in the United States
 Sexual minorities and sports|<->|Homosexuality in modern sports
 Sexual minority authors|<->|List of LGBT writers
@@ -34782,7 +34790,11 @@ South Oyster Bay (N.Y. : Bay)|=|South Oyster Bay
 South Pacific Ocean|->|Pacific Ocean
 South Philadelphia (Philadelphia, Pa.)|=|South Philadelphia
 South Platte River (Colo. and Neb.)|=|South Platte River
+South River (Augusta County and Rockingham County, Va.)|=|South River (South Fork Shenandoah River tributary)
+South River (Carteret County, N.C.)|=|South River (Neuse River estuary)
+South River (Cumberland County-Sampson County, N.C.)|=|South River (North Carolina)
 South River (N.J. : River)|=|South River (Raritan River tributary)
+South River (Ont.)|=|South River (Ontario)
 South Saskatchewan River (Alta. and Sask.)|=|South Saskatchewan River
 South Sea Bubble, Great Britain, 1720|->|South Sea Company
 South Shetland Islands (Antarctica)|=|South Shetland Islands
@@ -35053,6 +35065,7 @@ Sports facilities|<->|Sports venue
 Sports for people with disabilities|<->|Parasports
 Sports for women|=|Women's sports
 Sports injuries|=|Sports injury
+Sports -- Psychological aspects|<->|Sport psychology
 Sports uniforms -- Numbers|<->|Number (sports)
 Sportscasters|<->|Sports commentator
 Sportswriters|->|Sports journalism
@@ -36137,7 +36150,7 @@ Talavera, Battle of, Talavera de la Reina, Spain, 1809|=|Battle of Talavera
 Talavera de la Reina (Spain)|=|Talavera de la Reina
 Talbot automobiles|<->|Talbot
 Ta&lstrok;eban&icirc; family|<->|Talabani
-Talents (Parable)|<->|Parable of the talents or minas
+Talents (Parable)|<->|Parable of the Talents
 Taler|<->|Thaler
 Tales From the Floating Vagabond (Game)|=|Tales from the Floating Vagabond
 Tali-Ihantala, Battle of, Russia, 1944|=|Battle of Tali–Ihantala
@@ -36466,11 +36479,11 @@ Teenagers -- Sexual behavior|<->|Adolescent sexuality
 Teenagers -- Sexual behavior -- United States|<->|Adolescent sexuality in the United States
 Tees Transporter Bridge (Middlesbrough, England)|=|Tees Transporter Bridge
 Teeth|=|Tooth
-Teeth -- Abrasion|<->|Abrasion (dental)
+Teeth -- Abrasion|<->|Dental abrasion
 Teeth -- Bleaching|<->|Tooth whitening
 Teeth -- Discoloration|=|Tooth discoloration
 Teeth -- Diseases|<->|Tooth pathology
-Teeth -- Erosion|<->|Acid erosion
+Teeth -- Erosion|<->|Dental erosion
 Tefedest Mountains (Algeria)|=|Teffedest Mountains
 Tegernsee (Abbey)|=|Tegernsee Abbey
 Tegernsee (Germany)|=|Tegernsee
@@ -36556,6 +36569,7 @@ Tempe Lake (Indonesia)|=|Lake Tempe
 Tempe Papago Park (Tempe, Ariz.)|->|Papago Park
 Tempel 1 comet|=|Tempel 1
 Tempel 2 comet|=|10P/Tempel
+Temperance|<->|Teetotalism
 Temperate forests|=|Temperate forest
 Temperate rain forests|=|Temperate rainforest
 Temperature lapse rate|=|Lapse rate
@@ -36761,7 +36775,7 @@ Textile machinery|<->|Textile manufacturing
 Textile Workers' Strike, Lawrence, Mass., 1912|=|1912 Lawrence textile strike
 Textile Workers' Strike, Mumbai, India, 1982-1983|<->|Great Bombay textile strike
 Textile Workers' Strike, Passaic, N.J., 1926|=|1926 Passaic textile strike
-Textile Workers' Strike, Southern States, 1934|<->|Textile Workers' Strike of 1934
+Textile Workers' Strike, Southern States, 1934|<->|US Textile Workers' Strike of 1934
 Texture (Art)|<->|Texture (visual arts)
 Texture (Crystallography)|<->|Texture (chemistry)
 Textured soy proteins|<->|Textured vegetable protein
@@ -36883,7 +36897,7 @@ Third Coalition, War of the, 1805|<->|War of the Third Coalition
 Third County Courthouse (New York, N.Y.)|=|Third County Courthouse
 Third grade (Education)|=|Third grade
 Third millennium|=|3rd millennium
-Third parties (United States politics)|=|Third party (United States)
+Third parties (United States politics)|=|Third party (U.S. politics)
 Third party litigation funding|<->|Legal financing
 Thirteen (The number)|=|13 (number)
 Thirteen Years' War, 1454-1466|=|Thirteen Years' War (1454–1466)
@@ -36947,7 +36961,6 @@ Three monkeys (Motif)|=|Three wise monkeys
 Three oranges (Tale)|=|The Love for Three Oranges (fairy tale)
 Three-point field goal (Basketball)|=|Three-point field goal
 Three Rivers Heritage Trail (Pa.)|=|Three Rivers Heritage Trail
-Three Saints Bay (Alaska)|=|Three Saints Bay
 Three Stooges (Comedy team)|=|The Three Stooges
 Three Weeks (Jewish mourning custom)|=|The Three Weeks
 Threefold refuge|<->|Refuge in Buddhism
@@ -38511,6 +38524,8 @@ United States. Federal Communications Commission|=|Federal Communications Commis
 United States. Federal Election Commission|=|Federal Election Commission
 United States -- Foreign relations|<->|Foreign policy of the United States
 United States -- Foreign relations|<-|Foreign relations of the United States
+United States -- Foreign relations -- 1861-1865|<->|Diplomacy of the American Civil War
+United States -- Foreign relations -- 1865-1898|<->|History of U.S. foreign policy, 1861–1897
 United States -- Foreign relations -- 1953-1961|<->|Foreign policy of the Dwight D. Eisenhower administration
 United States -- Foreign relations -- 1961-1963|<->|Foreign policy of the John F. Kennedy administration
 United States -- Foreign relations -- 1963-1969|<->|Foreign policy of the Lyndon B. Johnson administration
@@ -39082,7 +39097,7 @@ Venice (Italy)|=|Venice
 Venice (Italy) -- History -- Papal Interdict, 1606-1607|=|Venetian Interdict
 Venice (Italy) -- History -- Turkish Wars, 1453-1571|<->|Ottoman–Venetian wars
 Venice, Lagoon of (Italy)|=|Venetian Lagoon
-Ve&#x1e45;ka&#x1e6d;e&sacute;vara (Hindu deity)|=|Venkateshvara
+Ve&#x1e45;ka&#x1e6d;e&sacute;vara (Hindu deity)|=|Venkateswara
 Venom (Jet fighter plane)|=|De Havilland Venom
 Ventana Cave (Ariz.)|=|Ventana Cave
 Ventana Wilderness (Calif.)|=|Ventana Wilderness
@@ -39397,6 +39412,7 @@ Virtua Fighter 2 (Game)|=|Virtua Fighter 2
 Virtua Fighter 3 (Game)|=|Virtua Fighter 3
 Virtual Bart (Game)|=|Virtual Bart
 Virtual computer systems|<->|Virtual machine
+Virtual exchange (Education)|=|Virtual exchange
 Virtual pets|=|Virtual pet
 Virtual storage (Computer science)|<->|Virtual memory
 Virtues|->|Virtue
@@ -39784,6 +39800,7 @@ WASPs (Persons)|=|White Anglo-Saxon Protestants
 Wassuk Range (Nev.)|=|Wassuk Range
 Waste minimization|=|Waste minimisation
 Waste products|=|Waste
+Waste products as fuel|->|Refuse-derived fuel
 Wastebaskets|<->|Waste container
 Watauga River (N.C. and Tenn.)|=|Watauga River
 Watch Tower Bible and Tract Society|->|Watch Tower Bible and Tract Society of Pennsylvania
@@ -40163,6 +40180,7 @@ White Rock Lake (Tex.)|=|White Rock Lake
 White Sands National Monument (Agency : U.S.)|->|White Sands National Park
 White Sands National Park (N.M.)|=|White Sands National Park
 White shark|=|Great white shark
+White supremacy (Social structure)|->|White supremacy
 White supremacy movements|<->|White supremacy
 White-tailed tropic bird|=|White-tailed tropicbird
 White Tank Mountain Regional Park (Ariz.)|=|White Tank Mountain Regional Park
@@ -40707,7 +40725,7 @@ World Trade Center (New York, N.Y. : 2006- )|<->|World Trade Center (2001–pres
 World Trade Center Bombing, New York, N.Y., 1993|=|1993 World Trade Center bombing
 World War, 1914-1918|=|World War I
 World War, 1914-1918 -- Aerial operations|<->|Aviation in World War I
-World War, 1914-1918 -- Albania|<->|Albania during World War I
+World War, 1914-1918 -- Albania|=|World War I in Albania
 World War, 1914-1918 -- Australia|<->|Military history of Australia during World War I
 World War, 1914-1918 -- Belgium|<->|Belgium in World War I
 World War, 1914-1918 -- Bibliography|<->|Bibliography of World War I
