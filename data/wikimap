@@ -10,8 +10,8 @@
 #   are not included in this file.
 # Manual title and name-title correspondences have been moved to wikiworksmap.
 # See docs file for documentation
-# Last updated 2023-06-23
-# Did LCSH 2015-2021 update lists, 2022 monthly lists 1-11, 12 (main only)
+# Last updated 2023-07-25
+# Did LCSH 2015-2022 update lists: 2023 monthly list 1 (main; A only)
 1 Pendleton Place House (New York, N.Y.)|=|One Pendleton Place
 1009 Fifth Avenue House (New York, N.Y.)|=|Benjamin N. Duke House
 1066 Country Walk (England)|=|1066 Country Walk
@@ -563,6 +563,7 @@ African Americans -- History -- Chronology|<->|Timeline of African-American hist
 African Americans -- Legal status, laws, etc.|<-|Jim Crow laws
 African Americans -- Music|<->|African-American music
 African Americans -- Religion|<->|Religion of Black Americans
+African Americans -- Relations with Indians|<->|Black Indians in the United States
 African Americans -- Relations with Jews|=|African American–Jewish relations
 African Americans -- Study and teaching|->|Black studies
 African Americans in mass media|<->|Representation of African Americans in media
@@ -1019,7 +1020,7 @@ Algebras, Linear|<->|Linear algebra
 Algeria -- History -- Civil War, 1992-2006|<->|Algerian Civil War
 Algeria -- History -- Coup d'&eacute;tat, 1961|=|Algiers putsch of 1961
 Algeria -- History -- Expedition of Charles V, 1541|=|Algiers expedition (1541)
-Algeria -- History -- French Expedition, 1830|<->|Invasion of Algiers in 1830
+Algeria -- History -- French Expedition, 1830|<->|Invasion of Algiers (1830)
 Algeria -- History -- Revolution, 1954-1962|=|Algerian War
 Algeria -- History -- S&eacute;tif Uprising, 1945|<->|Sétif and Guelma massacre
 Algeria -- History -- Spanish Expedition, 1775|<->|Invasion of Algiers (1775)
@@ -1159,6 +1160,7 @@ Alton, Battle of, Alton, Hampshire, England, 1643|=|Battle of Alton
 Altopascio, Battle of, Altopascio, Italy, 1325|=|Battle of Altopascio
 Altranst&auml;dt, Peace of, 1707|<->|Treaty of Altranstädt (1707)
 Altruistic behavior in animals|<->|Altruism (biology)
+Altvater family|<->|Altvater
 Alucitidae|=|Many-plumed moth
 Aluminum|=|Aluminium
 Aluminum alloys|=|Aluminium alloy
@@ -1245,7 +1247,7 @@ Amer Fort (Jaipur, India)|=|Amber Fort
 America|<->|Americas
 America -- Discovery and exploration -- Norse|<->|Norse colonization of North America
 America -- Discovery and exploration -- Pre-Columbian|<->|Pre-Columbian transoceanic contact theories
-America -- Discovery and exploration -- Pre-Columbian|<-|Settlement of the Americas
+America -- Discovery and exploration -- Pre-Columbian|<-|Peopling of the Americas
 American Airlines Flight 11 Hijacking Incident, 2001|<->|American Airlines Flight 11
 American Airlines Flight 77 Hijacking Incident, 2001|<->|American Airlines Flight 77
 American beaver|=|North American beaver
@@ -1585,7 +1587,7 @@ Anthony (Name)|<->|Anthony
 Anthony family|<->|Anthony (surname)
 Anthony Henday Drive (Edmonton, Alta.)|=|Anthony Henday Drive
 Anthracite Coal Strike, Pa., 1897|<->|Lattimer massacre
-Anthracite Coal Strike, Pa., 1902|=|Coal strike of 1902
+Anthracite Coal Strike, Pa., 1902|=|Anthracite coal strike of 1902
 Anthropodermic books|<->|Anthropodermic bibliopegy
 Anthropologists|->|Anthropology
 Anthropology -- Periodicals|<->|List of anthropology journals
@@ -2314,6 +2316,7 @@ Ashland Harbor Breakwater Light (Wis.)|=|Ashland Harbor Breakwater Light
 Ashland, Mount (Or.)|=|Mount Ashland
 Ashman family|<->|Ashman
 Ashoknagar (India : District)|=|Ashoknagar district
+Ashtabula Bridge Disaster, Ashtabula, Ohio, 1876|=|Ashtabula River railroad disaster
 Ashur (Extinct city)|=|Assur
 Asia -- Politics and government|<->|Politics of Asia
 Asia -- Religion|=|Religion in Asia
@@ -2548,6 +2551,7 @@ Aubrey house (London, England)|=|Aubrey House
 Aubrey, Jack (Fictitious character)|=|Jack Aubrey
 Aubrey Peak Wilderness (Ariz.)|=|Aubrey Peak Wilderness
 Aubrey Valley (Ariz.)|=|Aubrey Valley
+Auchenharvie Pit Disaster, Scotland, 1895|<->|Auchenharvie Colliery
 Auckland (N.Z.)|=|Auckland
 Auctions|=|Auction
 Auctor (The Latin word)|<->|Auctor
@@ -4935,7 +4939,6 @@ Breast -- Cancer|=|Breast cancer
 Breast -- Diseases|<->|Breast disease
 Breast prosthesis|=|Breast prostheses
 Breath of Fire (Game)|<->|Breath of Fire
-Breathing apparatus|=|Breathing set
 Breccia pipes|=|Breccia pipe
 Breckenridge Reservoir (Va.)|=|Breckenridge Reservoir
 Brecon Beacons National Park (Wales)|<->|Brecon Beacons
@@ -5089,7 +5092,7 @@ Bronze liver of Piacenza (Bronze)|=|Liver of Piacenza
 Bronze Night, Tallinn, Estonia, 2007|=|Bronze Night
 Bronzes|->|Bronze
 Brooches|=|Brooch
-Brood parasites|=|Brood parasite
+Brood parasites|->|Brood parasitism
 Brooklyn (New York, N.Y.)|=|Brooklyn
 Brooklyn Bridge (New York, N.Y.)|=|Brooklyn Bridge
 Brooklyn Friends Meeting House (New York, N.Y.)|<->|Friends Meetinghouse and School
@@ -5315,7 +5318,7 @@ Bulgaria -- History -- 1878-1944|<->|History of Bulgaria (1878–1946)
 Bulgaria -- History -- 1944-1990|<->|People's Republic of Bulgaria
 Bulgaria -- History -- 1990-|=|History of Bulgaria (1990–present)
 Bulgaria -- History -- 681-1018|<->|First Bulgarian Empire
-Bulgaria -- History -- April Events, 1925|<->|St Nedelya Church assault
+Bulgaria -- History -- April Events, 1925|<->|St. Nedelya Church assault
 Bulgaria -- History -- Coup d'&eacute;tat, 1934|=|1934 Bulgarian coup d'état
 Bulgaria -- History -- Declaration of Independence, 1908|<->|Bulgarian Declaration of Independence
 Bulgaria -- History -- September Uprising, 1944|<->|1944 Bulgarian coup d'état
@@ -6046,7 +6049,7 @@ Cardigan Castle (Cardigan, Wales)|=|Cardigan Castle
 Cardiidae|<->|Cockle (bivalve)
 Cardinal River (Alta.)|=|Cardinal River
 Cardinals|=|Cardinal (Catholic Church)
-Cardinals (Birds)|=|Cardinal (bird)
+Cardinals (Birds)|<->|Cardinalidae
 Cardiologists|->|Cardiology
 Cardiovascular system|=|Circulatory system
 Cardiovascular system -- Diseases|<->|Cardiovascular disease
@@ -6295,7 +6298,7 @@ Castlewood Canyon State Park (Colo.)|=|Castlewood Canyon State Park
 Castling (Chess)|=|Castling
 Castrati|=|Castrato
 Castro family|<->|Castro (surname)
-Castro, Fidel, 1926-2016 -- Assassination attempts|<->|CIA Assassination attempts on Fidel Castro
+Castro, Fidel, 1926-2016 -- Assassination attempts|<->|CIA assassination attempts on Fidel Castro
 Castro, War of, 1642-1644|<->|Wars of Castro
 Casummit Lake (Ont. : Lake)|=|Casummit Lake (Ontario)
 Cat breeds|<->|List of cat breeds
@@ -7063,7 +7066,6 @@ Child molesters|->|Child sexual abuse
 Child psychiatry|<->|Child and adolescent psychiatry
 Child psychology|->|Developmental psychology
 Child rearing|=|Parenting
-Child superheroes|<->|List of child superheroes
 Child trafficking|=|Trafficking of children
 Children|=|Child
 Children of alcoholics|->|Alcoholism in family systems
@@ -9696,7 +9698,7 @@ Dams -- Texas|<->|List of dams and reservoirs in Texas
 Dams -- Turkey|<->|List of dams and reservoirs in Turkey
 Dams -- Utah|<->|List of dams and reservoirs in Utah
 Dams -- Vermont|<->|List of dams and reservoirs in Vermont
-Dams -- Washington (State)|<->|List of dams and reservoirs in Washington (state)
+Dams -- Washington (State)|<->|List of dams and reservoirs in Washington
 Dams -- West Virginia|<->|List of dams and reservoirs in West Virginia
 Dams -- Wisconsin|<->|List of dams and reservoirs in Wisconsin
 Dams -- Wyoming|<->|List of dams and reservoirs in Wyoming
@@ -10399,7 +10401,8 @@ Dillberry Lake Provincial Park (Alta.)|=|Dillberry Lake Provincial Park
 Dillon, Sean (Fictitious character)|=|Sean Dillon (character)
 Dime novels|=|Dime novel
 Dimension theory (Topology)|->|Dimension
-Dimers|=|Dimer (chemistry)
+Dimerization|=|Dimerization (chemistry)
+Dimers|->|Dimerization (chemistry)
 Dimethyl sulfone|=|Methylsulfonylmethane
 Dimethylnitrosamine|=|N-Nitrosodimethylamine
 Diminished-value damages|<->|Diminution in value
@@ -10472,7 +10475,7 @@ Diplomatic and consular service, Estonian|<->|List of diplomatic missions of Est
 Diplomatic and consular service, Fijian|<->|List of diplomatic missions of Fiji
 Diplomatic and consular service, Finnish|<->|List of diplomatic missions of Finland
 Diplomatic and consular service, French|<->|List of diplomatic missions of France
-Diplomatic and consular service, Georgian|<->|List of diplomatic missions of Georgia (country)
+Diplomatic and consular service, Georgian|<->|List of diplomatic missions of Georgia
 Diplomatic and consular service, German|<->|List of diplomatic missions of Germany
 Diplomatic and consular service, Greek|<->|List of diplomatic missions of Greece
 Diplomatic and consular service, Grenadian|<->|List of diplomatic missions of Grenada
@@ -10592,7 +10595,7 @@ Disfigured persons|<->|Disfigurement
 Disinheritance|->|Inheritance
 Disinvestment|<-|Divestment
 Disinvestment -- South Africa|=|Disinvestment from South Africa
-Disjunction (Logic)|=|Logical disjunction
+Disjunction (Logic)|<->|Disjunction (logical connective)
 Disks (Astrophysics)|<->|Accretion disk
 Dislocations|<->|Joint dislocation
 Dismal Swamp (N.C. and Va.)|=|Great Dismal Swamp
@@ -10952,7 +10955,7 @@ Drugs -- Religious aspects|<->|Religion and drugs
 Drugs -- Side effects|<->|Side effect
 Drugs and sex|=|Sex and drugs
 Drugs of abuse|->|Substance abuse
-Drugged driving|<->|Drug–impaired driving
+Drugged driving|<->|Drug-impaired driving
 Druids and druidism|<->|Druid
 Drum family|<->|Drum (surname)
 Drum set|<->|Drum kit
@@ -11211,7 +11214,7 @@ Earthquakes -- Taiwan|<->|List of earthquakes in Taiwan
 Earthquakes -- Turkey|<->|List of earthquakes in Turkey
 Earthquakes -- United States|<->|List of earthquakes in the United States
 Earthquakes -- Vanuatu|<->|List of earthquakes in Vanuatu
-Earthquakes -- Washington (State)|<->|List of earthquakes in Washington (state)
+Earthquakes -- Washington (State)|<->|List of earthquakes in Washington
 Earth sciences|=|Earth science
 Earthworks (Art)|=|Land art
 Earthworms|=|Earthworm
@@ -11945,7 +11948,11 @@ Ensign (Sailboats)|=|Pearson Ensign
 Ensign (Transport plane)|=|Armstrong Whitworth Ensign
 Ensign Peak (Utah)|=|Ensign Peak
 Enslaved children|<->|Child slavery
+Enslaved Indians|->|Slavery among Native Americans in the United States
 Enslaved persons|->|Slavery
+Enslaved persons -- Emancipation|<->|Manumission
+Enslaved persons -- Emancipation -- United States|<->|End of slavery in the United States
+Enslaved persons -- Emancipation -- West Indies, British|<->|Emancipation of the British West Indies
 Enslaved persons' writings|->|Slave narrative
 Enslaved women|->|Slavery
 Enslaved women -- United States|<->|Female slavery in the United States
@@ -13409,7 +13416,7 @@ Fort Donelson, Battle of, Tenn., 1862|=|Battle of Fort Donelson
 Fort Donelson National Battlefield (Tenn. and Ky.)|=|Fort Donelson National Battlefield
 Fort Duquesne (Pa.)|=|Fort Duquesne
 Fort Durham Site (Alaska)|<->|Fort Durham
-Fort Eben-Emael (Eben-Emael, Belgium)|=|Fort Eben-Emael
+Fort Eben-Emael (Eben-Emael, Belgium)|=|Fort Ében-Émael
 Fort Eben-Emael, Battle of, Eben-Emael, Belgium, 1940|=|Battle of Fort Eben-Emael
 Fort Edmonton (Edmonton, Alta.)|<->|Fort Edmonton
 Fort Edmonton Park (Edmonton, Alta.)|=|Fort Edmonton Park
@@ -18385,7 +18392,7 @@ Islands -- Vanuatu|<->|List of islands of Vanuatu
 Islands -- Vietnam|<->|List of islands of Vietnam
 Islands -- Wales|<->|List of islands of Wales
 Islands -- Washington (D.C.)|<->|List of islands of Washington, D.C.
-Islands -- Washington (State)|<->|List of islands of Washington (state)
+Islands -- Washington (State)|<->|List of islands of Washington
 Islands -- West Virginia|<->|List of islands of West Virginia
 Islands -- Wyoming|<->|List of islands of Wyoming
 Islands -- Yemen (Republic)|<->|List of islands of Yemen
@@ -20441,7 +20448,7 @@ La Tablada (Argentina : Military base) -- Siege, 1989|<->|1989 attack on La Tabl
 La T&egrave;ne period|<->|La Tène culture
 Laacher Lake (Germany)|=|Laacher See
 Laamang language|<->|Lamang language
-Lab River (Kosovo)|=|Lab River
+Lab River (Kosovo)|=|Llapi River
 Lab&euml;ria (Albania)|<->|Labëria
 Labiality (Phonetics)|<->|Labialization
 Labor|=|Labour
@@ -20635,7 +20642,7 @@ Lalbagh Fort (Dhaka, Bangladesh)|=|Lalbagh Fort
 Lalita Ghat (V&amacr;r&amacr;nasi, Uttar Pradesh, India)|=|Lalita Ghat
 Lamanites (Mormon Church)|=|Lamanites
 Lamas|=|Lama
-Lamb, Cape (Antarctica)|=|Cape Lamb
+Lamb, Cape (Antarctica)|->|Vega Island
 Lamba (Togolese people)|=|Lamba people
 Lamba (Zambian and Congolese (Democratic Republic) people)|=|Lamba people (Zambia)
 Lamba language (Zambia and Congo)|=|Lamba language
@@ -21199,9 +21206,9 @@ Liberty (Ship)|=|USS Liberty (AGTR-5)
 Liberty Weekend, 1986|=|Liberty Weekend
 Liberty Tower (New York, N.Y.)|=|Liberty Tower (Manhattan)
 Librarians|=|Librarian
-Librarians -- Fiction|<->|Libraries and librarians in fiction
+Librarians -- Fiction|<->|Librarians in popular culture
 Libraries|=|Library
-Libraries -- Fiction|->|Libraries and librarians in fiction
+Libraries -- Fiction|->|Librarians in popular culture
 Libraries -- Publishing|<->|Library publishing
 Libraries -- Special collections|<->|Special collections
 Libraries (Computer program subroutines)|<->|Library (computing)
@@ -21848,7 +21855,7 @@ Ludhiana (India)|=|Ludhiana
 Ludhiana (India : District)|=|Ludhiana district
 Ludlow Mountain (Vt.)|=|Ludlow Mountain
 Lufthansa Flight LH181 Hijacking Incident, 1977|<->|Lufthansa Flight 181
-Lugang Zhen (Taiwan)|<->|Lukang, Changhua
+Lugang Zhen (Taiwan)|<->|Lukang
 Lugano (Switzerland)|=|Lugano
 Lugano, Lake (Switzerland and Italy)|=|Lake Lugano
 Lugbara (African people)|=|Lugbara people
@@ -23136,7 +23143,6 @@ Mecha (Vehicles)|<->|Mecha
 Mechanical drawing|<->|Engineering drawing
 Mechanical filters (Electrical engineering)|=|Mechanical filter
 Mechanics (Persons)|=|Mechanic
-Mechanism (Philosophy)|<->|Mechanical philosophy
 Mechanoids (Game)|->|The Mechanoid Invasion
 Mechelen (Belgium)|=|Mechelen
 Mechernich (Germany)|=|Mechernich
@@ -23292,7 +23298,7 @@ Memphis (Extinct city)|=|Memphis, Egypt
 Memphis (Group)|=|Memphis Group
 Memphis, Battle of, Memphis, Tenn., 1862|=|First Battle of Memphis
 Memphis Grizzlies (Basketball team)|=|Memphis Grizzlies
-Memphis Race Riot, Memphis, Tenn., 1866|=|Memphis riots of 1866
+Memphis Race Riot, Memphis, Tenn., 1866|=|Memphis massacre of 1866
 Men|=|Man
 Men in black (UFO phenomenon)|=|Men in black
 Men in Black: The Roleplaying Game (Game)|=|Men in Black: The Roleplaying Game
@@ -23764,7 +23770,7 @@ Miller Peak (Ariz.)|=|Miller Peak (Arizona)
 Miller State Park (N.H.)|=|Miller State Park
 Millerite movement|=|Millerism
 Millets|=|Millet
-Millhone, Kinsey (Fictitious character), 1950-|=|Kinsey Millhone
+Millhone, Kinsey (Fictitious character), 1950-|->|Sue Grafton
 Milliken's Bend, Battle of, La., 1863|=|Battle of Milliken's Bend
 Millinery|<->|Hatmaking
 Million (The number)|=|1,000,000
@@ -24068,7 +24074,7 @@ Mohave Valley (Ariz.)|=|Mohave Valley
 Mohawk Indians|=|Mohawk people
 Mohawk (Reconnaissance aircraft)|=|Grumman OV-1 Mohawk
 Mohawk River (N.Y.)|=|Mohawk River
-Mohawk River Valley (N.Y.)|<->|Mohawk Valley region
+Mohawk River Valley (N.Y.)|<->|Mohawk Valley
 Mohawk State Forest (Conn.)|=|Mohawk State Forest
 Mohawk Trail (Mass.)|=|Mohawk Trail
 Mohegan Indian Tribe of Connecticut|=|Mohegan Tribe
@@ -26438,7 +26444,7 @@ Nyanga National Park (Zimbabwe)|=|Nyanga National Park
 Nyangatom (African people)|=|Nyangatom people
 Nyangbo language|<->|Nyangbo-Tafi language
 Nyarubuye Massacre, Nyarubuye, Rwanda, 1994|=|Nyarubuye massacre
-Nyaturu (African people)|<->|Turu people
+Nyaturu (African people)|<->|Turu people (Tanzania)
 Nyaw (Southeast Asian people)|=|Nyaw people
 Nyctomys sumichrasti|=|Sumichrast's vesper rat
 Nye family|<->|Nye (surname)
@@ -27216,7 +27222,7 @@ Oranjezicht (Cape Town, South Africa)|=|Oranjezicht
 Oraon (Indic people)|<->|Kurukh people
 Oratories|=|Oratory (worship)
 Orators|=|Orator
-Orban family|<->|Orban (name)
+Orban family|<->|Orban (surname)
 Orbetello (Italy)|=|Orbetello
 Orbetello, Battle of, Orbetello, Italy, 1646|=|Battle of Orbetello
 Orbetello Lagoon (Italy)|=|Laguna di Orbetello
@@ -30519,7 +30525,7 @@ Queen's Park Oval (Port of Spain, Trinidad and Tobago)|=|Queen's Park Oval
 Queen's pawn opening (Chess)|<->|Queen's Pawn Game
 Queen's Plate (Horse race : 1860-1901 : Ont.)|->|King's Plate
 Queen's Plate (Horse race : 1952- : Ont.)|<->|King's Plate
-Queen: The Eye (Game)|=|Queen: The eYe
+Queen: The Eye (Game)|=|Queen: The Eye
 Queens (New York, N.Y.)|=|Queens
 Queens County Farm Museum (New York, N.Y.)|=|Queens County Farm Museum
 Queens Plaza (New York, N.Y.)|=|Queens Plaza (Queens)
@@ -30715,7 +30721,7 @@ Rail-trails|=|Rail trail
 Rail-trails -- Massachusetts|<->|List of rail trails in Massachusetts
 Rail-trails -- New York (State)|<->|List of rail trails in New York
 Rail-trails -- Pennsylvania|<->|List of rail trails in Pennsylvania
-Rail-trails -- Washington (State)|<->|List of rail trails in Washington (state)
+Rail-trails -- Washington (State)|<->|List of rail trails in Washington
 Rail-trails -- West Virginia|<->|List of rail trails in West Virginia
 Railroad accidents|<->|Train wreck
 Railroad accidents -- United States|<->|List of American railroad accidents
@@ -32171,7 +32177,7 @@ Safety hats|<->|Hard hat
 Safety regulations|->|Safety
 Saffron (Spice)|=|Saffron
 Saffron crocus|=|Crocus sativus
-Safi (South Asian people)|=|Safi (Pashtun tribe)
+Safi (South Asian people)|=|Safi (tribe)
 Safi, Tell es- (Israel)|=|Tell es-Safi
 Safwa (African people)|=|Safwa people
 Saga Rebellion, 1874|=|Saga Rebellion
@@ -32421,7 +32427,7 @@ Sami (European people)|=|Sámi
 Sami language|=|Sámi languages
 Samia (African people)|=|Samia tribe
 Samia (Insects)|=|Samia (moth)
-Samish Indians|=|Samish
+Samish Indians|=|Samish people
 SAML S.2 (Military aircraft)|->|Aviatik B.I
 Samma dynasty, ca. 1350-ca. 1520|=|Samma dynasty
 Samo (West African people)|=|Samo people
@@ -34273,6 +34279,7 @@ Slave rebellions|<->|Slave rebellion
 Slave River (Alta. and N.W.T.)|=|Slave River
 Slave trade|->|History of slavery
 Slave traders|->|History of slavery
+Slaveholders|<->|List of slave owners
 Slavery -- Alabama|<->|History of slavery in Alabama
 Slavery -- Alabama -- History|->|History of slavery in Alabama
 Slavery -- Brazil|<->|Slavery in Brazil
@@ -34281,8 +34288,8 @@ Slavery -- California|<->|History of slavery in California
 Slavery -- California -- History|->|History of slavery in California
 Slavery -- Connecticut|<->|History of slavery in Connecticut
 Slavery -- Connecticut -- History|->|History of slavery in Connecticut
-Slavery -- Georgia|<->|History of slavery in Georgia (U.S. state)
-Slavery -- Georgia -- History|->|History of slavery in Georgia (U.S. state)
+Slavery -- Georgia|<->|History of slavery in Georgia
+Slavery -- Georgia -- History|->|History of slavery in Georgia
 Slavery -- Haiti|<->|Slavery in Haiti
 Slavery -- Haiti -- History|->|Slavery in Haiti
 Slavery -- Illinois|<->|History of slavery in Illinois
@@ -34309,8 +34316,11 @@ Slavery -- New York (State)|<->|History of slavery in New York (state)
 Slavery -- New York (State) -- History|->|History of slavery in New York (state)
 Slavery -- Pennsylvania|<->|History of slavery in Pennsylvania
 Slavery -- Pennsylvania -- History|->|History of slavery in Pennsylvania
+Slavery -- Rome|=|Slavery in ancient Rome
+Slavery -- Rome -- History|->|Slavery in ancient Rome
 Slavery -- Texas|<->|History of slavery in Texas
 Slavery -- Texas -- History|->|History of slavery in Texas
+Slavery -- United States -- History -- Colonial period, ca. 1600-1775|=|Slavery in the colonial history of the United States
 Slavery -- Virginia|<->|History of slavery in Virginia
 Slavery -- Virginia -- History|->|History of slavery in Virginia
 Slavery -- West Virginia|<->|History of slavery in West Virginia
@@ -37799,7 +37809,7 @@ Trucks|=|Truck
 True BASIC (Computer program language)|=|True BASIC
 Truffles (Confectionery)|=|Chocolate truffle
 Trujillo (La Libertad, Peru)|=|Trujillo, Peru
-Trujillo (La Libertad, Peru) -- History -- Revolution, 1932|=|Revolution of Trujillo, 1932
+Trujillo (La Libertad, Peru) -- History -- Revolution, 1932|=|1932 Trujillo Revolution
 Truku (Taiwan people)|=|Taroko people
 Truman scholarships|=|Harry S. Truman Scholarship
 Trump family|<->|Trump (surname)
@@ -37818,7 +37828,7 @@ Trutnov (Czech Republic)|=|Trutnov
 Trutnov (Czech Republic : Okres)|=|Trutnov District
 Trygonorrhina|<->|Fiddler ray
 Trygonorrhina fasciata|<->|Eastern fiddler ray
-Trypho|<->|Tryphon (disambiguation)
+Trypho|->|Rabbi Tarfon
 TS-8 Bies (Training plane)|=|PZL TS-8 Bies
 Tsakhurs|=|Tsakhur people
 Tsaritsyn, Battle of, Volgograd, Russia, 1918-1919|<->|Battle of Tsaritsyn
@@ -38141,7 +38151,7 @@ Tyr (Norse deity)|<->|Týr
 Tyrannidae|=|Tyrant flycatcher
 Tyrannus|<->|Kingbird
 Tyre (Lebanon) -- History -- Siege, 332 B.C.|=|Siege of Tyre (332 BC)
-Tyritake (Extinct city)|=|Tyritake
+Tyritake (Extinct city)|=|Tyritakē
 Tyrol (Austria)|=|Tyrol (state)
 Tyrol (Austria) -- History|<->|History of Tyrol
 Tyrol (Austria) -- History -- Uprising of 1809|=|Tyrolean Rebellion
@@ -40262,7 +40272,7 @@ Wild River (N.H. and Me.)|=|Wild River (Androscoggin River tributary)
 Wild thyme|=|Thymus serpyllum
 Wildcat (Fighter plane)|=|Grumman F4F Wildcat
 Wildcat Mountain State Park (Wis.)|=|Wildcat Mountain State Park
-Wildcat strikes|=|Wildcat strike action
+Wildcat strikes|=|Wildcat strike
 Wilderness, Battle of the, Va., 1864|=|Battle of the Wilderness
 Wilderness areas|<->|Wilderness
 Wilderness areas -- Finland|<->|Wilderness areas of Finland
@@ -40752,7 +40762,7 @@ World War, 1914-1918 -- Campaigns -- Serbia|=|Serbian campaign
 World War, 1914-1918 -- Campaigns -- Togo|<->|Togoland campaign
 World War, 1914-1918 -- Campaigns -- Turkey -- Gallipoli Peninsula|=|Gallipoli campaign
 World War, 1914-1918 -- Campaigns -- Western Front|=|Western Front (World War I)
-World War, 1914-1918 -- Canada|<->|Military history of Canada during World War I
+World War, 1914-1918 -- Canada|<->|Canada in World War I
 World War, 1914-1918 -- Casualties|=|World War I casualties
 World War, 1914-1918 -- Causes|=|Causes of World War I
 World War, 1914-1918 -- Cavalry operations|<->|Horses in World War I
@@ -41152,7 +41162,7 @@ Yao language (Southeast Asia)|<->|Mienic languages
 Yaour&eacute; language|=|Yaure language
 Yaqui Indians|=|Yaqui
 Yaqui Indians -- Wars, 1896-1900|<->|Yaqui Uprising
-Yarmuk River|=|Yarmouk River
+Yarmuk River|=|Yarmuk (river)
 Yarmuk River, Battle of the, Syria, 636|=|Battle of the Yarmuk
 Yarmulkes|=|Kippah
 Yarra River (Vic.)|=|Yarra River

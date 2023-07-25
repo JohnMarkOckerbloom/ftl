@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2023-06-14
-# Manual Sweep: resume with KY
+# Last updated 2023-07-25
+# Manual Sweep: resume with LA
 
 ID OLBP
 NAME The Online Books Page
@@ -5517,9 +5517,8 @@ ID OCLC-KBE
 NAME Berea College
 LOCATION Berea
 STATE KY
-CATTYPE voyager-vwebv
-BASEURL http://banc.berea.edu:7008/vwebv/search
-DEFAULT DOMAIN
+BASEURL https://bereacollege.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-KUP
 NAME Big Sandy Community and Technical College
@@ -5652,11 +5651,10 @@ ID OCLC-KMS
 NAME Murray State University
 LOCATION Murray
 STATE KY
-CATTYPE primodl-scope
-BASEURL http://saa-primo.hosted.exlibrisgroup.com
-VID MSU
-LCODE MSU
-SCOPE default_scope
+CATTYPE primo-ve
+BASEURL https://saalck-murraystate.primo.exlibrisgroup.com
+VID 01SAA_MSU:MSU
+SCOPE MyInst_and_CI
 
 ID OCLC-KOW
 NAME Owensboro Community and Technical College
@@ -5728,18 +5726,17 @@ ID OCLC-KUK
 NAME University of Kentucky
 LOCATION Lexington
 STATE KY
-CATTYPE primodl-scope
-BASEURL https://saa-primo.hosted.exlibrisgroup.com
-VID UKY
-LCODE UKY
-SCOPE default_scope
+CATTYPE primo-ve
+BASEURL https://saalck-uky.primo.exlibrisgroup.com
+VID 01SAA_UKY:UKY
+SCOPE MyInst_and_CI
 
 ID OCLC-KLG
 NAME University of Louisville
 LOCATION Louisville
 STATE KY
-BASEURL https://uofl.worldcat.org/search
-CATTYPE worldcat
+BASEURL https://uofl.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-KPC
 NAME West Kentucky Community and Technical College
@@ -5754,11 +5751,10 @@ ID OCLC-9KN
 NAME Western Kentucky University
 LOCATION Bowling Green and other campuses
 STATE KY
-CATTYPE primodl-scope
-BASEURL http://saa-primo.hosted.exlibrisgroup.com
-VID WESTKY
-LCODE WESTKY
-SCOPE default_scope
+CATTYPE primo-ve
+BASEURL https://saalck-wku.primo.exlibrisgroup.com
+VID 01SAA_WESTKY:WESTKY
+SCOPE MyInst_and_CI
 
 ID OCLC-LEB
 NAME East Baton Rouge Parish Library
@@ -8778,12 +8774,12 @@ VID 01PASCAL_ALLEN:ALLEN
 SCOPE Books_Articles_More
 
 ID OCLC-SAL
-NAME Anderson County Library System
+NAME Anderson County Libraries
 LOCATION Anderson and vicinity
 STATE SC
-BASEURL https://sclends.lib.sc.us/eg/opac
-CATTYPE evergreen-dynamic
-LCODE 129
+CATTYPE sirsient
+BASEURL https://scsl.ent.sirsi.net
+LCODE en_US/acl
 
 ID OCLC-BDC
 NAME Benedict College
@@ -8807,6 +8803,15 @@ LOCATION Charleston and vicinity
 STATE SC
 CATTYPE sirsient
 BASEURL http://catalog.ccpl.org
+
+ID OCLC-SBC
+NAME Charleston Southern University, Rivers Library
+LOCATION Charleston
+STATE SC
+CATTYPE primo-ve
+BASEURL https://pascal-csu.primo.exlibrisgroup.com
+VID 01PASCAL_CSU:CSU
+SCOPE MyInst_and_CI
 
 ID OCLC-SEA
 NAME Clemson University Libraries
@@ -8860,11 +8865,11 @@ KEYURL ${BASEURL}/catalog?q=${ARG:N}
 
 ID SCLENDS
 NAME SC LENDS
-LOCATION 14 library systems around SC with shared lending
+LOCATION 20 library systems around SC with shared lending
 STATE SC
-BASEURL https://sclends.lib.sc.us/eg/opac
-CATTYPE evergreen-dynamic
-LCODE 1
+CATTYPE sirsient
+BASEURL https://scsl.ent.sirsi.net
+LCODE en_US/scsl
 
 ID OCLC-SPL
 NAME Spartanburg County Public Libraries
