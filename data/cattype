@@ -592,6 +592,14 @@ KEYURL ${BASEURL}/search?p=${ARG:NK}
 CATTYPE tingdk
 KEYURL ${BASEURL}/search/ting/${ARG:NK}
 
+# Figure most Tinycat installations won't have much standard subject indexing,
+# so default to keyword search for that
+CATTYPE tinycat
+BASEURL https://www.librarycat.org
+AUTURL ${BASEURL}/lib/${LCODE}/search/text/%28+author%3A+${ARG:SNK}+%29+
+TITURL ${BASEURL}/lib/${LCODE}/search/text/%28+title%3A+${ARG:NK}+%29+
+KEYURL ${BASEURL}/lib/${LCODE}/search/text/${ARG:SNK}
+
 # for TLC libraries where this doesn't work, try ls2pac or ls2pac-config
 CATTYPE tlc
 BRANCH ,1,

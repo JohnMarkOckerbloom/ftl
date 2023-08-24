@@ -10,7 +10,7 @@
 #   are not included in this file.
 # Manual title and name-title correspondences have been moved to wikiworksmap.
 # See docs file for documentation
-# Last updated 2023-08-02
+# Last updated 2023-08-24
 # Did LCSH 2015-2022 update lists: 2023 monthly list 1 (main; A only)
 1 Pendleton Place House (New York, N.Y.)|=|One Pendleton Place
 1009 Fifth Avenue House (New York, N.Y.)|=|Benjamin N. Duke House
@@ -137,7 +137,7 @@ Aalborghus Slot (&Aring;lborg, Denmark)|=|Aalborghus
 Aar River (Switzerland)|=|Aare
 Aarau (Switzerland)|=|Aarau
 Aargau (Switzerland)|=|Aargau
-Aaronic Priesthood (Mormon Church)|=|Aaronic priesthood (Latter Day Saints)
+Aaronic Priesthood (Latter Day Saint doctrine)|=|Aaronic priesthood (Latter Day Saints)
 AAVP7A1 (Tracked landing vehicle)|<->|Assault Amphibious Vehicle
 Ababua (African people)|<->|Boa people
 Abaca (Fiber)|->|Abacá
@@ -4894,7 +4894,7 @@ Bra&#x0219;ov (Romania)|=|Brașov
 Bra&#x0219;ov Rebellion, Bra&#x0219;ov, Romania, 1987|=|Brașov rebellion
 Brassieres|=|Bra
 Bratislava (Slovakia)|=|Bratislava
-Bratslav Hasidim|<->|Breslov (Hasidic group)
+Bratslav Hasidim|<->|Breslov
 Bratz (Fictitious characters)|<->|Bratz
 Bratz dolls|->|Bratz
 Braun family|<->|Braun
@@ -5849,7 +5849,7 @@ Canadair Challenger (Jet transport)|<->|Bombardier Challenger
 Canadair CL-44 (Transport plane)|=|Canadair CL-44
 Canadair DC-4M (Transport plane)|<->|Canadair North Star
 Canadian Arctic Expedition (1913-1918)|<->|Canadian Arctic Expedition, 1913–1916
-Canadian (Express train)|=|The Canadian (train)
+Canadian (Express train)|=|The Canadian
 Canadian Grand Prix (Automobile race)|=|Canadian Grand Prix
 Canadian horseweed|=|Erigeron canadensis
 Canadian Invasion, 1775-1776|<->|Invasion of Quebec (1775)
@@ -7355,7 +7355,7 @@ Choragic Monument of Lysicrates (Athens, Greece)|=|Choragic Monument of Lysicrat
 Choral lyric|=|Choral poetry
 Chordata|=|Chordate
 Chords (Music)|=|Chord (music)
-Chornobyl', Battle of, Chornobyl', Ukraine, 1920|=|Battle of Czarnobyl (1920)
+Chornobyl', Battle of, Chornobyl', Ukraine, 1920|=|Battle of Chornobyl
 Chornobyl's'ka atomna elektrostant&#xfe20;s&#xfe21;ii&#xfe20;a&#xfe21; (Chornobyl', Ukraine)|=|Chernobyl Nuclear Power Plant
 Choroti language|=|Iyoʼwujwa Chorote
 Chorrillos, Battle of, Lima, Peru, 1881|<->|Battle of San Juan and Chorrillos
@@ -8288,8 +8288,8 @@ Confessionals (Architecture)|=|Confessional
 Confidential communications|<->|Confidentiality
 Configuration space|<->|Configuration space (physics)
 Confirmation -- Catholic Church|=|Confirmation in the Catholic Church
+Confirmation -- Latter Day Saint churches|=|Confirmation (Latter Day Saints)
 Confirmation -- Lutheran Church|=|Confirmation (Lutheran Church)
-Confirmation -- Mormon Church|=|Confirmation (Latter Day Saints)
 Conflict diamonds|=|Blood diamond
 Conflict of generations|<->|Generation gap
 Conflict of interests|=|Conflict of interest
@@ -9735,7 +9735,7 @@ Danio albolineatus|=|Pearl danio
 Danio nigrofasciatus|=|Spotted danio
 Danish poetry|->|Danish literature
 D&amacr;nishmend dynasty, ca. 1071-1178|<->|Danishmendids
-Danites (Mormon Church)|=|Danite
+Danites (Latter Day Saint churches)|=|Danite
 Dannoura, Battle of, Japan, 1185|=|Battle of Dan-no-ura
 Danny Woo Community Garden (Seattle, Wash.)|=|Danny Woo International District Community Garden
 Dano-Swedish War, 1643-1645|=|Torstenson War
@@ -10016,7 +10016,7 @@ Degeneration (Pathology)|<->|Degeneration (medicine)
 Deglutition|=|Swallowing
 Degree of freedom|=|Degrees of freedom
 Degrees, Academic|=|Academic degree
-Degrees of glory (Mormon theology)|=|Degrees of glory
+Degrees of glory (Latter Day Saint doctrine)|=|Degrees of glory
 Dehing Patkai Wildlife Sanctuary (India)|<->|Dehing Patkai National Park
 Dehydration (Physiology)|=|Dehydration
 Deianira (Greek mythological character)|<->|Deianira
@@ -10595,7 +10595,7 @@ Disfigured persons|<->|Disfigurement
 Disinheritance|->|Inheritance
 Disinvestment|<-|Divestment
 Disinvestment -- South Africa|=|Disinvestment from South Africa
-Disjunction (Logic)|<->|Disjunction (logical connective)
+Disjunction (Logic)|<->|Logical disjunction
 Disks (Astrophysics)|<->|Accretion disk
 Dislocations|<->|Joint dislocation
 Dismal Swamp (N.C. and Va.)|=|Great Dismal Swamp
@@ -10934,7 +10934,7 @@ Drops|<->|Drop (liquid)
 Dropulli (Albania)|<->|Dropull
 Dropwindsondes|=|Dropsonde
 Droughts|=|Drought
-Droughts -- Sahel|=|Sahel drought
+Droughts -- Sahel|=|Droughts in the Sahel
 Drug abuse|->|Substance abuse
 Drug addiction|<->|Substance dependence
 Drug addicts|->|Substance dependence
@@ -11335,7 +11335,7 @@ Ecosexuality|<->|Sexecology
 Ecosocialism|=|Eco-socialism
 Ecoterrorism|=|Eco-terrorism
 Ecstasy (Drug)|=|MDMA
-Ecuador -- History -- Attempted coup, 2010|<->|2010 Ecuador crisis
+Ecuador -- History -- Attempted coup, 2010|<->|2010 Ecuadorian crisis
 Ecuador -- History -- Coup d'&eacute;tat, 1925|->|History of Ecuador (1895–1925)
 Ecuador -- History -- Coup d'&eacute;tat, 2000|=|2000 Ecuadorian coup d'état
 Ecuador -- History -- Wars of Independence, 1809-1830|<->|Ecuadorian War of Independence
@@ -12426,7 +12426,7 @@ Expansion tubes (Hypersonic wind tunnels)|<->|Expansion tube
 Exp&eacute;dition antarctique belge (1897-1899)|=|Belgian Antarctic Expedition
 Expedition of the Thousand, Italy, 1860|=|Expedition of the Thousand
 Expedition sport utility vehicle|=|Ford Expedition
-Expenditures, Public|=|Public expenditure
+Expenditures, Public|=|Government spending
 Experience (Religion)|=|Religious experience
 Experimental design|=|Design of experiments
 Experimental films|=|Experimental film
@@ -12604,7 +12604,7 @@ Families|=|Family
 Families in advertising|=|Family in advertising
 Family constellations (Families)|<->|Family Constellations
 Family counseling|->|Family therapy
-Family home evenings (Mormon Church)|=|Family Home Evening
+Family home evenings (Church of Jesus Christ of Latter-day Saints)|=|Family Home Evening
 Family farms|=|Family farm
 Family literacy programs|<->|Family literacy
 Family reunions|=|Family reunion
@@ -13840,7 +13840,7 @@ Fuerte Sancti Spiritus (Argentina)|<->|Sancti Spiritu (Argentina)
 Fugitive slaves|->|Fugitive slaves in the United States
 Fugitive slaves -- Legal status, laws, etc. -- United States|=|Fugitive slave laws in the United States
 Fugitive slaves -- United States|=|Fugitive slaves in the United States
-Fugue (Psychology)|<->|Fugue state
+Fugue (Psychology)|<->|Dissociative fugue
 Fuji, Mount (Japan)|=|Mount Fuji
 Fujian Sheng (China)|=|Fujian
 Fukui-ken (Japan)|=|Fukui Prefecture
@@ -14559,7 +14559,7 @@ Gifford Pinchot National Forest (Agency : U.S.)|->|Gifford Pinchot National Fore
 Gifford Pinchot National Forest (Wash.)|=|Gifford Pinchot National Forest
 Gift books|=|Gift book
 Gift Lake (Alta.)|<->|Gift Lake Metis Settlement
-Gift of the Holy Ghost (Mormon theology)|->|Confirmation (Latter Day Saints)
+Gift of the Holy Ghost (Latter Day Saint doctrine)|->|Confirmation (Latter Day Saints)
 Gifted children|->|Intellectual giftedness
 Gifted persons|<->|Intellectual giftedness
 Gifts|=|Gift
@@ -14772,7 +14772,7 @@ Goddesses|=|Goddess
 G&ouml;del (Computer program language)|=|Gödel (programming language)
 G&ouml;del numbers|<->|Gödel numbering
 Godesburg (Bonn, Germany)|=|Godesburg
-Godhead (Mormon theology)|<->|God in Mormonism
+Godhead (Latter Day Saint doctrine)|<->|God in Mormonism
 Godhra Train Fire, Godhra, India, 2002|=|Godhra train burning
 Godianism (Cult)|=|Godianism
 Gods|=|Deity
@@ -16335,7 +16335,7 @@ Heroes Unlimited (Game)|=|Heroes Unlimited
 Heron (Transport plane)|<->|De Havilland Heron
 Herons|=|Heron
 Herpes genitalis|=|Genital herpes
-Herpesviruses|=|Herpesviridae
+Herpesviruses|<->|Orthoherpesviridae
 Herrenh&auml;user G&auml;rten (Hannover, Germany)|=|Herrenhausen Gardens
 Herrlisheim (France)|=|Herrlisheim
 Hersheypark (Hershey, Pa.)|=|Hersheypark
@@ -16504,7 +16504,7 @@ Hippies|=|Hippie
 Hippo (Extinct city)|<->|Hippo Regius
 Hippocampus (Brain)|=|Hippocampus
 Hippodamia (Greek mythology)|=|Hippodamia (daughter of Oenomaus)
-Hippodrome of Constantinople (Istanbul, Turkey)|<->|Sultanahmet Square
+Hippodrome of Constantinople (Istanbul, Turkey)|=|Hippodrome of Constantinople
 Hippolyta (Greek mythological character)|=|Hippolyta
 Hippolytus (Mythological character)|<->|Hippolytus of Athens
 Hiri Motu language|=|Hiri Motu
@@ -16687,7 +16687,7 @@ Home range (Animal geography)|=|Home range
 Home rule -- Ireland|<->|Irish Home Rule movement
 Home runs (Baseball)|=|Home run
 Home schooling|=|Homeschooling
-Home teaching (Mormon Church)|<->|Ministering
+Home teaching (Church of Jesus Christ of Latter-day Saints)|<->|Ministering
 Homelands (South Africa)|<->|Bantustan
 Homeless children|->|Homelessness
 Homeless persons|->|Homelessness
@@ -17629,7 +17629,7 @@ Indian mythology|=|Mythologies of the Indigenous peoples of the Americas
 Indian Ocean Tsunami, 2004|<->|2004 Indian Ocean earthquake and tsunami
 Indian philosophy|=|Indigenous American philosophy
 Indian pipe (Plant)|=|Monotropa uniflora
-Indian pottery|<->|Ceramics of indigenous peoples of the Americas
+Indian pottery|<->|Ceramics of Indigenous peoples of the Americas
 Indian Removal, 1813-1903|<->|Indian removal
 Indian Territory -- History -- Civil War, 1861-1865|->|Indian Territory in the American Civil War
 Indian reservations|=|Indian reservation
@@ -17676,7 +17676,7 @@ Indians of North America -- Great Plains|<->|Plains Indians
 Indians of North America -- Iowa|=|American Indians of Iowa
 Indians of North America -- Jewelry|<->|Native American jewelry
 Indians of North America -- Manitoba|<->|First Nations in Manitoba
-Indians of North America -- Maryland|<->|Native American tribes in Maryland
+Indians of North America -- Maryland|<->|Indigenous peoples of Maryland
 Indians of North America -- Nebraska|<->|Native American tribes in Nebraska
 Indians of North America -- New Brunswick|<->|First Nations in New Brunswick
 Indians of North America -- Northeastern States|<->|Indigenous peoples of the Northeastern Woodlands
@@ -18744,7 +18744,7 @@ Jarama River (Spain)|=|Jarama
 Jarbidge Mountains (Nev.)|=|Jarbidge Mountains
 Jarbidge River (Idaho and Nev.)|=|Jarbidge River
 Jardin Majorelle|=|Majorelle Garden
-Jaredites (Mormon Church)|=|Jaredites
+Jaredites (Book of Mormon people)|=|Jaredites
 Jargon (Terminology)|<->|Jargon
 Jarral Rajput (South Asian people)|=|Jarral
 Jasenovac (Concentration camp)|=|Jasenovac concentration camp
@@ -19003,7 +19003,7 @@ Jiu-jitsu|=|Jujutsu
 Jiujiang (Jiangxi Sheng, China)|=|Jiujiang
 Jiuzhaigou Guojiaji Ziran Baohuqu (China)|<->|Jiuzhaigou
 Jivaran languages|=|Chicham languages
-Jju (African people)|=|Bajju people
+Jju (African people)|=|Jju people
 JN-4D (Training plane)|->|Curtiss JN Jenny
 Jo'iyah (South Asian people)|=|Johiya
 Joachim Creek (Mo.)|=|Joachim Creek
@@ -19564,7 +19564,7 @@ Kayes (Mali : Region)|=|Kayes Region
 Kaymakchalan, Battle of, 1916|=|Battle of Kaymakchalan
 Kaypro computers|->|Kaypro
 Kaytetye (Australian people)|=|Kaytetye
-Kazakhstan -- History -- Revolution, 1917-1921|<->|Alash Autonomy
+Kazakhstan -- History -- Revolution, 1917-1921|<->|Alash–Orda
 Kazakhstan -- Politics and government|<->|Politics of Kazakhstan
 Kazakhstan -- Politics and government|<-|Government of Kazakhstan
 Kaziranga National Park (India)|=|Kaziranga National Park
@@ -20391,7 +20391,7 @@ Kyriales|=|Kyriale
 Kyrie eleison|<->|Kyrie
 Kyrgyz|<->|Kyrgyz people
 Kyrgyz newspapers|<->|List of newspapers in Kyrgyzstan
-Kyrgyzstan -- History -- Revolution, 2010|=|Kyrgyz Revolution of 2010
+Kyrgyzstan -- History -- Revolution, 2010|=|2010 Kyrgyz Revolution
 Kyrgyzstan -- History -- Tulip Revolution, 2005|=|Tulip Revolution
 Kyshtym Tragedy, Russia, 1957|=|Kyshtym disaster
 Kythnos (Greece : Municipality)|<->|Kythnos
@@ -20640,7 +20640,7 @@ Lakshm&imacr; (Hindu deity)|=|Lakshmi
 Lal Qila (Delhi, India)|=|Red Fort
 Lalbagh Fort (Dhaka, Bangladesh)|=|Lalbagh Fort
 Lalita Ghat (V&amacr;r&amacr;nasi, Uttar Pradesh, India)|=|Lalita Ghat
-Lamanites (Mormon Church)|=|Lamanites
+Lamanites (Book of Mormon figures)|=|Lamanites
 Lamas|=|Lama
 Lamb, Cape (Antarctica)|->|Vega Island
 Lamba (Togolese people)|=|Lamba people
@@ -20808,6 +20808,11 @@ Latourette Park Golf Course Club House (New York, N.Y.)|=|LaTourette House
 Latrodectus katipo|<->|Katipō
 La&#x1e6d;r&umacr;n -- History -- Siege, 1948|<->|Battles of Latrun (1948)
 Latte (Megalithic monuments)|=|Latte stone
+Latter Day Saint churches|<->|Mormonism
+Latter Day Saint churches -- Controversial literature|<->|Criticism of the Church of Jesus Christ of Latter-day Saints
+Latter Day Saint churches -- Doctrines|->|Beliefs and practices of the Church of Jesus Christ of Latter-day Saints
+Latter Day Saint churches -- History|<->|History of the Latter Day Saint movement
+Latter Day Saint temples|<->|Temple (Latter Day Saints)
 Lattice gauge theories|=|Lattice gauge theory
 Latvia -- History -- German occupation, 1941-1944|=|German occupation of Latvia during World War II
 Latvia -- History -- Soviet occupation, 1940-1941|<->|Soviet occupation of Latvia in 1940
@@ -21177,7 +21182,7 @@ Lezh&euml; (Albania : Rrethi)|<->|Lezhë District
 LFG Roland C.II (Reconnaissance aircraft)|=|LFG Roland C.II
 LFG Roland D.II (Fighter plane)|=|LFG Roland D.II
 LFG Roland D.VI (Fighter plane)|=|LFG Roland D.VI
-LG Group|=|LG Corporation
+LG Group|=|LG
 LGBT community centers|=|LGBT community centre
 Li (Hainan people)|<->|Hlai people
 Li'l Abner (Fictitious character)|<->|Li'l Abner
@@ -21227,7 +21232,7 @@ Library Web sites|=|Library website
 Librazhd (Albania : Rrethi)|=|Librazhd District
 Libya -- History -- Bombardment, 1986|<->|1986 United States bombing of Libya
 Libya -- History -- Civil War, 2011-|<->|Libyan Crisis (2011–present)
-Libya -- History -- Civil War, 2011-|<-|First Libyan Civil War
+Libya -- History -- Civil War, 2011-|<-|Libyan civil war (2011)
 Libya -- History -- Civil War, 2011-|<-|Second Libyan Civil War
 Libya -- History -- Coup d'&eacute;tat, 1969|=|1969 Libyan coup d'état
 Libya -- History -- Karamanli dynasty, 1711-1835|<->|Karamanli dynasty
@@ -21781,7 +21786,7 @@ Louisiana irises|=|Louisiana iris
 Louisiana Maneuvers, 1941|=|Louisiana Maneuvers
 Louisiana Purchase Exposition (1904 : Saint Louis, Mo.)|=|Louisiana Purchase Exposition
 Louisiana State Capitol (Baton Rouge, La.)|=|Louisiana State Capitol
-Louisville (Ky.) -- History -- Civil War, 1861-1865|=|Louisville, Kentucky, in the American Civil War
+Louisville (Ky.) -- History -- Civil War, 1861-1865|=|Louisville, Kentucky in the American Civil War
 Lourdes, Our Lady of|=|Our Lady of Lourdes
 Louth (Ireland : County)|=|County Louth
 Louvre (Paris, France)|<->|Louvre Palace
@@ -22541,7 +22546,7 @@ Manzhouli Zhan (Manzhouli, China)|=|Manzhouli railway station
 Manzikert, Battle of, Turkey, 1071|=|Battle of Manzikert
 Mao (South Asian people)|=|Mao Naga
 Mao Dun wen xue jiang|=|Mao Dun Literature Prize
-Mao Naga language|<->|Sopvoma language
+Mao Naga language|<->|Mao language (Manipur)
 Maonan (Chinese people)|=|Maonan people
 M&amacr;ori (New Zealand people)|=|Māori people
 Map turtles|=|Graptemys
@@ -23264,7 +23269,7 @@ Melanoplus differentialis|=|Differential grasshopper
 Melavveh malkah|=|Melaveh Malkah
 Melbourne Church of England Grammar School|->|Melbourne Grammar School
 Melbourne (Vic.)|=|Melbourne
-Melchizedek Priesthood (Mormon Church)|=|Melchizedek priesthood (Latter Day Saints)
+Melchizedek Priesthood (Latter Day Saint doctrine)|=|Melchizedek priesthood (Latter Day Saints)
 Mele Bay (Shefa Province, Vanuatu)|=|Mele Bay
 Meleager (Greek mythology)|=|Meleager
 Meleagris|<->|Turkey (bird)
@@ -24354,16 +24359,11 @@ Moritzburg (Dresden, Germany)|=|Moritzburg, Saxony
 Morlaks|<->|Morlachs
 Morley Nelson Snake River Birds of Prey National Conservation Area (Idaho)|=|Morley Nelson Snake River Birds of Prey National Conservation Area
 Morm&acirc;ntul Osta&#x0219;ului Necunoscut (Bucharest, Romania)|=|Tomb of the Unknown Soldier (Romania)
-Mormon Church|<->|Mormonism
-Mormon Church -- Controversial literature|<->|Criticism of the Church of Jesus Christ of Latter-day Saints
-Mormon Church -- Doctrines|->|Beliefs and practices of the Church of Jesus Christ of Latter-day Saints
-Mormon Church -- History|<->|History of the Latter Day Saint movement
 Mormon Flat Dam (Ariz.)|=|Mormon Flat Dam
 Mormon Lake (Coconino County, Ariz. : Lake)|=|Mormon Lake
 Mormon Mountains (Nev.)|=|Mormon Mountains
 Mormon Pioneer National Historic Trail|<->|Mormon Trail
 Mormon Reformation, 1856-1857|=|Mormon Reformation
-Mormon temples|<->|Temple (Latter Day Saints)
 Moro Indians|<->|Ayoreo
 Moro language (Kordofanian)|=|Moro language
 Moro language (South America)|=|Ayoreo language
@@ -28329,8 +28329,8 @@ Patos Island Lighthouse (Wash.)|=|Patos Island Light
 Patra (Greece)|=|Patras
 Patras, Gulf of (Greece)|=|Gulf of Patras
 Patriarchs and patriarchate|<->|Patriarch
-Patriarchal blessings (Mormon Church)|=|Patriarchal blessing
-Patriarchs (Mormon theology)|=|Patriarch (Latter Day Saints)
+Patriarchal blessings (Latter Day Saint doctrine)|=|Patriarchal blessing
+Patriarchs (Latter Day Saint churches)|=|Patriarch (Latter Day Saints)
 Patricia Lake (Alta.)|=|Patricia Lake (Alberta)
 Patricians (Rome)|=|Patrician (ancient Rome)
 Patriot Class (Steam locomotives)|<->|LMS Patriot Class
@@ -28973,7 +28973,7 @@ Picture dictionaries|=|Picture dictionary
 Pictured Rocks National Lakeshore (Mich.)|=|Pictured Rocks National Lakeshore
 Pictures|<->|Image
 Pictures Generation (Group of artists)|<->|The Pictures Generation
-PID controllers|=|PID controller
+PID controllers|=|Proportional–integral–derivative controller
 Pidha&#x012d;t&#xfe20;s&#xfe21;i, Battle of, Pidha&#x012d;t&#xfe20;s&#xfe21;i, Ukraine, 1698|<->|Battle of Podhajce (1698)
 Pidyon shevuyim|=|Pidyon shvuyim
 Pied Piper of Hamelin (Legendary character)|<->|Pied Piper of Hamelin
@@ -29180,7 +29180,7 @@ Plains of Abraham, Battle of the, Qu&eacute;bec, 1759|=|Battle of the Plains of 
 Plains pricklypear|=|Opuntia polyacantha
 Plains vizcacha|=|Plains viscacha
 Pl&abreve;m&abreve;deal&abreve; family|<->|Plămădeală
-Plan of salvation (Mormon theology)|=|Plan of salvation in Mormonism
+Plan of salvation (Latter Day Saint doctrine)|=|Plan of salvation in Mormonism
 Planck (Artificial satellite)|<->|Planck (spacecraft)
 Planetary hours (Astrology)|=|Planetary hours
 Planetary nebulae|=|Planetary nebula
@@ -29333,8 +29333,8 @@ Point-of-sale systems|<->|Point of sale
 Point of view (Literature)|->|Narration
 Point Pleasant, Battle of, W. Va., 1774|=|Battle of Point Pleasant
 Point Reyes Lighthouse (Calif.)|=|Point Reyes Lighthouse
-Point Reyes National Seashore (Agency : U.S.)|->|Point Reyes National Seashore
-Point Reyes National Seashore (Calif.)|=|Point Reyes National Seashore
+Point Reyes National Seashore (Agency : U.S.)|->|Point Reyes National Seashore, California
+Point Reyes National Seashore (Calif.)|=|Point Reyes National Seashore, California
 Point State Park (Pittsburgh, Pa.)|=|Point State Park
 Point system (Traffic violations)|=|Point system (driving)
 Point-to-point racing|<->|Point-to-point (steeplechase)
@@ -29711,7 +29711,6 @@ Pottery, Greek|<->|Pottery of ancient Greece
 Pottery, Indic|<->|Pottery in the Indian subcontinent
 Pottery, Japanese|<->|Japanese pottery and porcelain
 Pottery, Korean|<->|Korean pottery and porcelain
-Pott's disease|=|Pott disease
 Poughkeepsie Railroad Bridge (Poughkeepsie, N.Y.)|->|Walkway over the Hudson
 Poulsen family|<->|Poulsen
 Poumai Naga (Indic people)|=|Poumai Naga
@@ -30115,7 +30114,7 @@ Propaganda, Communist|=|Communist propaganda
 Propeller (Microprocessor)|<->|Parallax Propeller
 Property|<-|Property law
 Prophecies|->|Prophecy
-Prophets (Mormon theology)|<->|Prophet, seer, and revelator
+Prophets (Latter Day Saint doctrine)|<->|Prophet, seer, and revelator
 Proportionality in law|<->|Proportionality (law)
 Proposition (Logic)|=|Proposition
 Propp family|<->|Propp
@@ -31182,7 +31181,7 @@ Reno River (Italy)|=|Reno (river)
 Renovation (Architecture)|<->|Renovation
 Rent seeking|=|Rent-seeking
 Reorganized Church of Jesus Christ of Latter Day Saints|->|Community of Christ
-Reoviruses|=|Reoviridae
+Reoviruses|=|Sedoreoviridae
 Repairing|->|Maintenance
 Reparation (Criminal justice)|<->|Reparation (legal)
 Repertory theater|=|Repertory theatre
@@ -31284,7 +31283,7 @@ Reusable space vehicles|<->|Reusable launch vehicle
 Reva automobiles (India)|<->|Mahindra Electric
 Revealed preference theory|<->|Revealed preference
 Revelation -- Islam|<->|Waḥy
-Revelation -- Mormon Church|=|Revelation in Mormonism
+Revelation -- Latter Day Saint churches|=|Revelation in Mormonism
 Revenge Class (Battleships)|=|Revenge-class battleship
 Revenue -- Accounting|<->|Revenue recognition
 Revere Beach (Mass.)|=|Revere Beach
@@ -33102,7 +33101,7 @@ Scleropages formosus|=|Asian arowana
 Sclerotium (Genus)|->|Typhula
 Sclerotium (Mycelium)|=|Sclerotium
 Sclerotium cepivorum|<->|Stromatinia cepivora
-Sclerotium rolfsii|<->|Athelia rolfsii
+Sclerotium rolfsii|<->|Agroathelia rolfsii
 Scolds|->|Shrew (stock character)
 Scooby-Doo (Fictitious character)|=|Scooby-Doo (character)
 Scophthalmus aquosus|=|Windowpane flounder
@@ -34726,7 +34725,7 @@ Sound, Battle of the, 1658|=|Battle of the Sound
 Sound recordings|->|Sound recording and reproduction
 Sound recordings -- Album covers|<->|Album cover
 Sound-waves -- Attenuation|<->|Acoustic attenuation
-Soundies (Motion pictures)|=|Soundies
+Soundies (Motion pictures)|=|Soundie
 Sounding rockets|=|Sounding rocket
 Soundpost|=|Sound post
 Sounds|->|Sound
@@ -35184,7 +35183,7 @@ Staggerford (Minn. : Imaginary place)|<->|Staggerford
 Staging (Space flight)|<->|Multistage rocket
 Stagnation (Economics)|=|Economic stagnation
 Stags Leap District American Viticultural Area (Calif.)|=|Stags Leap District AVA
-Stakes (Mormon Church)|=|Stake (Latter Day Saints)
+Stakes (Latter Day Saint churches)|=|Stake (Latter Day Saints)
 Stakhanov movement|=|Stakhanovite movement
 Stalemate (Chess)|=|Stalemate
 Stalin Prize|<->|USSR State Prize
@@ -35322,7 +35321,7 @@ Stereotypes (Social psychology) -- United States|<->|Stereotypes of groups withi
 Sterilization (Birth control)|<->|Sterilization (medicine)
 Sternum -- Fractures|=|Sternal fracture
 Stettler (Alta. : County)|=|County of Stettler No. 6
-Stevedores|=|Stevedore
+Stevedores|=|Dockworker
 Stevedores' Strike, Belfast, Northern Ireland, 1907|=|1907 Belfast Dock strike
 Stevens, Mount (Alaska)|=|Mount Stevens (Alaska)
 Stewart-Cassiar Highway 37 (B.C. and Yukon)|<->|Stewart–Cassiar Highway
@@ -36198,7 +36197,7 @@ Taman Nasional Danau Sentarum (Indonesia)|=|Lake Sentarum National Park
 Taman Nasional Gunung Ciremai (Indonesia)|=|Mount Ciremai National Park
 Taman Nasional Gunung Gede Pangrango (Indonesia)|=|Mount Gede Pangrango National Park
 Taman Nasional Gunung Halimun-Salak (Indonesia)|=|Mount Halimun Salak National Park
-Taman Nasional Gunung Leuser (Indonesia)|=|Mount Leuser National Park
+Taman Nasional Gunung Leuser (Indonesia)|=|Gunung Leuser National Park
 Taman Nasional Karimunjawa (Indonesia)|=|Karimunjawa National Park
 Taman Nasional Kayan Mentarang (Indonesia)|=|Kayan Mentarang National Park
 Taman Nasional Kerinci Seblat (Indonesia)|=|Kerinci Seblat National Park
@@ -36592,7 +36591,7 @@ Template matching (Digital image processing)|=|Template matching
 Temple Beth Israel (Eugene, Or.)|=|Temple Beth Israel (Eugene, Oregon)
 Temple Beth Israel (Meridian, Miss.)|<->|Congregation Beth Israel (Meridian, Mississippi)
 Temple Beth Israel (Phoenix, Ariz.)|=|Temple Beth Israel (Phoenix)
-Temple endowments (Mormon Church)|<->|Endowment (Latter Day Saints)
+Temple endowments (Latter Day Saint doctrine)|<->|Endowment (Latter Day Saints)
 Temple Mount (Jerusalem)|=|Temple Mount
 Temple of Artemis (Corfu Island, Greece)|=|Temple of Artemis, Corfu
 Temple of Artemis (Ephesus)|=|Temple of Artemis
@@ -38213,7 +38212,6 @@ Udekhe (Asian people)|=|Udege people
 Udekhe language|=|Udege language
 Udine (Italy)|=|Udine
 Udis (South Caucasian people)|=|Udi people
-Udmurts|=|Udmurt people
 Uduk (African people)|=|Uduk people
 Udy&amacr;n J&amacr;ti Bra&#x1e25; S&imacr;hanu Ram (Cambodia)|=|Ream National Park
 Udzungwa Mountains National Park (Agency : Tanzania)|->|Udzungwa Mountains National Park
@@ -38409,7 +38407,7 @@ United Irishmen|=|Society of United Irishmen
 United Nations Decade of Education for Sustainable Development, 2005-2014|=|United Nations Decade of Education for Sustainable Development
 United Nations. Observer Mission in Angola|=|MONUA
 United Nations -- Peacekeeping forces|<->|United Nations peacekeeping
-United orders (Mormon Church)|=|United Order
+United orders (Latter Day Saint churches)|=|United Order
 United Palace (New York, N.Y.)|=|United Palace
 United Parcel Service Strike, 1997|=|1997 United Parcel Service strike
 United States. Administration for Children and Families|=|Administration for Children and Families
@@ -38844,7 +38842,7 @@ Usonian houses|<->|Usonia
 &Uacute;st&iacute; nad Labem Massacre, &Uacute;st&iacute; nad Labem, Czech Republic, 1945|=|Ústí massacre
 Usu Mountain (Japan)|=|Mount Usu
 Usumacinta River (Guatemala and Mexico)|=|Usumacinta River
-Usun (Central Asian people)|->|Zhuz
+Usun (Central Asian people)|->|Jüz
 Usutu River (South Africa)|=|Maputo River
 Ut pictura poesis (Aesthetics)|<->|Ut pictura poesis
 UTA Flight 772 Bombing Incident, 1989|<->|UTA Flight 772
@@ -39727,7 +39725,7 @@ Warbstow (England)|=|Warbstow
 Ward Cove (Alaska : Bay)|=|Ward Cove
 Wardaman (Australian people)|=|Wardaman people
 Wardian cases|=|Wardian case
-Wards (Mormon Church)|=|Ward (LDS Church)
+Wards (Latter Day Saint churches)|=|Ward (LDS Church)
 Ware (Hertfordshire, England)|=|Ware, Hertfordshire
 Ware Mutiny, Ware, Hertfordshire, England, 1647|=|Corkbush Field mutiny
 Warhammer 40,000 (Game)|=|Warhammer 40,000
@@ -39805,7 +39803,7 @@ Washington Street (Manhattan, New York, N.Y.)|=|Washington Street (Manhattan)
 Washington Wizards (Basketball team)|=|Washington Wizards
 Washington's Expedition to the Ohio, 1st, 1753-1754|->|George Washington in the French and Indian War
 Washington's Expedition to the Ohio, 2nd, 1754|->|George Washington in the French and Indian War
-Washita Campaign, 1868-1869|<->|Battle of Washita River
+Washita Campaign, 1868-1869|<->|Battle of the Washita River
 Wasps|=|Wasp
 WASPs (Persons)|=|White Anglo-Saxon Protestants
 Wassuk Range (Nev.)|=|Wassuk Range
@@ -41471,7 +41469,7 @@ Zhuang (Chinese people)|=|Zhuang people
 Zhuoshui River (Taiwan)|=|Zhuoshui River
 Zika virus infection|<->|Zika fever
 Ziegler Polar Expedition (1903-1905)|=|Ziegler Polar Expedition
-Zigula (African people)|=|Zigula people
+Zigula (African people)|=|Zigua people
 Zillertal Alps (Austria and Italy)|=|Zillertal Alps
 Zilog Z-80 (Microprocessor)|=|Zilog Z80
 Zilog Z8000 (Microprocessor)|=|Zilog Z8000
@@ -41488,7 +41486,7 @@ Zinc ion batteries|=|Zinc-ion battery
 Zinc-silver oxide batteries|<->|Silver zinc battery
 Zinfandel (Wine)|<->|Zinfandel
 Zinza (African people)|=|Zinza people
-Zion (Mormon Church)|=|Zion (Latter Day Saints)
+Zion (Latter Day Saint doctrine)|=|Zion (Latter Day Saints)
 Zion, Mount (Jerusalem)|=|Mount Zion
 Zionist churches (Africa)|<->|Zionist churches
 Zionists|->|Zionism

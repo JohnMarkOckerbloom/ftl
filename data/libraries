@@ -7027,12 +7027,20 @@ STATE NJ
 BASEURL http://camden.bywatersolutions.com
 CATTYPE koha
 
+ID ENGELGEORGIST
+NAME Engel Georgist Library
+LOCATION Princeton
+STATE NJ
+LCODE EngelGeorgistLibrary
+CATTYPE tinycat
+
 ID OCLC-HUN
 NAME Hunterdon County Library
 LOCATION Flemington, Clinton, and Lambertville
 STATE NJ
-BASEURL http://ipac.hclibrary.us/polaris
-CATTYPE polaris
+CATTYPE vufindsi
+BASEURL https://hunterdon.aspendiscovery.org/Union/Search
+FILTERS S
 
 ID OCLC-MRR
 NAME Mercer County Community College
@@ -7043,12 +7051,12 @@ LCODE en_US/mccc
 BASEURL https://merl.ent.sirsi.net
 
 ID OCLC-NNF
-NAME Middlesex County College
+NAME Middlesex College
 LOCATION Edison
 STATE NJ
-BASEURL http://librarycatalog.lmxac.org/uhtbin/cgisirsi
-CATTYPE sirsilib
-LCODE MCC
+CATTYPE sirsient
+BASEURL https://lmac.ent.sirsi.net
+LCODE en_US/mcc
 
 ID OCLC-QBL
 NAME Middletown Township Public Library
@@ -7061,21 +7069,22 @@ ID OCLC-MYL
 NAME Monmouth County Library
 LOCATION Monmouth County
 STATE NJ
-BASEURL http://mcls.sirsi.net/uhtbin/cgisirsi/
-CATTYPE sirsi
+CATTYPE sirsient
+BASEURL https://mcls.ent.sirsi.net
+LCODE en_US/mclweb
 
 ID OCLC-NWM
-NAME Morris Automated Information Network
-LOCATION Morris County public libraries
+NAME MAIN Library alliance
+LOCATION Public libraries in Morris County and vicinity
 STATE NJ
-BASEURL http://catalog.mainlib.org
-CATTYPE polaris
+CATTYPE vufindgeneral
+BASEURL https://discover.mainlib.org/Union/Search
 
 ID OCLC-NJNPL
 NAME Newark Public Library
 LOCATION Newark
 STATE NJ
-BASEURL http://catalog.npl.org
+BASEURL https://catalog.npl.org
 CATTYPE iii-consortium-member
 LCODE 1
 
