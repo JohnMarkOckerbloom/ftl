@@ -10,8 +10,8 @@
 #   are not included in this file.
 # Manual title and name-title correspondences have been moved to wikiworksmap.
 # See docs file for documentation
-# Last updated 2023-08-24
-# Did LCSH 2015-2022 update lists: 2023 monthly list 1 (main; A only)
+# Last updated 2023-09-05
+# Did LCSH 2015-2022 update lists: 2023 monthly list 1 (main; A-Cowlitz only)
 1 Pendleton Place House (New York, N.Y.)|=|One Pendleton Place
 1009 Fifth Avenue House (New York, N.Y.)|=|Benjamin N. Duke House
 1066 Country Walk (England)|=|1066 Country Walk
@@ -558,7 +558,7 @@ African American sexual minorities|<->|African-American LGBT community
 African American singers|<->|List of African-American singers
 African American universities and colleges|<->|Historically black colleges and universities
 African American women suffragists|<->|African-American women's suffrage movement
-African Americans -- History|<->|African-American history
+African Americans -- History|<->|African American history
 African Americans -- History -- Chronology|<->|Timeline of African-American history
 African Americans -- Legal status, laws, etc.|<-|Jim Crow laws
 African Americans -- Music|<->|African-American music
@@ -2908,6 +2908,7 @@ Bacteriophage phi 6|=|Pseudomonas virus phi6
 Baculoviruses|=|Baculoviridae
 Bad faith (Law)|<->|Bad faith
 Bad Frankenhausen (Germany)|=|Bad Frankenhausen
+Badaga (Indic people)|=|Badagas
 Badaga dialect|<->|Badaga language
 Badajoz (Spain)|=|Badajoz
 Badajoz (Spain) -- History -- Siege, 1812|=|Siege of Badajoz (1812)
@@ -3073,7 +3074,7 @@ Ballooning -- Accidents|<->|List of ballooning accidents
 Balloons|=|Balloon
 Ballot boxes|=|Ballot box
 Ballroom dancing|=|Ballroom dance
-Balls (Parties)|=|Ball (dance party)
+Balls (Parties)|=|Ball (dance event)
 Balls (Sporting goods)|<->|Ball
 Ballymaclinton (Franco-British Exhibition, 1908, London, England)|->|Franco-British Exhibition
 Balmoral Castle (Scotland)|=|Balmoral Castle
@@ -3305,7 +3306,7 @@ Barton Creek (Hays County and Travis County, Tex.)|=|Barton Creek
 Barton Regis (England)|<->|Barton Regis Hundred
 Bartow-Pell Mansion (New York, N.Y.)|=|Bartow–Pell Mansion
 Bartram's Garden (Philadelphia, Pa.)|=|Bartram's Garden
-Barycentric coordinates|->|Barycenter
+Barycentric coordinates|<->|Barycentric coordinate system
 Bas-relief|->|Relief
 Bas-Saint-Laurent (Qu&eacute;bec)|=|Bas-Saint-Laurent
 Basa (Cameroonian people)|=|Bassa people (Cameroon)
@@ -4878,6 +4879,7 @@ Branco River (Roraima, Brazil)|=|Branco River
 Brandenburg (Battleship)|=|SMS Brandenburg
 Brandenburg (Brandenburg, Germany)|=|Brandenburg an der Havel
 Brandenburg (Germany)|=|Brandenburg
+Brandenburg Class (Battleships)|=|Brandenburg-class battleship
 Brandenburg D.I. (Fighter plane)|->|Hansa-Brandenburg D.I
 Brandenburger Tor (Berlin, Germany)|=|Brandenburg Gate
 Brandner Valley (Austria)|=|Brandnertal
@@ -5480,6 +5482,7 @@ Bussers (Food service employees)|=|Busser
 Buster Brown (Advertising character)|<->|Buster Brown
 Bustino (Race horse)|=|Bustino
 Bustleton (Philadelphia, Pa.)|=|Bustleton, Philadelphia
+Butanol as fuel|=|Butanol fuel
 Butch and femme (Lesbian culture)|<->|Butch and femme
 Butch T. Cougar (Mascot)|=|Butch T. Cougar
 Butchers (Persons)|=|Butcher
@@ -5772,7 +5775,7 @@ Camerata (Group of music theorists)|=|Florentine Camerata
 Camerini family|<->|Camerini
 Camerino (Italy)|=|Camerino
 Cameron Highlands (Pahang, Malaysia)|=|Cameron Highlands
-Cameroon -- History -- Coup d'&eacute;tat, 1984|=|1984 Cameroonian coup d'état attempt
+Cameroon -- History -- Coup d'&eacute;tat, 1984|=|1984 Cameroonian coup attempt
 Cameroon -- Politics and government|<->|Politics of Cameroon
 Cameroon -- Politics and government|<-|Government of Cameroon
 Cameroonian literature|<->|Literature of Cameroon
@@ -5977,6 +5980,7 @@ Capitals (Architecture)|=|Capital (architecture)
 Capitals (Cities)|=|Capital city
 Capitation fees (Medical care)|=|Capitation (healthcare)
 Capitol Cinema (Cardiff, Wales)|=|Capitol Theatre, Cardiff
+Capitol Hill Organized Protest, Seattle, Wash., 2020|=|Capitol Hill Occupied Protest
 Capitol Limited (Express train)|<->|Capitol Limited
 Capitol Limited (Express train)|<-|Capitol Limited (B&O train)
 Capitol Reef National Park (Utah)|=|Capitol Reef National Park
@@ -6528,7 +6532,6 @@ Centennial Mountains (Idaho and Mont.)|=|Centennial Mountains
 Centennial Olympic Park Bombing, Atlanta, Ga., 1996|=|Centennial Olympic Park bombing
 Center fielders (Baseball)|=|Center fielder
 Center for Monitoring the Impact of Peace|<->|Institute for Monitoring Peace and Cultural Tolerance in School Education
-Center of mass|<-|Barycenter
 Center of Military History|=|United States Army Center of Military History
 Centers (Basketball)|=|Center (basketball)
 Centers (Hockey)|<->|Centre (ice hockey)
@@ -6861,6 +6864,7 @@ Chautauquas|=|Chautauqua
 Chauvet 2-Ard&egrave;che Cave (France)|->|Chauvet Cave
 Chauvet Cave (France)|=|Chauvet Cave
 Chavacano language|=|Chavacano
+Chayu Kongw&#x014f;n (Inch'&#x014f;n, Korea)|=|Jayu Park
 Cheaha Wilderness (Ala.)|=|Cheaha Wilderness
 Cheapside (London, England)|=|Cheapside
 Cheapside Street Fire, Glasgow, Scotland, 1960|=|Cheapside Street whisky bond fire
@@ -11229,7 +11233,7 @@ East Capitol Street (Washington, D.C.)|=|East Capitol Street
 East End (London, England)|=|East End of London
 East Frisian Islands (Germany)|=|East Frisian Islands
 East Hampton (N.Y.)|<->|East Hampton (village), New York
-East Hampton (N.Y. : Town)|=|East Hampton (town), New York
+East Hampton (N.Y. : Town)|=|East Hampton, New York
 East Humboldt Range (Nev.)|=|East Humboldt Range
 East Humboldt Wilderness (Nev.)|=|East Humboldt Wilderness
 East Indian Americans|=|Indian Americans
@@ -12093,7 +12097,7 @@ Epson QX-10 (Computer)|=|Epson QX-10
 Equal time rule (Broadcasting)|<->|Equal-time rule
 Equations|=|Equation
 Equations of state|=|Equation of state
-Equatorial Guinea -- History -- Attempted coup, 2004|=|2004 Equatorial Guinea coup d'état attempt
+Equatorial Guinea -- History -- Attempted coup, 2004|=|2004 Equatorial Guinea coup attempt
 Equatorial Guinean Pidgin language|=|Pichinglis
 Equestrian order (Rome)|<->|Equites
 Equilibrium (Economics)|=|Economic equilibrium
@@ -12249,7 +12253,7 @@ Ethernet (Local area network system)|<->|Ethernet
 Etherow Country Park (Compstall, England)|=|Etherow Country Park
 Ethical culture movement|=|Ethical movement
 Ethical relativism|=|Moral relativism
-Ethiopia -- History -- Coup d'&eacute;tat, 1960|<->|1960 Ethiopian coup d'état attempt
+Ethiopia -- History -- Coup d'&eacute;tat, 1960|<->|1960 Ethiopian coup attempt
 Ethiopia -- History -- Rebellion, 1928-1930|<->|Gugsa Wale's rebellion
 Ethiopian newspapers|<->|List of newspapers in Ethiopia
 Ethiopian Sign Language|<->|Ethiopian sign languages
@@ -14027,8 +14031,8 @@ Galway (Ireland)|=|Galway
 Galway (Ireland : County)|=|County Galway
 Galway Bay (Ireland)|=|Galway Bay
 Gambia|=|The Gambia
-Gambia -- History -- Attempted coup, 2014|=|2014 Gambian coup d'état attempt
-Gambia -- History -- Coup d'&eacute;tat, 1981|=|1981 Gambian coup d'état attempt
+Gambia -- History -- Attempted coup, 2014|=|2014 Gambian coup attempt
+Gambia -- History -- Coup d'&eacute;tat, 1981|=|1981 Gambian coup attempt
 Gambia -- History -- Coup d'&eacute;tat, 1994|=|1994 Gambian coup d'état
 Gambia -- Politics and government|<->|Politics of the Gambia
 Gambits (Chess)|=|Gambit
@@ -14590,7 +14594,7 @@ Gimingham (England)|=|Gimingham
 Gimlets (Tools)|=|Gimlet (tool)
 Ginga (Bomber)|=|Yokosuka P1Y
 Gingerbread men|=|Gingerbread man
-Gingivitis, Necrotizing ulcerative|<->|Acute necrotizing ulcerative gingivitis
+Gingivitis, Necrotizing ulcerative|<->|Necrotizing gingivitis
 Ginsberg family|<->|Günzburg (surname)
 Gippsland (Vic.)|=|Gippsland
 Giralda (Seville, Spain)|=|Giralda
@@ -15328,6 +15332,7 @@ Greek language -- Phonology|<->|Greek phonology
 Greek letter societies|<->|Fraternities and sororities
 Greek poetry|->|Greek literature
 Greek revival (Architecture)|<->|Greek Revival architecture
+Greek Theater (Syracuse, Italy)|=|Greek Theatre of Syracuse
 Green alder sawfly|=|Monsoma pulveratum
 Green Arrow (Fictitious character)|=|Green Arrow
 Green Arrow (Steam locomotive)|=|LNER Class V2 4771 Green Arrow
@@ -17296,7 +17301,7 @@ Ibanag (Philippine people)|=|Ibanag people
 Ibani (African people)|<->|Ibani tribe
 IBEX 35 (Stock price index)|=|IBEX 35
 Ibibio (African people)|=|Ibibio people
-Ibiza (Spain)|=|Ibiza (town)
+Ibiza (Spain)|=|Ibiza, Spain (city)
 Ibiza Island (Spain)|=|Ibiza
 IBM 1130 (Computer)|=|IBM 1130
 IBM 1401 (Computer)|=|IBM 1401
@@ -19381,7 +19386,7 @@ Kanakanavu (Taiwan people)|=|Kanakanavu people
 Kananaskis Country (Alta.)|=|Kananaskis Country
 Kanaq (Malaysian people)|<->|Orang Kanaq
 Kanaq language|<->|Orang Kanaq language
-Kanarese (Indic people)|<->|Kannada people
+Kanarese (Indic people)|<->|Kannadigas
 K&amacr;nchenjunga (Nepal and India)|=|Kangchenjunga
 Kandah&amacr;r (Afghanistan)|=|Kandahar
 Kandah&amacr;r (Afghanistan : Province)|=|Kandahar Province
@@ -19564,7 +19569,7 @@ Kayes (Mali : Region)|=|Kayes Region
 Kaymakchalan, Battle of, 1916|=|Battle of Kaymakchalan
 Kaypro computers|->|Kaypro
 Kaytetye (Australian people)|=|Kaytetye
-Kazakhstan -- History -- Revolution, 1917-1921|<->|Alash–Orda
+Kazakhstan -- History -- Revolution, 1917-1921|<->|Alash Autonomy
 Kazakhstan -- Politics and government|<->|Politics of Kazakhstan
 Kazakhstan -- Politics and government|<-|Government of Kazakhstan
 Kaziranga National Park (India)|=|Kaziranga National Park
@@ -19643,7 +19648,7 @@ Kentucky -- History -- Civil War, 1861-1865|=|Kentucky in the American Civil War
 Kentucky -- History -- War of 1812|=|Kentucky in the War of 1812
 Kentucky and Virginia resolutions of 1798|<->|Kentucky and Virginia Resolutions
 Kentucky bluegrass|=|Poa pratensis
-Kenya -- History -- Coup d'&eacute;tat, 1982|=|1982 Kenyan coup d'état attempt
+Kenya -- History -- Coup d'&eacute;tat, 1982|=|1982 Kenyan coup attempt
 Kenya -- History -- Mau Mau Emergency, 1952-1960|=|Mau Mau rebellion
 Kenya -- Politics and government|<->|Politics of Kenya
 Kenya, Mount (Kenya)|=|Mount Kenya
@@ -21233,7 +21238,7 @@ Librazhd (Albania : Rrethi)|=|Librazhd District
 Libya -- History -- Bombardment, 1986|<->|1986 United States bombing of Libya
 Libya -- History -- Civil War, 2011-|<->|Libyan Crisis (2011–present)
 Libya -- History -- Civil War, 2011-|<-|Libyan civil war (2011)
-Libya -- History -- Civil War, 2011-|<-|Second Libyan Civil War
+Libya -- History -- Civil War, 2011-|<-|Libyan civil war (2014–2020)
 Libya -- History -- Coup d'&eacute;tat, 1969|=|1969 Libyan coup d'état
 Libya -- History -- Karamanli dynasty, 1711-1835|<->|Karamanli dynasty
 Libya -- Politics and government|<->|Politics of Libya
@@ -27213,7 +27218,7 @@ Orange (Color)|=|Orange (colour)
 Orange-bellied frog|=|Anstisia vitellina
 Orange Blossom Special (Express train)|=|Orange Blossom Special (train)
 Orange Lake (N.Y. : Lake)|=|Orange Lake (New York)
-Orangeburg Massacre, Orangeburg, S.C., 1968|=|Orangeburg massacre
+Orangeburg Massacre, Orangeburg, S.C., 1968|=|Orangeburg Massacre
 Orangerie (Ch&acirc;teau de Versailles, Versailles, France)|=|Versailles Orangerie
 Orangeries|=|Orangery
 Oranges|=|Orange (fruit)
@@ -28820,7 +28825,7 @@ Philippine Sea, Battle of the, 1944 (June 19-21)|=|Battle of the Philippine Sea
 Philippines -- History -- 1898-1946|=|History of the Philippines (1898–1946)
 Philippines -- History -- British occupation, 1762-1764|<->|British occupation of Manila
 Philippines -- History -- Cavite Mutiny, 1872|=|1872 Cavite mutiny
-Philippines -- History -- Coup d'&eacute;tat, 1989|=|1989 Philippine coup d'état attempt
+Philippines -- History -- Coup d'&eacute;tat, 1989|=|1989 Philippine coup attempt
 Philippines -- History -- Japanese occupation, 1942-1945|=|Japanese occupation of the Philippines
 Philippines -- History -- Philippine American War, 1899-1902|=|Philippine–American War
 Philippines -- History -- Revolution, 1896-1898|=|Philippine Revolution
@@ -30505,7 +30510,7 @@ Qu&eacute;bec (Qu&eacute;bec)|=|Quebec City
 Qu&eacute;bec (Qu&eacute;bec) -- History|=|History of Quebec City
 Qu&eacute;bec (Qu&eacute;bec) -- History -- Siege, 1775-1776|<->|Battle of Quebec (1775)
 Qu&eacute;bec Expedition, 1690|<->|Battle of Quebec (1690)
-Qu&eacute;bec Expedition, 1711|<->|Quebec Expedition
+Qu&eacute;bec Expedition, 1711|<->|Quebec expedition (1711)
 Quebracho Herrado, Battle of, Quebracho Herrado, Argentina, 1840|=|Battle of Quebracho Herrado
 Quechua Indians|=|Quechua people
 Queen Alexandra Range (Antarctica)|=|Queen Alexandra Range
@@ -31384,7 +31389,6 @@ Richmond National Battlefield Park (Va.)|=|Richmond National Battlefield Park
 Richmond Park (London, England)|=|Richmond Park
 Richmond Road (Staten Island, New York, N.Y.)|=|Richmond Road (Staten Island)
 Richmond upon Thames (London, England)|=|London Borough of Richmond upon Thames
-Richter scale|=|Richter magnitude scale
 Rickwood Caverns State Park (Ala.)|=|Rickwood Caverns State Park
 Rickwood Field (Birmingham, Ala.)|=|Rickwood Field
 Riddah Wars|=|Ridda Wars
@@ -31711,7 +31715,7 @@ Romania -- History -- Peasants' Uprising, 1907|=|1907 Romanian peasants' revolt
 Romania -- History -- Revolution, 1821|=|Wallachian uprising of 1821
 Romania -- History -- Revolution, 1848|<->|Wallachian Revolution of 1848
 Romania -- History -- Revolution, 1848|<-|Moldavian Revolution of 1848
-Romania -- History -- Revolution, 1989|=|Romanian Revolution
+Romania -- History -- Revolution, 1989|=|Romanian revolution
 Romania -- History -- Soviet occupation, 1944-1958|=|Soviet occupation of Romania
 Romania -- History -- Union of the Principalities, 1859|<->|Unification of Moldavia and Wallachia
 Romania -- History -- Uprising, 1941|<->|Legionnaires' rebellion and Bucharest pogrom
@@ -34213,7 +34217,7 @@ Skenoh Island (N.Y.)|=|Skenoh Island
 Skeptics (Greek philosophy)|->|Philosophical skepticism
 Sker House (Kenfig, Wales)|=|Sker House
 Skerryvore Lighthouse (Hebrides, Scotland)|<->|Skerryvore
-Skhirat Coup Attempt, &#x1e62;ukhayr&amacr;t, Morocco, 1971|=|1971 Moroccan coup d'état attempt
+Skhirat Coup Attempt, &#x1e62;ukhayr&amacr;t, Morocco, 1971|=|1971 Moroccan coup attempt
 Ski films|=|Ski film
 Skien (Norway)|=|Skien
 Skikdah (Algeria)|=|Skikda
@@ -34916,7 +34920,7 @@ Spain -- History -- Civil War, 1936-1939 -- International brigades|->|Internatio
 Spain -- History -- Civil War, 1936-1939 -- Participation, Foreign|<->|International response to the Spanish Civil War
 Spain -- History -- Civil War, 1936-1939 -- Participation, German|<->|German involvement in the Spanish Civil War
 Spain -- History -- Civil War, 1936-1939 -- Songs and music|<->|Songs of the Spanish Civil War
-Spain -- History -- Coup d'&eacute;tat, 1981|<->|1981 Spanish coup d'état attempt
+Spain -- History -- Coup d'&eacute;tat, 1981|<->|1981 Spanish coup attempt
 Spain -- History -- Ferdinand and Isabella, 1479-1516|<->|Catholic Monarchs of Spain
 Spain -- History -- House of Austria, 1516-1700|<->|Habsburg Spain
 Spain -- History -- Napoleonic Conquest, 1808-1813|<->|Spain under Joseph Bonaparte
@@ -37218,7 +37222,7 @@ Tlemcen (Algeria : Province)|=|Tlemcen Province
 Tlhaping (African people)|<->|Batlhaping tribe
 Tlikakila River (Kenai Peninsula Borough and Lake and Peninsula Borough, Alaska)|=|Tlikakila River
 Tlingit Indians|=|Tlingit
-Tlokwa (African people)|=|Tlôkwa tribe
+Tlokwa (African people)|=|Tlôkwa people
 Tlos (Extinct city)|=|Tlos
 TMS9900 family (Computer)|->|TMS9900
 TNT (Chemical)|=|TNT
@@ -37968,7 +37972,7 @@ Turkana, Lake (Kenya and Ethiopia)|=|Lake Turkana
 Turkana, Lake, Watershed (Kenya and Ethiopia)|<->|Turkana Basin
 Turkey -- History -- 1288-1453|<->|Rise of the Ottoman Empire
 Turkey -- History -- Ararat Rebellion, 1927-1930|=|Ararat rebellion
-Turkey -- History -- Attempted coup, 2016|=|2016 Turkish coup d'état attempt
+Turkey -- History -- Attempted coup, 2016|=|2016 Turkish coup attempt
 Turkey -- History -- Celali Revolts, 16th-17th centuries|=|Celali rebellions
 Turkey -- History -- Coup d'&eacute;tat, 1960|=|1960 Turkish coup d'état
 Turkey -- History -- Coup d'&eacute;tat, 1971|<->|1971 Turkish military memorandum
@@ -39087,9 +39091,9 @@ Venezuela -- History -- 1556-1810|<->|Colonial Venezuela
 Venezuela -- History -- 1830-1935|<->|History of Venezuela (1830–1908)
 Venezuela -- History -- 1999-|<->|History of Venezuela (1999–present)
 Venezuela -- History -- Anglo German Blockade, 1902|<->|Venezuelan crisis of 1902–1903
-Venezuela -- History -- Attempted coup, 1992 (February 4)|=|February 1992 Venezuelan coup d'état attempt
-Venezuela -- History -- Attempted coup, 1992 (November 27)|=|November 1992 Venezuelan coup d'état attempt
-Venezuela -- History -- Attempted coup, 2002|=|2002 Venezuelan coup d'état attempt
+Venezuela -- History -- Attempted coup, 1992 (February 4)|=|February 1992 Venezuelan coup attempt
+Venezuela -- History -- Attempted coup, 1992 (November 27)|=|November 1992 Venezuelan coup attempt
+Venezuela -- History -- Attempted coup, 2002|=|2002 Venezuelan coup attempt
 Venezuela -- History -- Coup d'&eacute;tat, 1948|=|1948 Venezuelan coup d'état
 Venezuela -- History -- Federal Wars, 1858-1863|<->|Federal War
 Venezuela -- History -- Insurrection of the Comuneros, 1781|->|Revolt of the Comuneros (New Granada)
@@ -39712,7 +39716,6 @@ War of the Nine Armies, 1785-1786|=|Burmese–Siamese War (1785–1786)
 War of the Pacific, 1879-1884|=|War of the Pacific
 War on Terrorism, 2001-2009|<->|War on terror
 War (Philosophy)|<->|Philosophy of war
-War poetry|<->|War poet
 War posters, Soviet|<->|World War II posters from the Soviet Union
 War songs|=|War song
 War wounds|->|Wounded in action
@@ -41215,7 +41218,7 @@ Yemen (People's Democratic Republic) -- History -- Revolution, 1963-1967|=|Aden 
 Yemen (Republic)|<->|Yemen
 Yemen (Republic) -- History|<->|History of Yemen
 Yemen (Republic) -- History -- Civil War, 1994|=|Yemeni Civil War (1994)
-Yemen (Republic) -- History -- Civil War, 2015-|<->|Yemeni Civil War (2014–present)
+Yemen (Republic) -- History -- Civil War, 2015-|<->|Yemeni civil war (2014–present)
 Yemen (Republic) -- History -- T&#x0323;&amacr;hirid dynasty, 1454-1517|->|Tahirids (Yemen)
 Yemen (Republic) -- History -- Unification, 1990|=|Yemeni unification
 Yemenia Flight 626 Crash, Comoros, 2009|<->|Yemenia Flight 626

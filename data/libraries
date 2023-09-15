@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2023-07-25
-# Manual Sweep: resume with LA
+# Last updated 2023-09-15
+# Manual Sweep: resume with ME
 
 ID OLBP
 NAME The Online Books Page
@@ -3085,9 +3085,8 @@ ID OCLC-JUA
 NAME Benecia Public Library
 LOCATION Benecia
 STATE CA
-CATTYPE ls2pac-configamp
-CONFIG BENECIA
-BASEURL https://ls2pac.splashlibraries.org/
+CATTYPE vega
+BASEURL https://benicialibrary-splash.na2.iiivega.com/
 
 ID OCLC-JQF
 NAME Berkeley Public Library
@@ -3216,14 +3215,6 @@ CATTYPE primo-ve
 BASEURL https://caccl-deanza.primo.exlibrisgroup.com
 VID 01CACCL_DEANZA:DEANZA
 SCOPE MyInst_and_CI
-
-ID OCLC-JTK
-NAME Dixon Public Library
-LOCATION Dixon
-STATE CA
-CATTYPE ls2pac-configamp
-CONFIG dixon
-BASEURL https://ls2pac.splashlibraries.org/
 
 ID OCLC-JQO
 NAME El Centro Public Library
@@ -3358,8 +3349,9 @@ ID OCLC-MVP
 NAME Mountain View Public Library
 LOCATION Mountain View
 STATE CA
-BASEURL http://encore.mountainview.gov/iii/encore
-CATTYPE encore
+CATTYPE vufindsi
+BASEURL https://catalog.mountainview.gov/Union/Search
+FILTERS S
 
 ID OCLC-JRI
 NAME Napa County Library
@@ -3372,8 +3364,9 @@ ID OCLC-CNB
 NAME Newport Beach Public Library
 LOCATION Newport Beach
 STATE CA
-BASEURL http://millennium.newport.lib.ca.us
-CATTYPE webpacpro
+BASEURL https://nb.ent.sirsi.net
+CATTYPE sirsient
+LCODE en_US/default
 
 ID OCLC-9JR
 NAME Oakland Public Library
@@ -3397,6 +3390,13 @@ CATTYPE primo-ve
 BASEURL https://oxy.primo.exlibrisgroup.com
 VID 01OCOL_INST:01OCOL
 SCOPE MyInst_and_CI
+
+ID OCLC-JRL
+NAME Oceanside Public Library
+LOCATION Oceanside
+STATE CA
+BASEURL https://oceanside.iii.com/iii/encore
+CATTYPE encore
 
 ID OCLC-PAK
 NAME Pacific Grove Public Library
@@ -3453,8 +3453,9 @@ ID OCLC-RSV
 NAME Roseville Public Library
 LOCATION Roseville
 STATE CA
-BASEURL https://library.roseville.ca.us
-CATTYPE koha
+CATTYPE vufindsi
+BASEURL https://library.roseville.ca.us/Union/Search
+FILTERS S
 
 ID OCLC-JRS
 NAME Sacramento Public Library
@@ -3494,13 +3495,14 @@ STATE CA
 CATTYPE bibliocommons
 BASEURL https://sdcl.bibliocommons.com
 
-# they have their custom bento which is now keyword only
 ID OCLC-CDS
 NAME San Diego State University
 LOCATION San Diego
 STATE CA
-BASEURL https://library.sdsu.edu
-KEYURL ${BASEURL}/bento.php?query=${ARG:SNK}&lsearch=0
+CATTYPE primo-ve
+BASEURL https://csu-sdsu.primo.exlibrisgroup.com
+VID 01CALS_SDL:01CALS_SDL
+SCOPE MyInst_and_CI
 
 ID OCLC-SFR
 NAME San Francisco Public Library
@@ -3585,9 +3587,8 @@ ID OCLC-JTD
 NAME Solano County Library
 LOCATION Solano County
 STATE CA
-CATTYPE ls2pac-configamp
-CONFIG SOLANO
-BASEURL http://ls2pac.splashlibraries.org/
+CATTYPE vega
+BASEURL https://splash.na2.iiivega.com/
 
 ID OCLC-JTH
 NAME Sonoma County Library
@@ -3607,9 +3608,8 @@ ID OCLC-JTJ
 NAME St. Helena Public Library
 LOCATION St. Helena
 STATE CA
-CATTYPE ls2pac-configamp
-CONFIG stheln
-BASEURL http://ls2pac.splashlibraries.org/
+CATTYPE vega
+BASEURL https://shpl-splash.na2.iiivega.com/
 
 ID OCLC-STF
 NAME Stanford University Libraries
@@ -5848,17 +5848,18 @@ ID OCLC-LNU
 NAME University of New Orleans, Long Library
 LOCATION New Orleans
 STATE LA
-CATTYPE eds
-LCODE s8872037
+CATTYPE sirsient
+BASEURL https://uno.ent.sirsi.net
+LCODE en_US/uno
 
 ID OCLC-LNX
 NAME Xavier University of Louisiana
 LOCATION New Orleans
 STATE LA
-BASEURL https://xavier.louislibraries.org/uhtbin/cgisirsi
-CATTYPE sirsient
-BASEURL https://xavier.ent.sirsi.net
-LCODE en_US/xavier
+BASEURL https://library.search.xula.edu
+CATTYPE primo-ve
+VID 01XUOL_INST:XUOL
+SCOPE MyInstitution
 
 ID OCLC-9BY
 NAME Bangor Public Library
