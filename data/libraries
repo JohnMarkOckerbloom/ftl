@@ -10132,6 +10132,14 @@ CATTYPE iii-consortium-member
 BASEURL https://mwrlibrary.armybiznet.com
 LCODE 71
 
+# Same as the catalog for Idaho's Cooperative Information Network, but in WA
+ID OCLC-LIBLM
+NAME Liberty Lake Municipal Library
+LOCATION Liberty Lake
+STATE WA
+BASEURL https://catalog.cinlibraries.org
+CATTYPE koha
+
 ID OCLC-LZS
 NAME Libraries of Stevens County
 LOCATION Stevens County
