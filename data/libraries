@@ -4768,6 +4768,7 @@ LOCATION Coeur d'Alene
 STATE ID
 BASEURL https://catalog.cinlibraries.org
 CATTYPE koha
+FILTERS S
 
 ID OCLC-ZWM
 NAME Cooperative Information Network
@@ -4775,6 +4776,7 @@ LOCATION 27 public and school libraries in northern Idaho and vicinity
 STATE ID
 BASEURL https://catalog.cinlibraries.org
 CATTYPE koha
+FILTERS S
 
 ID OCLC-I4F
 NAME Idaho Falls Public Library
@@ -10139,6 +10141,7 @@ LOCATION Liberty Lake
 STATE WA
 BASEURL https://catalog.cinlibraries.org
 CATTYPE koha
+FILTERS S
 
 ID OCLC-LZS
 NAME Libraries of Stevens County
