@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2023-09-15
-# Manual Sweep: resume with ME
+# Last updated 2023-09-18
+# Manual Sweep: resume with MD
 
 ID OLBP
 NAME The Online Books Page
@@ -5873,23 +5873,28 @@ ID OCLC-BTS
 NAME Bates College
 LOCATION Lewiston
 STATE ME
-CATTYPE summon
-BASEURL http://bates.summon.serialssolutions.com
+CATTYPE primo-ve
+BASEURL https://librarysearch.bates.edu
+VID 01CBB_BCOLL:BATES
+SCOPE NZ_Everything
 
 ID OCLC-BBH
 NAME Bowdoin College
 LOCATION Brunswick
 STATE ME
-BASEURL http://cbbcat.net
-CATTYPE iii-consortium-member
-LCODE 19
+CATTYPE primo-ve
+BASEURL https://bowdoin.primo.exlibrisgroup.com
+VID 01CBB_BOWC:BOWDOIN
+SCOPE DN_and_CI
 
 ID OCLC-CBY
 NAME Colby College
 LOCATION Waterville
 STATE ME
-CATTYPE summon
-BASEURL http://colby.summon.serialssolutions.com
+CATTYPE primo-ve
+BASEURL https://librarysearch.colby.edu
+VID 01CBB_CCLIBRAR:COLBY
+SCOPE DN_and_CI
 
 ID MAINECAT
 NAME MaineCat
@@ -5903,9 +5908,8 @@ ID OCLC-PPN
 NAME Portland Public Library
 LOCATION Portland
 STATE ME
-BASEURL http://catalog.portland.lib.me.us
-CATTYPE webpacpro
-FILTERS N
+CATTYPE bibliocommons
+BASEURL https://portlandlibrary.bibliocommons.com
 
 ID OCLC-MEU
 NAME University of Maine, Fogler Library
@@ -8151,21 +8155,19 @@ ID OCLC-CEO
 NAME Central Oregon Community College
 LOCATION Bend
 STATE OR
-CATTYPE primodl-loc
-BASEURL https://alliance-primo.hosted.exlibrisgroup.com
-LCODE COCC
-VID COCC
-LOC adaptor,scope:(COCC),scope:(P),scope:(E-COCC)
+CATTYPE primo-ve
+BASEURL https://alliance-cocc.primo.exlibrisgroup.com
+VID 01ALLIANCE_COCC:COCC
+SCOPE Everything
 
 ID OCLC-CHK
 NAME Chemeketa Community College
 LOCATION Salem and Yamhill Valley
 STATE OR
-CATTYPE primodl-scope
-BASEURL https://alliance-primo.hosted.exlibrisgroup.com
-LCODE CHEMEK
-VID CHEMEK
-SCOPE everything
+CATTYPE primo-ve
+BASEURL https://librarysearch.chemeketa.edu
+VID 01ALLIANCE_CHEMEK:CHEMEK
+SCOPE Everything
 
 ID OCLC-CHY
 NAME Chemeketa Cooperative Regional Library Service
@@ -8201,11 +8203,10 @@ ID OCLC-WEV
 NAME George Fox University
 LOCATION Newberg
 STATE OR
-CATTYPE primodl-scope
-BASEURL https://alliance-primo.hosted.exlibrisgroup.com
-LCODE Alliance_GFOX
-VID GFOX
-SCOPE gfox_alma_summit_primocentral
+CATTYPE primo-ve
+BASEURL https://alliance-georgefox.primo.exlibrisgroup.com
+VID 01ALLIANCE_GFOX:GFOX
+SCOPE MyInst_and_CI
 
 ID OCLC-JCL
 NAME Jackson County Library Services
@@ -8218,11 +8219,10 @@ ID OCLC-OLP
 NAME Lewis and Clark College
 LOCATION Portland
 STATE OR
-CATTYPE primodl-scope
-BASEURL https://alliance-primo.hosted.exlibrisgroup.com
-LCODE 01ALLIANCE_LCC
-VID LCC
-SCOPE lcc_nz_pc
+CATTYPE primo-ve
+BASEURL https://primo.lclark.edu
+VID 01ALLIANCE_LCC:LCC
+SCOPE EVERYTHING
 
 ID OCLC-LIQ
 NAME LINCC: Libraries in Clackamas County
@@ -8246,11 +8246,10 @@ ID OCLC-OHS
 NAME Oregon Health and Science University
 LOCATION Portland
 STATE OR
-CATTYPE primodl-loc
-BASEURL http://librarysearch.ohsu.edu
-VID OHSU
-LCODE OHSU
-LOC adaptor%2Cscope%3A%28%22OHSU%22%29
+CATTYPE primo-ve
+BASEURL https://librarysearch.ohsu.edu
+VID 01ALLIANCE_OHSU:OHSU
+SCOPE Everything
 
 ID OCLC-ORY
 NAME Oregon State Library
@@ -8264,20 +8263,19 @@ ID OCLC-ORE
 NAME Oregon State University (OSU)
 LOCATION Corvallis and other campuses
 STATE OR
-CATTYPE primodl-scope
-BASEURL http://search.library.oregonstate.edu
-LCODE OSU
-VID OSU
-SCOPE everything
+CATTYPE primo-ve
+BASEURL https://search.library.oregonstate.edu
+VID 01ALLIANCE_OSU:OSU
+SCOPE OSU_Everything_Profile
 
 ID OCLC-ORZ
 NAME Portland State University
 LOCATION Portland
 STATE OR
-CATTYPE primodl-scope
+CATTYPE primo-ve
 BASEURL https://search.library.pdx.edu
-VID PSU
-SCOPE all
+VID 01ALLIANCE_PSU:PSU
+SCOPE All
 
 ID OCLC-OXY
 NAME Springfield Public Library
@@ -8307,11 +8305,10 @@ ID OCLC-OUP
 NAME University of Portland
 LOCATION Portland
 STATE OR
-BASEURL https://alliance-primo.hosted.exlibrisgroup.com
-CATTYPE primodl-scope
-VID UPORT
-LCODE UPORT
-SCOPE up_summit_pc
+CATTYPE primo-ve
+BASEURL https://alliance-up.primo.exlibrisgroup.com
+VID 01ALLIANCE_UPORT:UPORT
+SCOPE Everything
 
 ID OCLC-OQX
 NAME Washington County Cooperative Library Services
@@ -8324,11 +8321,10 @@ ID OCLC-OWT
 NAME Willamette University Libraries
 LOCATION Salem
 STATE OR
-CATTYPE primodl-scope
-BASEURL https://alliance-primo.hosted.exlibrisgroup.com
-LCODE WU
-VID WU
-SCOPE WU_Libraries_Summit
+CATTYPE primo-ve
+BASEURL https://orbiscascade-willamette.primo.exlibrisgroup.com
+VID 01ALLIANCE_WU:WU
+SCOPE MyInst_Summit
 
 ID OCLC-PGA
 NAME Access Pennsylvania
@@ -10034,21 +10030,19 @@ ID OCLC-CWU
 NAME Central Washington University
 LOCATION Ellensburg and other campuses
 STATE WA
-CATTYPE primodl-scope
-BASEURL http://searchlib.cwu.edu
-LCODE CWU
-VID CWU
-SCOPE cwu_alma
+CATTYPE primo-ve
+BASEURL https://searchlib.cwu.edu
+VID 01ALLIANCE_CWU:CWU
+SCOPE CWU_MORE
 
 ID OCLC-CCV
 NAME Clark College
 LOCATION Vancouver
 STATE WA
-CATTYPE primodl-scope
-BASEURL https://alliance-primo.hosted.exlibrisgroup.com
-LCODE CC
-VID CC
-SCOPE cc_alma
+CATTYPE primo-ve
+BASEURL https://alliance-clark.primo.exlibrisgroup.com
+VID 01ALLIANCE_CC:CC
+SCOPE clark_sum_lib
 
 ID OCLC-XTQ
 NAME Columbia Basin College
@@ -10060,12 +10054,11 @@ CATTYPE koha-app
 ID OCLC-WEA
 NAME Eastern Washington University
 LOCATION Cheney and Spokane
-CATTYPE primodl-loc
-BASEURL http://libsearch.ewu.edu
 STATE WA
-VID EWU
-LCODE EWU
-LOC adaptor,scope:(EWU),scope:(EWU_RIVERPOINT),scope:(EWU_CR),scope:(P),scope:(E-EWU),primo_central_multiple_fe
+CATTYPE primo-ve
+BASEURL https://alliance-ewu.primo.exlibrisgroup.com
+VID 01ALLIANCE_EWU:EWU
+SCOPE IZ_NZPhys_CI
 
 ID OCLC-EV4
 NAME Everett Community College
@@ -10080,11 +10073,10 @@ ID OCLC-ESR
 NAME Evergreen State College
 LOCATION Olympia
 STATE WA
-CATTYPE primodl-scope
-BASEURL https://alliance-primo.hosted.exlibrisgroup.com
-LCODE Alliance_EVSC
-VID EVSC
-SCOPE tesc_alma_summit
+CATTYPE primo-ve
+BASEURL https://alliance-evergreen.primo.exlibrisgroup.com
+VID 01ALLIANCE_EVSC:Rapid
+SCOPE NZ_Physical
 
 ID OCLC-FSKGL
 NAME Fiske Genealogical Library
@@ -10105,18 +10097,17 @@ ID OCLC-WUG
 NAME Gonzaga University
 LOCATION Spokane
 STATE WA
-CATTYPE primodl-scope
-BASEURL http://win-primo.hosted.exlibrisgroup.com
-LCODE FOLEY
-VID FOLEY
-SCOPE Foley_Everything
+CATTYPE primo-ve
+BASEURL https://library.search.gonzaga.edu
+VID 01WIN_GONZAGA:FOLEY
+SCOPE zagsummitcdi
 
 ID OCLC-HNW
 NAME Hurst Library, Northwest University
 LOCATION Kirkland
 STATE WA
-BASEURL https://nu.worldcat.org/search
-CATTYPE worldcat
+CATTYPE eds
+LCODE nwcoll
 
 # arbitrarily chose ID of Renton (a KCLS library; no overall ID found)
 ID OCLC-Z26
@@ -10211,12 +10202,20 @@ STATE WA
 CATTYPE bibliocommons
 BASEURL https://sno-isle.bibliocommons.com
 
+ID OCLC-WSN
+NAME Spokane County Library District
+LOCATION Libraries in the Spokane vicinity
+STATE WA
+CATTYPE vufindsi
+BASEURL https://catalog.scld.org/Union/Search
+FILTERS S
+
 ID OCLC-UAG
 NAME Spokane Public Library
 LOCATION Spokane
 STATE WA
-BASEURL http://hzportal.spokanelibrary.org
-CATTYPE ipac20
+BASEURL https://catalog.spokanelibrary.org/catalog
+CATTYPE vufind
 
 ID OCLC-TAW
 NAME Tacoma Public Library
@@ -10237,38 +10236,37 @@ ID OCLC-UPP
 NAME University of Puget Sound
 LOCATION Tacoma
 STATE WA
-CATTYPE primodl-scope
-BASEURL https://alliance-primo.hosted.exlibrisgroup.com
-LCODE UPUGS
-VID UPUGS
-SCOPE everything
+CATTYPE primo-ve
+BASEURL https://alliance-pugetsound.primo.exlibrisgroup.com
+VID 01ALLIANCE_UPUGS:UPUGS
+SCOPE default_scope
 
 ID OCLC-WAU
 NAME University of Washington
 LOCATION Seattle
 STATE WA
-BASEURL https://uwashington.worldcat.org/search
-CATTYPE worldcat
+CATTYPE primo-ve
+BASEURL https://orbiscascade-washington.primo.exlibrisgroup.com
+VID 01ALLIANCE_UW:UW
+SCOPE UW_EVERYTHING
 
 ID OCLC-WSUBL
 NAME Washington State University
 LOCATION Pullman and other campuses
 STATE WA
-CATTYPE primodl-scope
-BASEURL http://searchit.libraries.wsu.edu
-LCODE WSU
-VID WSU
+CATTYPE primo-ve
+BASEURL https://searchit.libraries.wsu.edu
+VID 01ALLIANCE_WSU:WSU
 SCOPE WSU_everything
 
 ID OCLC-XFF
 NAME Western Washington University
 LOCATION Bellingham
 STATE WA
-CATTYPE primodl-scope
-BASEURL http://onesearch.library.wwu.edu
-LCODE WWU
-VID WWU
-SCOPE All
+CATTYPE primo-ve
+BASEURL https://onesearch.library.wwu.edu
+VID 01ALLIANCE_WWU:WWU
+SCOPE DN_and_CI
 
 ID OCLC-WC3
 NAME Whatcom Community College
