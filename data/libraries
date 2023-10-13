@@ -1800,6 +1800,14 @@ BASEURL https://qatar-vcu.primo.exlibrisgroup.com
 VID 01VCUVQA_INST:VQAL
 SCOPE MyInst_and_CI
 
+# Catalog is "Liberty powered by Softlink"; for now, just trying keyword search
+ID OCLC-CU@
+NAME Biblioteca Central&atilde; Universitar&atilde; Bucuresti
+LOCATION Bucharest
+COUNTRY RO
+BASEURL https://catalog.bcub.ro/liberty/opac/search.do
+KEYURL ${BASEURL}?mode=BASIC&modeRadio=KEYWORD&=AUTHOR&=KEYWORD&queryTerm=${ARG:SNK}&operator=AND&includeNonPhysicalItems=true&timeScale=ANY_TIME&limit=Toate&gmd=Toate&branch=Toate&resourceCollection=Toate&activeMenuItem=false
+
 ID OCLC-SU6KU
 NAME King Saud University
 LOCATION Riyadh; English search terms may give limited results
