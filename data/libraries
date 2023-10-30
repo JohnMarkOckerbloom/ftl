@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2023-09-18
-# Manual Sweep: resume with MD
+# Last updated 2023-10-30
+# Manual Sweep: resume with MA
 
 ID OLBP
 NAME The Online Books Page
@@ -3489,6 +3489,13 @@ STATE CA
 BASEURL https://salinas.bywatersolutions.com
 CATTYPE koha
 
+ID OCLC-CBL
+NAME San Bernardino County Library
+LOCATION 32 libraries across San Bernardino County
+STATE CA
+BASEURL https://sbclib.polarislibrary.com/polaris
+CATTYPE polaris
+
 ID OCLC-1JT
 NAME San Diego Public Library
 LOCATION San Diego
@@ -6003,8 +6010,9 @@ NAME Johns Hopkins Libraries
 LOCATION Baltimore
 STATE MD
 BASEURL https://catalyst.library.jhu.edu
-CATTYPE blacklight
-SINDEX subject
+CATTYPE primo-ve
+VID 01JHU_INST:JHU
+SCOPE MyInst_and_CI
 
 ID OCLC-XLJ
 NAME Montgomery County Public Libraries
@@ -6014,20 +6022,23 @@ CATTYPE vufindsi
 BASEURL https://mcpl.aspendiscovery.org/Union/Search
 FILTERS S
 
-# NAL's combined search seems to only work well for keywords
 ID OCLC-AGL
 NAME National Agricultural Library
 LOCATION Beltsville
 STATE MD
-BASEURL https://agricola.nal.usda.gov/vwebv/search
-KEYURL ${BASEURL}?searchArg=${ARG}&searchCode=GKEY^*&searchType=1
+BASEURL https://search.nal.usda.gov
+CATTYPE primo-ve
+VID 01NAL_INST:MAIN
+SCOPE MyInstitution
 
 ID OCLC-PGL
 NAME Prince George's Community College
 LOCATION Largo
 STATE MD
-CATTYPE voyager-vwebv
-BASEURL http://prncgeo-voyager.hosted.exlibrisgroup.com/vwebv/search
+BASEURL https://pgcc.primo.exlibrisgroup.com
+CATTYPE primo-ve
+VID 01PGCC_INST:PGCC
+SCOPE MyInst_and_CI
 
 ID OCLC-MDK
 NAME Prince George's County Memorial Library System
@@ -6040,8 +6051,10 @@ ID OCLC-UNA
 NAME United States Naval Academy, Nimitz Library
 LOCATION Annapolis
 STATE MD
-CATTYPE summon
-BASEURL http://usna.summon.serialssolutions.com
+BASEURL https://usna.primo.exlibrisgroup.com
+CATTYPE primo-ve
+VID 01USNA_INST:01USNA
+SCOPE MyInst_and_CI
 
 ID OCLC-MUB
 NAME University of Maryland Baltimore County
@@ -6051,12 +6064,13 @@ CATTYPE eds
 LCODE baltcnty
 PROFILE media2
 
+# UMD libraries now has its own custom search
 ID OCLC-UMC
 NAME University of Maryland Libraries
 LOCATION College Park
 STATE MD
-BASEURL https://umaryland.worldcat.org/search
-CATTYPE worldcat
+BASEURL https://www.lib.umd.edu
+KEYURL ${BASEURL}/search?query=${ARG:SNK}
 
 ID OCLC-QWR
 NAME Beverly Public Library
@@ -8751,13 +8765,14 @@ CATTYPE ipac20
 BASEURL http://uprhip.upr.edu:85
 SINDEX .SW
 
-# Brown now has a custom search; not clear if you can limit to fields
 ID OCLC-RBN
 NAME Brown University Library
 LOCATION Providence
 STATE RI
-BASEURL https://search.library.brown.edu/
-KEYURL ${BASEURL}?q=${ARG}
+CATTYPE primo-ve
+BASEURL https://bruknow.library.brown.edu
+VID 01BU_INST:BROWN
+SCOPE MyInst_and_CI
 
 ID OCLC-CCW
 NAME Community College of Rhode Island

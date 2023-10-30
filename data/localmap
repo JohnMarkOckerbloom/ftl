@@ -7,13 +7,82 @@
 #  or Library-code2 inherits Library-code1
 #   to reuse all the correspondences declared previously in Library-code1
 # In this file, non-ASCII characters are included literally (no entities)
-# Last updated 2021-12-10; reflects LC changes of November 2021 (11b)
-# 
-#   U-Colorado Boulder mappings based on https://www.colorado.edu/libraries/2018/08/19/inclusive-spaces-and-practices as modified by LCSH 2021 list 111b
+# Last updated 2023-10-30
+#   Duke mappings based on https://github.com/trln/marc-to-argot/blob/main/lib/translation_maps/shared/subject_heading_remappings.yaml and October 2023 LCSH - NOT DONE YET. CHECK TO SEE IF OTHER LIBRARIES ARE USING THIS
+#  Also check to see if LCSH "Foreign property" should be remapped
+#  Also check to see if LCSH "Noncitizen detention centers" should be remapped
+OCLC-NDD|African American gay people|=|African American gays
+OCLC-NDD|African American gay people in literature|=|African American gays in literature
+OCLC-NDD|African American LGBTQ people|=|African American sexual minorities
+OCLC-NDD|African American LGBTQ students|=|African American sexual minority students
+OCLC-NDD|African American LGBTQ youth|=|African American sexual minority youth
+OCLC-NDD|Alaska Native LGBTQ people|=|Alaska Native sexual minorities
+OCLC-NDD|Alaska Native LGBTQ students|=|Alaska Native sexual minority students
+OCLC-NDD|Alaska Native LGBTQ youth|=|Alaska Native sexual minority youth
+OCLC-NDD|Arab American LGBTQ people|=|Arab American sexual minorities
+OCLC-NDD|Argentina -- History -- Terrorismo de Estado, Argentina, 1976-1983|=|Argentina -- History -- Dirty War, 1976-1983
+OCLC-NDD|Artificial satellites, Indian (India)|=|Artificial satellites, East Indian
+OCLC-NDD|Asian American gay people|=|Asian American gays
+OCLC-NDD|Asian American LGBTQ people|=|Asian American sexual minorities
+OCLC-NDD|Asian American LGBTQ students|=|Asian American sexual minority students
+OCLC-NDD|Asian American LGBTQ youth|=|Asian American sexual minority youth
+OCLC-NDD|Banks and banking, Indian (India)|=|Banks and banking, East Indian
+OCLC-NDD|Catholic gay people|=|Catholic gays
+OCLC-NDD|Catholic LGBTQ people|=|Catholic sexual minorities
+OCLC-NDD|Children of LGBTQ parents|=|Children of sexual minority parents
+OCLC-NDD|Christian gay people|=|Christian gays
+OCLC-NDD|Christian LGBTQ people|=|Christian sexual minorities
+OCLC-NDD|Church work with African American gay people|=|Church work with African American gays
+OCLC-NDD|Church work with formerly incarcerated persons|<->|Church work with ex-convicts 
+OCLC-NDD|Church work with gay people|=|Church work with gays
+OCLC-NDD|Church work with LGBTQ people|=|Church work with sexual minorities
+OCLC-NDD|Church work with LGBTQ youth|=|Church work with sexual minority youth
+OCLC-NDD|Civics, Indian (India)|=|Civics, East Indian
+OCLC-NDD|Closeted gay people|=|Closeted gays
+OCLC-NDD|Corporations, Indian (India)|=|Corporations, East Indian
+OCLC-NDD|Deaf gay people|=|Deaf gays
+OCLC-NDD|Diplomatic and consular service, Indian (India)|=|Diplomatic and consular service, East Indian
+OCLC-NDD|Economic assistance, Indian (India)|=|Economic assistance, East Indian
+OCLC-NDD|Espionage, Indian (India)|=|Espionage, East Indian
+OCLC-NDD|Foreign assets|<->|Foreign property
+OCLC-NDD|Foreign workers, Indian (India)|=|Foreign workers, East Indian
+OCLC-NDD|Formerly incarcerated persons|<->|Ex-convicts
+OCLC-NDD|Fugitive enslaved persons|=|Fugitive slaves
+# pick up TRLN list starting at G
+OCLC-NDD|Immigrant detention centers|<->|Noncitizen detention centers
+OCLC-NDD|Indian American business enterprises|=|East Indian American business enterprises
+OCLC-NDD|Indian American businesspeople|=|East Indian American businesspeople
+OCLC-NDD|Indian American college students|=|East Indian American college students
+OCLC-NDD|Indian American physicians|=|East Indian American physicians
+OCLC-NDD|Indian American teenagers|=|East Indian American teenagers
+OCLC-NDD|Indian American women|=|East Indian American women
+OCLC-NDD|Indian Americans|=|East Indian Americans
+OCLC-NDD|Indian authors (India)|=|East Indian authors
+OCLC-NDD|Indian autonomous regions (India)|=|East Indian autonomous regions
+OCLC-NDD|Indian business enterprises (India)|=|East Indian business enterprises
+OCLC-NDD|Indian diaspora (India)|=|East Indian diaspora
+OCLC-NDD|Indian diaspora in art (India)|=|East Indian diaspora in art
+OCLC-NDD|Indian diaspora in literature (India)|=|East Indian diaspora in literature
+OCLC-NDD|Indian diaspora in motion pictures (India)|=|East Indian diaspora in motion pictures
+OCLC-NDD|Indians (India)|=|East Indians
+#   Princeton mappings based on https://github.com/pulibrary/change_the_subject/blob/main/config/change_the_subject.yml and October 2023 LCSH
+OCLC-PUL|Indians (India)|<->|East Indians
+OCLC-PUL|Indigenous peoples of Central America|=|Indians of Central America
+OCLC-PUL|Indigenous peoples of Mexico|=|Indians of Mexico
+OCLC-PUL|Indigenous peoples of North America|=|Indians of North America
+OCLC-PUL|Indigenous peoples of South America|=|Indians of South America
+OCLC-PUL|Indigenous peoples of the West Indies|=|Indians of the West Indies
+OCLC-PUL|Indigenous peoples of the Western Hemisphere|=|Indians
+OCLC-PUL|Undocumented immigrants|<->|Illegal immigration
+OCLC-PUL|Undocumented immigrants in literature|<->|Illegal immigration in literature
+#   U-Colorado Boulder mappings implied by https://www.colorado.edu/libraries/2018/08/19/inclusive-spaces-and-practices
+#  Also CHECK to see if LCSH "Noncitizen detention centers" should be remapped
 OCLC-COD|Immigrant detention centers|<->|Noncitizen detention centers
 #   U-Penn mappings based on checks of Franklin browse against Colorado above
+#  Also CHECK to see if LCSH "Noncitizen detention centers" should be remapped
 OCLC-PAU|Immigrant detention centers|<->|Noncitizen detention centers
-#  Orbis-Cascade mappings based on https://drive.google.com/file/d/1R5dmP14Cx5Y58KfrjdGYi4N9VLCYH1zn/view as modified by LCSH 2021 list 11b
+#  Orbis-Cascade mappings at https://drive.google.com/file/d/1R5dmP14Cx5Y58KfrjdGYi4N9VLCYH1zn/view
+#  Also CHECK to see if LCSH "Noncitizen detention centers" should be remapped
 OCLC-OBS|Immigrant detention centers|<->|Noncitizen detention centers
 #   Central Oregon Community College uses Orbis-Cascade mappings
 OCLC-CEO inherits OCLC-OBS
