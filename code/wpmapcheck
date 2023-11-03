@@ -15,7 +15,7 @@ my %wikitolc;
 my $unassignedcount = 0;
 
 sub checkmapfile {
-  my ($wikimap) = @_;
+  my ($wikimap, $localmap) = @_;
 
   open IN, "< $wikimap" or die "can't open $wikimap";
   while (my $line = <IN>) {
@@ -26,10 +26,10 @@ sub checkmapfile {
       if ($lc =~ /^\s/ || $lc =~ /\s$/ || $wiki =~ /^\s/ || $wiki =~ /\s$/) {
         print STDERR "Extra spaces: $line\n";
       }
-      if ($lc =~ /\|/) {
+      if (($localmap && ($lc =~ /\|.*\|/)) || (!$localmap && $lc =~ /\|/)) {
         print STDERR "Too many separators: $line\n";
       }
-      if ($lc =~ /[^\x00-\x7f]/) {
+      if ($lc =~ /[^\x00-\x7f]/ && !$localmap) {
         print STDERR "Non-ASCII: $line\n";
       }
       if ($sign eq "" || $sign eq "->" || $sign eq '=' || $sign eq "<->") {
@@ -41,7 +41,7 @@ sub checkmapfile {
         }
       }
       if ($sign eq "<-" || $sign eq "<->" || $sign eq "=") {
-        if ($wikitolc{$wiki}) {
+        if (!$localmap && $wikitolc{$wiki}) {
           print STDERR "$line: $wikitolc{$wiki} already <-  $wiki\n";
         } else {
           $wikitolc{$wiki} = $lc;
@@ -51,6 +51,8 @@ sub checkmapfile {
           && $sign ne "<-") {
         print STDERR "$line: sign not recognized\n";
       }
+    } elsif ($localmap && $line =~ /^\S+ inherits \S+$/) {
+      # properly formed inheritance line
     } else {
        print STDERR "Badly formed line: $line\n";
     }
@@ -60,11 +62,14 @@ sub checkmapfile {
 
 if (scalar(@ARGV)) {
   foreach $arg(@ARGV) {
-    checkmapfile ($arg);
+    my $localmapformat = 0;
+    $localmapformat = 1 if ($arg =~ /localmap/);
+    checkmapfile ($arg, $localmapformat);
   }
 } else {
   checkmapfile ("wikimap");
   checkmapfile ("wikiworksmap");
+  checkmapfile ("localmap", 1);
 }
 
 if ($unassignedcount) {
