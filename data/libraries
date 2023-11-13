@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2023-10-30
-# Manual Sweep: resume with MA
+# Last updated 2023-11-13
+# Manual Sweep: resume with MI
 
 ID OLBP
 NAME The Online Books Page
@@ -6072,6 +6072,13 @@ STATE MD
 BASEURL https://www.lib.umd.edu
 KEYURL ${BASEURL}/search?query=${ARG:SNK}
 
+ID OCLC-AMH
+NAME Amherst College
+LOCATION Amherst
+STATE MA
+CATTYPE eds
+LCODE s8897430
+
 ID OCLC-QWR
 NAME Beverly Public Library
 LOCATION Beverly
@@ -6135,8 +6142,8 @@ ID OCLC-CIB
 NAME CLAMS: Cape Libraries Automated Materials Sharing
 LOCATION Public libraries on Cape Cod
 STATE MA
-BASEURL https://encore.clamsnet.org/iii/encore
-CATTYPE encore
+BASEURL https://library.clamsnet.org/Union/Search
+CATTYPE vufindsi
 
 ID OCLC-HCD
 NAME College of the Holy Cross
@@ -6146,20 +6153,18 @@ CATTYPE eds
 LCODE s8898500
 
 ID OCLC-FLF
-NAME Fenway Libraries Online
+NAME Fenway Library Organization
 LOCATION Museums and small colleges in Boston and vicinity
 STATE MA
 CATTYPE voyager-vwebv
 BASEURL http://endeavor.flo.org/vwebv/search
 
-ID FIVECOLLEGE
-NAME Five College Libraries
-LOCATION Amherst, Hampshire, Mt. Holyoke, Smith, UMass-Amherst
+ID OCLC-HAM
+NAME Hampshire College
+LOCATION Amherst
 STATE MA
-CATTYPE alephcuny
-BASEURL https://fcaw.library.umass.edu
-TINDEX WTI
-SINDEX SCAN_SUB
+CATTYPE eds
+LCODE s8515197
 
 ID OCLC-HLS
 NAME Harvard Library
@@ -6202,6 +6207,13 @@ STATE MA
 BASEURL https://lib.mit.edu/search
 KEYURL ${BASEURL}/bento?q=${ARG}
 
+ID OCLC-MTH
+NAME Mount Holyoke College
+LOCATION South Hadley
+STATE MA
+CATTYPE eds
+LCODE s8884507
+
 ID OCLC-NOG
 NAME NOBLE: North of Boston Library Exchange
 LOCATION North Shore public and small academic libraries
@@ -6211,14 +6223,12 @@ CATTYPE evergreen-dynamic
 LCODE 1
 
 ID OCLC-NED
-NAME Northeastern University
+NAME Northeastern University, Boston Campus
 LOCATION Boston
 STATE MA
-BASEURL http://onesearch.northeastern.edu
-CATTYPE primodl-scope
-VID NU
-LCODE NEU
-SCOPE everything_scope
+BASEURL http://onesearch.library.northeastern.edu
+CATTYPE primo-ve
+VID 01NEU_INST:NU
 
 ID OCLC-OCD
 NAME Old Colony Library Network
@@ -6237,11 +6247,11 @@ CATTYPE sirsient
 LCODE en_US/fullsite
 
 ID OCLC-1SC
-NAME Simmons College
+NAME Simmons University
 LOCATION Boston
 STATE MA
-BASEURL http://library.simmons.edu
-CATTYPE innopac
+CATTYPE eds
+LCODE s4279181
 
 ID OCLC-NKT
 NAME Springfield College
@@ -6270,8 +6280,8 @@ ID OCLC-AUM
 NAME University of Massachusetts Amherst
 LOCATION Amherst
 STATE MA
-BASEURL https://umass.worldcat.org/search
-CATTYPE worldcat
+CATTYPE eds
+LCODE umaah
 
 ID OCLC-ULN
 NAME University of Massachusetts Lowell
@@ -6284,8 +6294,8 @@ ID OCLC-WEL
 NAME Wellesley College
 LOCATION Wellesley
 STATE MA
-CATTYPE summon
-BASEURL http://wellesley.summon.serialssolutions.com
+CATTYPE eds
+LCODE s8895369
 
 ID OCLC-WNE
 NAME Western New England University
@@ -6299,10 +6309,9 @@ NAME Williams College
 LOCATION Williamstown
 STATE MA
 BASEURL http://librarysearch.williams.edu
-CATTYPE primodl-scope
-VID 01WIL
-LCODE 01WIL
-SCOPE everything_scope
+CATTYPE primo-ve
+VID 01WIL_INST:01WIL_SPECIAL
+SCOPE MyInst_and_CI
 
 ID OCLC-WPG
 NAME Worcester Polytechnic Institute
@@ -8057,6 +8066,14 @@ CATTYPE sirsient
 LCODE en_US/default
 BASEURL http://eok.ent.sirsi.net
 
+# This looks like it might be Atriuum, but I can only get simple search to work
+ID OCLC-O2R
+NAME Elk City Carnegie Library
+LOCATION Elk City
+STATE OK
+BASEURL https://elkcity.booksys.net/opac/elklib/index.html#/search
+KEYURL ${BASEURL}/${ARG:SNK}
+
 ID OCLC-OEG
 NAME Enid Public Library
 LOCATION Enid
@@ -8112,12 +8129,11 @@ BASEURL http://quapaw.biblionix.com/
 FILTERS S
 
 ID OCLC-OKI
-NAME Southeastern Public Library System of Oklahoma
+NAME Southeast Oklahoma Library System
 LOCATION 7 counties in southeast Oklahoma
 STATE OK 
-CATTYPE sirsient
-LCODE en_US/default
-BASEURL https://sepl.ent.sirsi.net
+CATTYPE vega
+BASEURL https://seok.na3.iiivega.com/
 
 ID OCLC-OKP
 NAME Southern Prairie Library System
