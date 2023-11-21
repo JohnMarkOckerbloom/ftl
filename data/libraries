@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2023-11-13
-# Manual Sweep: resume with MI
+# Last updated 2023-11-21
+# Manual Sweep: resume with MN
 
 ID OLBP
 NAME The Online Books Page
@@ -541,6 +541,16 @@ COUNTRY BW
 BASEURL http://medupe.ub.bw
 CATTYPE webpacpro
 FILTERS NK
+
+# subjects unlikely to align with LCSH, so use keyword search for subs
+ID OCLC-BLCAT
+NAME Universidade Federal de Santa Catarina
+LOCATION Florian&oacute;polis 
+COUNTRY BR
+BASEURL https://pergamum.ufsc.br
+KEYURL ${BASEURL}/?for=LIVRE&q=${ARG:SNK}
+TITURL ${BASEURL}/?for=TITULO&q=${ARG:SNK}
+AUTURL ${BASEURL}/?for=AUTOR&q=${ARG:SNK}
 
 ID OCLC-CN5O6
 NAME Calgary Public Library
@@ -6418,8 +6428,8 @@ ID OCLC-EXG
 NAME Grand Valley State University
 LOCATION Allendale
 STATE MI
-CATTYPE summon
-BASEURL http://gvsu.summon.serialssolutions.com
+CATTYPE locate
+BASEURL https://gvsu.locate.ebsco.com
 
 ID OCLC-EXZ
 NAME Kalamazoo Public Library
@@ -6451,21 +6461,22 @@ STATE MI
 BASEURL http://elibrary.mel.org
 CATTYPE innopac
 
+# MSU now has custom bento
 ID OCLC-EEM
 NAME Michigan State University Libraries
 LOCATION East Lansing
 STATE MI
-CATTYPE webpacpro
-BASEURL http://magic.lib.msu.edu/
+BASEURL https://lib.msu.edu
+KEYURL ${BASEURL}/search?type=everything&display=everything&query=${ARG:SNK}
 
 ID OCLC-EIK
 NAME Oakland Community College
 LOCATION various Oakland County campuses
 STATE MI
-CATTYPE primodl
-BASEURL https://dalnet-primo.hosted.exlibrisgroup.com
-VID 01DAL_OCC
-LCODE 01DAL_OCC
+CATTYPE primo-ve
+BASEURL https://dalnet-occ.primo.exlibrisgroup.com
+VID 01DAL_OCC:01DAL_OCC
+SCOPE MyInst_and_CI
 
 ID OCLC-ENZ
 NAME Petoskey District Library
@@ -6513,9 +6524,8 @@ ID OCLC-ZB8
 NAME Warren Public Library
 LOCATION Warren
 STATE MI
-CATTYPE sirsient
-BASEURL https://sbrb.ent.sirsi.net
-LCODE en_US/wcv
+CATTYPE vega
+BASEURL https://wcv-slc.na2.iiivega.com/
 
 ID OCLC-EXW
 NAME Western Michigan University

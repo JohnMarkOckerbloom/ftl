@@ -368,6 +368,13 @@ AUTURL ${BASEURL}?VERSION=2&ACTION=SEARCH&DATA=ASC&TOKEN=${TOKEN}&Z=1&NotSearch=
 TITURL ${BASEURL}?VERSION=2&ACTION=SEARCH&DATA=ASC&TOKEN=${TOKEN}&Z=1&NotSearch=1&USE_1=${TINDEX}&TERM_1=${ARG}
 KEYURL ${BASEURL}?VERSION=2&ACTION=SEARCH&DATA=ASC&TOKEN=${TOKEN}&Z=1&NotSearch=1&USE_1=${KINDEX}&TERM_1=${ARG}
 
+# Locate is "EBSCO’s OPAC solution for FOLIO"
+CATTYPE locate
+KEYURL ${BASEURL}/search?option=keyword&query=${ARG}
+TITURL ${BASEURL}/search?option=title&query=${ARG}
+AUTURL ${BASEURL}/search?option=author&query=${ARG}
+SUBURL ${BASEURL}/search?option=subject&query=${ARG}
+
 CATTYPE ls2pac
 SUBURL ${BASEURL}?section=search&term=su:${ARG:N}
 AUTURL ${BASEURL}?section=search&term=au:${ARG:N}
