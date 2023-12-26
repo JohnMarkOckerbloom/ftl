@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2023-11-21
-# Manual Sweep: resume with MN
+# Last updated 2023-12-26
+# Manual Sweep: resume with MS
 
 ID OLBP
 NAME The Online Books Page
@@ -6558,15 +6558,17 @@ ID OCLC-DUD
 NAME Duluth Public Library
 LOCATION Duluth
 STATE MN
-BASEURL http://catalog.duluth.lib.mn.us/polaris
+BASEURL http://catalog.duluthlibrary.org/polaris
 CATTYPE polaris
 
 ID OCLC-MHA
 NAME Hamline University
 LOCATION St. Paul
 STATE MN
-BASEURL https://hamline.worldcat.org/search
-CATTYPE worldcat
+CATTYPE primo-ve
+BASEURL https://clic-hamline.primo.exlibrisgroup.com
+VID 01CLIC_HAMLINE:HAMLINE
+SCOPE mnpals_SUBSET
 
 ID OCLC-HCO
 NAME Hennepin County Library
@@ -6579,8 +6581,10 @@ ID OCLC-MNM
 NAME Minnesota State University
 LOCATION Mankato
 STATE MN
-CATTYPE summon
-BASEURL http://mnsu.summon.serialssolutions.com
+CATTYPE primo-ve
+BASEURL https://mnpals-msumk.primo.exlibrisgroup.com
+VID 01MNPALS_MSUMK:MSUMK
+SCOPE MyInst_and_CI
 
 ID OCLC-SPP
 NAME Saint Paul Public Library
@@ -6610,9 +6614,11 @@ ID OCLC-MNT
 NAME University of St. Thomas
 LOCATION St. Paul
 STATE MN
-CATTYPE primodl
-BASEURL https://clicsearch.stthomas.edu
 VID STTHOMAS
+CATTYPE primo-ve
+BASEURL https://librarysearch.stthomas.edu
+VID 01CLIC_STTHOMAS:MNPALS
+SCOPE UST_MNPALS_PROFILE
 
 # Walden U appears to no longer have any catalog accessible to general public
 
@@ -7011,19 +7017,28 @@ STATE NH
 CATTYPE primo-justquery
 BASEURL https://search.library.dartmouth.edu/discovery/search?search_scope=MyInst_and_CI&vid=01DCL_INST:01DCL&
 
+ID OCLC-HA5
+NAME Keene Public Library
+LOCATION Keene
+STATE NH
+BASEURL http://encore.keene.edu/iii/encore
+CATTYPE encore
+
 ID OCLC-HB2
 NAME Lebanon Public Libraries
 LOCATION Lebanon and West Lebanon
 STATE NH
-BASEURL http://catalog.leblibrary.com
-CATTYPE koha
+CATTYPE vufindgeneral
+BASEURL https://catalog.leblibrary.com/Union/Search
+FILTERS SNK
 
 ID OCLC-QYC
 NAME Manchester City Library
 LOCATION Manchester
 STATE NH
-BASEURL https://findit.gmilcs.org/polaris
-CATTYPE polaris
+CATTYPE vufindsi
+BASEURL https://discover.manchesterlibrary.org/Union/Search
+FILTERS S
 
 ID OCLC-QWB
 NAME Nashua Public Library
@@ -7036,8 +7051,10 @@ ID OCLC-2NH
 NAME University of New Hampshire
 LOCATION Durham and Manchester
 STATE NH
-BASEURL https://unhlibrary.worldcat.org/search
-CATTYPE worldcat
+CATTYPE primo-ve
+BASEURL https://unh.primo.exlibrisgroup.com
+VID 01USNH_UNH:MAIN
+SCOPE MyInst_and_CI
 
 ID OCLC-ACP
 NAME Atlantic City Free Public Library
