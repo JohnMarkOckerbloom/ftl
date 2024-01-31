@@ -7,12 +7,8 @@
 #  or Library-code2 inherits Library-code1
 #   to reuse all the correspondences declared previously in Library-code1
 # In this file, non-ASCII characters are included literally (no entities)
-# Last updated 2023-10-30
-#   Duke mappings based on https://github.com/trln/marc-to-argot/blob/main/lib/translation_maps/shared/subject_heading_remappings.yaml and October 2023 LCSH - NOT DONE YET. CHECK TO SEE IF OTHER LIBRARIES ARE USING THIS
-#  Also check to see if LCSH "Foreign property" should be remapped
-#  Also check to see if LCSH "Noncitizen detention centers" should be remapped
-OCLC-NDD|African American gay people|=|African American gays
-OCLC-NDD|African American gay people in literature|=|African American gays in literature
+# Last updated 2024-01-31
+#   Duke mappings based on https://github.com/trln/marc-to-argot/blob/main/lib/translation_maps/shared/subject_heading_remappings.yaml and Jan 2024 LCSH - CHECK TO SEE IF OTHER LIBRARIES ARE USING THIS
 OCLC-NDD|African American LGBTQ people|=|African American sexual minorities
 OCLC-NDD|African American LGBTQ students|=|African American sexual minority students
 OCLC-NDD|African American LGBTQ youth|=|African American sexual minority youth
@@ -22,71 +18,31 @@ OCLC-NDD|Alaska Native LGBTQ youth|=|Alaska Native sexual minority youth
 OCLC-NDD|Arab American LGBTQ people|=|Arab American sexual minorities
 OCLC-NDD|Argentina -- History -- Terrorismo de Estado, Argentina, 1976-1983|=|Argentina -- History -- Dirty War, 1976-1983
 OCLC-NDD|Artificial satellites, Indian (India)|=|Artificial satellites, East Indian
-OCLC-NDD|Asian American gay people|=|Asian American gays
 OCLC-NDD|Asian American LGBTQ people|=|Asian American sexual minorities
 OCLC-NDD|Asian American LGBTQ students|=|Asian American sexual minority students
 OCLC-NDD|Asian American LGBTQ youth|=|Asian American sexual minority youth
 OCLC-NDD|Banks and banking, Indian (India)|=|Banks and banking, East Indian
-OCLC-NDD|Catholic gay people|=|Catholic gays
 OCLC-NDD|Catholic LGBTQ people|=|Catholic sexual minorities
 OCLC-NDD|Children of LGBTQ parents|=|Children of sexual minority parents
-OCLC-NDD|Christian gay people|=|Christian gays
+OCLC-NDD|Children with behavior disorders|=|Problem children
 OCLC-NDD|Christian LGBTQ people|=|Christian sexual minorities
-OCLC-NDD|Church work with African American gay people|=|Church work with African American gays
 OCLC-NDD|Church work with formerly incarcerated persons|<->|Church work with ex-convicts
-OCLC-NDD|Church work with gay people|=|Church work with gays
 OCLC-NDD|Church work with LGBTQ people|=|Church work with sexual minorities
 OCLC-NDD|Church work with LGBTQ youth|=|Church work with sexual minority youth
 OCLC-NDD|Civics, Indian (India)|=|Civics, East Indian
-OCLC-NDD|Closeted gay people|=|Closeted gays
 OCLC-NDD|Corporations, Indian (India)|=|Corporations, East Indian
-OCLC-NDD|Deaf gay people|=|Deaf gays
 OCLC-NDD|Diplomatic and consular service, Indian (India)|=|Diplomatic and consular service, East Indian
 OCLC-NDD|Economic assistance, Indian (India)|=|Economic assistance, East Indian
 OCLC-NDD|Espionage, Indian (India)|=|Espionage, East Indian
-OCLC-NDD|Foreign assets|<->|Foreign property
 OCLC-NDD|Foreign workers, Indian (India)|=|Foreign workers, East Indian
 OCLC-NDD|Formerly incarcerated persons|<->|Ex-convicts
+OCLC-NDD|Formerly incarcerated women|<->|Women ex-convicts
 OCLC-NDD|Fugitive enslaved persons|=|Fugitive slaves
-OCLC-NDD|Gay people|=|Gays
-OCLC-NDD|Gay people and rock music|=|Gays and rock music
-OCLC-NDD|Gay people and sports|=|Gays and sports
-OCLC-NDD|Gay people and the performing arts|=|Gays and the performing arts
-OCLC-NDD|Gay people in higher education|=|Gays in higher education
-OCLC-NDD|Gay people in literature|=|Gays in literature
-OCLC-NDD|Gay people in motion pictures|=|Gays in motion pictures
-OCLC-NDD|Gay people in popular culture|=|Gays in popular culture
-OCLC-NDD|Gay people in the performing arts|=|Gays in the performing arts
-OCLC-NDD|Gay people's writings, American|=|Gays' writings, American
-OCLC-NDD|Gay people's writings, Australian|=|Gays' writings, Australian
-OCLC-NDD|Gay people's writings, Austrian|=|Gays' writings, Austrian
-OCLC-NDD|Gay people's writings, Basque|=|Gays' writings, Basque
-OCLC-NDD|Gay people's writings, Canadian|=|Gays' writings, Canadian
-OCLC-NDD|Gay people's writings, Catalan|=|Gays' writings, Catalan
-OCLC-NDD|Gay people's writings, Chilean|=|Gays' writings, Chilean
-OCLC-NDD|Gay people's writings, Chinese|=|Gays' writings, Chinese
-OCLC-NDD|Gay people's writings, Dominican|=|Gays' writings, Dominican
-OCLC-NDD|Gay people's writings, English|=|Gays' writings, English
-OCLC-NDD|Gay people's writings, French|=|Gays' writings, French
-OCLC-NDD|Gay people's writings, Galician|=|Gays' writings, Galician
-OCLC-NDD|Gay people's writings, German|=|Gays' writings, German
-OCLC-NDD|Gay people's writings, Irish|=|Gays' writings, Irish
-OCLC-NDD|Gay people's writings, Israeli|=|Gays' writings, Israeli
-OCLC-NDD|Gay people's writings, Italian|=|Gays' writings, Italian
-OCLC-NDD|Gay people's writings, Latin American|=|Gays' writings, Latin American
-OCLC-NDD|Gay people's writings, Philippine (English)|=|Gays' writings, Philippine (English)
-OCLC-NDD|Gay people's writings, Portuguese|=|Gays' writings, Portuguese
-OCLC-NDD|Gay people's writings, South African (English)|=|Gays' writings, South African (English)
-OCLC-NDD|Gay people's writings, Spanish|=|Gays' writings, Spanish
-OCLC-NDD|Gay people's writings, Spanish American|=|Gays' writings, Spanish American
-OCLC-NDD|Gay people's writings, Tagalog|=|Gays' writings, Tagalog
 OCLC-NDD|Hard of hearing children|=|Hearing impaired children
 OCLC-NDD|Hard of hearing people|=|Hearing impaired
-OCLC-NDD|Hispanic American gay people|=|Hispanic American gays
 OCLC-NDD|Hispanic American LGBTQ people|=|Hispanic American sexual minorities
 OCLC-NDD|Hispanic American LGBTQ students|=|Hispanic American sexual minority students
 OCLC-NDD|Hispanic American LGBTQ youth|=|Hispanic American sexual minority youth
-OCLC-NDD|Immigrant detention centers|<->|Noncitizen detention centers
 OCLC-NDD|Indian American business enterprises|=|East Indian American business enterprises
 OCLC-NDD|Indian American businesspeople|=|East Indian American businesspeople
 OCLC-NDD|Indian American college students|=|East Indian American college students
@@ -111,10 +67,81 @@ OCLC-NDD|Indigenous peoples of North America|=|Indians of North America
 OCLC-NDD|Indigenous peoples of South America|=|Indians of South America
 OCLC-NDD|Indigenous peoples of the West Indies|=|Indians of the West Indies
 OCLC-NDD|Investments, Indian (India)|=|Investments, East Indian
-OCLC-NDD|Italian American gay people|=|Italian American gays
-# pick up TRLN list starting at J
+OCLC-NDD|Jewish LGBTQ people|=|Jewish sexual minorities
+OCLC-NDD|Jews, Indian (India)|=|Jews, East Indian
+OCLC-NDD|LGBTQ business enterprises|=|Sexual minority business enterprises
+OCLC-NDD|LGBTQ college athletes|=|Sexual minority college athletes
+OCLC-NDD|LGBTQ college students|=|Sexual minority college students
+OCLC-NDD|LGBTQ community|=|Sexual minority community
+OCLC-NDD|LGBTQ consumers|=|Sexual minority consumers
+OCLC-NDD|LGBTQ culture|=|Sexual minority culture
+OCLC-NDD|LGBTQ immigrants|=|Sexual minority immigrants
+OCLC-NDD|LGBTQ legislators|=|Sexual minority men
+OCLC-NDD|LGBTQ men|=|Sexual minority legislators
+OCLC-NDD|LGBTQ military personnel|=|Sexual minority military personnel
+OCLC-NDD|LGBTQ parents|=|Sexual minority parents
+OCLC-NDD|LGBTQ people|=|Sexual minorities
+OCLC-NDD|LGBTQ people (Islamic law)|=|Sexual minorities (Islamic law)
+OCLC-NDD|LGBTQ people in advertising|=|Sexual minorities in advertising
+OCLC-NDD|LGBTQ people in art|=|Sexual minorities in art
+OCLC-NDD|LGBTQ people in education|=|Sexual minorities in education
+OCLC-NDD|LGBTQ people in higher education|=|Sexual minorities in higher education
+OCLC-NDD|LGBTQ people in literature|=|Sexual minorities in literature
+OCLC-NDD|LGBTQ people in mass media|=|Sexual minorities in mass media
+OCLC-NDD|LGBTQ people in motion pictures|=|Sexual minorities in motion pictures
+OCLC-NDD|LGBTQ people on television|=|Sexual minorities on television
+OCLC-NDD|LGBTQ people, Romani|=|Sexual minorities, Romani
+OCLC-NDD|LGBTQ people's families|=|Sexual minorities' families
+OCLC-NDD|LGBTQ people with disabilities|=|Sexual minorities with disabilities
+OCLC-NDD|LGBTQ people's writings|=|Sexual minorities' writings
+OCLC-NDD|LGBTQ people's writings, American|=|Sexual minorities' writings, American
+OCLC-NDD|LGBTQ people's writings, Australian|=|Sexual minorities' writings, Australian
+OCLC-NDD|LGBTQ people's writings, Brazilian|=|Sexual minorities' writings, Brazilian
+OCLC-NDD|LGBTQ people's writings, Canadian|=|Sexual minorities' writings, Canadian
+OCLC-NDD|LGBTQ people's writings, Chinese|=|Sexual minorities' writings, Chinese
+OCLC-NDD|LGBTQ people's writings, English|=|Sexual minorities' writings, English
+OCLC-NDD|LGBTQ people's writings, Malaysian (English)|=|Sexual minorities' writings, Malaysian (English)
+OCLC-NDD|LGBTQ political candidates|=|Sexual minority political candidates
+OCLC-NDD|LGBTQ political refugees|=|Sexual minority political refugees
+OCLC-NDD|LGBTQ politicians|=|Sexual minority politicians
+OCLC-NDD|LGBTQ public officers|=|Sexual minority public officers
+OCLC-NDD|LGBTQ religious leaders|=|Sexual minority religious leaders
+OCLC-NDD|LGBTQ students|=|Sexual minority students
+OCLC-NDD|LGBTQ teachers|=|Sexual minority teachers
+OCLC-NDD|LGBTQ veterans|=|Sexual minority veterans
+OCLC-NDD|LGBTQ women|=|Sexual minority women
+OCLC-NDD|LGBTQ youth|=|Sexual minority youth
+OCLC-NDD|LGBTQ youth in mass media|=|Sexual minority youth in mass media
+OCLC-NDD|LGBTQ youth with disabilities|=|Sexual minority youth with disabilities
+OCLC-NDD|Libraries and LGBTQ people|=|Libraries and sexual minorities
+OCLC-NDD|Middle-aged LGBTQ people|=|Middle-aged sexual minorities
+OCLC-NDD|Museums and LGBTQ people|=|Museums and sexual minorities
+OCLC-NDD|National characteristics, Indian, in literature (India)|=|National characteristics, East Indian, in literature
+OCLC-NDD|National characteristics, Indian (India)|=|National characteristics, East Indian
+OCLC-NDD|Older LGBTQ people|=|Older sexual minorities
+OCLC-NDD|Older LGBTQ women|=|Older sexual minority women
+OCLC-NDD|Pacific Islander American LGBTQ people|=|Pacific Islander American sexual minorities
+OCLC-NDD|Pacific Islander American LGBTQ students|=|Pacific Islander American sexual minority students
+OCLC-NDD|Pacific Islander American LGBTQ youth|=|Pacific Islander American sexual minority youth
+OCLC-NDD|Parents of LGBTQ youth|=|Parents of sexual minority youth
+OCLC-NDD|Peacekeeping forces, Indian (India)|=|Peacekeeping forces, East Indian
+OCLC-NDD|Personal narratives, Indian (India)|=|Personal narratives, East Indian
+OCLC-NDD|Police services for LGBTQ people|=|Police services for sexual minorities
+OCLC-NDD|Poor people|=|Poor
+OCLC-NDD|Prison uprisings|=|Prison riots
+OCLC-NDD|Refugee property, Indian (India)|=|Refugee property, East Indian
+OCLC-NDD|Relations with Indians (India)|=|Relations with East Indians
+OCLC-NDD|Rural LGBTQ people|=|Rural sexual minorities
+OCLC-NDD|Social work with LGBTQ people|=|Social work with sexual minorities
+OCLC-NDD|Social work with LGBTQ youth|=|Social work with sexual minority youth
+OCLC-NDD|Social work with older LGBTQ people|=|Social work with older sexual minorities
+OCLC-NDD|Traffickers in enslaved persons|=|Slave traders
+OCLC-NDD|Trafficking in enslaved persons|=|Slave trade
 OCLC-NDD|Unauthorized immigration|<->|Illegal immigration
-#   Princeton mappings based on https://github.com/pulibrary/change_the_subject/blob/main/config/change_the_subject.yml and October 2023 LCSH
+OCLC-NDD|Unitarian Universalist LGBTQ people|=|Unitarian universalist sexual minorities
+OCLC-NDD|Web sites for LGBTQ people|=|Web sites for sexual minorities
+OCLC-NDD|Women, Indian (India)|<->|Women, East Indian
+#   Princeton mappings based on https://github.com/pulibrary/change_the_subject/blob/main/config/change_the_subject.yml and Jan 2024 LCSH
 OCLC-PUL|Indians (India)|<->|East Indians
 OCLC-PUL|Indigenous peoples of Central America|=|Indians of Central America
 OCLC-PUL|Indigenous peoples of Mexico|=|Indians of Mexico
