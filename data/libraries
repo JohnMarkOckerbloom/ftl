@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2023-12-26
-# Manual Sweep: resume with MS
+# Last updated 2024-02-13
+# Manual Sweep: resume with MO
 
 ID OLBP
 NAME The Online Books Page
@@ -2772,6 +2772,15 @@ BASEURL https://baldwin.tlcdelivers.com/
 CATTYPE ls2pac
 FILTERS S
 
+ID OCLC-MVD
+NAME Carl Elliott Regional Library System
+LOCATION Jasper, and Walker and Winston counties
+STATE AL
+CATTYPE ls2pac-config
+CONFIG ysm
+BASEURL https://cerl.tlcdelivers.com/
+FILTERS S
+
 ID OCLC-MWM
 NAME Decatur Public Library
 LOCATION Decatur
@@ -2798,16 +2807,16 @@ ID OCLC-MWD
 NAME Huntsville-Madison County Public Library
 LOCATION Huntsville and vicinity
 STATE AL
-BASEURL http://catalog.hmcpl.org
-CATTYPE koha
-FILTERS NK
+CATTYPE vufindsi
+BASEURL https://catalog.hmcpl.org/Union/Search
+FILTERS SNK
 
 ID OCLC-ALJCL
 NAME Jefferson County Library Cooperative
 LOCATION Birmingham and vicinity
 STATE AL
-BASEURL http://encore.bham.lib.al.us/iii/encore
-CATTYPE encore
+CATTYPE vega
+BASEURL https://jeffa.na.iiivega.com/
 
 ID OCLC-ALLCJ
 NAME Lewis Cooper Jr. Memorial Library
@@ -6682,8 +6691,8 @@ ID OCLC-TGC
 NAME Tougaloo College
 LOCATION Tougaloo
 STATE MS
-BASEURL https://tougaloo.worldcat.org/search
-CATTYPE worldcat
+BASEURL https://tougaloo.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-MUM
 NAME University of Mississippi Libraries
