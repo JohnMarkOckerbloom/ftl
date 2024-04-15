@@ -141,6 +141,7 @@ OCLC-NDD|Unauthorized immigration|<->|Illegal immigration
 OCLC-NDD|Unitarian Universalist LGBTQ people|=|Unitarian universalist sexual minorities
 OCLC-NDD|Web sites for LGBTQ people|=|Web sites for sexual minorities
 OCLC-NDD|Women, Indian (India)|<->|Women, East Indian
+# Emory mappings will be based on https://scholarblogs.emory.edu/woodruff/news/making-the-library-catalog-more-inclusive - CHECK FIRST TO SEE IF THEY'RE IN EFFECT
 #   Princeton mappings based on https://github.com/pulibrary/change_the_subject/blob/main/config/change_the_subject.yml and Jan 2024 LCSH
 OCLC-PUL|Indians (India)|<->|East Indians
 OCLC-PUL|Indigenous peoples of Central America|=|Indians of Central America

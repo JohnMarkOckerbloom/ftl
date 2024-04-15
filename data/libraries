@@ -4,7 +4,7 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2024-02-13
+# Last updated 2024-04-15
 # Manual Sweep: resume with MO
 
 ID OLBP
@@ -4348,7 +4348,7 @@ ID OCLC-FN2
 NAME Indian River County Library System
 LOCATION Vero Beach and vicinity
 STATE FL
-BASEURL https://catalog.irclibrary.org/polaris
+BASEURL https://libcat.ircgov.com/polaris
 CATTYPE polaris
 
 ID OCLC-JPL
@@ -4448,6 +4448,14 @@ STATE FL
 CATTYPE sirsient
 BASEURL https://pplc.ent.sirsi.net
 
+ID OCLC-FLPCL
+NAME Polk County Library Cooperative
+LOCATION Lakeland, Winter Haven and vicinity
+STATE FL
+BASEURL https://mypclc.org
+CATTYPE sirsient
+LCODE en_US/pclc
+
 ID OCLC-FSA
 NAME Saint Leo University
 LOCATION Saint Leo
@@ -4459,8 +4467,8 @@ ID OCLC-SRCLS
 NAME Santa Rosa County Library System
 LOCATION Milton and vicinity
 STATE FL
-BASEURL https://santarosa.polarislibrary.com
-CATTYPE polaris
+BASEURL https://santarosa.insigniails.com/Library/SearchResult
+CATTYPE insignia
 
 ID OCLC-FSP
 NAME Sarasota County Libraries
@@ -4532,11 +4540,10 @@ ID OCLC-FNM
 NAME University of Miami Libraries
 LOCATION Coral Gables
 STATE FL
-BASEURL http://miami-primo.hosted.exlibrisgroup.com
-CATTYPE primodl-loc
-VID uml
-LCODE 01UOML
-LOC adaptor,scope:(01UOML_DIGITALCOMMONS),scope:(01UOML_CONTENTDM),scope:("01UOML"),scope:(01UOML_ALMA),primo_central_multiple_fe
+CATTYPE primo-ve
+BASEURL https://miami.primo.exlibrisgroup.com
+VID 01UOML_INST:uml_new
+SCOPE UMLIBRARIES
 
 ID OCLC-FNP
 NAME University of North Florida
