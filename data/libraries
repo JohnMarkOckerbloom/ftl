@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2024-04-15
-# Manual Sweep: resume with MO
+# Last updated 2024-04-18
+# Manual Sweep: resume with MT
 
 ID OLBP
 NAME The Online Books Page
@@ -2153,11 +2153,10 @@ ID OCLC-BLSTP
 NAME British Library
 LOCATION London, England
 COUNTRY UK
-CATTYPE primodl-scope
-BASEURL http://explore.bl.uk
-VID BLVU1
-LCODE BL
-SCOPE LSCOP-ALL
+CATTYPE primo-ve
+BASEURL https://bll01.primo.exlibrisgroup.com
+VID 44BL_INST:BLL01
+SCOPE Not_BL_Suppress
 
 ID OCLC-UKBCC
 NAME Buckinghamshire County Libraries
@@ -2302,6 +2301,14 @@ CATTYPE sirsient
 BASEURL https://wales.ent.sirsidynix.net.uk
 LCODE en_GB/gwynedd_en
 
+# using ID for Sandwell and West Birmingham Hospitals NHS Trust
+ID OCLC-UKWDH
+NAME Health Libraries Midlands
+LOCATION Hospital libraries in Birmingham and Midlands region
+COUNTRY UK
+CATTYPE koha
+BASEURL https://koha.healthlibrariesmidlands.nhs.uk
+
 ID OCLC-UKLMB
 NAME Lambeth Libraries
 LOCATION London Borough of Lambeth, England
@@ -2328,14 +2335,16 @@ CATTYPE arenacode
 SUBURL ${BASEURL}/search?p_p_id=searchResult_WAR_arenaportlets&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_${LCODE}_search_query=${ARG}
 LCODE arena_urn%3Aarena
 
+# They have their own search referer to Arena that may work better than direct
 ID UK-NIBAL
 NAME Libraries NI
 LOCATION Public libraries in Northern Ireland
 COUNTRY UK
-CATTYPE sirsient
-BASEURL http://lni.ent.sirsidynix.net.uk
-LCODE en_GB/default
-FILTERS S
+BASEURL https://www.librariesni.org.uk
+KEYURL ${BASEURL}/search?s=CatAll&query=${ARG}
+AUTURL ${BASEURL}/search?s=CatAuth&query=${ARG}
+TITURL ${BASEURL}/search?s=CatTitle&query=${ARG}
+FILTERS SNK
 
 ID OCLC-UKGRP
 NAME LibrariesWest
@@ -2390,9 +2399,10 @@ ID OCLC-UKLTN
 NAME Luton Libraries
 LOCATION Luton
 COUNTRY UK
-CATTYPE sirsient
-BASEURL https://llc.ent.sirsidynix.net.uk
-LCODE en_GB/luton
+BASEURL https://www.lutonlibraries.co.uk/search
+KEYURL ${BASEURL}?term=${ARG:SNK}
+TITURL ${BASEURL}?term=${ARG:SNK}&field=TITLE
+AUTURL ${BASEURL}?term=${ARG:SNK}&field=AUTHOR
 
 ID OCLC-UKMAN
 NAME Manchester city libraries
@@ -2421,11 +2431,10 @@ ID OCLC-NLW
 NAME National Library of Wales
 LOCATION Aberystwyth, Wales
 COUNTRY UK
-CATTYPE primodl-scope
+CATTYPE primo-ve
 BASEURL https://discover.library.wales
-VID 44WHELF_NLW_VU1
-LCODE 44WHELF_NLW
-SCOPE CSCOP_EVERYTHING
+VID 44WHELF_NLW:44WHELF_NLW_NUI
+SCOPE In_The_Library
 
 ID OCLC-UKCST
 NAME Newcastle Libraries
@@ -2528,14 +2537,6 @@ BASEURL https://library.sheffield.gov.uk
 LCODE en_GB/default
 FILTERS S
 
-# using ID for Shrewsbury and Telford Hospital NHS Trust
-ID OCLC-UKWDK
-NAME Shropshire Health Libraries
-LOCATION Hospital libraries in Shrewsbury, Telford, and Oswestry
-COUNTRY UK
-CATTYPE worldcat-config
-BASEURL https://shelib.on.worldcat.org/search?queryString
-
 ID OCLC-UKSOU
 NAME Southwark Libraries
 LOCATION London Borough of Southwark, England
@@ -2556,9 +2557,8 @@ ID OCLC-UKSCS
 NAME Stirling Libraries
 LOCATION Stirling and vicinity, Scotland
 COUNTRY UK
-CATTYPE sirsient
-BASEURL https://scl.ent.sirsidynix.net.uk
-LCODE en_GB/default
+BASEURL https://stirling.spydus.co.uk/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?
+CATTYPE spydus-config
 FILTERS S
 
 ID OCLC-UKSWN
@@ -2640,10 +2640,10 @@ ID OCLC-EQO
 NAME University of Oxford
 LOCATION Oxford, England
 COUNTRY UK
-CATTYPE primodl
-BASEURL http://solo.bodleian.ox.ac.uk
-VID OXVU1
-LCODE OX
+CATTYPE primo-ve
+BASEURL https://solo.bodleian.ox.ac.uk
+VID 44OXF_INST:SOLO
+SCOPE MyInst_and_CI
 
 ID OCLC-UKGLA
 NAME University of South Wales
@@ -6765,11 +6765,10 @@ ID OCLC-LHL
 NAME Linda Hall Library
 LOCATION Kansas City
 STATE MO
-BASEURL http://primo.lindahall.hosted.exlibrisgroup.com
-CATTYPE primodl-loc
-VID LHL
-LCODE LHL
-LOC local,scope:(LHL)
+CATTYPE primo-ve
+BASEURL https://catalog.lindahall.org
+VID 01LINDAHALL_INST:LHL
+SCOPE MyInstitution
 
 ID OCLC-CMI
 NAME Mid-Continent Public Library
@@ -6828,7 +6827,7 @@ NAME Southeast Missouri State University
 LOCATION Cape Girardeau
 STATE MO
 BASEURL http://semo-encore.iii.com/iii/encore
-CATTYPE encore
+CATTYPE encoreplus
 
 ID OCLC-MOS
 NAME Springfield-Greene County Library District
@@ -6850,15 +6849,15 @@ ID OCLC-ZAE
 NAME St. Louis County Library
 LOCATION St. Louis suburbs
 STATE MO
-BASEURL http://encore.slcl.org/iii/encore
-CATTYPE encore
+CATTYPE vega
+BASEURL https://slouc.na2.iiivega.com/
 
 ID OCLC-SVP
 NAME St. Louis Public Library
 LOCATION St. Louis
 STATE MO
-BASEURL http://catalog.slpl.org/uhtbin/cgisirsi
-CATTYPE sirsi
+BASEURL https://slpl.bibliocommons.com
+CATTYPE bibliocommons
 
 ID TANEYHILLS
 NAME Taneyhills Community Library
@@ -6872,8 +6871,8 @@ ID OCLC-UMK
 NAME University of Missouri Kansas City: UMKC Libraries
 LOCATION Kansas City
 STATE MO
-BASEURL http://encore.lib.umsystem.edu/iii/encore
-CATTYPE encore
+CATTYPE eds
+LCODE 078-820
 
 ID OCLC-MUU
 NAME University of Missouri Libraries
@@ -6881,6 +6880,8 @@ LOCATION Columbia
 STATE MO
 CATTYPE eds
 LCODE s8436643
+AUTHTYPE guest
+PROFILE edsfolio
 
 ID OCLC-WTU
 NAME Washington University Libraries

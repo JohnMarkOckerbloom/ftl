@@ -233,6 +233,12 @@ KEYURL ${BASEURL}/search*eng/X?SEARCH=(${ARG:N})&SORT=D
 CATTYPE encorekey
 KEYURL ${BASEURL}/search/C|S${ARG}|Orightresult|U1?lang=eng&suite=${SKIN}
 
+# Not sure this is still supported, but SE MO University seems to use it
+CATTYPE encoreplus
+SUBURL ${BASEURL}/plus/C__Sd%3A%28${ARG}%29__Orightresult__U1?lang=eng&suite=${SKIN}
+AUTURL ${BASEURL}/plus/C__Sa%3A%28${ARG}%29__Orightresult__U1?lang=eng&suite=${SKIN}
+KEYURL ${BASEURL}/plus/C__S%3A%28${ARG}%29__Orightresult__U1?lang=eng&suite=${SKIN}
+
 CATTYPE endeca
 SINDEX Subject
 AINDEX Author
