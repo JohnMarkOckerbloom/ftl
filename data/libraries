@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2024-04-18
-# Manual Sweep: resume with MT
+# Last updated 2024-05-07
+# Manual Sweep: resume with NJ
 
 ID OLBP
 NAME The Online Books Page
@@ -6909,10 +6909,10 @@ ID OCLC-MZF
 NAME Montana State University Library
 LOCATION Bozeman
 STATE MT
-CATTYPE primodl
-BASEURL http://msu-primo.hosted.exlibrisgroup.com
-VID 01TRAILS_MSU
-LCODE 01TRAILS_MSU
+CATTYPE primo-ve
+BASEURL https://trails-msu.primo.exlibrisgroup.com
+VID 01TRAILS_MSU:01TRAILS_MSU
+SCOPE 01TRAILS_MSU:01TRAILS_MSU
 
 ID OCLC-MZJ
 NAME Montana Tech of the University of Montana
@@ -6987,16 +6987,18 @@ ID OCLC-NVX
 NAME Carson City Library
 LOCATION Carson City
 STATE NV
-CATTYPE polaris-context
-BASEURL https://nvlibrarycoop.polarislibrary.com/polaris
-CONTEXT 29.1033.0.0.1
+CATTYPE vufindsi
+BASEURL https://carsoncity.aspendiscovery.org/Union/Search
+FILTERS S
 
 ID OCLC-NVA
 NAME College of Southern Nevada
 LOCATION Las Vegas and vicinity
 STATE NV
-CATTYPE summon
-BASEURL http://csn.summon.serialssolutions.com
+CATTYPE primo-ve
+BASEURL https://csn.primo.exlibrisgroup.com
+VID 01UNLV_COSN:Main
+SCOPE MyInst_and_CI
 
 ID OCLC-NVC
 NAME Las Vegas-Clark County Library District
@@ -7009,15 +7011,16 @@ ID OCLC-CLAND
 NAME Nevada Library Cooperative
 LOCATION Public libraries outside Nevada's largest urban areas
 STATE NV
-CATTYPE polaris
-BASEURL https://nvlibrarycoop.polarislibrary.com/polaris
+CATTYPE vufindsi
+BASEURL https://nvcoop.aspendiscovery.org/Union/Search
+FILTERS S
 
 ID OLB-WASHOE
 NAME Washoe County Library System
 LOCATION Reno and vicinity
 STATE NV
-BASEURL http://library.washoecounty.us/
-CATTYPE koha
+CATTYPE vufindsi
+BASEURL https://catalog.washoecountylibrary.us/Union/Search
 
 ID OCLC-QYA
 NAME Concord Public Library
@@ -7702,8 +7705,10 @@ ID OCLC-NNM
 NAME Davidson College
 LOCATION Davidson
 STATE NC
-BASEURL https://davidson.worldcat.org/search
-CATTYPE worldcat
+CATTYPE primo-ve
+BASEURL https://davidson.primo.exlibrisgroup.com
+VID 01DCOLL_INST:01DCOLL
+SCOPE MyInst_and_CI
 
 # Duke now has a bento; didn't see field limit options
 ID OCLC-NDD
@@ -7750,12 +7755,20 @@ CATTYPE iii-consortium-member
 BASEURL https://mwrlibrary.armybiznet.com
 LCODE 19
 
+ID OCLC-UQJ
+NAME Iredell County Public Library
+LOCATION Statesville, Harmony, and Troutman
+STATE NC
+BASEURL https://iredell.nccardinal.org/eg/opac
+CATTYPE evergreen-dynamic
+LCODE 305
+
 ID OCLC-NCJ
 NAME Johnson C. Smith University
 LOCATION Charlotte
 STATE NC
-BASEURL http://libcat.jcsu.edu
-CATTYPE webpacpro
+BASEURL https://jcsu.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
 FILTERS N
 
 ID OCLC-NRC
@@ -7806,8 +7819,8 @@ ID OCLC-1NG
 NAME University of North Carolina (UNC) Greensboro
 LOCATION Greensboro
 STATE NC
-BASEURL https://uncg.worldcat.org/search
-CATTYPE worldcat
+BASEURL https://uncg.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-8NX
 NAME Wake County Public Libraries
