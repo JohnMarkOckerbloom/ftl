@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2024-05-07
-# Manual Sweep: resume with NJ
+# Last updated 2024-05-13
+# Manual Sweep: resume with NM
 
 ID OLBP
 NAME The Online Books Page
@@ -5232,9 +5232,9 @@ ID OCLC-LJW
 NAME Cedar Falls Public Library
 LOCATION Cedar Falls
 STATE IA
-CATTYPE sirsient
-BASEURL https://wcfpl.ent.sirsi.net
-LCODE en_US/cfpl
+CATTYPE vufindsi
+BASEURL https://cedarfalls.aspendiscovery.org/Union/Search
+FILTERS S
 
 ID OCLC-IWR
 NAME Cedar Rapids Public Library
@@ -5242,6 +5242,13 @@ LOCATION Cedar Rapids
 STATE IA
 CATTYPE vega
 BASEURL https://crpl.na.iiivega.com/
+
+ID OCLC-C@V
+NAME Clive Public Library
+LOCATION Clive
+STATE IA
+BASEURL https://lib.cityofclive.com/polaris
+CATTYPE polaris
 
 ID OCLC-IWB
 NAME Council Bluffs Public Library
@@ -5284,6 +5291,14 @@ STATE IA
 CATTYPE atriuum
 BASEURL https://harlanlibraryia.booksys.net/opac/hcl/index.html#search:
 FILTERS SNK
+
+ID OCLC-H3I
+NAME Hull Public Library
+LOCATION Hull
+STATE IA
+CATTYPE apollo
+BASEURL https://hull.biblionix.com/
+FILTERS S
 
 ID OCLC-IWA
 NAME Iowa State University
@@ -5357,13 +5372,27 @@ BASEURL https://cvlc-uni.primo.exlibrisgroup.com
 VID 01NRTHIOW_NRTHIOW:NewUIAlt
 SCOPE MyInst_and_CI
 
+ID OCLC-JIU
+NAME Urbandale Public Library
+LOCATION Urbandale
+STATE IA
+BASEURL https://catalog.urbandalelibrary.org/polaris
+CATTYPE polaris
+
 ID OCLC-IWV
 NAME Waterloo Public Library
 LOCATION Waterloo
 STATE IA
-CATTYPE sirsient
-BASEURL https://wcfpl.ent.sirsi.net
-LCODE en_US/wpl
+CATTYPE vufindsi
+BASEURL https://waterloo.aspendiscovery.org/Union/Search
+FILTERS S
+
+ID OCLC-IW9
+NAME West Des Moines Public Library
+LOCATION West Des Moines
+STATE IA
+BASEURL https://encore.wdm.iowa.gov/iii/encore
+CATTYPE encore
 
 ID OCLC-IMF
 NAME Allen County Public Library
@@ -7087,8 +7116,8 @@ ID OCLC-BRG
 NAME BCCLS
 LOCATION Bergen, Essex, Hudson, and Passaic County public libraries
 STATE NJ
-BASEURL https://catalog.bccls.org/polaris
-CATTYPE polaris
+CATTYPE vega
+BASEURL https://search.bccls.org/
 
 ID OCLC-BUN
 NAME Rowan College at Burlington County
@@ -7224,8 +7253,10 @@ ID OCLC-NJR
 NAME Rutgers University Libraries
 LOCATION New Brunswick, Newark, and Camden
 STATE NJ
-CATTYPE primo-justquery
-BASEURL https://rutgers.primo.exlibrisgroup.com/discovery/search?tab=Everything&search_scope=MyInst_and_CI&vid=01RUT_INST:01RUT&offset=0&
+CATTYPE primo-ve
+BASEURL https://rutgers.primo.exlibrisgroup.com
+VID 01RUT_INST:01RUT
+SCOPE MyInst_and_CI_2
 
 ID OCLC-STH
 NAME Seton Hall University
@@ -7255,8 +7286,10 @@ ID OCLC-NJP
 NAME William Paterson University, Cheng Library
 LOCATION Wayne
 STATE NJ
-CATTYPE eds
-LCODE s8953837
+CATTYPE primo-ve
+BASEURL https://primo.wpunj.edu
+VID 01WILLIAMPAT_INST%3AWPUNJ
+SCOPE searchall_two
 
 ID OCLC-QUE
 NAME The Public Library
