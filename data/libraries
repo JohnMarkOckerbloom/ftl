@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2024-05-13
-# Manual Sweep: resume with NM
+# Last updated 2024-05-27
+# Manual Sweep: resume with NY
 
 ID OLBP
 NAME The Online Books Page
@@ -1899,6 +1899,16 @@ BASEURL https://swisscovery.slsp.ch
 VID 41SLSP_NETWORK:VU1_UNION
 SCOPE DN_and_CI
 
+ID OCLC-CQ-DOLLAR
+NAME Cape Peninsula University of Technology
+LOCATION Cape Town and vicinity
+COUNTRY ZA
+CATTYPE primo-ve
+BASEURL https://cput.primo.exlibrisgroup.com
+VID 27CPUT_INST:CPUT
+SCOPE MyInst_and_CI
+
+#
 ID OCLC-T2N
 NAME Durban University of Technology
 LOCATION Durban and Pietermaritzburg
@@ -1929,22 +1939,22 @@ ID OCLC-OG-DOLLAR
 NAME Nelson Mandela University
 LOCATION Port Elizabeth
 COUNTRY ZA
-CATTYPE encore
-BASEURL http://encore.seals.ac.za/iii/encore_nmmu
+CATTYPE summon
+BASEURL https://mandela.summon.serialssolutions.com
 
 ID OCLC-OH-SHARP
 NAME Rhodes University
 LOCATION Makhanda
 COUNTRY ZA
-CATTYPE encore
-BASEURL http://encore.seals.ac.za/iii/encore_ru
+CATTYPE summon
+BASEURL https://rhodes.summon.serialssolutions.com
 
 ID OCLC-U5H
 NAME University of Fort Hare
 LOCATION Alice and other campuses
 COUNTRY ZA
-CATTYPE encore
-BASEURL http://encore.seals.ac.za/iii/encore_ufh
+CATTYPE summon
+BASEURL https://ufh.summon.serialssolutions.com
 
 ID OCLC-OE-DOLLAR
 WCRID 70111
@@ -1960,8 +1970,8 @@ ID OCLC-SADIS
 NAME University of South Africa
 LOCATION Pretoria and other campuses
 COUNTRY ZA
-CATTYPE encore
-BASEURL http://encore.unisa.ac.za/iii/encore
+CATTYPE summon
+BASEURL https://unisaza.summon.serialssolutions.com
 
 ID OCLC-Y-DOLLAR-R
 NAME University of the Free State
@@ -1985,22 +1995,21 @@ COUNTRY SE
 BASEURL https://biblioteket.stockholm.se/en/sok
 KEYURL ${BASEURL}?freetext=${ARG}
 
-# This and Rhodes may be using Encore Plus.  Look into adapting for that
 ID OCLC-OG-SHARP
 WCRID 87534
 NAME University of the Witwatersrand (Wits)
 LOCATION Johannesburg
 COUNTRY ZA
-CATTYPE encore
-BASEURL http://sierra-eds.wits.ac.za/iii/encore
+CATTYPE summon
+BASEURL https://wits.summon.serialssolutions.com
 
 ID OCLC-OM@
 WCRID 58798
 NAME Walter Sisulu University
 LOCATION Mthatha and other campuses
 COUNTRY ZA
-CATTYPE encore
-BASEURL http://encore.seals.ac.za/iii/encore_wsu
+CATTYPE summon
+BASEURL https://wsulib.summon.serialssolutions.com
 
 ID OCLC-CHNTL
 NAME National Library of Public Information
@@ -7295,8 +7304,9 @@ ID OCLC-QUE
 NAME The Public Library
 LOCATION Albuquerque and Bernalillo County
 STATE NM
-CATTYPE eds
-LCODE s4120635
+CATTYPE sirsient
+BASEURL https://abq.ent.sirsi.net
+LCODE en_US/default
 
 ID OCLC-ZP7
 NAME Rio Rancho Public Libraries
@@ -7331,18 +7341,19 @@ BASEURL https://catalog.santafelibrary.org/Union/Search
 DEFAULT http://santafelibrary.org/
 
 ID OCLC-TBL
-NAME Thomas Branigan Memorial Library
+NAME Las Cruces Public Libraries
 LOCATION Las Cruces
 STATE NM
-BASEURL http://chile.las-cruces.org
-CATTYPE innopac
+CATTYPE sirsient
+BASEURL https://tbml.ent.sirsi.net
+LCODE en_US/default
 
 ID OCLC-IQU
 NAME University of New Mexico Libraries
 LOCATION Albuquerque
 STATE NM
-BASEURL https://unm.worldcat.org/search
-CATTYPE worldcat
+CATTYPE worldcat-config
+BASEURL https://unm.on.worldcat.org/search?queryString
 
 ID OCLC-BNG
 NAME Binghamton University
