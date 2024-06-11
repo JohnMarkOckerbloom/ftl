@@ -10,8 +10,8 @@
 #   are not included in this file.
 # Manual title and name-title correspondences have been moved to wikiworksmap.
 # See docs file for documentation
-# Last updated 2024-05-01
-# Did LCSH 2015-2022 update lists: 2023 monthly list 1 (main; A-M only)
+# Last updated 2024-06-09
+# Did LCSH 2015-2022 update lists: 2023 monthly list 1, 2 (main, A-B only)
 1 Pendleton Place House (New York, N.Y.)|=|One Pendleton Place
 1009 Fifth Avenue House (New York, N.Y.)|=|Benjamin N. Duke House
 1066 Country Walk (England)|=|1066 Country Walk
@@ -101,6 +101,7 @@
 61572 (Steam locomotive)|->|GER Class S69
 6502 (Microprocessor)|=|MOS Technology 6502
 65816 (Microprocessor)|<->|WDC 65C816
+6G mobile communication systems|=|6G
 7200 Class (Steam locomotives)|=|GWR 7200 Class
 73 Easting, Battle of, Iraq, 1991|=|Battle of 73 Easting
 7400 Class (Steam locomotives)|->|GWR 6400 Class
@@ -381,6 +382,7 @@ Ada-Kaleh Island (Romania and Serbia)|=|Ada Kaleh
 Adad (Assyro-Babylonian deity)|=|Hadad
 Adak Island (Alaska)|=|Adak Island
 Adam (Biblical figure) -- In rabbinical literature|=|Adam in rabbinic literature
+Adam (Biblical figure) -- Islamic interpretations|=|Adam in Islam
 Adam (Computer)|=|Coleco Adam
 Adamastor (Giant)|=|Adamastor
 Adams family|<->|Adams (surname)
@@ -615,6 +617,7 @@ Aggada|=|Aggadah
 Aggregation (Chemistry)|<->|Particle aggregation
 Aggressiveness|=|Aggression
 Aghanashini, River (India)|=|Aghanashini River
+Agilkia Island (Egypt)|=|Agilkia Island
 Agincourt (Battleship : 1865-1909)|=|HMS Agincourt (1865)
 Agincourt, Battle of, Agincourt, France, 1415|=|Battle of Agincourt
 Aging|=|Ageing
@@ -700,6 +703,7 @@ AIDS (Disease) -- Uganda|<->|HIV/AIDS in Uganda
 AIDS (Disease) -- United States|<->|HIV/AIDS in the United States
 AIDS (Disease) -- Zambia|<->|HIV/AIDS in Zambia
 AIDS (Disease) -- Zimbabwe|<->|HIV/AIDS in Zimbabwe
+AIDS activists|<->|HIV/AIDS activism
 Aids to navigation|<->|Navigational aid
 AIDS vaccines|<->|HIV vaccine development
 Aigina (Greece : Municipality)|<->|Aegina
@@ -1449,7 +1453,7 @@ Angel Stadium of Anaheim (Anaheim, Calif.)|=|Angel Stadium
 Angeles National Forest (Agency : U.S.)|->|Angeles National Forest
 Angeles National Forest (Calif.)|=|Angeles National Forest
 Angelina Ballerina (Fictitious character)|=|Angelina Ballerina
-Angelo (Fictitious character : Shakespeare)|=|Angelo (Measure for Measure)
+Angelo (Fictitious character from Shakespeare)|=|Angelo (Measure for Measure)
 Angels|=|Angel
 Angels (Investors)|=|Angel investor
 Angels -- Christianity|=|Angels in Christianity
@@ -1889,6 +1893,7 @@ Architectural practice|->|Architectural firm
 Architecture, Abbasid|=|Abbasid architecture
 Architecture, Armenian|=|Armenian architecture
 Architecture -- Awards|<->|List of architecture awards
+Architecture, Balinese|=|Balinese architecture
 Architecture, Carolingian|=|Carolingian architecture
 Architecture, Chinese|=|Chinese architecture
 Architecture, Early Christian|->|Early Christian art and architecture
@@ -3830,7 +3835,7 @@ Bernina Alps (Italy and Switzerland)|<->|Bernina Range
 Bernina Express (Express train)|=|Bernina Express
 Bernoulli shifts|<->|Bernoulli scheme
 Berries|=|Berry
-Bert (Fictitious character : Henson)|=|Bert (Sesame Street)
+Bert (Fictitious character from Henson)|=|Bert (Sesame Street)
 Bert's predaceous diving beetle|=|Sanfilippodytes bertae
 Berta (African people)|=|Berta people
 Bertrand Creek (B.C. and Wash.)|=|Bertrand Creek
@@ -8290,6 +8295,10 @@ Confederation Bridge (N.B. and P.E.I.)|=|Confederation Bridge
 Conf&eacute;d&eacute;ration g&eacute;n&eacute;rale du travail|=|General Confederation of Labour (France)
 Conference House (New York, N.Y.)|=|Conference House
 Conference rooms|<->|Conference hall
+Confession|=|Confession (religion)
+Confession -- Catholic Church|<->|Sacrament of Penance
+Confession -- Judaism|=|Confession (Judaism)
+Confession -- Lutheran Church|=|Confession (Lutheran Church)
 Confessionals (Architecture)|=|Confessional
 Confidential communications|<->|Confidentiality
 Configuration space|<->|Configuration space (physics)
@@ -11895,6 +11904,8 @@ English language -- Australia|=|Australian English
 English language -- Canada|=|Canadian English
 English language -- Dialects|<->|List of dialects of English
 English language -- Early modern, 1500-1700|<->|Early Modern English
+English language -- Foreign elements|<->|Foreign-language influences in English
+English language -- Foreign elements -- French|->|Influence of French on English
 English language -- Grammar|=|English grammar
 English language -- Honorific|<->|English honorifics
 English language -- India|<->|Indian English
@@ -12274,6 +12285,7 @@ Ethnology -- Bosnia and Herzegovina|<->|Ethnic groups in Bosnia and Herzegovina
 Ethnology -- Cambodia|<->|Ethnic groups in Cambodia
 Ethnology -- Caucasus|<->|Ethnic groups in the Caucasus
 Ethnology -- China|<->|List of ethnic groups in China
+Ethnology -- South Africa|<->|Ethnic groups in South Africa
 Ethnology -- Philippines|<->|Ethnic groups in the Philippines
 Ethnology -- Thailand|<->|Ethnic groups in Thailand
 Ethnology -- Vietnam|<->|List of ethnic groups in Vietnam
@@ -13772,6 +13784,7 @@ French defense (Chess)|=|French Defence
 French Expedition to Ireland, 1796-1797|=|French expedition to Ireland (1796)
 French Frigate Shoals (Hawaii)|=|French Frigate Shoals
 French language -- Grammar|=|French grammar
+French language -- Influence on English|<->|Influence of French on English
 French language -- Middle French, 1300-1600|<->|Middle French
 French language -- Orthography and spelling|<->|French orthography
 French language -- Phonology|=|French phonology
@@ -24890,6 +24903,7 @@ Nabis (Group of artists)|=|Nabis (art)
 Nabu (Assyro-Babylonian deity)|=|Nabu
 Nacimiento Mountains (N.M.)|=|Sierra Nacimiento
 Nacionalen park Mavrovo (North Macedonia)|=|Mavrovo National Park
+Nacoochee Indian Mound (Ga.)|=|Nacoochee Mound
 Nada&iacute;smo (Literary movement)|=|Nadaism
 Nadezhda (Name)|=|Nadezhda (given name)
 Nador (Morocco : Province)|=|Nador Province
@@ -25882,8 +25896,8 @@ Nike-Zeus missile|<->|Nike Zeus
 Nikolayevsk-na-Amure Incident, 1920|=|Nikolayevsk incident
 Nikopolis (Greece : Extinct city)|=|Nicopolis
 Nikwasi Indian Mound (Franklin, Macon County, N.C.)|<->|Nikwasi
-Nilam River (Pakistan)|<->|Neelum River
-Nilam River Valley (Pakistan)|<->|Neelum District
+Nilam River (India and Pakistan)|=|Neelum River
+Nilam River Valley (India and Pakistan)|<->|Neelum District
 Nile, Battle of the, Egypt, 1798|=|Battle of the Nile
 Nile mosaic (Palestrina)|=|Nile mosaic of Palestrina
 Nile River|=|Nile
@@ -26743,6 +26757,7 @@ Oldendorf, Battle of, Germany, 1633|=|Battle of Oldendorf
 Older people|->|Old age
 Older people -- Abuse of|=|Elder abuse
 Older sexual minorities|<->|LGBT ageing
+Oldfather family|<->|Oldfather
 Oldman River (Alta.)|=|Oldman River
 Oldsmobile Aurora automobile|=|Oldsmobile Aurora
 Oldsmobile automobile|<->|Oldsmobile
@@ -28030,6 +28045,7 @@ Parc national Isalo (Madagascar)|=|Isalo National Park
 Parc national Morne la Visite (Haiti)|<->|La Visite National Park
 Parc national Pic Macaya (Haiti)|=|Pic Macaya National Park
 Parc national Tsimanampesotse (Madagascar)|=|Tsimanampetsotsa National Park
+Parc olympique (Montr&eacute;al, Qu&eacute;bec)|=|Olympic Park, Montreal
 Parental kidnapping|<->|Parental child abduction
 Parents|=|Parent
 Parents-in-law|=|Parent-in-law
@@ -28453,6 +28469,7 @@ Pecorino cheese|=|Pecorino
 Pecos Bill (Fictitious character)|=|Pecos Bill
 Pecos National Historical Park (N.M.)|=|Pecos National Historical Park
 Pecos River (N.M. and Tex.)|=|Pecos River
+Pectenia plumbea|=|Degelia plumbea
 Pedestrian crosswalks|<->|Pedestrian crossing
 Pedi (African people)|=|Pedi people
 Pediatric gynecology|=|Pediatric gynaecology
@@ -28470,6 +28487,7 @@ Peel, Emma (Fictitious character)|=|Emma Peel
 Peelers (Utensils)|=|Peeler
 Peenem&uuml;nde (Germany)|=|Peenemünde
 Peenem&uuml;nde (Germany) -- History -- Bombardment, 1943|<->|Bombing of Peenemünde in World War II
+Peeps (Trademark)|<->|Peeps
 Peer teaching|<->|Peer learning
 Peer-to-peer architecture (Computer networks)|<->|Peer-to-peer
 Peer-to-peer loans|<->|Peer-to-peer lending
@@ -28891,6 +28909,7 @@ Phoronida|=|Phoronid
 Phosphorus -- Isotopes|=|Isotopes of phosphorus
 Photocopying|->|Photocopier
 Photocopying machines|=|Photocopier
+Photograms|=|Photogram
 Photographers|=|Photographer
 Photographic lenses|=|Camera lens
 Photographic memory|<->|Eidetic memory
@@ -29355,11 +29374,12 @@ Poisonous plants|<->|List of poisonous plants
 Poisons|=|Poison
 Poitiers, Battle of, France, 1356|=|Battle of Poitiers
 Pok&eacute;mon (Fictitious characters)|<->|Pokémon
-Pok&eacute;mon (Game)|<->|Pokémon (video game series)
+Pok&eacute;mon (Game)|<->|Pokémon Red, Blue, and Yellow
 Pok&eacute;mon films|<->|List of Pokémon films
 Pok&eacute;mon Go (Game)|=|Pokémon Go
 Pok&eacute;mon Stadium (Game)|=|Pokémon Stadium
-Pok&eacute;mon Yellow (Game)|<->|Pokémon Red, Blue, and Yellow
+Pok&eacute;mon video games|<->|Pokémon (video game series)
+Pok&eacute;mon Yellow (Game)|->|Pokémon Red, Blue, and Yellow
 Pokomo (African people)|=|Pokomo people
 Poland -- History -- 1945-1980|<->|History of Poland (1945–1989)
 Poland -- History -- 1980-1989|->|History of Poland (1945–1989)
@@ -29658,6 +29678,7 @@ Positive organ (Musical instrument)|=|Positive organ
 Positron annihilation|=|Electron–positron annihilation
 POSIX (Computer software standard)|=|POSIX
 Post-and-lintel construction|<->|Post and lintel
+Post COVID-19 condition (Disease)|=|Long COVID
 Post Hospital (New York, N.Y. : Building)|=|Block House (Governors Island)
 Post-impressionism (Art)|=|Post-Impressionism
 Post Office Strike, Great Britain, 1971|=|1971 United Kingdom postal workers strike
@@ -29966,6 +29987,7 @@ Prices|=|Price
 PricewaterhouseCoopers (Firm)|=|PwC
 PricewaterhouseCoopers LLP|->|PwC
 Pricketts Fort State Park (W. Va.)|=|Prickett's Fort State Park
+Priddy family|<->|Priddy (surname)
 Pride-of-Barbados (Plant)|=|Caesalpinia pulcherrima
 Priesthood|->|Priest
 Priesthood, Universal|<->|Priesthood of all believers
@@ -32790,6 +32812,7 @@ Saratoga Racecourse (Saratoga Springs, N.Y.)|=|Saratoga Race Course
 Sarawak (Malaysia)|=|Sarawak
 Sarawak (Malaysia) -- History|=|History of Sarawak
 Sarawak (Malaysia) -- History -- Japanese occupation, 1941-1945|->|Japanese occupation of British Borneo
+Sarawak Malay dialect|=|Sarawak Malay
 Sarawak River (Sarawak, Malaysia)|=|Sarawak River
 Sarcophagi|=|Sarcophagus
 Sarcophagi, Early Christian|=|Early Christian sarcophagi
@@ -33889,6 +33912,7 @@ SIA SPs (Reconnaissance aircraft)|<-|Savoia-Pomilio SP.4
 Siachen Conflict, 1984-|=|Siachen conflict
 Si&aacute;n automobile|=|Lamborghini Sián FKP 37
 Siberia (Russia)|=|Siberia
+Siberia (Russia) -- Languages|=|Siberian languages
 Siberia, Western (Russia)|=|Western Siberia
 Siberian elm|=|Ulmus pumila
 Siberian Ice Maiden (Ice mummy)|=|Siberian Ice Maiden
@@ -33999,6 +34023,7 @@ Sillaginodes punctata|=|King George whiting
 Sillago (Genus)|=|Sillago
 Sills (Geology)|=|Sill (geology)
 Silly String (Trademark)|<->|Silly String
+Silpathorn Awards|=|Silpathorn Award
 Silte (African people)|=|Siltʼe people
 Silte language|=|Siltʼe language
 Silva family|<->|Silva
@@ -34660,6 +34685,7 @@ Sonatas (Flute)|=|Flute sonata
 Sonatas (Piano)|=|Piano sonata
 Sonatas (Viola)|=|Viola sonata
 Sonatas (Violin)|=|Violin sonata
+Sones jarochos|<->|Son jarocho
 SONET (Data transmission)|<->|Synchronous optical networking
 Song cycles|=|Song cycle
 Song Nen Plain (China)|=|Songnen Plain
@@ -35177,6 +35203,7 @@ Staaken R.VI (Bomber)|=|Zeppelin-Staaken R.VI
 Staatsschauspiel Dresden (Dresden, Germany)|=|Staatsschauspiel Dresden
 Stability of airplanes, Longitudinal|<->|Longitudinal stability
 Stade Chaban-Delmas (Bordeaux, Nouvelle-Aquitaine, France)|=|Stade Chaban-Delmas
+Stade olympique (Montr&eacute;al, Qu&eacute;bec)|=|Olympic Stadium (Montreal)
 Stadtschloss (Berlin, Germany)|=|Berlin Palace
 Stadtschloss (Potsdam, Germany)|=|City Palace, Potsdam
 Staff rides|=|Staff ride
@@ -35952,6 +35979,8 @@ Swordsmen|->|Swordsmanship
 Syama Prasad Mukherjee Port (Kolkata, India)|<->|Port of Kolkata
 Sybyzghy|=|Sybyzgy
 Sycamore Canyon Wilderness (Ariz.)|=|Sycamore Canyon Wilderness
+Sycamore Creek (Durham County and Wake County, N.C.)|=|Sycamore Creek (Crabtree Creek tributary)
+Sycamore Creek (Mich.)|=|Sycamore Creek (Michigan)
 Sycamore Run (Allegheny County, Pa.)|=|Sycamore Run (Allegheny River tributary)
 Sycamores|<->|Sycamore
 Sychrov (Libereck&yacute; kraj, Czech Republic)|=|Sychrov (Liberec District)
@@ -36097,6 +36126,8 @@ Taech'&#x014f;ng Island (Korea)|=|Daecheongdo
 Taeg&ubreve;m|=|Daegeum
 Taehangno (Seoul, Korea)|=|Daehangno
 Taen Ja&#x1e43;rak Satv Brai B&amacr;mkrasop (Cambodia)|=|Peam Krasop Wildlife Sanctuary
+Taen Ja&#x1e43;rak Satv Brai Prei Preah Roka (Cambodia)|=|Preah Roka Wildlife Sanctuary
+Taen Ja&#x1e43;rak Satv Brai Prey L&aacute;ng (Cambodia)|=|Prey Lang Wildlife Sanctuary
 Taensa Indians|=|Taensa
 Taf&iacute; del Valle (Argentina)|=|Tafí del Valle
 Tagal Murut language|=|Tagol language
@@ -37911,6 +37942,7 @@ Tullock Formation (Mont.)|=|Tullock Formation
 Tulou (Hakka architecture)|=|Tulou
 Tulsa Race Massacre, Tulsa, Okla., 1921|=|Tulsa race massacre
 Tulu (Indic people)|=|Tulu people
+T&umacr;l&umacr;l al-Baqarat Site (Iraq)|=|Tulul al-Baqarat
 Tulunadu (India)|=|Tulu Nadu
 Tumac&aacute;cori National Historical Park (Ariz.)|=|Tumacácori National Historical Park
 Tumba (Musical instrument)|=|Tumba (drum)
@@ -39320,6 +39352,8 @@ Vietnamese -- Australia|<->|Vietnamese Australians
 Vietnamese diaspora|<->|Overseas Vietnamese
 Vietnamese New Year|=|Tết
 Vietnamese provinces|=|Provinces of Vietnam
+Vieux Carr&eacute; (New Orleans, La.)|=|French Quarter
+Vieux Carr&eacute;s (Cocktails)|=|Vieux Carré (cocktail)
 Vieux Desert, Lac (Wis. and Mich.)|=|Lac Vieux Desert
 Vig&aacute;rio Geral (Rio de Janeiro, Brazil)|=|Vigário Geral
 Vig&aacute;rio Geral Massacre, Vig&aacute;rio Geral, Brazil, 1993|=|Vigário Geral massacre
@@ -39598,6 +39632,8 @@ Wagon Box Fight, Wyo., 1867|=|Wagon Box Fight
 Wagram, Battle of, Deutsch-Wagram, Austria, 1809|=|Battle of Wagram
 Wah Wah Mountains (Utah)|=|Wah Wah Mountains
 Wahh&amacr;b&imacr;yah|=|Wahhabism
+Waiau, Lake (Hawaii)|=|Lake Waiau
+Waiau Pa (N.Z.)|=|Waiau Pa
 Waiau Toa/Clarence River (N.Z.)|=|Waiau Toa / Clarence River
 Waihi strike, 1912|=|Waihi miners' strike
 Waikato War, N.Z., 1863-1865|<->|Invasion of the Waikato

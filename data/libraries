@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2024-05-27
-# Manual Sweep: resume with NY
+# Last updated 2024-06-11
+# Manual Sweep: resume with NY (NYPL onward)
 
 ID OLBP
 NAME The Online Books Page
@@ -7452,12 +7452,14 @@ ID OCLC-VXV
 NAME Hudson Valley Community College
 LOCATION Troy
 STATE NY
-CATTYPE ids
-LCODE VXV
+CATTYPE primo-ve
+BASEURL https://suny-hvc.primo.exlibrisgroup.com
+VID 01SUNY_HVC:01SUNY_HVC
+SCOPE MyInst_and_CI
 FILTERS S
 
 ID OCLC-VXI
-NAME Iona College
+NAME Iona University
 LOCATION New Rochelle
 STATE NY
 BASEURL https://iona.on.worldcat.org/external-search?queryString
@@ -7474,8 +7476,8 @@ ID OCLC-ZMC
 NAME Manhattan College
 LOCATION New York
 STATE NY
-BASEURL http://jaspercat.manhattan.edu/
-CATTYPE koha
+BASEURL https://mc.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-MZA
 NAME Metropolitan Museum of Art Libraries
@@ -7534,11 +7536,10 @@ ID OCLC-ZYU
 NAME New York University Libraries
 LOCATION New York
 STATE NY
-BASEURL http://bobcat.library.nyu.edu
-CATTYPE primodl-loc
-VID NYU
-LCODE NYU
-LOC adaptor,scope:(NS),scope:(CU),scope:(BHS),scope:(NYU),scope:(NYSID),scope:("NYHS"),scope:(GEN),scope:(NYUAD),scope:(NYUSH)
+CATTYPE primo-ve
+BASEURL https://search.library.nyu.edu
+VID 01NYU_INST:NYU
+SCOPE CI_NYU_CONSORTIA
 
 ID OCLC-WDTNY
 NAME New York Public Library
@@ -10524,6 +10525,13 @@ CATTYPE sirsient
 LCODE en_US/cabell
 BASEURL https://cabe.ent.sirsi.net
 
+ID OCLC-WFH
+NAME Adams County Library
+LOCATION Adams
+STATE WI
+BASEURL https://acl.linkcat.info/app/search/
+CATTYPE koha-app
+
 ID OCLC-GZG
 NAME Brown County Library
 LOCATION Green Bay and vicinity
@@ -10536,9 +10544,8 @@ ID OCLC-WIW
 NAME Marathon County Public Library
 LOCATION Wausau and vicinity
 STATE WI
-BASEURL http://vcat.wvls.org
-CATTYPE iii-consortium-member
-LCODE 51
+CATTYPE vufindgeneral
+BASEURL https://mcpl.catalog.wvls.org/Union/Search
 
 ID OCLC-GZQ
 NAME Marquette University Libraries
@@ -10575,11 +10582,10 @@ ID OCLC-GZW
 NAME University of Wisconsin Green Bay: Cofrin Library
 LOCATION Green Bay
 STATE WI
-CATTYPE primodl-scope
-BASEURL http://uw-primo.hosted.exlibrisgroup.com
-VID GB
-LCODE GB
-SCOPE default_scope
+BASEURL https://wisconsin-uwgb.primo.exlibrisgroup.com
+CATTYPE primo-ve
+VID 01UWI_GB:GB
+SCOPE DN_and_CI
 
 ID OCLC-GZM
 NAME University of Wisconsin-Madison Libraries
@@ -10592,12 +10598,10 @@ ID OCLC-GZN
 NAME University of Wisconsin-Milwaukee Libraries
 LOCATION Milwaukee
 STATE WI
-CATTYPE primodl-loc
-BASEURL http://uw-primo.hosted.exlibrisgroup.com
-LOC adaptor,scope:(VOYAGER),scope:(UWMINDS),scope:(MIL_CDM),scope:(MIL_BEPRESS),scope:(UWDC),primo_central_multiple_fe
-VID MIL
-LCODE MIL
-DEFAULT http://www4.uwm.edu/libraries/
+BASEURL https://wisconsin-uwm.primo.exlibrisgroup.com
+CATTYPE primo-ve
+VID 01UWI_ML%3AMIL
+SCOPE DN_and_CI
 
 ID OCLC-GZK
 NAME Winnefox Library System
