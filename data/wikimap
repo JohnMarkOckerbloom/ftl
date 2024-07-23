@@ -10,7 +10,7 @@
 #   are not included in this file.
 # Manual title and name-title correspondences have been moved to wikiworksmap.
 # See docs file for documentation
-# Last updated 2024-07-05
+# Last updated 2024-07-22
 # Did LCSH 2015-2022 update lists: 2023 monthly list 1, 2 (main, A-B only)
 1 Pendleton Place House (New York, N.Y.)|=|One Pendleton Place
 1009 Fifth Avenue House (New York, N.Y.)|=|Benjamin N. Duke House
@@ -810,7 +810,7 @@ Akha (Southeast Asian people)|=|Akha people
 Akita dog|=|Akita (dog breed)
 Akita-ken (Japan)|=|Akita Prefecture
 Akita-shi (Japan)|=|Akita (city)
-Akita-shi (Japan) -- History -- Bombardment, 1945|=|Bombing of Akita in World War II
+Akita-shi (Japan) -- History -- Bombardment, 1945|=|Bombing of Akita
 Akizuki Class (Destroyers)|=|Akizuki-class destroyer
 Akoose (African people)|<->|Bakossi people
 Akpatok Island (Nunavut)|=|Akpatok Island
@@ -3936,6 +3936,7 @@ Bible -- Versions, Catholic|<->|Catholic Bible
 Bible and homosexuality|=|The Bible and homosexuality
 Bible and science|->|Relationship between religion and science
 Bible. New Testament -- Criticism, Textual|=|Textual criticism of the New Testament
+Bible. New Testament. Greek -- Versions -- Textus receptus|<->|Textus Receptus
 Bible stories|->|Bible
 Bibliographical citations|<->|Citation
 Biblioteca apostolica vaticana|=|Vatican Library
@@ -5239,6 +5240,7 @@ Buddhism -- Controversial literature|<->|Criticism of Buddhism
 Buddhism -- Korea|<->|Korean Buddhism
 Buddhism -- Psychology|<->|Buddhism and psychology
 Buddhism -- Sacred books|<->|Buddhist texts
+Buddhist dh&amacr;ran&#x0323;&imacr;|=|Dharani
 Buddhist funeral rites and ceremonies|<->|Buddhist funeral
 Buddhist literature|->|Buddhist texts
 Buddhist meditations|->|Buddhist meditation
@@ -6890,7 +6892,6 @@ Chee, Jim (Fictitious character)|=|Jim Chee
 Cheeta (Chimpanzee)|<->|Cheeta
 Cheju Island (Korea)|=|Jeju Island
 Chela, Serra da (Angola)|=|Serra da Chela
-Chelae|=|Chela (organ)
 Chelan, Lake (Wash.)|=|Lake Chelan
 Chelan Mountains (Wash.)|=|Chelan Mountains
 Chelly, Canyon de (Ariz.)|->|Canyon de Chelly National Monument
@@ -8381,6 +8382,7 @@ Constitutional amendments|=|Constitutional amendment
 Constitutional conventions|=|Constitutional convention
 Constitutional law|<-|Constitutionalism
 Constitutions|=|Constitution
+Constitutions -- Arkansas|<->|Constitution of Arkansas
 Constraint programming (Computer science)|=|Constraint programming
 Constraints (Artificial intelligence)|<->|Constraint satisfaction
 Construction industry|->|Construction
@@ -8996,7 +8998,6 @@ Costa del Sol (Spain)|=|Costa del Sol
 Costa family|<->|Costa (surname)
 Costa Rica -- History -- Revolution, 1948|<->|Costa Rican Civil War
 Costa Rican guava|=|Psidium friedrichsthalianum
-C&ocirc;te d'Ivoire|=|Ivory Coast
 C&ocirc;te d'Ivoire -- History|=|History of Ivory Coast
 C&ocirc;te d'Ivoire -- History -- 1960-1993|<->|History of Ivory Coast (1960–1999)
 C&ocirc;te d'Ivoire -- History -- Civil War, 2002-2007|=|First Ivorian Civil War
@@ -11476,7 +11477,7 @@ Egypt -- History -- Coup d'&eacute;tat, 2013|=|2013 Egyptian coup d'état
 Egypt -- History -- Early Dynastic Period, ca. 3100-ca. 2686 B.C.|=|Early Dynastic Period (Egypt)
 Egypt -- History -- Eighteenth dynasty, ca. 1570-1320 B.C.|<->|Eighteenth Dynasty of Egypt
 Egypt -- History -- Fourth dynasty, ca. 2613-ca. 2494 B.C.|=|Fourth Dynasty of Egypt
-Egypt -- History -- French occupation, 1798-1801|<->|French campaign in Egypt and Syria
+Egypt -- History -- French occupation, 1798-1801|<->|French invasion of Egypt and Syria
 Egypt -- History -- Greco-Roman period, 332 B.C.-640 A.D.|->|Ptolemaic Kingdom
 Egypt -- History -- Insurrection, 1919|<->|1919 Egyptian revolution
 Egypt -- History -- Intervention, 1956|<->|Suez Crisis
@@ -15554,7 +15555,7 @@ Guayaquil Interview, Guayaquil, Ecuador, 1822|=|Guayaquil Conference
 Guaycuruan Indians|=|Guaycuru peoples
 Guaymi Indians|<->|Ngäbe
 Guayule|=|Parthenium argentatum
-Gubbi Gubbi (Australian people)|=|Gubbi Gubbi people
+Gubbi Gubbi (Australian people)|=|Kabi Kabi people
 Gubik Formation (Alaska)|=|Gubik Formation
 Guelaguetza (Festival)|=|Guelaguetza
 Guelf, House of|=|House of Welf
@@ -16557,7 +16558,7 @@ History -- Methodology|<->|Historical method
 History, Modern|<->|Timelines of modern history
 History -- Periodization|<->|Periodization
 History -- Philosophy|=|Philosophy of history
-Hitler, Adolf, 1889-1945 -- Assassination attempts|<->|List of assassination attempts on Adolf Hitler
+Hitler, Adolf, 1889-1945 -- Assassination attempts|=|Assassination attempts on Adolf Hitler
 Hitler-Jugend|=|Hitler Youth
 HIV (Viruses)|=|HIV
 HIV-associated lipodystrophy syndrome|<->|HIV-associated lipodystrophy
@@ -18154,7 +18155,7 @@ Iran -- Foreign relations|<->|Foreign relations of Iran
 Iran -- History -- Attempted coup, 1980|=|Nojeh coup plot
 Iran -- History -- Azerbaijan Crisis, 1946|<->|Iran crisis of 1946
 Iran -- History -- Coup d'&eacute;tat, 1921|=|1921 Persian coup d'état
-Iran -- History -- Coup d'&eacute;tat, 1953|=|1953 Iran coup
+Iran -- History -- Coup d'&eacute;tat, 1953|=|1953 Iranian coup d'état
 Iran -- History -- Election protests, 2009|<->|2009 Iranian presidential election protests
 Iran -- History -- Jangal&imacr; movement, 1914-1921|=|Jungle Movement of Gilan
 Iran -- History -- Pahlavi dynasty, 1925-1979|<->|Pahlavi dynasty
@@ -18596,7 +18597,7 @@ Jacobs House (Madison, Wis.)|<->|Herbert and Katherine Jacobs First House
 Jacquerie, 1358|=|Jacquerie
 Jade Bay (Germany)|=|Jade Bight
 Jade Cocoon (Game)|=|Jade Cocoon: Story of the Tamamayu
-Jadun (Pakistani people)|=|Jadoon tribe
+Jadun (Pakistani people)|=|Jadoon
 Jaegers (Birds)|->|Skua
 Jaffa Riot, Tel Aviv, Israel, 1921|<->|Jaffa riots
 Jaffa (Tel Aviv, Israel)|=|Jaffa
@@ -20003,7 +20004,7 @@ Kobarid (Slovenia)|=|Kobarid
 Kobayashi-Hitchin correspondence (Algebraic geometry)|=|Kobayashi–Hitchin correspondence
 Kobe Earthquake, Japan, 1995|=|Great Hanshin earthquake
 K&omacr;be-shi (Japan)|=|Kobe
-K&omacr;be-shi (Japan) -- History -- Bombardment, 1945|=|Bombing of Kobe in World War II
+K&omacr;be-shi (Japan) -- History -- Bombardment, 1945|=|Bombing of Kobe
 Kobuk River (Alaska)|=|Kobuk River
 Kobuk Valley National Park (Alaska)|=|Kobuk Valley National Park
 K&#x014f;ch&#x02bb;ang Incident, Korea, 1951|<->|Geochang massacre
@@ -20991,7 +20992,6 @@ Lebanon -- History -- Israeli intervention, 1996|<->|Operation Grapes of Wrath
 Lebanon -- Politics and government|<->|Politics of Lebanon
 Lebanon War, 2006|=|2006 Lebanon War
 Lebbek tree|=|Albizia lebbeck
-Lebesgue integral|<->|Lebesgue integration
 Lebold-Vahsholtz Mansion (Abilene, Kan.)|=|Lebold Mansion
 Lebou (African people)|=|Lebu people
 Lech River (Austria and Germany)|=|Lech (river)
@@ -21334,9 +21334,9 @@ Lincoln (Bomber)|=|Avro Lincoln
 Lincoln, Abraham, 1809-1865 -- Assassination|=|Assassination of Abraham Lincoln
 Lincoln, Abraham, 1809-1865 -- Bibliography|<->|Bibliography of Abraham Lincoln
 Lincoln, Abraham, 1809-1865 -- Childhood and youth|<->|Early life and career of Abraham Lincoln
-Lincoln, Abraham, 1809-1865 -- Death and burial|<->|Funeral and burial of Abraham Lincoln
+Lincoln, Abraham, 1809-1865 -- Death and burial|<->|State funeral of Abraham Lincoln
 Lincoln, Abraham, 1809-1865 -- Family|<->|Lincoln family
-Lincoln, Abraham, 1809-1865 -- Funeral journey to Springfield|->|Funeral and burial of Abraham Lincoln
+Lincoln, Abraham, 1809-1865 -- Funeral journey to Springfield|->|State funeral of Abraham Lincoln
 Lincoln, Abraham, 1809-1865 -- Health|<->|Health of Abraham Lincoln
 Lincoln, Abraham, 1809-1865 -- Inauguration, 1861|=|First inauguration of Abraham Lincoln
 Lincoln, Abraham, 1809-1865 -- Inauguration, 1865|=|Second inauguration of Abraham Lincoln
@@ -22058,7 +22058,7 @@ M81 (Galaxy)|=|Messier 81
 M87 (Galaxy)|=|Messier 87
 Ma'di (Ugandan and South Sudanese people)|=|Madi people
 Ma'di language (Uganda and South Sudan)|=|Ma'di language
-Ma'ya language (Indonesia)|=|Ma'ya language
+Ma'ya language (Indonesia)|=|Maʼya language
 Maanyan (Bornean people)|=|Ma'anyan people
 Maanyan language|=|Maʼanyan language
 Maasai (African people)|=|Maasai people
@@ -23193,7 +23193,7 @@ Medical care -- Israel|<->|Healthcare in Israel
 Medical care -- Italy|<->|Healthcare in Italy
 Medical care -- Japan|<->|Health care system in Japan
 Medical care -- Netherlands|<->|Healthcare in the Netherlands
-Medical care -- Sweden|<->|Health care in Sweden
+Medical care -- Sweden|<->|Healthcare in Sweden
 Medical care -- United States|<->|Healthcare in the United States
 Medical codes|<->|Diagnosis code
 Medical codes|<-|Procedure code
@@ -24925,7 +24925,7 @@ Nagorno-Karabakh (Azerbaijan) -- History|<->|History of Nagorno-Karabakh
 Nagorno-Karabakh Conflict, 1988-1994|=|First Nagorno-Karabakh War
 Nagorno-Karabakh War, 2020|=|Second Nagorno-Karabakh War
 Nagoya-shi (Japan)|=|Nagoya
-Nagoya-shi (Japan) -- History -- Bombardment, 1945|<->|Bombing of Nagoya in World War II
+Nagoya-shi (Japan) -- History -- Bombardment, 1945|<->|Bombing of Nagoya
 Nagroda Literacka Gdynia|=|Gdynia Literary Prize
 Nagualism|<->|Nagual
 Nagykanizsa (Hungary)|=|Nagykanizsa
@@ -27950,7 +27950,7 @@ Papplewick Pumping Station (Nottingham, England)|=|Papplewick Pumping Station
 Papua New Guinea Sign Language|=|Papua New Guinean Sign Language
 Par&aacute; (Brazil : State)|=|Pará
 Par&aacute; (Brazil : State) -- History -- Cabanagem, 1835-1840|<->|Cabanagem
-Para grass|=|Brachiaria mutica
+Para grass|=|Urochloa mutica
 Par&aacute; River (Brazil)|=|Pará River
 Parables|=|Parable
 Parachute Jump (New York, N.Y.)|=|Parachute Jump
@@ -30891,7 +30891,7 @@ Rape in correctional institutions|=|Prison rape
 Rape in marriage|=|Marital rape
 Rape in the military -- United States|<->|Sexual assault in the United States military
 Rape in universities and colleges|<->|Campus sexual assault
-Rape of the Sabine women (Legend)|=|The Rape of the Sabine Women
+Rape of the Sabine women (Legend)|=|Rape of the Sabine Women
 Rape (Plant)|<->|Rapeseed
 Rapeseed|->|Rapeseed
 Raphia, Battle of, Rafa&#x1e25;, 217 B.C.|=|Battle of Raphia
@@ -32079,7 +32079,7 @@ Russo-Japanese Border Conflicts, 1932-1941|<->|Soviet–Japanese border conflict
 Russo-Japanese War, 1904-1905|=|Russo-Japanese War
 Russo-Persian War, 1804-1813|=|Russo-Persian War (1804–1813)
 Russo-Persian War, 1826-1828|=|Russo-Persian War (1826–1828)
-Russo-Polish War, 1609-1618|<->|Polish–Russian War (1605–1618)
+Russo-Polish War, 1609-1618|=|Polish–Russian War (1609–1618)
 Russo-Polish War, 1632-1634|=|Smolensk War
 Russo-Polish War, 1792|=|Polish–Russian War of 1792
 Russo-Polish War, 1919-1920|<->|Polish–Soviet War
@@ -32465,7 +32465,7 @@ Sample preparation (Chemistry)|=|Sample preparation
 Sampoong Department Store Collapse, Seoul, Korea, 1995|=|Sampoong Department Store collapse
 Samson, Bernard (Fictitious character)|=|Bernard Samson
 Samsung Galaxy Nexus (Smartphone)|=|Galaxy Nexus
-Samsung Galaxy Note (Smartphone)|<->|Samsung Galaxy Note series
+Samsung Galaxy Note (Smartphone)|<->|Samsung Galaxy Note
 Samsung Galaxy S (Smartphone)|<->|Samsung Galaxy S series
 Samsung Galaxy Tab (Computer)|<->|Samsung Galaxy Tab
 Samuel H. Boardman State Park (Or.)|=|Samuel H. Boardman State Scenic Corridor
@@ -32658,7 +32658,7 @@ Sanga (African people)|=|Sanga people
 Sanga language|=|Sanga language (Bantu)
 Sanghyang (Dance)|=|Sanghyang
 Sang&imacr;n (Helmand, Afghanistan)|=|Sangin
-Sangir (Southeast Asian people)|=|Sangirese people
+Sangir (Southeast Asian people)|=|Sangir people
 Sango language (Ubangi Creole)|<->|Sango language
 Sangola (India)|=|Sangole
 Sangre de Cristo Mountains (Colo. and N.M.)|=|Sangre de Cristo Mountains
@@ -35929,7 +35929,7 @@ Swedish-Polish War, 1617-1629|->|Polish–Swedish War (1600–1629)
 Swedish-Polish War, 1617-1629|<-|Polish–Swedish War (1617–1618)
 Swedish-Polish War, 1617-1629|<-|Polish–Swedish War (1621–1625)
 Swedish-Polish War, 1617-1629|<-|Polish–Swedish War (1626–1629)
-Swedish-Polish War, 1655-1660|<->|Second Northern War
+Swedish-Polish War, 1655-1660|<->|Northern War of 1655–1660
 Sweeney Ridge (Calif.)|=|Sweeney Ridge
 Sweet birch|=|Betula lenta
 Sweet goldenrod|=|Solidago odora
@@ -37336,7 +37336,7 @@ Tom (Fictitious character : Hanna and Barbera)|=|Tom Cat
 Tom's Brook, Battle of, Va., 1864|=|Battle of Tom's Brook
 Tom Thumb (Tale)|<->|Tom Thumb
 Tom-tom|<->|Tom drum
-Tomahawk (Guided missile)|=|Tomahawk (missile)
+Tomahawk (Guided missile)|<->|Tomahawk (missile family)
 Tomatoes|=|Tomato
 Tomb of Anarkali (Lahore, Pakistan)|=|Tomb of Anarkali
 Tomb of Caecilia Metella (Rome, Italy)|=|Tomb of Caecilia Metella
