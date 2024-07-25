@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2024-06-11
-# Manual Sweep: resume with NY (NYPL onward)
+# Last updated 202407-25
+# Manual Sweep: resume with NC
 
 ID OLBP
 NAME The Online Books Page
@@ -1465,6 +1465,13 @@ BASEURL https://lib.thessaloniki.gr
 CATTYPE koha
 SUBURL ${BASEURL}/cgi-bin/koha/opac-search.pl?q=${ARG}
 FILTERS SNK
+
+ID OCLC-GRNLG
+NAME National Library of Greece
+LOCATION Athens; English search terms may give limited results
+COUNTRY GR
+CATTYPE eds
+LCODE ns225716
 
 ID OCLC-CPV
 NAME City University of Hong Kong
@@ -7566,9 +7573,8 @@ ID OCLC-RTN
 NAME North Country Library System
 LOCATION Jefferson, Lewis, Oswego, and St. Lawrence Counties
 STATE NY
-CATTYPE sirsient
-BASEURL https://catalog.ncls.org
-LCODE en_US/nclscat
+CATTYPE vega
+BASEURL https://ncls.na3.iiivega.com/
 
 ID OCLC-YVO
 NAME Onondaga County Public Library
@@ -7581,9 +7587,8 @@ ID OCLC-XDR
 NAME Pioneer Library System: OWWL Catalog
 LOCATION Ontario, Wayne, Wyoming, and Livingston counties
 STATE NY
-BASEURL http://evergreen.owwl.org/eg/opac
-CATTYPE evergreen-dynamic
-LCODE 1
+CATTYPE vufindsi
+BASEURL https://search.owwl.org/Union/Search
 
 ID OCLC-VZQ
 NAME Pratt Institute
@@ -7621,17 +7626,16 @@ ID OCLC-VZF
 NAME St. Francis College
 LOCATION Brooklyn
 STATE NY
-CATTYPE primodl-scope
-BASEURL http://tcna.primo.hosted.exlibrisgroup.com
-VID STFRANCISCOLL
-LCODE STFRANCISCOLL
-SCOPE EVERYTHING
+CATTYPE primo-ve
+BASEURL https://sfc.primo.exlibrisgroup.com
+VID 01STFRANCISCOLL_INST:01STFRANCISCOLL_INST
+SCOPE MyInst_and_CI
 
 ID OCLC-ZSJ
 NAME St. John's University
 LOCATION New York
 STATE NY
-BASEURL https://stjohnsuniversitylibraries.on.worldcat.org/search?queryString
+BASEURL https://stjlib.on.worldcat.org/search?queryString
 CATTYPE worldcat-config
 
 ID OCLC-YSM
@@ -7666,11 +7670,13 @@ ID OCLC-SYB
 NAME Syracuse University Libraries
 LOCATION Syracuse
 STATE NY
-CATTYPE summon
-BASEURL http://syracuse.summon.serialssolutions.com
+CATTYPE primo-ve
+BASEURL https://search.syr.edu
+VID 01SYU_INST:SYU
+SCOPE MyInst_and_CI
 
 ID OCLC-XTC
-NAME Touro College Libraries
+NAME Touro University Libraries
 LOCATION New York
 STATE NY
 CATTYPE summon
@@ -7681,8 +7687,10 @@ ID OCLC-YWM
 NAME United States Military Academy
 LOCATION West Point
 STATE NY
-CATTYPE eds
-LCODE s8366957
+CATTYPE primo-ve
+BASEURL https://usma.primo.exlibrisgroup.com
+VID 01USMA_INST:Scout
+SCOPE MyInst_and_CI
 
 ID OCLC-NAM
 NAME University at Albany, SUNY
@@ -7706,15 +7714,17 @@ ID OCLC-RRR
 NAME University of Rochester, River Campus Libraries
 LOCATION Rochester
 STATE NY
-CATTYPE summon
-BASEURL http://rochester.summon.serialssolutions.com
+CATTYPE primo-ve
+BASEURL https://rochester.primo.exlibrisgroup.com
+VID 01ROCH_INST:UR01
+SCOPE MyInst_and_CI
 
 ID OCLC-VVW
 NAME Westchester Library System
 LOCATION Public libraries in Westchester County
 STATE NY
-CATTYPE evergreen-dynamic
-BASEURL https://catalog.westchesterlibraries.org/eg/opac
+CATTYPE vufindsi
+BASEURL https://opac.westchesterlibraries.org/Union/Search
 
 ID OCLC-0YY
 NAME Yeshiva University Libraries
