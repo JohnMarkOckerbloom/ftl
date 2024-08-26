@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 202407-25
-# Manual Sweep: resume with NC
+# Last updated 2024-08-26
+# Manual Sweep: resume with ND
 
 ID OLBP
 NAME The Online Books Page
@@ -4665,12 +4665,12 @@ VID discovere
 LCODE EMORY
 
 ID OCLC-TRG
-NAME Fort Benning Libraries
-LOCATION Fort Benning
+NAME Fort Moore Libraries
+LOCATION Fort Moore
 STATE GA
-CATTYPE iii-consortium-member
-BASEURL https://mwrlibrary.armybiznet.com
-LCODE 69
+BASEURL https://milrec.bibliovation.com/app/search/
+CATTYPE koha-app-consortium
+LCODE 4MOORE
 
 ID OCLC-GFV
 NAME Fort Valley State University
@@ -5639,9 +5639,9 @@ ID OCLC-APK
 NAME Fort Campbell, Sink Library
 LOCATION Fort Campbell
 STATE KY
-CATTYPE iii-consortium-member
-BASEURL https://mwrlibrary.armybiznet.com
-LCODE 21
+BASEURL https://milrec.bibliovation.com/app/search/
+CATTYPE koha-app-consortium
+LCODE 4CAMP
 
 ID OCLC-GCATC
 NAME Gateway Community and Technical College
@@ -7803,12 +7803,12 @@ CATTYPE evergreen-dynamic
 LCODE 222
 
 ID OCLC-APB
-NAME Fort Bragg, Throckmorton Library
-LOCATION Fort Bragg
+NAME Fort Liberty, Throckmorton Library
+LOCATION Fort Liberty
 STATE NC
-CATTYPE iii-consortium-member
-BASEURL https://mwrlibrary.armybiznet.com
-LCODE 19
+BASEURL https://milrec.bibliovation.com/app/search/
+CATTYPE koha-app-consortium
+LCODE 4LIBE
 
 ID OCLC-UQJ
 NAME Iredell County Public Library
@@ -7860,8 +7860,8 @@ ID OCLC-NOC
 NAME University of North Carolina (UNC) Chapel Hill
 LOCATION Chapel Hill
 STATE NC
-BASEURL http://library.unc.edu/find/combinedresults/
-CATTYPE endeca
+BASEURL https://library.unc.edu/find
+CATTYPE blacklight
 
 ID OCLC-NXW
 NAME University of North Carolina (UNC) Wilmington
@@ -7881,15 +7881,18 @@ ID OCLC-8NX
 NAME Wake County Public Libraries
 LOCATION Raleigh
 STATE NC
-CATTYPE vufind
-BASEURL https://catalog.wakegov.com/
+CATTYPE vufindgeneral
+BASEURL https://catalog.wake.gov/Union/Search
+KINDEX keyword
 
 ID OCLC-EWF
 NAME Wake Forest University
 LOCATION Winston-Salem
 STATE NC
-CATTYPE summon
-BASEURL http://wfu.summon.serialssolutions.com
+CATTYPE primo-ve
+BASEURL https://wfu.primo.exlibrisgroup.com
+VID 01WAKE_INST:ZSR
+SCOPE All
 
 ID OCLC-ESM
 NAME Winston-Salem State University
@@ -9064,20 +9067,28 @@ BASEURL https://pascal-wofford.primo.exlibrisgroup.com
 VID 01PASCAL_WOFF:WOFF
 SCOPE MyInst_and_CI
 
+ID OCLC-SNQ
+NAME Madison Public Library
+LOCATION Madison
+STATE SD
+BASEURL https://madison.tlcdelivers.com/
+CATTYPE ls2pac
+FILTERS S
+
 ID OCLC-RCP
 NAME Rapid City Public Library
 LOCATION Rapid City and Pennington County
 STATE SD
-CATTYPE koha
-BASEURL http://catalog.rapidcitylibrary.org
+CATTYPE vufindgeneral
+BASEURL https://catalog.rapidcitylibrary.org/Union/Search
 
 ID OCLC-ZR8
 NAME Rawlins Municipal Library
 LOCATION Pierre
 STATE SD
-CATTYPE atriuum
-BASEURL https://rawlinslibrarysd.booksys.net/opac/rawl/index.html#search:
-FILTERS N
+CATTYPE apollo
+BASEURL https://rawlinslibrary.biblionix.com/
+FILTERS S
 
 # https://sdsl.agshareit.com/home?cid=sdsl&lid=sdsil
 ID OCLC-SDSDL
@@ -9388,12 +9399,12 @@ BASEURL https://catalog.fortbend.lib.tx.us/polaris
 CATTYPE polaris
 
 ID OCLC-APH
-NAME Fort Hood, Casey Memorial Library
-LOCATION Fort Hood
+NAME Fort Cavazos, Casey Memorial Library
+LOCATION Killeen
 STATE TX
-CATTYPE iii-consortium-member
-BASEURL https://mwrlibrary.armybiznet.com
-LCODE 27
+BASEURL https://milrec.bibliovation.com/app/search/
+CATTYPE koha-app-consortium
+LCODE 4CAVA
 
 ID OCLC-IFA
 NAME Fort Worth Library
@@ -10278,12 +10289,12 @@ BASEURL http://catalog.krl.org/polaris
 CATTYPE polaris
 
 ID OCLC-AVW
-NAME Lewis-McChord Libraries
+NAME McChord Library
 LOCATION Joint Base Lewis-McChord
 STATE WA
-CATTYPE iii-consortium-member
-BASEURL https://mwrlibrary.armybiznet.com
-LCODE 71
+BASEURL https://milrec.bibliovation.com/app/search/
+CATTYPE koha-app-consortium
+LCODE 4FMCCHO
 
 # Same as the catalog for Idaho's Cooperative Information Network, but in WA
 ID OCLC-LIBLM

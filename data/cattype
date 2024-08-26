@@ -346,6 +346,13 @@ AUTURL ${BASEURL}author:${ARG}
 TITURL ${BASEURL}title:${ARG}
 KEYURL ${BASEURL}${ARG}
 
+# same as above, but with a specific library in a consortirum
+CATTYPE koha-app-consortium
+SUBURL ${BASEURL}subject:${ARG}?owned-by=${LCODE}
+AUTURL ${BASEURL}author:${ARG}?owned-by=${LCODE}
+TITURL ${BASEURL}title:${ARG}?owned-by=${LCODE}
+KEYURL ${BASEURL}${ARG}?owned-by=${LCODE}
+
 CATTYPE koha-consortium-member
 SUBURL ${BASEURL}/cgi-bin/koha/opac-search.pl?multibranchlimit=${LCODE}&idx=su&q=${ARG}
 AUTURL ${BASEURL}/cgi-bin/koha/opac-search.pl?multibranchlimit=${LCODE}&idx=au&q=${ARG}
