@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2024-08-26
-# Manual Sweep: resume with ND
+# Last updated 2024-09-09
+# Manual Sweep: resume with OH (L libraries and onward)
 
 ID OLBP
 NAME The Online Books Page
@@ -7906,8 +7906,8 @@ NAME Bismarck Veterans Memorial Public Library
 LOCATION Bismarck
 STATE ND
 CATTYPE ipac20
-BASEURL http://ipac.infolynx.org
-PROFILE maincentral
+BASEURL https://cdak.ipac.sirsidynix.net
+PROFILE bpl
 
 ID OCLC-NFG
 NAME Fargo Public Library
@@ -7935,11 +7935,10 @@ ID OCLC-4ZG
 NAME University of North Dakota
 LOCATION Grand Forks
 STATE ND
-CATTYPE primodl-scope
-BASEURL http://odin-primo.hosted.exlibrisgroup.com/
-VID und
-LCODE und
-SCOPE all
+CATTYPE primo-ve
+BASEURL https://und.primo.exlibrisgroup.com
+VID 01ODIN_UND:und
+SCOPE MyInst_and_CI
 
 ID OCLC-APL
 NAME Akron-Summit County Public Library
@@ -7952,8 +7951,8 @@ ID OCLC-CWR
 NAME Case Western Reserve University
 LOCATION Cleveland
 STATE OH
-CATTYPE summon
-BASEURL http://case.summon.serialssolutions.com
+CATTYPE innopac
+BASEURL https://catalog.case.edu
 
 ID OCLC-CNC
 NAME Central State University
@@ -7990,15 +7989,16 @@ ID OCLC-OCO
 NAME Columbus Metropolitan Library
 LOCATION Columbus and vicinity
 STATE OH
-BASEURL http://catalog.clcohio.org/polaris
-CATTYPE polaris
+CATTYPE bibliocommons
+BASEURL https://cml.bibliocommons.com
 
 ID OCLC-CXP
 NAME Cuyahoga County Public Library
 LOCATION Cleveland suburbs
 STATE OH
-BASEURL http://encore.cuyahoga.lib.oh.us/iii/encore
-CATTYPE encore
+CATTYPE vufindsi
+BASEURL https://discover.cuyahogalibrary.org/Union/Search
+FILTERS S
 
 ID OCLC-7DM
 NAME Dayton Metro Library
@@ -8011,9 +8011,8 @@ ID OCLC-ODG
 NAME Delaware County District Library
 LOCATION Delaware, Ostrander, and Powell
 STATE OH
-CATTYPE innopac
-BASEURL http://catalog.delawarelibrary.org
-FILTERS SNK
+CATTYPE bibliocommons
+BASEURL https://delawarelibrary.bibliocommons.com
 
 # Kent State has EDS, but it doesn't work right off-campus (no custid seen)
 # so we'll drop back to KentLink, their catalog
@@ -8029,7 +8028,7 @@ NAME Kenyon College
 LOCATION Gambier
 STATE OH
 CATTYPE summon
-BASEURL http://kenyon.summon.serialssolutions.com
+BASEURL https://kenyon.summon.serialssolutions.com
 
 ID OCLC-GVC
 NAME Licking County Library
@@ -8815,19 +8814,18 @@ LOCATION Philadelphia
 STATE PA
 KEYURL https://librarysearch.temple.edu/everything?q=${ARG}
 
-# Penn Libraries' search syntax is in flux with new system
-# For now, we'll cut back to keyword search only 
-#  and Blackligt catalog author search for author queries (SYNTAX MAY CHANGE)
-# Before (and in the future?), subject and keyword searches
-# used Franklin-Summon discovery and other searches used regular Franklin
+# We're switching over to Penn Libraries' Find interface
 ID OCLC-PAU
 NAME University of Pennsylvania Libraries
 LOCATION Philadelphia
 STATE PA
 IPRANGE 128.91.0.0/16|130.91.0.0/16|158.130.0.0/16|165.123.0.0/16
-BASEURL https://franklin.library.upenn.edu
-AUTURL ${BASEURL}/catalog?search_field=author_search&q=${ARG}
-KEYURL ${BASEURL}/bento?q=${ARG}
+#BASEURL https://franklin.library.upenn.edu
+#AUTURL ${BASEURL}/catalog?search_field=author_search&q=${ARG}
+#KEYURL ${BASEURL}/bento?q=${ARG}
+BASEURL https://find.library.upenn.edu
+CATTYPE blacklight
+TINDEX title_search
 
 ID OCLC-PIT
 NAME University of Pittsburgh

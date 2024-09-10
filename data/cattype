@@ -121,9 +121,10 @@ KEYURL ${BASEURL}/search?t=smart&search_category=keyword&q=${ARG}
 CATTYPE blacklight
 AINDEX author
 SINDEX subject_terms
+TINDEX title
 SUBURL ${BASEURL}/?q=${ARG}&search_field=${SINDEX}
 AUTURL ${BASEURL}/?q=${ARG}&search_field=${AINDEX}
-TITURL ${BASEURL}/?q=${ARG:A}&search_field=title
+TITURL ${BASEURL}/?q=${ARG:A}&search_field=${TINDEX}
 KEYURL ${BASEURL}/?q=${ARG}
 DEFAULT DOMAIN
 

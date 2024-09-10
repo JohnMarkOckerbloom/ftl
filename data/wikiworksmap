@@ -9,7 +9,7 @@
 # Last updated 2024-08-27
 # TV program sweep picks up from A
 # Resume native treaty sweep from L (https://en.wikipedia.org/wiki/Category:United_States_and_Native_American_treaties; search treaty + year in LCAuthorities)
-# Resume wbookfile ...TSUB sweep with author Bergland
+# Resume wbookfile ...TSUB sweep with author Blackburn
 10 items or less (Television program)|=|10 Items or Less (TV series)
 10 things I hate about you (Motion picture)|=|10 Things I Hate About You
 10 things I hate about you (Television program)|=|10 Things I Hate About You (TV series)
@@ -401,6 +401,8 @@ Any given Sunday (Motion picture)|=|Any Given Sunday
 Any which way you can (Motion picture)|=|Any Which Way You Can
 Apache (Computer file : Apache Group)|=|Apache HTTP Server
 Apache Mesos (Electronic resource)|<->|Apache Mesos
+Apelfeld, Aharon. Badenhaim, 'ir nofesh|=|Badenheim 1939
+Apelfeld, Aharon. Pir&#x1e25;e ha-afelah|=|Blooms of Darkness
 Apocalypse now (Motion picture)|=|Apocalypse Now
 Apocalypse now (Motion picture : Redux)|=|Apocalypse Now Redux
 Apocalypto (Motion picture)|=|Apocalypto
@@ -418,6 +420,15 @@ Arabian nights (Motion picture : 1942)|=|Arabian Nights (1942 film)
 Ararat (Motion picture)|=|Ararat (film)
 Arch of triumph (Motion picture : 1948)|=|Arch of Triumph (1948 film)
 Arctic tale (Motion picture)|=|Arctic Tale
+Arendt, Hannah, 1906-1975. Between past and future|=|Between Past and Future
+Arendt, Hannah, 1906-1975. Crises of the republic|=|Crises of the Republic
+Arendt, Hannah, 1906-1975. Eichmann and the Holocaust|->|Eichmann in Jerusalem
+Arendt, Hannah, 1906-1975. Eichmann in Jerusalem|=|Eichmann in Jerusalem
+Arendt, Hannah, 1906-1975. Human condition|=|The Human Condition (Arendt book)
+Arendt, Hannah, 1906-1975. Liebesbegriff bei Augustin|=|Love and Saint Augustine
+Arendt, Hannah, 1906-1975. On revolution|=|On Revolution
+Arendt, Hannah, 1906-1975. Origins of totalitarianism|=|The Origins of Totalitarianism
+Arendt, Hannah, 1906-1975. Rahel Varnhagen|=|Rahel Varnhagen: The Life of a Jewess
 Argentina. Constituci&oacute;n (1853)|=|Argentine Constitution of 1853
 Argentina. Constituci&oacute;n (1949)|=|Argentine Constitution of 1949
 Argentina. Constituci&oacute;n (1994)|<->|1994 amendment of the Constitution of Argentina
@@ -1259,6 +1270,11 @@ Bible. Dutch|<->|Bible translations into Dutch
 Bible. Ecclesiastes|=|Ecclesiastes
 Bible. Ecclesiasticus|=|Book of Sirach
 Bible. English|<->|Bible translations into English
+Bible. English. Good News Translation|=|Good News Bible
+Bible. English. New International|=|New International Version
+Bible. English. New International Reader's|=|New International Reader's Version
+Bible. English. New King James|=|New King James Version
+Bible. English. New Living Translation|=|New Living Translation
 Bible. English -- Versions -- Authorized|=|King James Version
 Bible. English (Middle English) -- Versions -- Wycliffe|<->|Wycliffe's Bible
 Bible. Ephesians|=|Epistle to the Ephesians
@@ -1307,6 +1323,7 @@ Bible. Numbers|=|Book of Numbers
 Bible. Obadiah|=|Book of Obadiah
 Bible. Old Testament|<->|Old Testament
 Bible. Old Testament|<-|Hebrew Bible
+Bible. Old Testament. Greek. Septuagint|=|Septuagint
 Bible. Pentateuch|<->|Torah
 Bible. Peter, 1st|=|First Epistle of Peter
 Bible. Peter, 2nd|=|Second Epistle of Peter
@@ -3407,6 +3424,7 @@ House of Dracula (Motion picture)|=|House of Dracula
 House of sand and fog (Motion picture)|=|House of Sand and Fog (film)
 How to train your dragon (Motion picture)|=|How to Train Your Dragon (2010 film)
 How to train your dragon 2 (Motion picture)|=|How to Train Your Dragon 2
+Howe, Julia Ward, 1819-1910. Battle hymn of the Republic|=|Battle Hymn of the Republic
 Huckleberry Hound (Television program)|=|The Huckleberry Hound Show
 Hunger Games (Motion picture)|=|The Hunger Games (film)
 Hunger Games. Catching fire (Motion picture)|=|The Hunger Games: Catching Fire
@@ -4109,6 +4127,45 @@ Prisoner (Television program : 1967-1968)|=|The Prisoner
 Prisoner (Television program : 1979-1986)|=|Prisoner (TV series)
 Protocols of the wise men of Zion|=|The Protocols of the Elders of Zion
 Protocols of Zion (Motion picture)|=|Protocols of Zion (film)
+Puranas. Agnipur&amacr;&#x1e47;a|=|Agni Purana
+Puranas. Bh&amacr;gavatapur&amacr;&#x1e47;a|=|Bhagavata Purana
+Puranas. Bhavi&#x1e63;yapur&amacr;&#x1e47;a|=|Bhavishya Purana
+Puranas. Brahm&amacr;&#x1e47;&#x1e0d;apur&amacr;&#x1e47;a|=|Brahmanda Purana
+Puranas. Brahm&amacr;&#x1e47;&#x1e0d;apur&amacr;&#x1e47;a. Adhy&amacr;tmar&amacr;m&amacr;ya&#x1e47;a|=|Adhyatma Ramayana
+Puranas. Brahm&amacr;&#x1e47;&#x1e0d;apur&amacr;&#x1e47;a. Lalit&amacr;sahasran&amacr;ma|=|Lalita Sahasranama
+Puranas. Brahmapur&amacr;&#x1e47;a|=|Brahma Purana
+Puranas. Brahmavaivartapur&amacr;&#x1e47;a|=|Brahma Vaivarta Purana
+Puranas. Br&#x0325;haddharmapur&amacr;&#x1e47;a|=|Brihaddharma Purana
+Puranas. Dev&imacr;bh&amacr;gavatapur&amacr;&#x1e47;a|=|Devi Bhagavata Purana
+Puranas. Dev&imacr;bh&amacr;gavatapur&amacr;&#x1e47;a. Dev&imacr;g&imacr;t&amacr;|=|Devi Gita
+Puranas. Ga&#x1e47;e&sacute;apur&amacr;&#x1e47;a|=|Ganesha Purana
+Puranas. Garu&#x1e0d;apur&amacr;&#x1e47;a|=|Garuda Purana
+Puranas. K&amacr;lik&amacr;pur&amacr;&#x1e47;a|=|Kalika Purana
+Puranas. Kalkipur&amacr;&#x1e47;a|=|Kalki Purana
+Puranas. Kapilapur&amacr;&#x1e47;a|=|Kapila Purana
+Puranas. K&umacr;rmapur&amacr;&#x1e47;a|=|Kurma Purana
+Puranas. K&umacr;rmapur&amacr;&#x1e47;a. I&sacute;varag&imacr;t&amacr;|=|Ishvara Gita
+Puranas. Li&#x1e45;gapur&amacr;&#x1e47;a|=|Linga Purana
+Puranas. Mah&amacr;bh&amacr;gavatapur&amacr;&#x1e47;a|=|Mahabhagavata Purana
+Puranas. M&amacr;rka&#x1e47;&#x1e0d;eyapur&amacr;&#x1e47;a|=|Markandeya Purana
+Puranas. M&amacr;rka&#x1e47;&#x1e0d;eyapur&amacr;&#x1e47;a. Dev&imacr;m&amacr;h&amacr;tmya|=|Devi Mahatmya
+Puranas. Matsyapur&amacr;&#x1e47;a|=|Matsya Purana
+Puranas. Mudgalapur&amacr;&#x1e47;a|=|Mudgala Purana
+Puranas. N&amacr;radapur&amacr;&#x1e47;a|<->|Naradiya Purana
+Puranas. Narasi&#x1e43;hapur&amacr;&#x1e47;a|=|Narasimha Purana
+Puranas. N&imacr;lamatapur&amacr;&#x1e47;a|=|Nilamata Purana
+Puranas. Padmapur&amacr;&#x1e47;a|=|Padma Purana
+Puranas. S&amacr;mbapur&amacr;&#x1e47;a|=|Samba Purana
+Puranas. Saurapur&amacr;&#x1e47;a|=|Saura Purana
+Puranas. &Sacute;ivapur&amacr;&#x1e47;a|=|Shiva Purana
+Puranas. Skandapur&amacr;&#x1e47;a|=|Skanda Purana
+Puranas. Skandapur&amacr;&#x1e47;a. Gurug&imacr;t&amacr;|=|Guru Gita
+Puranas. Sv&amacr;yambh&umacr;pur&amacr;&#x1e47;a|=|Swayambhu Purana
+Puranas. V&amacr;manapur&amacr;&#x1e47;a|=|Vamana Purana
+Puranas. Var&amacr;hapur&amacr;&#x1e47;a|=|Varaha Purana
+Puranas. V&amacr;yupur&amacr;&#x1e47;a|=|Vayu Purana
+Puranas. Vi&#x1e63;&#x1e47;udharmottarapur&amacr;&#x1e47;a|=|Vishnudharmottara Purana
+Puranas. Vi&#x1e63;&#x1e47;upur&amacr;&#x1e47;a|=|Vishnu Purana
 Qt (Electronic resource)|=|Qt (software)
 Quartz (Electronic resource)|<->|Quartz (graphics layer)
 Quicken (Computer file)|=|Quicken
