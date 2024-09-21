@@ -1789,6 +1789,14 @@ COUNTRY PK
 BASEURL http://142.54.178.188:5157
 CATTYPE koha
 
+ID OCLC-PHNLP
+NAME National Library of the Philippines
+LOCATION Manila
+COUNTRY PH
+BASEURL http://koha.nlp.gov.ph
+CATTYPE koha
+FILTERS SNK
+
 # we'll probably get best results here if we make subject search keyword sarch
 ID NATOLIN
 NAME College of Europe at Natolin

@@ -10,7 +10,7 @@
 #   are not included in this file.
 # Manual title and name-title correspondences have been moved to wikiworksmap.
 # See docs file for documentation
-# Last updated 2024-09-03
+# Last updated 2024-09-18
 # Did LCSH 2015-2022 update lists: 2023 monthly list 1, 2 (main; expedited start at Te Whanau Moana, and then do Fictitious character sift)
 1 Pendleton Place House (New York, N.Y.)|=|One Pendleton Place
 1009 Fifth Avenue House (New York, N.Y.)|=|Benjamin N. Duke House
@@ -1909,7 +1909,7 @@ Architecture, Hakka|<->|Hakka walled village
 Architecture, Japanese|=|Japanese architecture
 Architecture, Korean|=|Korean architecture
 Architecture, Modern|<->|Contemporary architecture
-Architecture, Mogul Empire|<->|Mughal architecture
+Architecture, Mughal Empire|<->|Mughal architecture
 Architecture -- Composition, proportion, etc.|<->|Proportion (architecture)
 Architecture -- China -- History -- Song-Yuan dynasties, 960-1368|<->|Architecture of the Song dynasty
 Architecture -- India|=|Architecture of India
@@ -2223,6 +2223,7 @@ Art, Indonesian|=|Indonesian art
 Art, Italian|=|Italian art
 Art, Japanese|=|Japanese art
 Art, Kazakh|=|Kazakh art
+Art, Khmer|<->|Cambodian art
 Art, Korean|=|Korean art
 Art, Kushan|=|Kushan art
 Art, Latin American|=|Latin American art
@@ -3429,7 +3430,7 @@ Battletoads (Game)|<->|Battletoads
 Battletoads (Game)|<-|Battletoads (1991 video game)
 Batu Caves (Selangor, Malaysia)|=|Batu Caves
 Batu Gajah (Perak, Malaysia)|=|Batu Gajah
-Batuque (Cult)|->|Candomblé
+Batuque|=|Batuque (religion)
 Batur, Mount (Bali, Indonesia)|=|Mount Batur
 Baturyn (Ukraine)|=|Baturyn
 Baturyn Massacre, Baturyn, Ukraine, 1708|<->|Sack of Baturyn
@@ -3463,7 +3464,7 @@ Bayard-Condict Building (New York, N.Y.)|=|Bayard–Condict Building
 Bayard Cutting Arboretum (Long Island, N.Y.)|<->|Bayard Cutting Arboretum State Park
 Bayardo (Race horse)|=|Bayardo (horse)
 Bayat (Turkic people)|=|Bayat (tribe)
-Baybayin alphabet|=|Baybayin
+Baybayin syllabary|=|Baybayin
 Bayerischer Fernsehpreis|=|Bavarian TV Awards
 Bayerischer Filmpreis|=|Bavarian Film Awards
 Bayern Class (Battleships)|=|Bayern-class battleship
@@ -4469,6 +4470,7 @@ Blue Mountains (Or. and Wash.)|=|Blue Mountains (Pacific Northwest)
 Blue Nile River (Ethiopia and Sudan)|=|Blue Nile
 Blue Ridge Parkway (N.C. and Va.)|=|Blue Ridge Parkway
 Blue River (Washington County-Crawford County and Harrison County, Ind.)|=|Blue River (Indiana)
+Blue Sky, Mount (Colo.)|=|Mount Blue Sky
 Blue Spring State Park (Fla.)|=|Blue Spring State Park
 Blue Springs, Battle of, Mosheim, Tenn., 1863|=|Battle of Blue Springs
 Blue Stinger (Game)|=|Blue Stinger
@@ -12229,7 +12231,6 @@ Esperanza (Santa Fe, Argentina)|=|Esperanza, Santa Fe
 Espinosa, Battle of, Espinosa de los Monteros, Spain, 1808|=|Battle of Espinosa de los Monteros
 Espinosa de los Monteros (Spain)|=|Espinosa de los Monteros
 Espionage, Soviet -- United States|=|Soviet espionage in the United States
-Espiritismo (Cult)|<->|Espiritismo
 Esp&iacute;rito Santo (Brazil : State)|=|Espírito Santo
 eSports (Contests)|<->|Esports
 Esposizione internazionale del Sempione (1906 : Milan, Italy)|=|Milan International
@@ -12287,6 +12288,7 @@ Ethernet (Local area network system)|<->|Ethernet
 Etherow Country Park (Compstall, England)|=|Etherow Country Park
 Ethical culture movement|=|Ethical movement
 Ethical relativism|=|Moral relativism
+Ethics, Evolutionary|=|Evolutionary ethics
 Ethiopia -- History -- Coup d'&eacute;tat, 1960|<->|1960 Ethiopian coup attempt
 Ethiopia -- History -- Rebellion, 1928-1930|<->|Gugsa Wale's rebellion
 Ethiopian newspapers|<->|List of newspapers in Ethiopia
@@ -12382,7 +12384,6 @@ Evander (Classical mythology)|=|Evander of Pallantium
 Evangelists (Bible)|=|Four Evangelists
 Evans family|<->|Evans (surname)
 Evans gambit (Chess)|=|Evans Gambit
-Evans, Mount (Colo.)|=|Mount Blue Sky
 Even (Asian people)|=|Evens
 Evening primrose|<->|Oenothera
 Evenki (Asian people)|=|Evenki people
@@ -12694,7 +12695,7 @@ Farm equipment|->|Agricultural machinery
 Farm management|->|Agricultural science
 Farmer (Jet fighter plane)|=|Mikoyan-Gurevich MiG-19
 Farmers|=|Farmer
-Farmers' Protests, India, 2020-|=|2020–2021 Indian farmers' protest
+Farmers' Protests, India, 2020-2021|=|2020–2021 Indian farmers' protest
 Farmers' Strike, Poland, 1937|<->|1937 peasant strike in Poland
 Farmhouses|=|Farmhouse
 Farmington Canal Heritage Trail (Conn. and Mass.)|=|Farmington Canal Heritage Trail
@@ -14157,7 +14158,7 @@ Gardens, English|->|English landscape garden
 Gardens, Greek|<->|Greek garden
 Gardens, Japanese|<->|Japanese garden
 Gardens, Korean|=|Korean garden
-Gardens, Mogul Empire|=|Mughal garden
+Gardens, Mughal Empire|=|Mughal garden
 Gardens, Persian|=|Persian gardens
 Gardens, Renaissance -- Italy|<->|Italian Renaissance garden
 Gardens, Roman|=|Roman gardens
@@ -19542,7 +19543,7 @@ Karn&#x0323;a (Hindu mythological character)|=|Karna
 Karnak (Egypt)|<->|Karnak
 Karnataka (India)|=|Karnataka
 Karo-Batak dialect|=|Batak Karo language
-Karok Indians|=|Karuk
+Karuk Indians|=|Karuk
 Karoo (South Africa)|<->|Karoo
 Karpathos (Greece)|<->|Karpathos
 Karpathos (Greece : Municipality)|->|Karpathos
@@ -22169,7 +22170,6 @@ Macro instructions (Electronic computers)|=|Macro (computer science)
 Macrodasyoidea|=|Macrodasyida
 Macropus eugenii|=|Tammar wallaby
 Mac&uacute; language|<->|Maku language of Auari
-Macumba (Cult)|=|Macumba
 Macusi Indians|=|Macushi
 MAD (Computer program language)|=|MAD (programming language)
 Mad Max films|<->|Mad Max
@@ -24135,7 +24135,6 @@ Mogollon Mountains (N.M.)|=|Mogollon Mountains
 Mogollon Rim (Ariz.)|=|Mogollon Rim
 Moguchai&#xfe20;a&#xfe21; kuchka (Group of composers)|=|The Five (composers)
 Mogul (Locomotive)|<->|2-6-0
-Mogul Empire|=|Mughal Empire
 Moh&aacute;cs, 2nd Battle of, Hungary, 1687|=|Battle of Mohács (1687)
 Moh&aacute;cs, Battle of, Hungary, 1526|=|Battle of Mohács
 Mohale Dam (Lesotho)|=|Mohale Dam
@@ -27143,7 +27142,7 @@ Operation Drumbeat, 1942|<->|Second Happy Time
 Operation Eagle Claw, Iran, 1980|=|Operation Eagle Claw
 Operation Eagle Pull, 1975|=|Operation Eagle Pull
 Operation Earnest Will, 1987-1988|=|Operation Earnest Will
-Operation Enduring Freedom, 2001-|=|Operation Enduring Freedom
+Operation Enduring Freedom, 2001-2014|=|Operation Enduring Freedom
 Operation Epsom, 1944|=|Operation Epsom
 Operation Farm Gate, 1961-1967|<->|Operation Farm Gate
 Operation Fast and Furious, 2009-2011|<->|ATF gunwalking scandal
@@ -27699,7 +27698,7 @@ Painting, Dutch -- 17th century|<->|Dutch Golden Age painting
 Painting -- Digital techniques|<->|Digital painting
 Painting, Flemish|=|Flemish painting
 Painting, Korean|=|Korean painting
-Painting, Mogul Empire|=|Mughal painting
+Painting, Mughal Empire|=|Mughal painting
 Painting, Netherlandish|<->|Early Netherlandish painting
 Painting -- Nepal|<->|Nepalese painting
 Paipai Indians|=|Paipai
@@ -28668,7 +28667,7 @@ Pequot War, 1636-1638|<->|Pequot War
 Perak (Malaysia)|=|Perak
 Perak Island (Kedah, Malaysia)|=|Perak Island
 Perak River (Perak, Malaysia)|=|Perak River
-Perak War, Malaya, 1875-1876|=|Perak War
+Perak War, Malaysia, 1875-1876|=|Perak War
 Peranakan (Asian people)|<->|Peranakan Chinese
 Peranakan (Asian people)|<-|Chitty
 Peras Gefen|=|Geffen Award
@@ -30665,7 +30664,6 @@ Quillayute Needles National Wildlife Refuge (Wash.)|->|Washington Maritime Natio
 Quilmes (Argentina)|=|Quilmes
 Quilmes Indians|=|Quilmes people
 Quilmes Site (Argentina)|<->|Ruins of Quilmes
-Quimbanda (Cult)|=|Quimbanda
 Quimbaya Indians|=|Quimbaya
 Quimbo Dam (Colombia)|=|El Quimbo Dam
 Quimby, Ramona (Fictitious character)|=|Ramona Quimby
@@ -30947,7 +30945,7 @@ Random walks (Mathematics)|=|Random walk
 Rang Mahal (Lal Qila, Delhi, India)|=|Rang Mahal (Red Fort)
 Rangelands|=|Rangeland
 Range management|->|Natural resource management
-Range Rover truck|=|Range Rover
+Range Rover sport utility vehicle|=|Range Rover
 Rangefinders (Photography)|<->|Rangefinder camera
 Rangers' Club (Yosemite National Park, Calif.)|=|Rangers' Club
 Rangi (African people)|=|Rangi people
@@ -30957,8 +30955,7 @@ Ranquel Indians|=|Ranquel
 Ransom, Elwin (Fictitious character)|=|Elwin Ransom
 Rao (Malay people)|<->|Rawa (tribe)
 Rap (Music)|<->|Rapping
-Rapanui (Easter Island people)|=|Rapa Nui people
-Rapanui language|=|Rapa Nui language
+Rapa Nui (Easter Island people)|=|Rapa Nui people
 Rape -- Law and legislation|=|Laws regarding rape
 Rape as a weapon of war|<->|Wartime sexual violence
 Rape in correctional institutions|=|Prison rape
@@ -37202,7 +37199,6 @@ Tibet Autonomous Region (China)|<->|Tibet Autonomous Region
 Tibet Autonomous Region (China) -- History -- Uprising of 1959|=|1959 Tibetan uprising
 Tibet Autonomous Region (China) -- History -- Uprising of 2008|=|2008 Tibetan unrest
 Tibet Autonomous Region (China) -- Religion|=|Religion in Tibet
-Tibet, Plateau of|=|Tibetan Plateau
 Tibetan language -- Alphabet|<->|Tibetan script
 Tibetan language -- Grammar|<->|Modern Lhasa Tibetan grammar
 Tibetans|=|Tibetan people
@@ -37730,7 +37726,8 @@ Translocation (Genetics)|<->|Chromosomal translocation
 Transmission mechanism (Monetary policy)|=|Monetary transmission mechanism
 Transmutation (Chemistry)|<->|Nuclear transmutation
 Transparencies|=|Transparency (projection)
-Transparency in government|<->|Open government
+Transparency (Ethics)|<->|Transparency (behavior)
+Transparency (Ethics) in government|<->|Open government
 Transparent mirrors|=|One-way mirror
 Transplantation of organs, tissues, etc.|<->|Organ transplantation
 Transport theory|<->|Transport phenomena
@@ -38460,7 +38457,6 @@ Umatilla National Wildlife Refuge (Or. and Wash.)|=|Umatilla National Wildlife R
 Umatilla River (Or.)|=|Umatilla River
 Umayyad dynasty|<->|Umayyad Caliphate
 Umbach family|<->|Umbach (surname)
-Umbanda (Cult)|=|Umbanda
 Umbeluzi River (Eswatini and Mozambique)|=|Mbuluzi River
 Umbrella Movement, China, 2014|=|Umbrella Movement
 Umbrellas|=|Umbrella
