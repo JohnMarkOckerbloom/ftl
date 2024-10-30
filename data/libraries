@@ -7253,7 +7253,8 @@ ID OCLC-PUL
 NAME Princeton University Library
 LOCATION Princeton
 STATE NJ
-KEYURL http://library.princeton.edu/find/all/${ARG}
+KEYURL http://allsearch.princeton.edu/?q=${ARG}
+#KEYURL http://library.princeton.edu/find/all/${ARG}
 
 ID OCLC-NJS
 NAME Stockton University
