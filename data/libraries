@@ -1384,6 +1384,14 @@ BASEURL https://www.ester.ee/search~S58*eng/
 AUTURL ${BASEURL}?searchtype=a&searcharg=${ARG:N}
 TITURL ${BASEURL}?searchtype=t&searcharg=${ARG:N}
 KEYURL ${BASEURL}?searchtype=X&searcharg=${ARG:N}
+ 
+# sticking with keyword only since I'm not sure about heading precision here
+ID OCLC-EGAXA
+NAME Bibliotheca Alexandrina
+LOCATION Alexandria
+COUNTRY EG
+BASEURL https://balis.bibalex.org/en/OPAC/Home/SearchOPAC
+KEYURL ${BASEURL}?keyword=${ARG:SNK}
 
 ID ADDISABABAUNIV
 NAME Addis Ababa University
@@ -1497,6 +1505,13 @@ COUNTRY ID
 BASEURL http://lib.ui.ac.id/hasilcari
 KEYURL ${BASEURL}?query=${ARG}
 FILTERS SNK
+
+ID OCLC-MENLI
+NAME Iraqi Library and Archives
+LOCATION Baghdad; English searches may give limited results
+COUNTRY IQ
+BASEURL https://iraqnla.gov.iq/opac/index.php
+KEYURL ${BASEURL}?q=${ARG:SNK}
 
 ID OCLC-DBX
 NAME Dublin Institute of Technology

@@ -10,7 +10,7 @@
 #   are not included in this file.
 # Manual title and name-title correspondences have been moved to wikiworksmap.
 # See docs file for documentation
-# Last updated 2024-10-14
+# Last updated 2024-11-04
 # Did LCSH 2015-2022 update lists: 2023 monthly list 1-2, 3 (A-B only)
 1 Pendleton Place House (New York, N.Y.)|=|One Pendleton Place
 1009 Fifth Avenue House (New York, N.Y.)|=|Benjamin N. Duke House
@@ -224,7 +224,7 @@ Abrahamites (Bohemia)|=|Abrahamites
 Abrams Creek (Frederick County, Va.)|=|Abrams Creek (Virginia)
 Abrikosov family|<->|Abrikosov
 Abron (African people)|=|Bono people
-Abron language|=|Bono dialect
+Abron language|=|Bono language
 Abronia (Reptiles)|=|Abronia (lizard)
 Abruzzo (Italy)|=|Abruzzo
 Absaroka Range (Mont. and Wyo.)|=|Absaroka Range
@@ -1677,7 +1677,7 @@ Anu (Assyro-Babylonian deity)|=|Anu
 Anuak (African people)|=|Anuak people
 Anual, Battle of, Annoual, Morocco, 1921|=|Battle of Annual
 Anubis (Egyptian deity)|=|Anubis
-Anufo dialect|<->|Chakosi language
+Anufo dialect|<->|Anufo language
 Anyi (African people)|=|Anyi people
 Anyi language|=|Anyin language
 Anza-Borrego Desert State Park (Calif.)|=|Anza-Borrego Desert State Park
@@ -2988,7 +2988,7 @@ Bahnar (Vietnamese people)|=|Bahnar people
 Bahnhof Bautzen (Bautzen, Germany)|=|Bautzen station
 Bahnhof Frankfurt (Oder) (Frankfurt (Oder), Germany)|=|Frankfurt (Oder) station
 Bahnhof G&ouml;ttingen (G&ouml;ttingen, Germany)|=|Göttingen station
-Bahnhof Stadelhofen (Zurich, Switzerland)|=|Zürich Stadelhofen railway station
+Bahnhof Stadelhofen (Zurich, Switzerland)|=|Zurich Stadelhofen railway station
 Bahnhof Zoologischer Garten (Berlin, Germany)|=|Berlin Zoologischer Garten station
 Bai (Chinese people)|=|Bai people
 Bai family|<->|Bai (surname)
@@ -3645,7 +3645,7 @@ Beja&iuml;a (Algeria)|=|Béjaïa
 Beja&iuml;a (Algeria : Province)|=|Béjaïa Province
 Bekati' language|=|Bakatiʼ language
 Bekennende Kirche|=|Confessing Church
-Bektashi|<->|Bektashi Order
+Bektashi|<->|Bektashism
 Belacqua, Lyra (Fictitious character)|=|Lyra Belacqua
 B&eacute;langer family|<->|Bélanger
 Belarus -- Economic conditions|<->|Economy of Belarus
@@ -5453,7 +5453,7 @@ Burma -- History -- 1948-1962|<->|Union of Burma (1948–1962)
 Burma -- History -- Ava kingdom, 1364-1527|<->|Kingdom of Ava
 Burma -- History -- Japanese occupation, 1942-1945|=|Japanese occupation of Burma
 Burma -- History -- Konbaung dynasty, 1752-1885|<->|Konbaung dynasty
-Burma -- History -- Pagan period, 849-1287|<->|Pagan Kingdom
+Burma -- History -- Pagan period, 849-1287|<->|Pagan kingdom
 Burma -- History -- Peasant Uprising, 1930|->|Saya San
 Burma -- History -- Toungoo dynasty, 1486-1752|<->|Toungoo dynasty
 Burma -- Politics and government|<->|Politics of Myanmar
@@ -7365,7 +7365,7 @@ Choctawhatchee River (Ala. and Fla.)|=|Choctawhatchee River
 Choirboys|=|Choirboy
 Choirs (Architecture)|=|Choir (architecture)
 Choirs (Music)|=|Choir
-Chokossi (African people)|<->|Chakosi people
+Chokossi (African people)|<->|Anufo people
 Chokwe (African people)|=|Chokwe people
 Chol Indians|=|Chʼol
 Chol language|=|Chʼol language
@@ -9991,7 +9991,7 @@ DEC VT420 (Video display terminal)|=|VT420
 Decade to Overcome Violence, 2001-2010|<->|Decade to Overcome Violence
 Decadence (Literary movement)|<->|Decadent movement
 Decapod Type (Steam locomotives)|<->|2-10-0
-Decapoda (Crustacea)|=|Decapoda
+Decapoda (Crustacea)|=|Decapod
 Decay schemes (Radioactivity)|=|Decay scheme
 December Riots, Greece, 2008|=|2008 Greek riots
 Decembrists|->|Decembrist revolt
@@ -10450,8 +10450,7 @@ Dillberry Lake Provincial Park (Alta.)|=|Dillberry Lake Provincial Park
 Dillon, Sean (Fictitious character)|=|Sean Dillon (character)
 Dime novels|=|Dime novel
 Dimension theory (Topology)|->|Dimension
-Dimerization|=|Dimerization (chemistry)
-Dimers|->|Dimerization (chemistry)
+Dimers|->|Dimerization
 Dimethyl sulfone|=|Methylsulfonylmethane
 Dimethylnitrosamine|=|N-Nitrosodimethylamine
 Diminished-value damages|<->|Diminution in value
@@ -10793,7 +10792,7 @@ Dominican Republic -- History -- Revolution, 1965|<->|Dominican Civil War
 Dominican Republic -- Politics and government|<->|Politics of the Dominican Republic
 Dominican sisters|->|Dominican Order
 Dominicans|=|Dominican Order
-Dominicans (Dominican Republic)|<->|People of the Dominican Republic
+Dominicans (Dominican Republic)|<->|Dominicans
 Dominion Textile Company Strike, Salaberry-de-Valleyfield, Qu&eacute;bec, 1946|<->|1946 Montreal Cottons strike
 Domino Park (New York, N.Y.)|=|Domino Park
 Domok&oacute;s (Greece)|=|Domokos
@@ -11477,7 +11476,7 @@ Efutu (African people)|=|Efutu people
 Egadi Islands (Italy)|=|Aegadian Islands
 Egba (African people)|=|Egba people
 Eger (Hungary)|=|Eger
-Egeria (Plant genus)|=|Egeria (plant)
+Egeria densa|=|Elodea densa
 Egg cases (Zoology)|<->|Egg case
 Egg cases (Zoology)|<-|Ootheca
 Egg decoration|=|Egg decorating
@@ -13105,7 +13104,7 @@ Flanders family|<->|Flanders (surname)
 Flanker (Jet fighter plane)|<->|Sukhoi Su-27
 Flaps (Airplanes)|<->|Flap (aeronautics)
 Flaps (Surgery)|=|Flap (surgery)
-Flash (Fictitious character)|=|Flash (DC Comics character)
+Flash (Fictitious character)|=|The Flash
 Flash cards|=|Flashcard
 Flash memories (Computers)|=|Flash memory
 Flash point (Thermodynamics)|=|Flash point
@@ -16263,7 +16262,7 @@ Heinkel 111 (Bomber)|=|Heinkel He 111
 Heinkel 112 (Fighter plane)|=|Heinkel He 112
 Heinkel 162 (Jet fighter plane)|=|Heinkel He 162
 Heinkel 177 (Bomber)|=|Heinkel He 177 Greif
-Heinkel 219 (Night fighter plane)|=|Heinkel He 219
+Heinkel 219 (Night fighter plane)|=|Heinkel He 219 Uhu
 Heinkel 60 (Reconnaissance aircraft)|=|Heinkel He 60
 Heinkel He 70 (Airplane)|=|Heinkel He 70 Blitz
 Heinonen family|<->|Heinonen
@@ -18242,7 +18241,7 @@ Iraq -- History -- Hashemite Kingdom, 1921-1958|<->|Kingdom of Iraq
 Iraq -- History -- Revolt, 1920|=|Iraqi Revolt
 Iraq -- History -- Revolution, 1958|<->|14 July Revolution
 Iraq -- History -- Revolution, 1963|<->|Ramadan Revolution
-Iraq -- History -- Revolution, 1979|<->|Iranian Revolution
+Iraq -- History -- Revolution, 1979|<->|Iranian revolution
 Iraq -- History -- Zanj Rebellion, 868-883|<->|Zanj Rebellion
 Iraq -- Politics and government|<->|Politics of Iraq
 Iraq -- Politics and government|<-|Federal government of Iraq
@@ -19252,7 +19251,7 @@ Juniper Dunes Wilderness (Wash.)|=|Juniper Dunes Wilderness
 Juniper Hall (England)|=|Juniper Hall
 Juniper Mesa Wilderness (Ariz.)|=|Juniper Mesa Wilderness
 Junkers 290 (Transport plane)|<->|Junkers Ju 290
-Junkers A 50 (Airplane)|=|Junkers A50
+Junkers A 50 (Airplane)|=|Junkers A50 Junior
 Junkers F 13 (Transport plane)|=|Junkers F 13
 Junkers G 31 (Transport plane)|=|Junkers G 31
 Junkers G 38 (Transport plane)|=|Junkers G.38
@@ -21633,7 +21632,7 @@ Loblolly pine|=|Pinus taeda
 Lobster traps|=|Lobster trap
 Local area networks (Computer networks)|=|Local area network
 Local fields (Algebra)|<->|Local field
-Local government -- Rome|<->|Local government (ancient Roman)
+Local government -- Rome|<->|Local government in ancient Rome
 Local Group (Astronomy)|=|Local Group
 Local loop (Telephony)|=|Local loop
 Local transit|<-|Rapid transit
@@ -30105,7 +30104,7 @@ Priests|=|Priest
 Prieto family|<->|Prieto
 Primal Rage (Game)|=|Primal Rage
 Primal scene (Psychoanalysis)|=|Primal scene
-Primaries|<->|Partisan primary
+Primaries|<->|Primary election
 Primary care (Medicine)|=|Primary care
 Primates|=|Primate
 Primates as laboratory animals|<->|Animal testing on non-human primates
@@ -33421,7 +33420,7 @@ Secretary problem (Probability theory)|<->|Secretary problem
 Sectionalism (United States)|->|Sectionalism
 Sects|=|Sect
 Securities|=|Security (finance)
-Security (Psychology)|<->|Emotional security
+Security (Psychology)|<->|Insecurity (emotion)
 Security, International|=|International security
 Security classification (Government documents)|<->|Classified information
 Security classification (Government documents) -- United States|<->|Classified information in the United States
@@ -35930,6 +35929,7 @@ Supermarkets|=|Supermarket
 Supernova 1054|=|SN 1054
 Supernova 1987A|=|SN 1987A
 Supernovae|=|Supernova
+Superphosphates|=|Superphosphate
 Superposition principle (Physics)|<->|Superposition principle
 Supersonic transport planes|=|Supersonic transport
 Superspreader events|=|Superspreading event
@@ -41009,7 +41009,7 @@ World War, 1914-1918 -- Reparations|=|World War I reparations
 World War, 1914-1918 -- Romania|<->|Romania in World War I
 World War, 1914-1918 -- Spain|<->|Spain during World War I
 World War, 1914-1918 -- Sweden|<->|Sweden during World War I
-World War, 1914-1918 -- Switzerland|->|Switzerland during the World Wars
+World War, 1914-1918 -- Switzerland|->|Switzerland during the world wars
 World War, 1914-1918 -- Tank warfare|<->|Tanks in World War I
 World War, 1914-1918 -- Technology|<->|Technology during World War I
 World War, 1914-1918 -- Trench warfare|->|Trench warfare
@@ -41130,7 +41130,7 @@ World War, 1939-1945 -- South Africa|<->|Military history of South Africa during
 World War, 1939-1945 -- Soviet Union|=|Soviet Union in World War II
 World War, 1939-1945 -- Spain|<->|Spain during World War II
 World War, 1939-1945 -- Sweden|=|Sweden during World War II
-World War, 1939-1945 -- Switzerland|->|Switzerland during the World Wars
+World War, 1939-1945 -- Switzerland|->|Switzerland during the world wars
 World War, 1939-1945 -- Tank warfare|<->|Tanks in World War II
 World War, 1939-1945 -- Technology|<->|Technology during World War II
 World War, 1939-1945 -- Territorial questions -- Germany|<->|Former eastern territories of Germany
