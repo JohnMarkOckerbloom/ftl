@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2024-09-09
-# Manual Sweep: resume with OH (L libraries and onward)
+# Last updated 2024-11-11
+# Manual Sweep: resume with OK
 
 ID OLBP
 NAME The Online Books Page
@@ -1681,6 +1681,14 @@ LOCATION Monterrey; local access only
 COUNTRY MX
 CATTYPE eds
 LCODE s9253487
+
+ID OCLC-MRBNR
+NAME Biblioth&egrave;que Nationale du Royaume du Maroc
+LOCATION Rabat; English searches may give limited results
+COUNTRY MA
+CATTYPE encore
+BASEURL https://encore.bnrm.ma/iii/encore
+FILTERS SNK
 
 ID OCLC-U5N
 NAME University of Namibia
@@ -8066,9 +8074,8 @@ ID OCLC-LXP
 NAME Lorain Public Library System
 LOCATION Lorain and vicinity
 STATE OH
-CATTYPE sirsient
-LCODE en_US/lor-main
-BASEURL https://search.clevnet.org
+CATTYPE vufindgeneral
+BASEURL https://search.lpls.info/Union/Search
 
 ID OCLC-OLM
 NAME Lloyd Library and Museum
@@ -8077,6 +8084,21 @@ STATE OH
 BASEURL http://uclid.uc.edu
 CATTYPE iii-consortium-member
 LCODE 8
+
+ID OCLC-L7S
+NAME Louisville Public Library
+LOCATION Louisville
+STATE OH
+CATTYPE sirsient
+BASEURL https://ohio.ent.sirsi.net
+LCODE en_US/lsv
+
+ID MASSILLON
+NAME Massillon Public Library
+LOCATION Massillon
+STATE OH
+CATTYPE eds
+LCODE massllon
 
 ID OCLC-MIA
 NAME Miami University
@@ -8099,12 +8121,13 @@ STATE OH
 CATTYPE innopac
 BASEURL https://polar.onu.edu
 
+# Ohio State now has a (custom?) bento
 ID OCLC-OSU
 NAME Ohio State University
 LOCATION Columbus
 STATE OH
-BASEURL https://osu.worldcat.org/search
-CATTYPE worldcat
+BASEURL https://library.osu.edu
+KEYURL ${BASEURL}/discover/#/?query=%22${ARG}%22
 
 ID OCLC-OUN
 NAME Ohio University
@@ -8131,11 +8154,11 @@ CATTYPE iii-consortium-member
 LCODE 28
 
 ID OCLC-OCP
-NAME Public Library of Cincinnati and Hamilton County
+NAME Cincinnati and Hamilton County Public Library
 LOCATION Cincinnati and vicinity
 STATE OH
-BASEURL http://catalog.cincinnatilibrary.org/iii/encore
-CATTYPE encore
+CATTYPE bibliocommons
+BASEURL https://cincinnatilibrary.bibliocommons.com
 
 ID OCLC-YMM
 NAME Public Library of Youngstown and Mahoning County
@@ -8144,20 +8167,19 @@ STATE OH
 CATTYPE bibliocommons
 BASEURL https://plymc.bibliocommons.com
 
-# ID is for Stark County District Library; catalog also covers some nearby libs
 ID OCLC-SDL
-NAME Stark Libraries Information Consortium
-LOCATION Canton and vicinity
+NAME Stark Library
+LOCATION Canton
 STATE OH
-BASEURL http://catalog.starklibrary.org/iii/encore
-CATTYPE encore
+CATTYPE bibliocommons
+BASEURL https://starklibrary.bibliocommons.com
 
 ID OCLC-9TL
 NAME Toledo-Lucas County Public Library
 LOCATION Toledo and vicinity
 STATE OH
-BASEURL http://encore.toledolibrary.org/iii/encore
-CATTYPE encore
+CATTYPE bibliocommons
+BASEURL https://toledo.bibliocommons.com
 
 ID OCLC-CIN
 NAME University of Cincinnati
@@ -10692,6 +10714,17 @@ LOCATION Laramie
 STATE WY
 CATTYPE summon
 BASEURL http://uwyo.summon.serialssolutions.com
+
+# for the library, force all searches but author into general keyword search
+ID BIBNATUY
+NAME Biblioteca Nacional de Uruguay
+LOCATION Montevideo; English searches may give limited results
+COUNTRY UY
+CATTYPE aleph1
+BASEURL https://catalogo.bn.gub.uy
+SINDEX WRD
+TINDEX WRD
+FILTERS SNK
 
 ID MULUNGUSHI
 NAME Mulungushi University
