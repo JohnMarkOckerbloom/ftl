@@ -15,8 +15,9 @@ KEYURL ${BASEURL}/results?SS_LibHash=${LCODE}&action=start&dbIDList=${DBID}&fiel
 CATTYPE aleph1
 TINDEX TTL
 SINDEX SUB
+AINDEX AUT
 SUBURL ${BASEURL}/F/?func=find-b&find_code=${SINDEX}&local_base=${LCODE}&request=${ARG}
-AUTURL ${BASEURL}/F/?func=find-b&find_code=AUT&local_base=${LCODE}&request=${ARG}
+AUTURL ${BASEURL}/F/?func=find-b&find_code=${AINDEX}&local_base=${LCODE}&request=${ARG}
 TITURL ${BASEURL}/F/?func=find-b&find_code=${TINDEX}&local_base=${LCODE}&request=${ARG:A}
 KEYURL ${BASEURL}/F/?func=find-b&find_code=WRD&local_base=${LCODE}&request=${ARG}
 
@@ -218,6 +219,15 @@ SUBURL ${BASEURL}&authtype=${AUTHTYPE}&custid=${LCODE}&groupid=${GID}&profile=${
 AUTURL ${BASEURL}&authtype=${AUTHTYPE}&custid=${LCODE}&groupid=${GID}&profile=${PROFILE}&bquery=AU%20(${ARG:S})
 TITURL ${BASEURL}&authtype=${AUTHTYPE}&custid=${LCODE}&groupid=${GID}&profile=${PROFILE}&bquery=TI%20(${ARG})
 KEYURL ${BASEURL}&authtype=${AUTHTYPE}&custid=${LCODE}&groupid=${GID}&profile=${PROFILE}&bquery=(${ARG})
+
+# The new research.ebsco.com appears to use different search syntax
+# (this has been reverse engineered from URLs; hope to find official docs)
+CATTYPE edsresearch
+AUTHTYPE ip,guest
+KEYURL https://research.ebsco.com/c/${LCODE}/search/results?authtype=${AUTHTYPE}&autocorrect=y&q=${ARG}
+SUBURL https://research.ebsco.com/c/${LCODE}/search/results?authtype=${AUTHTYPE}&autocorrect=y&q=SU%20${ARG}
+AUTURL https://research.ebsco.com/c/${LCODE}/search/results?authtype=${AUTHTYPE}&autocorrect=y&q=AU%20${ARG}
+TITURL https://research.ebsco.com/c/${LCODE}/search/results?authtype=${AUTHTYPE}&autocorrect=y&q=TI%20${ARG}
 
 CATTYPE encore
 SUBURL ${BASEURL}/search/C__Sd%3A%28${ARG}%29__Orightresult__U1?lang=eng&suite=${SKIN}

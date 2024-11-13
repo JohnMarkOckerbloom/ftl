@@ -48,6 +48,19 @@ BASEURL https://www.europeana.eu/portal
 AUTURL ${BASEURL}/search.html?query=who:${ARG:S}
 KEYURL ${BASEURL}/search.html?query=${ARG:NK}
 
+ID OCLC-AGBRA
+NAME Biblioteca Nacional Mariano Moreno
+LOCATION Buenos Aires
+COUNTRY AR
+CATTYPE aleph1
+BASEURL https://catalogo.bn.gov.ar
+LCODE GENER
+# We'll use general keyword search for subjects
+SINDEX WRD
+AINDEX WAU
+TINDEX WTI
+FILTERS SNK
+
 # ID may be Melbourne-specific, but it's the only OCLC ID for ACAP I know of
 ID OCLC-AUPML
 NAME Australian College of Applied Psychology
@@ -8255,7 +8268,8 @@ NAME Metropolitan Library System
 LOCATION Oklahoma City and vicinity
 STATE OK
 CATTYPE ls2pac
-BASEURL http://catalog.metrolibrary.org/
+CATTYPE vufindsi
+BASEURL https://catalog.metrolibrary.org/Union/Search
 FILTERS S
 
 ID OCLC-OKN
@@ -8381,16 +8395,16 @@ ID OCLC-CVA
 NAME Corvallis-Benton County Public Library
 LOCATION Corvallis and vicinity
 STATE OR
-CATTYPE ls2pac
-BASEURL https://library.ci.corvallis.or.us/
+CATTYPE vufindsi
+BASEURL https://corvallis.aspendiscovery.org/Union/Search
 FILTERS S
 
 ID OCLC-DCH
 NAME Deschutes Public Library
 LOCATION Bend and Deschutes County
 STATE OR
-BASEURL http://catalog.dpls.lib.or.us
-CATTYPE innopac
+CATTYPE bibliocommons
+BASEURL https://dpl.bibliocommons.com
 
 ID OCLC-OEL
 NAME Eugene Public Library
@@ -8412,8 +8426,8 @@ ID OCLC-JCL
 NAME Jackson County Library Services
 LOCATION Medford, Ashland and vicinity
 STATE OR
-BASEURL http://jclsrcc.librarycatalog.info/polaris
-CATTYPE polaris
+CATTYPE vufindsi
+BASEURL https://catalog.jcls.org/Union/Search
 
 ID OCLC-OLP
 NAME Lewis and Clark College
@@ -8452,7 +8466,7 @@ VID 01ALLIANCE_OHSU:OHSU
 SCOPE Everything
 
 ID OCLC-ORY
-NAME Oregon State Library
+NAME State Library of Oregon
 LOCATION Salem
 STATE OR
 BASEURL https://ccrls.ent.sirsi.net
@@ -8489,8 +8503,10 @@ ID OCLC-UMQ
 NAME Umpqua Community College
 LOCATION Roseburg
 STATE OR
-BASEURL https://umpqua.worldcat.org/search
-CATTYPE worldcat
+#BASEURL https://umpqua.worldcat.org/search
+#CATTYPE worldcat
+CATTYPE edsresearch
+LCODE zlp4cw
 
 ID OCLC-ORU
 NAME University of Oregon
