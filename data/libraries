@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2024-11-11
-# Manual Sweep: resume with OK
+# Last updated 2024-11-15
+# Manual Sweep: resume with RI
 
 ID OLBP
 NAME The Online Books Page
@@ -1850,6 +1850,26 @@ LOCATION Warsaw
 COUNTRY PL
 CATTYPE eds
 LCODE s9253487
+
+ID OCLC-PTBNP
+NAME Biblioteca Nacional de Portugal
+LOCATION Lisbon; English searches may give limited results
+COUNTRY PT
+BASEURL https://catalogo.bnportugal.gov.pt
+CATTYPE ipac20
+PROFILE bn
+SINDEX .GW
+
+# don't know of a WC registry ID for Porto or an ISIL PT registration authority
+ID PORTO
+NAME Bibliotecas Municipais do Porto
+LOCATION Porto; English searches may give limited results
+COUNTRY PT
+BASEURL https://bibliotecas.cm-porto.pt
+CATTYPE ipac20
+PROFILE bmp
+AINDEX BAW
+SINDEX .GW
 
 ID OCLC-D@A
 WCRID 87768
@@ -8549,7 +8569,7 @@ STATE PA
 CATTYPE verso6
 LCODE accesspa
 CID accesspa
-BASEURL https://accesspa.agshareit.com
+BASEURL https://accesspa.powerlibrary.org
 
 ID OCLC-BEA
 NAME Arcadia University, Landman Library
@@ -8562,15 +8582,16 @@ ID OCLC-BFJ
 NAME Beaver County Library System
 LOCATION Public and community college libraries in Beaver County
 STATE PA
-BASEURL http://bvrpac.beaverlibraries.org
-CATTYPE innopac
+CATTYPE evolve
+LCODE beavercounty
+FILTERS SNK
 
 ID OCLC-XK8
 NAME Berks County Public Libraries
 LOCATION Reading and vicinity
 STATE PA
-BASEURL https://catalog.berkslibraries.org/polaris
-CATTYPE polaris
+CATTYPE evergreen-dynamic
+BASEURL https://berks.chilipac.com/eg/opac
 
 ID OCLC-BMC
 NAME Bryn Mawr College
@@ -8603,14 +8624,16 @@ NAME Cambria County Library
 LOCATION Johnstown
 STATE PA
 CATTYPE evergreen-dynamic
-BASEURL http://cambria.sparkpa.org/eg/opac
+BASEURL https://cambria.sparkpa.org/eg/opac
 
 ID OCLC-PMC
 NAME Carnegie Mellon University
 LOCATION Pittsburgh
 STATE PA
-CATTYPE vufind
-BASEURL http://vufind.library.cmu.edu/vufind
+CATTYPE primo-ve
+BASEURL https://cmu.primo.exlibrisgroup.com
+VID 01CMU_INST:01CMU
+SCOPE MyInst_and_CI
 
 # didn't find ID for CCLS as a whole; using West Chester as ID
 ID OCLC-PAWCP
@@ -8651,20 +8674,20 @@ NAME Cumberland County Library System
 LOCATION Cumberland County and Shippensburg Area School District
 STATE PA
 CATTYPE encore
-BASEURL http://catalog.cumberlandcountylibraries.org/iii/encore
+BASEURL https://catalog.cumberlandcountylibraries.org/iii/encore
 
 ID OCLC-HBP
 NAME Dauphin County Library System
 LOCATION Harrisburg and vicinity
 STATE PA
 CATTYPE encore
-BASEURL http://dcls-mt.iii.com/iii/encore
+BASEURL https://dcls-mt.iii.com/iii/encore
 
 ID OCLC-DEL
 NAME Delaware County Library System
 LOCATION Public libraries in Delaware County
 STATE PA
-BASEURL http://charlotte.delco.lib.pa.us
+BASEURL https://charlotte.delco.lib.pa.us
 CATTYPE innopac
 
 ID OCLC-DKC
@@ -8692,11 +8715,11 @@ CATTYPE ls2pac
 FILTERS S
 
 ID OCLC-CPL
-NAME eiNetwork
-LOCATION Carnegie Library of Pittsburgh, and Allegheny County libraries
+NAME Allegheny County Libraries
+LOCATION Carnegie Library of Pittsburgh, and suburban libraries
 STATE PA
-BASEURL http://catalog.einetwork.net
-CATTYPE innopac
+CATTYPE bibliocommons
+BASEURL https://acl.bibliocommons.com
 
 ID OCLC-EPL
 NAME Erie County public libraries
@@ -8728,7 +8751,7 @@ NAME Historical Society of Pennsylvania
 LOCATION Philadelphia
 STATE PA
 CATTYPE vufind
-BASEURL http://discover.hsp.org
+BASEURL https://discover.hsp.org
 
 ID OCLC-HFC
 NAME Holy Family University
@@ -8738,12 +8761,14 @@ BASEURL https://holyfamily.on.worldcat.org/search?queryString
 CATTYPE worldcat-config
 FILTERS S
 
+# King's College switched to EDS w/o guest access, so I can't fully test this
+#  (but the old catalog links I had flat-out don't work)
 ID OCLC-KOL
 NAME King's College
 LOCATION Wilkes-Barre
 STATE PA
-BASEURL http://pac.kings.edu/polaris
-CATTYPE polaris
+CATTYPE eds
+LCODE kingscol
 
 # using the main Scranton library's ID for this
 ID OCLC-SCR
@@ -8751,29 +8776,28 @@ NAME Lackawanna County Library System
 LOCATION Scranton and vicinity
 STATE PA
 CATTYPE evergreen-dynamic
-BASEURL http://lackawanna.sparkpa.org/eg/opac
+BASEURL https://lackawanna.sparkpa.org/eg/opac
 
 ID OCLC-LAF
 NAME Lafayette College
 LOCATION Easton
 STATE PA
-BASEURL http://libcat.lafayette.edu
-CATTYPE innopac
+BASEURL https://libcat.lafayette.edu
+CATTYPE vufind
 
 ID OCLC-LAS
 NAME La Salle University, Connelly Library
 LOCATION Philadelphia
 STATE PA
-CATTYPE summon
-BASEURL http://lasalle.summon.serialssolutions.com
+CATTYPE edsresearch
+LCODE hwz6t4
 
 ID OCLC-AOX
 NAME Library Company of Philadelphia
 LOCATION Philadelphia
 STATE PA
-CATTYPE aleph1
-BASEURL http://pacscl.exlibrisgroup.com:48992
-TINDEX WTI
+BASEURL https://librarycompany.kohacatalog.com
+CATTYPE koha
 
 ID OCLC-LKC
 NAME Library System of Lancaster County
@@ -8802,22 +8826,21 @@ ID OCLC-CMZ
 NAME Misericordia University
 LOCATION Dallas
 STATE PA
-CATTYPE sirsient
-BASEURL https://comi.ent.sirsi.net
-LCODE en_US/default
+BASEURL https://misericordiauniversity.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-EVI
 NAME Muhlenberg College, Trexler Library
 LOCATION Allentown
 STATE PA
-BASEURL https://muhlenberg.worldcat.org/search
-CATTYPE worldcat
+BASEURL https://muhlenberg.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-C8F
 NAME Othmer Library of Chemical History
 LOCATION Philadelphia
 STATE PA
-BASEURL http://othmerlib.sciencehistory.org/
+BASEURL https://othmerlib.sciencehistory.org/
 CATTYPE iii-consortium-member
 LCODE 6
 
@@ -8826,7 +8849,7 @@ NAME Penn State University Libraries
 LOCATION University Park, and other campuses
 STATE PA
 CATTYPE summon
-BASEURL http://psu.summon.serialssolutions.com
+BASEURL https://psu.summon.serialssolutions.com
 
 # ID below is for Community Library of Western Perry County
 # (there doesn't appear to be one for the group as a whole)
@@ -8841,8 +8864,8 @@ ID OCLC-LYU
 NAME Lehigh University
 LOCATION Bethlehem
 STATE PA
-CATTYPE vufind
-BASEURL https://library.lehigh.edu/asa2.0
+CATTYPE vufindgeneral
+BASEURL https://asa.lib.lehigh.edu/asa/Combined/Results
 
 ID OCLC-LZU
 NAME Lincoln University
@@ -8893,22 +8916,24 @@ ID OCLC-PIT
 NAME University of Pittsburgh
 LOCATION Pittsburgh and other campuses
 STATE PA
-CATTYPE summon
-BASEURL http://pitt.summon.serialssolutions.com
+CATTYPE primo-ve
+BASEURL https://pitt.primo.exlibrisgroup.com
+VID 01PITT_INST:01PITT_INST
+SCOPE MyInst_and_CI
 
 ID OCLC-SRU
 NAME University of Scranton, Weinberg Memorial Library
 LOCATION Scranton
 STATE PA
-CATTYPE encore
-BASEURL http://encore.scranton.edu/iii/encore
+CATTYPE edsresearch
+LCODE 5ohkpe
 
 ID OCLC-PLF
 NAME Free Library of Philadelphia
 LOCATION Philadelphia
 STATE PA
 CATTYPE vufind
-BASEURL http://know.freelibrary.org/vufind
+BASEURL https://know.freelibrary.org/vufind
 
 ID OCLC-URS
 NAME Ursinus College
@@ -8938,7 +8963,7 @@ ID OCLC-MPL
 NAME Westmoreland Library Network
 LOCATION Public libraries in Westmoreland County
 STATE PA
-BASEURL http://catalog.wlnonline.org/polaris
+BASEURL https://catalog.wlnonline.org/polaris
 CATTYPE polaris
 
 ID OCLC-PYLCO
@@ -8946,15 +8971,14 @@ NAME York County Libraries
 LOCATION York and vicinity
 STATE PA
 CATTYPE evergreen-dynamic
-BASEURL http://york.sparkpa.org/eg/opac
+BASEURL https://york.sparkpa.org/eg/opac
 
 ID OCLC-PRPRU
 NAME Universidad de Puerto Rico
 LOCATION San Juan and other campuses
 STATE PR
-CATTYPE ipac20
-BASEURL http://uprhip.upr.edu:85
-SINDEX .SW
+CATTYPE edsresearch
+LCODE vzwdpy
 
 ID OCLC-RBN
 NAME Brown University Library

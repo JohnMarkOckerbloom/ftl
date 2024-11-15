@@ -288,6 +288,14 @@ TITURL ${BASEURL}qtype=title&query=${ARG}
 KEYURL ${BASEURL}qtype=keyword&query=${ARG}
 DEFAULT DOMAIN
 
+# Cloud software by Infovision.  Reverse-engineered; haven't found docs
+CATTYPE evolve
+BASEURL https://evolve-opac.infovisionsoftware.com
+KEYURL ${BASEURL}/${LCODE}/?Keywords=${ARG}
+SUBURL ${BASEURL}/${LCODE}/?Subject=${ARG}
+TITURL ${BASEURL}/${LCODE}/?Title=${ARG}
+AUTURL ${BASEURL}/${LCODE}/?Author=${ARG}
+
 # Explorit often has "powered by Deep Web technologies" note
 CATTYPE explorit
 AUTURL ${BASEURL}/result-list/author:${ARG}/
