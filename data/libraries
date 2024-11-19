@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2024-11-15
-# Manual Sweep: resume with RI
+# Last updated 2024-11-19
+# Manual Sweep: resume with TN
 
 ID OLBP
 NAME The Online Books Page
@@ -47,6 +47,14 @@ LOCATION Millions of free online cultural resources from European institutions
 BASEURL https://www.europeana.eu/portal
 AUTURL ${BASEURL}/search.html?query=who:${ARG:S}
 KEYURL ${BASEURL}/search.html?query=${ARG:NK}
+
+ID OCLC-AFACK
+NAME Afghanistan Center at Kabul University
+LOCATION Kabul
+COUNTRY AF
+BASEURL https://archive.af
+CATTYPE koha
+FILTERS SNK
 
 ID OCLC-AGBRA
 NAME Biblioteca Nacional Mariano Moreno
@@ -1337,6 +1345,15 @@ SINDEX WRD
 TINDEX WTI
 BASEURL http://202.197.191.171:8991
 FILTERS S
+
+ID OCLC-CONAC
+NAME Biblioteca Nacional de Colombia
+LOCATION Bogot&aacute;; English searches may give limited results
+COUNTRY CO
+CATTYPE sirsient
+LCODE es_ES/default
+BASEURL https://catalogoenlinea.bibliotecanacional.gov.co
+FILTERS SNK
 
 ID OCLC-UPX
 NAME University of Cyprus
@@ -9000,8 +9017,9 @@ ID OCLC-RIOSL
 NAME Ocean State Libraries
 LOCATION Public libraries across the state
 STATE RI
-BASEURL http://encore.oslri.net/iii/encore
-CATTYPE encore
+CATTYPE vufindsi
+BASEURL https://catalog.oslri.net/Union/Search
+FILTERS S
 
 ID OCLC-PRC
 NAME Providence College
@@ -9099,14 +9117,15 @@ ID OCLC-SGR
 NAME Greenville County Library System
 LOCATION Greenville and vicinity
 STATE SC
-CATTYPE encore
-BASEURL http://encore.greenvillelibrary.org/iii/encore
+CATTYPE vufindsi
+BASEURL https://aspen.greenvillelibrary.org/Union/Search
+FILTERS S
 
 ID OCLC-SRC
 NAME Richland Library
 LOCATION Columbia and Richland County
 STATE SC
-BASEURL http://www.richlandlibrary.com
+BASEURL https://www.richlandlibrary.com
 KEYURL ${BASEURL}/catalog?q=${ARG:N}
 
 ID SCLENDS
@@ -9121,7 +9140,7 @@ ID OCLC-SPL
 NAME Spartanburg County Public Libraries
 LOCATION Spartanburg and vicinity
 STATE SC
-BASEURL http://catalog.infodepot.org/polaris
+BASEURL https://catalog.infodepot.org/polaris
 CATTYPE polaris
 
 ID OCLC-SZR
