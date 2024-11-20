@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2024-11-19
-# Manual Sweep: resume with TN
+# Last updated 2024-11-20
+# Manual Sweep: resume with TX
 
 ID OLBP
 NAME The Online Books Page
@@ -554,6 +554,15 @@ COUNTRY BE
 BASEURL https://biblio.vub.ac.be
 CATTYPE iguana
 FILTERS NS
+
+# not in WorldCat Registry; no Bosnian ISIL registr I can find
+ID GAZIHUSREV
+NAME Gazi Husrev-Beg Library
+LOCATION Sarajevo; English searches may give limited results
+COUNTRY BA
+BASEURL https://digital.ghb.ba
+# not sure what software is used; just doing keyword search
+KEYURL ${BASEURL}/ghb/fulltextSearchPage.xhtml?search=${ARG:SNK}
 
 ID OCLC-BOU
 NAME University of Botswana
@@ -9217,24 +9226,26 @@ ID AMERICANBAPTIST
 NAME American Baptist College
 LOCATION Nashville
 STATE TN
-CATTYPE atriuum
-BASEURL http://abcnash.booksys.net/opac/abcnash/index.html#search:
+CATTYPE edsresearch
+LCODE nxkdxv
 
 ID OCLC-TPA
 NAME Austin Peay State University
 LOCATION Clarksville
 STATE TN
-BASEURL http://iiiserver.lib.apsu.edu
-CATTYPE innopac
+CATTYPE primo-ve
+BASEURL https://apsu.primo.exlibrisgroup.com
+VID 01APSU_INST:01APSU
+SCOPE MyInst_and_CI
 
 ID OCLC-TBC
 NAME Belmont University
 LOCATION Nashville
 STATE TN
-CATTYPE summon
-BASEURL http://belmont.summon.serialssolutions.com
-CATTYPE primo-justquery
-BASEURL https://primo-pmtna03.hosted.exlibrisgroup.com/primo-explore/search?search_scope=Everything&vid=01BELMONT_INST_V1&
+CATTYPE primo-ve
+BASEURL https://belmont.primo.exlibrisgroup.com
+VID 01BELMONT_INST:01BELMONT_INST_V1
+SCOPE MyInst_and_CI
 
 ID OCLC-TCH
 NAME Chattanooga Public Library
@@ -9259,27 +9270,30 @@ CATTYPE sirsient
 BASEURL https://cocl.ent.sirsi.net
 LCODE en_US/lannom
 
-# East Tennessee now seems to have its own custom search
 ID OCLC-TET
 NAME East Tennessee State University
 LOCATION Johnson City
 STATE TN
-BASEURL http://libraries.etsu.edu
-KEYURL ${BASEURL}/search/?query=${ARG:NK}
+CATTYPE primo-ve
+BASEURL https://etsu.primo.exlibrisgroup.com
+VID 01ETSU_INST:ETSU
+SCOPE MyInst_and_CI
 
 ID OCLC-FSK
 NAME Fisk University
 LOCATION Nashville
 STATE TN
-BASEURL http://library.fisk.edu
-CATTYPE webpacpro
+CATTYPE primo-ve
+BASEURL https://fisk.primo.exlibrisgroup.com
+VID 01FIU_INST:FISK
+SCOPE MyInst_and_CI
 
 ID OCLC-TNHRD
 NAME Hardin County Public Library
 LOCATION Savannah
 STATE TN
 CATTYPE verso6
-BASEURL http://tenv.agverso.com
+BASEURL https://tenv.agverso.com
 CID tenv
 LCODE hardin
 
@@ -9287,9 +9301,8 @@ ID OCLC-TKL
 NAME Knox County Public Library
 LOCATION Knoxville and vicinity
 STATE TN
-BASEURL https://cat.knoxlib.org/uhtbin/cgisirsi
-CATTYPE sirsiid
-USER USER
+CATTYPE vufindsi
+BASEURL https://discover.knoxcountylibrary.org/Union/Search
 
 ID OCLC-LOC
 NAME LeMoyne-Owen College
@@ -9302,8 +9315,9 @@ ID OCLC-TNLPL
 NAME Rutherford County Library System
 LOCATION Murfreesboro and vicinity
 STATE TN
-BASEURL http://72.243.210.108/uhtbin/cgisirsi
-CATTYPE sirsi
+CATTYPE vufindsi
+BASEURL https://explore.rclstn.org/Union/Search
+FILTERS S
 
 ID OCLC-TMN
 NAME Memphis Public Library and Information Center
@@ -9316,9 +9330,8 @@ ID OCLC-TXM
 NAME Middle Tennessee State University
 LOCATION Murfreesboro
 STATE TN
-BASEURL http://library2.mtsu.edu
-CATTYPE iii-consortium-member
-LCODE 12
+BASEURL https://find.mtsu.edu/vufind
+CATTYPE vufind
 
 ID OCLC-TNN
 NAME Nashville Public Library
@@ -9333,9 +9346,9 @@ ID NETCONSORTIUM
 NAME Organization of Watauga Libraries
 LOCATION Public libraries in Tri-Cities area, NE Tennessee
 STATE TN
-CATTYPE sirsient
-BASEURL https://owl.ent.sirsi.net
-LCODE en_US/OWL
+CATTYPE ls2pac-config
+CONFIG owl
+BASEURL https://owl.tlcdelivers.com/
 
 ID OCLC-TWS
 NAME Rhodes College
@@ -9386,8 +9399,10 @@ ID OCLC-TUC
 NAME University of Tennessee Chattanooga
 LOCATION Chattanooga
 STATE TN
-BASEURL https://utc.worldcat.org/search
-CATTYPE worldcat
+CATTYPE primo-ve
+BASEURL https://utc.primo.exlibrisgroup.com
+VID 01UTC_INST:01UTC
+SCOPE MyInst_and_CI
 
 ID OCLC-TJC
 NAME Vanderbilt University
@@ -9408,8 +9423,9 @@ ID OCLC-TNWIL
 NAME Williamson County Public Library
 LOCATION Franklin and vicinity
 STATE TN
-BASEURL https://wilco.bywatersolutions.com
-CATTYPE koha
+CATTYPE vufindsi
+BASEURL https://wilco.aspendiscovery.org/Union/Search
+FILTERS S
 
 ID OCLC-1AR
 NAME Arlington Public Library
