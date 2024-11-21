@@ -1,0 +1,145 @@
+Description of the URL syntax used by FTL servers
+by John Mark Ockerbloom (last updated 21 Nov 2024)
+
+Forward to Libraries (FTL) servers process URLs to redirect them to 
+searches in a library of the user's choice, or to get information
+from a user about what library they would like to search, for a given
+query or in general.
+
+BASIC SYNTAX 
+
+The syntax of the URLs is as follows:
+
+  <FTL service>?<attribute>=<value>&<attribute>=<value>....
+
+(repeat for as many attribute values are called for)
+
+where FTL service is the base URL of the FTL service, and the attributes
+and their values are described below.
+
+For example, the URL
+
+ https://onlinebooks.library.upenn.edu/webbin/ftl?library=OCLC-PLF&kw=dogs
+
+directs the FTL server at The Online Books Page site to redirect to a general
+keyword search for the word "dogs" in the catalog of the Free
+Library of Philadelphia (which has library code 'OCLC-PLF').
+
+SERVERS 
+
+I currently support two FTL service instances.  One is at
+
+    https://onlinebooks.library.upenn.edu/webbin/ftl
+
+and is intended to support links from The Online Books Page.
+(It can also be used for links from other sites, including other
+ libraries, but please check with me before you start using it
+  regularly, since it may be heavily loaded.)
+
+The other is at
+ 
+    https://ftl.toolforge.org/cgi-bin/ftl
+
+and is intended to support links from Wikipedia and other Wikimedia services.
+(This was installed and is maintained by requests from the Wikipedia
+ community, which wanted to use a forwarder that was not external to
+ Wikipedia's infrastructure.)
+
+When called without any attributes, the base FTL service URL will
+display a list of libraries one can choose to search, as well as
+the library the user prefers if a preference has been set in a cookie.
+Each FTL server has its own preference cookies, so a user may have
+one preferred library for links from The Online Books Page and a different
+preferred library (or none at all) for links from Wikipedia.
+
+PARAMETERS
+
+These are the parameter attributes supported:
+
+  library
+
+The value of this parameter is the code for the library that the user
+wants to search.   Codes for different libraries are defined in the
+"libraries" file the server uses, the format of which is described 
+in the "datafiles" documentation file in the FTL documentation.
+
+The standard "libraries" file, used by the two servers mentioned above
+that we support., is currently published on Github at
+
+  https://github.com/JohnMarkOckerbloom/ftl/blob/master/data/libraries
+
+but individual FTL servers can use their own libraries file if they wish.
+
+If a value for the library parameter is not supplied, and the user
+has a preferred library saved in a cookie recognized by the server,
+the user's search will be redirected to that library's catalog.
+
+If a value for the library parameter is not supplied, and the user
+does not have a preferred library saved in a cookie recognized by the server,
+the user will be shown a list of libraries known to the server and
+select one to search, and to be saved in a cookie as the user's
+preferred library.  (The user can also click on another link to
+select a library to search *without* having that library saved.)
+
+The special value 0CHOOSE0 for this parameter *forces* the user to choose
+a library to search, even if they have a preferred library.  The
+resulting search will not save that library as the user's preferred library.
+  
+There are also a number of search parameters that can be supplied:
+
+  kw
+
+The value of this parameter is a string that should be used in a general
+keyword search at the destination library's catalog.
+
+  ti
+
+The value of this parameter is a string that should be used in a title
+search at the destination library's catalog.
+
+  au
+
+The value of this parameter is a string that should be used as the basis for
+an author search at the destination library's catalog.  The search
+may literally use the supplied string, or it might transform the string
+as specified by the 'at' parameter.
+
+  su
+
+The value of this parameter is a string that should be used as the basis for
+a subject search at the destination library's catalog.  The search
+may literally use the supplied string, or it might transform the string
+as specified by the 'st' parameter.
+
+More than one of these search parameters may be supplied.  If both 'au'
+and 'ti' are supplied, a combined author-title search redirect may be
+attempted.  Other combinations of these search parameters might result
+in only one of them being applied, depending on the server implementation.
+
+The 'st' and 'at' parameters can be used to map a supplied search term
+for a subjects or author, respectively, into a different search string
+to use in the URL for searching the destination library.  Recognized
+values at the moment for these paratmeters include:
+
+   lccn
+    The search term will be transformed, if possible,
+      from a Library of Congress control number to a corresponding
+       Library of Congress authorized heading.
+
+   viaf
+    The search term will be transformed, if possible,
+      from a VIAF identifier to a corresponding Library of Congress
+       authorized heading.
+
+   wp
+    The search term will be transformed, if possible, from a Wikipedia
+      article title to a closely matching Library of Congress authorized
+      heading.  (Transformations may be based on mappings declared in
+      the 'wikimap' and 'wikiworksmap' files, described elsewhere, or on
+      some basic lexical transformations.  Subject searches that use
+      terms for which a transformation cannot be found may instead be
+      turned into general keyword searchses on the supplied terms.)
+
+
+The optional 'from' parameter will be documented in a later version of
+this file.
