@@ -332,6 +332,10 @@ KEYURL ${BASEURL}/search/Y?searchscope=${LCODE}&searchtype=X&searcharg=${ARG:N}
 CATTYPE insignia
 KEYURL ${BASEURL}?l=All&action=simple&t_input=Keywords&t=Keywords&k=${ARG}
 
+# Found a way to pass in values for Insignia; haven't yet found docs for it
+CATTYPE insigniapass
+KEYURL ${BASEURL}/library?SearchType=keywords&LibraryID=${LCODE}&PassedInValue=${ARG}
+
 # aka Horizon
 CATTYPE ipac20
 KINDEX .GW

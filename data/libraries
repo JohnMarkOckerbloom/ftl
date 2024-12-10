@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2024-11-20
-# Manual Sweep: resume with TX
+# Last updated 2024-12-10
+# Manual Sweep: resume with UT (but recheck Stephen F. Austin and Wiley in TX)
 
 ID OLBP
 NAME The Online Books Page
@@ -1915,6 +1915,13 @@ COUNTRY RO
 BASEURL https://catalog.bcub.ro/liberty/opac/search.do
 KEYURL ${BASEURL}?mode=BASIC&modeRadio=KEYWORD&=AUTHOR&=KEYWORD&queryTerm=${ARG:SNK}&operator=AND&includeNonPhysicalItems=true&timeScale=ANY_TIME&limit=Toate&gmd=Toate&branch=Toate&resourceCollection=Toate&activeMenuItem=false
 
+ID RU-19017073
+NAME National Library of Russia
+LOCATION Saint Petersburg
+COUNTRY RU
+CATTYPE primo-justquery
+BASEURL https://primo.nlr.ru/primo-explore/search?vid=07NLR_VU1&
+
 ID OCLC-SU6KU
 NAME King Saud University
 LOCATION Riyadh; English search terms may give limited results
@@ -2124,6 +2131,13 @@ LOCATION Taipei
 COUNTRY TW
 CATTYPE sirsi
 BASEURL http://webcat.tpml.edu.tw/uhtbin/cgisirsi
+
+ID TAJIKISTAN
+NAME National Library of Tajikistan
+LOCATION Dushanbe; English searches may give limited results
+COUNTRY TJ
+BASEURL http://nlt.tj
+KEYURL ${BASEURL}/search?find=${ARG:SNK}
 
 ID OPENUTZ
 NAME Open University of Tanzania
@@ -2809,6 +2823,15 @@ COUNTRY UK
 CATTYPE primo-ve
 BASEURL https://library-collections-search.westminster.ac.uk
 VID 44WST_INST:WST_VUA
+SCOPE MyInst_and_CI
+
+ID OCLC-UKWOH
+NAME University of Wolverhampton
+LOCATION Wolverhampton, England
+COUNTRY UK
+CATTYPE primo-ve
+BASEURL https://librarysearch.wlv.ac.uk
+VID 44UOWO_INST:MAIN
 SCOPE MyInst_and_CI
 
 ID OCLC-EMW
@@ -9614,9 +9637,8 @@ ID OCLC-TME
 NAME McAllen Public Library
 LOCATION McAllen
 STATE TX
-CATTYPE ls2pac-config
-CONFIG mcallen
-BASEURL https://hcls.tlcdelivers.com/
+BASEURL https://hidalgo.insigniails.com/Library/SearchResult
+CATTYPE insignia
 
 ID OCLC-M-DOLLAR-K
 NAME McKinney Public Library System
@@ -9678,11 +9700,12 @@ CATTYPE voyager-vwebv
 BASEURL http://voyager.pqc.edu/vwebv/search
 
 ID OCLC-PLS
-NAME Plano Public Library System
+NAME Plano Public Library
 LOCATION Plano
 STATE TX
-BASEURL http://polaris.plano.gov/Polaris
-CATTYPE polaris
+BASEURL https://plano.ent.sirsi.net
+LCODE en_US/default
+CATTYPE sirsient
 
 ID OCLC-PVA
 NAME Prairie View A&amp;M University
@@ -9726,16 +9749,16 @@ ID OCLC-TX5
 NAME Sekula Memorial Library
 LOCATION Edinburg
 STATE TX
-CATTYPE ls2pac-config
-CONFIG edinburg
-BASEURL https://hcls.tlcdelivers.com/
+CATTYPE insigniapass
+BASEURL https://hidalgo.insigniails.com
+LCODE 6246
 
 ID OCLC-SNM
 NAME St. Mary's University, Louis J. Blume Library
 LOCATION San Antonio
 STATE TX
-BASEURL http://regina.stmarytx.edu
-CATTYPE innopac
+CATTYPE edsresearch
+LCODE cxw37y
 
 ID OCLC-SSP
 NAME St. Philip's College
@@ -9876,10 +9899,10 @@ CATTYPE ls2pac
 FILTERS S
 
 ID OCLC-WYC
-NAME Wiley College
+NAME Wiley University
 LOCATION Marshall
 STATE TX
-BASEURL http://twc.wileyc.edu:8080
+BASEURL https://twc.wileyc.edu
 CATTYPE ls2pac
 FILTERS S
 
@@ -10800,6 +10823,13 @@ BASEURL https://catalogo.bn.gub.uy
 SINDEX WRD
 TINDEX WRD
 FILTERS SNK
+
+ID UZBEKISTAN
+NAME National Library of Uzbekistan
+LOCATION Tashkent; English searches may give limited results
+COUNTRY UZ
+BASEURL https://www.natlib.uz
+KEYURL ${BASEURL}/search/tot/result?si=TOTAL&st=KWRD&lmtst=&lmtsn=&lmt0=&q=${ARG:SNK}
 
 ID MULUNGUSHI
 NAME Mulungushi University
