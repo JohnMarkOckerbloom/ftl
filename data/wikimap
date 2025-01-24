@@ -1377,7 +1377,6 @@ Analgesia|->|Analgesic
 Analysis (Philosophy)|<->|Philosophical analysis
 Analysis (Philosophy)|<-|Analytic philosophy
 Analytical chemistry -- Quantitative|=|Quantitative analysis (chemistry)
-Analytical chemistry -- Technique|<->|Analytical technique
 Anamorphosis (Visual perception)|<->|Anamorphosis
 Anamur (Turkey)|=|Anamur
 Anang (African people)|=|Anaang people
@@ -1410,7 +1409,7 @@ Andahuaylas (Peru)|=|Andahuaylas
 Andalusia (Spain)|=|Andalusia
 Andaman and Nicobar Islands (India)|=|Andaman and Nicobar Islands
 Andaman Islands (India)|<->|Andaman Islands
-Andamanese (Indic people)|=|Andamanese peoples
+Andamanese (Indic people)|=|Andamanese
 Andaqui Indians|=|Andaquí people
 Andarax River (Spain)|=|Andarax
 Andean walnut|=|Juglans neotropica
@@ -1970,7 +1969,7 @@ Arg-i Bam (Bam, Iran)|=|Arg-e Bam
 Argentina (Passenger ship)|=|SS Argentina (1929)
 Argentina. Armada|=|Argentine Navy
 Argentina -- Armed Forces|<->|Armed Forces of the Argentine Republic
-Argentina. Congreso de la Naci&oacute;n|=|National Congress of Argentina
+Argentina. Congreso de la Naci&oacute;n|=|Argentine National Congress
 Argentina. Congreso de la Naci&oacute;n. C&aacute;mara de Diputados de la Naci&oacute;n|=|Argentine Chamber of Deputies
 Argentina. Congreso de la Naci&oacute;n. Senado de la Naci&oacute;n|=|Argentine Senate
 Argentina -- Foreign relations|=|Foreign relations of Argentina
@@ -3850,7 +3849,7 @@ Bernina Alps (Italy and Switzerland)|<->|Bernina Range
 Bernina Express (Express train)|=|Bernina Express
 Bernoulli shifts|<->|Bernoulli scheme
 Berries|=|Berry
-Bert (Fictitious character from Henson)|=|Bert (Sesame Street)
+Bert (Fictitious character from Henson)|<->|Bert and Ernie
 Bert's predaceous diving beetle|=|Sanfilippodytes bertae
 Berta (African people)|=|Berta people
 Bertrand Creek (B.C. and Wash.)|=|Bertrand Creek
@@ -5630,7 +5629,7 @@ Caduveo language|=|Kadiwéu language
 Cady Mountains (Calif.)|=|Cady Mountains
 Cadzow Castle (Scotland)|=|Cadzow Castle
 Caen (France)|=|Caen
-Caen &agrave; la Mer Canal (France)|=|Canal de Caen à la Mer
+Caen &agrave; la Mer Canal (France)|=|Caen Canal
 Caen, Battle of, Caen, France, 1944|<->|Battle for Caen
 Caeneus (Greek mythology)|=|Caeneus
 Caesar, Julius -- Assassination|=|Assassination of Julius Caesar
@@ -5665,7 +5664,7 @@ Calais, Battle of, Calais, France, 1940|<->|Siege of Calais (1940)
 Calapooya Mountains (Or.)|=|Calapooya Mountains
 Calcasieu Lake (La.)|=|Calcasieu Lake
 Calcasieu Pass, Battle of, La., 1864|=|Battle of Calcasieu Pass
-Calchaqui River Valley (Argentina)|<->|Calchaquí Valleys
+Calchaqui River Valley (Argentina)|<->|Calchaquí Valley
 Calcicoles|=|Calcicole
 Calcium -- Isotopes|=|Isotopes of calcium
 Calcium -- Metabolism|=|Calcium metabolism
@@ -6680,7 +6679,7 @@ Chaco Culture National Historical Park (N.M.)|=|Chaco Culture National Historica
 Chaco War, 1932-1935|=|Chaco War
 Chaco War, 1932-1935 -- Aerial operations|=|Aerial operations in the Chaco War
 Chacobo Indians|=|Chácobo people
-Chacobo language|=|Chakobo language
+Chacobo language|<->|Chácobo-Pakawara language
 Chact&uacute;n Site (Mexico)|=|Chactún
 Chad -- History -- Civil War, 1965-|<->|War in Chad
 Chad -- History -- Civil War, 1965-|<-|Chadian Civil War (1965–1979)
@@ -7268,6 +7267,7 @@ Chinese chess|=|Xiangqi
 Chinese diaspora|<->|Chinese emigration
 Chinese fiction|->|Chinese literature
 Chinese language -- Ancient Chinese, 600-1200|<->|Middle Chinese
+Chinese language -- Cursive writing|<->|Cursive script (East Asia)
 Chinese language -- Middle Chinese, 1200-1919|<->|Mandarin (late imperial lingua franca)
 Chinese language -- Phonology|<-|Standard Chinese phonology
 Chinese language -- Phonology|<->|Chinese phonology
@@ -7416,7 +7416,7 @@ Christian fiction|<->|Christian novel
 Christian hagiography|->|Hagiography
 Christian heresies|<->|Heresy in Christianity
 Christian pilgrims and pilgrimages|<->|Christian pilgrimage
-Christian rap (Music)|<->|Christian hip hop
+Christian rap (Music)|<->|Christian hip-hop
 Christian rock music|=|Christian rock
 Christian saints|->|Saint
 Christian Science Plaza (Boston, Mass.)|=|Christian Science Plaza
@@ -9896,7 +9896,7 @@ Day fines|=|Day-fine
 Day language (Chad)|=|Day language
 Day trading (Securities)|<->|Day trading
 Dayak (Bornean people)|=|Dayak people
-D&amacr;ykund&imacr; (Afghanistan : Province)|=|Daykundi Province
+D&amacr;ykund&imacr; (Afghanistan : Province)|=|Daikundi Province
 Daylight saving|=|Daylight saving time
 Dayr al-Qamar (Lebanon)|=|Deir al-Qamar
 Days|=|Day
@@ -9983,8 +9983,8 @@ Debts, Public -- United States|=|National debt of the United States
 Debts, Public -- United States -- History|=|History of the United States public debt
 Debugging in computer science|<->|Debugging
 Debutantes|=|Debutante
-DEC Professional 300 series (Computers)|<->|DEC Professional (computer)
-DEC Professional 350 (Computer)|->|DEC Professional (computer)
+DEC Professional 300 series (Computers)|<->|DEC Professional
+DEC Professional 350 (Computer)|->|DEC Professional
 DEC Rainbow 100 (Computer)|=|Rainbow 100
 DEC VT420 (Video display terminal)|=|VT420
 Decade to Overcome Violence, 2001-2010|<->|Decade to Overcome Violence
@@ -10813,7 +10813,7 @@ Donetsk International Airport (Ukraine)|=|Donetsk International Airport
 Donetsk International Airport, 2nd Battle for, Ukraine, 2014-2015|=|Second Battle of Donetsk Airport
 Dong (Chinese people)|=|Kam people
 Dong Khe, Battle of, &Dstrok;&ocirc;ng Kh&ecirc;, Vietnam, 1950|<->|Battle of Route Coloniale 4
-Dongbei jiao hai an guo ding feng jing te ding qu (Taiwan)|=|Northeast Coast National Scenic Area
+Dongbei jiao hai an guo ding feng jing te ding qu (Taiwan)|=|Northeast and Yilan Coast National Scenic Area
 Dongsha Huanjiao Guojia Gongyuan (Taiwan)|=|Dongsha Atoll National Park
 Dongxiang (Chinese people)|=|Dongxiang people
 Donkey Kong (Game)|<->|Donkey Kong (1981 video game)
@@ -11858,7 +11858,7 @@ Empire (Seaplane)|<->|Short Empire
 Empire Ranch (Ariz.)|=|Empire Ranch
 Empire State Building (New York, N.Y.)|=|Empire State Building
 Empire State Express (Express train)|=|Empire State Express
-Empire Theatre (New York, N.Y.)|=|Empire Theatre (41st Street)
+Empire Theatre (New York, N.Y.)|=|Empire Theatre (40th Street)
 Employee health promotion|=|Workplace health promotion
 Employee motivation|=|Work motivation
 Employee ownership|<->|Employee stock ownership
@@ -12190,7 +12190,7 @@ ERLANG (Computer program language)|=|Erlang (programming language)
 Ermine|<->|Stoat
 Ermineskin Tribe|=|Ermineskin Cree Nation
 Ernest Sound (Alaska)|=|Ernest Sound
-Ernie (Fictitious character : Henson)|=|Ernie (Sesame Street)
+Ernie (Fictitious character : Henson)|->|Bert and Ernie
 Ernst-Moritz-Arndt-Universit&auml;t Greifswald|=|University of Greifswald
 Eros (Asteroid)|=|433 Eros
 Eros (Greek deity)|=|Eros
@@ -14613,7 +14613,7 @@ Gibson Desert (W.A.)|=|Gibson Desert
 Gibson paradox|=|Gibson's paradox
 Giddh&amacr; (Dance)|=|Giddha
 Gideon, George (Fictitious character)|=|Gideon of Scotland Yard
-Gi&#x1ebb; Tri&ecirc;ng (Vietnamese people)|=|Jeh-Tariang
+Gi&#x1ebb; Tri&ecirc;ng (Vietnamese people)|=|Jeh-Tariang people
 Gier River (France)|=|Gier (river)
 Giessen (Germany : Landkreis)|=|Giessen (district)
 Giessen (Germany : Regierungsbezirk)|=|Giessen (region)
@@ -16447,7 +16447,8 @@ Heybeli Island (&Idot;stanbul &Idot;li, Turkey)|=|Heybeliada
 Heydrich, Reinhard, 1904-1942 -- Assassination|=|Assassination of Reinhard Heydrich
 Heyrati (Azerbaijani music)|=|Heyrati
 Hia-Ced O'odham Indians|=|Hia C-eḍ Oʼodham
-Hiawatha (Express train)|<->|Hiawatha (train)
+Hiawatha (Express train)|<->|Hiawatha (Milwaukee Road trains)
+Hiawatha (Express train)|<-|Hiawatha (Amtrak train)
 Hiawatha National Forest (Agency : U.S.)|->|Hiawatha National Forest
 Hiawatha National Forest (Mich.)|=|Hiawatha National Forest
 Hibernacula (Animal habitations)|=|Hibernaculum (zoology)
@@ -17665,7 +17666,7 @@ India -- Economic conditions|<->|Economy of India
 India -- History -- Chitral Campaign, 1895|=|Chitral Expedition
 India -- History -- Golden Temple (Amritsar) Assault, 1984|=|Operation Blue Star
 India -- History -- Maurya dynasty, ca. 322 B.C.-ca. 185 B.C.|<->|Maurya Empire
-India -- History -- Mysore Wars, 1766-1799|<->|Anglo-Mysore Wars
+India -- History -- Mysore Wars, 1766-1799|<->|Anglo-Mysore wars
 India -- History -- Mysore Wars, 1766-1799|<-|Fourth Anglo-Mysore War
 India -- History -- Mysore Wars, 1766-1799|<-|Third Anglo-Mysore War
 India -- History -- Non-cooperation movement, 1920-1922|=|Non-cooperation movement
@@ -18121,6 +18122,7 @@ Interstellar objects|=|Interstellar object
 Intertidal zonation|<->|Intertidal zone
 Intervention (International law)|<->|Interventionism (politics)
 Intervertebral disk|=|Intervertebral disc
+Interviewing in psychiatry|<->|Psychiatric interview
 Intestinal polyps|<->|Colorectal polyp
 Intestine, Large|=|Large intestine
 Intestine, Small|=|Small intestine
@@ -18797,6 +18799,7 @@ Japanese crane|=|Red-crowned crane
 Japanese Embassy Hostage Crisis, Lima, Peru, 1996-1997|=|Japanese embassy hostage crisis
 Japanese five-needle pine|=|Pinus parviflora
 Japanese knotweed|=|Reynoutria japonica
+Japanese language -- Cursive writing|->|Cursive script (East Asia)
 Japanese language -- Data processing|<->|Japanese language and computers
 Japanese language -- Edo period, 1600-1868|<->|Early Modern Japanese
 Japanese language -- Heian period, 794-1185|<->|Early Middle Japanese
@@ -20048,6 +20051,7 @@ Knickerbocker Theater (Washington, D.C.)|=|Knickerbocker Theatre (Washington, D.
 Knickerbocker Theatre (New York, N.Y.)|=|Knickerbocker Theatre (Broadway)
 Knights and knighthood|<->|Knight
 Knights of Malta|=|Knights Hospitaller
+Knights and Daughters of Tabor|<->|International Order of Twelve Knights and Daughters of Tabor
 Knights Valley American Viticultural Area (Calif.)|=|Knights Valley AVA
 Knik Arm (Alaska)|=|Knik Arm
 Knitting -- Patterns|=|Knitting pattern
@@ -20219,6 +20223,7 @@ Korea (South) -- Politics and government|<-|Government of South Korea
 Korean Air Lines Incident, 1983|<->|Korean Air Lines Flight 007
 Korean Demilitarized Zone (Korea)|<->|Korean Demilitarized Zone
 Korean language -- Alphabet|<->|Hangul
+Korean language -- Cursive writing|->|Cursive script (East Asia)
 Korean language -- Honorific|<->|Korean honorifics
 Korean language -- Phonology|<->|Korean phonology
 Korean language -- Writing -- Idu|=|Idu script
@@ -22078,7 +22083,7 @@ Lykan HyperSport automobile|=|W Motors Lykan HyperSport
 Lyman Lake (Ariz.)|=|Lyman Reservoir
 Lyme Park (England)|=|Lyme Park
 Lymphatics|=|Lymphatic system
-Lynceus (Greek mythology)|=|Lynceus of Argos
+Lynceus (Greek mythology)|<->|Lynceus (son of Aphareus)
 Lynch family|<->|Lynch (surname)
 Lynchburg, Battle of, Lynchburg, Va., 1864|=|Battle of Lynchburg
 Lyndhurst (Tarrytown, N.Y.)|=|Lyndhurst (mansion)
@@ -22629,7 +22634,7 @@ Manufacturing processes|->|Manufacturing
 Manures|=|Manure
 Manuscripts|=|Manuscript
 Manyberries (Alta.)|=|Manyberries
-Manyika (African people)|<->|Manyika tribe
+Manyika (African people)|<->|Manyika people
 Manzala, Lake (Port Said, Egypt)|=|Lake Manzala
 Manzanar National Historic Site|->|Manzanar
 Manzanar War Relocation Center|<->|Manzanar
@@ -26193,7 +26198,7 @@ Nobility -- Sweden|=|Swedish nobility
 Nobility -- Switzerland|=|Swiss nobility
 Noble (Coin)|=|Noble (English coin)
 Noble family|<->|Noble (surname)
-Noble savage stereotype|<->|Myth of the Noble savage
+Noble savage stereotype|<->|Noble savage
 Nobleford (Alta.)|=|Nobleford
 Nocte (Indic people)|=|Nocte people
 Noddingcaps|=|Triphora (plant)
@@ -27652,7 +27657,7 @@ Ozark Mountains|=|Ozarks
 Ozark National Forest (Ark.)|<->|Ozark–St. Francis National Forest
 Ozark Trail (Mo. and Ark.)|<->|Ozark Trail (hiking trail)
 Ozone layer depletion|=|Ozone depletion
-Ozone Park (New York, N.Y.)|=|Ozone Park, Queens
+Ozone Park (New York, N.Y.)|=|Ozone Park
 P-40 (Fighter plane)|<->|Curtiss P-40 Warhawk
 P.71A (Transport plane)|=|Boulton Paul P.71A
 P document (Biblical criticism)|=|Priestly source
@@ -27746,7 +27751,7 @@ Paiute Indians|=|Paiute
 Paiute Indians -- Wars, 1860|<->|Paiute War
 Paiute Wilderness (Ariz.)|=|Paiute Wilderness
 Pakin Atoll (Micronesia)|=|Pakin Atoll
-Pakistan -- History -- Coup d'&eacute;tat, 1999|=|1999 Pakistani military coup
+Pakistan -- History -- Coup d'&eacute;tat, 1999|=|1999 Pakistani coup d'état
 Pakistan -- History -- L&amacr;l Masjid (Isl&amacr;m&amacr;b&amacr;d) Assault, 2007|<->|Siege of Lal Masjid
 Pakistan -- History -- Rawalpindi Conspiracy, 1951|=|Rawalpindi conspiracy
 Pakistan -- Politics and government|<->|Politics of Pakistan
@@ -30678,7 +30683,7 @@ Queensboro Bridge (New York, N.Y.)|=|Queensboro Bridge
 Queensland -- Politics and government|<->|Politics of Queensland
 Queensland -- Politics and government|<-|Queensland Government
 Queenston Heights, Battle of, Ont., 1812|=|Battle of Queenston Heights
-Queer comic books, strips, etc.|<->|LGBT themes in comics
+Queer comic books, strips, etc.|<->|LGBTQ themes in comics
 Queets River (Wash.)|=|Queets River
 Quehanna Trail (Pa.)|=|Quehanna Trail
 QUEL (Computer program language)|<->|QUEL query languages
@@ -32222,7 +32227,7 @@ Russo-Swedish War, 1741-1743|=|Russo-Swedish War (1741–1743)
 Russo-Swedish War, 1788-1790|=|Russo-Swedish War (1788–1790)
 Russo-Swedish War, 1808-1809|<->|Finnish War
 Russo-Turkish War, 1736-1739|<->|Russo-Turkish War (1735–1739)
-Russo-Turkish War, 1768-1774|=|Russo-Turkish War (1768–1774)
+Russo-Turkish War, 1768-1774|=|Russo-Turkish war (1768–1774)
 Russo-Turkish War, 1787-1792|=|Russo-Turkish War (1787–1792)
 Russo-Turkish War, 1806-1812|=|Russo-Turkish War (1806–1812)
 Russo-Turkish War, 1828-1829|=|Russo-Turkish War (1828–1829)
@@ -33593,7 +33598,7 @@ Seram Sea (Indonesia)|=|Seram Sea
 Serapion Brotherhood (Literary movement)|=|Serapion Brothers
 Serapis (Egyptian deity)|=|Serapis
 Serbia -- History -- Great Emigration, 1690|->|Great Migrations of the Serbs
-Serbia -- History -- Insurrection, 1788|->|Habsburg-occupied Serbia (1788–1791)
+Serbia -- History -- Insurrection, 1788|->|Koča's Frontier
 Serbia -- History -- Insurrection, 1804-1813|=|First Serbian Uprising
 Serbia -- History -- Insurrection, 1815-1817|=|Second Serbian Uprising
 Serbia -- History, Military|=|Military history of Serbia
@@ -35199,7 +35204,7 @@ Spies -- United States|<->|List of American spies
 &Scaron;pilberk (Brno, Czech Republic : Castle)|=|Špilberk Castle
 Spin (Computer program language)|->|Parallax Propeller
 Spin glasses|=|Spin glass
-Spine|<->|Vertebral column
+Spine|<->|Spinal column
 Spine -- Diseases|<->|Spinal disease
 Spines (Zoology)|<->|Spine (zoology)
 Spin&#x1e33;a Hasidim|<->|Spinka (Hasidic dynasty)
@@ -35462,7 +35467,8 @@ Stefanesti Hasidim|<->|Shtefanesht (Hasidic dynasty)
 Stefansson Bay (Antarctica)|=|Stefansson Bay
 Steilacoom Indians|=|Steilacoom people
 Steilneset minnested (Vard&oslash;, Norway)|=|Steilneset Memorial
-Steinkjer (Norway)|=|Steinkjer
+Steinkjer (Norway)|<->|Steinkjer Municipality
+Steinkjer (Norway)|<-|Steinkjer (town)
 Steins|<->|Beer stein
 Steinway House (New York, N.Y.)|=|Steinway Mansion
 Stele (Archaeology)|=|Stele
@@ -37258,7 +37264,6 @@ Tibet Autonomous Region (China) -- History -- Uprising of 2008|=|2008 Tibetan un
 Tibet Autonomous Region (China) -- Religion|=|Religion in Tibet
 Tibetan language -- Alphabet|<->|Tibetan script
 Tibetan language -- Grammar|<->|Modern Lhasa Tibetan grammar
-Tibetans|=|Tibetan people
 Tibetans -- Switzerland|<->|Tibetan Swiss
 Tibia (Musical instrument)|->|Aulos
 &#x021a;ible&#x0219; Mountains (Romania)|=|Țibleș Mountains
@@ -39509,7 +39514,7 @@ Vietnam (Republic) -- History -- Coup d'&eacute;tat, 1963|=|1963 South Vietnames
 Vietnam Veterans Memorial (Angel Fire, N.M.)|=|Vietnam Veterans Memorial (New Mexico)
 Vietnam Veterans Memorial (Washington, D.C.)|=|Vietnam Veterans Memorial
 Vietnam War, 1961-1975|=|Vietnam War
-Vietnam War, 1961-1975 -- Australia|<->|Military history of Australia during the Vietnam War
+Vietnam War, 1961-1975 -- Australia|<->|Australia in the Vietnam War
 Vietnam War, 1961-1975 -- Campaigns -- Cambodia|<->|Cambodian campaign
 Vietnam War, 1961-1975 -- Casualties|<->|Vietnam War casualties
 Vietnam War, 1961-1975 -- Missing in action|<->|Vietnam War POW/MIA issue
@@ -40958,7 +40963,7 @@ World Trade Center Bombing, New York, N.Y., 1993|=|1993 World Trade Center bombi
 World War, 1914-1918|=|World War I
 World War, 1914-1918 -- Aerial operations|<->|Aviation in World War I
 World War, 1914-1918 -- Albania|=|World War I in Albania
-World War, 1914-1918 -- Australia|<->|Military history of Australia during World War I
+World War, 1914-1918 -- Australia|<->|Australia in World War I
 World War, 1914-1918 -- Belgium|<->|Belgium in World War I
 World War, 1914-1918 -- Bibliography|<->|Bibliography of World War I
 World War, 1914-1918 -- Blockades -- Germany|=|Blockade of Germany (1914–1919)
@@ -41026,7 +41031,7 @@ World War, 1939-1945 -- Albania|=|World War II in Albania
 World War, 1939-1945 -- Argentina|<->|Argentina during World War II
 World War, 1939-1945 -- Art and the war|=|Art and World War II
 World War, 1939-1945 -- Atrocities -- Poland|<->|War crimes in occupied Poland during World War II
-World War, 1939-1945 -- Australia|<->|Military history of Australia during World War II
+World War, 1939-1945 -- Australia|<->|Australia in World War II
 World War, 1939-1945 -- Belgium|=|Belgium in World War II
 World War, 1939-1945 -- Bulgaria|<->|Bulgaria during World War II
 World War, 1939-1945 -- Campaigns|<->|List of theaters and campaigns of World War II

@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2024-12-10
-# Manual Sweep: resume with UT (but recheck Stephen F. Austin and Wiley in TX)
+# Last updated 2025-01-24
+# Manual Sweep: resume with VA (but recheck Wiley in TX, and Utah State U)
 
 ID OLBP
 NAME The Online Books Page
@@ -9568,9 +9568,8 @@ WCRID 15586
 NAME Harris County Public Library
 LOCATION Houston vicinity
 STATE TX
-CATTYPE sirsient
-BASEURL https://hcpl2.ent.sirsi.net
-LCODE en_US/webcat
+CATTYPE bibliocommons
+BASEURL https://hcpl.bibliocommons.com
 
 ID OCLC-T7L
 NAME Helen Hall Library
@@ -9934,12 +9933,11 @@ LCODE en_US/default
 CATTYPE sirsient
 
 ID OCLC-RB0
-NAME Orem Public Library
+NAME Orem Library
 LOCATION Orem
 STATE UT
-CATTYPE sirsient
-BASEURL https://orem.ent.sirsi.net
-LCODE en_US/default
+CATTYPE vufindsi
+BASEURL https://library.orem.gov/Union/Search
 
 ID OCLC-0UP
 NAME Provo Library
@@ -9953,8 +9951,8 @@ ID OCLC-UTT
 NAME Salt Lake Community College
 LOCATION Salt Lake City and vicinity
 STATE UT
-CATTYPE sirsi
-BASEURL http://libcat.slcc.edu/uhtbin/cgisirsi
+CATTYPE sirsient
+BASEURL https://slccomm.ent.sirsi.net
 
 # This might just be the ID of 1 branch; I didn't see a definite system ID
 ID OCLC-UUC
@@ -9997,15 +9995,15 @@ ID OCLC-UTW
 NAME Weber County Library
 LOCATION Ogden and vicinity
 STATE UT
-CATTYPE encore
-BASEURL http://encore.weberpl.lib.ut.us/iii/encore
+CATTYPE vega
+BASEURL https://weber.na2.iiivega.com/
 
 ID OCLC-UUO
 NAME Weber State University, Stewart Library
 LOCATION Ogden
 STATE UT
 CATTYPE summon
-BASEURL http://weber.summon.serialssolutions.com
+BASEURL https://weber.summon.serialssolutions.com
 
 ID OCLC-VAX
 NAME Alexandria Library
@@ -10235,24 +10233,24 @@ ID OCLC-BNT
 NAME Bennington College
 LOCATION Bennington
 STATE VT
-BASEURL http://library.bennington.edu
-CATTYPE webpacpro
+BASEURL https://bennington.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-VTBFL
 NAME Bennington Free Library
 LOCATION Bennington
 STATE VT
-BASEURL https://bennington.bywatersolutions.com
-CATTYPE koha-group
-LCODE VTBFL
+CATTYPE vufindsi
+BASEURL https://bennington.aspendiscovery.org/Union/Search
+FILTERS SNK
 
 ID OCLC-BSY
 NAME Brooks Memorial Library
 LOCATION Brattleboro
 STATE VT
-BASEURL https://catalog.brookslibraryvt.org
-CATTYPE koha-group
-LCODE BROOKSBRAT
+CATTYPE vufindsi
+BASEURL https://brooks.aspendiscovery.org/Union/Search
+FILTERS SNK
 
 ID OCLC-VTESS
 NAME Essex Free Library
@@ -10280,15 +10278,17 @@ ID OCLC-RUT
 NAME Rutland Free Library
 LOCATION Rutland
 STATE VT
-BASEURL http://catalog.rutlandfree.org
-CATTYPE koha
+CATTYPE vufindsi
+BASEURL https://rutland.aspendiscovery.org/Union/Search
+FILTERS SNK
 
 ID OCLC-SMD
 NAME Saint Michael's College
 LOCATION Colchester
 STATE VT
-CATTYPE voyager-vwebv
-BASEURL http://voyager.smcvt.edu/vwebv/search
+CATTYPE eds
+PROFILE eds-guest
+LCODE s9010509
 
 ID OCLC-VTU
 NAME University of Vermont
