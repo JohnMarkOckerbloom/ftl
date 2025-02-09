@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2025-01-24
-# Manual Sweep: resume with VA (but recheck Wiley in TX, and Utah State U)
+# Last updated 2025-02-09
+# Manual Sweep: resume with WA (but recheck Wiley in TX)
 
 ID OLBP
 NAME The Online Books Page
@@ -223,8 +223,8 @@ ID AU-ANL
 NAME National Library of Australia
 LOCATION Canberra, ACT
 COUNTRY AU
-BASEURL http://catalogue.nla.gov.au
-CATTYPE vufindrc1
+BASEURL http://catalogue.nla.gov.au/search
+KEYURL ${BASEURL}?q=${ARG}
 FILTERS NK
 
 ID AU-XNLS
@@ -8079,18 +8079,18 @@ ID OCLC-CLE
 NAME Cleveland Public Library
 LOCATION Cleveland
 STATE OH
-CATTYPE sirsient
-LCODE en_US/cpl-main
-BASEURL https://search.clevnet.org
+CATTYPE vufindsi
+BASEURL https://search.cpl.org/Union/Search
+FILTERS S
 
 # Doesn't appear to have an OCLC ID of its own
 ID CLEVNET
 NAME CLEVNET
 LOCATION 47 library systems in northeast Ohio
 STATE OH
-CATTYPE sirsient
-LCODE en_US/clevnet
-BASEURL https://search.clevnet.org
+CATTYPE vufindsi
+BASEURL https://search.clevnet.org/Union/Search
+FILTERS S
 
 ID OCLC-WOO
 NAME College of Wooster
@@ -8255,6 +8255,13 @@ LOCATION Canton
 STATE OH
 CATTYPE bibliocommons
 BASEURL https://starklibrary.bibliocommons.com
+
+ID OCLC-OHI
+NAME State Library of Ohio
+LOCATION Columbus
+STATE OH
+CATTYPE edsresearch
+LCODE hnswul
 
 ID OCLC-9TL
 NAME Toledo-Lucas County Public Library
@@ -10026,7 +10033,7 @@ LOCATION Bland
 STATE VA
 CATTYPE ls2pac-config
 CONFIG ysm
-BASEURL https://bland.tlcdelivers.com:8480/
+BASEURL https://bland.tlcdelivers.com/
 
 ID OCLC-RR1
 NAME Central Rappahannock Regional Library
@@ -10132,8 +10139,8 @@ ID OCLC-VNS
 NAME Norfolk State University, Lyman Beecher Brooks Library
 LOCATION Norfolk
 STATE VA
-BASEURL http://library.nsu.edu
-CATTYPE innopac
+BASEURL https://norfolkstateu.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-VAN
 NAME Northern Virginia Community College
@@ -10154,16 +10161,17 @@ ID OCLC-RVLOD
 NAME Roanoke Valley Libraries
 LOCATION Roanoke, Salem, and vicinity
 STATE VA
-CATTYPE sirsient
-BASEURL https://rvl.ent.sirsi.net
+CATTYPE wise
+BASEURL https://rvl.wise.oclc.org/wise-apps/catalog/3000/search/
+FILTERS SNK
 
 ID OCLC-VA@
 WCRID 5019
 NAME University of Virginia Library
 LOCATION Charlottesville
 STATE VA
-BASEURL http://search.lib.virginia.edu/catalog?portal=all&catalog_select=all&
-CATTYPE blacklight-custom
+BASEURL https://search.lib.virginia.edu
+CATTYPE blacklight
 FILTERS NK
 
 # didn't find an ID for VLC or Augusta as a whole, so using Staunton's ID
@@ -10178,8 +10186,9 @@ ID OCLC-VPL
 NAME Virginia Beach Public Library
 LOCATION Virginia Beach
 STATE VA
-BASEURL https://vbplcat.vbgov.com/uhtbin/cgisirsi.exe
-CATTYPE sirsi
+CATTYPE sirsient
+BASEURL https://vbpl.ent.sirsi.net
+LCODE en_US/default
 
 ID OCLC-VRC
 NAME Virginia Commonwealth University
@@ -10210,7 +10219,7 @@ ID OCLC-VUU
 NAME Virginia Union University
 LOCATION Richmond
 STATE VA
-BASEURL http://vauu.sirsi.net/uhtbin/cgisirsi
+BASEURL https://vauu.sirsi.net/uhtbin/cgisirsi
 CATTYPE sirsi
 
 ID OCLC-VLW
