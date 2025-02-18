@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2025-02-09
-# Manual Sweep: resume with WA (but recheck Wiley in TX)
+# Last updated 2025-02-18
+# Manual Sweep: resume with WV (but recheck Wiley in TX and N Olympic in WA)
 
 ID OLBP
 NAME The Online Books Page
@@ -1043,15 +1043,15 @@ ID OCLC-KPLCP
 NAME Kitchener Public Library
 LOCATION Kitchener
 PROVINCE ON
-CATTYPE encore
-BASEURL https://encore.kpl.org/iii/encore_kpl
+CATTYPE vega
+BASEURL https://kpl-kitch.ca.iiivega.com/
 
 ID OCLC-LONPL
 NAME London Public Library
 LOCATION London
 PROVINCE ON
-CATTYPE encore
-BASEURL https://encore.londonpubliclibrary.ca/iii/encore
+CATTYPE vega
+BASEURL https://londp.ca.iiivega.com/
 
 ID OCLC-MRKPL
 NAME Markham Public Library
@@ -1064,8 +1064,10 @@ ID OCLC-MUH
 NAME McMaster University
 LOCATION Hamilton
 PROVINCE ON
-CATTYPE encore
-BASEURL https://discovery.mcmaster.ca/iii/encore
+BASEURL https://mcmaster.primo.exlibrisgroup.com
+CATTYPE primo-ve
+VID 01OCUL_MU:OMNI
+SCOPE OCULDiscoveryNetwork
 
 ID OCLC-MLSOD
 NAME Mississauga Library System
@@ -1079,9 +1081,10 @@ ID OCLC-M7O
 NAME Mohawk College Library
 LOCATION Hamilton
 PROVINCE ON
-CATTYPE evergreen-dynamic
-BASEURL http://libcat.mohawkcollege.ca/eg/opac
-LCODE 1
+BASEURL https://mohawkcollege.primo.exlibrisgroup.com
+CATTYPE primo-ve
+VID 01OCLS_MOHAWK:MOHAWK
+SCOPE MyInst_and_CI
 
 ID OCLC-CANOS
 NAME NOSM University Health Sciences Library
@@ -1111,6 +1114,13 @@ LOCATION Ottawa
 PROVINCE ON
 CATTYPE bibliocommons
 BASEURL https://ottawa.bibliocommons.com
+
+ID OCLC-CNOSP
+NAME Owen Sound and North Grey Union Public Library
+LOCATION Owen Sound
+PROVINCE ON
+CATTYPE bibliocommons
+BASEURL https://osngupl.bibliocommons.com
 
 ID OCLC-PPLCP
 NAME Peterborough Public Library
@@ -1232,8 +1242,8 @@ ID OCLC-CNWLU
 NAME Waterloo Public Library
 LOCATION Waterloo
 PROVINCE ON
-CATTYPE encore
-BASEURL https://encore.kpl.org/iii/encore_wpl
+CATTYPE vega
+BASEURL https://wpl-kitch.ca.iiivega.com/
 
 ID OCLC-LSG
 NAME Western University
@@ -4936,16 +4946,16 @@ ID OCLC-ZVR
 NAME Coeur d'Alene Public Library
 LOCATION Coeur d'Alene
 STATE ID
-BASEURL https://catalog.cinlibraries.org
-CATTYPE koha
+CATTYPE vufindgeneral
+BASEURL https://cdalibrary.cinlibraries.org/Union/Search
 FILTERS S
 
 ID OCLC-ZWM
 NAME Cooperative Information Network
 LOCATION 27 public and school libraries in northern Idaho and vicinity
 STATE ID
-BASEURL https://catalog.cinlibraries.org
-CATTYPE koha
+CATTYPE vufindgeneral
+BASEURL https://catalog.cinlibraries.org/Union/Search
 FILTERS S
 
 ID OCLC-I4F
@@ -10359,13 +10369,6 @@ BASEURL https://alliance-clark.primo.exlibrisgroup.com
 VID 01ALLIANCE_CC:CC
 SCOPE clark_sum_lib
 
-ID OCLC-XTQ
-NAME Columbia Basin College
-LOCATION Pasco
-STATE WA
-BASEURL https://colbasin.kohalibrary.com/app/search/
-CATTYPE koha-app
-
 ID OCLC-WEA
 NAME Eastern Washington University
 LOCATION Cheney and Spokane
@@ -10421,8 +10424,9 @@ ID OCLC-HNW
 NAME Hurst Library, Northwest University
 LOCATION Kirkland
 STATE WA
-CATTYPE eds
-LCODE nwcoll
+CATTYPE edsresearch
+AUTHTYPE guest
+LCODE p7abil
 
 # arbitrarily chose ID of Renton (a KCLS library; no overall ID found)
 ID OCLC-Z26
@@ -10447,13 +10451,12 @@ BASEURL https://milrec.bibliovation.com/app/search/
 CATTYPE koha-app-consortium
 LCODE 4FMCCHO
 
-# Same as the catalog for Idaho's Cooperative Information Network, but in WA
 ID OCLC-LIBLM
 NAME Liberty Lake Municipal Library
 LOCATION Liberty Lake
 STATE WA
-BASEURL https://catalog.cinlibraries.org
-CATTYPE koha
+CATTYPE vufindgeneral
+BASEURL https://libertylakewa.cinlibraries.org/Union/Search
 FILTERS S
 
 ID OCLC-LZS
@@ -10469,17 +10472,17 @@ ID OCLC-AA5
 NAME Mount Vernon City Library
 LOCATION Mount Vernon
 STATE WA
-BASEURL https://mvern.ipac.sirsidynix.net
-CATTYPE ipac20
-PROFILE mv2
+CATTYPE sirsient
+LCODE en_US/default
+BASEURL https://mvern.ent.sirsi.net
 
 ID OCLC-NOQ
 NAME North Olympic Library System
 LOCATION Port Angeles, Forks, Sequim, Clallam Bay
 STATE WA
-BASEURL http://pac.nols.org/polaris
-CATTYPE polaris
-FILTERS N
+CATTYPE vufindsi
+BASEURL https://catalog.nols.org/Union/Search
+FILTERS SN
 
 ID OCLC-Z84
 NAME Olympic College
@@ -10552,9 +10555,8 @@ ID OCLC-UOJ
 NAME Timberland Regional Library
 LOCATION Grays Harbor, Lewis, Mason, Pacific, and Thurston counties
 STATE WA
-CATTYPE sirsient
-LCODE en_US/default
-BASEURL https://search.trl.org
+CATTYPE bibliocommons
+BASEURL https://timberland.bibliocommons.com
 
 ID OCLC-UPP
 NAME University of Puget Sound
