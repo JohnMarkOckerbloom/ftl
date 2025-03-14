@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2025-02-18
-# Manual Sweep: resume with WV (but recheck Wiley in TX and N Olympic in WA)
+# Last updated 2025-03-14
+# Manual Sweep: resume with WI (but recheck Wiley in TX)
 
 ID OLBP
 NAME The Online Books Page
@@ -3203,8 +3203,8 @@ ID OCLC-FAYTV
 NAME Fayetteville Public Library
 LOCATION Fayetteville
 STATE AR
-CATTYPE wise
-BASEURL https://faylib.wise.oclc.org/wise-apps/catalog/8000/search/
+CATTYPE vufindsi
+BASEURL https://catalog.faylib.org/Union/Search
 FILTERS SNK
 
 ID OCLC-FSM
@@ -5537,8 +5537,8 @@ ID OCLC-IMF
 NAME Allen County Public Library
 LOCATION Fort Wayne and vicinity
 STATE IN
-CATTYPE wise
-BASEURL https://acpl-cms.wise.oclc.org/wise-apps/catalog/6000/search/
+CATTYPE vega
+BASEURL https://acpl.na4.iiivega.com/
 FILTERS SNK
 
 ID OCLC-IBS
@@ -5566,8 +5566,9 @@ ID OCLC-IEP
 NAME Evansville Vanderburgh Public Library
 LOCATION Evansville and Vanderburgh County
 STATE IN
-BASEURL https://encore.evpl.org/iii/encore
-CATTYPE encore
+CATTYPE vufindsi
+BASEURL https://catalog.evpl.org/Union/Search
+FILTERS SNK
 
 ID OCLC-IHC
 NAME Hanover College, Duggan Library
@@ -5585,6 +5586,13 @@ BASEURL https://onesearch.library.nd.edu
 VID NDU
 LCODE NDU
 SCOPE malc_blended
+
+ID OCLC-ISU
+NAME Indiana State University, Cunningham Memorial Library
+LOCATION Terre Haute
+STATE IN
+CATTYPE summon
+BASEURL https://indstate.summon.serialssolutions.com
 
 ID OCLC-1IU
 NAME Indiana University Libraries
@@ -5605,8 +5613,8 @@ ID OCLC-IMR
 NAME Monroe County Public Library
 LOCATION Bloomington and Elletsville
 STATE IN
-BASEURL https://mcpl.monroe.lib.in.us
-CATTYPE polaris
+CATTYPE vega
+BASEURL https://catalog.mcpl.info
 
 ID OCLC-IPL
 NAME Purdue University Libraries
@@ -5637,8 +5645,8 @@ ID OCLC-IVU
 NAME Valparaiso University
 LOCATION Valparaiso
 STATE IN
-CATTYPE summon
-BASEURL http://valpo.summon.serialssolutions.com
+CATTYPE edsresearch
+LCODE rqbfb2
 
 ID OCLC-IWC
 NAME Wabash College
@@ -10611,10 +10619,10 @@ BASEURL http://catalog.yvl.org/polaris
 CATTYPE polaris
 
 ID OCLC-WBL
-NAME Bluefield State College, Wendell G. Hardway Library
+NAME Bluefield State University, William B. Robinson Library
 LOCATION Bluefield
 STATE WV
-BASEURL http://catalog1.mln.lib.wv.us
+BASEURL https://mlnapp.raleigh.lib.wv.us
 CATTYPE iii-consortium-member
 LCODE 6
 
@@ -10645,13 +10653,6 @@ CATTYPE ls2pac-config
 CONFIG 3ysm
 FILTERS S
 
-ID OCLC-NORLN
-NAME Northern Library Network
-LOCATION Public libraries in 17 northern West Virginia counties
-STATE WV
-BASEURL https://nlnapp.clark.lib.wv.us
-CATTYPE innopac
-
 ID OCLC-OC2
 NAME Ohio County Public Library
 LOCATION Wheeling
@@ -10667,13 +10668,19 @@ STATE WV
 BASEURL https://shepherd.on.worldcat.org/external-search?queryString
 CATTYPE worldcat-config
 
+ID OCLC-WVLNN
+NAME West Virginia Library Network
+LOCATION Public libraries in the majority of West Virginia counties
+STATE WV
+BASEURL https://mlnapp.raleigh.lib.wv.us
+CATTYPE innopac
+
 ID OCLC-WVQ
 NAME West Virginia Wesleyan College
 LOCATION Buckhannon
 STATE WV
-BASEURL http://aca.iii.com/
-CATTYPE iii-consortium-member
-LCODE 60
+BASEURL https://wvwc.on.worldcat.org/search?scope=wz:4508&queryString
+CATTYPE worldcat-config
 
 ID OCLC-WV8
 NAME West Virginia State University
