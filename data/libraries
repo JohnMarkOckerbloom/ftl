@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2025-03-14
-# Manual Sweep: resume with WI (but recheck Wiley in TX)
+# Last updated 2025-03-31
+# Manual Sweep: resume with Uruguay (but recheck Wiley in TX)
 
 ID OLBP
 NAME The Online Books Page
@@ -1721,6 +1721,15 @@ SINDEX WRD
 AINDEX WAU
 TINDEX WTI
 COUNTRY LT
+FILTERS SNK
+
+# Don't know of an OCLC or ISIL id for this one
+ID CUNIMA
+NAME Catholic University of Malawi (CUNIMA)
+LOCATION Nguludi
+COUNTRY MW
+BASEURL https://cunima.mykoha.co.nz/
+CATTYPE koha
 FILTERS SNK
 
 # Tecnol&oacute;gico de Monterrey's EDS doesn't seem to support guest access
@@ -10249,6 +10258,14 @@ BASEURL https://wlu.primo.exlibrisgroup.com
 VID 01WLU_INST:01WLU
 SCOPE MyInst_and_CI
 
+ID OCLC-VAK
+NAME Williamsburg Regional Library
+LOCATION Williamsburg
+STATE VA
+CATTYPE sirsient
+BASEURL https://wrl.ent.sirsi.net
+LCODE en_US/default
+
 ID OCLC-VZD
 NAME University of the Virgin Islands
 LOCATION St. Thomas and St. Croix
@@ -10718,7 +10735,7 @@ NAME Brown County Library
 LOCATION Green Bay and vicinity
 STATE WI
 CATTYPE sirsient
-LCODE en_US/home
+LCODE en_US/rivers
 BASEURL https://brown.ent.sirsi.net
 
 ID OCLC-WIW
@@ -10732,16 +10749,18 @@ ID OCLC-GZQ
 NAME Marquette University Libraries
 LOCATION Milwaukee
 STATE WI
-BASEURL http://libus.csd.mu.edu
-CATTYPE webpacpro
+BASEURL https://marquette.primo.exlibrisgroup.com
+CATTYPE primo-ve
+VID 01MARQUETTE_INST:MARQUETTE
+SCOPE MyInst_and_CI
 
 ID OCLC-GZD
 NAME Milwaukee County Federated Library System
 LOCATION Milwaukee and vicinity
 STATE WI
-BASEURL http://countycat.mcfls.org
-CATTYPE iii-consortium-member
-LCODE 1
+CATTYPE vufindsi
+BASEURL https://countycat.mcfls.org/Union/Search
+FILTERS SNK
 
 # Didn't find a symbol for all of SHARE; this one is for Lakeshores
 ID OCLC-WIR
@@ -10794,42 +10813,47 @@ BASEURL https://wlso.ent.sirsi.net
 
 ID OCLC-W8A
 NAME Albany County Public Library
-LOCATION Laramie and vicinity
+LOCATION Laramie, Centennial, and Rock River
 STATE WY
-CATTYPE sirsient
-LCODE en_US/albany
-BASEURL https://wyld.ent.sirsi.net
+CATTYPE vufindsi
+BASEURL https://acpl.wyldcatalog.org/Union/Search
 
 ID OCLC-W8F
 NAME Fremont County Libraries
 LOCATION Lander, Riverton, and Dubois
 STATE WY
-CATTYPE sirsient
-LCODE en_US/frem
-BASEURL https://wyld.ent.sirsi.net
+CATTYPE vufindsi
+BASEURL https://fremont.wyldcatalog.org/Union/Search
 
 ID OCLC-WYL
 NAME Laramie County Library
 LOCATION Cheyenne
 STATE WY
-CATTYPE sirsient
-LCODE en_US/larm
-BASEURL https://wyld.ent.sirsi.net
+CATTYPE vufindsi
+BASEURL https://lcls.wyldcatalog.org/Union/Search
 
 ID OCLC-CWF
 NAME Natrona County Public Library
 LOCATION Casper and vicinity
 STATE WY
-CATTYPE sirsient
-LCODE en_US/natr
-BASEURL https://wyld.ent.sirsi.net
+CATTYPE vufindsi
+BASEURL https://ncpl.wyldcatalog.org/Union/Search
 
 ID OCLC-4JI
 NAME University of Wyoming
 LOCATION Laramie
 STATE WY
-CATTYPE summon
-BASEURL http://uwyo.summon.serialssolutions.com
+CATTYPE primo-ve
+BASEURL https://uwyo.primo.exlibrisgroup.com
+VID 01UOW_INST:quicksearch
+SCOPE MyInst_and_CI
+
+ID WYLD
+NAME Wyoming Library Consortium (WYLD)
+LOCATION 100+ libraries across Wyoming
+STATE WY
+CATTYPE vufindsi
+BASEURL https://wyld.wyldcatalog.org/Union/Search
 
 # for the library, force all searches but author into general keyword search
 ID BIBNATUY
