@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2025-03-31
-# Manual Sweep: resume with Uruguay (but recheck Wiley in TX)
+# Last updated 2025-04-14
+# Manual Sweep: resume with Australia (but recheck Wiley in TX and Mulungushi)
 
 ID OLBP
 NAME The Online Books Page
@@ -6160,7 +6160,7 @@ WCRID 11441
 NAME Baltimore County Public Library
 LOCATION Baltimore suburbs
 STATE MD
-BASEURL http://catalog.bcpl.lib.md.us/polaris
+BASEURL https://catalog.bcpl.lib.md.us/polaris
 CATTYPE polaris
 
 ID OCLC-CCPBT
@@ -6177,6 +6177,13 @@ LOCATION Wye Mills and Cambridge
 STATE MD
 CATTYPE eds
 LCODE s8994322
+
+ID OCLC-SMDRL
+NAME COSMOS
+LOCATION Calvert, Charles, and St. Mary's County libraries
+STATE MD
+BASEURL https://catalog.somd.lib.md.us/polaris
+CATTYPE polaris
 
 ID OCLC-ESRLS
 NAME Eastern Shore Regional Library System
@@ -6205,7 +6212,7 @@ ID OCLC-HRF
 NAME Harford County Public Library
 LOCATION Harford County
 STATE MD
-BASEURL http://library.hcplonline.org/polaris
+BASEURL https://library.hcplonline.org/polaris
 CATTYPE polaris
 
 ID OCLC-HO$
@@ -10884,13 +10891,13 @@ ID UZAMBIALIB
 NAME University of Zambia
 LOCATION Lusaka
 COUNTRY ZM
-CATTYPE sirsi
-BASEURL http://e-library.unza.zm/uhtbin/cgisirsi.exe
+BASEURL http://koha.unza.zm:4480
+CATTYPE koha
 
 ID OCLC-W8I
 NAME University of Zimbabwe
 LOCATION Harare
 COUNTRY ZW
-CATTYPE eds
-LCODE s4591075
+BASEURL http://uzlibsys.uz.ac.zw
+CATTYPE koha
 
