@@ -112,6 +112,11 @@ TITURL ${BASEURL}ExpertSearch?ST0=T&view=Bibliographic&SF0=${ARG}
 ATIURL ${BASEURL}ExpertSearch?ST0=N&view=Bibliographic&SF0=${AUTHOR}&ST1=T&SF1=${TITLE}
 KEYURL ${BASEURL}ExpertSearch?ST0=Z&view=Bibliographic&SF0=${ARG}
 
+# Atriuum 15 appears to use a different interface that might not support
+# direct searches other than keywords
+CATTYPE atriuum15
+KEYURL ${BASEURL}#/search/${ARG}
+
 CATTYPE bibliocommons
 SUBURL ${BASEURL}/search?t=subject&q=${ARG}
 AUTURL ${BASEURL}/search?t=author&q=${ARG}

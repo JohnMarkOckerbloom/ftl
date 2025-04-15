@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2025-04-14
-# Manual Sweep: resume with Australia (but recheck Wiley in TX and Mulungushi)
+# Last updated 2025-04-15
+# Manual Sweep: resume with S in Australia (recheck Wiley in TX and Mulungushi)
 
 ID OLBP
 NAME The Online Books Page
@@ -92,8 +92,10 @@ ID AU-ANU
 NAME Australian National University
 LOCATION Canberra, ACT
 COUNTRY AU
-CATTYPE summon
-BASEURL http://anu.summon.serialssolutions.com
+BASEURL https://anu.primo.exlibrisgroup.com
+CATTYPE primo-ve
+VID 61ANU_INST:ANU
+SCOPE MyInst_and_CI
 
 ID AU-VBAY
 NAME Bayside Library Service
@@ -181,7 +183,7 @@ ID AU-APLS
 NAME Libraries ACT
 LOCATION Canberra, ACT
 COUNTRY AU
-BASEURL https://www.librarycatalogue.act.gov.au/cgi-bin/spydus.exe/ENQ/WPAC/ALLENQ?
+BASEURL https://librariesact.spydus.com/cgi-bin/spydus.exe/ENQ/OPAC/ALLWRKENQ?
 CATTYPE spydus-config
 
 ID AU-NMQU 
@@ -254,7 +256,7 @@ ID AU-SRGS
 NAME Royal Geographical Society of South Australia
 LOCATION Adelaide, South Australia
 COUNTRY AU
-BASEURL http://rgssa.slimlib.com.au:81/vufind
+BASEURL http://rgssa.slimlib.com.au/vufind
 CATTYPE vufind
 # we search all fields for subjects; lowercase other specialized fields
 SINDEX AllFields
@@ -9360,6 +9362,14 @@ CATTYPE verso6
 BASEURL https://tenv.agverso.com
 CID tenv
 LCODE hardin
+
+ID OCLC-TNJKS
+NAME Jackson-Madison County Library
+LOCATION Jackson
+STATE TN
+CATTYPE atriuum15
+BASEURL https://jmclibtn.booksys.net/opac/jmcl/index.html
+FILTERS SNK
 
 ID OCLC-TKL
 NAME Knox County Public Library
