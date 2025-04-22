@@ -6,7 +6,7 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation
-# Last updated 2025-04-06
+# Last updated 2025-04-22
 # TV program sweep picks up from A
 # Resume native treaty sweep from L (https://en.wikipedia.org/wiki/Category:United_States_and_Native_American_treaties; search treaty + year in LCAuthorities)
 # Resume wbookfile ...TSUB sweep with author Collins
@@ -1938,6 +1938,23 @@ Catch me if you can (Motion picture : 2002)|=|Catch Me If You Can
 Catered affair (Motion picture)|=|The Catered Affair
 Caterina va in citt&agrave; (Motion picture)|=|Caterina in the Big City
 Catholic Church. Breviary|<->|Roman Breviary
+Catholic Church. Pope (1058 or 1059-1061 : Nicholas II). In nomine Domini|=|In nomine Domini
+Catholic Church. Pope (1159-1181 : Alexander III). Manifestis probatum|=|Manifestis Probatum
+Catholic Church. Pope (1484-1492 : Innocent VIII). Summis desiderantes|=|Summis desiderantes affectibus
+Catholic Church. Pope (1513-1521 : Leo X). Apostolici regiminis|=|Apostolici Regiminis
+Catholic Church. Pope (1513-1521 : Leo X). Exsurge Domine|=|Exsurge Domine
+Catholic Church. Pope (1534-1549 : Paul III). Sublimis Deus|=|Sublimis Deus
+Catholic Church. Pope (1566-1572 : Pius V). Regnans in excelsis|=|Regnans in Excelsis
+Catholic Church. Pope (1572-1585 : Gregory XIII) Inter gravissimas|=|Inter gravissimas
+Catholic Church. Pope (1700-1721 : Clement XI). Unigenitus|=|Unigenitus
+# Fill in from Catholic Church. Pope (1730-1740 : Clement XII) up to Benedict XVI
+Catholic Church. Pope (2013- : Francis). Amoris laetitia|=|Amoris laetitia
+Catholic Church. Pope (2013- : Francis). Christus vivit|=|Christus vivit
+Catholic Church. Pope (2013- : Francis). Evangelii gaudium|=|Evangelii gaudium
+Catholic Church. Pope (2013- : Francis). Fratelli tutti|=|Fratelli tutti
+Catholic Church. Pope (2013- : Francis). Laudato si'|=|Laudato si'
+Catholic Church. Pope (2013- : Francis). Lumen fidei|=|Lumen fidei
+Catholic Church. Pope (2013- : Francis). Misericordiae vultus|=|Misericordiae vultus
 Catholic Church. Treaties, etc. France, 1801 July 15|<->|Concordat of 1801
 Catholic Church. Treaties, etc. Germany, 1933 July 20|<->|Reichskonkordat
 Catholic Church. Treaties, etc. Poland, 1925 February 10|<->|Concordat of 1925
@@ -2834,7 +2851,7 @@ Duma (Motion picture)|=|Duma (2005 film)
 Dumbo (Motion picture)|=|Dumbo
 Duniya (Motion picture : 1984)|=|Duniya (1984 film)
 Dunwich horror (Motion picture)|=|The Dunwich Horror (film)
-Duplicity (Motion picture)|=|Duplicity (film)
+Duplicity (Motion picture)|=|Duplicity (2009 film)
 Durval Discos (Motion picture)|=|Durval Discos
 Dus numbri (Motion picture)|=|Dus Numbri
 Dust&umacr;r al-Mad&imacr;nah|=|Constitution of Medina
@@ -3659,6 +3676,8 @@ Joyce, James, 1882-1941. Sisters|=|The Sisters (short story)
 Joyce, James, 1882-1941. Stephen hero|=|Stephen Hero
 Joyce, James, 1882-1941. Ulysses|=|Ulysses (novel)
 Judge Dredd (Motion picture)|=|Judge Dredd (film)
+Justin, Martyr, Saint. Dialogue with Trypho|=|Dialogue with Trypho
+Justin, Martyr, Saint. First apology|=|First Apology of Justin Martyr
 Juvenal. Satura 6|=|Satire VI
 Juvenal. Works|<->|Satires (Juvenal)
 Kampar, active 9th century. R&amacr;m&amacr;ya&#x1e47;am|<->|Ramavataram
