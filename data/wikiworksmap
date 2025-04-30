@@ -6,7 +6,7 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation
-# Last updated 2025-04-22
+# Last updated 2025-04-29
 # TV program sweep picks up from A
 # Resume native treaty sweep from L (https://en.wikipedia.org/wiki/Category:United_States_and_Native_American_treaties; search treaty + year in LCAuthorities)
 # Resume wbookfile ...TSUB sweep with author Collins
@@ -1947,14 +1947,93 @@ Catholic Church. Pope (1534-1549 : Paul III). Sublimis Deus|=|Sublimis Deus
 Catholic Church. Pope (1566-1572 : Pius V). Regnans in excelsis|=|Regnans in Excelsis
 Catholic Church. Pope (1572-1585 : Gregory XIII) Inter gravissimas|=|Inter gravissimas
 Catholic Church. Pope (1700-1721 : Clement XI). Unigenitus|=|Unigenitus
-# Fill in from Catholic Church. Pope (1730-1740 : Clement XII) up to Benedict XVI
-Catholic Church. Pope (2013- : Francis). Amoris laetitia|=|Amoris laetitia
-Catholic Church. Pope (2013- : Francis). Christus vivit|=|Christus vivit
-Catholic Church. Pope (2013- : Francis). Evangelii gaudium|=|Evangelii gaudium
-Catholic Church. Pope (2013- : Francis). Fratelli tutti|=|Fratelli tutti
-Catholic Church. Pope (2013- : Francis). Laudato si'|=|Laudato si'
-Catholic Church. Pope (2013- : Francis). Lumen fidei|=|Lumen fidei
-Catholic Church. Pope (2013- : Francis). Misericordiae vultus|=|Misericordiae vultus
+Catholic Church. Pope (1769-1774 : Clement XIV). Dominus ac Redemptor|=|Dominus ac Redemptor
+Catholic Church. Pope (1775-1799 : Pius VI). Auctorem fidei|=|Auctorem fidei
+Catholic Church. Pope (1800-1823 : Pius VII). Sollicitudo omnium ecclesiarum|=|Sollicitudo omnium ecclesiarum
+Catholic Church. Pope (1831-1846 : Gregory XVI). Inter praecipuas machinationes|=|Inter praecipuas machinationes
+Catholic Church. Pope (1846-1878 : Pius IX). Etsi multa (1873 November 21)|=|Etsi multa
+Catholic Church. Pope (1846-1878 : Pius IX). Ineffabilis Deus|=|Ineffabilis Deus
+Catholic Church. Pope (1846-1878 : Pius IX). Quanta cura|=|Quanta cura
+Catholic Church. Pope (1846-1878 : Pius IX). Syllabus errorum|=|Syllabus of Errors
+Catholic Church. Pope (1878-1903 : Leo XIII). Aeterni Patris|=|Aeterni Patris
+Catholic Church. Pope (1878-1903 : Leo XIII). Apostolicae curae|=|Apostolicae curae
+Catholic Church. Pope (1878-1903 : Leo XIII). Humanum genus|=|Humanum genus
+Catholic Church. Pope (1878-1903 : Leo XIII). Inimica vis|=|Inimica vis
+Catholic Church. Pope (1878-1903 : Leo XIII). Orientalium dignitas|=|Orientalium dignitas
+Catholic Church. Pope (1878-1903 : Leo XIII). Praeclara gratulationis|=|Praeclara gratulationis publicae
+Catholic Church. Pope (1878-1903 : Leo XIII). Providentissimus Deus (1893 November 18)|=|Providentissimus Deus
+Catholic Church. Pope (1878-1903 : Leo XIII). Rerum novarum|=|Rerum novarum
+Catholic Church. Pope (1878-1903 : Leo XIII). Satis cognitum|=|Satis cognitum
+Catholic Church. Pope (1903-1914 : Pius X). Pascendi Dominici gregis|=|Pascendi Dominici gregis
+Catholic Church. Pope (1903-1914 : Pius X). Tra le sollecitudini|=|Tra le sollecitudini
+Catholic Church. Pope (1903-1914 : Pius X). Vehementer nos|=|Vehementer Nos
+Catholic Church. Pope (1922-1939 : Pius XI). Casti connubii|=|Casti connubii
+Catholic Church. Pope (1922-1939 : Pius XI). Divini Redemptoris|=|Divini Redemptoris
+Catholic Church. Pope (1922-1939 : Pius XI). Mit brennender Sorge|=|Mit brennender Sorge
+Catholic Church. Pope (1922-1939 : Pius XI). Quadragesimo anno|=|Quadragesimo anno
+Catholic Church. Pope (1922-1939 : Pius XI) Quas primas|=|Quas primas
+Catholic Church. Pope (1939-1958 : Pius XII). Ad caeli reginam|=|Ad Caeli Reginam
+Catholic Church. Pope (1939-1958 : Pius XII). Evangelii praecones|=|Evangelii praecones
+Catholic Church. Pope (1939-1958 : Pius XII). Exsul familia|=|Exsul Familia
+Catholic Church. Pope (1939-1958 : Pius XII). Mediator Dei|=|Mediator Dei
+Catholic Church. Pope (1939-1958 : Pius XII). Mystici corporis|=|Mystici Corporis Christi
+Catholic Church. Pope (1958-1963 : John XXIII). Mater et magistra|=|Mater et magistra
+Catholic Church. Pope (1958-1963 : John XXIII). Pacem in terris|=|Pacem in terris
+Catholic Church. Pope (1958-1963 : John XXIII). Veterum sapientia|=|Veterum Sapientia
+Catholic Church. Pope (1963-1978 : Paul VI). Ecclesiam suam|=|Ecclesiam Suam
+Catholic Church. Pope (1963-1978 : Paul VI). Evangelii nuntiandi|=|Evangelii nuntiandi
+Catholic Church. Pope (1963-1978 : Paul VI). Humanae vitae|=|Humanae vitae
+Catholic Church. Pope (1963-1978 : Paul VI). Marialis cultus|=|Marialis Cultus
+Catholic Church. Pope (1963-1978 : Paul VI). Octogesima adveniens|=|Octogesima adveniens
+Catholic Church. Pope (1963-1978 : Paul VI). Populorum progressio|=|Populorum progressio
+Catholic Church. Pope (1978-2005 : John Paul II). Ad tuendam fidem|=|Ad tuendam fidem
+Catholic Church. Pope (1978-2005 : John Paul II). Catechesi tradendae|=|Catechesi tradendae
+Catholic Church. Pope (1978-2005 : John Paul II). Centesimus annus|=|Centesimus annus
+Catholic Church. Pope (1978-2005 : John Paul II). Christifideles laici|=|Christifideles laici
+Catholic Church. Pope (1978-2005 : John Paul II). Dies Domini|=|Dies Domini
+Catholic Church. Pope (1978-2005 : John Paul II). Dives in misericordia|=|Dives in misericordia
+Catholic Church. Pope (1978-2005 : John Paul II). Dominicae cenae|=|Dominicae cenae
+Catholic Church. Pope (1978-2005 : John Paul II). Dominum et vivificantem|=|Dominum et vivificantem
+Catholic Church. Pope (1978-2005 : John Paul II). Ecclesia de Eucharistia|=|Ecclesia de Eucharistia
+Catholic Church. Pope (1978-2005 : John Paul II). Ecclesia in Africa|=|Ecclesia in Africa
+Catholic Church. Pope (1978-2005 : John Paul II). Ecclesia in America|=|Ecclesia in America
+Catholic Church. Pope (1978-2005 : John Paul II). Evangelium vitae|=|Evangelium vitae
+Catholic Church. Pope (1978-2005 : John Paul II). Ex corde ecclesiae|=|Ex corde Ecclesiae
+Catholic Church. Pope (1978-2005 : John Paul II). Familiaris consortio|=|Familiaris consortio
+Catholic Church. Pope (1978-2005 : John Paul II). Fides et ratio|=|Fides et ratio
+Catholic Church. Pope (1978-2005 : John Paul II). Laborem exercens|=|Laborem exercens
+Catholic Church. Pope (1978-2005 : John Paul II). Mulieris dignitatem|=|Mulieris dignitatem
+Catholic Church. Pope (1978-2005 : John Paul II). Novo millennio ineunte|=|Novo millennio ineunte
+Catholic Church. Pope (1978-2005 : John Paul II). Ordinatio sacerdotalis|=|Ordinatio sacerdotalis
+Catholic Church. Pope (1978-2005 : John Paul II). Pastor bonus|=|Pastor bonus
+Catholic Church. Pope (1978-2005 : John Paul II). Pastores dabo vobis|=|Pastores dabo vobis
+Catholic Church. Pope (1978-2005 : John Paul II). Pastores gregis|=|Pastores gregis
+Catholic Church. Pope (1978-2005 : John Paul II). Reconciliatio et paenitentia|=|Reconciliatio et paenitentia
+Catholic Church. Pope (1978-2005 : John Paul II). Redemptor hominis|=|Redemptor hominis
+Catholic Church. Pope (1978-2005 : John Paul II). Redemptoris custos|=|Redemptoris custos
+Catholic Church. Pope (1978-2005 : John Paul II). Redemptoris Mater|=|Redemptoris Mater
+Catholic Church. Pope (1978-2005 : John Paul II). Redemptoris missio|=|Redemptoris missio
+Catholic Church. Pope (1978-2005 : John Paul II). Rosarium Virginis Mariae|=|Rosarium Virginis Mariae
+Catholic Church. Pope (1978-2005 : John Paul II). Salvifici doloris|=|Salvifici doloris
+Catholic Church. Pope (1978-2005 : John Paul II). Slavorum apostoli|=|Slavorum Apostoli
+Catholic Church. Pope (1978-2005 : John Paul II). Sollicitudo rei socialis|=|Sollicitudo rei socialis
+Catholic Church. Pope (1978-2005 : John Paul II). Tertio millennio adveniente|=|Tertio millennio adveniente
+Catholic Church. Pope (1978-2005 : John Paul II). Ut unum sint|=|Ut unum sint
+Catholic Church. Pope (1978-2005 : John Paul II). Veritatis splendor|=|Veritatis splendor
+Catholic Church. Pope (1978-2005 : John Paul II). Vita consecrata|=|Vita consecrata
+Catholic Church. Pope (2005-2013 : Benedict XVI). Caritas in veritate|=|Caritas in veritate
+Catholic Church. Pope (2005-2013 : Benedict XVI). Deus caritas est|=|Deus caritas est
+Catholic Church. Pope (2005-2013 : Benedict XVI). Sacramentum caritatis|=|Sacramentum caritatis
+Catholic Church. Pope (2005-2013 : Benedict XVI). Spe salvi|=|Spe salvi
+Catholic Church. Pope (2005-2013 : Benedict XVI). Summorum Pontificum|=|Summorum Pontificum
+Catholic Church. Pope (2005-2013 : Benedict XVI). Verbum Domini|=|Verbum Domini
+Catholic Church. Pope (2013-2025 : Francis). Amoris laetitia|=|Amoris laetitia
+Catholic Church. Pope (2013-2025 : Francis). Christus vivit|=|Christus vivit
+Catholic Church. Pope (2013-2025 : Francis). Evangelii gaudium|=|Evangelii gaudium
+Catholic Church. Pope (2013-2025 : Francis). Fratelli tutti|=|Fratelli tutti
+Catholic Church. Pope (2013-2025 : Francis). Laudato si'|=|Laudato si'
+Catholic Church. Pope (2013-2025 : Francis). Lumen fidei|=|Lumen fidei
+Catholic Church. Pope (2013-2025 : Francis). Misericordiae vultus|=|Misericordiae vultus
 Catholic Church. Treaties, etc. France, 1801 July 15|<->|Concordat of 1801
 Catholic Church. Treaties, etc. Germany, 1933 July 20|<->|Reichskonkordat
 Catholic Church. Treaties, etc. Poland, 1925 February 10|<->|Concordat of 1925

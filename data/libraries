@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2025-04-15
-# Manual Sweep: resume with S in Australia (recheck Wiley in TX and Mulungushi)
+# Last updated 2025-04-30
+# Manual Sweep: resume with Belgium (but recheck Wiley in TX and Mulungushi)
 
 ID OLBP
 NAME The Online Books Page
@@ -264,14 +264,16 @@ TINDEX title
 AINDEX author
 FILTERS NK
 
+# This lirary appears to now use a custom catalog
 ID AU-NSL
 NAME State Library of New South Wales
 LOCATION Sydney, New South Wales
 COUNTRY AU
-CATTYPE primodl-scope
-BASEURL http://primo-slnsw-sb.hosted.exlibrisgroup.com
-VID SLNSW
-SCOPE EEA
+BASEURL https://collection.sl.nsw.gov.au/search
+KEYURL ${BASEURL}?search=${ARG:SNK}
+TITURL ${BASEURL}?titleSearch=${ARG:SNK}
+AUTURL ${BASEURL}?authorSearch=${ARG:SNK}
+SUBURL ${BASEURL}?subjectSearch=${ARG:SNK}
 
 ID AU-QSL
 NAME State Library of Queensland
@@ -366,8 +368,10 @@ ID AU-NUN
 NAME University of New South Wales
 LOCATION Sydney, New South Wales
 COUNTRY AU
-BASEURL https://usearch.library.unsw.edu.au/Pages/librarysearch.aspx
-KEYURL ${BASEURL}?k=${ARG}
+CATTYPE primo-ve
+BASEURL https://primoa.library.unsw.edu.au
+VID 61UNSW_INST:UNSWS
+SCOPE MyInst_and_CI
 
 ID AU-SUSA
 NAME University of South Australia
@@ -405,8 +409,10 @@ ID AU-NWU
 NAME University of Wollongong
 LOCATION Wollongong, New South Wales
 COUNTRY AU
-CATTYPE eds
-LCODE s2951849
+CATTYPE primo-ve
+BASEURL https://uow.primo.exlibrisgroup.com
+VID 61UOW_INST:ALMA
+SCOPE MyInst_and_CI
 
 ID OCLC-LR0
 NAME Victoria University
@@ -4505,8 +4511,8 @@ ID OCLC-JPL
 NAME Jacksonville Public Library
 LOCATION Jacksonville
 STATE FL
-CATTYPE sirsient
-BASEURL https://jkpl.ent.sirsi.net/
+CATTYPE vega
+BASEURL https://jaxpl.na4.iiivega.com/
 
 ID OCLC-FN4
 NAME Lake County Library System
@@ -4579,8 +4585,9 @@ ID OCLC-FLY
 NAME Pasco County Libraries
 LOCATION Pasco County
 STATE FL
-BASEURL http://pasco.bywatersolutions.com
-CATTYPE koha
+CATTYPE vufindsi
+BASEURL https://pasco.aspendiscovery.org/Union/Search
+FILTERS S
 
 # here temporarily (but suppressed in list) for back-compatibility (Feb 2017)
 # expecting Pinellas Co. users to shift over to OCLC-PI8
@@ -4649,6 +4656,14 @@ LOCATION Lakeland
 STATE FL
 BASEURL https://seu.on.worldcat.org/search?queryString
 CATTYPE worldcat-config
+
+ID OCLC-WL8
+NAME St. Johns County Public Library
+LOCATION St. Augustine and vicinity
+STATE FL
+CATTYPE vufindsi
+BASEURL https://sjcpls.aspendiscovery.org/Union/Search
+FILTERS S
 
 ID OCLC-FLR
 NAME St. Lucie County Library System
@@ -4724,18 +4739,16 @@ ID OCLC-FDB
 NAME Volusia County Public Library
 LOCATION Daytona Beach, Deltona, and vicinity
 STATE FL
-BASEURL https://catalog.volusialibrary.org/vcplvw
-CATTYPE vubislink
-AINDEX 1*authbibnew
-SINDEX 1*subjbibnew
-FILTERS NK
+CATTYPE ls2pac
+BASEURL https://vcplcatalog.volusialibrary.org/
+FILTERS SNK
 
 ID OCLC-FMF
 NAME West Florida Public Libraries
 LOCATION Pensacola and Escambia County
 STATE FL
-CATTYPE ls2pac
-BASEURL https://searchcatalog.mywfpl.com/
+BASEURL https://mywfpl.insigniails.com
+CATTYPE insigniapass
 FILTERS S
 
 ID OCLC-ALQ
