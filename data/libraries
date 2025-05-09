@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2025-04-30
-# Manual Sweep: resume with Belgium (but recheck Wiley in TX and Mulungushi)
+# Last updated 2025-05-09
+# Manual Sweep: resume with Bosnia (but recheck Wiley in TX and Mulungushi)
 
 ID OLBP
 NAME The Online Books Page
@@ -437,13 +437,13 @@ COUNTRY AT
 CATTYPE primo-justquery
 BASEURL https://usearch.univie.ac.at/primo-explore/search?institution=UWI&vid=UWI&search_scope=UWI_UBBestand&
 
+# This library now seems to have a custom catalog; sticking to keyword for now
 ID BIBREGBRUX
-NAME Biblioth&egrave;ques de la R&eacute;gion de Bruxelles Capitale
+NAME Biblioth&egrave;que Centrale pour la R&eacute;gion de Bruxelles Capitale
 LOCATION Brussels and vicinity
 COUNTRY BE
 BASEURL https://biblio.brussels
-CATTYPE iguana
-FILTERS NS
+KEYURL ${BASEURL}/recherche---catalogue?mt=${ARG:SNK}
 
 ID BRUSSELSEBIB
 NAME Brusselse Bibliotheken
@@ -513,24 +513,15 @@ ID UMONS
 NAME Universit&eacute; de Mons
 LOCATION Mons
 COUNTRY BE
-CATTYPE vubislink
-BASEURL https://biblio.umons.ac.be/webopac
-DBID 2
-KINDEX Uindex11
-SINDEX Uaindex13%24
-TINDEX Uindex04
-# author search doesn't seem to work well; setting to general keyword
-AINDEX Uindex11
-FILTERS SNK
+CATTYPE eds
+LCODE s9915539
 
 ID OCLC-BEUON
 NAME Universit&eacute; de Namur
 LOCATION Namur
 COUNTRY BE
-BASEURL https://opac.unamur.be/opac/unamur
-KEYURL ${BASEURL}/search/bibliographic/${ARG:SNK}
-AUTURL ${BASEURL}/search/bibliographic/tm_a:"${ARG:SNK}"
-TITURL ${BASEURL}/search/bibliographic/tm_t:"${ARG:SNK}"
+BASEURL https://ils.bib.uclouvain.be/unamur
+KEYURL ${BASEURL}/search/documents?q=${ARG:SNK}
 
 ID OCLC-BELDB
 NAME Universit&eacute; Libre de Bruxelles
@@ -10767,6 +10758,14 @@ STATE WI
 CATTYPE sirsient
 LCODE en_US/rivers
 BASEURL https://brown.ent.sirsi.net
+
+# Using ID of Door County main library since I can't find one for OWLSnet
+ID OCLC-WAK
+NAME InfoSoup
+LOCATION OWLSnet: Public libraries in northeast Wisconsin
+STATE WI
+CATTYPE bibliocommons
+BASEURL https://infosoup.bibliocommons.com
 
 ID OCLC-WIW
 NAME Marathon County Public Library
