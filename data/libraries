@@ -5,7 +5,7 @@
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
 # Last updated 2025-05-09
-# Manual Sweep: resume with Bosnia (but recheck Wiley in TX and Mulungushi)
+# Manual Sweep: resume with Canada (but recheck Wiley in TX and Mulungushi)
 
 ID OLBP
 NAME The Online Books Page
@@ -437,6 +437,13 @@ COUNTRY AT
 CATTYPE primo-justquery
 BASEURL https://usearch.univie.ac.at/primo-explore/search?institution=UWI&vid=UWI&search_scope=UWI_UBBestand&
 
+ID OCLC-BAISA
+NAME Isa Cultural Centre
+LOCATION Manama
+COUNTRY BH
+BASEURL https://icc.portal.medad.com/en
+CATTYPE medad
+
 # This library now seems to have a custom catalog; sticking to keyword for now
 ID BIBREGBRUX
 NAME Biblioth&egrave;que Centrale pour la R&eacute;gion de Bruxelles Capitale
@@ -567,8 +574,10 @@ ID OCLC-BOU
 NAME University of Botswana
 LOCATION Gaborone
 COUNTRY BW
-BASEURL http://medupe.ub.bw
-CATTYPE webpacpro
+BASEURL https://linyanti.ub.bw
+CATTYPE primo-ve
+VID 267UOB_INST:267UOB_INST
+SCOPE MyInst_and_CI
 FILTERS NK
 
 # subjects unlikely to align with LCSH, so use keyword search for subs
@@ -1703,6 +1712,13 @@ BASEURL http://library.uonbi.ac.ke
 CATTYPE iguana
 FILTERS NS
 
+ID OCLC-KUKNL
+NAME National Library of Kuwait
+LOCATION Kuwait City
+COUNTRY KW
+BASEURL https://nlk.portal.medad.com/en
+CATTYPE medad
+
 ID OCLC-NATLL
 NAME National Library of Latvia
 LOCATION Riga
@@ -2225,6 +2241,13 @@ COUNTRY UG
 BASEURL https://catalogue.umu.ac.ug
 CATTYPE koha
 FILTERS S
+
+ID OCLC-TSDPL
+NAME Dubai Public Library
+LOCATION Dubai
+COUNTRY AE
+BASEURL https://dpl.dubaiculture.gov.ae/en
+CATTYPE medad
 
 ID OCLC-U0A
 NAME Abertay University

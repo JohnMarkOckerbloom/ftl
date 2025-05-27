@@ -10,7 +10,7 @@
 #   are not included in this file.
 # Manual title and name-title correspondences have been moved to wikiworksmap.
 # See docs file for documentation
-# Last updated 2025-05-06
+# Last updated 2025-05-27
 # Did LCSH 2015-2022 update lists: 2023 monthly list 1-3, 4 (A-K only)
 1 Pendleton Place House (New York, N.Y.)|=|One Pendleton Place
 1009 Fifth Avenue House (New York, N.Y.)|=|Benjamin N. Duke House
@@ -185,7 +185,7 @@ Aberdeen-Angus cattle|=|Aberdeen Angus
 Aberfan (Wales)|=|Aberfan
 Aberfan Disaster, Aberfan, Wales, 1966|=|Aberfan disaster
 Abernethy Round Tower (Scotland)|=|Abernethy Round Tower
-Aberrant (Game)|=|Aberrant
+Aberrant (Game)|=|Aberrant (role-playing game)
 Abhimanyu (Hindu mythological character)|=|Abhimanyu
 Abidji (African people)|=|Abidji people
 Abiko-shi (Japan)|=|Abiko, Chiba
@@ -206,7 +206,7 @@ Aboriginal Australians -- Health and hygiene|<->|Indigenous health in Australia
 Aboriginal Australians -- History|=|History of Indigenous Australians
 Aboriginal Multi-Media Society of Alberta|<->|Aboriginal Multi-Media Society
 Abortifacients|=|Abortifacient
-Abortion -- Law and legislation|<->|Abortion law
+Abortion -- Law and legislation|<->|Abortion law by country
 Abortion -- Moral and ethical aspects|<->|Philosophical aspects of the abortion debate
 Abortion -- Religious aspects|<->|Religion and abortion
 Abortion -- Religious aspects -- Buddhism|<->|Buddhism and abortion
@@ -436,7 +436,7 @@ Admiral Seni&#xfe20;a&#xfe21;vin (Battleship)|<->|Russian coast defense ship Adm
 Admiral Ushakov (Battleship)|<->|Russian coast defense ship Admiral Ushakov
 Admirals|=|Admiral
 Admiralspalast (Berlin, Germany)|=|Admiralspalast
-Admiralty|=|Admiralty law
+Admiralty|->|Maritime law
 Admiralty Bay (Antarctica)|=|Admiralty Bay (South Shetland Islands)
 Admiralty Island (Alaska)|=|Admiralty Island
 Admiralty Island National Monument Wilderness (Alaska)|->|Kootznoowoo Wilderness
@@ -1619,7 +1619,7 @@ Anti-Masonic movements|<->|Anti-Masonry
 Anti-Nazi movement|->|German resistance to Nazism
 Anti-Nazi movement -- Germany|<->|German resistance to Nazism
 Anti-Sikh Riots, India, 1984|=|1984 anti-Sikh riots
-Anti-vaccination movement|->|Vaccine hesitancy
+Anti-vaccination movement|<->|Anti-vaccine activism
 Antiaircraft artillery|<->|Anti-aircraft warfare
 Antibacterial agents|->|Antibiotic
 Antietam, Battle of, Md., 1862|=|Battle of Antietam
@@ -2441,7 +2441,7 @@ Astypalaia (Greece : Municipality)|<->|Astypalaia
 Asu language|=|Pare language
 Asunci&oacute;n (Paraguay)|=|Asunción
 Asus Eee PC (Computers)|=|Asus Eee PC
-A&sacute;vatth&amacr;ma (Hindu mythological character)|=|Ashwatthama
+A&sacute;vatth&amacr;ma (Hindu mythological character)|=|Ashvatthama
 Aswan Dam (Egypt)|=|Aswan Low Dam
 Aswan High Dam (Egypt)|=|Aswan Dam
 Asylum, Right of|=|Right of asylum
@@ -5548,7 +5548,7 @@ Buxar (India)|=|Buxar
 Buxar, Battle of, Buxar, India, 1764|=|Battle of Buxar
 Buxton (Derbyshire, England)|=|Buxton
 B&uuml;y&uuml;k Island (&Idot;stanbul &Idot;li, Turkey)|=|Büyükada
-Buzan (Shingon sect)|<->|Shingon-shu Buzan-ha
+Buzan (Shingon sect)|<->|Shingon-shū Buzan-ha
 Buzzards Bay (Mass. : Bay)|=|Buzzards Bay
 Bwa (African people)|=|Bwa people
 Bwiti sect|<->|Bwiti
@@ -8997,7 +8997,7 @@ Corporate veil -- Great Britain|<->|Corporate veil in the United Kingdom
 Corporation law|=|Corporate law
 Corporation law -- European Union countries|<->|European organisational law
 Corporation law -- Germany|=|German company law
-Corporation law -- Great Britain|<->|United Kingdom company law
+Corporation law -- Great Britain|=|British company law
 Corporation law -- United States|=|United States corporate law
 Corporations|=|Corporation
 Corporations, Foreign|=|Foreign corporation
@@ -10133,7 +10133,7 @@ Delft (Netherlands)|=|Delft
 Delgosha Garden (Sh&imacr;r&amacr;z, Iran)|=|Delgosha Garden
 Delhi (India)|=|Delhi
 Delhi (India) -- History|=|History of Delhi
-Delhi (India) -- History -- Siege, 1857|=|Siege of Delhi
+Delhi (India) -- History -- Siege, 1857|=|Siege of Delhi (1857)
 Delia|=|Delia (fly)
 Delimitation of outer space|<->|Kármán line
 Delium, Battle of, Greece, 424 B.C.|=|Battle of Delium
@@ -10600,7 +10600,7 @@ Diplomatic and consular service, Nicaraguan|<->|List of diplomatic missions of N
 Diplomatic and consular service, Nigerian|<->|List of diplomatic missions of Nigeria
 Diplomatic and consular service, Norwegian|<->|List of diplomatic missions of Norway
 Diplomatic and consular service, Pakistani|<->|List of diplomatic missions of Pakistan
-Diplomatic and consular service, Palestinian|<->|List of diplomatic missions of the State of Palestine
+Diplomatic and consular service, Palestinian|<->|List of diplomatic missions of Palestine
 Diplomatic and consular service, Panamanian|<->|List of diplomatic missions of Panama
 Diplomatic and consular service, Paraguayan|<->|List of diplomatic missions of Paraguay
 Diplomatic and consular service, Peruvian|<->|List of diplomatic missions of Peru
@@ -18238,7 +18238,7 @@ Inventions|=|Invention
 Inventories|=|Inventory
 Inventors|<->|List of inventors
 Inveresk (Scotland)|=|Inveresk
-Invergordon Mutiny, 1931|=|Invergordon Mutiny
+Invergordon Mutiny, 1931|=|Invergordon mutiny
 Inverse Galois theory|<->|Inverse Galois problem
 Inversions (Geology)|<->|Inversion (geology)
 Invertebrates|=|Invertebrate
@@ -19110,7 +19110,7 @@ Jews -- Morocco -- History|<->|History of the Jews in Morocco
 Jews -- Music|<->|Jewish music
 Jews -- Netherlands|<->|History of the Jews in the Netherlands
 Jews -- Netherlands -- History|->|History of the Jews in the Netherlands
-Jews -- New York (State)|<->|History of the Jews in New York
+Jews -- New York (State)|<->|History of the Jews in New York (state)
 Jews -- New York (State) -- New York|<->|History of the Jews in New York City
 Jews -- Persecutions|=|Persecution of Jews
 Jews -- Poland -- History|<->|History of the Jews in Poland
@@ -19168,7 +19168,7 @@ Jiu-jitsu|=|Jujutsu
 Jiujiang (Jiangxi Sheng, China)|=|Jiujiang
 Jiuzhaigou Guojiaji Ziran Baohuqu (China)|<->|Jiuzhaigou
 Jivaran languages|=|Chicham languages
-Jju (African people)|=|Jju people
+Jju (African people)|=|Bajju people
 JN-4D (Training plane)|->|Curtiss JN Jenny
 Jo'iyah (South Asian people)|=|Johiya
 Joachim Creek (Mo.)|=|Joachim Creek
@@ -22429,7 +22429,7 @@ Main halls (Buddhist temples)|<-|Main Hall (Japanese Buddhism)
 Main Line (Pa.)|=|Philadelphia Main Line
 Main Plot, England, 1603|=|Main Plot
 Maine -- History -- Civil War, 1861-1865|=|Maine in the American Civil War
-Maine (Battleship)|=|USS Maine (1889)
+Maine (Battleship)|=|USS Maine (1890)
 Maine (Battleship No. 10)|=|USS Maine (BB-10)
 Maine coon cat|=|Maine Coon
 Maine, Gulf of|=|Gulf of Maine
@@ -22853,7 +22853,6 @@ Mario Party (Game)|<-|Mario Party (video game)
 Mario Tennis (Game)|<->|Mario Tennis
 Marion County Courthouse (Marion, Ohio)|=|Marion County Courthouse (Ohio)
 Mariovo (North Macedonia)|=|Mariovo
-Maritime law|->|Admiralty law
 Maritime Provinces|=|The Maritimes
 Maritsa River|=|Maritsa
 M&amacr;rjah (Afghanistan)|=|Marjah
@@ -26073,7 +26072,7 @@ Nigro family|<->|Nigro
 Nihoa Island (Hawaii)|=|Nihoa
 Niigata-ken (Japan)|=|Niigata Prefecture
 Niigata-shi (Japan)|=|Niigata (city)
-Niihau (Hawaii)|=|Niʻihau
+Niihau (Hawaii)|=|Niihau
 Nijinsky (Race horse)|=|Nijinsky (horse)
 Nikaj-M&euml;rtur (Albania)|<->|Nikaj
 Nike (Greek deity)|=|Nike (mythology)
@@ -27854,7 +27853,7 @@ Pakistan -- Politics and government|<->|Politics of Pakistan
 Pakistan -- Politics and government|<-|Government of Pakistan
 Pakistan Earthquake, 2005|=|2005 Kashmir earthquake
 Pakistan Earthquake, 2008|<->|2008 Ziarat earthquakes
-Pakistan Sign Language|<->|Indo-Pakistani Sign Language
+Pakistan Sign Language|<->|India–Pakistan Sign Language
 Pakistanis -- Great Britain|<->|British Pakistanis
 Pakke Tiger Reserve (India)|=|Pakke Tiger Reserve
 Pakos&lstrok;aw, Battle of, Pakos&lstrok;aw, Radom, Poland, 1915|=|Battle of Pakosław
@@ -28463,7 +28462,6 @@ Particle accelerators|=|Particle accelerator
 Particles|=|Particle
 Particles (Grammar)|=|Grammatical particle
 Particles, Relativistic|=|Relativistic particle
-Particulate matter|=|Particulates
 Partido Comunista de Espa&ntilde;a|=|Communist Party of Spain
 Partido Comunista del Per&uacute;|->|Communism in Peru
 Partido Guatemalteco del Trabajo|=|Guatemalan Party of Labour
@@ -33846,7 +33844,7 @@ Sexual exercises|<->|Sexercise
 Sexual fantasies|=|Sexual fantasy
 Sexual health|<->|Sexual and reproductive health
 Sexual instinct|<->|Libido
-Sexual minorities|<->|Sexual minority
+Sexual minorities|<->|Sexual and gender minorities
 Sexual minorities, M&amacr;ori|<->|Takatāpui
 Sexual minorities -- United States|<->|LGBTQ people in the United States
 Sexual minorities and sports|<->|Homosexuality in modern sports
@@ -35443,7 +35441,7 @@ Sri Lanka -- History -- Rebellion, 1818|<->|Great Rebellion of 1817–1818
 Sri Lanka -- History -- Rebellion, 1848|=|Matale rebellion
 Sri Lanka -- History -- Rebellion, 1971|<->|1971 JVP insurrection
 Sri Lanka -- Politics and government|<->|Politics of Sri Lanka
-Srirangapatna Fort (&Sacute;r&imacr;ra&#x1e45;gapa&#x1e6d;&#x1e6d;a&#x1e47;a, India)|=|Srirangapatna Fort
+Srirangapatna Fort (&Sacute;r&imacr;ra&#x1e45;gapa&#x1e6d;&#x1e6d;a&#x1e47;a, India)|=|Tipu Sultan Fort
 &Sacute;r&imacr;ra&#x1e45;gapa&#x1e6d;&#x1e6d;a&#x1e47;a (India)|=|Srirangapatna
 SS433 (Astronomy)|=|SS 433
 St. Albans Abbey|->|St Albans Cathedral
@@ -37521,7 +37519,7 @@ Tityus (Greek mythology)|=|Tityos
 Tiv (African people)|=|Tiv people
 Tivedens Nationalpark (Sweden)|=|Tiveden National Park
 TivoliVredenburg (Utrecht, Netherlands)|=|TivoliVredenburg
-Tiwa Indians|=|Tiwa Puebloans
+Tiwa Indians|=|Tiwa Pueblo peoples
 Tiwa language (Tanoan)|<->|Tiwa languages
 Tiwa language (Tibeto-Burman)|=|Tiwa language (India)
 Tiwi (Australian people)|=|Tiwi people
@@ -38649,7 +38647,7 @@ Umbeluzi River (Eswatini and Mozambique)|=|Mbuluzi River
 Umbrella Movement, China, 2014|=|Umbrella Movement
 Umbrellas|=|Umbrella
 Umbria (Italy)|=|Umbria
-Umbria-Marche Earthquakes, Italy, 1997|<->|1997 Umbria and Marche earthquake
+Umbria-Marche Earthquakes, Italy, 1997|=|1997 Umbria and Marche earthquakes
 Umbu-Ungu language|->|Kaugel language
 UML (Computer science)|=|Unified Modeling Language
 Ummah (Islam)|<->|Ummah

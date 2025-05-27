@@ -437,6 +437,10 @@ AUTURL ${BASEURL}?config=${CONFIG}&section=search&term=author:${ARG:SNK}
 TITURL ${BASEURL}?config=${CONFIG}&section=search&term=title:${ARG:NK}
 KEYURL ${BASEURL}?config=${CONFIG}&section=search&term=${ARG:NK}
 
+# seems to be used in some Middle East libraries
+CATTYPE medad
+AUTURL ${BASEURL}/search-results?is_advanced=true&adv_fields[0]=author&adv_op[0]=eq&adv_search[0]=${ARG:SNK}
+KEYURL ${BASEURL}/search-results?term=${ARG:SNK}
 
 # Olib from OCLC UK - we only know how to do a keyword search on it so far
 CATTYPE olib
