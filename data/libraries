@@ -1898,8 +1898,8 @@ ID OCLC-AUQ
 NAME Sultan Qaboos University
 LOCATION Muscat
 COUNTRY OM
-BASEURL https://squ.on.worldcat.org/search?queryString
-CATTYPE worldcat-config
+BASEURL https://squ.on.worldcat.org
+CATTYPE worldcat2
 
 ID SARGODHA
 NAME University of Sargodha, Wazir Agha Library
@@ -2941,8 +2941,8 @@ ID OCLC-AMU
 NAME Alabama State University
 LOCATION Montgomery
 STATE AL
-BASEURL https://alasu.on.worldcat.org/search?queryString
-CATTYPE worldcat-config
+BASEURL https://alasu.on.worldcat.org
+CATTYPE worldcat2
 
 ID OCLC-AUBRN
 NAME Auburn Public Library
