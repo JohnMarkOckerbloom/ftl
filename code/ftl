@@ -2,7 +2,7 @@
 
 # Main FTL (Forward to Libraries) CGI script
 # By John Mark Ockerbloom, University of Pennsylvania (everybodyslibraries.com)
-# Version as of 22 Aug 2014 (updated 1 Aug 2018 for https)
+# Version as of 22 Aug 2014 (updated 28 May 2025 for country code)
 #
 # Main FTL service currently runs at
 #   https://onlinebooks.library.upenn.edu/webbin/ftl
@@ -109,6 +109,7 @@ sub init_countries {
     $countries->{uc($code)} = code2country($code);
   }
   $countries->{"00"} = " Global library services";
+  $countries->{"IR"} = "Iran";
   $countries->{"TW"} = "Taiwan";
   $countries->{"TZ"} = "Tanzania";
   $countries->{"UK"} = "United Kingdom";

@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2025-05-09
-# Manual Sweep: resume with Canada (but recheck Wiley in TX and Mulungushi)
+# Last updated 2025-05-28
+# Manual Sweep: resume with Alberta (First Nations IC catalogs now separate)
 
 ID OLBP
 NAME The Online Books Page
@@ -1647,6 +1647,13 @@ BASEURL http://vlib.uok.edu.in:8080
 CATTYPE chamo
 FILTERS S
 
+# No OCLC code; don't know ISIL code, so going with generic acronym
+ID NLAI
+NAME National Library and Archives of Iran
+LOCATION Tehran; English searches may give limited results
+COUNTRY IR
+KEYURL https://opac.nlai.ir/opac-prod/search/bibliographicSimpleSearchProcess.do?&command=I&simpleSearch.tokenized=true&classType=0&pageStatus=0&bibliographicLimitQueryBuilder.useDateRange=null&simpleSearch.value=${ARG:SNK}
+
 ID OCLC-J9U
 NAME National Library of Israel
 LOCATION Jerusalem
@@ -1679,6 +1686,16 @@ KEYURL ${BASEURL}/opacsbn/opaclib?saveparams=true&db=solr_iccu&select_db=solr_ic
 # AUTURL ${BASEURL}/search/dl_cineca_solr/advanced?query=q=author:${ARG}
 # KEYURL ${BASEURL}/search/dl_cineca_solr/advanced?query=q=descMetadata.keyword=${ARG}
 # DEFAULT DOMAIN
+
+# Custom catalog?  Probably best for subjects to use general keyword search
+ID OCLC-NHN
+NAME National Diet Library
+LOCATION Tokyo
+COUNTRY JP
+BASEURL https://ndlsearch.ndl.go.jp/en/search?cs=bib&display=panel&f-ht=nd&f-ht=ndl
+AUTURL ${BASEURL}&q-author=${ARG:SNK}
+TITURL ${BASEURL}&q-title=${ARG:SNK}
+KEYURL ${BASEURL}&keyword=${ARG:SNK}
 
 ID OCLC-KEJKU
 NAME Kenyatta University
@@ -1876,6 +1893,13 @@ CATTYPE primodl-loc
 BASEURL http://bibsys-almaprimo.hosted.exlibrisgroup.com
 VID BIBSYS
 LOC adaptor,scope:(BIBSYS_ILS),scope:(SC_OPEN_ACCESS),scope:("BIBSYS"),primo_central_multiple_fe
+
+ID OCLC-AUQ
+NAME Sultan Qaboos University
+LOCATION Muscat
+COUNTRY OM
+BASEURL https://squ.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
 
 ID SARGODHA
 NAME University of Sargodha, Wazir Agha Library
