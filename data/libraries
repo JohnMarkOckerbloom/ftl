@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2025-05-28
-# Manual Sweep: resume with Alberta (First Nations IC catalogs now separate)
+# Last updated 2025-05-29
+# Manual Sweep: resume with Grande Prairie in Alberta
 
 ID OLBP
 NAME The Online Books Page
@@ -437,6 +437,14 @@ COUNTRY AT
 CATTYPE primo-justquery
 BASEURL https://usearch.univie.ac.at/primo-explore/search?institution=UWI&vid=UWI&search_scope=UWI_UBBestand&
 
+# No code found yet for this
+ID AZERBAIJAN
+NAME Azerbaijan National Library
+LOCATION Baku; English searches may give limited results
+COUNTRY AZ
+CATTYPE chamo
+BASEURL https://ek.anl.az
+
 ID OCLC-BAISA
 NAME Isa Cultural Centre
 LOCATION Manama
@@ -611,14 +619,6 @@ PROVINCE AB
 CATTYPE bibliocommons
 BASEURL https://epl.bibliocommons.com
 
-ID FIRSTNATIONS 
-NAME First Nations Information Connection
-LOCATION First Nations library consortium based in Edmonton
-PROVINCE AB
-CATTYPE sirsient
-LCODE en_US/fnic
-BASEURL http://lois.ent.sirsidynix.net
-
 ID OCLC-CNFSP
 NAME Fort Saskatchewan Public Library
 LOCATION Fort Saskatchewan
@@ -640,6 +640,13 @@ PROVINCE AB
 CATTYPE bibliocommons
 BASEURL https://lethlib.bibliocommons.com
 
+ID OCLC-CAMKC
+NAME Maskwacis Cultural College
+LOCATION Samson Cree Nation
+PROVINCE AB
+BASEURL https://maskwacis-fnic.bywatersolutions.com
+CATTYPE koha
+
 ID CA-AMP
 NAME Medicine Hat Public Library
 LOCATION Medicine Hat
@@ -647,12 +654,26 @@ PROVINCE AB
 CATTYPE bibliocommons
 BASEURL https://mhpl.bibliocommons.com
 
+ID OCLC-CAOSC
+NAME Old Sun Community College
+LOCATION Siksika
+PROVINCE AB
+BASEURL https://oldsun-fnic.bywatersolutions.com
+CATTYPE koha
+
 ID OCLC-CNPAR
 NAME Parkland Regional Library
 LOCATION Public library consortium south of Edmonton
 PROVINCE AB
 BASEURL https://search.prl.ab.ca/polaris
 CATTYPE polaris
+
+ID OCLC-CNRCC
+NAME Red Crow College
+LOCATION Stand Off
+PROVINCE AB
+BASEURL https://redcrow-fnic.bywatersolutions.com
+CATTYPE koha
 
 ID OCLC-1AV
 NAME Red Deer Public Library
@@ -667,6 +688,13 @@ LOCATION Public libraries in northern and rural central Alberta
 PROVINCE AB
 BASEURL http://catalogue.tracpac.ab.ca/polaris
 CATTYPE polaris
+
+ID OCLC-CABQU
+NAME University Nuhelot'&iogon;ne Thaiyots'&iogon; Nistameyim&acirc;kanak Blue Quills
+LOCATION St. Paul
+PROVINCE AB
+BASEURL https://bluequills-fnic.bywatersolutions.com
+CATTYPE koha
 
 ID OCLC-UAB
 NAME University of Alberta
@@ -696,6 +724,13 @@ PROVINCE AB
 CATTYPE sirsient
 LCODE en_US/default
 BASEURL https://fmca.ent.sirsidynix.net
+
+ID OCLC-CNYTC
+NAME Yellowhead Tribal College
+LOCATION Edmonton
+PROVINCE AB
+BASEURL https://ytced-fnic.bywatersolutions.com
+CATTYPE koha
 
 ID OCLC-BURPL
 NAME Burnaby Public Library
@@ -2213,6 +2248,14 @@ CATTYPE primodl
 BASEURL http://uwin-primo.hosted.exlibrisgroup.com
 VID STA
 
+# Catalog may be the same SW as the one used in Royal Library of Belgium
+ID OCLC-TUNIS
+NAME Biblioth&egrave;que Nationale de Tunisie
+LOCATION Tunis; English searches may give limited results
+COUNTRY TN
+BASEURL https://www.bibliotheque.nat.tn/CATG/search.aspx
+KEYURL ${BASEURL}?SC=Catalogue+G%C3%A9n%C3%A9ral+partout&QUERY=${ARG:SNK}
+
 ID OCLC-B9K
 NAME Bilkent University Library
 LOCATION Ankara
@@ -2986,7 +3029,6 @@ ID OCLC-HL2
 NAME Dothan Houston County Library System
 LOCATION Dothan and vicinity
 STATE AL
-CATTYPE sirsient
 BASEURL https://dhcls.bywatersolutions.com
 CATTYPE koha
 
