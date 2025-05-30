@@ -5,7 +5,7 @@
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
 # Last updated 2025-05-29
-# Manual Sweep: resume with Grande Prairie in Alberta
+# Manual Sweep: resume with British Columbia
 
 ID OLBP
 NAME The Online Books Page
@@ -444,6 +444,7 @@ LOCATION Baku; English searches may give limited results
 COUNTRY AZ
 CATTYPE chamo
 BASEURL https://ek.anl.az
+FILTERS SNK
 
 ID OCLC-BAISA
 NAME Isa Cultural Centre
@@ -626,13 +627,6 @@ PROVINCE AB
 CATTYPE bibliocommons
 BASEURL https://fspl.bibliocommons.com
 
-ID OCLC-GPRCL
-NAME Grande Prairie Regional College
-LOCATION Grande Prairie and other northwestern Alberta campuses
-PROVINCE AB
-CATTYPE eds
-LCODE s8416556
-
 ID OCLC-CNLET
 NAME Lethbridge Public Library
 LOCATION Lethbridge
@@ -654,6 +648,13 @@ PROVINCE AB
 CATTYPE bibliocommons
 BASEURL https://mhpl.bibliocommons.com
 
+ID OCLC-GPRCL
+NAME Northwestern Polytechnic
+LOCATION Grande Prairie and other northwestern Alberta campuses
+PROVINCE AB
+CATTYPE eds
+LCODE s8416556
+
 ID OCLC-CAOSC
 NAME Old Sun Community College
 LOCATION Siksika
@@ -662,7 +663,7 @@ BASEURL https://oldsun-fnic.bywatersolutions.com
 CATTYPE koha
 
 ID OCLC-CNPAR
-NAME Parkland Regional Library
+NAME Parkland Regional Library System
 LOCATION Public library consortium south of Edmonton
 PROVINCE AB
 BASEURL https://search.prl.ab.ca/polaris
@@ -721,9 +722,8 @@ ID OCLC-CN5O8
 NAME Wood Buffalo Regional Library
 LOCATION Fort McMurray
 PROVINCE AB
-CATTYPE sirsient
-LCODE en_US/default
-BASEURL https://fmca.ent.sirsidynix.net
+CATTYPE bibliocommons
+BASEURL https://wbrl.bibliocommons.com
 
 ID OCLC-CNYTC
 NAME Yellowhead Tribal College
@@ -2308,6 +2308,13 @@ COUNTRY UG
 BASEURL https://catalogue.umu.ac.ug
 CATTYPE koha
 FILTERS S
+
+# Cannot find an ISIL or OCLC code; sticking to basic kw search for now
+ID MUDRYI
+NAME Yaroslav Mudryi National Library of Ukraine
+LOCATION Kyiv; English searches may give limited results
+COUNTRY UA
+KEYURL http://catalogue.nlu.org.ua/?arg0=${ARG:SNK}
 
 ID OCLC-TSDPL
 NAME Dubai Public Library
@@ -8256,6 +8263,14 @@ LOCATION Delaware, Ostrander, and Powell
 STATE OH
 CATTYPE bibliocommons
 BASEURL https://delawarelibrary.bibliocommons.com
+
+ID OCLC-OFA
+NAME Fairfield County District Library
+LOCATION Lancaster and vicinity
+STATE OH
+BASEURL https://catalog.clcohio.org/polaris
+CATTYPE polaris-context
+CONTEXT 27.1033.0.0.12
 
 # Kent State has EDS, but it doesn't work right off-campus (no custid seen)
 # so we'll drop back to KentLink, their catalog

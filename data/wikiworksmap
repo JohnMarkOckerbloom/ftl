@@ -6,10 +6,10 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation
-# Last updated 2025-05-27
+# Last updated 2025-05-30
 # TV program sweep picks up from A
 # Resume native treaty sweep from L (https://en.wikipedia.org/wiki/Category:United_States_and_Native_American_treaties; search treaty + year in LCAuthorities)
-# Resume wbookfile ...TSUB sweep with author Collins
+# Resume wbookfile ...TSUB sweep with author Conrad
 10 items or less (Television program)|=|10 Items or Less (TV series)
 10 things I hate about you (Motion picture)|=|10 Things I Hate About You
 10 things I hate about you (Television program)|=|10 Things I Hate About You (TV series)
@@ -1740,6 +1740,10 @@ Bunker Palace Hotel (Motion picture)|=|Bunker Palace Hôtel
 Bunny Lake is missing (Motion picture)|=|Bunny Lake Is Missing
 Burden of dreams (Motion picture)|=|Burden of Dreams
 Buried alive (Motion picture : 2007)|=|Buried Alive (2007 film)
+Burke, Edmund, 1729-1797. Philosophical enquiry into the origin of our ideas of the sublime and beautiful|=|A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful
+Burke, Edmund, 1729-1797. Reflections on the revolution in France|=|Reflections on the Revolution in France
+Burke, Edmund, 1729-1797. Thoughts on the cause of the present discontents|=|Thoughts on the Cause of the Present Discontents
+Burke, Edmund, 1729-1797. Thoughts on the prospect of a regicide peace|<->|Letters on a Regicide Peace
 Burn after reading (Motion picture)|=|Burn After Reading
 Burning plain (Motion picture)|=|The Burning Plain
 Burroughs, Edgar Rice, 1875-1950. Beasts of Tarzan|=|The Beasts of Tarzan
@@ -2969,6 +2973,7 @@ Educating Rita (Motion picture)|=|Educating Rita (film)
 Education (Motion picture)|=|An Education
 Edvard Munch (Motion picture)|=|Edvard Munch (film)
 Edward II (Motion picture)|=|Edward II (film)
+Edward III (Drama)|=|Edward III (play)
 Edward Scissorhands (Motion picture)|=|Edward Scissorhands
 Egg and I (Motion picture)|=|The Egg and I (film)
 Egyptian (Motion picture)|=|The Egyptian (film)
@@ -3264,6 +3269,24 @@ Flash Gordon's trip to Mars (Motion picture)|=|Flash Gordon's Trip to Mars
 Flashdance (Motion picture)|=|Flashdance
 Flask (Software framework)|=|Flask (web framework)
 Fletch (Motion picture)|=|Fletch (film)
+Fletcher, John, 1579-1625. Beggars bush|=|Beggars' Bush
+Fletcher, John, 1579-1625. Bloody brother|=|Rollo Duke of Normandy
+Fletcher, John, 1579-1625. Bonduca|=|Bonduca
+Fletcher, John, 1579-1625. Custom of the country|=|The Custom of the Country (play)
+Fletcher, John, 1579-1625. Elder brother|=|The Elder Brother
+Fletcher, John, 1579-1625. Faithful shepherdess|=|The Faithful Shepherdess
+Fletcher, John, 1579-1625. Humorous lieutenant|=|The Humorous Lieutenant
+Fletcher, John, 1579-1625. Island princess|=|The Island Princess
+Fletcher, John, 1579-1625. Monsieur Thomas|=|Monsieur Thomas
+Fletcher, John, 1579-1625. Pilgrim|=|The Pilgrim (play)
+Fletcher, John, 1579-1625. Prophetess|=|The Prophetess (play)
+Fletcher, John, 1579-1625. Sea voyage|=|The Sea Voyage
+Fletcher, John, 1579-1625. Spanish curate|=|The Spanish Curate
+Fletcher, John, 1579-1625. Tragedy of Sir John van Olden Barnavelt|=|John van Olden Barnavelt
+Fletcher, John, 1579-1625. Two noble kinsmen|=|The Two Noble Kinsmen
+Fletcher, John, 1579-1625. Valentinian|=|Valentinian (play)
+Fletcher, John, 1579-1625. Wild-goose chase|=|The Wild Goose Chase
+Fletcher, John, 1579-1625. Woman's prize|=|The Woman's Prize
 Flicka (Motion picture)|=|Flicka
 Flickr (Electronic resource)|=|Flickr
 Flight of the Phoenix (Motion picture : 2004)|=|Flight of the Phoenix (2004 film)
@@ -4139,6 +4162,7 @@ Microsoft Visual J# .NET|<->|Visual J Sharp
 Microsoft Visual J++|=|Visual J++
 Microsoft Windows (Computer file)|=|Microsoft Windows
 Middle of nowhere (Motion picture : 2012)|=|Middle of Nowhere (2012 film)
+Midrash rabbah|=|Midrash Rabba
 Mill, John Stuart, 1806-1873. Considerations on representative government|=|Considerations on Representative Government
 Mill, John Stuart, 1806-1873. On liberty|=|On Liberty
 Mill, John Stuart, 1806-1873. Principles of political economy|=|Principles of Political Economy
@@ -4891,16 +4915,18 @@ Tacitus, Cornelius. Annales|=|Annals (Tacitus)
 Tacitus, Cornelius. Dialogus de oratoribus|=|Dialogus de oratoribus
 Tacitus, Cornelius. Germania|=|Germania (book)
 Tacitus, Cornelius. Historiae|=|Histories (Tacitus)
-# TODO: Survey Talmud... entries to include ones not found in Mishah sweep
 Talmud. Arakhin|<->|Arakhin
 Talmud. Avodah zarah|<->|Avodah Zarah
 Talmud. Bava batra|<->|Bava Batra
 Talmud. Bava kamma|<->|Bava Kamma
 Talmud. Bava me&#x1e93;ia|<->|Bava Metzia
-Talmud. Berahkot|<->|Berakhot (tractate)
 Talmud. Be&#x1e93;ah|<->|Beitza
+Talmud. Bekhorot|<->|Bekhorot
+Talmud. Berakhot|<->|Berakhot (tractate)
 Talmud. Eruvin|<->|Eruvin (Talmud)
+Talmud. Gittin|<->|Gittin
 Talmud. &#x1e24;agigah|<->|Hagigah
+Talmud. Horayot|<->|Horayot
 Talmud. &#x1e24;ullin|->|Hullin
 Talmud. Keritot|<->|Keritot
 Talmud. Ketubbot|<->|Ketubot (tractate)
@@ -4910,34 +4936,77 @@ Talmud. Makkot|<->|Makkot
 Talmud. Megillah|<->|Megillah (Talmud)
 Talmud. Me'ilah|<->|Me'ilah
 Talmud. Mena&#x1e25;ot|<->|Menachot
+Talmud. Minor tractates|<->|Minor tractate
+Talmud. Minor tractates. Avot de-Rabbi Nathan|=|Avot de-Rabbi Natan
+Talmud. Minor tractates. Derekh ere&#x1e93;. Derekh ere&#x1e93; rabbah|=|Derekh Eretz Rabbah
+Talmud. Minor tractates. Derekh ere&#x1e93;. Derekh ere&#x1e93; zu&#x1e6d;a|=|Derekh Eretz Zutta
+Talmud. Minor tractates. Sema&#x1e25;ot|=|Evel Rabbati
+Talmud. Minor tractates. Soferim|=|Soferim (Talmud)
 Talmud. Mo'ed|<->|Moed
 Talmud. Mo'ed katan|<->|Mo'ed Katan
 Talmud. Nashim|<->|Nashim
+Talmud. Nazir|<->|Nazir (Talmud)
+Talmud. Nedarim|<->|Nedarim (Talmud)
 Talmud. Nezikin|<->|Nezikin
+Talmud. Niddah|<->|Niddah (Talmud)
 Talmud. Pesa&#x1e25;im|<->|Pesachim
 Talmud. Rosh ha-shanah|<->|Rosh Hashanah (tractate)
 Talmud. Sanhedrin|<->|Sanhedrin (tractate)
+Talmud (Schottenstein edition)|<->|Schottenstein Edition of the Babylonian Talmud
 Talmud. Shabbat|<->|Shabbat (Talmud)
 Talmud. Shevu'ot|<->|Shevu'ot
 Talmud. Sotah|<->|Sotah (Talmud)
 Talmud. Sukkah|<->|Sukkah (Talmud)
 Talmud. Ta'anit|<->|Ta'anit (Talmud)
 Talmud. Tamid|<->|Tamid
+Talmud. Temurah|<->|Temurah (Talmud)
 Talmud. Yevamot|<->|Yevamot
 Talmud. Yoma|<->|Yoma
 Talmud. Zera'im|<->|Zeraim
 Talmud. Zeva&#x1e25;im|<->|Zevachim
+Talmud Yerushalmi|=|Jerusalem Talmud
+Talmud Yerushalmi. Avodah zarah|->|Avodah Zarah
+Talmud Yerushalmi. Bava batra|->|Bava Batra
+Talmud Yerushalmi. Bava kamma|->|Bava Kamma
+Talmud Yerushalmi. Bava me&#x1e93;ia|->|Bava Metzia
+Talmud Yerushalmi. Berahkot|->|Berakhot (tractate)
+Talmud Yerushalmi. Be&#x1e93;ah|->|Beitza
 Talmud Yerushalmi. Bikkurim|->|Bikkurim (tractate)
 Talmud Yerushalmi. Demai|->|Demai (tractate)
+Talmud Yerushalmi. Eruvin|->|Eruvin (Talmud)
+Talmud Yerushalmi. Gittin|->|Gittin
+Talmud Yerushalmi. &#x1e24;agigah|->|Hagigah
 Talmud Yerushalmi. &#x1e24;allah|->|Challah (tractate)
+Talmud Yerushalmi. Ketubbot|->|Ketubot (tractate)
+Talmud Yerushalmi. Kiddushin|->|Kiddushin (Talmud)
 Talmud Yerushalmi. Kilayim|->|Kil'ayim (tractate)
+Talmud Yerushalmi. Horayot|->|Horayot
 Talmud Yerushalmi. Ma'aser sheni|->|Ma'aser Sheni
 Talmud Yerushalmi. Ma'aserot|<->|Ma'aserot
+Talmud Yerushalmi. Megillah|->|Megillah (Talmud)
+Talmud Yerushalmi. Mo'ed|->|Moed
+Talmud Yerushalmi. Mo'ed katan|->|Mo'ed Katan
+Talmud Yerushalmi. Nashim|->|Nashim
+Talmud Yerushalmi. Nazir|->|Nazir (Talmud)
+Talmud Yerushalmi. Nedarim|->|Nedarim (Talmud)
+Talmud Yerushalmi. Nezikin|->|Nezikin
+Talmud Yerushalmi. Niddah|->|Niddah (Talmud)
 Talmud Yerushalmi. Orlah|->|Orlah (tractate)
 Talmud Yerushalmi. Pe'ah|->|Pe'ah
+Talmud Yerushalmi. Pesa&#x1e25;im|->|Pesachim
+Talmud Yerushalmi. Rosh ha-shanah|->|Rosh Hashanah (tractate)
+Talmud Yerushalmi. Sanhedrin|->|Sanhedrin (tractate)
+Talmud Yerushalmi. Shabbat|->|Shabbat (Talmud)
 Talmud Yerushalmi. Shekalim|->|Shekalim (Tractate)
 Talmud Yerushalmi. Shevi'it|->|Shevi'it (tractate)
+Talmud Yerushalmi. Shevu'ot|->|Shevu'ot
+Talmud Yerushalmi. Sotah|->|Sotah (Talmud)
+Talmud Yerushalmi. Sukkah|->|Sukkah (Talmud)
+Talmud Yerushalmi. Ta'anit|->|Ta'anit (Talmud)
 Talmud Yerushalmi. Terumot|->|Terumot
+Talmud Yerushalmi. Yevamot|->|Yevamot
+Talmud Yerushalmi. Yoma|->|Yoma
+Talmud Yerushalmi. Zera'im|->|Zeraim
 Tanjur|=|Tengyur
 Tartu, Treaty of, 1920 (Finland)|<->|Treaty of Tartu (Finland–Russia)
 Tasso, Torquato, 1544-1595. Aminta|=|Aminta
