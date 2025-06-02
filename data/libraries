@@ -3402,15 +3402,19 @@ ID OCLC-CFS
 NAME California State University, Fresno (Fresno State)
 LOCATION Fresno
 STATE CA
-BASEURL https://xerxes.calstate.edu/fresno/books
-CATTYPE xerxes
+CATTYPE primo-ve
+BASEURL https://csu-fresnostate.primo.exlibrisgroup.com
+VID 01CALS_UFR:M
+SCOPE MyInst_and_CI
 
 ID OCLC-CNO
 NAME California State University, Northridge (CSUN)
 LOCATION Northridge
 STATE CA
-BASEURL http://library.calstate.edu/northridge/articles
-CATTYPE xerxes
+CATTYPE primo-ve
+BASEURL https://csu-un.primo.exlibrisgroup.com
+VID 01CALS_UNO:01CALS_UNO
+SCOPE MyInst_and_CI
 FILTERS S
 
 ID OCLC-CSA
@@ -3505,8 +3509,10 @@ ID OCLC-CGN
 NAME Glendale Community College
 LOCATION Glendale
 STATE CA
-CATTYPE voyager-vwebv
-BASEURL http://genesis.glendale.edu/vwebv/search
+CATTYPE primo-ve
+BASEURL https://caccl-glendale.primo.exlibrisgroup.com
+VID 01CACCL_GLENDALE:GLENDALE
+SCOPE MyInst_and_CI
 
 ID OCLC-CGW
 NAME Golden West College
@@ -3523,14 +3529,6 @@ LOCATION Hayward
 STATE CA
 CATTYPE bibliocommons
 BASEURL https://hayward.bibliocommons.com
-
-ID OCLC-HN-SHARP
-WCRID 283
-NAME Holy Names University
-LOCATION Oakland
-STATE CA
-BASEURL https://hnulibrary.on.worldcat.org/external-search?queryString
-CATTYPE worldcat-config
 
 ID OCLC-EHU
 NAME Humboldt County Public Library
@@ -3581,8 +3579,8 @@ ID OCLC-CLB
 NAME Long Beach Public Library
 LOCATION Long Beach
 STATE CA
-BASEURL http://encore.lbpl.org/iii/encore
-CATTYPE encore
+CATTYPE vega
+BASEURL https://longbeach.na5.iiivega.com/
 FILTERS S
 
 ID OCLC-1LP
@@ -3597,8 +3595,10 @@ ID OCLC-LML
 NAME Loyola Marymount University
 LOCATION Los Angeles
 STATE CA
-CATTYPE eds
-LCODE loyola
+CATTYPE primo-ve
+BASEURL https://lmu.primo.exlibrisgroup.com
+VID 01LMU_INST:Hannon
+SCOPE Main_CDI
 
 # record duplicated for Sausalito
 ID OCLC-MARIN
@@ -3905,6 +3905,14 @@ CATTYPE sirsient
 LCODE en_US/default
 BASEURL https://stan.ent.sirsi.net
 
+ID OCLC-CSP
+NAME Stockton-San Joaquin County Public Library
+LOCATION Stockton and vicinity
+STATE CA
+CATTYPE sirsient
+LCODE en_US/ssjcpl
+BASEURL https://stks.ent.sirsi.net
+
 ID OCLC-SXP
 NAME Sunnyvale Public Library
 LOCATION Sunnyvale
@@ -3988,8 +3996,8 @@ ID OCLC-CRU
 NAME University of California Riverside
 LOCATION Riverside
 STATE CA
-BASEURL https://library.ucr.edu/onesearch
-KEYURL ${BASEURL}/${ARG}
+BASEURL https://library.ucr.edu/one_search
+KEYURL ${BASEURL}?q=${ARG}
 
 ID OCLC-CUT
 NAME University of California Santa Barbara
@@ -4013,8 +4021,10 @@ ID OCLC-CDU
 NAME University of San Diego
 LOCATION San Diego
 STATE CA
-BASEURL https://sallypro.sandiego.edu/iii/encore
-CATTYPE encore
+CATTYPE primo-ve
+BASEURL https://sandiego.primo.exlibrisgroup.com
+VID 01UOSD_INST:COPLEY
+SCOPE MyInst_and_CI
 FILTERS SNK
 
 ID OCLC-UOP
