@@ -10,7 +10,7 @@
 #   are not included in this file.
 # Manual title and name-title correspondences have been moved to wikiworksmap.
 # See docs file for documentation
-# Last updated 2025-05-30
+# Last updated 2025-06-03
 # Did LCSH 2015-2022 update lists: 2023 monthly list 1-3, 4 (A-K only)
 1 Pendleton Place House (New York, N.Y.)|=|One Pendleton Place
 1009 Fifth Avenue House (New York, N.Y.)|=|Benjamin N. Duke House
@@ -825,7 +825,7 @@ Ak&#x1e63;obhya (Buddhist deity)|=|Akshobhya
 Aktion T4 (Germany)|=|Aktion T4
 Akutan Island (Alaska)|=|Akutan Island
 Akutan Peak (Alaska)|=|Mount Akutan
-Akyem (African people)|=|Akyem
+Akyem (African people)|<->|Akyem Kingdoms
 Al-Aqsa Intifada, 2000-|<->|Second Intifada
 Al-Kibar Nuclear Reactor Bombing, Syria, 2007|=|Operation Outside the Box
 Al K&umacr;t (Iraq)|=|Kut
@@ -8339,7 +8339,7 @@ Coney Island (Sligo, Ireland)|=|Coney Island, County Sligo
 Confederate States of America. Army|=|Confederate States Army
 Confederate States of America. Army. Arkansas Infantry Regiment, 15th|<->|15th Arkansas Infantry
 Confederate States of America. Army. Arkansas Infantry Regiment, 16th|=|16th Arkansas Infantry Regiment
-Confederate States of America. Army. Arkansas Infantry Regiment, 3rd|=|3rd Arkansas Infantry Regiment (Confederate States)
+Confederate States of America. Army. Arkansas Infantry Regiment, 3rd|=|3rd Arkansas Infantry Regiment (Confederate)
 Confederate States of America. Army. Kentucky Brigade, 1st|=|Orphan Brigade
 Confederate States of America -- Foreign relations|->|Diplomacy of the American Civil War
 Confederate States of America. Marine Corps|=|Confederate States Marine Corps
@@ -10201,7 +10201,7 @@ Denison, Cape (Antarctica)|=|Cape Denison
 Denkmal f&uuml;r die ermordeten Juden Europas (Berlin, Germany)|=|Memorial to the Murdered Jews of Europe
 Denkmal f&uuml;r die Verfolgten der NS-Milit&auml;rjustiz (Vienna, Austria)|=|Memorial for the Victims of Nazi Military Justice
 Denkmal f&uuml;r Freiheit und Einheit (Berlin, Germany)|=|Monument to Freedom and Unity
-Denkyira (Kingdom)|=|Denkyira
+Denkyira (Kingdom)|=|Kingdom of Denkyira
 Denman (Race horse)|=|Denman (horse)
 Denman Glacier (Antarctica)|=|Denman Glacier
 Denman Island (B.C. : Island)|=|Denman Island
@@ -14865,7 +14865,7 @@ Goa, Daman and Diu (India) -- Annexation to India|<->|Annexation of Goa
 Goajiro Indians|=|Wayuu people
 Goajiro language|=|Wayuu language
 Goat Rocks (Yakima County, Wash.)|<->|Goat Rocks
-Gobiidae|=|Goby
+Gobiidae|<-|Gobioidei
 Goblins|=|Goblin
 Goch (Germany)|=|Goch
 God -- Buddhist interpretations|<->|Creator in Buddhism
@@ -15458,7 +15458,7 @@ Greek language, Hellenistic (300 B.C.-600 A.D.) -- Grammar|<->|Koine Greek gramm
 Greek language, Modern|=|Modern Greek
 Greek language, Modern -- Grammar|=|Modern Greek grammar
 Greek language -- Phonology|<->|Greek phonology
-Greek letter societies|<->|Fraternities and sororities
+Greek letter societies|<->|College fraternities and sororities
 Greek poetry|->|Greek literature
 Greek revival (Architecture)|<->|Greek Revival architecture
 Greek Theater (Syracuse, Italy)|=|Greek Theatre of Syracuse
@@ -22227,7 +22227,7 @@ M8 armored car|=|M8 Greyhound
 M81 (Galaxy)|=|Messier 81
 M87 (Galaxy)|=|Messier 87
 Ma'di (Ugandan and South Sudanese people)|=|Madi people
-Ma'di language (Uganda and South Sudan)|=|Ma'di language
+Ma'di language (Uganda and South Sudan)|=|Maʼdi language
 Ma'ya language (Indonesia)|=|Maʼya language
 Maanyan (Bornean people)|=|Ma'anyan people
 Maanyan language|=|Maʼanyan language
@@ -26786,7 +26786,7 @@ Ocoee Election Day Massacre, Ocoee, Fla., 1920|=|Ocoee massacre
 Ocracoke Inlet (N.C.)|=|Ocracoke Inlet
 Ocracoke Lighthouse (N.C.)|=|Ocracoke Light
 Octagon (New York, N.Y.)|=|The Octagon (Roosevelt Island)
-October 7 Hamas Attack, Israel, 2023|=|October 7 Hamas-led attack on Israel
+October 7 Hamas Attack, Israel, 2023|<->|October 7 attacks
 October 7 Hamas Attack, Israel, 2023 -- Hostages|<->|Gaza war hostage crisis
 Octopuses|=|Octopus
 Octoraro Creek (Pa. and Md.)|=|Octoraro Creek
@@ -32123,7 +32123,7 @@ Rottnest Island (W.A.)|->|Rottnest Island
 Rottnest Island (W.A. : Island)|<->|Rottnest Island
 Rottumerplaat Island (Netherlands)|=|Rottumerplaat
 Rotunda (Birmingham, England)|=|Rotunda, Birmingham
-Rotundas|=|Rotunda (architecture)
+Rotundas|=|Rotunda
 Rouge National Urban Park (Ont.)|=|Rouge National Urban Park
 Rouge, River (Mich. : River)|=|River Rouge (Michigan)
 Rough fescue|=|Festuca altaica
@@ -35059,7 +35059,7 @@ South Carolina -- History -- 1775-1865|<->|Antebellum South Carolina
 South Carolina -- History -- Civil War, 1861-1865|=|South Carolina in the American Civil War
 South Carolina -- History -- Colonial period, ca. 1600-1775|<->|Province of South Carolina
 South Carolina -- History -- Revolution, 1775-1783|=|South Carolina in the American Revolution
-South Carolina -- Politics and government|<->|South Carolina government and politics
+South Carolina -- Politics and government|<->|Government and politics of South Carolina
 South Carolina Inter-State and West Indian Exposition (1901-1902 : Charleston, S.C.)|=|South Carolina Inter-State and West Indian Exposition
 South Cave (England)|=|South Cave
 South Cheyenne Canyon (Colo.)|=|South Cheyenne Cañon
@@ -35173,7 +35173,7 @@ Space biology|->|Astrobiology
 Space colonies|<->|Space colonization
 Space flight|=|Spaceflight
 Space Launch System (Launch vehicle)|=|Space Launch System
-Space microbiology|=|Astro microbiology
+Space microbiology|=|Astromicrobiology
 Space oblique Mercator projection (Cartography)|=|Space-oblique Mercator projection
 Space photography|->|Astrophotography
 Space plasmas|<->|Astrophysical plasma
@@ -37842,7 +37842,7 @@ Tradition (Philosophy)|->|Tradition
 Trafalgar, Battle of, 1805|=|Battle of Trafalgar
 Traffic accidents|=|Traffic collision
 Traffic fatalities|->|Traffic collision
-Traffic safety|=|Road traffic safety
+Traffic safety|<->|Road safety
 Traffic signs and signals -- Control systems|<->|Traffic light control and coordination
 Traffic stops (Law enforcement)|=|Traffic stop
 Tragelaph (Mythical animal)|=|Hircocervus
@@ -38236,7 +38236,7 @@ Tule Springs Fossil Beds National Monument (Nev.)|=|Tule Springs Fossil Beds Nat
 Tulip Mania, 1634-1637|=|Tulip mania
 Tull family|<->|Tull (surname)
 Tullahoma Campaign, Tenn., 1863|=|Tullahoma campaign
-Tullock Formation (Mont.)|=|Tullock Formation
+Tullock Formation (Mont.)|=|Tullock Member
 Tulou (Hakka architecture)|=|Fujian tulou
 Tulsa Race Massacre, Tulsa, Okla., 1921|=|Tulsa race massacre
 Tulu (Indic people)|=|Tulu people
@@ -38908,6 +38908,7 @@ United States -- History -- Civil War, 1861-1865 -- Campaigns|=|Campaigns of the
 United States -- History -- Civil War, 1861-1865 -- Causes|<->|Origins of the American Civil War
 United States -- History -- Civil War, 1861-1865 -- Cavalry operations|<->|Cavalry in the American Civil War
 United States -- History -- Civil War, 1861-1865 -- Centennial celebrations, etc.|<->|American Civil War Centennial
+United States -- History -- Civil War, 1861-1865 -- Historiography|<->|Historiographic issues about the American Civil War
 United States -- History -- Civil War, 1861-1865 -- Medical care|<->|Medicine in the American Civil War
 United States -- History -- Civil War, 1861-1865 -- Name|=|Names of the American Civil War
 United States -- History -- Civil War, 1861-1865 -- Participation, African American|<->|Military history of African Americans in the American Civil War
@@ -40962,6 +40963,7 @@ Women violinists|<->|List of female violinists
 Women's bands (Music)|<->|All-female band
 Women's Christian Temperance Union|=|Woman's Christian Temperance Union
 Women's clothing|->|Clothing
+Women's International League for Peace and Freedom. Congress (1st : 1915 : Hague, Netherlands)|=|Women at the Hague
 Women's police stations|=|Women's police station
 Women's Revolt, Nigeria, 1929|<->|Women's War
 W&#x014f;n Pulgyo (Sect)|=|Won Buddhism
@@ -41130,6 +41132,7 @@ World War, 1914-1918 -- Fiction|->|World War I in literature
 World War, 1914-1918 -- Germany|<->|History of Germany during World War I
 World War, 1914-1918 -- Great Britain|<->|History of the United Kingdom during the First World War
 World War, 1914-1918 -- Greece|=|Greece during World War I
+World War, 1914-1918 -- Historiography|=|Historiography of World War I
 World War, 1914-1918 -- Hungary|=|Hungary in World War I
 World War, 1914-1918 -- Influence|<->|Aftermath of World War I
 World War, 1914-1918 -- Ireland|<->|Ireland and World War I

@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2025-05-29
-# Manual Sweep: resume with British Columbia
+# Last updated 2025-06-05
+# Manual Sweep: resume with Novanet (breaking out individually) in Nova Scotia
 
 ID OLBP
 NAME The Online Books Page
@@ -867,8 +867,10 @@ ID OCLC-VT2
 NAME University of Victoria Libraries
 LOCATION Victoria
 PROVINCE BC
-CATTYPE summon
-BASEURL http://uvic.summon.serialssolutions.com
+CATTYPE primo-ve
+BASEURL https://search.library.uvic.ca
+VID 01VIC_INST:01UVIC
+SCOPE MyInst_and_CI
 
 ID OCLC-CAVAN
 NAME Vancouver Island Regional Library
@@ -933,9 +935,8 @@ ID CA-MBW
 NAME Western Manitoba Regional Library
 LOCATION Brandon and vicinity
 PROVINCE MB
-BASEURL http://wmrl.ipac.sirsidynix.net
-CATTYPE ipac20
-PROFILE mbw
+BASEURL https://wmrl.insigniails.com/Library/SearchResult
+CATTYPE insignia
 
 ID OCLC-CNWIN
 NAME Winnipeg Public Library
@@ -964,10 +965,9 @@ ID OCLC-CNNLP
 NAME Newfoundland and Labrador Public Libraries
 LOCATION Public libraries across the province
 PROVINCE NL
-BASEURL http://hip.nlpl.ca
-CATTYPE ipac20
-AINDEX PZAUTH
-TINDEX PALLTI
+CATTYPE sirsient
+LCODE en_US/default
+BASEURL https://catalogue.nlpl.ca
 
 ID OCLC-N@Y
 WCRID 56553
@@ -981,17 +981,17 @@ ID CA-NSAR
 NAME Annapolis Valley Regional Library
 LOCATION Annapolis and Kings counties, and West Hants
 PROVINCE NS
-BASEURL https://avrl.catalogue.library.ns.ca
-CATTYPE vufind
+CATTYPE bibliocommons
+BASEURL https://samepageavrl.bibliocommons.com
 
 ID OCLC-DAK
 NAME Dalhousie University
 LOCATION Halifax
 PROVINCE NS
-CATTYPE primodl
-BASEURL http://novanet-primo.hosted.exlibrisgroup.com
-VID DAL
-LCODE DAL
+BASEURL https://dal.novanet.ca
+CATTYPE primo-ve
+VID 01NOVA_DAL:DAL
+SCOPE Everything
 
 ID CA-NSH
 NAME Halifax Public Libraries
@@ -1582,6 +1582,13 @@ BASEURL https://julac.hosted.exlibrisgroup.com
 VID CUH
 LCODE CUH_ALMA
 SCOPE My%20Institution
+
+ID DEBRECEN
+NAME Debreceni Egyetem Egyetemi &eacute;s Nemzeti K&ouml;nyvt&aacute;r
+LOCATION Debrecen; English searches may give limited results
+COUNTRY HU
+BASEURL https://webpac.lib.unideb.hu/WebPac/CorvinaWeb
+CATTYPE corvina
 
 ID SOMOGYI
 NAME Somogyi Library
