@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2025-06-05
-# Manual Sweep: resume with Novanet (breaking out individually) in Nova Scotia
+# Last updated 2025-06-23
+# Manual Sweep: resume with Nunavut
 
 ID OLBP
 NAME The Online Books Page
@@ -452,6 +452,14 @@ LOCATION Manama
 COUNTRY BH
 BASEURL https://icc.portal.medad.com/en
 CATTYPE medad
+
+ID NATLIBBD
+NAME National Library of Bangladesh
+LOCATION Dhaka; English searches may give limited results
+COUNTRY BD
+BASEURL http://159.13.20.114
+CATTYPE koha
+FILTERS SNK
 
 # This library now seems to have a custom catalog; sticking to keyword for now
 ID BIBREGBRUX
@@ -946,6 +954,15 @@ CATTYPE sirsient
 BASEURL http://winca.ent.sirsidynix.net
 LCODE en_US/default
 
+ID OCLC-MT4IT
+NAME Mount Allison University
+LOCATION Sackville
+PROVINCE NB
+CATTYPE primo-ve
+BASEURL https://mta.novanet.ca
+VID 01NOVA_MTA:MTA
+SCOPE Everything
+
 ID OCLC-CNNEW
 NAME New Brunswick Public Library Service
 LOCATION Public libraries across New Brunswick
@@ -977,12 +994,39 @@ PROVINCE NT
 CATTYPE sirsi
 BASEURL http://nwte.sirsidynix.net/uhtbin/cgisirsi
 
+ID OCLC-AUW
+NAME Acadia University
+LOCATION Wolfville
+PROVINCE NS
+CATTYPE primo-ve
+BASEURL https://acadia.novanet.ca
+VID 01NOVA_ACAD:ACAD
+SCOPE Everything
+
 ID CA-NSAR
 NAME Annapolis Valley Regional Library
 LOCATION Annapolis and Kings counties, and West Hants
 PROVINCE NS
 CATTYPE bibliocommons
 BASEURL https://samepageavrl.bibliocommons.com
+
+ID OCLC-A6T
+NAME Atlantic School of Theology
+LOCATION Halifax
+PROVINCE NS
+CATTYPE primo-ve
+BASEURL https://ast.novanet.ca
+VID 01NOVA_AST:AST
+SCOPE Everything
+
+ID OCLC-BTN
+NAME Cape Breton University
+LOCATION Sydney
+PROVINCE NS
+CATTYPE primo-ve
+BASEURL https://cbu.novanet.ca
+VID 01NOVA_CBU:CBU
+SCOPE Everything
 
 ID OCLC-DAK
 NAME Dalhousie University
@@ -1000,20 +1044,75 @@ PROVINCE NS
 CATTYPE bibliocommons
 BASEURL https://halifax.bibliocommons.com
 
-ID OCLC-NOVAN
-NAME Novanet Consortium
-LOCATION Academic libraries in Nova Scotia
+ID OCLC-MHW
+NAME Mount Saint Vincent University
+LOCATION Halifax
 PROVINCE NS
-CATTYPE aleph1
-BASEURL http://aleph1.novanet.ns.ca
-TINDEX WTI
+CATTYPE primo-ve
+BASEURL https://msvu.novanet.ca
+VID 01NOVA_MSVU:MSVU
+SCOPE Everything
+
+ID OCLC-CN4IU
+NAME Nova Scotia Community College
+LOCATION 14 campuses across the province
+PROVINCE NS
+CATTYPE primo-ve
+BASEURL https://nscc.novanet.ca
+VID 01NOVA_NSCC:NSCC
+SCOPE Everything
+
+ID OCLC-DGN
+NAME NSCAD University
+LOCATION Halifax
+PROVINCE NS
+CATTYPE primo-ve
+BASEURL https://nscad.novanet.ca
+VID 01NOVA_NSCAD:NSCAD
+SCOPE Everything
+
+ID OCLC-SNK
+NAME Saint Mary's University
+LOCATION Halifax
+PROVINCE NS
+CATTYPE primo-ve
+BASEURL https://smu.novanet.ca
+VID 01NOVA_SMU:SMU
+SCOPE Everything
+
+ID OCLC-FXR
+NAME St. Francis Xavier University
+LOCATION Antigonish
+PROVINCE NS
+CATTYPE primo-ve
+BASEURL https://stfx.novanet.ca
+VID 01NOVA_STFX:STFX
+SCOPE Everything
+
+ID CA-NSCS
+NAME Universit&eacute; Saint Anne
+LOCATION Pointe de l'&Eacute;glise / Church Point
+PROVINCE NS
+CATTYPE primo-ve
+BASEURL https://usainteanne.novanet.ca
+VID 01NOVA_USA:USA
+SCOPE Everything
+
+ID OCLC-CNUKC
+NAME University of King's College
+LOCATION Halifax
+PROVINCE NS
+CATTYPE primo-ve
+BASEURL https://kings.novanet.ca
+VID 01NOVA_DAL:KINGS
+SCOPE KINGS
 
 ID CA-NUINAC
 NAME Nunavut Arctic College
 LOCATION Iqaluit and other campuses
 PROVINCE NU
-BASEURL http://nuvt.vtls.com/cgi-bin/nuvt/chameleon
-CATTYPE chameleon
+BASEURL http://nuvt.iii.com:8080
+CATTYPE chamo
 
 ID CA-NUBNP
 NAME Nunavut Public Library Services
