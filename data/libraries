@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2025-06-23
-# Manual Sweep: resume with Nunavut
+# Last updated 2025-07-18
+# Manual Sweep: resume at Quebec (& check Toronto Public Library, down earlier)
 
 ID OLBP
 NAME The Online Books Page
@@ -1215,9 +1215,8 @@ ID OCLC-MLSOD
 NAME Mississauga Library System
 LOCATION Mississauga
 PROVINCE ON
-CATTYPE sirsient
-LCODE mlsathome
-BASEURL https://miss.ent.sirsidynix.net
+CATTYPE bibliocommons
+BASEURL https://mississauga.bibliocommons.com
 
 ID OCLC-M7O
 NAME Mohawk College Library
@@ -1322,8 +1321,10 @@ ID OCLC-RRP
 NAME Toronto Metropolitan University
 LOCATION Toronto
 PROVINCE ON
-BASEURL https://torontomu.summon.serialssolutions.com
-CATTYPE summon
+BASEURL https://torontomu.primo.exlibrisgroup.com
+CATTYPE primo-ve
+VID 01OCUL_TMU:01OCUL_TMU
+SCOPE OCULDiscoveryNetwork
 FILTERS S
 
 ID OCLC-TOH
@@ -1409,8 +1410,9 @@ ID OCLC-CNWPL
 NAME Windsor Public Library
 LOCATION Windsor
 PROVINCE ON
-CATTYPE bibliocommons
-BASEURL https://windsor.bibliocommons.com
+CATTYPE sirsient
+LCODE en_US/default
+BASEURL https://wind.ent.sirsidynix.net
 
 ID OCLC-YOU
 NAME York University Libraries
@@ -1425,8 +1427,9 @@ ID CA-PC
 NAME Prince Edward Island Public Library Service
 LOCATION Public libraries across the province
 PROVINCE PE
-CATTYPE sirsi
-BASEURL http://catalogue.library.pe.ca/uhtbin/cgisirsi.exe
+CATTYPE sirsient
+LCODE en_GB/default
+BASEURL https://pei.ent.sirsidynix.net
 
 # Looks like they have a custom "everything" search, keyword-only
 ID OCLC-B2Q
@@ -10978,6 +10981,13 @@ STATE WI
 CATTYPE sirsient
 LCODE en_US/rivers
 BASEURL https://brown.ent.sirsi.net
+
+ID OCLC-WCFLS
+NAME Caf&eacute; Libraries
+LOCATION Bridges Library System in Waukesha and Jefferson counties
+STATE WI
+BASEURL https://www.cafelibraries.org/polaris
+CATTYPE polaris
 
 # Using ID of Door County main library since I can't find one for OWLSnet
 ID OCLC-WAK
