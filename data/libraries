@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2025-07-18
-# Manual Sweep: resume at Quebec (& check Toronto Public Library, down earlier)
+# Last updated 2025-08-19
+# Manual Sweep: resume at Denmark (& check Toronto Public Library, down earlier)
 
 ID OLBP
 NAME The Online Books Page
@@ -1431,21 +1431,21 @@ CATTYPE sirsient
 LCODE en_GB/default
 BASEURL https://pei.ent.sirsidynix.net
 
-# Looks like they have a custom "everything" search, keyword-only
+# Looks like they have a custom search; trying a keyword default
 ID OCLC-B2Q
 NAME Biblioth&egrave;que et Archives Nationales du Qu&eacute;bec
 LOCATION Montreal and other facilities
 PROVINCE PQ
-BASEURL http://www.banq.qc.ca/techno/recherche/rms.html
-KEYURL ${BASEURL}?q=${ARG}&selectRecherche=on
+BASEURL https://cap.banq.qc.ca/query
+KEYURL ${BASEURL}?q=${ARG:SNK}
 
 # no overall ID found; arbitarily picking Outremont branch's code
 ID CA-QMBO
 NAME Biblioth&egrave;ques Montreal
 LOCATION Public libraries in Montreal
 PROVINCE PQ
-BASEURL http://nelligan.ville.montreal.qc.ca
-CATTYPE webpacpro
+BASEURL https://nelligandecouverte.ville.montreal.qc.ca/iii/encore
+CATTYPE encore
 
 ID OCLC-CDN
 NAME Concordia University
@@ -1458,8 +1458,8 @@ ID OCLC-LGG
 NAME McGill University Library
 LOCATION Montreal
 PROVINCE PQ
-BASEURL https://mcgill.worldcat.org/search
-CATTYPE worldcat
+BASEURL https://mcgill.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-CNSIL
 NAME Saskatchewan Information and Library Services Consortium
@@ -1479,18 +1479,19 @@ ID OCLC-REB
 NAME University of Regina
 LOCATION Regina
 PROVINCE SK
-CATTYPE primodl-scope
-BASEURL https://casls-primo-prod.hosted.exlibrisgroup.com
-VID 01CASLS_REGINA
-LCODE 01CASLS_REGINA
-SCOPE default_scope
+CATTYPE primo-ve
+BASEURL https://casls-regina.primo.exlibrisgroup.com
+VID 01CASLS_REGINA:01CASLS_REGINA
+SCOPE MyInst_and_CI
 
 ID OCLC-UOH
 NAME University of Saskatchewan
 LOCATION Saskatoon
 PROVINCE SK
-BASEURL http://sundog.usask.ca
-CATTYPE webpacpro
+CATTYPE primo-ve
+BASEURL https://usask.primo.exlibrisgroup.com
+VID 01USASK_INST:01USASK
+SCOPE MyInst_and_CI
 
 ID OCLC-CN4WZ
 NAME Yukon University
@@ -4585,8 +4586,8 @@ ID OCLC-1DL
 NAME Library of Congress
 LOCATION Washington
 STATE DC
-CATTYPE voyager-vwebv
-BASEURL http://catalog.loc.gov/vwebv/search
+CATTYPE locate
+BASEURL https://search.catalog.loc.gov
 
 ID OCLC-SMI
 NAME Smithsonian Libraries

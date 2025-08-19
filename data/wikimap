@@ -10,7 +10,7 @@
 #   are not included in this file.
 # Manual title and name-title correspondences have been moved to wikiworksmap.
 # See docs file for documentation
-# Last updated 2025-07-22
+# Last updated 2025-08-16
 # Did LCSH 2015-2022 update lists: 2023 monthly list 1-3, 4 (list 1, A-L only)
 1 Pendleton Place House (New York, N.Y.)|=|One Pendleton Place
 1009 Fifth Avenue House (New York, N.Y.)|=|Benjamin N. Duke House
@@ -1885,6 +1885,7 @@ Arch Street Meeting House (Philadelphia, Pa.)|=|Arch Street Friends Meeting Hous
 Archaebacteria|<->|Archaea
 Archaeologists|->|Archaeology
 Archaeology -- Australia|=|Archaeology of Australia
+Archaeology -- Periodicals|<->|List of archaeology journals
 Archaeology -- Philosophy|=|Philosophy of archaeology
 Archaeothanatology|<->|Funerary archaeology
 Archaiologiko Mouseio Aigiou|=|Archaeological Museum of Aigion
@@ -1918,6 +1919,7 @@ Architecture, Mughal Empire|<->|Mughal architecture
 Architecture -- Composition, proportion, etc.|<->|Proportion (architecture)
 Architecture -- China -- History -- Song-Yuan dynasties, 960-1368|<->|Architecture of the Song dynasty
 Architecture -- India|=|Architecture of India
+Architecture -- Periodicals|<->|List of architecture journals
 Architecture -- Philosophy|=|Philosophy of architecture
 Architecture, Queen Anne|<->|Queen Anne style architecture
 Architecture, Romanesque|=|Romanesque architecture
@@ -2266,6 +2268,7 @@ Articulated buses|=|Articulated bus
 Artificial flowers|<->|Artificial plants
 Artificial immune systems|=|Artificial immune system
 Artificial intelligence -- Marketing applications|<->|Marketing and artificial intelligence
+Artificial intelligence -- Periodicals|<->|List of artificial intelligence journals
 Artificial intelligence -- Philosophy|=|Philosophy of artificial intelligence
 Artificial reefs|=|Artificial reef
 Artificial satellites|=|Satellite
@@ -5781,7 +5784,7 @@ Calligraphy, Chinese|=|Chinese calligraphy
 Calligraphy, Korean|=|Korean calligraphy
 Calligraphy, Vietnamese|=|Vietnamese calligraphy
 Calling Lake (Alta. : Lake)|=|Calling Lake
-Calliope|=|Calliope (music)
+Calliope|=|Calliope (instrument)
 Callisto (Greek mythological character)|=|Callisto (mythology)
 Callisto (Satellite)|=|Callisto (moon)
 Callospermophilus lateralis|=|Golden-mantled ground squirrel
@@ -5808,7 +5811,7 @@ Camas National Wildlife Refuge (Idaho)|=|Camas National Wildlife Refuge
 Camber (Aerofoils)|=|Camber (aerodynamics)
 Cambodia -- History -- 1975-1979|<->|Democratic Kampuchea
 Cambodia -- History -- 1979-1993|<->|People's Republic of Kampuchea
-Cambodia -- History -- 1993-|<->|Modern Cambodia
+Cambodia -- History -- 1993-|=|History of Cambodia (1993–present)
 Cambodia -- History -- Civil War, 1970-1975|<->|Cambodian Civil War
 Cambodia -- Politics and government|<->|Politics of Cambodia
 Cambodian-Vietnamese Conflict, 1977-1991|=|Cambodian–Vietnamese War
@@ -7684,6 +7687,7 @@ Ciudad-Rodrigo (Spain)|=|Ciudad Rodrigo
 Ciudad-Rodrigo (Spain) -- History -- Siege, 1810|=|Siege of Ciudad Rodrigo (1810)
 Ciudad Victoria (Tamaulipas, Mexico)|=|Ciudad Victoria
 Cividale del Friuli (Italy)|=|Cividale del Friuli
+Civil engineering -- Periodicals|<->|List of civil engineering journals
 Civil engineers|=|Civil engineer
 Civil law|<->|Civil law (common law)
 Civil law|<-|Private law
@@ -8273,10 +8277,12 @@ Computer bulletin boards|=|Bulletin board system
 Computer camps|<->|Tech camp
 Computer crimes|<->|Cybercrime
 Computer firmware|<->|Firmware
+Computer graphics -- Periodicals|<->|List of computer graphics journals
 Computer integrated manufacturing systems|<->|Computer-integrated manufacturing
 Computer networks|=|Computer network
 Computer printers|=|Printer (computing)
 Computer programmers|=|Programmer
+Computer programming -- Periodicals|<->|List of software programming journals
 Computer programs|=|Computer program
 Computer science -- Periodicals|<->|List of computer science journals
 Computer software|=|Software
@@ -8755,7 +8761,7 @@ Cooking, Montserratian|<->|Cuisine of Montserrat
 Cooking, Moroccan|<->|Moroccan cuisine
 Cooking, Namibian|<->|Namibian cuisine
 Cooking, Nepali|<->|Nepalese cuisine
-Cooking -- New Mexico|<->|New Mexican cuisine
+Cooking -- New Mexico|<->|Cuisine of New Mexico
 Cooking -- New York (State) -- New York|<->|Cuisine of New York City
 Cooking, New Zealand|<->|New Zealand cuisine
 Cooking, Ni-Vanuatu|<->|Vanuatuan cuisine
@@ -10129,7 +10135,7 @@ Delaware Memorial Bridge (Del. and N.J.)|=|Delaware Memorial Bridge
 Delaware River (Kan.)|=|Delaware River (Kansas)
 Delaware River (N.Y.-Del. and N.J.)|=|Delaware River
 Delaware River Scenic Byway (N.J.)|<->|New Jersey Route 29
-Delaware River Valley (N.Y.-Del. and N.J.)|<->|Delaware Valley
+Delaware River Valley (N.Y.-Del. and N.J.)|->|Delaware River
 Delaware Route 52 (Del.)|=|Delaware Route 52
 Delaware Water Gap (N.J. and Pa.)|=|Delaware Water Gap
 Delaware Water Gap National Recreation Area (Agency : U.S.)|->|Delaware Water Gap National Recreation Area
@@ -11423,6 +11429,7 @@ Economic indicators|=|Economic indicator
 Economic man|=|Homo economicus
 Economic rights|->|Economic, social and cultural rights
 Economic zones (Law of the sea)|<->|Exclusive economic zone
+Economics -- Periodicals|<->|List of economics journals
 Economics -- Philosophy|<->|Philosophy and economics
 Economics -- Psychological aspects|<->|Behavioral economics
 Economists|=|Economist
@@ -11485,6 +11492,7 @@ Education -- Korea -- History|=|History of education in Korea
 Education -- Korea (South)|=|Education in South Korea
 Education -- Japan -- History|=|History of education in Japan
 Education -- New Zealand -- History|=|History of education in New Zealand
+Education -- Periodicals|<->|List of education journals
 Education -- Scotland -- History|=|History of education in Scotland
 Education -- Research|=|Educational research
 Education -- United States -- History|=|History of education in the United States
@@ -11503,6 +11511,7 @@ Educational acceleration|=|Academic acceleration
 Educational change|<->|Education reform
 Educational equalization|<->|Educational equity
 Educational games|=|Educational game
+Educational psychology -- Periodicals|<->|List of educational psychology journals
 Educational sociology|=|Sociology of education
 Educational vouchers|=|School voucher
 Educators|->|Teacher
@@ -11567,7 +11576,7 @@ Egypt -- History -- Nineteenth dynasty, ca. 1320-1200 B.C.|<->|Nineteenth Dynast
 Egypt -- History -- Old Kingdom, ca. 2686-ca. 2181 B.C.|=|Old Kingdom of Egypt
 Egypt -- History -- Protests, 2011-2013|<-|2011 Egyptian revolution
 Egypt -- History -- Protests, 2011-2013|<->|Egyptian Crisis (2011–2014)
-Egypt -- History -- Revolution, 1952|<->|1952 Egyptian revolution
+Egypt -- History -- Revolution, 1952|<->|Egyptian revolution of 1952
 Egypt -- History -- Second Intermediate Period, ca. 1783-ca. 1550 B.C.|<->|Second Intermediate Period of Egypt
 Egypt -- History -- Third dynasty, ca. 2649-2575 B.C.|<->|Third Dynasty of Egypt
 Egypt -- History -- Third Intermediate Period, ca. 1071-ca. 650 B.C.|<->|Third Intermediate Period of Egypt
@@ -11752,6 +11761,7 @@ Electric trucks|=|Electric truck
 Electric utilities|=|Electric utility
 Electric vehicles -- Batteries|=|Electric vehicle battery
 Electric waves|->|Electromagnetism
+Electrical engineering -- Periodicals|<->|List of electrical engineering journals
 Electrical engineers|->|Electrical engineering
 Electrical play (Sex)|<->|Erotic electrostimulation
 Electro swing (Music)|=|Electro swing
@@ -11970,6 +11980,7 @@ Engadine (Switzerland)|=|Engadin
 Engelmann spruce|=|Picea engelmannii
 Engine houses (Railroads)|<->|Engine house
 Engineering -- Awards|<->|List of engineering awards
+Engineering -- Periodicals|<->|List of engineering journals and magazines
 Engineering -- Study and teaching|<->|Engineering education
 Engineering design|<->|Engineering design process
 Engineering economy|=|Engineering economics
@@ -12074,6 +12085,7 @@ Entiat, Lake (Wash.)|=|Lake Entiat
 Entiat River (Wash.)|=|Entiat River
 Entity (Philosophy)|<->|Entity
 Entity-relationship modeling|<->|Entity–relationship model
+Entomology -- Periodicals|<->|List of entomology journals
 Entrammes, Battle of, Entrammes, France, 1793|=|Battle of Entrames
 Entrapment neuropathies|=|Nerve compression syndrome
 Entre R&iacute;os (Argentina)|=|Entre Ríos Province
@@ -12352,6 +12364,7 @@ Etherow Country Park (Compstall, England)|=|Etherow Country Park
 Ethical culture movement|=|Ethical movement
 Ethical relativism|=|Moral relativism
 Ethics, Evolutionary|=|Evolutionary ethics
+Ethics -- Periodicals|<->|List of ethics journals
 Ethiopia -- History -- Coup d'&eacute;tat, 1960|<->|1960 Ethiopian coup attempt
 Ethiopia -- History -- Rebellion, 1928-1930|<->|Gugsa Wale's rebellion
 Ethiopian newspapers|<->|List of newspapers in Ethiopia
@@ -12531,7 +12544,7 @@ Exp&eacute;dition antarctique belge (1897-1899)|=|Belgian Antarctic Expedition
 Expedition of the Thousand, Italy, 1860|=|Expedition of the Thousand
 Expedition sport utility vehicle|=|Ford Expedition
 Expenditures, Public|=|Government spending
-Experience (Religion)|=|Religious experience
+Experience (Religion)|<->|Mystical or religious experience
 Experimental design|=|Design of experiments
 Experimental films|=|Experimental film
 Experimental forests|=|Experimental forest
@@ -13174,7 +13187,7 @@ Flattery Rocks National Wildlife Refuge (Wash.)|->|Washington Maritime National 
 Flattop Mountain Trail (Colo.)|=|Flattop Mountain Trail
 Flatvaer Islands (Antarctica)|=|Flatvaer Islands
 Flavia Solva (Extinct city)|=|Flavia Solva
-Flaviviruses|=|Flavivirus
+Flaviviruses|<->|Orthoflavivirus
 Flaying (Torture)|=|Flaying
 Fleckvieh cattle|=|Fleckvieh
 Fleet Pond (England)|=|Fleet Pond
@@ -13269,6 +13282,7 @@ Flue gases|=|Flue gas
 Flue pipes (Organ pipes)|=|Flue pipe
 Fluellen (Fictitious character : Shakespeare)|=|Fluellen
 Fluency (Language learning)|<->|Language proficiency
+Fluid mechanics -- Periodicals|<->|List of fluid mechanics journals
 Fluids|=|Fluid
 Fluorescence microscopy|<->|Fluorescence microscope
 Fluorescent labeling|<->|Fluorescent tag
@@ -15725,7 +15739,7 @@ Guitar Hero (Game)|<-|Guitar Hero (video game)
 Guitarists|=|Guitarist
 Gujarat (India)|=|Gujarat
 Gujarat Earthquake, India, 2001|=|2001 Gujarat earthquake
-Gujarat Riots, India, 2002|=|2002 Gujarat riots
+Gujarat Riots, India, 2002|=|2002 Gujarat violence
 Gujars|=|Gurjar
 Guji (African people)|=|Gujii
 Gujaratis (Indic people)|=|Gujarati people
@@ -16259,7 +16273,7 @@ Heads of state|=|Head of state
 Headwaters Forest Reserve (Calif.)|=|Headwaters Forest Reserve
 Healers|->|Alternative medicine
 Healing of Peter's mother-in-law (Miracle)|=|Healing the mother of Peter's wife
-Healing of the centurion's servant (Miracle)|=|Healing the centurion's servant
+Healing of the centurion's servant (Miracle)|=|Healing of the centurion's servant
 Healing of the deaf man (Miracle)|=|Healing the deaf mute of Decapolis
 Healing of the epileptic boy (Miracle)|=|Exorcising a boy possessed by a demon
 Healing of the Gerasene demoniac (Miracle)|=|Exorcism of the Gerasene demoniac
@@ -16694,6 +16708,7 @@ Historically informed performance (Music)|=|Historically informed performance
 History, Ancient|=|Ancient history
 History -- Methodology|<->|Historical method
 History, Modern|<->|Timelines of modern history
+History -- Periodicals|<->|List of history journals
 History -- Periodization|<->|Periodization
 History -- Philosophy|=|Philosophy of history
 Hitler, Adolf, 1889-1945 -- Assassination attempts|=|Assassination attempts on Adolf Hitler
@@ -17229,6 +17244,7 @@ Humane Society of the Commonwealth of Massachusetts|=|Massachusetts Humane Socie
 Humanists|->|Humanism
 Humanitarian assistance|=|Humanitarian aid
 Humanitarian law|=|International humanitarian law
+Humanities -- Periodicals|<->|List of humanities journals
 Humber light reconnaissance car (Armored car)|=|Humber light reconnaissance car
 Humbie (Scotland)|=|Humbie
 Humboldt Award|<->|Humboldt Research Award
@@ -18067,6 +18083,7 @@ Intel microprocessors|<->|List of Intel processors
 Intel SDK-85 (Microprocessor)|->|Intel system development kit
 Intel SDK-86 (Microprocessor)|->|Intel system development kit
 Intelink (Computer network)|=|Intelink
+Intellectual property -- Periodicals|<->|List of intellectual property law journals
 Intellectuals|=|Intellectual
 Intelligence levels|<->|Intelligence quotient
 Intelligence officers|=|Intelligence officer
@@ -18126,6 +18143,7 @@ International Labour Office|->|International Labour Organization
 International Labour Organisation|->|International Labour Organization
 International Military Tribunal|->|Nuremberg trials
 International Paper Company Strike, Jay, Me., 1987-1988|=|1987–1988 International Paper strike
+International relations -- Periodicals|<->|List of international relations journals
 International Socialist Congress|->|Socialist International
 International Standard Book Numbers|=|ISBN
 International Standard Serial Numbers|=|ISSN
@@ -20018,7 +20036,8 @@ King Philip's War, 1675-1676|=|King Philip's War
 King's Chapel (Boston, Mass.)|<->|King's Chapel
 King's Cross Fire, London, England, 1987|=|King's Cross fire
 King's Field (Game)|<->|King's Field
-King's Field (Game)|<-|King's Field (video game)
+King's Field (Game)|<-|King's Field (1994 video game)
+King's Field (Game)|<-|King's Field (1995 video game)
 King's gambit (Chess)|=|King's Gambit
 King's Lynn (England)|=|King's Lynn
 King's Mountain, Battle of, S.C., 1780|=|Battle of Kings Mountain
@@ -21072,6 +21091,7 @@ Law -- North Carolina|<->|Law of North Carolina
 Law -- Ohio|<->|Law of Ohio
 Law -- Pakistan|<->|Law of Pakistan
 Law -- Pennsylvania|<->|Law of Pennsylvania
+Law -- Periodicals|<->|List of law journals
 Law -- Philosophy|->|Jurisprudence
 Law -- Psychological aspects|<->|Legal psychology
 Law -- Russia (Federation)|<->|Law of Russia
@@ -21413,6 +21433,7 @@ Library education|<->|Education for librarianship
 Library of Congress Gershwin Prize for Popular Song|=|Gershwin Prize
 Library orientation|<->|Library instruction
 Library research|<->|Secondary research
+Library science|<->|Library and information science
 Library technicians|=|Library technician
 Library Web sites|=|Library website
 Librazhd (Albania : Rrethi)|=|Librazhd District
@@ -21555,6 +21576,7 @@ Linganore Creek (Md.)|=|Linganore Creek
 Lingo (Computer program language)|=|Lingo (programming language)
 Linguistic change|<->|Language change
 Linguistic minorities|<->|Minority language
+Linguistics -- Periodicals|<->|List of linguistics journals
 Linguists|<->|List of linguists
 Linien II (Group of artists)|<->|Linien
 Linings (Sewing)|=|Lining (sewing)
@@ -21782,6 +21804,7 @@ Logarithms|=|Logarithm
 Loggerhead turtle|=|Loggerhead sea turtle
 Loggers|=|Lumberjack
 Loggia di Raffaello (Vatican Palace, Vatican City)|<->|Vatican loggias
+Logic -- Periodicals|<->|List of logic journals
 Loglan (Artificial language)|=|Loglan
 Lognormal distribution|=|Log-normal distribution
 Logo (African people)|<->|Logo people
@@ -23146,8 +23169,9 @@ Mater Matuta (Roman deity)|=|Mater Matuta
 Material facts (Law)|<->|Material fact
 Materiality (Accounting)|<->|Materiality (auditing)
 Materialized views (Computer science)|=|Materialized view
-Materials handling|=|Material handling
 Materials|=|Material
+Materials handling|=|Material handling
+Materials science -- Periodicals|<->|List of materials science journals
 Matese Mountains (Italy)|=|Matese
 Mateship (Australia)|=|Mateship
 Math anxiety|<->|Mathematical anxiety
@@ -23156,10 +23180,13 @@ Mathematica (Computer program language)|->|Wolfram Language
 Mathematical instruments|=|Mathematical instrument
 Mathematical linguistics|->|Computational linguistics
 Mathematical models|=|Mathematical model
+Mathematical physics -- Periodicals|<->|List of mathematical physics journals
 Mathematical recreations|=|Recreational mathematics
 Mathematicians|=|Mathematician
+Mathematics -- Periodicals|<->|List of mathematics journals
 Mathematics -- Philosophy|<->|Philosophy of mathematics
 Mathematics -- Study and teaching|<->|Mathematics education
+Mathematics -- Study and teaching -- Periodicals|<->|List of mathematics education journals
 Mathematics, Greek|<->|Ancient Greek mathematics
 Mather Mill (Fort Washington, Pa.)|=|Farmar Mill
 Mathews, Lake (Calif.)|=|Lake Mathews
@@ -23341,6 +23368,7 @@ Mecca (Saudi Arabia) -- History -- Siege, 1979|<->|Grand Mosque seizure
 Mecca Hills (Calif.)|=|Mecca Hills
 Mecha (Vehicles)|<->|Mecha
 Mechanical drawing|<->|Engineering drawing
+Mechanical engineering -- Periodicals|<->|List of mechanical engineering journals
 Mechanical filters (Electrical engineering)|=|Mechanical filter
 Mechanics (Persons)|=|Mechanic
 Mechanoids (Game)|->|The Mechanoid Invasion
@@ -23397,6 +23425,7 @@ Medical technology|<->|Health technology
 Medical wastes|<->|Biomedical waste
 Medication errors|->|Medical error
 Medici, House of|=|House of Medici
+Medicine -- Periodicals|<->|List of medical journals
 Medicine -- Philosophy|=|Philosophy of medicine
 Medicine -- Research|=|Medical research
 Medicine -- United States -- History|=|History of medicine in the United States
@@ -24020,6 +24049,8 @@ Miners|=|Miner
 Miners' Revolt, Spain, 1934|->|Asturian Revolution of 1934
 Miners' Strike, Mineral del Monte, Mexico, 1766|=|Real del Monte 1766 strike
 Minerva (Roman deity)|=|Minerva
+Mines and mineral resources|<->|Mining
+Mines and mineral resources -- Periodicals|<->|List of mining journals
 Mini automobiles|<->|Mini (marque)
 Miniature American shepherd dog|=|Miniature American Shepherd
 Miniature books|=|Miniature book
@@ -25042,6 +25073,7 @@ My Lai Massacre, Vietnam, 1968|=|My Lai massacre
 Myasishchev M-4 (Bomber)|=|Myasishchev M-4
 Mycenae (Extinct city)|<->|Mycenae
 Mycologists|<->|List of mycologists
+Mycology -- Periodicals|<->|List of mycology journals
 Mycoses|=|Fungal infection
 Myers family|<->|Myers
 Myitkyin&amacr; (Burma)|=|Myitkyina
@@ -25230,6 +25262,7 @@ Nannau Estate (Wales)|<->|Nannau Hall
 Nannies|=|Nanny
 Nanocomposites (Materials)|=|Nanocomposite
 Nanogenerators|=|Nanogenerator
+Nanotechnology -- Periodicals|<->|List of nanotechnology journals
 Nanovor (Game)|=|Nanovor
 Nantes (France)|=|Nantes
 Nanticoke River (Del. and Md.)|=|Nanticoke River
@@ -25727,6 +25760,7 @@ Neurons|=|Neuron
 Neuroophthalmology|=|Neuro-ophthalmology
 Neuropathy|<->|Neuropathy (disambiguation)
 Neurosciences|=|Neuroscience
+Neurosciences -- Periodicals|<->|List of neuroscience journals
 Neuroses|=|Neurosis
 Neurotoxic agents|=|Neurotoxin
 Neurotoxicology|->|Neurotoxin
@@ -26607,6 +26641,7 @@ Numedal (Norway)|<->|Numedal
 Numerals|=|Numeral
 Numeration|<->|Numeral system
 Numerical weather forecasting|=|Numerical weather prediction
+Numismatics -- Periodicals|<->|List of numismatic journals
 Nun moth|=|Black arches
 Nunamiut Eskimos|=|Nunamiut
 Nunggubuyu (Australian people)|=|Nunggubuyu people
@@ -26636,6 +26671,7 @@ Nurseries (Horticulture)|=|Plant nursery
 Nursery rhymes|=|Nursery rhyme
 Nursery schools|<->|Preschool
 Nurses|->|Nursing
+Nursing -- Periodicals|<->|List of nursing journals
 Nursing -- Research|=|Nursing research
 Nursing -- Study and teaching|<->|Nurse education
 Nursing -- United States -- History|=|History of nursing in the United States
@@ -27540,6 +27576,7 @@ Orl&eacute;ans, Battle of, Orl&eacute;ans, France, 1870|=|Second Battle of Orlé
 Orma dialect|=|Orma language
 Ormuri language|=|Ormuri
 Ornithologists|<->|List of ornithologists
+Ornithology -- Periodicals|<->|List of ornithology journals
 Orn&ouml; Island (Stockholms l&auml;n, Sweden)|=|Ornö
 Oro, Ca&ntilde;ada del (Ariz.)|=|Cañada del Oro
 Oroch (Asian people)|=|Oroch people
@@ -29047,6 +29084,7 @@ Philadelphia Campaign, 1777-1778|=|Philadelphia campaign
 Philadelphia Eagles (Football team)|=|Philadelphia Eagles
 Philadelphia Experiment, 1943|=|Philadelphia Experiment
 Philadelphia Flyers (Hockey team)|=|Philadelphia Flyers
+Philadelphia Metropolitan Area (Pa.)|=|Philadelphia metropolitan area
 Philadelphia Phillies (Baseball team)|=|Philadelphia Phillies
 Philadelphia soul (Music)|=|Philadelphia soul
 Philadelphia Ten (Group of artists)|=|Philadelphia Ten
@@ -29081,6 +29119,7 @@ Philoctetes (Mythological character)|=|Philoctetes
 Philomela (Greek mythology)|=|Philomela
 Philosopher-kings|=|Philosopher king
 Philosophers|<->|Lists of philosophers
+Philosophy -- Periodicals|<->|List of philosophy journals
 Philosophy and religion|->|Philosophy of religion
 Philosophy in literature|<->|Philosophy and literature
 Philosophy, African|<->|Africana philosophy
@@ -29165,6 +29204,7 @@ Physical sciences|<->|Outline of physical science
 Physicians|=|Physician
 Physicians (General practice)|=|General practitioner
 Physicists|=|Physicist
+Physics -- Periodicals|=|List of physics journals
 Physics -- Philosophy|=|Philosophy of physics
 Physics -- Study and teaching|<->|Physics education
 Physiocrats|=|Physiocracy
@@ -29197,7 +29237,7 @@ Piazza San Carlo (Turin, Italy)|=|Piazza San Carlo
 Piazza San Pietro (Vatican City)|=|St. Peter's Square
 Piazza Vittorio Veneto (Turin, Italy)|=|Piazza Vittorio Veneto
 Pibelman (Australian people)|=|Bibulman
-Pica (Birds)|=|Pica (genus)
+Pica (Birds)|=|Pica (bird)
 Pica (Pathology)|=|Pica (disorder)
 Picacho Reservoir (Ariz.)|=|Picacho Reservoir
 Picard, Jean-Luc, 2305-|=|Jean-Luc Picard
@@ -29681,6 +29721,7 @@ Political prisoners|=|Political prisoner
 Political purges|<->|Purge
 Political refugees|->|Refugee
 Political rights|->|Civil and political rights
+Political science -- Periodicals|<->|List of political science journals
 Political science -- Philosophy|<->|Political philosophy
 Political scientists|<->|List of political scientists
 Political stability|->|Failed state
@@ -29794,7 +29835,7 @@ Popular music -- Romania|<->|Muzică populară
 Popular music -- United States|<->|American popular music
 Population aging|=|Population ageing
 Population transfers|=|Population transfer
-Populist Party (U.S. : 1892-1908)|=|People's Party (United States)
+Populist Party (U.S. : 1892-1908)|=|Populist Party (United States)
 Populist Party (U.S. : 1984-1996)|=|Populist Party (United States, 1984)
 Populous (Game)|<->|Populous (series)
 Populous (Game)|<-|Populous (video game)
@@ -30310,6 +30351,7 @@ Pro-life movement -- United States|=|United States anti-abortion movement
 Pro se representation|->|Self representation
 Pro se representation -- United States|=|Pro se legal representation in the United States
 Probabilities|=|Probability
+Probabilities -- Periodicals|<->|List of probability journals
 Probes (Electronic instruments)|<->|Test probe
 Proboscidea (Mammals)|=|Proboscidea
 Procaccini family|<->|Procaccini
@@ -30470,6 +30512,7 @@ Psyche (Asteroid)|=|16 Psyche
 Psyche (Greek deity)|->|Cupid and Psyche
 Psychiatric hospitals|=|Psychiatric hospital
 Psychiatrists|=|Psychiatrist
+Psychiatry -- Periodicals|<->|List of psychiatry journals
 Psychic ability|->|Psychic
 Psychic trauma|<->|Psychological trauma
 Psychics|=|Psychic
@@ -30484,6 +30527,7 @@ Psychology, Comparative|=|Comparative psychology
 Psychology, Industrial|<->|Industrial and organizational psychology
 Psychology, Military|=|Military psychology
 Psychology, Pathological|<->|Psychopathology
+Psychology -- Periodicals|<->|List of psychology journals
 Psychology -- Philosophy|=|Philosophy of psychology
 Psychology, Religious|=|Psychology of religion
 Psychology -- Religious aspects -- Buddhism|->|Buddhism and psychology
@@ -30492,6 +30536,7 @@ Psychopaths|<->|Psychopathy
 Psychoses|<->|Psychosis
 Psychosexual disorders|=|Psychosexual disorder
 Psychotherapists|->|Psychotherapy
+Psychotherapy -- Periodicals|<->|List of psychotherapy journals
 Psychotropic drugs|=|Psychoactive drug
 Psychotropic plants|<->|Psychoactive plant
 Psychrolutes marcidus|=|Blobfish
@@ -30499,10 +30544,12 @@ Psychrolutes phrictus|=|Blob sculpin
 PT-109 (Torpedo boat)|=|Patrol torpedo boat PT-109
 Ptah (Egyptian deity)|=|Ptah
 Pterois volitans|=|Red lionfish
+Public administration -- Periodicals|<->|List of public administration journals
 Public baths|<->|Public bathing
 Public buildings|->|Building
 Public Garden (Boston, Mass.)|=|Boston Public Garden
 Public goods|=|Public good
+Public health -- Periodicals|<->|Public health journal
 Public key cryptography|=|Public-key cryptography
 Public key infrastructure (Computer security)|=|Public key infrastructure
 Public lands|=|Public land
@@ -30510,6 +30557,7 @@ Public lending rights (of authors)|=|Public Lending Right
 Public libraries|=|Public library
 Public opinion polls|=|Opinion poll
 Public prosecutors|<->|Prosecutor
+Public relations -- Periodicals|<->|List of public relations journals
 Public schools|=|Public school
 Public spaces|=|Public space
 Public Square (Cleveland, Ohio)|=|Public Square, Cleveland
@@ -31298,7 +31346,7 @@ Red River, North Fork (Tex. and Okla.)|=|North Fork Red River
 Red Rock Lakes National Wildlife Refuge (Agency : U.S.)|->|Red Rock Lakes National Wildlife Refuge
 Red Rock Lakes National Wildlife Refuge (Mont.)|=|Red Rock Lakes National Wildlife Refuge
 Red Rock State Park (Ariz.)|=|Red Rock State Park
-Red River (China and Vietnam)|=|Red River (China–Vietnam)
+Red River (China and Vietnam)|=|Red River (Asia)
 Red River Bridge Controversy, 1931|=|Red River Bridge War
 Red River Delta (Vietnam)|=|Red River Delta
 Red River Expedition, 1864|=|Red River campaign
@@ -31859,6 +31907,7 @@ Robot Sumo (Game)|<->|Robot-sumo
 Robotech (Game)|=|Robotech (role-playing game)
 Robotic exoskeletons|<->|Exoskeleton (human)
 Robotic fish|=|Robot fish
+Robotics -- Periodicals|<->|List of robotics journals
 Robotron 1715 (Computer)|<->|PC 1715
 Robots|=|Robot
 Robson, Mount (B.C.)|=|Mount Robson
@@ -33352,6 +33401,7 @@ Schwyz (Switzerland : Canton)|=|Canton of Schwyz
 Sciacca (Italy)|=|Sciacca
 Science -- Periodicals|<->|Scientific journal
 Science -- Periodicals|<-|List of science magazines
+Science -- Periodicals|<-|List of scientific journals
 Science -- Philosophy|=|Philosophy of science
 Science -- Study and teaching|<->|Science education
 Science and astrology|=|Astrology and science
@@ -34816,6 +34866,7 @@ Social responsibility of business|=|Corporate social responsibility
 Social rights|<->|Economic, social and cultural rights
 Social role|<->|Role
 Social sciences -- Network analysis|<->|Social network analysis
+Social sciences -- Periodicals|<->|List of social science journals
 Socialism -- Africa|<->|African socialism
 Socialism -- Great Britain|->|History of the socialist movement in the United Kingdom
 Socialism -- Great Britain -- History|<->|History of the socialist movement in the United Kingdom
@@ -34849,6 +34900,7 @@ Society verse|=|Vers de société
 Sociolinguistics -- Network analysis|<->|Social network (sociolinguistics)
 Sociological jurisprudence|<->|Sociology of law
 Sociologists|->|Sociology
+Sociology -- Periodicals|<->|List of sociology journals
 Sociology, Military|=|Military sociology
 Sociology, Rural|=|Rural sociology
 Sociology, Urban|=|Urban sociology
@@ -35566,6 +35618,7 @@ Statue of Liberty National Monument (N.Y. and N.J.)|=|Statue of Liberty National
 State universities and colleges -- United States|<->|State university system
 State University of Iowa|->|University of Iowa
 Statins (Cardiovascular agents)|=|Statin
+Statistics -- Periodicals|<->|List of statistics journals
 Statues|=|Statue
 Staub family|<->|Staub
 Stavanger (Norway)|=|Stavanger
@@ -36719,7 +36772,7 @@ Tatrza&nacute;ski Park Narodowy (Agency : Poland)|->|Tatra National Park, Poland
 Tatrza&nacute;ski Park Narodowy (Poland)|=|Tatra National Park, Poland
 Tau (The Greek letter)|=|Tau
 Taung (African people)|=|Taung tribe
-Taunsa (Pakistan)|=|Taunsa Sharif
+Taunsa (Pakistan)|=|Taunsa
 Taunsa Barrage (Pakistan)|=|Taunsa Barrage
 Taunsa Tahsil (Pakistan)|=|Taunsa Tehsil
 Taunus (Germany)|=|Taunus
@@ -37796,6 +37849,7 @@ Tourcoing (France)|=|Tourcoing
 Tourcoing, Battle of, Tourcoing, France, 1794|=|Battle of Tourcoing
 Touring cars (Racing automobiles)|<->|Touring car racing
 Tourism -- Korea (South)|=|Tourism in South Korea
+Tourism -- Periodicals|<->|List of tourism journals
 Tourists|->|Tourism
 Tournament fishing|<->|Fishing tournament
 Tournament of Roses|<->|Rose Parade
@@ -38932,7 +38986,7 @@ United States -- History -- Civil War, 1861-1865 -- Participation, French|<->|Fr
 United States -- History -- Civil War, 1861-1865 -- Participation, German American|<->|German Americans in the American Civil War
 United States -- History -- Civil War, 1861-1865 -- Participation, Hispanic American|<->|Hispanics in the American Civil War
 United States -- History -- Civil War, 1861-1865 -- Participation, Irish American|<->|Irish Americans in the American Civil War
-United States -- History -- Civil War, 1861-1865 -- Participation, Italian American|<->|Italian Americans in the Civil War
+United States -- History -- Civil War, 1861-1865 -- Participation, Italian American|<->|Italian Americans in the American Civil War
 United States -- History -- Civil War, 1861-1865 -- Peace|<->|Conclusion of the American Civil War
 United States -- History -- Civil War, 1861-1865 -- Prisoners and prisons|<->|American Civil War prison camps
 United States -- History -- Civil War, 1861-1865 -- Protest movements|<->|Opposition to the American Civil War
@@ -40979,6 +41033,7 @@ Women's clothing|->|Clothing
 Women's International League for Peace and Freedom. Congress (1st : 1915 : Hague, Netherlands)|=|Women at the Hague
 Women's police stations|=|Women's police station
 Women's Revolt, Nigeria, 1929|<->|Women's War
+Women's studies -- Periodicals|<->|List of women's studies journals
 W&#x014f;n Pulgyo (Sect)|=|Won Buddhism
 Wonder Woman (Fictitious character)|=|Wonder Woman
 Wonderland (Imaginary place)|<->|Wonderland (fictional country)
@@ -41900,6 +41955,7 @@ Zooxanthella|=|Zooxanthellae
 Zoological Garden (Kolkata, India)|=|Zoological Garden, Alipore
 Zoological specimens|=|Zoological specimen
 Zoologists|->|Zoology
+Zoology -- Periodicals|<->|List of zoology journals
 Zoom lenses|=|Zoom lens
 Zoonoses|=|Zoonosis
 Zoot Suit Riots, Los Angeles, Calif., 1943|=|Zoot Suit Riots
