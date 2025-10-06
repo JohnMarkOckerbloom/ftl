@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2025-08-19
-# Manual Sweep: resume at Denmark (& check Toronto Public Library, down earlier)
+# Last updated 2025-10-06
+# Manual Sweep: resume at Ethiopia
 
 ID OLBP
 NAME The Online Books Page
@@ -150,8 +150,8 @@ ID AU-VDU
 NAME Deakin University
 LOCATION Melbourne and other campuses, Victoria
 COUNTRY AU
-CATTYPE eds
-LCODE deakin
+BASEURL https://library.deakin.edu.au
+CATTYPE innopac
 
 ID OCLC-ER0
 NAME Edith Cowan University
@@ -337,16 +337,14 @@ COUNTRY AU
 BASEURL https://trove.nla.gov.au
 KEYURL ${BASEURL}/result?q=${ARG}
 
-# This only gets local holdings (haven't figured out a LOC or SCOPE
-# code that will get both local holdings and online resources)
 ID AU-SUA
 NAME University of Adelaide
 LOCATION Adelaide and vicinity, South Australia
 COUNTRY AU
-CATTYPE primodl
-BASEURL http://adelaide.hosted.exlibrisgroup.com
-VID SUA
-LCODE SUA
+CATTYPE primo-ve
+BASEURL https://librarysearch.adelaide.edu.au
+VID 61ADELAIDE_INST:UOFA
+SCOPE all
 
 ID OCLC-UMV
 NAME University of Melbourne
@@ -429,6 +427,13 @@ CATTYPE primo-ve
 BASEURL https://uws.primo.exlibrisgroup.com
 VID 61UWSTSYD_INST:UWS_ALMA
 SCOPE MyInst_and_CI
+
+ID OCLC-AUYLL
+NAME Your Library
+LOCATION Knox, Maroondah and Yarra Ranges, Victoria
+COUNTRY AU
+CATTYPE spydus-config
+BASEURL https://yourlibrary.spydus.com/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?
 
 ID OCLC-A9W
 NAME Universit&auml;t Wien
@@ -1546,20 +1551,22 @@ VID hub_ub
 LCODE HUB
 LOC adaptor,scope:(HUB_UB_ALMA),primo_central_multiple_fe
 
+# Because most Danish libraries don't appear to catalog in English,
+#  we'll use keyword searches to get better results there
 ID BIBLIOTEKDK
 NAME Bibliotek.dk
 LOCATION Libraries across Denmark
 COUNTRY DK
-CATTYPE tingdk
-BASEURL https://bibliotek.dk
+BASEURL https://bibliotek.dk/find
+KEYURL ${BASEURL}?q.all=${ARG:NK}
 
 # We'll use the Odense Central Library's ID for this consortial OPAC
 ID DK-746100
 NAME Odense Bibliotekerne
 LOCATION Odense; English search terms may give limited or imprecise results
 COUNTRY DK
-CATTYPE tingdk
-BASEURL https://www.odensebib.dk
+BASEURL https://www.odensebib.dk/search
+KEYURL ${BASEURL}?q=${ARG:NK}
 
 # This is a SIRSI catalog, but forcing keyword search due to limited results
 ID OCLC-BNM

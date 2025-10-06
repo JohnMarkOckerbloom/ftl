@@ -6,10 +6,10 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation
-# Last updated 2025-08-17
+# Last updated 2025-09-24
 # TV program sweep picks up from A
 # Resume native treaty sweep from L (https://en.wikipedia.org/wiki/Category:United_States_and_Native_American_treaties; search treaty + year in LCAuthorities)
-# Resume wbookfile ...TSUB sweep with author Dunayevskaya
+# Resume wbookfile ...TSUB sweep with authors starting with Fritsche
 10 items or less (Television program)|=|10 Items or Less (TV series)
 10 things I hate about you (Motion picture)|=|10 Things I Hate About You
 10 things I hate about you (Television program)|=|10 Things I Hate About You (TV series)
@@ -235,7 +235,7 @@ Alfonso X, King of Castile and Leon, 1221-1284. General estoria|=|General Estori
 Alfonso X, King of Castile and Leon, 1221-1284. Primera cr&oacute;nica general|=|Estoria de España
 Alford, Henry, 1810-1871. Come, ye thankful people, come|=|Come, Ye Thankful People, Come
 Alfred the Great (Motion picture)|=|Alfred the Great (film)
-Ali (Motion picture)|=|Ali (film)
+Ali (Motion picture)|=|Ali (2001 film)
 Ali Baba (Folk tale)|=|Ali Baba and the Forty Thieves
 Ali Baba and the forty thieves (Motion picture : 1944)|=|Ali Baba and the Forty Thieves (1944 film)
 Alice doesn't live here anymore (Motion picture)|=|Alice Doesn't Live Here Anymore
@@ -261,7 +261,7 @@ All the president's men (Motion picture)|=|All the President's Men (film)
 All the pretty horses (Motion picture)|=|All the Pretty Horses (film)
 All the right moves (Motion picture)|=|All the Right Moves (film)
 All&aacute; en el Rancho Grande (Motion picture : 1936)|=|Allá en el Rancho Grande
-Alla luce del sole (Motion picture)|=|Alla luce del sole
+Alla luce del sole (Motion picture)|=|Come into the Light
 Alle Jahre wieder (Motion picture)|=|Next Year, Same Time
 Allegro non troppo (Motion picture)|=|Allegro non troppo
 Alligator (Motion picture : 1980)|=|Alligator (film)
@@ -494,7 +494,7 @@ Arizona (Motion picture : 1918)|=|Arizona (1918 film)
 Arizona (Motion picture : 1931)|=|Arizona (1931 film)
 Arlington Road (Motion picture)|=|Arlington Road
 Armageddon (Motion picture : 1998)|=|Armageddon (1998 film)
-Armata Brancaleone (Motion picture)|=|L'armata Brancaleone
+Armata Brancaleone (Motion picture)|=|For Love and Gold
 Armored (Motion picture)|=|Armored (film)
 Arms Trade Treaty (2013 June 3)|=|Arms Trade Treaty
 Army of darkness (Motion picture)|=|Army of Darkness
@@ -1358,6 +1358,9 @@ Bible. Maccabees, 1st|=|1 Maccabees
 Bible. Maccabees, 2nd|=|2 Maccabees
 Bible. Malachi|=|Book of Malachi
 Bible. Mark|=|Gospel of Mark
+Bible. Massachuset. Eliot|<->|Eliot Indian Bible
+Bible. Massachuset. Eliot. 1663|->|Eliot Indian Bible
+Bible. Massachuset. Eliot. 1685|->|Eliot Indian Bible
 Bible. Matthew|=|Gospel of Matthew
 Bible. Micah|=|Book of Micah
 Bible. Minor Prophets|<->|Twelve Minor Prophets
@@ -1590,7 +1593,6 @@ Bobby (Motion picture : 2002)|=|Bobby (2002 film)
 Bobby (Motion picture : 2006)|=|Bobby (2006 film)
 Bobby Jones--stroke of genius (Motion picture)|=|Bobby Jones: Stroke of Genius
 Boccaccio, Giovanni, 1313-1375. Amorosa visione|=|Amorosa visione
-Boccaccio, Giovanni, 1313-1375. Buccolicum carmen|=|Bucolicum carmen
 Boccaccio, Giovanni, 1313-1375. Corbaccio|=|Corbaccio
 Boccaccio, Giovanni, 1313-1375. De casibus virorum illustrium|=|De casibus virorum illustrium
 Boccaccio, Giovanni, 1313-1375. De mulieribus claris|=|De Mulieribus Claris
@@ -1776,6 +1778,10 @@ Bullitt (Motion picture)|=|Bullitt
 Bulworth (Motion picture)|=|Bulworth
 Bunker Palace Hotel (Motion picture)|=|Bunker Palace Hôtel
 Bunny Lake is missing (Motion picture)|=|Bunny Lake Is Missing
+Bunyan, John, 1628-1688. Grace abounding to the chief of sinners|=|Grace Abounding to the Chief of Sinners
+Bunyan, John, 1628-1688. Holy war|=|The Holy War
+Bunyan, John, 1628-1688. Life and death of Mr. Badman|=|The Life and Death of Mr Badman
+Bunyan, John, 1628-1688. Pilgrim's progress|=|The Pilgrim's Progress
 Burden of dreams (Motion picture)|=|Burden of Dreams
 Buried alive (Motion picture : 2007)|=|Buried Alive (2007 film)
 Burke, Edmund, 1729-1797. Philosophical enquiry into the origin of our ideas of the sublime and beautiful|=|A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful
@@ -1879,6 +1885,8 @@ Camila (Motion picture)|=|Camila (film)
 Camille (Motion picture : 1921)|=|Camille (1921 film)
 Camille (Motion picture : 1936)|=|Camille (1936 film)
 Camille 2000 (Motion picture)|=|Camille 2000
+Cam&otilde;es, Lu&iacute;s de, 1524?-1580. Anfitri&otilde;es|=|Anfitriões
+Cam&otilde;es, Lu&iacute;s de, 1524?-1580. Lus&iacute;adas|=|Os Lusíadas
 Camp (Motion picture : 2003)|=|Camp (2003 film)
 Camp David Agreements (1978)|=|Camp David Accords
 Camp Rock (Motion picture)|=|Camp Rock
@@ -2521,6 +2529,7 @@ Cussler, Clive. Raise the Titanic!|=|Raise the Titanic!
 Cussler, Clive. Sea hunters|=|The Sea Hunters: True Adventures with Famous Shipwrecks
 Cussler, Clive. Striker|=|The Striker
 Cutthroat Island (Motion picture)|=|Cutthroat Island
+CVS|=|Concurrent Versions System
 Cynara (Motion picture : 1932)|=|Cynara (1932 film)
 Cynewulf. Elene|=|Elene
 Cynewulf. Fates of the Apostles|=|The Fates of the Apostles
@@ -2787,7 +2796,7 @@ Dimanche &agrave; la campagne (Motion picture)|=|A Sunday in the Country
 Diner (Motion picture)|<->|Diner (1982 film)
 Dinosaur (Motion picture : 2000)|=|Dinosaur (2000 film)
 Dinosaur and the missing link, a prehistoric tragedy (Motion picture)|=|The Dinosaur and the Missing Link: A Prehistoric Tragedy
-Diodorus, Siculus. Bibliotheca historica|=|Bibliotheca historica
+Diodorus, Siculus. Bibliotheca historica|=|Bibliotheca Historica
 Dioscorides Pedanius, of Anazarbos. De materia medica|=|De materia medica
 Dirty dancing (Motion picture)|=|Dirty Dancing
 Dirty dancing: Havana nights (Motion picture)|=|Dirty Dancing: Havana Nights
@@ -3057,6 +3066,8 @@ Emil and the detectives (Motion picture : 1935)|=|Emil and the Detectives (1935 
 Emil und die Detektive (Motion picture : 1931)|=|Emil and the Detectives (1931 film)
 Emil und die Detektive (Motion picture : 2001)|=|Emil and the Detectives (2001 film)
 Emma (Motion picture : 1996)|=|Emma (1996 theatrical film)
+Emmett, Daniel Decatur, 1815-1904. Dixie|=|Dixie (song)
+Emmett, Daniel Decatur, 1815-1904. I'm gwine ober de mountains|=|I'm Gwine ober de Mountain
 Emperor's club (Motion picture)|=|The Emperor's Club
 Emperor's new groove (Motion picture)|=|The Emperor's New Groove
 Empire of the sun (Motion picture)|=|Empire of the Sun (film)
@@ -3372,6 +3383,7 @@ Forbidden planet (Motion picture)|=|Forbidden Planet
 Force awakens (Motion picture)|=|Star Wars: The Force Awakens
 Force of evil (Motion picture)|=|Force of Evil
 Forces occultes (Motion picture)|=|Forces occultes
+Ford, Henry, 1863-1947. International Jew|=|The International Jew
 Foreign affair (Motion picture : 1948)|=|A Foreign Affair
 Foreign correspondent (Motion picture)|=|Foreign Correspondent (film)
 Forever Amber (Motion picture)|=|Forever Amber (film)
@@ -3583,6 +3595,7 @@ Google Voice (Electronic resource)|=|Google Voice
 Google+ (Electronic resource)|=|Google+
 Great Britain. Stamp Act (1765)|=|Stamp Act 1765
 Great Britain. Treaties, etc. Ireland, 1998 April 10|=|Good Friday Agreement
+Greek Apocalypse of Baruch|=|3 Baruch
 Greenfoot (Electronic resource)|=|Greenfoot
 Greenville, Treaty of, 1795|=|Treaty of Greenville
 Grey, Zane, 1872-1939. Border legion|=|The Border Legion
@@ -3600,7 +3613,11 @@ Grey, Zane, 1872-1939. Under the Tonto Rim|=|Under the Tonto Rim (novel)
 Grimm, Jacob, 1785-1863. Daumesdick|<->|Thumbling
 Grimm, Jacob, 1785-1863. Deutsche Mythologie|=|Deutsche Mythologie
 Grimm, Jacob, 1785-1863. Deutsches W&ouml;rterbuch|<->|Deutsches Wörterbuch
+Grotius, Hugo, 1583-1645. De jure belli ac pacis libri tres|=|De jure belli ac pacis
+Grotius, Hugo, 1583-1645. Mare liberum|=|Mare Liberum
+Grotius, Hugo, 1583-1645. Ordinum Hollandiae ac Westfrisiae pietas|=|Ordinum Hollandiae ac Westfrisiae pietas
 Gruber, Franz Xaver, 1787-1863. Stille Nacht, heilige Nacht|=|Silent Night
+G&uuml;eg&uuml;ense|=|El Güegüense
 Guillaume de Palerne|=|Guillaume de Palerme
 Guisewite, Cathy. Cathy|=|Cathy
 Gunn, Robin Jones, 1955- Sierra Jensen series|=|The Sierra Jensen Series
@@ -3626,6 +3643,7 @@ Haggard, H. Rider (Henry Rider), 1856-1925. She|=|She: A History of Adventure
 Haggard, H. Rider (Henry Rider), 1856-1925. She and Allan|=|She and Allan
 Haggard, H. Rider (Henry Rider), 1856-1925. Tale of three lions|->|Allan's Wife and Other Tales
 Haldane, J. B. S. (John Burdon Sanderson), 1892-1964. Daedalus|=|Daedalus; or, Science and the Future
+Hale, Edward Everett, 1822-1909. Man without a country|=|The Man Without a Country
 Half-life (Computer file)|<->|Half-Life (video game)
 Hamlet (Motion picture : 1948)|=|Hamlet (1948 film)
 Hamlet (Motion picture : 1969)|=|Hamlet (1969 film)
@@ -3803,8 +3821,21 @@ Hurston, Zora Neale. Hitting a straight lick with a crooked stick|=|Hitting a St
 Hurston, Zora Neale. Moses, man of the mountain|=|Moses, Man of the Mountain
 Hurston, Zora Neale. Their eyes were watching God|=|Their Eyes Were Watching God
 Hurt locker (Motion picture)|=|The Hurt Locker
+Huxley, Aldous, 1894-1963. After many a summer dies the swan|=|After Many a Summer
+Huxley, Aldous, 1894-1963. After the fireworks|<->|After the Fireworks: Three Novellas
+Huxley, Aldous, 1894-1963. Beyond the Mexique Bay|=|Beyond the Mexique Bay
+Huxley, Aldous, 1894-1963. Brave new world|=|Brave New World
+Huxley, Aldous, 1894-1963. Crome yellow|=|Crome Yellow
+Huxley, Aldous, 1894-1963. Crows of Pearblossom|=|The Crows of Pearblossom
+Huxley, Aldous, 1894-1963. Devils of Loudun|=|The Devils of Loudun
+Huxley, Aldous, 1894-1963. Eyeless in Gaza|=|Eyeless in Gaza (novel)
+Huxley, Aldous, 1894-1963. Genius and the goddess|=|The Genius and the Goddess
+Huxley, Aldous, 1894-1963. Little Mexican|<->|Little Mexican and Other Stories
+Huxley, Aldous, 1894-1963. Point counter point|=|Point Counter Point
+Huxley, Aldous, 1894-1963. Those barren leaves|=|Those Barren Leaves
 Hymnal 1982|=|The Hymnal 1982
 Iamblichus, approximately 250-approximately 330. De mysteriis|=|On the Mysteries of the Egyptians, Chaldeans, and Assyrians
+IBM Database 2|<->|IBM Db2
 Ibsen, Henrik, 1828-1906. Bygmester Solness|=|The Master Builder
 Ibsen, Henrik, 1828-1906. Catilina|=|Catiline (play)
 Ibsen, Henrik, 1828-1906. Dukkehjem|=|A Doll's House
@@ -3878,6 +3909,7 @@ JavaFX (Electronic resource)|=|JavaFX
 Jefferson, Thomas, 1743-1826. Life and morals of Jesus of Nazareth|<->|Jefferson Bible
 Jefferson, Thomas, 1743-1826. Notes on the state of Virginia|=|Notes on the State of Virginia
 Jenkins (Software development tool)|=|Jenkins (software)
+Jensen, Wilhelm, 1837-1911. Gradiva|=|Gradiva (novel)
 Jeopardy (Television program)|=|Jeopardy!
 Jerome, Saint, -419 or 420. Chronicon|=|Chronicon (Jerome)
 Jerome, Saint, -419 or 420. De viris illustribus|=|De Viris Illustribus (Jerome)
@@ -3982,15 +4014,15 @@ LaHaye, Tim, 1926-2016. Babylon rising (Series)|=|Babylon Rising
 LaHaye, Tim, 1926-2016. Desecration|=|Desecration (novel)
 LaHaye, Tim, 1926-2016. Glorious appearing|=|Glorious Appearing
 LaHaye, Tim, 1926-2016. Indwelling|=|The Indwelling
-LaHaye, Tim, 1926-2016. Kingdom come|=|Kingdom Come (LaHaye novel)
+LaHaye, Tim, 1926-2016. Kingdom come|->|Left Behind
 LaHaye, Tim, 1926-2016. Left behind series|<->|Left Behind
 LaHaye, Tim, 1926-2016. Mark|=|The Mark (novel)
-LaHaye, Tim, 1926-2016. Nicolae|=|Nicolae (novel)
-LaHaye, Tim, 1926-2016. Rapture|=|The Rapture (novel)
-LaHaye, Tim, 1926-2016. Regime|=|The Regime (novel)
+LaHaye, Tim, 1926-2016. Nicolae|->|Left Behind
+LaHaye, Tim, 1926-2016. Rapture|->|Left Behind
+LaHaye, Tim, 1926-2016. Regime|->|Left Behind
 LaHaye, Tim, 1926-2016. Remnant|=|The Remnant (novel)
 LaHaye, Tim, 1926-2016. Rising|=|The Rising (LaHaye novel)
-LaHaye, Tim, 1926-2016. Soul harvest|=|Soul Harvest
+LaHaye, Tim, 1926-2016. Soul harvest|->|Left Behind
 LaHaye, Tim, 1926-2016. Tribulation force|=|Tribulation Force
 Langland, William, 1330?-1400? Piers Plowman|=|Piers Plowman
 Laravel (Software framework)|=|Laravel
@@ -4186,9 +4218,15 @@ Lucian, of Samosata. P&omacr;s dei historian syngraphein|=|How to Write History
 Lucian, of Samosata. Toxaris|=|Toxaris
 Lucian, of Samosata. Vera historia|=|A True Story
 Lucretius Carus, Titus. De rerum natura|=|De rerum natura
+Luxemburg, Rosa, 1871-1919. Akkumulation des Kapitals|=|The Accumulation of Capital
+Luxemburg, Rosa, 1871-1919. Krise der Sozialdemokratie|=|Junius Pamphlet
+Luxemburg, Rosa, 1871-1919. Massenstreik|<->|The Mass Strike, the Political Party and the Trade Unions
+Luxemburg, Rosa, 1871-1919. Russische Revolution|=|The Russian Revolution (pamphlet)
+Luxemburg, Rosa, 1871-1919. Sozialreform oder Revolution?|=|Social Reform or Revolution?
 Lyell, Charles, Sir, 1797-1875. Geological evidences of the antiquity of man|=|Geological Evidences of the Antiquity of Man
 Lyell, Charles, Sir, 1797-1875. Principles of geology|=|Principles of Geology
 M*A*S*H (Television program)|=|M*A*S*H (TV series)
+M'arat gaze|=|Cave of Treasures
 MacDonald, George, 1824-1905. Elect lady|=|The Elect Lady
 MacDonald, George, 1824-1905. Golden key|=|The Golden Key (MacDonald book)
 MacDonald, George, 1824-1905. Light princess|=|The Light Princess
@@ -4228,6 +4266,8 @@ Manilius, Marcus. Astronomicon|=|Astronomica (Manilius)
 Mannix (Television program)|=|Mannix
 MapReduce (Computer file)|<->|MapReduce
 Marcus Aurelius, Emperor of Rome, 121-180. Meditations|=|Meditations
+Marsilius, of Padua, -1342? Defensor minor|=|Defensor minor
+Marsilius, of Padua, -1342? Defensor pacis|=|Defensor pacis
 Mart&iacute;, Jos&eacute;, 1853-1895. Versos sencillos|=|Simple Verses
 Marx, Karl, 1818-1883. Achtzehnte Brumaire des Louis Bonaparte|=|The Eighteenth Brumaire of Louis Bonaparte
 Marx, Karl, 1818-1883. B&uuml;rgerkrieg in Frankreich|=|The Civil War in France
@@ -4250,7 +4290,7 @@ Marx, Karl, 1818-1883. Value, price, and profit|=|Value, Price and Profit
 Marx, Karl, 1818-1883. Zur Judenfrage|=|On the Jewish Question
 Marx, Karl, 1818-1883. Zur Kritik der politischen &Ouml;konomie|=|A Contribution to the Critique of Political Economy
 MASH (Motion picture)|=|M*A*S*H (film)
-Mathematica (Computer file)|<->|Wolfram (software)
+Mathematica (Computer file)|<->|Wolfram Mathematica
 Mather, Cotton, 1663-1728. Magnalia Christi Americana|=|Magnalia Christi Americana
 Mather, Cotton, 1663-1728. Wonders of the invisible world|=|Wonders of the Invisible World
 Mayo, Katherine, 1867-1940. Mother India|=|Mother India (book)
@@ -4440,6 +4480,7 @@ More, Thomas, Saint, 1478-1535. Responsio ad Lutherum|=|Responsio ad Lutherum
 More, Thomas, Saint, 1478-1535. Utopia|=|Utopia (book)
 More, Thomas, Saint, 1478-1535. Works. 1963|=|Yale Edition of the Complete Works of St. Thomas More
 Moretti, Giuseppe, 1857 or 1859-1935. Vulcan|<->|Vulcan statue
+Morgan, Lewis Henry, 1818-1881. Ancient society|=|Ancient Society
 Morrison, Toni. Beloved|=|Beloved (novel)
 Morrison, Toni. Bluest eye|=|The Bluest Eye
 Morrison, Toni. God help the child|=|God Help the Child
@@ -4474,6 +4515,7 @@ Nuclear Test Ban Treaty (1963)|=|Partial Nuclear Test Ban Treaty
 Nuke (Electronic resource)|=|Nuke (software)
 O'Connor, Jane. Fancy Nancy|=|Fancy Nancy
 Obama, Barack. Dreams from my father|=|Dreams from My Father
+Oberammergauer Passionsspiel|=|Oberammergau Passion Play
 Oberon|<->|Oberon (programming language)
 Oberon|<-|Oberon (operating system)
 Omar Khayyam. Rub&amacr;&#x02bb;&imacr;y&amacr;t|<->|Rubaiyat of Omar Khayyam
@@ -4544,7 +4586,19 @@ Patterson, James, 1947- Worst years of my life|=|Middle School: The Worst Years 
 PAW patrol (Television program)|<->|Paw Patrol
 Peace of Westphalia (1648)|<->|Peace of Westphalia
 Pearl (Middle English poem)|=|Pearl (poem)
+Penitential Psalms|=|Penitential psalm
 Perforce (Electronic resource)|<->|Perforce
+Petrarca, Francesco, 1304-1374. Ad Dyonisium de Burgo Sancti Sepulcri ... de curis propriis|<->|Ascent of Mont Ventoux
+Petrarca, Francesco, 1304-1374. Africa|=|Africa (Petrarch)
+Petrarca, Francesco, 1304-1374. Bucolicum carmen|=|Bucolicum carmen
+Petrarca, Francesco, 1304-1374. De remediis utriusque fortunae|=|De remediis utriusque fortunae
+Petrarca, Francesco, 1304-1374. De viris illustribus|=|De viris illustribus (Petrarch)
+Petrarca, Francesco, 1304-1374. De vita solitaria|=|De vita solitaria
+Petrarca, Francesco, 1304-1374. Epistolae familiares|=|Epistolae familiares
+Petrarca, Francesco, 1304-1374. Rime|<->|Il Canzoniere
+Petrarca, Francesco, 1304-1374. Secretum|=|Secretum (book)
+Petrarca, Francesco, 1304-1374. Sine nomine|=|Liber sine nomine
+Petrarca, Francesco, 1304-1374. Trionfi|=|Triumphs
 Petronius Arbiter. Satyricon|=|Satyricon
 Phantom of the Opera (Motion picture : 1925)|=|The Phantom of the Opera (1925 film)
 Phantom of the Opera (Motion picture : 1943)|=|Phantom of the Opera (1943 film)
@@ -4708,6 +4762,8 @@ Puranas. Vi&#x1e63;&#x1e47;udharmottarapur&amacr;&#x1e47;a|=|Vishnudharmottara P
 Puranas. Vi&#x1e63;&#x1e47;upur&amacr;&#x1e47;a|=|Vishnu Purana
 Qt (Electronic resource)|=|Qt (software)
 Quartz (Electronic resource)|<->|Quartz (graphics layer)
+# haven't yet scanned for other titles starting with Quebec.
+Qu&eacute;bec (Province). Quebec Act|=|Quebec Act
 Quicken (Computer file)|=|Quicken
 Quintilian. Institutiones oratoriae|=|Institutio Oratoria
 Qur'an|=|Quran
@@ -4826,6 +4882,9 @@ Revolutionary age (Boston, Mass.)|=|The Revolutionary Age
 Richard III (Motion picture : 1912)|=|Richard III (1912 film)
 Richard III (Motion picture : 1955)|=|Richard III (1955 film)
 Richard III (Motion picture : 1995)|=|Richard III (1995 film)
+Richardson, Samuel, 1689-1761. Clarissa|=|Clarissa; or, The History of a Young Lady
+Richardson, Samuel, 1689-1761. History of Sir Charles Grandison|=|The History of Sir Charles Grandison
+Richardson, Samuel, 1689-1761. Pamela|=|Pamela; or, Virtue Rewarded
 Rodin, Auguste, 1840-1917. Burghers of Calais|=|The Burghers of Calais
 Rodin, Auguste, 1840-1917. Dana&iuml;de|=|Danaid (Rodin)
 Rodin, Auguste, 1840-1917. Eve|=|Eve (Rodin)
@@ -4858,6 +4917,10 @@ Rousseau, Jean-Jacques, 1712-1778. Rousseau juge de Jean-Jacques|=|Dialogues: Ro
 RPM (Computer file)|=|RPM Package Manager
 Ruby on rails (Electronic resource)|=|Ruby on Rails
 Rumpelstiltskin (Folk tale)|<->|Rumpelstiltskin
+Ruskin, John, 1819-1900. King of the Golden River|=|The King of the Golden River
+Ruskin, John, 1819-1900. Modern painters|=|Modern Painters
+Ruskin, John, 1819-1900. Stones of Venice|=|The Stones of Venice (book)
+Ruskin, John, 1819-1900. Unto this last|=|Unto This Last
 Sa'd&imacr;. B&umacr;st&amacr;n|=|Bustan (book)
 Sa'd&imacr;. Gulist&amacr;n|=|Gulistan (book)
 Samba (Computer file)|<->|Samba (software)
@@ -5168,6 +5231,7 @@ Synge, J. M. (John Millington), 1871-1909. Deirdre of the sorrows|=|Deirdre of t
 Synge, J. M. (John Millington), 1871-1909. In the shadow of the glen|=|In the Shadow of the Glen
 Synge, J. M. (John Millington), 1871-1909. Playboy of the western world|=|The Playboy of the Western World
 Synge, J. M. (John Millington), 1871-1909. Riders to the sea|=|Riders to the Sea
+Syriac Apocalypse of Baruch|=|2 Baruch
 Ta'if Agreement (1989)|=|Taif Agreement
 Tacitus, Cornelius. Agricola|=|Agricola (book)
 Tacitus, Cornelius. Annales|=|Annals (Tacitus)
@@ -5463,6 +5527,7 @@ Treaty of M&uuml;nster (1648 January 30)|=|Peace of Münster
 Treaty of Mutual Cooperation and Security between the United States of America and Japan (1960 January 19)|<->|Treaty of Mutual Cooperation and Security between the United States and Japan
 Treaty of Passarowitz (1718)|=|Treaty of Passarowitz
 Treaty of Peace and Friendship (1791 July 2)|=|Treaty of Holston
+Treaty of Peace Between the Allied and Associated Powers and Austria (1919 September 10)|=|Treaty of Saint-Germain-en-Laye (1919)
 Treaty of Peace, Friendship, Limits, and Settlement Between the United States of America and the Mexican Republic (1848 February 2)|=|Treaty of Guadalupe Hidalgo
 Treaty of Peace with Japan (1951 September 8)|=|Treaty of San Francisco
 Treaty of Perpetual Friendship, Cession and Limits (1830 September 27)|=|Treaty of Dancing Rabbit Creek
@@ -5481,6 +5546,7 @@ Treaty on the Non-proliferation of Nuclear Weapons (1968 June 12)|=|Treaty on th
 Treaty on the Prohibition of the Emplacement of Nuclear Weapons and Other Weapons of Mass Destruction on the Seabed and the Ocean Floor and in the Subsoil Thereof (1971 February 11)|=|Seabed Arms Control Treaty
 Treaty on the Protection of Artistic and Scientific Institutions and Historic Monuments (1935)|=|Roerich Pact
 Treaty to Avoid or Prevent Conflicts Between the American States (1923)|=|Pan-American Treaty (1923)
+Tripi&#x1e6d;aka|<->|Buddhist canons
 Tripit&#x0323;aka. Abhidharmapit&#x0323;aka|=|Abhidhamma Piṭaka
 Tripit&#x0323;aka. S&umacr;trapit&#x0323;aka. Aks&#x0323;ayamatinirde&sacute;as&umacr;tra|=|Akṣayamatinirdeśa Sūtra
 Tripit&#x0323;aka. S&umacr;trapit&#x0323;aka. Amit&amacr;yurdhy&amacr;nas&umacr;tra|=|Amitāyus Contemplation Sūtra

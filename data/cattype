@@ -638,12 +638,6 @@ TITURL ${BASEURL}/search?f1=title&p1=${ARG:NK}
 ATIURL ${BASEURL}/search?f1=author&p1=${AUTHOR:SNK}&f2=title&p2=${TITLE:SNK}
 KEYURL ${BASEURL}/search?p=${ARG:NK}
 
-# A Danish library catalog effort
-# Because most Danish libraries don't appear to catalog in English,
-#  we'll use a keyword search to get better results
-CATTYPE tingdk
-KEYURL ${BASEURL}/search/ting/${ARG:NK}
-
 # Figure most Tinycat installations won't have much standard subject indexing,
 # so default to keyword search for that
 CATTYPE tinycat
