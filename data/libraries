@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2025-10-06
-# Manual Sweep: resume at Ethiopia
+# Last updated 2025-11-04
+# Manual Sweep: resume at Italy (check Ethiopia, Ghana, & Iran later)
 
 ID OLBP
 NAME The Online Books Page
@@ -1525,6 +1525,16 @@ LCODE es_ES/default
 BASEURL https://catalogoenlinea.bibliotecanacional.gov.co
 FILTERS SNK
 
+# I was given title pattern; keyword pattern is just a guess
+ID OCLC-CUNJM
+NAME Biblioteca Nacional Jos&eacute; Mart&iacute;
+LOCATION Havana
+COUNTRY CU
+BASEURL https://bnjm.cu/catalogos/simple_catalog
+KEYURL ${BASEURL}/keyword/aproximada/${ARG:SNK}/todos/vac%C3%ADo/0
+TITURL ${BASEURL}/title/aproximada/${ARG:SNK}/todos/vac%C3%ADo/0
+AUTURL ${BASEURL}/author/aproximada/${ARG:SNK}/todos/vac%C3%ADo/0
+
 ID OCLC-UPX
 NAME University of Cyprus
 LOCATION Nicosia
@@ -1653,17 +1663,13 @@ BASEURL http://156.38.97.107:8001
 CATTYPE koha
 FILTERS SNK
 
-# Like the Estonian library we cover, this
-# is a zoned innopac, with prefix for specific library
-# and limited subject coverage.  May want to make this a new cattype
 ID OCLC-GRION
 NAME Ionian University
 LOCATION Corfu; English search terms may give limited results
 COUNTRY GR
-BASEURL https://opac.seab.gr/search~S9/X
-AUTURL ${BASEURL}?searchtype=a&searcharg=${ARG:N}
-TITURL ${BASEURL}?searchtype=t&searcharg=${ARG:N}
-KEYURL ${BASEURL}?searchtype=X&searcharg=${ARG:N}
+BASEURL https://ionio-opac.seab.gr
+CATTYPE koha
+FILTERS SNK
 
 # Not found in Worldcat registry, but I don't know if I'm searching right
 # Subject coverage is limited; drop back to general keywoprd for it
@@ -1722,28 +1728,12 @@ COUNTRY IQ
 BASEURL https://iraqnla.gov.iq/opac/index.php
 KEYURL ${BASEURL}?q=${ARG:SNK}
 
-ID OCLC-DBX
-NAME Dublin Institute of Technology
-LOCATION Dublin
-COUNTRY IE
-BASEURL http://library.dit.ie
-CATTYPE webpacpro
-FILTERS N
-
-ID OCLC-T9E
-NAME Institute of Technology Tallaght
-LOCATION Dublin; local access only
-COUNTRY IE
-CATTYPE eds
-LCODE s3369085
-AUTHTYPE ip,uid
-
 ID LIBRARIESIRELAND
 NAME Libraries Ireland
 LOCATION Shared catalog for Ireland public libraries
 COUNTRY IE
-BASEURL http://librariesireland.iii.com/iii/encore
-CATTYPE encore
+CATTYPE spydus-config
+BASEURL https://librariesireland.spydus.ie/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?
 
 ID NHLKSIRELAND
 NAME National Health Library and Knowledge Service
@@ -1768,6 +1758,13 @@ BASEURL https://search.library.nuigalway.ie
 VID 353GAL_VUJ
 LCODE GAL
 SCOPE LSCOP_ALL_DATA
+
+ID OCLC-DBX
+NAME Technological University Dublin
+LOCATION Dublin
+COUNTRY IE
+BASEURL https://dit.summon.serialssolutions.com
+CATTYPE summon
 
 ID OCLC-ERD
 NAME Trinity College Dublin
@@ -1795,7 +1792,7 @@ ID OCLC-INUOK
 NAME University of Kashmir
 LOCATION Srinigar
 COUNTRY IN
-BASEURL http://vlib.uok.edu.in:8080
+BASEURL http://vlib.uok.edu.in:9080
 CATTYPE chamo
 FILTERS S
 

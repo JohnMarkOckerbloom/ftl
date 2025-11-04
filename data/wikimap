@@ -10,7 +10,7 @@
 #   are not included in this file.
 # Manual title and name-title correspondences have been moved to wikiworksmap.
 # See docs file for documentation
-# Last updated 2025-10-04
+# Last updated 2025-11-03
 # Did LCSH 2015-2022 update lists: 2023 monthly list 1-3, 4 (list 1, A-Q only)
 1 Pendleton Place House (New York, N.Y.)|=|One Pendleton Place
 1009 Fifth Avenue House (New York, N.Y.)|=|Benjamin N. Duke House
@@ -694,7 +694,7 @@ Ahtena language|=|Ahtna language
 Ahwatukee (Phoenix, Ariz.)|=|Ahwatukee, Phoenix
 Ai Men (Lugang Zhen, Taiwan)|=|Lukang Ai Gate
 Aichach (Bavaria, Germany)|=|Aichach
-Aichi M6A1 Seiran (Bomber)|<->|Aichi M6A
+Aichi M6A1 Seiran (Bomber)|=|Aichi M6A Seiran
 AIDS (Disease)|=|HIV/AIDS
 AIDS (Disease) -- Africa|<->|HIV/AIDS in Africa
 AIDS (Disease) -- Botswana|<->|HIV/AIDS in Botswana
@@ -779,7 +779,7 @@ Airplanes, Military -- Camouflage|<->|Aircraft camouflage
 Airports|=|Airport
 Airs de cour|=|Air de cour
 Airships|=|Airship
-Airspace (International law)|<->|Air sovereignty
+Airspace (International law)|->|Airspace
 Airspace (Law)|<->|Airspace
 Airspeed Consul (Transport plane)|=|Airspeed Consul
 Airspeed Courier (Transport plane)|=|Airspeed Courier
@@ -3278,7 +3278,6 @@ Bardia National Park (Nepal)|=|Bardiya National Park
 Bardolph (Fictitious character from Shakespeare)|=|Bardolph (Shakespeare character)
 Bards and bardism|<->|Bard
 Bar&eacute; Indians|=|Baré people
-Bar&eacute; language|<->|Barawana language
 Barents Sea, Battle of the, 1942|=|Battle of the Barents Sea
 Barga (Mongolian people)|=|Barga (tribe)
 Bari (African people)|=|Bari people
@@ -5141,7 +5140,6 @@ Brodnicki Park Krajobrazowy (Poland)|=|Brodnica Landscape Park
 Broken Age (Game)|=|Broken Age
 Brolo (Italy)|=|Brolo
 Bromine -- Isotopes|=|Isotopes of bromine
-Br&ouml;msebro, Treaty of, 1645|=|Second Treaty of Brömsebro (1645)
 Bronco (Reconnaissance aircraft)|=|North American Rockwell OV-10 Bronco
 Bronco truck|<->|Ford Bronco
 Broneirion (Wales)|=|Broneirion
@@ -5934,7 +5932,7 @@ Canandaigua Lake (N.Y.)|=|Canandaigua Lake
 Cananea Consolidated Copper Co. Strike, 1906|=|Cananea strike
 Ca&ntilde;ari Indians|=|Cañari
 Canasta (Game)|=|Canasta
-Canaticu River (Brazil)|=|Canaticú River
+Canaticu River (Brazil)|=|Canaticu River
 Canberra (A.C.T.)|=|Canberra
 Canberra (Military aircraft)|=|English Electric Canberra
 Cancan (Dance)|=|Can-can
@@ -7195,8 +7193,8 @@ China -- Economic conditions -- 1912-1949|<->|Economic history of China (1912–
 China -- Economic conditions -- 1949-|<->|Economic history of China (1949–present)
 China -- Foreign relations|=|Foreign relations of China
 China -- History -- 1949-|=|History of the People's Republic of China
-China -- History -- 1949-1976|=|History of the People's Republic of China (1949–1976)
-China -- History -- 2002-|=|History of the People's Republic of China (2002–present)
+China -- History -- 1949-1976|=|History of China (1949–1976)
+China -- History -- 2002-|=|History of China (2002–present)
 China -- History -- An Lushan Rebellion, 755-763|=|An Lushan rebellion
 China -- History -- Antirightist Campaign, 1957-1958|<->|Anti-Rightist Campaign
 China -- History -- Boxer Rebellion, 1899-1901|=|Boxer Rebellion
@@ -8162,7 +8160,7 @@ Combatants and noncombatants (International law)|<->|Non-combatant
 Combinational circuits|<->|Combinational logic
 Combinatorial analysis|=|Combinatorics
 Combinatorial geometry|->|Discrete geometry
-Combined cycle power plants|=|Combined cycle power plant
+Combined cycle power plants|=|Combined-cycle power plant
 Combined source channel coding|=|Joint source and channel coding
 Combines (Agricultural machinery)|=|Combine harvester
 Combustion gases|<->|Exhaust gas
@@ -8465,7 +8463,7 @@ Constructivism (Psychology)|=|Constructivism (psychological school)
 Consultants|=|Consultant
 Consultation-liaison psychiatry|=|Liaison psychiatry
 Consulting engineers|->|Engineer
-Consumer cooperatives|=|Consumer cooperative
+Consumer cooperatives|=|Consumers' co-operative
 Consumer credit|->|Credit
 Consumers|=|Consumer
 Cosumnes River American Viticultural Area (Calif.)|=|Cosumnes River AVA
@@ -9065,7 +9063,7 @@ Cossack-Polish War, 1648-1657|=|Khmelnytsky Uprising
 Cossatot River (Ark.)|=|Cossatot River
 Cost and standard of living|<->|Cost of living
 Cost and standard of living|<-|Standard of living
-Cost centers (Accounting)|<->|Cost centre (business)
+Cost centers (Accounting)|<->|Cost centre
 Cost effectiveness|<->|Cost-effectiveness analysis
 Costa del Sol (Spain)|=|Costa del Sol
 Costa family|<->|Costa (surname)
@@ -14086,8 +14084,8 @@ F.W. Woolworth Company|=|F. W. Woolworth Company
 Fylde Plain (England)|=|The Fylde
 G.723.1 (Audio coding standard)|=|G.723.1
 G//ana (African people)|->|San people
-G.I. Joe (Fictitious character)|<->|G.I. Joe (comics)
-G.I. Joe figures|<->|G.I. Joe
+G.I. Joe (Fictitious character)|<->|G.I. Joe
+G.I. Joe figures|->|G.I. Joe
 G spot|=|G-spot
 G/wi (African people)|->|San people
 G1 (Smartphone)|=|HTC Dream
@@ -14309,7 +14307,7 @@ Gas industry|->|Natural gas
 Gas laws (Physical chemistry)|=|Gas laws
 Gas lift pumps|<->|Gas lift
 Gas-meters|=|Gas meter
-Gas-turbines|=|Gas turbine
+Gas-turbines|=|Gas-turbine engine
 Gas vans (Gas chambers)|=|Gas van
 Gas War, Bolivia, 2003|=|Bolivian gas conflict
 Gases|=|Gas
@@ -14426,7 +14424,7 @@ Gembloux, Battle of, Gembloux, Belgium, 1940|=|Battle of Gembloux (1940)
 Gembloux (Belgium)|=|Gembloux
 Gemjek (African people)|->|Mofu
 Gems|<->|Gemstone
-Gen13 (Fictitious characters)|<->|Gen¹³
+Gen13 (Fictitious characters)|<->|Gen13
 Gender (Grammar)|<->|Grammatical gender
 Gender (Musical instrument)|->|Gendèr
 Gender-based violence|<->|Gender-related violence
@@ -14623,7 +14621,7 @@ Germany. Reichsarbeitsdienst|=|Reich Labour Service
 Germany (Territory under Allied occupation, 1945-1955). Control Council|=|Allied Control Council
 Germany. Wehrmacht|=|Wehrmacht
 Germany (West)|=|West Germany
-Germiyan dynasty, 1300-1429|=|Germiyan dynasty
+Germiyan dynasty, 1300-1429|<->|Germiyanids
 Gerona (Spain)|=|Girona
 Gerona (Spain) -- History -- Siege, 1808-1809|<->|Siege of Gerona
 Gerona (Spain : Province)|=|Province of Girona
@@ -14742,7 +14740,7 @@ Gilson Mountains (Utah)|=|Gilson Mountains
 Gilyaks|=|Nivkh people
 Gimingham (England)|=|Gimingham
 Gimlets (Tools)|=|Gimlet (tool)
-Ginga (Bomber)|=|Yokosuka P1Y
+Ginga (Bomber)|=|Yokosuka P1Y Ginga
 Gingerbread men|=|Gingerbread man
 Gingivitis, Necrotizing ulcerative|<->|Necrotizing gingivitis
 Ginsberg family|<->|Günzburg (surname)
@@ -16482,6 +16480,7 @@ Herefordshire (England)|=|Herefordshire
 Herero (African people)|=|Herero people
 Herisau (Switzerland)|=|Herisau
 Heritage Foundation (Washington, D.C.)|=|The Heritage Foundation
+Heritage Island (Washington, D.C.)|->|Kingman and Heritage Islands
 Heritage Square Site (Phoenix, Ariz.)|->|Downtown Phoenix
 Heritage USA (Fort Mill, S.C.)|=|Heritage USA
 Herm (Guernsey)|=|Herm
@@ -17465,7 +17464,7 @@ Hytten family|<->|Hytten
 I (The letter)|=|I
 I AM Religious Activity|=|"I AM" Activity
 I.G. Farben Trial, Nuremberg, Germany, 1947-1948|=|IG Farben Trial
-I2C (Computer bus)|=|I²C
+I2C (Computer bus)|=|I2C
 IA-64 (Computer architecture)|=|IA-64
 Ia Drang Valley, Battle of, Vietnam, 1965|<->|Battle of Ia Drang
 Iago (Fictitious character)|=|Iago
@@ -19017,7 +19016,7 @@ Jericho Beach (B.C.)|=|Jericho Beach
 Jermuk (Armenia)|=|Jermuk
 Jermyn Street (London, England)|=|Jermyn Street
 Jerome State Historic Park (Jerome, Ariz.)|=|Jerome State Historic Park
-Jerry (Fictitious character : Hanna and Barbera)|=|Jerry Mouse
+Jerry (Fictitious character : Hanna and Barbera)|=|Jerry (Tom and Jerry)
 Jersey, Battle of, Jersey, 1781|=|Battle of Jersey
 Jersey Devil (Monster)|=|Jersey Devil
 Jerusalem -- History -- Latin Kingdom, 1099-1244|<->|Kingdom of Jerusalem
@@ -19345,7 +19344,7 @@ July Handicap (Horse race)|<->|Durban July Handicap
 Jumano Indians|=|Jumanos
 Jumbo, Mount (Mont.)|=|Mount Jumbo
 Jumbo Water Tower (Colchester, England)|=|Jumbo Water Tower
-Jumma (Bangladeshi people)|=|Jumma people
+Jumma (Bangladeshi people)|=|Jumma (ethnic group)
 Jump rope rhymes|=|Skipping-rope rhyme
 Jumping mice|<->|Zapodidae
 June (Month)|=|June
@@ -19621,7 +19620,7 @@ Kansas State College|->|Kansas State University
 Kanshi (Japanese poetry)|<->|Kanshi (poetry)
 Kantele (Musical instrument)|=|Kantele
 Kantishna River (Alaska)|=|Kantishna River
-Kanto Earthquake, Japan, 1923|=|1923 Great Kantō earthquake
+Kanto Earthquake, Japan, 1923|=|Great Kantō Earthquake
 Kantrum (Music)|=|Kantrum
 Kanuga (N.C.)|=|Kanuga Conference Center
 Kanuri (African people)|=|Kanuri people
@@ -19836,6 +19835,7 @@ Kensington (London, England)|=|Kensington
 Kensington Gardens (London, England)|=|Kensington Gardens
 Kensington Metropolitan Park (Mich.)|=|Kensington Metropark
 Kensington Palace (London, England)|=|Kensington Palace
+Kensington Rune Stone|=|Kensington Runestone
 Kent (England)|=|Kent
 Kent Ridge (Singapore : Ridge)|<->|Kent Ridge
 Kent State Shootings, Kent, Ohio, 1970|=|Kent State shootings
@@ -20058,7 +20058,7 @@ Kingdom of God|<->|Kingdom of God (Christianity)
 Kingdom of Matthias (Cult)|->|Robert Matthews (religious figure)
 Kingdom of the Two Sicilies -- History -- Revolution, 1848|<->|Sicilian revolution of 1848
 Kingfisher (Reconnaissance aircraft)|=|Vought OS2U Kingfisher
-Kingman Island (Washington, D.C.)|=|Kingman Island
+Kingman Island (Washington, D.C.)|<->|Kingman and Heritage Islands
 Kings and rulers|<->|Monarch
 Kings and rulers -- Succession|<->|Order of succession
 Kings Dominion (Richmond, Va.)|=|Kings Dominion
@@ -20188,7 +20188,7 @@ Ko Chang (Trat, Thailand)|<->|Ko Chang district
 Koa|=|Acacia koa
 Kobarid (Slovenia)|=|Kobarid
 Kobayashi-Hitchin correspondence (Algebraic geometry)|=|Kobayashi–Hitchin correspondence
-Kobe Earthquake, Japan, 1995|=|Great Hanshin earthquake
+Kobe Earthquake, Japan, 1995|=|Kobe earthquake
 K&omacr;be-shi (Japan)|=|Kobe
 K&omacr;be-shi (Japan) -- History -- Bombardment, 1945|=|Bombing of Kobe in World War II
 Kobuk River (Alaska)|=|Kobuk River
@@ -20324,7 +20324,6 @@ Korea (North) -- Economic conditions|<->|Economy of North Korea
 Korea (North) -- Foreign relations|=|Foreign relations of North Korea
 Korea (North) -- History|=|History of North Korea
 Korea (North) -- Politics and government|<->|Politics of North Korea
-Korea (North) -- Politics and government|<-|Government of North Korea
 Korea (South)|=|South Korea
 Korea (South) -- Economic conditions|<->|Economy of South Korea
 Korea (South) -- Foreign relations|=|Foreign relations of South Korea
@@ -20379,7 +20378,7 @@ Kosti&#xfe20;u&#xfe21;khnivka, Battle of, Kosti&#xfe20;u&#xfe21;khnivka, Ukraine
 Kot Massacre, 1846|=|Kot massacre
 Kota (African people)|=|Kota people (Gabon)
 Kotayk'i marz (Armenia)|=|Kotayk Province
-Kotlin (Computer program language)|=|Kotlin (programming language)
+Kotlin (Computer program language)|=|Kotlin
 Koto|=|Koto (instrument)
 Kotoko (African people)|=|Kotoko people
 Kotor, Gulf of (Montenegro)|=|Bay of Kotor
@@ -20603,7 +20602,7 @@ Kyshtym Tragedy, Russia, 1957|=|Kyshtym disaster
 Kythnos (Greece : Municipality)|<->|Kythnos
 Ky&umacr;sh&umacr; Region (Japan)|<->|Kyushu
 Ky&umacr;sh&umacr;-ha (Group of artists)|=|Group Kyushu
-L (The sound)|<->|Voiced dental, alveolar and postalveolar lateral approximants
+L (The sound)|<->|Voiced dental and alveolar lateral approximants
 L.A. Noire (Game)|=|L.A. Noire
 L'Anguille River (Ark.)|=|L'Anguille River
 L'Anse Indian Reservation (Mich.)|=|L'Anse Indian Reservation
@@ -21866,7 +21865,6 @@ London Terrorist Bombings, London, England, 2005|=|7 July 2005 London bombings
 Londonderry (Northern Ireland : County)|=|County Londonderry
 Lone Eagle Peak (Colo.)|=|Lone Eagle Peak
 Lone Ranger (Fictitious character)|=|Lone Ranger
-Lone twins|=|Twinless twin
 Lonely Dell Ranch Historic District (Ariz.)|<->|Lee's Ferry and Lonely Dell Ranch
 Lonesome George (Tortoise)|=|Lonesome George
 Long Branch (Va. : Plantation)|=|Long Branch Plantation
@@ -22787,7 +22785,7 @@ Maputo Bay (Mozambique)|=|Maputo Bay
 Maqamah|<->|Maqama
 Maquinna Marine Park (B.C.)|=|Nism̓aakqin Marine Provincial Park and Protected Area
 Mar-A-Lago National Historic Site (Palm Beach, Fla.)|<->|Mar-a-Lago
-Mar Chiquita Lake (C&oacute;rdoba, Argentina)|=|Mar Chiquita Lake (Córdoba)
+Mar Chiquita Lake (C&oacute;rdoba, Argentina)|=|Mar Chiquita Lake
 Mar del Plata (Argentina)|=|Mar del Plata
 Mara language (Australia)|=|Marra language
 Maracaibo (Venezuela)|=|Maracaibo
@@ -24109,7 +24107,7 @@ MIPS-X (Microprocessor)|=|MIPS-X
 Miquelon Lake Provincial Park (Alta.)|=|Miquelon Lake Provincial Park
 Mira River (N.S.)|=|Mira River (Nova Scotia)
 Miracles|=|Miracle
-Miracles (Islam)|<->|Islamic view of miracles
+Miracles (Islam)|<->|Karamat
 Miraculous draught of fishes (Miracle)|=|Miraculous catch of fish
 Miraflores, Battle of, Lima, Peru, 1881|=|Battle of Miraflores
 Mirage (Fighter planes)|=|Dassault Mirage
@@ -24880,7 +24878,7 @@ Muggins Mountains Wilderness (Ariz.)|=|Muggins Mountain Wilderness
 Mu&gbreve;la (Turkey)|=|Muğla
 Mu&gbreve;la &Idot;li (Turkey)|=|Muğla Province
 Mugo pine|=|Pinus mugo
-Mu&#x1e25;ammad, Prophet, -632 -- Companions|<->|Companions of the Prophet
+Mu&#x1e25;ammad, Prophet, -632 -- Companions|<->|Companions of Muhammad (Sahabah)
 Mu&#x1e25;ammad, Prophet, -632 -- Farewell pilgrimage|=|Farewell Pilgrimage
 Mu&#x1e25;ammad, Prophet, -632 -- Hijrah|<->|Hijrah
 Mu&#x1e25;ammad, Prophet, -632 -- Military leadership|=|Military career of Muhammad
@@ -25713,7 +25711,7 @@ Nera River (Romania and Serbia)|=|Nera (Danube)
 Nerchinsk, Treaty of, 1689|=|Treaty of Nerchinsk
 Nereids (Greek mythology)|=|Nereids
 Neretva River (Bosnia and Herzegovina and Croatia)|=|Neretva
-Neretva River, Battle of the, Bosnia and Herzegovina, 1943|->|Case White
+Neretva River, Battle of the, Bosnia and Herzegovina, 1943|->|Fall Weiss
 Nereus (Greek mythology)|=|Nereus
 NERF toys|<->|Nerf
 Nergal (Assyro-Babylonian deity)|=|Nergal
@@ -29220,7 +29218,7 @@ Physical education and training|<->|Physical education
 Physical education for people with disabilities|=|Adapted physical education
 Physical fitness centers|<->|Health club
 Physical sciences|<->|Outline of physical science
-Physicians|=|Physician
+Physicians|=|Medical doctor
 Physicians (General practice)|=|General practitioner
 Physicists|=|Physicist
 Physics -- Periodicals|=|List of physics journals
@@ -29367,7 +29365,7 @@ Pine Tar Game, New York, N.Y., 1983|=|Pine Tar Incident
 Pine Valley Mountains (Utah)|=|Pine Valley Mountains
 Pineland dwarf mistletoe|=|Arceuthobium vaginatum
 Pinelands National Reserve (N.J.)|=|Pinelands National Reserve
-Pines, Isle of (New Caledonia)|=|Isle of Pines (New Caledonia)
+Pines, Isle of (New Caledonia)|=|Isle of Pines (island)
 Pinewood nematode|=|Bursaphelenchus xylophilus
 Ping River (Thailand)|=|Ping River
 Pingdingshan Massacre, Fushun, Liaoning Sheng, China, 1932|=|Pingdingshan massacre
@@ -30917,7 +30915,7 @@ Quotations|<->|Quotation
 Qur'an and science|->|Islamic attitudes towards science
 Qutub Shahi Tombs (Hyderabad, India)|=|Qutb Shahi tombs
 R (Computer program language)|=|R (programming language)
-R (The sound)|<->|Voiced alveolar and postalveolar approximants
+R (The sound)|<->|Voiced alveolar approximant
 R Coronae Borealis stars|=|R Coronae Borealis variable
 R Development Core Team|->|R (programming language)
 R.E.5 (Military aircraft)|=|Royal Aircraft Factory R.E.5
@@ -32419,7 +32417,7 @@ Russo-Turkish War, 1828-1829|=|Russo-Turkish War (1828–1829)
 Russo-Turkish War, 1877-1878|=|Russo-Turkish War (1877–1878)
 Russo-Turkish Wars, 1676-1878|<->|Russo-Turkish wars
 Russo-Turkish Wars, 1676-1878|<-|Russo-Turkish War (1672–1681)
-Russo-Ukrainian War, 2014-|=|Russo-Ukrainian War
+Russo-Ukrainian War, 2014-|=|Russo-Ukrainian war
 Rust (Computer program language)|=|Rust (programming language)
 Rustam (Legendary character)|=|Rostam
 Rustamid dynasty, ca. 761-909|=|Rustamid dynasty
@@ -33416,7 +33414,7 @@ Schwimmwagen automobile|=|Volkswagen Schwimmwagen
 Schwyz (Switzerland)|=|Schwyz
 Schwyz (Switzerland : Canton)|=|Canton of Schwyz
 Sciacca (Italy)|=|Sciacca
-Science -- Periodicals|<->|Scientific journal
+Science -- Periodicals|->|Academic journal
 Science -- Periodicals|<-|List of science magazines
 Science -- Periodicals|<-|List of scientific journals
 Science -- Philosophy|=|Philosophy of science
@@ -33665,7 +33663,7 @@ Selection indexes (Plant breeding)|->|Index selection
 Selene (Greek deity)|=|Selene
 Selenga River (Mongolia and Russia)|=|Selenga
 S&edot;l&edot;ng&edot; A&#x012d;mag (Mongolia)|=|Selenge Province
-Selenite|<->|Selenite (mineral)
+Selenite|<->|Selenite (gypsum)
 Selenium -- Isotopes|=|Isotopes of selenium
 Self-actualization (Psychology)|<->|Self-actualization
 Self-care, Health|=|Self-care
@@ -33685,7 +33683,7 @@ Selfadjoint operators|=|Self-adjoint operator
 Selfies (Photography)|=|Selfie
 Seli&#x1e25;ot|=|Selichot
 Selinus (Extinct city)|=|Selinunte
-Selje Island (Norway)|=|Selja, Selje
+Selje Island (Norway)|=|Selja, Stad
 Seljuks|<->|Seljuk dynasty
 Seljuks|<-|Seljuk Empire
 Selkirk Range|=|Selkirk Mountains
@@ -35378,7 +35376,7 @@ Spello (Italy)|=|Spello
 Spencer Butte (Or.)|=|Spencer Butte
 Spenser (Fictitious character)|=|Spenser (character)
 Sperm donors|<->|Sperm donation
-Spermatozoa|=|Spermatozoon
+Spermatozoa|=|Sperm
 Spermatozoa -- Motility -- Disorders|<->|Asthenozoospermia
 Sperry Glacier (Mont.)|=|Sperry Glacier
 Spesutie Island (Md.)|=|Spesutie Island
@@ -41315,7 +41313,7 @@ World War, 1939-1945 -- Equipment and supplies|<->|Lists of World War II militar
 World War, 1939-1945 -- Europe -- End|=|End of World War II in Europe
 World War, 1939-1945 -- Evacuation of civilians -- Germany|<->|Evacuations of children in Germany during World War II
 World War, 1939-1945 -- Evacuation of civilians -- Gibraltar|=|Evacuation of the Gibraltarian civilian population during World War II
-World War, 1939-1945 -- Evacuation of civilians -- Great Britain|=|Evacuations of civilians in the United Kingdom during World War II
+World War, 1939-1945 -- Evacuation of civilians -- Great Britain|=|Evacuations of civilians in the United Kingdom during the Second World War
 World War, 1939-1945 -- Evacuation of civilians -- Japan|<->|Evacuations of civilians in Japan during World War II
 World War, 1939-1945 -- Fiction|->|World War II in popular culture
 World War, 1939-1945 -- Finland|<->|Finland in World War II
@@ -41719,8 +41717,8 @@ Yolngu (Australian people)|=|Yolngu
 Yolo Bypass (Calif.)|=|Yolo Bypass
 Yom ha-zikaron la-Sho'ah &#x1e7f;ela-gevurah|=|Yom HaShoah
 Yom ha-zikaron le-&#x1e25;alale ma&#x02bb;arkhot Yi&sacute;ra&#x02be;el|=|Yom HaZikaron
-Yombe (Congolese and Angolan people)|<->|Yombe people
-Yombe (Zambian and Malawi people)|->|Yombe people
+Yombe (Congolese and Angolan people)|=|Yombe people (Congo and Angola)
+Yombe (Zambian and Malawi people)|->|Tumbuka people
 Yomuts (Turkic people)|=|Yomut
 Yonge Street (Toronto, Ont.)|=|Yonge Street
 Y&#x014f;ngjong Island (Korea)|=|Yeongjongdo
