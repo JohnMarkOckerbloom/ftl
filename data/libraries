@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2025-11-04
-# Manual Sweep: resume at Italy (check Ethiopia, Ghana, & Iran later)
+# Last updated 2025-11-24
+# Manual Sweep: resume at Kenya (check Kwame Nkrumah & Iran later)
 
 ID OLBP
 NAME The Online Books Page
@@ -55,6 +55,13 @@ COUNTRY AF
 BASEURL https://archive.af
 CATTYPE koha
 FILTERS SNK
+
+ID NATLIBALBANIA
+NAME Biblioteka Komb&euml;tare e Shqip&euml;ris&euml;
+LOCATION Tirana; English searches may give limited results
+BASEURL https://www.bksh.al
+KEYURL ${BASEURL}/search/${ARG:SNK}
+COUNTRY AL
 
 ID OCLC-AGBRA
 NAME Biblioteca Nacional Mariano Moreno
@@ -1659,7 +1666,7 @@ ID OCLC-GHUCC
 NAME University of Cape Coast, Sam Jonah Library
 LOCATION Cape Coast
 COUNTRY GH
-BASEURL http://156.38.97.107:8001
+BASEURL http://koha.ucc.edu.gh
 CATTYPE koha
 FILTERS SNK
 
@@ -4645,12 +4652,13 @@ ID OCLC-FMP
 NAME Columbia County Public Library
 LOCATION Lake City
 STATE FL
-BASEURL https://ccpl.ent.sirsi.net
-CATTYPE sirsient
-LCODE en_US/default
+CATTYPE vufindsi
+BASEURL https://ccpl.aspendiscovery.org/Union/Search
+KINDEX Keyword
+FILTERS S
 
 ID OCLC-FJE
-NAME Edward Waters College
+NAME Edward Waters University
 LOCATION Jacksonville
 STATE FL
 BASEURL https://edwardwaterscollegelibrary.on.worldcat.org/search?queryString
@@ -4754,6 +4762,15 @@ STATE FL
 CATTYPE eds
 LCODE ns102466
 
+# using main branch ID
+ID OCLC-FO7
+NAME Martin County Library System
+LOCATION Stuart and vicinity
+STATE FL
+BASEURL https://mrco.ent.sirsi.net
+CATTYPE sirsient
+LCODE en_US/default
+
 ID OCLC-FYM
 NAME Miami Dade College
 LOCATION Miami and other campuses
@@ -4799,6 +4816,7 @@ STATE FL
 CATTYPE vufindsi
 BASEURL https://pasco.aspendiscovery.org/Union/Search
 FILTERS S
+KINDEX Keyword
 
 # here temporarily (but suppressed in list) for back-compatibility (Feb 2017)
 # expecting Pinellas Co. users to shift over to OCLC-PI8
@@ -4842,8 +4860,8 @@ ID OCLC-FSP
 NAME Sarasota County Libraries
 LOCATION Sarasota and vicinity
 STATE FL
-BASEURL https://sarac.scgov.net
-CATTYPE innopac
+BASEURL https://catalog.sarasotacountylibraries.org
+CATTYPE vega
 
 ID OCLC-FCS
 NAME Seminole County Public Library
@@ -4875,6 +4893,7 @@ STATE FL
 CATTYPE vufindsi
 BASEURL https://sjcpls.aspendiscovery.org/Union/Search
 FILTERS S
+KINDEX Keyword
 
 ID OCLC-FLR
 NAME St. Lucie County Library System
