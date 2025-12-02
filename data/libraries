@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2025-11-24
-# Manual Sweep: resume at Kenya (check Kwame Nkrumah & Iran later)
+# Last updated 2025-12-02
+# Manual Sweep: resume at Nigeria (check Kwame Nkrumah & Kenyatta later)
 
 ID OLBP
 NAME The Online Books Page
@@ -1920,6 +1920,13 @@ BASEURL https://cunima.mykoha.co.nz/
 CATTYPE koha
 FILTERS SNK
 
+ID OCLC-XCMNL
+NAME National Library of Maldives
+LOCATION Mal&eacute;
+COUNTRY MV
+CATTYPE liberty
+BASEURL https://opac.nlm.gov.mv/liberty/opac/search.do
+
 # Tecnol&oacute;gico de Monterrey's EDS doesn't seem to support guest access
 ID OCLC-I8M
 NAME Tecnol&oacute;gico de Monterrey
@@ -1934,6 +1941,7 @@ LOCATION Rabat; English searches may give limited results
 COUNTRY MA
 CATTYPE encore
 BASEURL https://encore.bnrm.ma/iii/encore
+SKIN def
 FILTERS SNK
 
 ID OCLC-U5N
@@ -1984,13 +1992,14 @@ BASEURL https://eur.on.worldcat.org
 CATTYPE worldcat2
 FILTERS SNK
 
-# Looks like Leiden now has their own Bento search (keywords only)
 ID NL-L2U
 NAME Leiden University Libraries
 LOCATION Leiden
 COUNTRY NL
-BASEURL https://www.library.universiteitleiden.nl
-KEYURL ${BASEURL}/search?q=${ARG:SNK}
+CATTYPE primo-ve
+BASEURL https://catalogue.leidenuniv.nl
+VID 31UKB_LEU:UBL_V1
+SCOPE MyInst_and_CI
 
 ID OCLC-NLQGE
 NAME Radboud University
@@ -2121,7 +2130,7 @@ BASEURL https://qatar-vcu.primo.exlibrisgroup.com
 VID 01VCUVQA_INST:VQAL
 SCOPE MyInst_and_CI
 
-# Catalog is "Liberty powered by Softlink"; for now, just trying keyword search
+# Liberty search in this library seems to work best with bespoke keyword URL
 ID OCLC-CU@
 NAME Biblioteca Central&atilde; Universitar&atilde; Bucuresti
 LOCATION Bucharest
