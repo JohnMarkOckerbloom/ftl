@@ -4,7 +4,7 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2025-12-02
+# Last updated 2025-12-29
 # Manual Sweep: resume at Nigeria (check Kwame Nkrumah & Kenyatta later)
 
 ID OLBP
@@ -5307,6 +5307,7 @@ LOCATION Bloomingdale
 STATE IL
 CATTYPE vufindsi
 BASEURL https://bdd.swanlibraries.net/Union/Search
+KINDEX Keyword
 
 ID OCLC-JCH
 NAME Bloomington Public Library
@@ -5433,6 +5434,7 @@ LOCATION Itasca
 STATE IL
 CATTYPE vufindsi
 BASEURL https://itd.swanlibraries.net/Union/Search
+KINDEX Keyword
 
 ID OCLC-AP8
 NAME Joliet Junior College
@@ -5461,8 +5463,17 @@ ID OCLC-JFN
 NAME Naperville Public Library
 LOCATION Naperville
 STATE IL
-BASEURL http://encore.naperville-lib.org/iii/encore
-CATTYPE encore
+CATTYPE bibliocommons
+BASEURL https://naperlib.bibliocommons.com
+
+ID OCLC-IBV
+NAME Newberry Library
+LOCATION Chicago
+STATE IL
+CATTYPE primo-ve
+BASEURL https://i-share-nby.primo.exlibrisgroup.com
+VID 01CARLI_NBY:CARLI_NBY
+SCOPE MyInstitution
 
 ID OCLC-OX2
 NAME Oswego Public Library District
@@ -5520,6 +5531,7 @@ LOCATION Suburban libraries in the Chicago area
 STATE IL
 CATTYPE vufindsi
 BASEURL https://catalog.swanlibraries.net/Union/Search
+KINDEX Keyword
 
 ID OCLC-CGU
 NAME University of Chicago Library
@@ -5601,8 +5613,9 @@ ID OCLCC-GP4
 NAME Waukegan Public Library
 LOCATION Waukegan
 STATE IL
-BASEURL http://catalog.waukeganpl.org
-CATTYPE innopac
+CATTYPE polaris-context
+BASEURL https://ccs.polarislibrary.com/polaris
+CONTEXT 97.1033.0.0.65
 
 # ID is for Malpass library, though the search is for all WIU libraries
 ID OCLC-IAZ

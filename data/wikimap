@@ -10,7 +10,7 @@
 #   are not included in this file.
 # Manual title and name-title correspondences have been moved to wikiworksmap.
 # See docs file for documentation
-# Last updated 2025-11-03
+# Last updated 2025-12-23
 # Did LCSH 2015-2022 update lists: 2023 monthly list 1-3, 4 (list 1, A-Q only)
 1 Pendleton Place House (New York, N.Y.)|=|One Pendleton Place
 1009 Fifth Avenue House (New York, N.Y.)|=|Benjamin N. Duke House
@@ -315,7 +315,7 @@ Aching, Tiffany (Fictitious character)|=|Tiffany Aching
 Acholi (African people)|=|Acholi people
 Acholi language|=|Acholi dialect
 Achuar Indians|=|Achuar
-Achuar language|<->|Shiwiar language
+Achuar language|<->|Achuar-Shiwiar language
 Acidalia Planitia (Mars)|=|Acidalia Planitia
 Acids|=|Acid
 Acipenser sinensis|=|Chinese sturgeon
@@ -676,7 +676,6 @@ Ahab, Captain (Fictitious character)|<->|Captain Ahab
 Ahaggar Mountains (Algeria)|=|Hoggar Mountains
 Ahaly&amacr; (Hindu mythological character)|=|Ahalya
 Ahanta (African people)|=|Ahanta people
-Aharoni type|=|Aharoni (typeface)
 Ahdal family|<->|Al-Ahdal
 Ahern Glacier (Mont.)|=|Ahern Glacier (Montana)
 Ahikuntaka (Sri Lankan people)|<->|Sri Lankan Telugus
@@ -1294,7 +1293,7 @@ American Turtle (Submarine)|=|Turtle (submersible)
 American wildcelery|<->|Vallisneria americana
 American wit and humor|<->|American humor
 Americana (Music)|=|Americana music
-Americanism (Catholic controversy)|<->|Americanism (heresy)
+Americanism (Catholic controversy)|<->|Americanism (Catholic Church)
 Americanisms|->|American English
 Amersham (England)|=|Amersham
 Amery Ice Shelf (Antarctica)|=|Amery Ice Shelf
@@ -4286,7 +4285,7 @@ Black Hills War, 1876-1877|<->|Great Sioux War of 1876
 Black Hole Incident, Kolkata, India, 1756|<->|Black Hole of Calcutta
 Black holes (Astronomy)|=|Black hole
 Black howler monkey|=|Black howler
-Black humor|<->|Black comedy
+Black humor|=|Dark humor
 Black Isle (Scotland)|=|Black Isle
 Black katy|=|Katharina tunicata
 Black Lake (Saint Lawrence County, N.Y.)|=|Black Lake (New York)
@@ -5577,7 +5576,7 @@ Byron Station (Ill.)|=|Byron Nuclear Generating Station
 Byssal threads|<->|Byssus
 Bystryk, Battle of, Bystryk, Belarus, 1920|=|Battle of Bystryk
 Byzantine Empire -- History -- Isaurian dynasty, 717-811|=|Byzantine Empire under the Isaurian dynasty
-Byzantine Empire -- History -- Lascarid dynasty, 1208-1259|<->|Laskaris
+Byzantine Empire -- History -- Lascarid dynasty, 1208-1259|<->|Empire of Nicaea
 Byzantine Empire -- History -- Palaeologi dynasty, 1259-1448|<->|Byzantine Empire under the Palaiologos dynasty
 Byzantine Empire -- History, Military -- 527-1081|<->|Arab–Byzantine wars
 Byzantine Empire -- Study and teaching|<->|Byzantine studies
@@ -6969,7 +6968,7 @@ Chemical carriers (Tankers)|=|Chemical tanker
 Chemical elements|=|Chemical element
 Chemical toilets|=|Chemical toilet
 Chemical weapons|=|Chemical weapon
-Chemicals|=|Chemical substance
+Chemicals|<->|Substance (chemistry)
 Chemin des dames (France)|=|Chemin des Dames
 Chemistry, Forensic|=|Forensic chemistry
 Chemistry, Inorganic|=|Inorganic chemistry
@@ -7192,7 +7191,7 @@ China -- Economic conditions -- 1912-1949|<->|Economic history of China (1912–
 China -- Economic conditions -- 1949-|<->|Economic history of China (1949–present)
 China -- Foreign relations|=|Foreign relations of China
 China -- History -- 1949-|=|History of the People's Republic of China
-China -- History -- 1949-1976|=|History of China (1949–1976)
+China -- History -- 1949-1976|=|History of the People's Republic of China (1949–1976)
 China -- History -- 2002-|=|History of China (2002–present)
 China -- History -- An Lushan Rebellion, 755-763|=|An Lushan rebellion
 China -- History -- Antirightist Campaign, 1957-1958|<->|Anti-Rightist Campaign
@@ -10446,7 +10445,7 @@ Diana, Princess of Wales, 1961-1997 -- Death and burial|<->|Death of Diana, Prin
 Diaries|=|Diary
 Diarists|->|Diary
 Diastema (Teeth)|=|Diastema
-Diaz family|<->|Díaz (surname)
+Diaz family|<->|Díaz
 Dichlorophenoxyacetic acid|<->|2,4-Dichlorophenoxyacetic acid
 Dickeys (Clothing)|=|Dickey (garment)
 Dickson Street (Fayetteville, Ark.)|<->|Dickson Street
@@ -11563,7 +11562,7 @@ Egypt -- History -- 1970-1981|=|History of Egypt under Anwar Sadat
 Egypt -- History -- 1981-2011|=|History of Egypt under Hosni Mubarak
 Egypt -- History -- British occupation, 1882-1936|<->|History of Egypt under the British
 Egypt -- History -- Coup d'&eacute;tat, 2013|=|2013 Egyptian coup d'état
-Egypt -- History -- Early Dynastic Period, ca. 3100-ca. 2686 B.C.|=|Early Dynastic Period (Egypt)
+Egypt -- History -- Early Dynastic Period, ca. 3100-ca. 2686 B.C.|=|Early Dynastic Period of Egypt
 Egypt -- History -- Eighteenth dynasty, ca. 1570-1320 B.C.|<->|Eighteenth Dynasty of Egypt
 Egypt -- History -- Fourth dynasty, ca. 2613-ca. 2494 B.C.|=|Fourth Dynasty of Egypt
 Egypt -- History -- French occupation, 1798-1801|<->|French invasion of Egypt and Syria
@@ -11702,7 +11701,7 @@ Elba (Italy)|=|Elba
 Elbasan (Albania)|=|Elbasan
 Elbasan (Albania : Rrethi)|=|Elbasan District
 Elbe River (Czech Republic and Germany)|=|Elbe
-Elbe River Valley (Czech Republic and Germany)|<->|Elbe Valley
+Elbe River Valley (Czech Republic and Germany)|<->|Dresden Elbe Valley
 Elbe Sandstone Mountains (Czech Republic and Germany)|=|Elbe Sandstone Mountains
 Elbe-Seitenkanal (Germany)|=|Elbe Lateral Canal
 Elbow -- Fractures|=|Elbow fracture
@@ -12375,7 +12374,7 @@ Ethnic costume|<->|Folk costume
 Ethnic groups|->|Ethnicity
 Ethnic relations|<->|Sociology of race and ethnic relations
 Ethnologists|->|Ethnology
-Ethnology -- Afghanistan|<->|Ethnic groups in Afghanistan
+Ethnology -- Afghanistan|<->|Ethnicity in Afghanistan
 Ethnology -- Africa|<->|List of ethnic groups of Africa
 Ethnology -- Algeria|<->|Ethnic groups in Algeria
 Ethnology -- Armenia|<->|Ethnic minorities in Armenia
@@ -14989,7 +14988,7 @@ Golden section|<->|Golden ratio
 Golden Spike National Historical Park (Utah)|=|Golden Spike National Historical Park
 Golden State Warriors (Basketball team)|=|Golden State Warriors
 Golden Valley (England : Valley)|=|Golden Valley (Herefordshire)
-GoldenEye 007 (Game)|<->|GoldenEye 007 (1997 video game)
+GoldenEye 007 (Game)|<->|GoldenEye 007
 GoldenEye 007 (Game)|<-|GoldenEye 007 (2010 video game)
 GoldenEye 007: Reloaded (Game)|->|GoldenEye 007 (2010 video game)
 Goldfield Mountains (Ariz.)|=|Goldfield Mountains
@@ -15224,7 +15223,7 @@ Grand River (S.D.)|=|Grand River (South Dakota)
 Grand Teton (Wyo.)|=|Grand Teton
 Grand Teton National Park (Wyo.)|=|Grand Teton National Park
 Grand Theft Auto: San Andreas (Game)|=|Grand Theft Auto: San Andreas
-Grand tours (Education)|<->|Grand Tour
+Grand tours (Education)|<->|Grand tour
 Grand Traverse Bay (Mich.)|=|Grand Traverse Bay
 Grand Trianon (Versailles, France)|=|Grand Trianon
 Grand unified theories (Nuclear physics)|<->|Grand Unified Theory
@@ -15467,7 +15466,7 @@ Greece -- History -- Dorian Invasions, ca. 1125-1025 B.C.|<->|Dorian invasion
 Greece -- History -- Occupation, 1941-1944|=|Axis occupation of Greece
 Greece -- History -- Peloponnesian War, 431-404 B.C.|=|Peloponnesian War
 Greece -- History -- War of Independence, 1821-1829|<->|Greek War of Independence
-Greece -- History -- War of Independence, 1821-1829 -- Atrocities|<->|Massacres during the Greek War of Independence
+Greece -- History -- War of Independence, 1821-1829 -- Atrocities|<->|Massacres in the Greek War of Independence
 Greece -- History -- War of Independence, 1821-1829 -- Causes|<->|Background of the Greek War of Independence
 Greece -- Politics and government|<->|Politics of Greece
 Greece -- Religion|=|Religion in Greece
@@ -16773,7 +16772,7 @@ Hohokam culture|=|Hohokam
 Hohokam Freeway (Phoenix, Ariz.)|=|Arizona State Route 143
 Hohokam Pima National Monument (Ariz.)|=|Hohokam Pima National Monument
 Hokkaido (Japan)|=|Hokkaido
-H&omacr;l (Game)|=|Hol (role-playing game)
+H&omacr;l (Game)|=|HoL (role-playing game)
 Holando-Argentino cattle|=|Holando-Argentino
 Holbein family|<->|Holbein (surname)
 Holbrook Island (Me.)|<->|Holbrook Island Sanctuary State Park
@@ -17786,9 +17785,9 @@ India -- Politics and government|<-|Government of India
 India -- Religion|=|Religion in India
 India -- Scheduled tribes|<->|Scheduled Castes and Scheduled Tribes
 India, Northeastern|<->|Northeast India
-India-Pakistan Conflict, 1947-1949|<->|Indo-Pakistani war of 1947–1948
-India-Pakistan Conflict, 1965|=|Indo-Pakistani war of 1965
-India-Pakistan Conflict, 1971|=|Indo-Pakistani war of 1971
+India-Pakistan Conflict, 1947-1949|<->|India–Pakistan war of 1947–1948
+India-Pakistan Conflict, 1965|=|India–Pakistan war of 1965
+India-Pakistan Conflict, 1971|=|India–Pakistan war of 1971
 India, South|=|South India
 Indian actors|<->|List of Native American actors
 Indian Air Flight IC814 Hijacking Incident, 1999|<->|Indian Airlines Flight 814
@@ -22650,7 +22649,7 @@ Mandan Indians|=|Mandan
 Mandandanji (Australian people)|=|Mandandanji
 Mandapas|=|Mandapa
 Mandar (Indonesian people)|<->|Mandarese people
-Mand&amacr;r Hill (India : Mountain)|=|Mandar Parvat
+Mand&amacr;r Hill (India : Mountain)|=|Mandar Hill
 Mandara Mountains (Cameroon and Nigeria)|=|Mandara Mountains
 Mandarin dialects|<->|Mandarin Chinese
 Mandates|=|League of Nations mandate
@@ -22715,7 +22714,7 @@ Manned space flight|=|Human spaceflight
 Mannelli family|<->|Mannelli
 Mannerism (Art)|=|Mannerism
 Mano (African people)|=|Mano people
-M&amacr;noa Valley (Hawaii)|<->|Manoa
+M&amacr;noa Valley (Hawaii)|<->|Mānoa, Hawaii
 Manor Class (Steam locomotives)|=|GWR 7800 Class
 Manorbier (Wales)|=|Manorbier
 Manorbier Castle (Manorbier, Wales)|=|Manorbier Castle
@@ -25242,7 +25241,7 @@ Names, Yoruba|=|Yoruba name
 Namgyal dynasty, 1642-1975|<->|Chogyal
 Namibe (Angola)|=|Moçâmedes
 Namibe (Angola : Province)|=|Namibe Province
-Namibia -- History -- Herero Revolt, 1904-1907|<->|Herero Wars
+Namibia -- History -- Herero Revolt, 1904-1907|<->|Herero uprising
 Namibia -- History -- Nama Revolt, 1904-1908|->|Herero and Nama genocide
 NamibRand Nature Reserve (Namibia)|=|NamibRand Nature Reserve
 Namsadang nori|<->|Namsadang
@@ -28318,7 +28317,7 @@ P&auml;ri language (South Sudan)|=|Päri language
 Paria Canyon-Vermilion Cliffs Wilderness (Ariz. and Utah)|=|Paria Canyon-Vermilion Cliffs Wilderness
 Paria, Gulf of (Venezuela and Trinidad and Tobago)|=|Gulf of Paria
 Paria River (Utah and Ariz.)|=|Paria River
-Pariahs|=|Paraiyar
+Pariahs|=|Paraiya
 Parikh family|<->|Parikh
 Parintintin Indians|=|Parintintín
 Parion (Extinct city)|=|Parium
@@ -28738,7 +28737,6 @@ Pecos River (N.M. and Tex.)|=|Pecos River
 Pectenia plumbea|=|Degelia plumbea
 Pedestrian crosswalks|<->|Pedestrian crossing
 Pedi (African people)|=|Pedi people
-Pediatric gynecology|=|Pediatric gynaecology
 Pediatric radiology|=|Paediatric radiology
 Pediatricians|->|Pediatrics
 Pedicabs|<->|Cycle rickshaw
@@ -31114,16 +31112,16 @@ Raising of Jairus' daughter (Miracle)|=|Raising of Jairus' daughter
 Raising of Lazarus (Miracle)|->|Lazarus of Bethany
 Raising of the widow's son (Miracle)|=|Raising of the son of the widow of Nain
 Raismes (France)|=|Raismes
-Raj Bhavan (Bangalore, India)|=|Raj Bhavan, Bengaluru
-Raj Bhavan (Bhubaneswar, India)|=|Raj Bhavan, Bhubaneswar
-Raj Bhavan (Gangtok, India)|=|Raj Bhavan, Gangtok
-Raj Bhavan (Goa, India)|=|Raj Bhavan, Panaji
-Raj Bhavan (Kohima, India)|=|Raj Bhavan, Kohima
-Raj Bhavan (Kolkata, India)|=|Raj Bhavan, Kolkata
-Raj Bhavan (Lucknow, India)|=|Raj Bhavan, Lucknow
-Raj Bhavan (Madras, India)|=|Raj Bhavan, Chennai
-Raj Bhavan (Ooty, India)|=|Raj Bhavan, Ooty
-Raj Bhawan (Simla, India)|=|Raj Bhavan, Shimla
+Raj Bhavan (Bangalore, India)|=|Lok Bhavan, Bengaluru
+Raj Bhavan (Bhubaneswar, India)|=|Lok Bhavan, Bhubaneswar
+Raj Bhavan (Gangtok, India)|=|Lok Bhavan, Gangtok
+Raj Bhavan (Goa, India)|=|Lok Bhavan, Panaji
+Raj Bhavan (Kohima, India)|=|Lok Bhavan, Kohima
+Raj Bhavan (Kolkata, India)|=|Lok Bhavan, Kolkata
+Raj Bhavan (Lucknow, India)|=|Lok Bhavan, Lucknow
+Raj Bhavan (Madras, India)|=|Lok Bhavan, Chennai
+Raj Bhavan (Ooty, India)|=|Lok Bhavan, Ooty
+Raj Bhawan (Simla, India)|=|Lok Bhavan, Shimla
 Raj Ghat (New Delhi, India : Samadhi shrine)|<->|Raj Ghat and associated memorials
 Rajabai Clock Tower (Mumbai, India)|=|Rajabai Clock Tower
 Rajaji National Park (India)|=|Rajaji National Park
@@ -33755,7 +33753,7 @@ Sentinel Peak (Pima County, Ariz.)|=|Sentinel Peak (Arizona)
 Sentra automobile|=|Nissan Sentra
 Senufo (African people)|=|Senufo people
 Senussite Rebellion, 1916-1918|<->|Senussi campaign
-Senussites|<->|Senusiyya
+Senussites|<->|Sanusiyya
 Seoul (Korea)|<->|Seoul
 Separation (Technology)|<->|Separation process
 Separation anxiety|<->|Separation anxiety disorder
@@ -33994,7 +33992,7 @@ Shakespeare, William, 1564-1616. Hamlet -- Sources|=|Sources of Hamlet
 Shakespeare's Way (England)|=|Shakespeare's Way
 Shaksgam River (Pakistan and China)|=|Shaksgam River
 Shaksgam Valley (Pakistan and China)|<->|Trans-Karakoram Tract
-Shalamar Garden (Lahore, Pakistan)|=|Shalimar Gardens, Lahore
+Shalamar Garden (Lahore, Pakistan)|=|Shalamar Gardens, Lahore
 Shalimar Garden (Srinagar, Jammu and Kashmir, India)|=|Shalimar Bagh, Srinagar
 Shallotte River (N.C.)|=|Shallotte River
 Shallow Bay Formation (N.L.)|=|Shallow Bay Formation
@@ -34193,7 +34191,7 @@ Sholayar Dam (India)|=|Solaiyar Dam
 Shona (African people)|=|Shona people
 Shooting Star (Jet fighter plane)|=|Lockheed P-80 Shooting Star
 Shop stewards|=|Union representative
-Shopkins toys|=|Real Littles Shopkins
+Shopkins toys|=|Shopkins
 Shor (Turkic people)|=|Shors
 Shore, Jemima (Fictitious character)|=|Jemima Shore
 Shore Temple (M&amacr;mallapuram, India)|=|Shore Temple
@@ -34974,7 +34972,7 @@ Solferino, Battle of, Solferino, Italy, 1859|=|Battle of Solferino
 Soli (Cyprus : Extinct city)|=|Soli, Cyprus
 Solicinium, Battle of, Germany, 368|=|Battle of Solicinium
 Solidus|=|Solidus (coin)
-Soligar (Indic people)|=|Soliga people
+Soligar (Indic people)|=|Sholaga people
 Solihull (England)|=|Solihull
 Soliser Viadukt (Switzerland)|=|Solis Viaduct
 Solitaire (Game)|<->|Patience (game)
@@ -35067,7 +35065,7 @@ Sopwith B.1 (Bomber)|=|Sopwith B.1
 Sopwith Baby (Military aircraft)|=|Sopwith Baby
 Sopwith T.1 (Torpedo bomber)|=|Sopwith Cuckoo
 Sopwith Tabloid (Military aircraft)|=|Sopwith Tabloid
-Soqotri (Yemeni people)|=|Soqotri people
+Soqotri (Yemeni people)|=|Soqotrans
 S&oslash;r-Tr&oslash;ndelag fylke (Norway)|=|Sør-Trøndelag
 Soras|<->|Sora (bird)
 Sorcery (Game)|<->|Steve Jackson's Sorcery!
@@ -35322,7 +35320,7 @@ Spanish language -- Orthography and spelling|<->|Spanish orthography
 Spanish language -- Phonology|=|Spanish phonology
 Spanish literature -- Classical period, 1500-1700|<->|Spanish Renaissance literature
 Spanish moon moth|=|Graellsia isabellae
-Spanish-Moroccan War, 1859-1860|=|Hispano–Moroccan War (1859–1860)
+Spanish-Moroccan War, 1859-1860|=|Hispano-Moroccan War (1859–1860)
 Spanish opening (Chess)|=|Ruy Lopez
 Spanish Peaks (Colo.)|=|Spanish Peaks
 Spanish Peaks Wilderness (Colo.)|=|Spanish Peaks Wilderness
@@ -36020,7 +36018,7 @@ Suitland Parkway (Md. and Washington, D.C.)|=|Suitland Parkway
 Suits (Clothing)|=|Suit
 Suk (African people)|<->|Pokot people
 Sukhoi Su-47 (Jet fighter plane)|=|Sukhoi Su-47
-Sukhoi Superjet 100 (Jet transport)|=|Sukhoi Superjet 100
+Sukhoi Superjet 100 (Jet transport)|=|Yakovlev SJ-100
 Sukhorukov family|<->|Sukhorukov
 Suku language (Congo)|=|Suku language
 Sukuma (African people)|=|Sukuma people
@@ -36267,7 +36265,7 @@ Swarming (Zoology)|<->|Swarm behaviour
 Swastikas|=|Swastika
 Sw&amacr;t District (Pakistan)|<->|Swat District
 Sw&amacr;t River (Pakistan)|=|Swat River
-Swati (Pakistani people)|<->|Swati tribe
+Swati (Pakistani people)|=|Swati people
 Swazi (African people)|=|Swazi people
 Swearing|=|Profanity
 Sweating-sickness|=|Sweating sickness
@@ -37311,7 +37309,7 @@ Thigpen family|<->|Thigpen
 Thin film transistors|=|Thin-film transistor
 Thin layer chromatography|=|Thin-layer chromatography
 Thin sections (Geology)|<->|Thin section
-Thing (Fictitious character)|=|Thing (comics)
+Thing (Fictitious character)|=|Thing (Marvel Comics)
 Third Coalition, War of the, 1805|<->|War of the Third Coalition
 Third County Courthouse (New York, N.Y.)|=|Third County Courthouse
 Third grade (Education)|=|Third grade
@@ -38087,7 +38085,7 @@ Treviso (Italy) -- History -- Bombardment, 1944|=|Bombing of Treviso in World Wa
 Tri-Border Area (Argentina, Brazil, and Paraguay)|=|Triple Frontier
 Tri-colored bat|=|Tricolored bat
 Triads (Music)|=|Triad (music)
-Triads (Organized crime)|<->|Triad (organized crime)
+Triads (Organized crime)|<->|Triad (organised crime)
 Triads (Sociology)|<->|Triad (sociology)
 Triage (Medicine)|=|Triage
 Triakidae|=|Houndshark
@@ -41491,7 +41489,7 @@ Xbase (Computer program language)|<->|XBase
 Xbox 360 (Video game console)|=|Xbox 360
 Xbox One (Video game console)|=|Xbox One
 XBRL (Document markup language)|=|XBRL
-Xekong River|=|Kong River
+Xekong River|=|Sekong river
 Xena, Warrior Princess (Fictitious character)|=|Xena
 Xena, Warrior Princess (Game)|=|Xena: Warrior Princess (video game)
 Xenicus gilviventris|=|New Zealand rock wren
@@ -41641,7 +41639,7 @@ Year 2000 date conversion (Computer systems)|=|Year 2000 problem
 Yeast two-hybrid assay|<->|Two-hybrid screening
 Yecuana Indians|=|Yeꞌkuana
 Yecuana language|=|Yeꞌkuana language
-Yeke (African people)|<->|Garanganze people
+Yeke (African people)|=|Yeke people
 Yellamma (Hindu deity)|<->|Renuka
 Yellow archangel (Plant)|=|Lamium galeobdolon
 Yellow-banded bumble bee|=|Bombus terricola
