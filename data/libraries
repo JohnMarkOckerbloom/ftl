@@ -4,8 +4,9 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2025-12-29
-# Manual Sweep: resume at Nigeria (check Kwame Nkrumah & Kenyatta later)
+# Last updated 2026-01-12
+# Manual Sweep: resume at Portugal
+# try later: Kwame Nkrumah; Kenyatta; A U of Nigeria; Nnamdi Azikiwe; Natolin
 
 ID OLBP
 NAME The Online Books Page
@@ -2071,7 +2072,7 @@ NAME University of Sargodha, Wazir Agha Library
 LOCATION Sargodha; English search terms may give limited results
 COUNTRY PK
 #BASEURL http://library.su.edu.pk:5157
-BASEURL http://142.54.178.188:5157
+BASEURL http://koha.pastic.gov.pk:5157
 CATTYPE koha
 
 ID OCLC-PHNLP
@@ -2097,8 +2098,10 @@ ID OCLC-P9Z
 NAME University of Warsaw Library
 LOCATION Warsaw
 COUNTRY PL
-CATTYPE eds
-LCODE s9253487
+CATTYPE primo-ve
+BASEURL https://omnis-buw.primo.exlibrisgroup.com
+VID 48OMNIS_UOW:48UOW
+SCOPE MyInstitution
 
 ID OCLC-PTBNP
 NAME Biblioteca Nacional de Portugal
@@ -5301,6 +5304,14 @@ STATE IL
 BASEURL https://cat.aurorapubliclibrary.org/polaris
 CATTYPE polaris
 
+ID OCLC-ZMI
+NAME Benton Public Library
+LOCATION Benton
+STATE IL
+CATTYPE vufindsi
+BASEURL https://bplp.illshareit.com/Union/Search
+KINDEX Keyword
+
 ID OCLC-JOZ
 NAME Bloomingdale Public Library
 LOCATION Bloomingdale
@@ -5409,9 +5420,8 @@ ID OCLC-IHE
 NAME Evanston Public Library
 LOCATION Evanston
 STATE IL
-CATTYPE polaris-context
-BASEURL https://ccs.polarislibrary.com/polaris
-CONTEXT 19.1033.0.0.2
+CATTYPE bibliocommons
+BASEURL https://evanstonlibrary.bibliocommons.com
 
 ID OCLC-LQC
 NAME Illinois Heartland Library System (SHARE)
