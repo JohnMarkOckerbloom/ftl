@@ -4,9 +4,10 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2026-01-12
-# Manual Sweep: resume at Portugal
+# Last updated 2026-01-20
+# Manual Sweep: resume at Saudi Arabia
 # try later: Kwame Nkrumah; Kenyatta; A U of Nigeria; Nnamdi Azikiwe; Natolin
+#  Porto
 
 ID OLBP
 NAME The Online Books Page
@@ -2139,7 +2140,7 @@ NAME Biblioteca Central&atilde; Universitar&atilde; Bucuresti
 LOCATION Bucharest
 COUNTRY RO
 BASEURL https://catalog.bcub.ro/liberty/opac/search.do
-KEYURL ${BASEURL}?mode=BASIC&modeRadio=KEYWORD&=AUTHOR&=KEYWORD&queryTerm=${ARG:SNK}&operator=AND&includeNonPhysicalItems=true&timeScale=ANY_TIME&limit=Toate&gmd=Toate&branch=Toate&resourceCollection=Toate&activeMenuItem=false
+KEYURL ${BASEURL}?mode=BASIC&modeRadio=KEYWORD&searchTarget=THIS_LIBRARY&=KEYWORD&queryTerm=${ARG:SNK}&=BASIC&operator=AND&dataFile=true&includeNonPhysicalItems=true&timeScale=ANY_TIME&limit=Toate&gmd=Toate&branch=Toate&resourceCollection=Toate&activeMenuItem=false
 
 ID RU-19017073
 NAME National Library of Russia
@@ -3586,7 +3587,7 @@ ID OCLC-HDC
 NAME Claremont Colleges Library
 LOCATION Claremont
 STATE CA
-BASEURL https://ccl.on.worldcat.org/external-search?queryString
+BASEURL https://ccl.on.worldcat.org/search?queryString
 CATTYPE worldcat-config
 
 ID OCLC-JQJ 
@@ -3752,8 +3753,8 @@ ID OCLC-MVP
 NAME Mountain View Public Library
 LOCATION Mountain View
 STATE CA
-CATTYPE vufindsi
-BASEURL https://catalog.mountainview.gov/Union/Search
+CATTYPE vega
+BASEURL https://librarycatalog.mountainview.gov/
 FILTERS S
 
 ID OCLC-JRI
@@ -3858,6 +3859,7 @@ LOCATION Roseville
 STATE CA
 CATTYPE vufindsi
 BASEURL https://library.roseville.ca.us/Union/Search
+KINDEX Keyword
 FILTERS S
 
 ID OCLC-JRS
