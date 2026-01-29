@@ -3686,6 +3686,15 @@ STATE CA
 BASEURL https://imperial.on.worldcat.org/search?queryString
 CATTYPE worldcat-config
 
+# doesn't yet appear to have its own standard identifier
+ID IRVINE
+NAME Irvine Public Library
+LOCATION Irvine
+STATE CA
+CATTYPE sirsient
+LCODE en_US/default
+BASEURL https://irvinepl.ent.sirsi.net/
+
 ID OCLC-KLC
 NAME Kern County Library
 LOCATION Bakersfield and vicinity
