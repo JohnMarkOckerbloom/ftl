@@ -4,7 +4,7 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2026-01-20
+# Last updated 2026-04-27
 # Manual Sweep: resume at Saudi Arabia
 # try later: Kwame Nkrumah; Kenyatta; A U of Nigeria; Nnamdi Azikiwe; Natolin
 #  Porto
@@ -2149,12 +2149,13 @@ COUNTRY RU
 CATTYPE primo-justquery
 BASEURL https://primo.nlr.ru/primo-explore/search?vid=07NLR_VU1&
 
-ID OCLC-SU6KU
-NAME King Saud University
-LOCATION Riyadh; English search terms may give limited results
-COUNTRY SA
-CATTYPE sirsi
-BASEURL http://catalog.library.ksu.edu.sa/uhtbin/cgisirsi.exe
+# can't find a public catalog at this site now (might be behind auth-wall)
+#ID OCLC-SU6KU
+#NAME King Saud University
+#LOCATION Riyadh; English search terms may give limited results
+#COUNTRY SA
+#CATTYPE sirsi
+#BASEURL http://catalog.library.ksu.edu.sa/uhtbin/cgisirsi.exe
 
 ID OCLC-SINTU
 NAME Nanyang Technological University
@@ -2207,10 +2208,10 @@ ID OCLC-SGSUT
 NAME Singapore University of Technology and Design
 LOCATION Singapore
 COUNTRY SG
-CATTYPE primodl-loc
-BASEURL http://primo-direct-apac.hosted.exlibrisgroup.com
-VID 65SUTD
-LOC adaptor,scope:(65SUTD),primo_central_multiple_fe
+CATTYPE primo-ve
+BASEURL https://sutd.primo.exlibrisgroup.com
+VID 65SUTD_INST:65SUTD
+SCOPE MyInst_and_CI
 
 # Haven't gotten this Mandarin 5 library search working yet
 # ID OCLC-CHLAS
@@ -2535,6 +2536,13 @@ CATTYPE spydus-config
 BASEURL https://buckinghamshire.spydus.co.uk/cgi-bin/spydus.exe/ENQ/WPAC/ALLENQ?
 AINDEX CR
 
+ID OCLC-CUD
+NAME Cambridge University Library
+LOCATION Cambridge, England
+COUNTRY UK
+CATTYPE primo-justquery
+BASEURL https://idiscover.lib.cam.ac.uk/primo-explore/search?search_scope=SCOP_CAM_ALL&vid=44CAM_PROD&
+
 ID OCLC-UKLON
 NAME Camden Libraries
 LOCATION London Borough of Camden, England
@@ -2543,12 +2551,11 @@ CATTYPE spydus-config
 BASEURL https://camden.spydus.co.uk/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?
 
 ID OCLC-UKCAR
-NAME Cardiff Libraries
+NAME Cardiff Hubs and Libraries
 LOCATION Cardiff, Wales
 COUNTRY UK
-CATTYPE sirsient
-BASEURL https://wales.ent.sirsidynix.net.uk/
-LCODE en_GB/card_en
+CATTYPE spydus
+BASEURL https://cardiff.spydus.co.uk
 
 ID OCLC-RDF
 NAME Cardiff University
@@ -2578,6 +2585,13 @@ TITURL ${BASEURL}?title=${ARG}
 ATIURL ${BASEURL}?author=${AUTHOR}&title=${TITLE}
 KEYURL ${BASEURL}?keyword=${ARG}
 
+ID OCLC-CBK
+NAME Cornwall Council libraries
+LOCATION 30+ public libraries in Cornwall, England
+COUNTRY UK
+CATTYPE prismhosted
+BASEURL https://prism.librarymanagementcloud.co.uk/cornwall
+
 ID OCLC-UKCOV
 NAME Coventry University
 LOCATION Coventry, England
@@ -2597,22 +2611,8 @@ ID OCLC-UKMTU
 NAME De Montfort University
 LOCATION Leicester, England
 COUNTRY UK
-CATTYPE prismhosted
-BASEURL http://prism.librarymanagementcloud.co.uk/dmu
-
-ID OCLC-CUD
-NAME Cambridge University Library
-LOCATION Cambridge, England
-COUNTRY UK
-CATTYPE primo-justquery
-BASEURL https://idiscover.lib.cam.ac.uk/primo-explore/search?search_scope=SCOP_CAM_ALL&vid=44CAM_PROD&
-
-ID OCLC-CBK
-NAME Cornwall Council libraries
-LOCATION 30+ public libraries in Cornwall, England
-COUNTRY UK
-CATTYPE prismhosted
-BASEURL http://prism.librarymanagementcloud.co.uk/cornwall
+CATTYPE ebscodiscovery
+LCODE omrwnr
 
 ID OCLC-UKSUS
 NAME East Sussex Libraries
@@ -2625,9 +2625,8 @@ ID OCLC-EDJ
 NAME Edinburgh City Libraries
 LOCATION Edinburgh, Scotland
 COUNTRY UK
-BASEURL https://yourlibrary.edinburgh.gov.uk/web/arena
-CATTYPE arenacode
-LCODE arena_urn%3Aarena
+BASEURL https://yourlibrary.edinburgh.gov.uk
+CATTYPE arenaportlet
 
 ID OCLC-ESSEX
 NAME Essex Libraries
@@ -2641,9 +2640,8 @@ ID OCLC-UKFIF
 NAME Fife Library Catalogue
 LOCATION Public libraries in Fife, Scotland
 COUNTRY UK
-CATTYPE prismhosted
-BASEURL https://prism.librarymanagementcloud.co.uk/fife
-FILTERS S
+CATTYPE spydus-config
+BASEURL https://onfife.spydus.co.uk/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?
 
 ID OCLC-UKGCL
 NAME Glasgow Libraries
@@ -2652,6 +2650,13 @@ COUNTRY UK
 BASEURL https://libcat.csglasgow.org/web/arena
 CATTYPE arenacode
 LCODE arena_urn%3Aarena
+
+ID OCLC-GLOCC
+NAME Gloucestershire Libraries
+LOCATION Gloucestershire, England
+COUNTRY UK
+CATTYPE spydus
+BASEURL https://gloucestershire.spydus.co.uk
 
 ID OCLC-GSM
 NAME Goldsmiths, University of London
@@ -2666,9 +2671,8 @@ ID OCLC-UKGWL
 NAME Gwynedd Libraries
 LOCATION Gwynedd, Wales
 COUNTRY UK
-CATTYPE sirsient
-BASEURL https://wales.ent.sirsidynix.net.uk
-LCODE en_GB/gwynedd_en
+CATTYPE spydus
+BASEURL https://gwynedd.spydus.co.uk
 
 # using ID for Sandwell and West Birmingham Hospitals NHS Trust
 ID OCLC-UKWDH
@@ -2784,8 +2788,6 @@ ID OCLC-UKMPL
 NAME Medway Libraries
 LOCATION Medway, England
 COUNTRY UK
-CATTYPE spydus
-BASEURL https://medway.spydus.co.uk
 CATTYPE spydus-config
 BASEURL https://medway.spydus.co.uk/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?
 
@@ -2793,8 +2795,8 @@ ID OCLC-UKMCE
 NAME Moray Libraries
 LOCATION 11 public libraries in Moray, Scotland
 COUNTRY UK
-CATTYPE prismhosted
-BASEURL https://prism.librarymanagementcloud.co.uk/moray
+CATTYPE spydus-config
+BASEURL https://moraylibraries.spydus.co.uk/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?
 
 ID OCLC-NLW
 NAME National Library of Wales
@@ -2817,11 +2819,10 @@ ID OCLC-EUN
 NAME Newcastle University
 LOCATION Newcastle upon Tyne, England
 COUNTRY UK
-CATTYPE primodl
+CATTYPE primo-ve
 BASEURL https://libsearch.ncl.ac.uk
-VID NCL_V1
-LCODE NCL_V1
-DEFAULT http://www.ncl.ac.uk/library/
+VID 44NEW_INST:NEWUI
+SCOPE MyInstitution
 
 ID NHSWALES
 NAME NHS Wales Libraries
@@ -2871,7 +2872,7 @@ NAME Reading Borough Libraries
 LOCATION Reading, England
 COUNTRY UK
 CATTYPE spydus-config
-BASEURL https://library.reading.gov.uk/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?
+BASEURL https://library.reading.gov.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?
 FILTERS S
 
 ID OCLC-UKRED
@@ -2890,12 +2891,13 @@ CATTYPE spydus-config
 BASEURL https://rochdale.spydus.co.uk/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?
 
 ID OCLC-FDN
-NAME Senate House Libraries, University of London
+NAME Senate House Library, University of London
 LOCATION London, England
 COUNTRY UK
-CATTYPE iii-consortium-member
-BASEURL http://catalogue.ulrls.lon.ac.uk
-LCODE 24
+CATTYPE primo-ve
+BASEURL https://search.libraries.london.ac.uk
+VID 44SHL_INST:SHL
+SCOPE SHL_SEARCH
 
 ID OCLC-UKSLA
 NAME Sheffield Libraries, Archives and Information
@@ -2934,9 +2936,8 @@ ID OCLC-UKSWN
 NAME Swansea Libraries
 LOCATION Swansea, Wales
 COUNTRY UK
-CATTYPE sirsient
-BASEURL https://wales.ent.sirsidynix.net.uk
-LCODE en_GB/swan_en
+CATTYPE spydus
+BASEURL https://swansea.spydus.co.uk
 
 ID OCLC-SNU
 NAME Swansea University Libraries
@@ -2988,11 +2989,10 @@ ID OCLC-LTU
 NAME University of Leicester
 LOCATION Leicester, England
 COUNTRY UK
-CATTYPE primodl-loc
-BASEURL http://librarysearch.le.ac.uk
-VID 44UOLE_VU1
-LCODE 44UOLE
-LOC adaptor,scope:(44UOLE_DISSERTATIONS),scope:(44UOLE_DSPACE),scope:(44UOLE_CALM),scope:(44UOLE_ALMA),scope:(44UOLE_EXAM),scope:(44UOLE_CONTENTDM),primo_central_multiple_fe
+CATTYPE primo-ve
+BASEURL https://librarysearch.le.ac.uk
+VID 44UOLE_INST:VE
+SCOPE MyInst_and_CI
 
 ID OCLC-EUM
 NAME University of Manchester
@@ -3091,12 +3091,13 @@ CATTYPE encore
 BASEURL http://search.wellcomelibrary.org/iii/encore
 
 ID OCLC-W4S
-NAME Westminster Libraries
+NAME Westminster Libraries and Archives
 LOCATION City of Westminster, London, England
 COUNTRY UK
-CATTYPE sirsient
-BASEURL http://trib.ent.sirsidynix.net.uk
-LCODE en_GB/wcc
+CATTYPE vufindsi
+BASEURL https://libraries.westminster.gov.uk/Union/Search
+KINDEX Keyword
+FILTERS SNK
 
 ID OCLC-UKWSC
 NAME West Sussex Libraries

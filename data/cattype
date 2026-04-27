@@ -96,6 +96,10 @@ AUTURL ${BASEURL}/search?p_p_id=searchResult_WAR_arenaportlets&p_p_lifecycle=1&p
 TITURL ${BASEURL}/search?p_p_id=searchResult_WAR_arenaportlets&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_${LCODE}_search_query=title:(${ARG})
 KEYURL ${BASEURL}/search?p_p_id=searchResult_WAR_arenaportlets&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_r_p_${LCODE}_search_query=${ARG}
 
+# This appears to be the new Arena Portlet format (might not work cold)
+CATTYPE arenaportlet
+KEYURL ${BASEURL}/web/arena/search?p_p_id=searchResult_WAR_arenaportlet&p_p_lifecycle=1&p_p_state=normal&p_r_p_arena_urn%3Aarena_facet_queries=&p_r_p_arena_urn%3Aarena_search_query=${ARG}&p_r_p_arena_urn%3Aarena_search_type=solr&p_r_p_arena_urn%3Aarena_sort_advice=field%3DRelevance%26direction%3DDescending
+
 # We'll assume generic parameters are in the baseurl, since we don't
 # know how much they vary between catalogs
 CATTYPE atcult
