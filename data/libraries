@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2026-04-27
-# Manual Sweep: resume at Saudi Arabia
+# Last updated 2026-05-04
+# Manual Sweep: resume at Spain
 # try later: Kwame Nkrumah; Kenyatta; A U of Nigeria; Nnamdi Azikiwe; Natolin
 #  Porto
 
@@ -2253,11 +2253,8 @@ ID OCLC-V7F
 NAME Mangosuthu University of Technology
 LOCATION Umlazi
 COUNTRY ZA
-CATTYPE sirsi
-BASEURL http://esal.unizulu.ac.za/uhtbin/cgisirsi
-#EDS doesn't seem to allow off-campus access; above works for consortium
-#CATTYPE eds
-#CUSTID s1195058
+CATTYPE edsresearch
+LCODE fvsmjt
 
 ID OCLC-X-DOLLAR-@
 WCRID 69093
@@ -2271,22 +2268,28 @@ ID OCLC-OG-DOLLAR
 NAME Nelson Mandela University
 LOCATION Port Elizabeth
 COUNTRY ZA
-CATTYPE summon
-BASEURL https://mandela.summon.serialssolutions.com
+CATTYPE primo-nde
+BASEURL https://seals-nmu.alma.exlibrisgroup.com
+VID 27SEALS_NMU:NMU
+SCOPE NMU_CATALOG_AND_CI
 
 ID OCLC-OH-SHARP
 NAME Rhodes University
 LOCATION Makhanda
 COUNTRY ZA
-CATTYPE summon
-BASEURL https://rhodes.summon.serialssolutions.com
+CATTYPE primo-nde
+BASEURL https://seals-ru.alma.exlibrisgroup.com
+VID 27SEALS_RU:RU
+SCOPE RU_CATALOG_AND_CI
 
 ID OCLC-U5H
 NAME University of Fort Hare
 LOCATION Alice and other campuses
 COUNTRY ZA
-CATTYPE summon
-BASEURL https://ufh.summon.serialssolutions.com
+CATTYPE primo-nde
+BASEURL https://seals-ufh.alma.exlibrisgroup.com
+VID 27SEALS_UFH%3AUFH
+SCOPE UFH_CATALOG_AND_CI
 
 ID OCLC-OE-DOLLAR
 WCRID 70111
@@ -2309,8 +2312,10 @@ ID OCLC-Y-DOLLAR-R
 NAME University of the Free State
 LOCATION Bloemfontein and Qwaqwa
 COUNTRY ZA
-BASEURL https://wagtail.ufs.ac.za
-CATTYPE innopac
+CATTYPE primo-ve
+BASEURL https://ufs.primo.exlibrisgroup.com
+VID 27UOTFS_INST:27UOTFS_INST
+SCOPE MyInst_and_CI
 
 # using one of the National Library of Sweden's identifiers for this
 ID OCLC-S3O
@@ -2340,8 +2345,10 @@ WCRID 58798
 NAME Walter Sisulu University
 LOCATION Mthatha and other campuses
 COUNTRY ZA
-CATTYPE summon
-BASEURL https://wsulib.summon.serialssolutions.com
+CATTYPE primo-nde
+BASEURL https://seals-wsu.alma.exlibrisgroup.com
+VID 27SEALS_WSU:WSU
+SCOPE WSU_CATALOG_AND_CI
 
 ID OCLC-CHNTL
 NAME National Library of Public Information
@@ -8973,6 +8980,13 @@ CATTYPE evolve
 LCODE beavercounty
 FILTERS SNK
 
+ID BEDFORD
+NAME Bedford County Library / Federated Library System of Bedford County
+LOCATION Bedford and vicinity
+STATE PA
+CATTYPE evergreen-dynamic
+BASEURL https://bedford.chilipac.com/eg/opac
+
 ID OCLC-XK8
 NAME Berks County Public Libraries
 LOCATION Reading and vicinity
@@ -9067,8 +9081,8 @@ ID OCLC-HBP
 NAME Dauphin County Library System
 LOCATION Harrisburg and vicinity
 STATE PA
-CATTYPE encore
-BASEURL https://dcls-mt.iii.com/iii/encore
+CATTYPE vega
+BASEURL https://dcls.na5.iiivega.com/
 
 ID OCLC-DEL
 NAME Delaware County Library System
@@ -9097,8 +9111,8 @@ ID OCLC-EAS
 NAME Eastern University, Warner Memorial Library
 LOCATION St. Davids
 STATE PA
-BASEURL https://eastern.tlcdelivers.com:8480
-CATTYPE ls2pac
+CATTYPE edsresearch
+LCODE 7pcr6s
 FILTERS S
 
 ID OCLC-CPL
@@ -9198,8 +9212,10 @@ ID OCLC-LCLXP
 NAME Luzerne County Library System
 LOCATION Wilkes-Barre, Hazleton, and vicinity
 STATE PA
-CATTYPE sirsient
-BASEURL https://luzerne.ent.sirsi.net
+CATTYPE vufindsi
+BASEURL https://luzerne.aspendiscovery.org/Union/Search
+KINDEX Keyword
+FILTERS S
 
 # ID is for Norristown
 ID OCLC-MNL
@@ -9313,7 +9329,7 @@ NAME University of Scranton, Weinberg Memorial Library
 LOCATION Scranton
 STATE PA
 CATTYPE edsresearch
-LCODE 5ohkpe
+LCODE vsh5n7
 
 ID OCLC-PLF
 NAME Free Library of Philadelphia
@@ -9347,10 +9363,10 @@ LCODE 01SSHELCO_WCHESTER
 SCOPE default_scope
 
 ID OCLC-MPL
-NAME Westmoreland Library Network
+NAME Westmoreland County Libraries
 LOCATION Public libraries in Westmoreland County
 STATE PA
-BASEURL https://catalog.wlnonline.org/polaris
+BASEURL https://catalog.wclibraries.org/polaris
 CATTYPE polaris
 
 ID OCLC-PYLCO

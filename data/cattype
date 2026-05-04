@@ -4,7 +4,7 @@
 # This data file released to the world as CC0 
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, libraries file for usage of this catalog data
-# Last updated 2022-01-11
+# Last updated 2026-05-04
 
 CATTYPE 360search
 SUBURL ${BASEURL}/results?SS_LibHash=${LCODE}&action=start&dbIDList=${DBID}&field=subject&term=${ARG}
@@ -491,6 +491,16 @@ AUTURL ${BASEURL}query=creator,contains,${ARG:NK}
 TITURL ${BASEURL}query=title,contains,${ARG:NK}
 ATIURL ${BASEURL}query=creator,contains,${AUTHOR:NK}&query=title,contains,${TITLE:NK}
 KEYURL ${BASEURL}query=any,contains,${ARG:NK}
+DEFAULT DOMAIN
+
+# For now, assuming NDE search syntax is same as primo-ve syntax
+#  but it seems to require "mode=advanced" as an explicit parameter
+CATTYPE primo-nde
+SCOPE EVERYTHING
+SUBURL ${BASEURL}/nde/search?vid=${VID}&mode=advanced&search_scope=${SCOPE}&query=sub,contains,${ARG:NK}
+AUTURL ${BASEURL}/nde/search?vid=${VID}&mode=advanced&search_scope=${SCOPE}&query=creator,contains,${ARG:NK}
+TITURL ${BASEURL}/nde/search?vid=${VID}&mode=advanced&search_scope=${SCOPE}&query=title,contains,${ARG:NK}
+KEYURL ${BASEURL}/nde/search?vid=${VID}&mode=advanced&search_scope=${SCOPE}&query=any,contains,${ARG:NK}
 DEFAULT DOMAIN
 
 # New Primo VE syntax described at https://knowledge.exlibrisgroup.com/Primo/Product_Documentation/020Primo_VE/050Other_Configuration/Configuring_Redirection_for_Primo_VE_Deep_Links
