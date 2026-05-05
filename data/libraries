@@ -4,8 +4,8 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2026-05-04
-# Manual Sweep: resume at Spain
+# Last updated 2026-05-05
+# Manual Sweep: resume at Tanzania
 # try later: Kwame Nkrumah; Kenyatta; A U of Nigeria; Nnamdi Azikiwe; Natolin
 #  Porto
 
@@ -1587,13 +1587,15 @@ COUNTRY DK
 BASEURL https://www.odensebib.dk/search
 KEYURL ${BASEURL}?q=${ARG:NK}
 
-# This is a SIRSI catalog, but forcing keyword search due to limited results
 ID OCLC-BNM
 NAME Biblioteca Nacional de Espa&ntilde;a
 LOCATION Madrid; English search terms may give limited results
 COUNTRY ES
-BASEURL http://catalogo.bne.es/uhtbin/cgisirsi
-KEYURL ${BASEURL}/x/0/0/5?searchdata1=${ARG:NK}
+CATTYPE primo-ve
+BASEURL https://catalogo.bne.es
+VID 34BNE_INST:CATALOGO
+SCOPE MyInstitution
+FILTERS SNK
 
 # This is a zoned innopac, with prefix for specific library
 # and limited subject coverage
@@ -2329,8 +2331,8 @@ ID OCLC-STB
 NAME Stockholms Stadsbibliotek
 LOCATION Stockholm; English search terms may give limited results
 COUNTRY SE
-BASEURL https://biblioteket.stockholm.se/en/sok
-KEYURL ${BASEURL}?freetext=${ARG}
+BASEURL https://biblioteket.stockholm.se/sok
+KEYURL ${BASEURL}?text=${ARG}
 
 ID OCLC-OG-SHARP
 WCRID 87534
@@ -2364,8 +2366,11 @@ ID OCLC-TAE
 NAME Taipei Public Library
 LOCATION Taipei
 COUNTRY TW
-CATTYPE sirsi
-BASEURL http://webcat.tpml.edu.tw/uhtbin/cgisirsi
+BASEURL https://book.tpml.edu.tw
+AUTURL ${BASEURL}/search?searchField=PN&searchInput=${ARG}
+TITURL ${BASEURL}/search?searchField=TI&searchInput=${ARG}
+KEYURL ${BASEURL}/search?searchField=FullText&searchInput=${ARG}
+FILTERS SNK
 
 ID TAJIKISTAN
 NAME National Library of Tajikistan
@@ -5873,6 +5878,7 @@ LOCATION Evansville and Vanderburgh County
 STATE IN
 CATTYPE vufindsi
 BASEURL https://catalog.evpl.org/Union/Search
+KINDEX Keyword
 FILTERS SNK
 
 ID OCLC-IHC
@@ -5920,6 +5926,15 @@ LOCATION Bloomington and Elletsville
 STATE IN
 CATTYPE vega
 BASEURL https://catalog.mcpl.info
+
+ID OCLC-MORSV
+NAME Mooresville Public Library
+LOCATION Mooresville
+STATE IN
+CATTYPE vufindsi
+BASEURL https://mooresville.evergreenindiana.org/Union/Search
+KINDEX Keyword
+FILTERS S
 
 ID OCLC-IPL
 NAME Purdue University Libraries
