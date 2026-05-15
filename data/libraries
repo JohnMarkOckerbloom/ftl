@@ -4,7 +4,7 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2026-05-05
+# Last updated 2026-05-15
 # Manual Sweep: resume at Tanzania
 # try later: Kwame Nkrumah; Kenyatta; A U of Nigeria; Nnamdi Azikiwe; Natolin
 #  Porto
@@ -6040,8 +6040,8 @@ ID OCLC-KSW
 NAME Wichita State University
 LOCATION Wichita
 STATE KS
-CATTYPE voyager-vwebv
-BASEURL http://libcat.wichita.edu/vwebv/search
+CATTYPE ebscodiscovery
+LCODE rgc5ak
 
 ID OCLC-KUA
 NAME Ashland Community and Technical College
@@ -6685,8 +6685,8 @@ ID OCLC-FLF
 NAME Fenway Library Organization
 LOCATION Museums and small colleges in Boston and vicinity
 STATE MA
-CATTYPE voyager-vwebv
-BASEURL http://endeavor.flo.org/vwebv/search
+CATTYPE vufind
+BASEURL https://catalog.flo.org
 
 ID OCLC-HAM
 NAME Hampshire College
@@ -9869,8 +9869,8 @@ ID OCLC-T7B
 NAME Brazoria County Library System
 LOCATION Brazoria County
 STATE TX
-BASEURL https://mybcls.polarislibrary.com
-CATTYPE polaris
+BASEURL https://mybcls.spydus.com
+CATTYPE spydus
 
 ID OCLC-CCA
 NAME Corpus Christi Public Libraries
@@ -10013,8 +10013,9 @@ ID OCLC-TME
 NAME McAllen Public Library
 LOCATION McAllen
 STATE TX
-BASEURL https://hidalgo.insigniails.com/Library/SearchResult
-CATTYPE insignia
+BASEURL https://mpl.tlcdelivers.com/
+CATTYPE ls2pac
+FILTERS S
 
 ID OCLC-M-DOLLAR-K
 NAME McKinney Public Library System
@@ -10033,7 +10034,7 @@ BASEURL https://hcpl2.ent.sirsi.net
 LCODE en_US/mcmlweb
 
 ID OCLC-NM-DOLLAR
-NAME Nicholson Memorial Library System
+NAME Garland Public Libraries
 LOCATION Garland
 STATE TX
 CATTYPE sirsient
@@ -10072,8 +10073,8 @@ ID OCLC-PQC
 NAME Paul Quinn College, Zale Library
 LOCATION Dallas
 STATE TX
-CATTYPE voyager-vwebv
-BASEURL http://voyager.pqc.edu/vwebv/search
+BASEURL https://paulquinn.bywatersolutions.com
+CATTYPE koha
 
 ID OCLC-PLS
 NAME Plano Public Library
@@ -10089,6 +10090,14 @@ LOCATION Prairie View
 STATE TX
 CATTYPE encore
 BASEURL http://onesearch-mypanther-lib.pvamu.edu/iii/encore
+
+ID OCLC-TXQUI
+NAME Quitman Public Library
+LOCATION Quitman
+STATE TX
+CATTYPE apollo
+BASEURL https://quitman.biblionix.com/
+FILTERS S
 
 ID OCLC-RCE
 NAME Rice University
@@ -10111,8 +10120,10 @@ ID OCLC-SNC
 NAME San Antonio College
 LOCATION San Antonio
 STATE TX
-BASEURL https://saclib.on.worldcat.org/search?queryString
-CATTYPE worldcat-config
+CATTYPE vufindsi
+BASEURL https://sactx.aspendiscovery.org/Union/Search
+KINDEX Keyword
+FILTERS S
 
 ID OCLC-SAP
 NAME San Antonio Public Library
@@ -10125,16 +10136,16 @@ ID OCLC-TX5
 NAME Sekula Memorial Library
 LOCATION Edinburg
 STATE TX
-CATTYPE insigniapass
-BASEURL https://hidalgo.insigniails.com
-LCODE 6246
+BASEURL https://sekula.tlcdelivers.com/
+CATTYPE ls2pac
+FILTERS S
 
 ID OCLC-SNM
 NAME St. Mary's University, Louis J. Blume Library
 LOCATION San Antonio
 STATE TX
-CATTYPE edsresearch
-LCODE cxw37y
+BASEURL https://stmarytx.on.worldcat.org/search?queryString
+CATTYPE worldcat-config
 
 ID OCLC-SSP
 NAME St. Philip's College
