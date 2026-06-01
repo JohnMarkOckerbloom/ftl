@@ -4,10 +4,10 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2026-05-15
-# Manual Sweep: resume at Tanzania
+# Last updated 2026-06-01
+# Manual Sweep: resume at Uganda
 # try later: Kwame Nkrumah; Kenyatta; A U of Nigeria; Nnamdi Azikiwe; Natolin
-#  Porto
+#  Porto; Open University of Tanzania
 
 ID OLBP
 NAME The Online Books Page
@@ -2415,8 +2415,8 @@ ID OCLC-BGZ
 NAME Bogazici University Library
 LOCATION Istanbul
 COUNTRY TR
-CATTYPE summon
-BASEURL http://boun.summon.serialssolutions.com
+CATTYPE edsresearch
+LCODE u26o5q
 
 ID OCLC-UA@
 NAME Istanbul Technical University
@@ -2429,8 +2429,8 @@ ID OCLC-TOQ
 NAME Middle East Technical University
 LOCATION Ankara
 COUNTRY TR
-BASEURL https://catalog.library.metu.edu.tr
-CATTYPE webpacpro
+CATTYPE edsresearch
+LCODE msrozl
 
 ID KYAMBOGO
 NAME Kyambogo University
@@ -5683,6 +5683,7 @@ LOCATION Cedar Falls
 STATE IA
 CATTYPE vufindsi
 BASEURL https://cedarfalls.aspendiscovery.org/Union/Search
+KINDEX Keyword
 FILTERS S
 
 ID OCLC-IWR
@@ -5834,6 +5835,7 @@ LOCATION Waterloo
 STATE IA
 CATTYPE vufindsi
 BASEURL https://waterloo.aspendiscovery.org/Union/Search
+KINDEX Keyword
 FILTERS S
 
 ID OCLC-IW9
@@ -6549,6 +6551,7 @@ LOCATION Montgomery County
 STATE MD
 CATTYPE vufindsi
 BASEURL https://mcpl.aspendiscovery.org/Union/Search
+KINDEX Keyword
 FILTERS S
 
 ID OCLC-AGL
@@ -7492,6 +7495,7 @@ LOCATION Carson City
 STATE NV
 CATTYPE vufindsi
 BASEURL https://carsoncity.aspendiscovery.org/Union/Search
+KINDEX Keyword
 FILTERS S
 
 ID OCLC-NVA
@@ -7516,6 +7520,7 @@ LOCATION Public libraries outside Nevada's largest urban areas
 STATE NV
 CATTYPE vufindsi
 BASEURL https://nvcoop.aspendiscovery.org/Union/Search
+KINDEX Keyword
 FILTERS S
 
 ID OLB-WASHOE
@@ -7628,6 +7633,7 @@ LOCATION Flemington, Clinton, and Lambertville
 STATE NJ
 CATTYPE vufindsi
 BASEURL https://hunterdon.aspendiscovery.org/Union/Search
+KINDEX Keyword
 FILTERS S
 
 ID OCLC-MRR
@@ -8826,6 +8832,7 @@ LOCATION Corvallis and vicinity
 STATE OR
 CATTYPE vufindsi
 BASEURL https://corvallis.aspendiscovery.org/Union/Search
+KINDEX Keyword
 FILTERS S
 
 ID OCLC-DCH
@@ -9825,6 +9832,7 @@ LOCATION Franklin and vicinity
 STATE TN
 CATTYPE vufindsi
 BASEURL https://wilco.aspendiscovery.org/Union/Search
+KINDEX Keyword
 FILTERS S
 
 ID OCLC-1AR
@@ -10640,6 +10648,7 @@ LOCATION Bennington
 STATE VT
 CATTYPE vufindsi
 BASEURL https://bennington.aspendiscovery.org/Union/Search
+KINDEX Keyword
 FILTERS SNK
 
 ID OCLC-BSY
@@ -10648,6 +10657,15 @@ LOCATION Brattleboro
 STATE VT
 CATTYPE vufindsi
 BASEURL https://brooks.aspendiscovery.org/Union/Search
+KINDEX Keyword
+FILTERS SNK
+
+ID OCLC-VTCAL
+NAME Calef Memorial Library
+LOCATION Washington
+STATE VT
+BASEURL https://calef.kohavt.org
+CATTYPE koha
 FILTERS SNK
 
 ID OCLC-VTESS
@@ -10678,6 +10696,7 @@ LOCATION Rutland
 STATE VT
 CATTYPE vufindsi
 BASEURL https://rutland.aspendiscovery.org/Union/Search
+KINDEX Keyword
 FILTERS SNK
 
 ID OCLC-SMD
