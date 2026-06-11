@@ -4,7 +4,7 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2026-06-01
+# Last updated 2026-06-11
 # Manual Sweep: resume at Uganda
 # try later: Kwame Nkrumah; Kenyatta; A U of Nigeria; Nnamdi Azikiwe; Natolin
 #  Porto; Open University of Tanzania
@@ -621,6 +621,15 @@ KEYURL ${BASEURL}/?for=LIVRE&q=${ARG:SNK}
 TITURL ${BASEURL}/?for=TITULO&q=${ARG:SNK}
 AUTURL ${BASEURL}/?for=AUTOR&q=${ARG:SNK}
 
+ID OCLC-BOWVC
+NAME Bow Valley College, RGO Library and Learning Commons
+LOCATION Calgary
+PROVINCE AB
+CATTYPE primo-ve
+BASEURL https://bowvalleycollege.primo.exlibrisgroup.com
+VID 01UCALG_BOW:BOWVALLEY
+SCOPE MyInst_and_CI
+
 ID OCLC-CN5O6
 NAME Calgary Public Library
 LOCATION Calgary
@@ -723,8 +732,10 @@ ID OCLC-UAB
 NAME University of Alberta
 LOCATION Edmonton
 PROVINCE AB
-CATTYPE eds
-LCODE s5940188
+CATTYPE primo-ve
+BASEURL https://search.library.ualberta.ca
+VID 01UOA_INST:UOA
+SCOPE MyInst_and_CI
 
 ID OCLC-UAU
 NAME University of Calgary
