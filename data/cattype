@@ -800,7 +800,7 @@ CATTYPE vufindsi
 TINDEX Title
 SINDEX Subject
 AINDEX Author
-KINDEX AllFields
+KINDEX Keyword
 SUBURL ${BASEURL}?searchIndex=${SINDEX}&lookfor=${ARG}
 AUTURL ${BASEURL}?searchIndex=${AINDEX}&lookfor=${ARG}
 TITURL ${BASEURL}?searchIndex=${TINDEX}&lookfor=${ARG}

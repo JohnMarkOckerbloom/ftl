@@ -4,7 +4,7 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2026-06-11
+# Last updated 2026-06-15
 # Manual Sweep: resume at Uganda
 # try later: Kwame Nkrumah; Kenyatta; A U of Nigeria; Nnamdi Azikiwe; Natolin
 #  Porto; Open University of Tanzania
@@ -3119,7 +3119,6 @@ LOCATION City of Westminster, London, England
 COUNTRY UK
 CATTYPE vufindsi
 BASEURL https://libraries.westminster.gov.uk/Union/Search
-KINDEX Keyword
 FILTERS SNK
 
 ID OCLC-UKWSC
@@ -3892,7 +3891,6 @@ LOCATION Roseville
 STATE CA
 CATTYPE vufindsi
 BASEURL https://library.roseville.ca.us/Union/Search
-KINDEX Keyword
 FILTERS S
 
 ID OCLC-JRS
@@ -4701,7 +4699,6 @@ LOCATION Lake City
 STATE FL
 CATTYPE vufindsi
 BASEURL https://ccpl.aspendiscovery.org/Union/Search
-KINDEX Keyword
 FILTERS S
 
 ID OCLC-FJE
@@ -4863,7 +4860,6 @@ STATE FL
 CATTYPE vufindsi
 BASEURL https://pasco.aspendiscovery.org/Union/Search
 FILTERS S
-KINDEX Keyword
 
 # here temporarily (but suppressed in list) for back-compatibility (Feb 2017)
 # expecting Pinellas Co. users to shift over to OCLC-PI8
@@ -4940,7 +4936,6 @@ STATE FL
 CATTYPE vufindsi
 BASEURL https://sjcpls.aspendiscovery.org/Union/Search
 FILTERS S
-KINDEX Keyword
 
 ID OCLC-FLR
 NAME St. Lucie County Library System
@@ -5247,16 +5242,8 @@ ID OCLC-ZVR
 NAME Coeur d'Alene Public Library
 LOCATION Coeur d'Alene
 STATE ID
-CATTYPE vufindgeneral
-BASEURL https://cdalibrary.cinlibraries.org/Union/Search
-FILTERS S
-
-ID OCLC-ZWM
-NAME Cooperative Information Network
-LOCATION 27 public and school libraries in northern Idaho and vicinity
-STATE ID
-CATTYPE vufindgeneral
-BASEURL https://catalog.cinlibraries.org/Union/Search
+CATTYPE vufindsi
+BASEURL https://cdalibrary.inlandshare.org/Union/Search
 FILTERS S
 
 ID OCLC-I4F
@@ -5273,6 +5260,15 @@ LOCATION Pocatello
 STATE ID
 CATTYPE eds
 LCODE s6406031
+
+ID OCLC-ILGID
+NAME InlandShare Library Group
+LOCATION 16 public and school libraries in northern Idaho and vicinity
+STATE ID
+CATTYPE vufindgeneral
+BASEURL https://catalog.inlandshare.org/Union/Search
+KINDEX Keyword
+FILTERS S
 
 ID OCLC-WK0
 NAME Lewis-Clark State College
@@ -5345,7 +5341,6 @@ LOCATION Benton
 STATE IL
 CATTYPE vufindsi
 BASEURL https://bplp.illshareit.com/Union/Search
-KINDEX Keyword
 
 ID OCLC-JOZ
 NAME Bloomingdale Public Library
@@ -5353,7 +5348,6 @@ LOCATION Bloomingdale
 STATE IL
 CATTYPE vufindsi
 BASEURL https://bdd.swanlibraries.net/Union/Search
-KINDEX Keyword
 
 ID OCLC-JCH
 NAME Bloomington Public Library
@@ -5479,7 +5473,6 @@ LOCATION Itasca
 STATE IL
 CATTYPE vufindsi
 BASEURL https://itd.swanlibraries.net/Union/Search
-KINDEX Keyword
 
 ID OCLC-AP8
 NAME Joliet Junior College
@@ -5576,7 +5569,6 @@ LOCATION Suburban libraries in the Chicago area
 STATE IL
 CATTYPE vufindsi
 BASEURL https://catalog.swanlibraries.net/Union/Search
-KINDEX Keyword
 
 ID OCLC-CGU
 NAME University of Chicago Library
@@ -5694,7 +5686,6 @@ LOCATION Cedar Falls
 STATE IA
 CATTYPE vufindsi
 BASEURL https://cedarfalls.aspendiscovery.org/Union/Search
-KINDEX Keyword
 FILTERS S
 
 ID OCLC-IWR
@@ -5846,7 +5837,6 @@ LOCATION Waterloo
 STATE IA
 CATTYPE vufindsi
 BASEURL https://waterloo.aspendiscovery.org/Union/Search
-KINDEX Keyword
 FILTERS S
 
 ID OCLC-IW9
@@ -5891,7 +5881,6 @@ LOCATION Evansville and Vanderburgh County
 STATE IN
 CATTYPE vufindsi
 BASEURL https://catalog.evpl.org/Union/Search
-KINDEX Keyword
 FILTERS SNK
 
 ID OCLC-IHC
@@ -5946,7 +5935,6 @@ LOCATION Mooresville
 STATE IN
 CATTYPE vufindsi
 BASEURL https://mooresville.evergreenindiana.org/Union/Search
-KINDEX Keyword
 FILTERS S
 
 ID OCLC-IPL
@@ -6562,7 +6550,6 @@ LOCATION Montgomery County
 STATE MD
 CATTYPE vufindsi
 BASEURL https://mcpl.aspendiscovery.org/Union/Search
-KINDEX Keyword
 FILTERS S
 
 ID OCLC-AGL
@@ -7506,7 +7493,6 @@ LOCATION Carson City
 STATE NV
 CATTYPE vufindsi
 BASEURL https://carsoncity.aspendiscovery.org/Union/Search
-KINDEX Keyword
 FILTERS S
 
 ID OCLC-NVA
@@ -7531,7 +7517,6 @@ LOCATION Public libraries outside Nevada's largest urban areas
 STATE NV
 CATTYPE vufindsi
 BASEURL https://nvcoop.aspendiscovery.org/Union/Search
-KINDEX Keyword
 FILTERS S
 
 ID OLB-WASHOE
@@ -7644,7 +7629,6 @@ LOCATION Flemington, Clinton, and Lambertville
 STATE NJ
 CATTYPE vufindsi
 BASEURL https://hunterdon.aspendiscovery.org/Union/Search
-KINDEX Keyword
 FILTERS S
 
 ID OCLC-MRR
@@ -8713,7 +8697,6 @@ ID OCLC-3OK
 NAME Metropolitan Library System
 LOCATION Oklahoma City and vicinity
 STATE OK
-CATTYPE ls2pac
 CATTYPE vufindsi
 BASEURL https://catalog.metrolibrary.org/Union/Search
 FILTERS S
@@ -8843,7 +8826,6 @@ LOCATION Corvallis and vicinity
 STATE OR
 CATTYPE vufindsi
 BASEURL https://corvallis.aspendiscovery.org/Union/Search
-KINDEX Keyword
 FILTERS S
 
 ID OCLC-DCH
@@ -9247,7 +9229,6 @@ LOCATION Wilkes-Barre, Hazleton, and vicinity
 STATE PA
 CATTYPE vufindsi
 BASEURL https://luzerne.aspendiscovery.org/Union/Search
-KINDEX Keyword
 FILTERS S
 
 # ID is for Norristown
@@ -9843,7 +9824,6 @@ LOCATION Franklin and vicinity
 STATE TN
 CATTYPE vufindsi
 BASEURL https://wilco.aspendiscovery.org/Union/Search
-KINDEX Keyword
 FILTERS S
 
 ID OCLC-1AR
@@ -10141,7 +10121,6 @@ LOCATION San Antonio
 STATE TX
 CATTYPE vufindsi
 BASEURL https://sactx.aspendiscovery.org/Union/Search
-KINDEX Keyword
 FILTERS S
 
 ID OCLC-SAP
@@ -10659,7 +10638,6 @@ LOCATION Bennington
 STATE VT
 CATTYPE vufindsi
 BASEURL https://bennington.aspendiscovery.org/Union/Search
-KINDEX Keyword
 FILTERS SNK
 
 ID OCLC-BSY
@@ -10668,7 +10646,6 @@ LOCATION Brattleboro
 STATE VT
 CATTYPE vufindsi
 BASEURL https://brooks.aspendiscovery.org/Union/Search
-KINDEX Keyword
 FILTERS SNK
 
 ID OCLC-VTCAL
@@ -10707,7 +10684,6 @@ LOCATION Rutland
 STATE VT
 CATTYPE vufindsi
 BASEURL https://rutland.aspendiscovery.org/Union/Search
-KINDEX Keyword
 FILTERS SNK
 
 ID OCLC-SMD
@@ -10849,8 +10825,8 @@ ID OCLC-YEQ
 NAME Kitsap Regional Library
 LOCATION Kitsap County
 STATE WA
-BASEURL http://catalog.krl.org/polaris
-CATTYPE polaris
+CATTYPE bibliocommons
+BASEURL https://krl.bibliocommons.com
 
 ID OCLC-AVW
 NAME McChord Library
@@ -10864,8 +10840,8 @@ ID OCLC-LIBLM
 NAME Liberty Lake Municipal Library
 LOCATION Liberty Lake
 STATE WA
-CATTYPE vufindgeneral
-BASEURL https://libertylakewa.cinlibraries.org/Union/Search
+CATTYPE vufindsi
+BASEURL https://libertylakewa.inlandshare.org/Union/Search
 FILTERS S
 
 ID OCLC-LZS
@@ -10876,6 +10852,13 @@ BASEURL http://catalog.thelosc.org:8080/
 CATTYPE ls2pac-config
 CONFIG default
 FILTERS S
+
+ID OCLC-UAH
+NAME Mid-Columbia Libraries
+LOCATION Benton, Franklin, and parts of Adams Counties
+STATE WA
+BASEURL https://catalog.midcolumbialibraries.org/polaris
+CATTYPE polaris
 
 ID OCLC-AA5
 NAME Mount Vernon City Library
