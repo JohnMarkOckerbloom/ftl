@@ -4,7 +4,7 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2026-06-15
+# Last updated 2026-07-06
 # Manual Sweep: resume at Uganda
 # try later: Kwame Nkrumah; Kenyatta; A U of Nigeria; Nnamdi Azikiwe; Natolin
 #  Porto; Open University of Tanzania
@@ -3523,6 +3523,13 @@ CATTYPE ls2pac
 BASEURL https://catalog.berkeleypubliclibrary.org/
 FILTERS S
 
+ID OCLC-JQH
+NAME Burlingame Public Library
+LOCATION Burlingame
+STATE CA
+CATTYPE bibliocommons
+BASEURL https://burlingame.bibliocommons.com
+
 ID OCLC-JQI
 NAME Butte County Library
 LOCATION Butte County
@@ -3613,6 +3620,15 @@ STATE CA
 BASEURL https://ccl.on.worldcat.org/search?queryString
 CATTYPE worldcat-config
 
+ID OCLC-CMT
+NAME College of San Mateo
+LOCATION San Mateo
+STATE CA
+CATTYPE primo-ve
+BASEURL https://caccl-smccd.primo.exlibrisgroup.com
+VID 01CACCL_SMCCD:MATEO
+SCOPE CSM_LibraryCatalog_and_CI
+
 ID OCLC-JQJ 
 NAME Contra Costa Library
 LOCATION Contra Costa County
@@ -3637,6 +3653,13 @@ CATTYPE primo-ve
 BASEURL https://caccl-cc.primo.exlibrisgroup.com
 VID 01CACCL_CYPRC:CYPRC
 SCOPE MyInst_and_CI
+
+ID OCLC-JQM
+NAME Daly City Public Library
+LOCATION Daly City
+STATE CA
+CATTYPE bibliocommons
+BASEURL https://dalycity.bibliocommons.com
 
 ID OCLC-DAC
 NAME De Anza College
@@ -3774,6 +3797,13 @@ STATE CA
 CATTYPE bibliocommons
 BASEURL https://marinet.bibliocommons.com
 
+ID OCLC-JRF
+NAME Menlo Park Library
+LOCATION Menlo Park
+STATE CA
+CATTYPE bibliocommons
+BASEURL https://menlopark.bibliocommons.com
+
 ID OCLC-JRD
 NAME Monterey Public Library
 LOCATION Monterey
@@ -3793,8 +3823,8 @@ ID OCLC-JRI
 NAME Napa County Library
 LOCATION Napa County
 STATE CA
-BASEURL https://napa.polarislibrary.com/polaris
-CATTYPE polaris
+CATTYPE bibliocommons
+BASEURL https://napalibrary.bibliocommons.com
 
 ID OCLC-CNB
 NAME Newport Beach Public Library
@@ -3863,13 +3893,12 @@ BASEURL https://pasadena.ent.sirsi.net
 CATTYPE sirsient
 LCODE en_US/default
 
-ID OCLC-CZP
-NAME Peninsula Library System
-LOCATION San Mateo County
+ID OCLC-JRQ
+NAME Redwood City Public Library
+LOCATION Redwood City
 STATE CA
-BASEURL http://catalog.plsinfo.org/
-CATTYPE iii-consortium-member
-LCODE 1
+CATTYPE bibliocommons
+BASEURL https://rcpl.bibliocommons.com
 
 ID OCLC-RRT
 NAME Riverside County Library System
@@ -3923,6 +3952,13 @@ LOCATION 32 libraries across San Bernardino County
 STATE CA
 BASEURL https://sbclib.polarislibrary.com/polaris
 CATTYPE polaris
+
+ID OCLC-JRX
+NAME San Bruno Public Library
+LOCATION San Bruno
+STATE CA
+CATTYPE bibliocommons
+BASEURL https://sbl.bibliocommons.com
 
 ID OCLC-1JT
 NAME San Diego Public Library
@@ -4002,6 +4038,20 @@ STATE CA
 CATTYPE bibliocommons
 BASEURL https://sccl.bibliocommons.com
 
+ID OCLC-CZA
+NAME San Mateo County Libraries
+LOCATION 15 libraries in San Mateo County outside San Mateo city
+STATE CA
+CATTYPE bibliocommons
+BASEURL https://smcl.bibliocommons.com
+
+ID OCLC-JTE
+NAME San Mateo Public Library
+LOCATION San Mateo
+STATE CA
+CATTYPE bibliocommons
+BASEURL https://smplibrary.bibliocommons.com
+
 ID OCLC-SMX
 NAME Santa Monica College Library
 LOCATION Santa Monica
@@ -4026,6 +4076,15 @@ STATE CA
 CATTYPE bibliocommons
 BASEURL https://marinet.bibliocommons.com
 
+ID OCLC-CSY
+NAME Skyline College
+LOCATION San Bruno
+STATE CA
+CATTYPE primo-ve
+BASEURL https://caccl-smccd.primo.exlibrisgroup.com
+VID 01CACCL_SMCCD:SKYLINE
+SCOPE SKY_LibraryCatalog_and_CI
+
 ID OCLC-JTD
 NAME Solano County Library
 LOCATION Solano County
@@ -4046,6 +4105,13 @@ LOCATION Rohnert Park
 STATE CA
 CATTYPE primo-justquery
 BASEURL https://sonoma-primo.hosted.exlibrisgroup.com/primo-explore/search?institution=01CALS_SOL&search_scope=EVERYTHING&vid=01CALS_SOL&
+
+ID OCLC-SSF
+NAME South San Francisco Public Library
+LOCATION South San Francisco
+STATE CA
+CATTYPE bibliocommons
+BASEURL https://ssfpl.bibliocommons.com
 
 ID OCLC-JTJ
 NAME St. Helena Public Library
@@ -4068,7 +4134,7 @@ NAME Stanislaus County Library
 LOCATION Modesto and vicinity
 STATE CA
 CATTYPE sirsient
-LCODE en_US/default
+LCODE en_US/catalog
 BASEURL https://stan.ent.sirsi.net
 
 ID OCLC-CSP
@@ -4085,6 +4151,13 @@ LOCATION Sunnyvale
 STATE CA
 BASEURL https://sunnyvale.bibliocommons.com
 CATTYPE bibliocommons
+
+ID OCLC-JTV
+NAME Thousand Oaks Library
+LOCATION Thousand Oaks
+STATE CA
+CATTYPE vega
+BASEURL https://thols.na2.iiivega.com/
 
 ID OCLC-TCB
 NAME Tulare County Library
