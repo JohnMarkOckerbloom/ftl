@@ -4,9 +4,9 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2026-07-06
-# Manual Sweep: resume at Uganda
-# try later: Kwame Nkrumah; Kenyatta; A U of Nigeria; Nnamdi Azikiwe; Natolin
+# Last updated 2026-07-16
+# Manual Sweep: resume at UK: Bedford
+# try later: Kwame Nkrumah; Kenyatta; A U of Nigeria; Natolin;
 #  Porto; Open University of Tanzania
 
 ID OLBP
@@ -11216,6 +11216,14 @@ STATE WI
 CATTYPE vufindsi
 BASEURL https://countycat.mcfls.org/Union/Search
 FILTERS SNK
+
+# Didn't find a symbol for all of More; this one is for Eau Claire district
+ID OCLC-F2R
+NAME MORE Libraries
+LOCATION 50+ libraries in western Wisconsin
+STATE WI
+CATTYPE bibliocommons
+BASEURL https://more.bibliocommons.com
 
 # Didn't find a symbol for all of SHARE; this one is for Lakeshores
 ID OCLC-WIR
