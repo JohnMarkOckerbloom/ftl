@@ -4,7 +4,7 @@
 # This data file released to the world as CC0
 #   (though appropriate attribution appreciated)
 # See docs file for documentation, cattype file for general catalog data
-# Last updated 2026-07-16
+# Last updated 2026-09-14
 # Manual Sweep: resume at UK: Bedford
 # try later: Kwame Nkrumah; Kenyatta; A U of Nigeria; Natolin;
 #  Porto; Open University of Tanzania
@@ -5842,6 +5842,14 @@ STATE IA
 CATTYPE vega
 BASEURL https://marion-crpl.na.iiivega.com/
 
+ID OCLC-JIM
+NAME Marshalltown Public Library
+LOCATION Marshalltown
+STATE IA
+CATTYPE sirsient
+LCODE en_US/default
+BASEURL https://marsha.ent.sirsi.net
+
 ID OCLC-LTW
 NAME Orange City Public Library
 LOCATION Orange City
@@ -5916,8 +5924,8 @@ ID OCLC-IW9
 NAME West Des Moines Public Library
 LOCATION West Des Moines
 STATE IA
-BASEURL https://encore.wdm.iowa.gov/iii/encore
-CATTYPE encore
+CATTYPE vega
+BASEURL https://wdmpl.na5.iiivega.com/
 
 ID OCLC-IMF
 NAME Allen County Public Library

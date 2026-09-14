@@ -159,6 +159,9 @@ OCLC-PAU|Immigrant detention centers|<->|Noncitizen detention centers
 #  Orbis-Cascade mappings at https://drive.google.com/file/d/1R5dmP14Cx5Y58KfrjdGYi4N9VLCYH1zn/view
 #  Also CHECK to see if LCSH "Noncitizen detention centers" should be remapped
 OCLC-OBS|Immigrant detention centers|<->|Noncitizen detention centers
+#   The Online Books Page has declined a few LCSH heading updates
+OLBP|Denali, Mount (Alaska)|=|McKinley, Mount (Alaska)
+OLBP|Mexico, Gulf of|=|America, Gulf of
 #   Central Oregon Community College uses Orbis-Cascade mappings
 OCLC-CEO inherits OCLC-OBS
 #   Chemeketa Community College uses Orbis-Cascade mappings

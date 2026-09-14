@@ -1029,11 +1029,25 @@ sub route_term {
   route_request($q, $librec, urltype=>"KEYURL", arg=>$term);
 }
 
+sub go_away {
+  my ($q) = @_;
+  sorry($q, "Due to excessive bot traffic, we have to turn away requests from users that aren't providing expected referral information.");
+}
+
+sub triage_bots {
+  my ($q) = @_;
+  my $referer = $q->referer();
+  if ($FTL::NEED_REFERER && !$referer) {
+    go_away($q);
+  }
+}
+
 my $q = new CGI;
 my $cmd = $q->url(-path_info=>1);
 $cmd =~ s/(.*)\///;
 
 log_request($q);
+triage_bots($q);
 
 my $subject = $q->param('su');
 utf8::decode($subject);
