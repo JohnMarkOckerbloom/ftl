@@ -63,7 +63,7 @@ OCLC-NDD|Indigenous peoples of Central America|=|Indians of Central America
 OCLC-NDD|Indigenous peoples of Mexico|=|Indians of Mexico
 OCLC-NDD|Indigenous peoples of North America|=|Indians of North America
 OCLC-NDD|Indigenous peoples of South America|=|Indians of South America
-OCLC-NDD|Indigenous peoples of the West Indies|=|Indians of the West Indies
+OCLC-NDD|Indigenous peoples of the West Indies|=|Indigenous peoples -- West Indies
 OCLC-NDD|Investments, Indian (India)|=|Investments, East Indian
 OCLC-NDD|Jewish LGBTQ people|=|Jewish sexual minorities
 OCLC-NDD|Jews, Indian (India)|=|Jews, East Indian
@@ -146,8 +146,8 @@ OCLC-PUL|Indigenous peoples of Central America|=|Indians of Central America
 OCLC-PUL|Indigenous peoples of Mexico|=|Indians of Mexico
 OCLC-PUL|Indigenous peoples of North America|=|Indians of North America
 OCLC-PUL|Indigenous peoples of South America|=|Indians of South America
-OCLC-PUL|Indigenous peoples of the West Indies|=|Indians of the West Indies
-OCLC-PUL|Indigenous peoples of the Western Hemisphere|=|Indians
+OCLC-PUL|Indigenous peoples of the West Indies|=|Indigenous peoples -- West Indies
+OCLC-PUL|Indigenous peoples of the Western Hemisphere|=|Indians -- America
 OCLC-PUL|Undocumented immigrants|<->|Illegal immigration
 OCLC-PUL|Undocumented immigrants in literature|<->|Illegal immigration in literature
 #   U-Colorado Boulder mappings implied by https://www.colorado.edu/libraries/2018/08/19/inclusive-spaces-and-practices
@@ -160,8 +160,16 @@ OCLC-PAU|Immigrant detention centers|<->|Noncitizen detention centers
 #  Also CHECK to see if LCSH "Noncitizen detention centers" should be remapped
 OCLC-OBS|Immigrant detention centers|<->|Noncitizen detention centers
 #   The Online Books Page has declined a few LCSH heading updates
+OLBP|Ontario, Lake (N.Y. and Ont.)|=|America, Lake (N.Y. and Ont.)
+OLBP|Ontario, Lake, Region (N.Y. and Ont.)|=|America, Lake, Region (N.Y. and Ont.)
+OLBP|Ontario, Lake, Watershed (N.Y. and Ont.)|=|America, Lake, Watershed (N.Y. and Ont.)
 OLBP|Denali, Mount (Alaska)|=|McKinley, Mount (Alaska)
 OLBP|Mexico, Gulf of|=|America, Gulf of
+OLBP|Mexico, Gulf of, Watershed|=|America, Gulf of, Watershed
+# York university is reportedly also using the Lake Ontario headings
+OCLC-YOU|Ontario, Lake (N.Y. and Ont.)|=|America, Lake (N.Y. and Ont.)
+OCLC-YOU|Ontario, Lake, Region (N.Y. and Ont.)|=|America, Lake, Region (N.Y. and Ont.)
+OCLC-YOU|Ontario, Lake, Watershed (N.Y. and Ont.)|=|America, Lake, Watershed (N.Y. and Ont.)
 #   Central Oregon Community College uses Orbis-Cascade mappings
 OCLC-CEO inherits OCLC-OBS
 #   Chemeketa Community College uses Orbis-Cascade mappings
