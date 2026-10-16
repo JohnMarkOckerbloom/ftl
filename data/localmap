@@ -7,7 +7,7 @@
 #  or Library-code2 inherits Library-code1
 #   to reuse all the correspondences declared previously in Library-code1
 # In this file, non-ASCII characters are included literally (no entities)
-# Last updated 2024-01-31
+# Last updated 2026-09-24
 #   Duke mappings based on https://github.com/trln/marc-to-argot/blob/main/lib/translation_maps/shared/subject_heading_remappings.yaml and Jan 2024 LCSH - CHECK TO SEE IF OTHER LIBRARIES ARE USING THIS
 OCLC-NDD|African American LGBTQ people|=|African American sexual minorities
 OCLC-NDD|African American LGBTQ students|=|African American sexual minority students
@@ -147,7 +147,7 @@ OCLC-PUL|Indigenous peoples of Mexico|=|Indians of Mexico
 OCLC-PUL|Indigenous peoples of North America|=|Indians of North America
 OCLC-PUL|Indigenous peoples of South America|=|Indians of South America
 OCLC-PUL|Indigenous peoples of the West Indies|=|Indigenous peoples -- West Indies
-OCLC-PUL|Indigenous peoples of the Western Hemisphere|=|Indians -- America
+OCLC-PUL|Indigenous peoples of the Western Hemisphere|=|Indigenous peoples -- America
 OCLC-PUL|Undocumented immigrants|<->|Illegal immigration
 OCLC-PUL|Undocumented immigrants in literature|<->|Illegal immigration in literature
 #   U-Colorado Boulder mappings implied by https://www.colorado.edu/libraries/2018/08/19/inclusive-spaces-and-practices
@@ -166,6 +166,10 @@ OLBP|Ontario, Lake, Watershed (N.Y. and Ont.)|=|America, Lake, Watershed (N.Y. a
 OLBP|Denali, Mount (Alaska)|=|McKinley, Mount (Alaska)
 OLBP|Mexico, Gulf of|=|America, Gulf of
 OLBP|Mexico, Gulf of, Watershed|=|America, Gulf of, Watershed
+# National Library of Canada is reportedly using the Lake Ontario headings
+OCLC-NLC|Ontario, Lake (N.Y. and Ont.)|=|America, Lake (N.Y. and Ont.)
+OCLC-NLC|Ontario, Lake, Region (N.Y. and Ont.)|=|America, Lake, Region (N.Y. and Ont.)
+OCLC-NLC|Ontario, Lake, Watershed (N.Y. and Ont.)|=|America, Lake, Watershed (N.Y. and Ont.)
 # York university is reportedly also using the Lake Ontario headings
 OCLC-YOU|Ontario, Lake (N.Y. and Ont.)|=|America, Lake (N.Y. and Ont.)
 OCLC-YOU|Ontario, Lake, Region (N.Y. and Ont.)|=|America, Lake, Region (N.Y. and Ont.)

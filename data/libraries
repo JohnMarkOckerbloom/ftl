@@ -1213,6 +1213,15 @@ PROVINCE ON
 CATTYPE vega
 BASEURL https://kpl-kitch.ca.iiivega.com/
 
+# This is LAC's general collections search (keyword only)
+# They also have Aurora for published materials, but this gets first billing
+ID OCLC-NLC
+NAME Library and Archives Canada
+LOCATION Ottawa
+PROVINCE ON
+BASEURL https://recherche-collection-search.bac-lac.gc.ca
+KEYURL ${BASEURL}/eng/Home/Result?q_1=${ARG:SNK}&SEARCH_TYPE=SEARCH_BASIC&q_type_1=q
+
 ID OCLC-LONPL
 NAME London Public Library
 LOCATION London
